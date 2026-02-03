@@ -1,0 +1,53 @@
+---
+description: Rules for forensic image AI analysis workflow
+globs: "**/*.py"
+alwaysApply: true
+---
+
+# Forensic Image Analysis Workflow
+
+## When User Asks for AI Analysis of Suspect Images
+
+When the user asks to analyze suspect images or generate `ai_analysis_*.json`:
+
+1. **Locate the suspect folder**: Check `images/suspect_*` folders for the relevant raw folder
+2. **Read raw + suspect image pairs**: For each suspect image, read both:
+   - Original raw image from `images/raw_*/`
+   - Processed suspect image from `images/suspect_*/`
+3. **Analyze with forensic context**: Consider the technique used:
+   - `ms_480nm`, `ms_620nm`, `ms_850nm`: Multispectral for bruise detection
+   - `hemoglobin`: Blood/bruise degradation detection
+   - `als_415nm`, `als_450nm`: Alternative light source
+   - `retinex_ssr`, `retinex_msr`: See through semi-transparent materials
+   - `freq_filter`: Remove fabric patterns
+   - `cross_polarized`: Remove reflections
+   - `emboss`, `highpass`: Surface texture marks
+4. **Generate JSON file**: Create `ai_analysis_{raw_folder}.json` with structure:
+
+```json
+{
+  "raw_folder": "raw_X",
+  "generated_by": "Claude AI via Cursor",
+  "analyses": {
+    "image_base_name": {
+      "images/suspect_raw_X/image_technique.jpg": "Analysis text here"
+    }
+  }
+}
+```
+
+## Probability Levels
+
+- **ALTA**: Clear evidence of injury/mark/manipulation
+- **MÉDIA**: Suspicious patterns requiring further review
+- **BAIXA**: Normal patterns, likely false positive
+
+## Key Techniques for Under-Clothing Detection
+
+| Technique | Best For |
+|-----------|----------|
+| `ms_850nm` | Deep/old bruises through thin fabric |
+| `retinex_msr` | Visibility through semi-transparent material |
+| `freq_filter` | Remove repetitive fabric texture |
+| `cross_polarized` | Remove glare from shiny clothing |
+| `hemoglobin` | Detect blood even with partial obstruction |

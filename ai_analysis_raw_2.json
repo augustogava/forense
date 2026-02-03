@@ -1,0 +1,147 @@
+{
+  "raw_folder": "raw_2",
+  "generated_by": "Claude AI via Cursor",
+  "generated_at": "2026-02-02T15:45:00Z",
+  "analyses": {
+    "2b094030-751c-4c8b-90ae-82942aa3ef17": {
+      "images/suspect_raw_2/2b094030-751c-4c8b-90ae-82942aa3ef17_emboss.jpg": "Imagem mostra região abdominal/torso com mão visível. O filtro emboss revela textura da pele sem anomalias evidentes. A área parece ser de uma gestante baseada na curvatura. Não há marcas suspeitas visíveis nesta técnica. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/2b094030-751c-4c8b-90ae-82942aa3ef17_highpass.jpg": "Filtro passa-alta destaca bordas e texturas. Não há padrões de lesões ou marcas identificáveis na região do torso/abdômen. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/2b094030-751c-4c8b-90ae-82942aa3ef17_hsv_h.jpg": "Análise de matiz HSV da região abdominal. Sem variações cromáticas anormais que indiquem hematomas ou lesões subcutâneas. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/2b094030-751c-4c8b-90ae-82942aa3ef17_sobel_5x5.jpg": "Detecção de bordas Sobel 5x5 mostra contornos anatômicos normais. Não há linhas ou padrões que sugiram marcas de pressão ou trauma. Probabilidade de achado relevante: BAIXA."
+    },
+    "596f81f6-ecdc-4cd9-b4f0-5df42588dfe3": {
+      "images/suspect_raw_2/596f81f6-ecdc-4cd9-b4f0-5df42588dfe3_emboss.jpg": "Screenshot de celular mostrando vídeo. A imagem no vídeo parece mostrar região corporal clara. Qualidade reduzida por ser captura de tela. Pode conter informação relevante mas necessita análise do vídeo original. Probabilidade de achado relevante: MÉDIA.",
+      "images/suspect_raw_2/596f81f6-ecdc-4cd9-b4f0-5df42588dfe3_highpass.jpg": "Filtro passa-alta em screenshot de vídeo. Revela artefatos de compressão de vídeo. Conteúdo original pode requerer análise mais detalhada. Probabilidade de achado relevante: MÉDIA.",
+      "images/suspect_raw_2/596f81f6-ecdc-4cd9-b4f0-5df42588dfe3_negative.jpg": "Negativo do screenshot. Não revela informações adicionais além do que já é visível. Interface do aplicativo de mensagens visível. Probabilidade de achado relevante: BAIXA."
+    },
+    "6681db03-33ad-4e55-8b4e-8a7a8926bdb3": {
+      "images/suspect_raw_2/6681db03-33ad-4e55-8b4e-8a7a8926bdb3_emboss.jpg": "ATENÇÃO: Imagem mostra dedos apontando para região de pele com POSSÍVEIS MARCAS LINEARES visíveis. O filtro emboss realça texturas que parecem ser linhas/estrias na superfície da pele. As marcas têm padrão linear que pode indicar pressão ou contato com objeto. Necessita correlação com outras técnicas. Probabilidade de achado relevante: ALTA.",
+      "images/suspect_raw_2/6681db03-33ad-4e55-8b4e-8a7a8926bdb3_highpass.jpg": "Filtro passa-alta confirma presença de variações de textura na região indicada pelos dedos. As linhas são mais evidentes, sugerindo alteração na superfície da pele. Padrão consistente com marcas de pressão. Probabilidade de achado relevante: ALTA."
+    },
+    "86ba3358-fe7e-4076-bbe1-be3d536a283d": {
+      "images/suspect_raw_2/86ba3358-fe7e-4076-bbe1-be3d536a283d_emboss.jpg": "Imagem mostra região lombar/sacral de bebê ou criança pequena. O filtro emboss revela dobras naturais da pele e área da fralda. Textura de pele aparenta ser normal para a idade. Não há marcas evidentes de trauma ou lesão visíveis. Probabilidade de achado relevante: BAIXA."
+    },
+    "9d2c061e-c04d-444d-a9e6-0f72e3ec4c86": {
+      "images/suspect_raw_2/9d2c061e-c04d-444d-a9e6-0f72e3ec4c86_emboss.jpg": "Screenshot de celular mostrando reprodução de vídeo. Imagem mostra região corporal (aparentemente torso/costas). Filtro emboss aplicado sobre captura de tela. Recomenda-se análise do vídeo original para melhor avaliação. Probabilidade de achado relevante: MÉDIA.",
+      "images/suspect_raw_2/9d2c061e-c04d-444d-a9e6-0f72e3ec4c86_highpass.jpg": "Filtro passa-alta no screenshot. Revela principalmente artefatos de interface e compressão de vídeo. Conteúdo do vídeo parcialmente visível. Probabilidade de achado relevante: MÉDIA."
+    },
+    "a0868bc9-b9c8-4db9-8be0-8920e263ec0e": {
+      "images/suspect_raw_2/a0868bc9-b9c8-4db9-8be0-8920e263ec0e_emboss.jpg": "Imagem mostra região de costas/ombro com roupa parcialmente levantada. Pele exposta visível. Filtro emboss revela textura de pele com ALGUNS PONTOS ESCUROS que podem ser pintas ou pequenas marcas. Região do ombro/escápula aparece sem anomalias significativas. Probabilidade de achado relevante: MÉDIA.",
+      "images/suspect_raw_2/a0868bc9-b9c8-4db9-8be0-8920e263ec0e_sobel_5x5.jpg": "Detecção de bordas Sobel revela contornos anatômicos e textura do tecido da roupa. Bordas de possíveis lesões menores visíveis como pontos. Recomenda-se verificação com outras técnicas de realce. Probabilidade de achado relevante: MÉDIA."
+    },
+    "b903e43d-0d00-4ace-97b0-4e15154dd2ab": {
+      "images/suspect_raw_2/b903e43d-0d00-4ace-97b0-4e15154dd2ab_emboss.jpg": "ATENÇÃO: Imagem mostra dedos manipulando/apontando para região de pele com MARCAS LINEARES VISÍVEIS. O filtro emboss claramente realça um padrão de linhas/estrias na pele que não são naturais. Padrão consistente com marcas de pressão, arranhões ou contato com objeto. Esta é uma imagem de alta relevância forense. Probabilidade de achado relevante: ALTA.",
+      "images/suspect_raw_2/b903e43d-0d00-4ace-97b0-4e15154dd2ab_highpass.jpg": "Filtro passa-alta CONFIRMA padrão linear na pele. As marcas são claramente visíveis e têm orientação consistente. Aparenta ser marca de pressão ou contato recente. Probabilidade de achado relevante: ALTA."
+    },
+    "f0eb48f9-1dc5-47e8-99ac-371e325e0a4f": {
+      "images/suspect_raw_2/f0eb48f9-1dc5-47e8-99ac-371e325e0a4f_emboss.jpg": "Imagem mostra região de torso/braço parcialmente coberta. Filtro emboss revela textura de pele e tecido. Área visível da pele não apresenta marcas evidentes. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/f0eb48f9-1dc5-47e8-99ac-371e325e0a4f_highpass.jpg": "Filtro passa-alta destaca principalmente bordas do tecido. Área de pele exposta parece normal. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/f0eb48f9-1dc5-47e8-99ac-371e325e0a4f_laplacian_5.jpg": "Laplaciano 5 para detecção de detalhes finos. Não revela anomalias significativas na região de pele visível. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/f0eb48f9-1dc5-47e8-99ac-371e325e0a4f_sobel_5x5.jpg": "Sobel 5x5 mostra contornos anatômicos e do tecido. Sem marcas ou lesões detectadas. Probabilidade de achado relevante: BAIXA."
+    },
+    "fe2b23e9-ff44-41e6-8ca3-72a7d9d66f78": {
+      "images/suspect_raw_2/fe2b23e9-ff44-41e6-8ca3-72a7d9d66f78_emboss.jpg": "Imagem mostra região de costas/ombro com roupa levantada. Filtro emboss revela textura de pele com PEQUENOS PONTOS visíveis espalhados pela área. Podem ser pintas, poros ou pequenas lesões. Requer avaliação mais detalhada para determinar natureza. Probabilidade de achado relevante: MÉDIA.",
+      "images/suspect_raw_2/fe2b23e9-ff44-41e6-8ca3-72a7d9d66f78_hsv_h.jpg": "Análise HSV matiz mostra variação cromática uniforme na região das costas. Os pontos visíveis no emboss não apresentam diferença significativa de cor. Probabilidade de achado relevante: MÉDIA."
+    },
+    "image copy 10": {
+      "images/suspect_raw_2/image copy 10_emboss.jpg": "Foto de grupo em ambiente familiar/social. Múltiplas pessoas visíveis incluindo adultos e crianças. Não há relevância forense direta - parece ser foto de contexto/evento social. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/image copy 10_hemoglobin.jpg": "Análise de hemoglobina em foto de grupo. Técnica não aplicável para este tipo de imagem (grupo de pessoas vestidas em ambiente interno). Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/image copy 10_highpass.jpg": "Filtro passa-alta em foto de grupo. Revela detalhes de roupas e rostos. Sem relevância forense. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/image copy 10_lbp.jpg": "LBP em foto de grupo. Análise de textura não relevante para este contexto. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/image copy 10_sobel_5x5.jpg": "Detecção de bordas em foto de grupo. Sem relevância forense. Probabilidade de achado relevante: BAIXA."
+    },
+    "image copy 11": {
+      "images/suspect_raw_2/image copy 11_emboss.jpg": "Imagem de objeto/documento. Filtro emboss revela texturas de superfície. Contexto não determinado. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/image copy 11_highpass.jpg": "Filtro passa-alta. Sem achados relevantes. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/image copy 11_laplacian_5.jpg": "Laplaciano aplicado. Sem achados significativos. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/image copy 11_sobel_5x5.jpg": "Sobel 5x5. Detecção de bordas padrão. Probabilidade de achado relevante: BAIXA."
+    },
+    "image copy 12": {
+      "images/suspect_raw_2/image copy 12_emboss.jpg": "Imagem processada. Sem conteúdo de pele ou corpo visível que permita análise forense. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/image copy 12_highpass.jpg": "Filtro passa-alta. Sem achados relevantes. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/image copy 12_sobel_5x5.jpg": "Sobel 5x5 aplicado. Sem anomalias detectadas. Probabilidade de achado relevante: BAIXA."
+    },
+    "image copy 13": {
+      "images/suspect_raw_2/image copy 13_emboss.jpg": "Imagem processada. Análise não conclusiva sem contexto adicional. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/image copy 13_highpass.jpg": "Filtro passa-alta aplicado. Sem achados significativos. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/image copy 13_laplacian_5.jpg": "Laplaciano para detalhes finos. Sem anomalias. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/image copy 13_sobel_5x5.jpg": "Detecção de bordas Sobel. Normal. Probabilidade de achado relevante: BAIXA."
+    },
+    "image copy 14": {
+      "images/suspect_raw_2/image copy 14_emboss.jpg": "Imagem processada. Sem achados forenses relevantes. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/image copy 14_highpass.jpg": "Filtro passa-alta. Normal. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/image copy 14_sobel_5x5.jpg": "Sobel 5x5. Sem anomalias. Probabilidade de achado relevante: BAIXA."
+    },
+    "image copy 15": {
+      "images/suspect_raw_2/image copy 15_emboss.jpg": "Imagem processada. Análise forense não aplicável. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/image copy 15_highpass.jpg": "Filtro passa-alta. Sem achados. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/image copy 15_negative.jpg": "Negativo da imagem. Sem revelações adicionais. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/image copy 15_sobel_5x5.jpg": "Sobel 5x5. Normal. Probabilidade de achado relevante: BAIXA."
+    },
+    "image copy 16": {
+      "images/suspect_raw_2/image copy 16_emboss.jpg": "Imagem de objeto. Sem relevância forense direta para análise de lesões. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/image copy 16_hemoglobin.jpg": "Hemoglobina aplicado em imagem de objeto. Técnica não aplicável. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/image copy 16_highpass.jpg": "Passa-alta. Texturas de objeto. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/image copy 16_lbp.jpg": "LBP em objeto. Textura de material. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/image copy 16_negative.jpg": "Negativo. Sem achados. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/image copy 16_sobel_5x5.jpg": "Sobel 5x5. Bordas de objeto. Probabilidade de achado relevante: BAIXA."
+    },
+    "image copy 17": {
+      "images/suspect_raw_2/image copy 17_emboss.jpg": "Imagem de CARTEIRA/BOLSA de couro. Objeto pessoal, não corpo/pele. Pode ter relevância como evidência material mas não para análise de lesões. Probabilidade de achado relevante para lesões: BAIXA. Relevância como evidência material: MÉDIA.",
+      "images/suspect_raw_2/image copy 17_false_color.jpg": "Cores falsas aplicadas em carteira. Revela variações de material/textura do couro. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/image copy 17_hemoglobin.jpg": "Hemoglobina em objeto de couro. Técnica detecta variações que podem ser manchas no material. Requer análise física do objeto. Probabilidade de achado relevante: MÉDIA.",
+      "images/suspect_raw_2/image copy 17_highpass.jpg": "Passa-alta mostra costuras e textura do couro. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/image copy 17_lbp.jpg": "LBP revela padrão de textura do couro e costuras. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/image copy 17_negative.jpg": "Negativo da carteira. Sem achados adicionais. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/image copy 17_noise_suspect.png": "Análise de ruído. Imagem parece autêntica sem sinais de manipulação digital. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/image copy 17_retinex_msr.jpg": "Retinex MSR. Revela detalhes de iluminação no objeto. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/image copy 17_retinex_ssr.jpg": "Retinex SSR. Similar ao MSR. Probabilidade de achado relevante: BAIXA."
+    },
+    "image copy 18": {
+      "images/suspect_raw_2/image copy 18_emboss.jpg": "Imagem de CARTEIRA/BOLSA de couro sendo segurada por mão. Objeto pessoal visível. A mão que segura parece normal sem marcas visíveis. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/image copy 18_hemoglobin.jpg": "Hemoglobina mostra a mão com coloração normal (laranja/amarelo). Sem indicação de hematomas na mão visível. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/image copy 18_highpass.jpg": "Passa-alta. Texturas normais. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/image copy 18_lbp.jpg": "LBP. Padrões de textura normais. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/image copy 18_negative.jpg": "Negativo. Sem achados. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/image copy 18_retinex_msr.jpg": "Retinex MSR. Normal. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/image copy 18_retinex_ssr.jpg": "Retinex SSR. Normal. Probabilidade de achado relevante: BAIXA."
+    },
+    "image copy 19": {
+      "images/suspect_raw_2/image copy 19_emboss.jpg": "Imagem de SOLA DE SAPATO/BOTA. Padrão de banda de rodagem visível. Pode ter relevância como evidência para comparação de marcas/pegadas. Probabilidade de achado relevante para lesões: BAIXA. Relevância para comparação de marcas: ALTA.",
+      "images/suspect_raw_2/image copy 19_hemoglobin.jpg": "Hemoglobina em sola de sapato. Técnica pode revelar resíduos biológicos se presentes. Coloração sugere material uniforme. Probabilidade de achado relevante: MÉDIA.",
+      "images/suspect_raw_2/image copy 19_highpass.jpg": "Passa-alta revela detalhes do padrão da sola. Útil para comparação de marcas. Probabilidade de achado relevante para comparação: ALTA.",
+      "images/suspect_raw_2/image copy 19_lbp.jpg": "LBP mostra padrão detalhado da textura da sola. Probabilidade de achado relevante: MÉDIA.",
+      "images/suspect_raw_2/image copy 19_negative.jpg": "Negativo da sola. Padrão ainda visível. Probabilidade de achado relevante: BAIXA.",
+      "images/suspect_raw_2/image copy 19_retinex_ssr.jpg": "Retinex SSR. Detalhes de iluminação. Probabilidade de achado relevante: BAIXA."
+    },
+    "image copy 21": {
+      "images/suspect_raw_2/image copy 21_emboss.jpg": "Imagem de BOTA/CALÇADO. Objeto pessoal. Pode ter relevância como evidência material. Probabilidade de achado relevante para lesões: BAIXA.",
+      "images/suspect_raw_2/image copy 21_hemoglobin.jpg": "Hemoglobina em calçado. Pode revelar resíduos se presentes. Coloração aparenta uniforme. Probabilidade de achado relevante: BAIXA."
+    }
+  },
+  "summary": {
+    "total_images_analyzed": 75,
+    "high_relevance": [
+      "b903e43d-0d00-4ace-97b0-4e15154dd2ab - Marcas lineares visíveis na pele",
+      "6681db03-33ad-4e55-8b4e-8a7a8926bdb3 - Possíveis marcas lineares na pele"
+    ],
+    "medium_relevance": [
+      "a0868bc9-b9c8-4db9-8be0-8920e263ec0e - Pontos/marcas menores na pele",
+      "fe2b23e9-ff44-41e6-8ca3-72a7d9d66f78 - Pequenos pontos na região das costas",
+      "596f81f6-ecdc-4cd9-b4f0-5df42588dfe3 - Screenshot de vídeo requer análise original",
+      "9d2c061e-c04d-444d-a9e6-0f72e3ec4c86 - Screenshot de vídeo requer análise original",
+      "image copy 19 - Sola de sapato útil para comparação de marcas"
+    ],
+    "low_relevance": [
+      "Imagens de objetos (carteira, bota)",
+      "Foto de grupo familiar",
+      "Imagens sem conteúdo de pele visível"
+    ],
+    "recommendations": [
+      "Priorizar análise detalhada de b903e43d e 6681db03 - mostram possíveis marcas de pressão",
+      "Obter vídeos originais referenciados nos screenshots para análise completa",
+      "Correlacionar sola de sapato (image copy 19) com eventuais marcas encontradas",
+      "Verificar se pontos em fe2b23e9 e a0868bc9 são lesões ou características naturais da pele"
+    ]
+  }
+}

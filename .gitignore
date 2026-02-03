@@ -1,0 +1,34 @@
+# Ignore all image files in images folder and subfolders
+images/**/*.jpg
+images/**/*.jpeg
+images/**/*.png
+images/**/*.HEIC
+images/**/*.heic
+images/**/*.gif
+images/**/*.bmp
+images/**/*.tiff
+
+# Ignore variant folders entirely (only keep base folders: raw, suspect, overlays, processed)
+images/raw_*/
+images/suspect_*/
+images/overlays_*/
+images/processed_*/
+
+# Keep folder structure (don't ignore .gitkeep)
+!images/**/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.pyc
+
+# IDE
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
