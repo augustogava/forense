@@ -166,10 +166,18 @@ class ForensicImageProcessor:
 
         logger.debug(f"Completed processing: {base_name}")
 
-    def _save_image(self, image: np.ndarray, base_name: str, suffix: str) -> None:
-        """Save processed image with appropriate naming."""
+    def _output_exists(self, base_name: str, suffix: str) -> bool:
+        """Check if output file already exists."""
         output_path = self.output_dir / f"{base_name}_{suffix}.jpg"
+        return output_path.exists()
+
+    def _save_image(self, image: np.ndarray, base_name: str, suffix: str) -> bool:
+        """Save processed image with appropriate naming. Returns False if skipped."""
+        output_path = self.output_dir / f"{base_name}_{suffix}.jpg"
+        if output_path.exists():
+            return False
         cv2.imwrite(str(output_path), image, [cv2.IMWRITE_JPEG_QUALITY, 100])
+        return True
 
     # ========== CONTRAST ENHANCEMENT METHODS ==========
 
@@ -177,22 +185,29 @@ class ForensicImageProcessor:
         """Apply all contrast enhancement techniques."""
         logger.debug(f"Applying contrast enhancements to {base_name}")
 
-        clahe_result = self.apply_clahe(image)
-        self._save_image(clahe_result, base_name, "clahe")
+        if not self._output_exists(base_name, "clahe"):
+            clahe_result = self.apply_clahe(image)
+            self._save_image(clahe_result, base_name, "clahe")
 
         for clip_limit in [1.0, 4.0, 8.0]:
-            clahe_var = self.apply_clahe(image, clip_limit=clip_limit)
-            self._save_image(clahe_var, base_name, f"clahe_{clip_limit}")
+            suffix = f"clahe_{clip_limit}"
+            if not self._output_exists(base_name, suffix):
+                clahe_var = self.apply_clahe(image, clip_limit=clip_limit)
+                self._save_image(clahe_var, base_name, suffix)
 
-        clahe_16 = self.apply_clahe(image, clip_limit=2.0, tile_size=16)
-        self._save_image(clahe_16, base_name, "clahe_16x16")
+        if not self._output_exists(base_name, "clahe_16x16"):
+            clahe_16 = self.apply_clahe(image, clip_limit=2.0, tile_size=16)
+            self._save_image(clahe_16, base_name, "clahe_16x16")
 
-        hist_eq_result = self.apply_histogram_eq(image)
-        self._save_image(hist_eq_result, base_name, "histogram_eq")
+        if not self._output_exists(base_name, "histogram_eq"):
+            hist_eq_result = self.apply_histogram_eq(image)
+            self._save_image(hist_eq_result, base_name, "histogram_eq")
 
         for gamma in [0.2, 0.3, 0.4, 0.5, 0.7, 1.5, 2.0, 2.5, 3.0, 4.0]:
-            gamma_result = self.apply_gamma(image, gamma)
-            self._save_image(gamma_result, base_name, f"gamma_{gamma}")
+            suffix = f"gamma_{gamma}"
+            if not self._output_exists(base_name, suffix):
+                gamma_result = self.apply_gamma(image, gamma)
+                self._save_image(gamma_result, base_name, suffix)
 
     def apply_clahe(self, image: np.ndarray, clip_limit: float = 2.0, tile_size: int = 8) -> np.ndarray:
         """
@@ -262,8 +277,9 @@ class ForensicImageProcessor:
         """Apply all edge detection techniques."""
         logger.debug(f"Applying edge detection to {base_name}")
 
-        canny_result = self.apply_canny(image)
-        self._save_image(canny_result, base_name, "canny")
+        if not self._output_exists(base_name, "canny"):
+            canny_result = self.apply_canny(image)
+            self._save_image(canny_result, base_name, "canny")
 
         canny_configs = [
             ("canny_sensitive", 20, 80),
@@ -271,31 +287,42 @@ class ForensicImageProcessor:
             ("canny_strict", 100, 200),
         ]
         for suffix, low, high in canny_configs:
-            canny_var = self.apply_canny(image, low_threshold=low, high_threshold=high)
-            self._save_image(canny_var, base_name, suffix)
+            if not self._output_exists(base_name, suffix):
+                canny_var = self.apply_canny(image, low_threshold=low, high_threshold=high)
+                self._save_image(canny_var, base_name, suffix)
 
-        sobel_x, sobel_y, sobel_combined = self.apply_sobel(image)
-        self._save_image(sobel_x, base_name, "sobel_x")
-        self._save_image(sobel_y, base_name, "sobel_y")
-        self._save_image(sobel_combined, base_name, "sobel_combined")
+        need_sobel = not self._output_exists(base_name, "sobel_x") or \
+                     not self._output_exists(base_name, "sobel_y") or \
+                     not self._output_exists(base_name, "sobel_combined")
+        if need_sobel:
+            sobel_x, sobel_y, sobel_combined = self.apply_sobel(image)
+            self._save_image(sobel_x, base_name, "sobel_x")
+            self._save_image(sobel_y, base_name, "sobel_y")
+            self._save_image(sobel_combined, base_name, "sobel_combined")
 
-        sobel_x5, sobel_y5, sobel_combined5 = self.apply_sobel(image, ksize=5)
-        self._save_image(sobel_combined5, base_name, "sobel_5x5")
+        if not self._output_exists(base_name, "sobel_5x5"):
+            sobel_x5, sobel_y5, sobel_combined5 = self.apply_sobel(image, ksize=5)
+            self._save_image(sobel_combined5, base_name, "sobel_5x5")
 
-        laplacian_result = self.apply_laplacian(image)
-        self._save_image(laplacian_result, base_name, "laplacian")
+        if not self._output_exists(base_name, "laplacian"):
+            laplacian_result = self.apply_laplacian(image)
+            self._save_image(laplacian_result, base_name, "laplacian")
 
-        laplacian_5 = self.apply_laplacian(image, ksize=5)
-        self._save_image(laplacian_5, base_name, "laplacian_5")
+        if not self._output_exists(base_name, "laplacian_5"):
+            laplacian_5 = self.apply_laplacian(image, ksize=5)
+            self._save_image(laplacian_5, base_name, "laplacian_5")
 
-        gradient_result = self.apply_gradient_magnitude(image)
-        self._save_image(gradient_result, base_name, "gradient_magnitude")
+        if not self._output_exists(base_name, "gradient_magnitude"):
+            gradient_result = self.apply_gradient_magnitude(image)
+            self._save_image(gradient_result, base_name, "gradient_magnitude")
 
-        dog_result = self.apply_difference_of_gaussians(image)
-        self._save_image(dog_result, base_name, "dog")
+        if not self._output_exists(base_name, "dog"):
+            dog_result = self.apply_difference_of_gaussians(image)
+            self._save_image(dog_result, base_name, "dog")
 
-        morph_grad = self.apply_morphological_gradient(image)
-        self._save_image(morph_grad, base_name, "morph_gradient")
+        if not self._output_exists(base_name, "morph_gradient"):
+            morph_grad = self.apply_morphological_gradient(image)
+            self._save_image(morph_grad, base_name, "morph_gradient")
 
     def apply_canny(self, image: np.ndarray, low_threshold: int = 50, high_threshold: int = 150) -> np.ndarray:
         """
@@ -430,49 +457,73 @@ class ForensicImageProcessor:
         """Apply all color channel analysis techniques."""
         logger.debug(f"Applying color analysis to {base_name}")
 
-        red, green, blue = self.extract_rgb_channels(image)
-        self._save_image(red, base_name, "red_channel")
-        self._save_image(green, base_name, "green_channel")
-        self._save_image(blue, base_name, "blue_channel")
+        need_rgb = not self._output_exists(base_name, "red_channel") or \
+                   not self._output_exists(base_name, "green_channel") or \
+                   not self._output_exists(base_name, "blue_channel")
+        if need_rgb:
+            red, green, blue = self.extract_rgb_channels(image)
+            self._save_image(red, base_name, "red_channel")
+            self._save_image(green, base_name, "green_channel")
+            self._save_image(blue, base_name, "blue_channel")
 
-        ir_result = self.simulate_infrared(image)
-        self._save_image(ir_result, base_name, "ir_simulation")
+        if not self._output_exists(base_name, "ir_simulation"):
+            ir_result = self.simulate_infrared(image)
+            self._save_image(ir_result, base_name, "ir_simulation")
 
-        ms_480 = self.simulate_multispectral(image, wavelength=480)
-        self._save_image(ms_480, base_name, "ms_480nm")
+        if not self._output_exists(base_name, "ms_480nm"):
+            ms_480 = self.simulate_multispectral(image, wavelength=480)
+            self._save_image(ms_480, base_name, "ms_480nm")
 
-        ms_620 = self.simulate_multispectral(image, wavelength=620)
-        self._save_image(ms_620, base_name, "ms_620nm")
+        if not self._output_exists(base_name, "ms_620nm"):
+            ms_620 = self.simulate_multispectral(image, wavelength=620)
+            self._save_image(ms_620, base_name, "ms_620nm")
 
-        ms_850 = self.simulate_multispectral(image, wavelength=850)
-        self._save_image(ms_850, base_name, "ms_850nm")
+        if not self._output_exists(base_name, "ms_850nm"):
+            ms_850 = self.simulate_multispectral(image, wavelength=850)
+            self._save_image(ms_850, base_name, "ms_850nm")
 
-        hemo = self.enhance_hemoglobin(image)
-        self._save_image(hemo, base_name, "hemoglobin")
+        if not self._output_exists(base_name, "hemoglobin"):
+            hemo = self.enhance_hemoglobin(image)
+            self._save_image(hemo, base_name, "hemoglobin")
 
-        als_415 = self.simulate_als(image, wavelength=415)
-        self._save_image(als_415, base_name, "als_415nm")
+        if not self._output_exists(base_name, "als_415nm"):
+            als_415 = self.simulate_als(image, wavelength=415)
+            self._save_image(als_415, base_name, "als_415nm")
 
-        als_450 = self.simulate_als(image, wavelength=450)
-        self._save_image(als_450, base_name, "als_450nm")
+        if not self._output_exists(base_name, "als_450nm"):
+            als_450 = self.simulate_als(image, wavelength=450)
+            self._save_image(als_450, base_name, "als_450nm")
 
-        als_365 = self.simulate_als(image, wavelength=365)
-        self._save_image(als_365, base_name, "als_365nm")
+        if not self._output_exists(base_name, "als_365nm"):
+            als_365 = self.simulate_als(image, wavelength=365)
+            self._save_image(als_365, base_name, "als_365nm")
 
-        h, s, v = self.extract_hsv_channels(image)
-        self._save_image(h, base_name, "hsv_h")
-        self._save_image(s, base_name, "hsv_s")
-        self._save_image(v, base_name, "hsv_v")
+        need_hsv = not self._output_exists(base_name, "hsv_h") or \
+                   not self._output_exists(base_name, "hsv_s") or \
+                   not self._output_exists(base_name, "hsv_v")
+        if need_hsv:
+            h, s, v = self.extract_hsv_channels(image)
+            self._save_image(h, base_name, "hsv_h")
+            self._save_image(s, base_name, "hsv_s")
+            self._save_image(v, base_name, "hsv_v")
 
-        l_chan, a_chan, b_chan = self.extract_lab_channels(image)
-        self._save_image(l_chan, base_name, "lab_l")
-        self._save_image(a_chan, base_name, "lab_a")
-        self._save_image(b_chan, base_name, "lab_b")
+        need_lab = not self._output_exists(base_name, "lab_l") or \
+                   not self._output_exists(base_name, "lab_a") or \
+                   not self._output_exists(base_name, "lab_b")
+        if need_lab:
+            l_chan, a_chan, b_chan = self.extract_lab_channels(image)
+            self._save_image(l_chan, base_name, "lab_l")
+            self._save_image(a_chan, base_name, "lab_a")
+            self._save_image(b_chan, base_name, "lab_b")
 
-        y_chan, cr_chan, cb_chan = self.extract_ycrcb_channels(image)
-        self._save_image(y_chan, base_name, "ycrcb_y")
-        self._save_image(cr_chan, base_name, "ycrcb_cr")
-        self._save_image(cb_chan, base_name, "ycrcb_cb")
+        need_ycrcb = not self._output_exists(base_name, "ycrcb_y") or \
+                     not self._output_exists(base_name, "ycrcb_cr") or \
+                     not self._output_exists(base_name, "ycrcb_cb")
+        if need_ycrcb:
+            y_chan, cr_chan, cb_chan = self.extract_ycrcb_channels(image)
+            self._save_image(y_chan, base_name, "ycrcb_y")
+            self._save_image(cr_chan, base_name, "ycrcb_cr")
+            self._save_image(cb_chan, base_name, "ycrcb_cb")
 
     def extract_rgb_channels(self, image: np.ndarray) -> Tuple[np.ndarray, np.ndarray, np.ndarray]:
         """
@@ -661,17 +712,21 @@ class ForensicImageProcessor:
         """Apply all detail enhancement techniques."""
         logger.debug(f"Applying detail enhancement to {base_name}")
 
-        unsharp_result = self.apply_unsharp_mask(image)
-        self._save_image(unsharp_result, base_name, "unsharp")
+        if not self._output_exists(base_name, "unsharp"):
+            unsharp_result = self.apply_unsharp_mask(image)
+            self._save_image(unsharp_result, base_name, "unsharp")
 
-        highpass_result = self.apply_highpass(image)
-        self._save_image(highpass_result, base_name, "highpass")
+        if not self._output_exists(base_name, "highpass"):
+            highpass_result = self.apply_highpass(image)
+            self._save_image(highpass_result, base_name, "highpass")
 
-        emboss_result = self.apply_emboss(image)
-        self._save_image(emboss_result, base_name, "emboss")
+        if not self._output_exists(base_name, "emboss"):
+            emboss_result = self.apply_emboss(image)
+            self._save_image(emboss_result, base_name, "emboss")
 
-        median_result = self.apply_median_filter(image)
-        self._save_image(median_result, base_name, "median")
+        if not self._output_exists(base_name, "median"):
+            median_result = self.apply_median_filter(image)
+            self._save_image(median_result, base_name, "median")
 
     def apply_unsharp_mask(self, image: np.ndarray) -> np.ndarray:
         """
@@ -732,41 +787,53 @@ class ForensicImageProcessor:
         """Apply all specialized forensic filters."""
         logger.debug(f"Applying specialized filters to {base_name}")
 
-        negative_result = self.apply_negative(image)
-        self._save_image(negative_result, base_name, "negative")
+        if not self._output_exists(base_name, "negative"):
+            negative_result = self.apply_negative(image)
+            self._save_image(negative_result, base_name, "negative")
 
-        false_color_result = self.apply_false_color(image)
-        self._save_image(false_color_result, base_name, "false_color")
+        if not self._output_exists(base_name, "false_color"):
+            false_color_result = self.apply_false_color(image)
+            self._save_image(false_color_result, base_name, "false_color")
 
-        skin_result = self.enhance_skin_regions(image)
-        self._save_image(skin_result, base_name, "skin_enhanced")
+        if not self._output_exists(base_name, "skin_enhanced"):
+            skin_result = self.enhance_skin_regions(image)
+            self._save_image(skin_result, base_name, "skin_enhanced")
 
-        bilateral_result = self.apply_bilateral(image)
-        self._save_image(bilateral_result, base_name, "bilateral")
+        if not self._output_exists(base_name, "bilateral"):
+            bilateral_result = self.apply_bilateral(image)
+            self._save_image(bilateral_result, base_name, "bilateral")
 
-        lbp_result = self.apply_lbp(image)
-        self._save_image(lbp_result, base_name, "lbp")
+        if not self._output_exists(base_name, "lbp"):
+            lbp_result = self.apply_lbp(image)
+            self._save_image(lbp_result, base_name, "lbp")
 
-        dct_result = self.apply_dct_blocks(image)
-        self._save_image(dct_result, base_name, "dct_blocks")
+        if not self._output_exists(base_name, "dct_blocks"):
+            dct_result = self.apply_dct_blocks(image)
+            self._save_image(dct_result, base_name, "dct_blocks")
 
-        wavelet_result = self.apply_wavelet(image)
-        self._save_image(wavelet_result, base_name, "wavelet")
+        if not self._output_exists(base_name, "wavelet"):
+            wavelet_result = self.apply_wavelet(image)
+            self._save_image(wavelet_result, base_name, "wavelet")
 
-        ssr_result = self.apply_single_scale_retinex(image)
-        self._save_image(ssr_result, base_name, "retinex_ssr")
+        if not self._output_exists(base_name, "retinex_ssr"):
+            ssr_result = self.apply_single_scale_retinex(image)
+            self._save_image(ssr_result, base_name, "retinex_ssr")
 
-        msr_result = self.apply_multi_scale_retinex(image)
-        self._save_image(msr_result, base_name, "retinex_msr")
+        if not self._output_exists(base_name, "retinex_msr"):
+            msr_result = self.apply_multi_scale_retinex(image)
+            self._save_image(msr_result, base_name, "retinex_msr")
 
-        freq_result = self.apply_frequency_filter(image)
-        self._save_image(freq_result, base_name, "freq_filter")
+        if not self._output_exists(base_name, "freq_filter"):
+            freq_result = self.apply_frequency_filter(image)
+            self._save_image(freq_result, base_name, "freq_filter")
 
-        freq_high = self.apply_frequency_filter(image, filter_type="high")
-        self._save_image(freq_high, base_name, "freq_highpass")
+        if not self._output_exists(base_name, "freq_highpass"):
+            freq_high = self.apply_frequency_filter(image, filter_type="high")
+            self._save_image(freq_high, base_name, "freq_highpass")
 
-        cross_pol = self.simulate_cross_polarization(image)
-        self._save_image(cross_pol, base_name, "cross_polarized")
+        if not self._output_exists(base_name, "cross_polarized"):
+            cross_pol = self.simulate_cross_polarization(image)
+            self._save_image(cross_pol, base_name, "cross_polarized")
 
     def apply_negative(self, image: np.ndarray) -> np.ndarray:
         """
