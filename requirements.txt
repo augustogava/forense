@@ -4,6 +4,13 @@ scipy>=1.11.0
 scikit-image>=0.21.0
 Pillow>=10.0.0
 pillow-heif
+# Audio forensic processing:
+librosa>=0.10.0
+soundfile>=0.12.0
+noisereduce>=3.0.0
+pydub>=0.25.0
+scipy>=1.11.0
+matplotlib>=3.7.0
 imageio-ffmpeg>=0.4.0
 noisereduce>=3.0.0
 # Opcional para análise de IA via API:
