@@ -176,7 +176,7 @@ class ForensicImageProcessor:
         output_path = self.output_dir / f"{base_name}_{suffix}.jpg"
         if output_path.exists():
             return False
-        cv2.imwrite(str(output_path), image, [cv2.IMWRITE_JPEG_QUALITY, 100])
+        cv2.imwrite(str(output_path), image, [cv2.IMWRITE_JPEG_QUALITY, 95])
         return True
 
     # ========== CONTRAST ENHANCEMENT METHODS ==========
