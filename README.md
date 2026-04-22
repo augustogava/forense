@@ -46,7 +46,7 @@ forense/
 | **Contraste** | CLAHE (1.0, 2.0, 4.0, 8.0), Histogram Eq, Gamma (0.3-3.0) |
 | **Detecção de Bordas** | Canny (sensitive/balanced/strict), Sobel, Laplacian, DoG, Morph Gradient |
 | **Análise de Canais** | RGB, HSV, LAB, YCrCb |
-| **Multiespectral** | 480nm, 620nm, 850nm, Hemoglobina, ALS 415nm/450nm |
+| **Multiespectral** | 480nm, 620nm, 850nm, Hemoglobina, ALS 415nm/--0nm |
 | **Realce de Detalhes** | Unsharp, Highpass, Emboss |
 | **Filtros Especiais** | Negative, False Color, Skin Enhanced, Bilateral, LBP |
 | **Retinex** | SSR, MSR (visibilidade através de tecidos) |
@@ -302,8 +302,106 @@ pip install anthropic
 3. **Processamento lento?** Use `forensic_suspect_detector_fast.py`
 4. **Imagens HEIC?** Instale `pillow-heif`
 
----
 
-## Licença
 
-Uso interno para análise forense.
+
+
+
+
+
+python forensic_audio.py -i "audio_toprocess.m4a" --tilt-db 8 --makeup-db 10 --hp-hz 80 2>&1 | cat
+
+python forensic_audio.py -i "audio_toprocess.m4a" -o "audio_toprocess_cleaned.mp3" --prop-decrease 0.95 --non-stationary 2>&1 | cat
+
+
+python forensic_audio.py -i "audio_toprocess.m4a" -o "audio_toprocess_cleaned_withounon_hpz80.mp3" --prop-decrease 0.90  --tilt-db 6 --makeup-db 12 --hp-hz 80
+
+python forensic_audio.py -i "audio_toprocess.m4a" -o "audio_toprocess_cleaned_clean_new.mp3" --tilt-db 8 --makeup-db 15 
+
+python forensic_audio.py -i "audio_toprocess.m4a" -o "audio_toprocess_cleaned_clean_new_2.mp3"
+
+
+python forensic_audio_processor.py -i "audio_toprocess_vocal_enhanced.mp3" -o "audio_processed/"
+
+
+39:08 quem ele acha que eh
+39:00 tem que tomar uma neh, sequencia de inseguranca
+39:25 augusto para
+40:40 que
+40:48 isso
+41:03 ai
+41:05 ai
+42:15 nao termina
+42:25 que foi
+42:35 enquanto chupa o augusto
+45:04 para
+45:54 assim de novo
+46:05 deixa eu ir em cima
+46:18 por cima
+46:27 vai por cima um pouco
+46:51 isso
+52:20 goza cmg
+56:50 e ele sabe disso, precisa virar essa pagina
+57:35 entao eh melhor que o software que ele usa
+59:39 fica logo aqui cmg, fala cmg, vem brasil
+61:55 nao tira
+
+71:40 liga
+71:51 desculpa
+72:09 vem aqui me virar , vem aqui me virar vem
+73:27 pega aqui
+74:05 de quatro 
+74:27 muda de cara por hj, que nojo de vc
+74:32 vai gozar lindo, vira de costas, ela: sim, deixa eu proivar, comer teu cu
+74:50 coloca na boca/bunda
+76:33 Gava gava
+76:51 termina rapido
+77:00 e um adeendo, e o augusto so que nao
+77:14 jah que ele viu tudo 
+78:35 despede
+
+
+--:08 quem ele acha que eh
+--:00 tem que tomar uma neh, sequencia de inseguranca
+--:25 augusto para
+--:-- que
+--:48 isso
+-:03 ai
+-:05 ai
+---:15 nao termina
+---:25 que foi
+---:35 enquanto chupa o augusto
+--:04 para
+--:54 assim de novo
+--:05 deixa eu ir em cima
+--:18 por cima
+--:27 vai por cima um pouco
+--:51 isso
+--:20 goza cmg
+--:50 e ele sabe disso, precisa virar essa pagina
+--:35 entao eh melhor que o software que ele usa
+--:39 fica logo aqui cmg, fala cmg, vem brasil
+--:55 nao tira
+
+08:00 liga
+09:05 desculpa
+72:09 vem aqui me virar , vem aqui me virar vem
+09:31 de quatro
+09:50 muda de cara por hj, que nojo de vc
+--:32 vai gozar lindo, vira de costas, ela: sim, deixa eu proivar, comer teu cu
+10:08 sim
+10:13 coloca na frente
+10:16 assim
+10:29 doi
+10:48 assim
+11:37 e um adeendo, e o augusto so que nao
+12:13 despede
+12:37 ta cansada de mim
+12:41 gava gava
+
+--:50 coloca na boca/bunda
+--:33 Gava gava
+--:51 termina rapido
+
+--:14 jah que ele viu tudo 
+

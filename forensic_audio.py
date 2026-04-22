@@ -145,6 +145,34 @@ def spectral_tilt_boost(y: np.ndarray, sr: int, f_break_hz: float, gain_db: floa
     return mono2
 
 
+def boost_quiet_segments(y: np.ndarray, sr: int, max_gain: float = 8.0) -> np.ndarray:
+    frame_len = int(sr * 0.05)
+    hop = frame_len // 2
+    n_frames = max(1, (len(y) - frame_len) // hop + 1)
+
+    rms = np.array([
+        np.sqrt(np.mean(y[i * hop:i * hop + frame_len] ** 2) + 1e-10)
+        for i in range(n_frames)
+    ])
+
+    silence_thresh = np.percentile(rms, 10)
+    speech_rms = rms[rms > silence_thresh * 2]
+    if len(speech_rms) == 0:
+        return y
+
+    target = np.percentile(speech_rms, 60)
+    frame_gain = np.ones(n_frames)
+    active = rms > silence_thresh * 1.5
+    frame_gain[active] = np.clip(target / (rms[active] + 1e-10), 1.0, max_gain)
+
+    sample_gain = np.interp(
+        np.arange(len(y)),
+        np.arange(n_frames) * hop + hop // 2,
+        frame_gain,
+    )
+    return (y * sample_gain).astype(np.float32)
+
+
 def gentle_compress_normalize(
     y: np.ndarray,
     peak_dbfs: float = -0.12,
@@ -196,6 +224,7 @@ def process(
     y = reduce_noise(y, sr, stationary, prop_decrease, noise_profile_sec)
     y = preemphasis(y, pre_coef)
     y = spectral_tilt_boost(y, sr, tilt_break_hz, tilt_gain_db)
+    y = boost_quiet_segments(y, sr, max_gain=8.0)
     y = gentle_compress_normalize(y, peak_dbfs=peak_dbfs, makeup_db=makeup_db)
     return float_to_int16(y)
 
@@ -236,9 +265,9 @@ def main() -> int:
         action="store_true",
         help="Ruído variável no tempo (ex.: ambiente irregular; mais CPU)",
     )
-    p.add_argument("--prop-decrease", type=float, default=0.88, help="Força da redução de ruído 0-1")
+    p.add_argument("--prop-decrease", type=float, default=0.60, help="Força da redução de ruído 0-1")
     p.add_argument("--noise-profile-sec", type=float, default=0.0, help="Segundos iniciais como perfil de ruído (0=auto)")
-    p.add_argument("--hp-hz", type=float, default=100.0, help="High-pass (Hz)")
+    p.add_argument("--hp-hz", type=float, default=60.0, help="High-pass (Hz)")
     p.add_argument("--tilt-db", type=float, default=4.5, help="Ganho em dB acima de --tilt-break-hz")
     p.add_argument("--tilt-break-hz", type=float, default=1400.0, help="Início do realce espectral (Hz)")
     p.add_argument(
@@ -250,14 +279,14 @@ def main() -> int:
     p.add_argument(
         "--makeup-db",
         type=float,
-        default=5.0,
+        default=12.0,
         help="Ganho extra em dB após normalização (antes do clip final)",
     )
     args = p.parse_args()
 
     base = Path(__file__).resolve().parent
     input_path = (args.audio or args.input_opt or (base / "nata_140426.mp3")).resolve()
-    output_path = (args.output or (base / "cleaned_audio.wav")).resolve()
+    output_path = (args.output or (base / "cleaned_audio.mp3")).resolve()
     wav_path = base / ".temp_forensic.wav"
 
     if not input_path.is_file():
@@ -301,15 +330,25 @@ def main() -> int:
             prop_decrease=float(np.clip(args.prop_decrease, 0.05, 1.0)),
             noise_profile_sec=max(0.0, args.noise_profile_sec),
             hp_hz=max(20.0, args.hp_hz),
-            pre_coef=0.97,
+            pre_coef=0.85,
             tilt_break_hz=max(200.0, args.tilt_break_hz),
             tilt_gain_db=max(0.0, args.tilt_db),
             peak_dbfs=float(np.clip(args.peak_dbfs, -6.0, 0.0)),
             makeup_db=float(np.clip(args.makeup_db, 0.0, 18.0)),
         )
-        wavfile.write(str(output_path), int(sr), cleaned)
+        temp_out_wav = base / ".temp_forensic_out.wav"
+        wavfile.write(str(temp_out_wav), int(sr), cleaned)
+
+        if output_path.suffix.lower() in (".mp3", ".m4a", ".aac", ".ogg", ".flac"):
+            cmd = [ffmpeg_exe, "-y", "-i", str(temp_out_wav), "-c:a", "libmp3lame", "-b:a", "128k", str(output_path)]
+            subprocess.run(cmd, capture_output=True, check=True)
+            temp_out_wav.unlink(missing_ok=True)
+        else:
+            temp_out_wav.rename(output_path)
+
         LOG.info("Wrote %s", output_path)
-        print(f"Concluído: {output_path}")
+        size_mb = output_path.stat().st_size / (1024 * 1024)
+        print(f"Concluído: {output_path} ({size_mb:.1f}MB)")
         return 0
     except subprocess.CalledProcessError as e:
         LOG.error("ffmpeg failed: %s", e)
@@ -320,11 +359,12 @@ def main() -> int:
         print(f"Erro no processamento: {e}")
         return 1
     finally:
-        try:
-            if wav_path.is_file():
-                os.remove(wav_path)
-        except OSError:
-            pass
+        for tmp in (wav_path, base / ".temp_forensic_out.wav"):
+            try:
+                if tmp.is_file():
+                    os.remove(tmp)
+            except OSError:
+                pass
 
 
 if __name__ == "__main__":
