@@ -237,7 +237,7 @@ class ForensicAudioProcessor:
         y = self._highpass(y, sr, 60)
         y = nr.reduce_noise(y=y, sr=sr, stationary=False, prop_decrease=0.80, time_constant_s=2.0, n_fft=2048)
         y = self._multiband_denoise(y, sr)
-        y = self._loudness_norm(y, target_db=-14)
+        y = self._loudness_norm(y, target_db=-8)
         y = self._peak_norm(y)
         return y
 
@@ -249,7 +249,7 @@ class ForensicAudioProcessor:
         y = self._vocal_enhance(y, sr)
         y = self._formant_boost(y, sr)
         y = self._dynamic_compress(y, sr)
-        y = self._loudness_norm(y, target_db=-12)
+        y = self._loudness_norm(y, target_db=-8)
         y = self._peak_norm(y)
         return y
 
@@ -260,9 +260,9 @@ class ForensicAudioProcessor:
         y = nr.reduce_noise(y=y, sr=sr, stationary=False, prop_decrease=0.90, thresh_n_mult_nonstationary=1.5, sigmoid_slope_nonstationary=15, n_fft=2048)
         y = nr.reduce_noise(y=y, sr=sr, stationary=True, prop_decrease=0.7, n_std_thresh_stationary=1.2, n_fft=2048)
         y = self._whisper_spectral_boost(y, sr)
-        y = self._boost_quiet_segments(y, sr, max_gain=8.0)
+        y = self._boost_quiet_segments(y, sr, max_gain=10.0)
         y = self._dynamic_compress(y, sr)
-        y = self._loudness_norm(y, target_db=-10)
+        y = self._loudness_norm(y, target_db=-6)
         y = self._peak_norm(y)
         return y
 
@@ -274,9 +274,9 @@ class ForensicAudioProcessor:
         y = self._wiener_filter(y, sr)
         y = self._vocal_enhance(y, sr)
         y = self._formant_boost(y, sr)
-        y = self._boost_quiet_segments(y, sr, max_gain=6.0)
+        y = self._boost_quiet_segments(y, sr, max_gain=8.0)
         y = self._dynamic_compress(y, sr)
-        y = self._loudness_norm(y, target_db=-12)
+        y = self._loudness_norm(y, target_db=-8)
         y = self._peak_norm(y)
         return y
 
@@ -497,11 +497,11 @@ class ForensicAudioProcessor:
 
         return self._peak_norm(y * sample_gain)
 
-    def _loudness_norm(self, y: np.ndarray, target_db: float = -14) -> np.ndarray:
+    def _loudness_norm(self, y: np.ndarray, target_db: float = -8) -> np.ndarray:
         target_rms = 10 ** (target_db / 20)
         current_rms = np.sqrt(np.mean(y ** 2) + 1e-10)
         if current_rms > 0:
-            gain = min(target_rms / current_rms, 20.0)
+            gain = min(target_rms / current_rms, 40.0)
             return np.clip(y * gain, -1.0, 1.0)
         return y
 
