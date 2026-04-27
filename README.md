@@ -318,10 +318,10 @@ python forensic_audio.py -i "audio_toprocess.m4a" -o "audio_toprocess_cleaned_wi
 
 python forensic_audio.py -i "audio_toprocess.m4a" -o "audio_toprocess_cleaned_clean_new.mp3" --tilt-db 8 --makeup-db 15 
 
-python forensic_audio.py -i "audio_toprocess.m4a" -o "audio_toprocess_cleaned_clean_new_2.mp3"
+python forensic_audio.py -i "New_Recording_26_2504madru_part001.mp3" -o "audio_toprocess_cleaned_clean_new_2.mp3"
 
 
-python forensic_audio_processor.py -i "audio_toprocess_vocal_enhanced.mp3" -o "audio_processed/"
+python forensic_audio_processor.py -i "New_Recording_26_2504madru_part001.mp3" -o "audio_processed/"
 
 
 39:08 quem ele acha que eh
