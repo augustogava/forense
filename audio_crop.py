@@ -4,18 +4,33 @@ Audio Crop Tool - Recorta arquivos de áudio por tempo inicial e final.
 """
 
 import argparse
+import subprocess
 import sys
 import logging
 from pathlib import Path
 
-import librosa
-import soundfile as sf
+import imageio_ffmpeg
 
 logging.basicConfig(
     level=logging.DEBUG,
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 logger = logging.getLogger(__name__)
+
+FFMPEG_EXE = imageio_ffmpeg.get_ffmpeg_exe()
+
+
+def _get_duration(input_path: str) -> float:
+    import re
+    cmd = [FFMPEG_EXE, "-hide_banner", "-i", input_path]
+    result = subprocess.run(cmd, capture_output=True, text=True, check=False)
+    info = (result.stderr or "") + (result.stdout or "")
+    m = re.search(r"Duration:\s*(\d+):(\d+):(\d+\.?\d*)", info)
+    if m:
+        hh, mm, ss = int(m.group(1)), int(m.group(2)), float(m.group(3))
+        return hh * 3600 + mm * 60 + ss
+    logger.error(f"Could not determine duration: {info.strip()}")
+    sys.exit(1)
 
 
 def crop_audio(input_path: str, output_path: str, start_sec: float, end_sec: float) -> None:
@@ -24,11 +39,8 @@ def crop_audio(input_path: str, output_path: str, start_sec: float, end_sec: flo
         logger.error(f"Arquivo não encontrado: {input_path}")
         sys.exit(1)
 
-    logger.debug(f"Loading audio file: {input_path}")
-    y, sr = librosa.load(input_path, sr=None, mono=False)
-
-    total_duration = librosa.get_duration(y=y, sr=sr)
-    logger.debug(f"Audio loaded - sample_rate={sr}, duration={total_duration:.2f}s")
+    total_duration = _get_duration(input_path)
+    logger.debug(f"Audio loaded - duration={total_duration:.2f}s")
 
     if start_sec < 0:
         logger.error("Tempo inicial não pode ser negativo.")
@@ -42,27 +54,29 @@ def crop_audio(input_path: str, output_path: str, start_sec: float, end_sec: flo
         logger.error(f"Tempo inicial ({start_sec}s) deve ser menor que o tempo final ({end_sec}s).")
         sys.exit(1)
 
-    start_sample = int(start_sec * sr)
-    end_sample = int(end_sec * sr)
-
-    if y.ndim == 1:
-        y_cropped = y[start_sample:end_sample]
-    else:
-        y_cropped = y[:, start_sample:end_sample]
-
     output_file = Path(output_path)
     output_file.parent.mkdir(parents=True, exist_ok=True)
 
-    logger.debug(f"Writing cropped audio: {output_path} ({start_sec}s - {end_sec}s)")
-    sf.write(output_path, y_cropped.T if y_cropped.ndim > 1 else y_cropped, sr)
+    duration = end_sec - start_sec
+    cmd = [
+        FFMPEG_EXE, "-y",
+        "-ss", str(start_sec),
+        "-i", input_path,
+        "-t", str(duration),
+        "-c", "copy",
+        "-avoid_negative_ts", "make_zero",
+        output_path
+    ]
+    logger.debug(f"Running ffmpeg stream copy: {start_sec}s - {end_sec}s")
+    result = subprocess.run(cmd, capture_output=True, text=True)
+    if result.returncode != 0:
+        logger.error(f"ffmpeg failed: {result.stderr.strip()}")
+        sys.exit(1)
 
-    cropped_duration = end_sec - start_sec
-    logger.info(f"Áudio recortado com sucesso: {cropped_duration:.2f}s salvo em {output_path}")
+    logger.info(f"Áudio recortado com sucesso: {duration:.2f}s salvo em {output_path}")
 
 
 def split_audio(input_path: str, interval_min: float, output_dir: str = None) -> None:
-    from pydub import AudioSegment
-
     input_file = Path(input_path)
     if not input_file.exists():
         logger.error(f"Arquivo não encontrado: {input_path}")
@@ -74,31 +88,35 @@ def split_audio(input_path: str, interval_min: float, output_dir: str = None) ->
     out_path = Path(output_dir)
     out_path.mkdir(parents=True, exist_ok=True)
 
-    ext = input_file.suffix.lower().lstrip(".")
-    format_map = {"m4a": "m4a", "mp3": "mp3", "wav": "wav", "ogg": "ogg", "flac": "flac"}
-    fmt = format_map.get(ext, ext)
-
-    logger.debug(f"Loading audio file: {input_path} (format={fmt})")
-    audio = AudioSegment.from_file(str(input_file), format=fmt)
-
-    total_ms = len(audio)
-    total_sec = total_ms / 1000.0
-    interval_ms = int(interval_min * 60 * 1000)
-    logger.info(f"Duração total: {total_sec:.2f}s | Intervalo: {interval_min} min ({interval_ms}ms)")
+    ext = input_file.suffix.lower()
+    total_duration = _get_duration(input_path)
+    interval_sec = interval_min * 60
+    logger.info(f"Duração total: {total_duration:.2f}s | Intervalo: {interval_min} min ({interval_sec:.0f}s)")
 
     part = 1
-    start_ms = 0
-    while start_ms < total_ms:
-        end_ms = min(start_ms + interval_ms, total_ms)
-        chunk = audio[start_ms:end_ms]
-
-        out_name = f"{input_file.stem}_part{part:03d}.mp3"
+    start_sec = 0.0
+    while start_sec < total_duration:
+        seg_duration = min(interval_sec, total_duration - start_sec)
+        out_name = f"{input_file.stem}_part{part:03d}{ext}"
         out_file = out_path / out_name
 
-        chunk.export(str(out_file), format="mp3", bitrate="192k")
-        logger.info(f"Parte {part}: {start_ms/1000:.0f}s - {end_ms/1000:.0f}s -> {out_file}")
+        cmd = [
+            FFMPEG_EXE, "-y",
+            "-ss", str(start_sec),
+            "-i", input_path,
+            "-t", str(seg_duration),
+            "-c", "copy",
+            "-avoid_negative_ts", "make_zero",
+            str(out_file)
+        ]
+        result = subprocess.run(cmd, capture_output=True, text=True)
+        if result.returncode != 0:
+            logger.error(f"ffmpeg failed on part {part}: {result.stderr.strip()}")
+            sys.exit(1)
 
-        start_ms = end_ms
+        logger.info(f"Parte {part}: {start_sec:.0f}s - {start_sec + seg_duration:.0f}s -> {out_file}")
+
+        start_sec += interval_sec
         part += 1
 
     logger.info(f"Split concluído: {part - 1} partes em {out_path}")

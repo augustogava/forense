@@ -116,7 +116,7 @@ class ForensicAudioProcessor:
         sf.write(str(temp_wav), audio, sr, subtype='PCM_16')
         try:
             ffmpeg = _ffmpeg_path or "ffmpeg"
-            cmd = [ffmpeg, "-y", "-i", str(temp_wav), "-c:a", "libmp3lame", "-b:a", "128k", str(output_path)]
+            cmd = [ffmpeg, "-y", "-i", str(temp_wav), "-c:a", "libmp3lame", "-b:a", "192k", str(output_path)]
             subprocess.run(cmd, capture_output=True, check=True)
         except Exception as e:
             logger.error(f"MP3 encoding failed, keeping WAV: {e}")

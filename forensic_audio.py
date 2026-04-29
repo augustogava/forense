@@ -339,8 +339,16 @@ def main() -> int:
         temp_out_wav = base / ".temp_forensic_out.wav"
         wavfile.write(str(temp_out_wav), int(sr), cleaned)
 
-        if output_path.suffix.lower() in (".mp3", ".m4a", ".aac", ".ogg", ".flac"):
-            cmd = [ffmpeg_exe, "-y", "-i", str(temp_out_wav), "-c:a", "libmp3lame", "-b:a", "128k", str(output_path)]
+        out_ext = output_path.suffix.lower()
+        if out_ext in (".mp3", ".m4a", ".aac", ".ogg", ".flac"):
+            codec_map = {
+                ".mp3":  ["-c:a", "libmp3lame", "-b:a", "192k"],
+                ".m4a":  ["-c:a", "aac", "-b:a", "192k"],
+                ".aac":  ["-c:a", "aac", "-b:a", "192k"],
+                ".ogg":  ["-c:a", "libvorbis", "-q:a", "5"],
+                ".flac": ["-c:a", "flac"],
+            }
+            cmd = [ffmpeg_exe, "-y", "-i", str(temp_out_wav)] + codec_map[out_ext] + [str(output_path)]
             subprocess.run(cmd, capture_output=True, check=True)
             temp_out_wav.unlink(missing_ok=True)
         else:
