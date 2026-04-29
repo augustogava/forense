@@ -1,10 +1,5 @@
-# Forensic Image Analysis System
+pip install -r requirements.txt
 
-Sistema completo de análise forense de imagens para detecção de manipulações, anomalias e evidências suspeitas.
-
-## Visão Geral
-
-O sistema consiste em 3 scripts principais que trabalham em pipeline:
 
 ```
 ┌─────────────────────┐    ┌──────────────────────────┐    ┌─────────────────────┐
@@ -321,7 +316,7 @@ python forensic_audio.py -i "audio_toprocess.m4a" -o "audio_toprocess_cleaned_cl
 python forensic_audio.py -i "audio_toprocess.m4a" -o "audio_toprocess_cleaned_clean_new_2.mp3"
 
 
-python forensic_audio_processor.py -i "audio_toprocess_vocal_enhanced.mp3" -o "audio_processed/"
+python forensic_audio_processor.py -i "Buscar_Mathias.m4a" -o "audio_processed/"
 
 
 39:08 quem ele acha que eh
