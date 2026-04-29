@@ -1,10 +1,5 @@
-# Forensic Image Analysis System
+pip install -r requirements.txt
 
-Sistema completo de análise forense de imagens para detecção de manipulações, anomalias e evidências suspeitas.
-
-## Visão Geral
-
-O sistema consiste em 3 scripts principais que trabalham em pipeline:
 
 ```
 ┌─────────────────────┐    ┌──────────────────────────┐    ┌─────────────────────┐
