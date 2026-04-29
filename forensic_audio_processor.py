@@ -50,7 +50,7 @@ except ImportError:
         except (FileNotFoundError, subprocess.CalledProcessError):
             pass
 
-MAX_WORKERS = 4
+MAX_WORKERS = 1
 TARGET_SR = 44100
 STFT_CHUNK_SECONDS = 300
 _print_lock = threading.Lock()
