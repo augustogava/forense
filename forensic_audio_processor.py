@@ -171,9 +171,9 @@ class ForensicAudioProcessor:
 
         pipelines = [
             ("clean", "Redução de ruído limpa", self._pipeline_clean),
-            ("vocal_enhanced", "Realce vocal + formantes", self._pipeline_vocal_enhanced),
+            # ("vocal_enhanced", "Realce vocal + formantes", self._pipeline_vocal_enhanced),
             ("whisper_boost", "Realce de sussurros", self._pipeline_whisper_boost),
-            ("forensic_full", "Pipeline forense completa", self._pipeline_forensic_full),
+            # ("forensic_full", "Pipeline forense completa", self._pipeline_forensic_full),
         ]
 
         generated_files = []
