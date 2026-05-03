@@ -173,6 +173,7 @@ class ForensicAudioProcessor:
             ("clean", "Redução de ruído limpa", self._pipeline_clean),
             ("vocal_enhanced", "Realce vocal + formantes", self._pipeline_vocal_enhanced),
             ("whisper_boost", "Realce de sussurros", self._pipeline_whisper_boost),
+            ("whisper_vad", "Sussurros com VAD (sem artefatos)", self._pipeline_whisper_vad),
             ("forensic_full", "Pipeline forense completa", self._pipeline_forensic_full),
         ]
 
@@ -279,6 +280,146 @@ class ForensicAudioProcessor:
         y = self._loudness_norm(y, target_db=-8)
         y = self._peak_norm(y)
         return y
+
+    def _pipeline_whisper_vad(self, y: np.ndarray, sr: int) -> np.ndarray:
+        """Whisper boost with VAD gating: only amplifies frames with real vocal activity detected BEFORE noise reduction."""
+        vad_mask = self._compute_vad_mask(y, sr)
+
+        y = self._declip(y)
+        y = self._highpass(y, sr, 80)
+        y = nr.reduce_noise(y=y, sr=sr, stationary=False, prop_decrease=0.90, thresh_n_mult_nonstationary=1.5, sigmoid_slope_nonstationary=15, n_fft=2048)
+        y = nr.reduce_noise(y=y, sr=sr, stationary=True, prop_decrease=0.7, n_std_thresh_stationary=1.2, n_fft=2048)
+        y = self._whisper_spectral_boost_vad(y, sr, vad_mask)
+        y = self._boost_quiet_segments_vad(y, sr, vad_mask, max_gain=10.0)
+        y = self._dynamic_compress(y, sr)
+        y = self._loudness_norm(y, target_db=-6)
+        y = self._peak_norm(y)
+        return y
+
+    def _compute_vad_mask(self, y: np.ndarray, sr: int) -> np.ndarray:
+        """Compute voice activity mask on the ORIGINAL signal before any processing."""
+        frame_len = int(sr * 0.03)
+        hop = frame_len // 2
+        n_frames = max(1, (len(y) - frame_len) // hop + 1)
+
+        rms = np.array([
+            np.sqrt(np.mean(y[i*hop:i*hop+frame_len] ** 2) + 1e-10)
+            for i in range(n_frames)
+        ])
+
+        zcr = np.array([
+            np.sum(np.abs(np.diff(np.sign(y[i*hop:i*hop+frame_len])))) / (2.0 * frame_len)
+            for i in range(n_frames)
+        ])
+
+        spectral_flatness = np.zeros(n_frames)
+        for i in range(n_frames):
+            frame = y[i*hop:i*hop+frame_len]
+            spectrum = np.abs(np.fft.rfft(frame * np.hanning(len(frame))))
+            spectrum = spectrum[1:]
+            geo_mean = np.exp(np.mean(np.log(spectrum + 1e-10)))
+            arith_mean = np.mean(spectrum) + 1e-10
+            spectral_flatness[i] = geo_mean / arith_mean
+
+        silence_rms = np.percentile(rms, 15)
+        rms_threshold = silence_rms * 3.0
+
+        voice_score = np.zeros(n_frames)
+        voice_score[rms > rms_threshold] += 1.0
+        voice_score[zcr < 0.3] += 0.5
+        voice_score[spectral_flatness < 0.4] += 0.5
+
+        raw_mask = (voice_score >= 1.0).astype(float)
+
+        margin_frames = int(0.1 * sr / hop)
+        expanded_mask = np.copy(raw_mask)
+        for i in range(n_frames):
+            if raw_mask[i] > 0:
+                start = max(0, i - margin_frames)
+                end = min(n_frames, i + margin_frames + 1)
+                expanded_mask[start:end] = 1.0
+
+        kernel_size = max(3, margin_frames // 2) | 1
+        expanded_mask = median_filter(expanded_mask, size=kernel_size)
+
+        sample_mask = np.interp(
+            np.arange(len(y)),
+            np.arange(n_frames) * hop + hop // 2,
+            expanded_mask
+        )
+        return np.clip(sample_mask, 0.0, 1.0)
+
+    def _whisper_spectral_boost_vad(self, y: np.ndarray, sr: int, vad_mask: np.ndarray) -> np.ndarray:
+        """Spectral boost for whispers, gated by VAD mask."""
+        n_fft = 2048
+        hop_length = 512
+
+        def _process(S, sr):
+            magnitude = np.abs(S)
+            phase = np.angle(S)
+            freqs = librosa.fft_frequencies(sr=sr, n_fft=n_fft)
+
+            n_stft_frames = magnitude.shape[1]
+            frame_centers = librosa.frames_to_samples(np.arange(n_stft_frames), hop_length=hop_length)
+            frame_vad = np.array([
+                np.mean(vad_mask[max(0, c - hop_length//2):min(len(vad_mask), c + hop_length//2)])
+                for c in frame_centers
+            ])
+
+            speech_mask = (freqs >= 150) & (freqs <= 6000)
+            speech_energy = np.mean(magnitude[speech_mask, :], axis=0)
+            valid = speech_energy > 0
+            median_energy = np.median(speech_energy[valid]) if np.any(valid) else 1e-10
+
+            frame_gain = np.ones(n_stft_frames)
+            quiet = speech_energy < (median_energy * 0.3)
+            has_voice = frame_vad > 0.3
+            boost_frames = quiet & has_voice
+            if np.any(boost_frames) and median_energy > 0:
+                frame_gain[boost_frames] = np.clip(median_energy / (speech_energy[boost_frames] + 1e-10), 1.0, 8.0)
+
+            freq_gain = np.ones_like(freqs)
+            freq_gain[speech_mask] = 2.5
+            freq_gain[~speech_mask] = 0.05
+
+            return magnitude * freq_gain[:, np.newaxis] * frame_gain[np.newaxis, :] * np.exp(1j * phase)
+
+        return self._peak_norm(self._process_stft_chunked(y, sr, _process))
+
+    def _boost_quiet_segments_vad(self, y: np.ndarray, sr: int, vad_mask: np.ndarray, max_gain: float = 6.0) -> np.ndarray:
+        """Boost quiet segments only where VAD detected voice activity."""
+        frame_len = int(sr * 0.05)
+        hop = frame_len // 2
+        n_frames = max(1, (len(y) - frame_len) // hop + 1)
+
+        rms = np.array([
+            np.sqrt(np.mean(y[i*hop:i*hop+frame_len] ** 2) + 1e-10)
+            for i in range(n_frames)
+        ])
+
+        frame_vad = np.array([
+            np.mean(vad_mask[i*hop:min(len(vad_mask), i*hop+frame_len)])
+            for i in range(n_frames)
+        ])
+
+        silence_thresh = np.percentile(rms, 10)
+        speech_rms = rms[rms > silence_thresh * 2]
+        if len(speech_rms) == 0:
+            return y
+
+        target = np.percentile(speech_rms, 60)
+
+        frame_gain = np.ones(n_frames)
+        active = (rms > silence_thresh * 1.5) & (frame_vad > 0.3)
+        frame_gain[active] = np.clip(target / (rms[active] + 1e-10), 1.0, max_gain)
+
+        sample_gain = np.interp(
+            np.arange(len(y)),
+            np.arange(n_frames) * hop + hop // 2,
+            frame_gain
+        )
+
+        return y * sample_gain
 
     # ========== CHUNKED STFT HELPER ==========
 
