@@ -277,52 +277,57 @@ class ForensicImageProcessor:
         """Apply all edge detection techniques."""
         logger.debug(f"Applying edge detection to {base_name}")
 
-        if not self._output_exists(base_name, "canny"):
-            canny_result = self.apply_canny(image)
-            self._save_image(canny_result, base_name, "canny")
+        # DISABLED: canny_*
+        # if not self._output_exists(base_name, "canny"):
+        #     canny_result = self.apply_canny(image)
+        #     self._save_image(canny_result, base_name, "canny")
+        #
+        # canny_configs = [
+        #     ("canny_sensitive", 20, 80),
+        #     ("canny_balanced", 50, 150),
+        #     ("canny_strict", 100, 200),
+        # ]
+        # for suffix, low, high in canny_configs:
+        #     if not self._output_exists(base_name, suffix):
+        #         canny_var = self.apply_canny(image, low_threshold=low, high_threshold=high)
+        #         self._save_image(canny_var, base_name, suffix)
 
-        canny_configs = [
-            ("canny_sensitive", 20, 80),
-            ("canny_balanced", 50, 150),
-            ("canny_strict", 100, 200),
-        ]
-        for suffix, low, high in canny_configs:
-            if not self._output_exists(base_name, suffix):
-                canny_var = self.apply_canny(image, low_threshold=low, high_threshold=high)
-                self._save_image(canny_var, base_name, suffix)
-
-        need_sobel = not self._output_exists(base_name, "sobel_x") or \
-                     not self._output_exists(base_name, "sobel_y") or \
-                     not self._output_exists(base_name, "sobel_combined")
-        if need_sobel:
-            sobel_x, sobel_y, sobel_combined = self.apply_sobel(image)
-            self._save_image(sobel_x, base_name, "sobel_x")
-            self._save_image(sobel_y, base_name, "sobel_y")
-            self._save_image(sobel_combined, base_name, "sobel_combined")
+        # DISABLED: sobel_x, sobel_y, sobel_combined
+        # need_sobel = not self._output_exists(base_name, "sobel_x") or \
+        #              not self._output_exists(base_name, "sobel_y") or \
+        #              not self._output_exists(base_name, "sobel_combined")
+        # if need_sobel:
+        #     sobel_x, sobel_y, sobel_combined = self.apply_sobel(image)
+        #     self._save_image(sobel_x, base_name, "sobel_x")
+        #     self._save_image(sobel_y, base_name, "sobel_y")
+        #     self._save_image(sobel_combined, base_name, "sobel_combined")
 
         if not self._output_exists(base_name, "sobel_5x5"):
             sobel_x5, sobel_y5, sobel_combined5 = self.apply_sobel(image, ksize=5)
             self._save_image(sobel_combined5, base_name, "sobel_5x5")
 
-        if not self._output_exists(base_name, "laplacian"):
-            laplacian_result = self.apply_laplacian(image)
-            self._save_image(laplacian_result, base_name, "laplacian")
-
-        if not self._output_exists(base_name, "laplacian_5"):
-            laplacian_5 = self.apply_laplacian(image, ksize=5)
-            self._save_image(laplacian_5, base_name, "laplacian_5")
+        # DISABLED: lap_*
+        # if not self._output_exists(base_name, "laplacian"):
+        #     laplacian_result = self.apply_laplacian(image)
+        #     self._save_image(laplacian_result, base_name, "laplacian")
+        #
+        # if not self._output_exists(base_name, "laplacian_5"):
+        #     laplacian_5 = self.apply_laplacian(image, ksize=5)
+        #     self._save_image(laplacian_5, base_name, "laplacian_5")
 
         if not self._output_exists(base_name, "gradient_magnitude"):
             gradient_result = self.apply_gradient_magnitude(image)
             self._save_image(gradient_result, base_name, "gradient_magnitude")
 
-        if not self._output_exists(base_name, "dog"):
-            dog_result = self.apply_difference_of_gaussians(image)
-            self._save_image(dog_result, base_name, "dog")
+        # DISABLED: dog
+        # if not self._output_exists(base_name, "dog"):
+        #     dog_result = self.apply_difference_of_gaussians(image)
+        #     self._save_image(dog_result, base_name, "dog")
 
-        if not self._output_exists(base_name, "morph_gradient"):
-            morph_grad = self.apply_morphological_gradient(image)
-            self._save_image(morph_grad, base_name, "morph_gradient")
+        # DISABLED: morph_gradient
+        # if not self._output_exists(base_name, "morph_gradient"):
+        #     morph_grad = self.apply_morphological_gradient(image)
+        #     self._save_image(morph_grad, base_name, "morph_gradient")
 
     def apply_canny(self, image: np.ndarray, low_threshold: int = 50, high_threshold: int = 150) -> np.ndarray:
         """
@@ -498,32 +503,32 @@ class ForensicImageProcessor:
             als_365 = self.simulate_als(image, wavelength=365)
             self._save_image(als_365, base_name, "als_365nm")
 
-        need_hsv = not self._output_exists(base_name, "hsv_h") or \
-                   not self._output_exists(base_name, "hsv_s") or \
-                   not self._output_exists(base_name, "hsv_v")
-        if need_hsv:
-            h, s, v = self.extract_hsv_channels(image)
-            self._save_image(h, base_name, "hsv_h")
-            self._save_image(s, base_name, "hsv_s")
-            self._save_image(v, base_name, "hsv_v")
+        # DISABLED: hsv_*
+        # need_hsv = not self._output_exists(base_name, "hsv_h") or \
+        #            not self._output_exists(base_name, "hsv_s") or \
+        #            not self._output_exists(base_name, "hsv_v")
+        # if need_hsv:
+        #     h, s, v = self.extract_hsv_channels(image)
+        #     self._save_image(h, base_name, "hsv_h")
+        #     self._save_image(s, base_name, "hsv_s")
+        #     self._save_image(v, base_name, "hsv_v")
 
-        need_lab = not self._output_exists(base_name, "lab_l") or \
-                   not self._output_exists(base_name, "lab_a") or \
-                   not self._output_exists(base_name, "lab_b")
-        if need_lab:
-            l_chan, a_chan, b_chan = self.extract_lab_channels(image)
-            self._save_image(l_chan, base_name, "lab_l")
-            self._save_image(a_chan, base_name, "lab_a")
-            self._save_image(b_chan, base_name, "lab_b")
+        # DISABLED: lab_*
+        # need_lab = not self._output_exists(base_name, "lab_l") or \
+        #            not self._output_exists(base_name, "lab_a") or \
+        #            not self._output_exists(base_name, "lab_b")
+        # if need_lab:
+        #     l_chan, a_chan, b_chan = self.extract_lab_channels(image)
+        #     self._save_image(l_chan, base_name, "lab_l")
+        #     self._save_image(a_chan, base_name, "lab_a")
+        #     self._save_image(b_chan, base_name, "lab_b")
 
-        need_ycrcb = not self._output_exists(base_name, "ycrcb_y") or \
-                     not self._output_exists(base_name, "ycrcb_cr") or \
-                     not self._output_exists(base_name, "ycrcb_cb")
-        if need_ycrcb:
+        if not self._output_exists(base_name, "ycrcb_y"):
             y_chan, cr_chan, cb_chan = self.extract_ycrcb_channels(image)
             self._save_image(y_chan, base_name, "ycrcb_y")
-            self._save_image(cr_chan, base_name, "ycrcb_cr")
-            self._save_image(cb_chan, base_name, "ycrcb_cb")
+            # DISABLED: ycrcb_cr, ycrcb_cb
+            # self._save_image(cr_chan, base_name, "ycrcb_cr")
+            # self._save_image(cb_chan, base_name, "ycrcb_cb")
 
     def extract_rgb_channels(self, image: np.ndarray) -> Tuple[np.ndarray, np.ndarray, np.ndarray]:
         """
@@ -811,25 +816,28 @@ class ForensicImageProcessor:
             dct_result = self.apply_dct_blocks(image)
             self._save_image(dct_result, base_name, "dct_blocks")
 
-        if not self._output_exists(base_name, "wavelet"):
-            wavelet_result = self.apply_wavelet(image)
-            self._save_image(wavelet_result, base_name, "wavelet")
+        # DISABLED: wavelet
+        # if not self._output_exists(base_name, "wavelet"):
+        #     wavelet_result = self.apply_wavelet(image)
+        #     self._save_image(wavelet_result, base_name, "wavelet")
 
-        if not self._output_exists(base_name, "retinex_ssr"):
-            ssr_result = self.apply_single_scale_retinex(image)
-            self._save_image(ssr_result, base_name, "retinex_ssr")
+        # DISABLED: retinex_*
+        # if not self._output_exists(base_name, "retinex_ssr"):
+        #     ssr_result = self.apply_single_scale_retinex(image)
+        #     self._save_image(ssr_result, base_name, "retinex_ssr")
+        #
+        # if not self._output_exists(base_name, "retinex_msr"):
+        #     msr_result = self.apply_multi_scale_retinex(image)
+        #     self._save_image(msr_result, base_name, "retinex_msr")
 
-        if not self._output_exists(base_name, "retinex_msr"):
-            msr_result = self.apply_multi_scale_retinex(image)
-            self._save_image(msr_result, base_name, "retinex_msr")
-
-        if not self._output_exists(base_name, "freq_filter"):
-            freq_result = self.apply_frequency_filter(image)
-            self._save_image(freq_result, base_name, "freq_filter")
-
-        if not self._output_exists(base_name, "freq_highpass"):
-            freq_high = self.apply_frequency_filter(image, filter_type="high")
-            self._save_image(freq_high, base_name, "freq_highpass")
+        # DISABLED: freq_filter, freq_highpass
+        # if not self._output_exists(base_name, "freq_filter"):
+        #     freq_result = self.apply_frequency_filter(image)
+        #     self._save_image(freq_result, base_name, "freq_filter")
+        #
+        # if not self._output_exists(base_name, "freq_highpass"):
+        #     freq_high = self.apply_frequency_filter(image, filter_type="high")
+        #     self._save_image(freq_high, base_name, "freq_highpass")
 
         if not self._output_exists(base_name, "cross_polarized"):
             cross_pol = self.simulate_cross_polarization(image)
@@ -1132,7 +1140,7 @@ class ForensicImageProcessor:
 
 def main():
     """Main entry point."""
-    base_images_dir = Path(r"D:\Development\forense\images")
+    base_images_dir = Path(r"images")
     
     raw_folders = sorted([
         folder for folder in base_images_dir.iterdir()
