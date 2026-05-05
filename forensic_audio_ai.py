@@ -7,6 +7,7 @@ Separa vozes do fundo e realça a fala sem introduzir eco ou artefatos.
 """
 
 import argparse
+import io
 import json
 import logging
 import subprocess
@@ -14,6 +15,11 @@ import sys
 import time
 from pathlib import Path
 from typing import Dict, List, Optional
+
+if sys.stdout.encoding != "utf-8":
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
+if sys.stderr.encoding != "utf-8":
+    sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding="utf-8", errors="replace")
 
 import numpy as np
 import torch
@@ -44,7 +50,8 @@ except ImportError:
 def check_dependencies() -> Dict[str, bool]:
     status = {}
     try:
-        import demucs.api  # noqa: F401
+        from demucs.pretrained import get_model  # noqa: F401
+        from demucs.apply import apply_model  # noqa: F401
         status["demucs"] = True
     except ImportError:
         status["demucs"] = False
@@ -180,25 +187,36 @@ def save_as_mp3(waveform: torch.Tensor, sr: int, output_path: Path) -> Path:
 
 def stage_demucs(input_path: Path, work_dir: Path) -> Optional[Path]:
     try:
-        import demucs.api
+        from demucs.pretrained import get_model
+        from demucs.apply import apply_model
+        from demucs.audio import convert_audio, save_audio
     except ImportError:
         print("    Demucs não disponível, pulando separação vocal...")
         return None
 
     device = "cuda" if torch.cuda.is_available() else "cpu"
     print(f"    [demucs] Carregando modelo htdemucs ({device})...")
-    separator = demucs.api.Separator(model="htdemucs", device=device)
+    model = get_model("htdemucs")
+    model.to(device)
+
+    print("    [demucs] Carregando áudio...")
+    waveform, sr = torchaudio.load(str(input_path))
+    wav = convert_audio(waveform, sr, model.samplerate, model.audio_channels)
 
     print("    [demucs] Separando vozes...")
-    _origin, separated = separator.separate_audio_file(str(input_path))
+    ref = wav.mean(0)
+    wav_centered = wav - ref.mean()
+    wav_scaled = wav_centered / (ref.std() + 1e-8)
 
-    vocals = separated["vocals"]
-    if vocals.dim() == 3:
-        vocals = vocals.squeeze(0)
+    sources = apply_model(model, wav_scaled[None], device=device, progress=True)[0]
+    sources = sources * ref.std() + ref.mean()
 
-    vocals_path = work_dir / f"_stage1_vocals.wav"
-    torchaudio.save(str(vocals_path), vocals.cpu(), separator.samplerate)
-    print(f"    [demucs] Vocals isolados ({separator.samplerate} Hz)")
+    vocals_idx = model.sources.index("vocals")
+    vocals = sources[vocals_idx]
+
+    vocals_path = work_dir / "_stage1_vocals.wav"
+    save_audio(vocals.cpu(), str(vocals_path), model.samplerate)
+    print(f"    [demucs] Vocals isolados ({model.samplerate} Hz)")
     return vocals_path
 
 
@@ -230,6 +248,7 @@ def stage_deepfilter(input_wav: Path, work_dir: Path) -> Optional[Path]:
 def stage_clearvoice(input_wav: Path, work_dir: Path) -> Optional[Path]:
     try:
         from clearvoice import ClearVoice
+        import soundfile as sf
     except ImportError:
         return None
 
@@ -237,10 +256,20 @@ def stage_clearvoice(input_wav: Path, work_dir: Path) -> Optional[Path]:
     cv = ClearVoice(task="speech_enhancement", model_names=["MossFormer2_SE_48K"])
 
     print("    [clearvoice] Realçando fala...")
+    enhanced_audio = cv(str(input_wav))
+
     output_path = work_dir / "_stage2_enhanced.wav"
-    cv(str(input_wav), output_path=str(output_path))
-    print("    [clearvoice] Fala realçada")
-    return output_path
+    if enhanced_audio is not None:
+        enhanced_np = enhanced_audio if isinstance(enhanced_audio, np.ndarray) else enhanced_audio.cpu().numpy()
+        if enhanced_np.ndim == 1:
+            enhanced_np = enhanced_np[np.newaxis, :]
+        sr = 48000
+        sf.write(str(output_path), enhanced_np.T if enhanced_np.shape[0] <= 2 else enhanced_np, sr)
+        print("    [clearvoice] Fala realçada")
+        return output_path
+
+    print("    [clearvoice] Sem resultado")
+    return None
 
 
 def stage_enhance(input_wav: Path, work_dir: Path, deps: Dict[str, bool]) -> Optional[Path]:
