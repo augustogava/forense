@@ -329,6 +329,7 @@ python forensic_audio.py -i "audio_toprocess.m4a" -o "audio_toprocess_cleaned_cl
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -344,6 +345,9 @@ python forensic_audio_processor.py -i "to_analyse/REC20260504035540.wav" -o "aud
 
 
 
+=======
+python forensic_audio_processor.py -i "D:\Documents\Pessoal\2\novas_v2\audios\analysed\0505_1552_2215.mp3" -o "audio_processed/"
+>>>>>>> b61f7af9e688076a64e3efd2aed5d25d98cce56a
 TODO
 
 

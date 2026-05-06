@@ -13,5 +13,10 @@ scipy>=1.11.0
 matplotlib>=3.7.0
 imageio-ffmpeg>=0.4.0
 noisereduce>=3.0.0
+# AI audio enhancement (forensic_audio_ai.py):
+demucs>=4.0
+clearvoice>=0.1
+torch>=2.0
+torchaudio>=2.0
 # Opcional para análise de IA via API:
 # anthropic>=0.40.0
