@@ -329,8 +329,38 @@ python forensic_audio.py -i "audio_toprocess.m4a" -o "audio_toprocess_cleaned_cl
 
 
 
-python forensic_audio_processor.py -i "to_analyse/Tarde2taqua0105.m4a" -o "audio_processed/"
+
+
+
+
+python forensic_audio_processor.py -i "to_analyse/REC20260504055542.wav" -o "audio_processed/"
+python forensic_audio_processor.py -i "to_analyse/REC2P0260504065543.wav" -o "audio_processed/"
+python forensic_audio_processor.py -i "to_analyse/REC20260504075545.wav" -o "audio_processed/"
+python forensic_audio_processor.py -i "to_analyse/REC20260504075724.wav" -o "audio_processed/"
+python forensic_audio_processor.py -i "to_analyse/REC20260504085725.wav" -o "audio_processed/"
+python forensic_audio_processor.py -i "to_analyse/REC20260504035540.wav" -o "audio_processed/"
+python forensic_audio_processor.py -i "to_analyse/REC20260504035540.wav" -o "audio_processed/"
+python forensic_audio_processor.py -i "to_analyse/REC20260504035540.wav" -o "audio_processed/"
+
+
+
 TODO
+
+
+
+
+
+
+
+
+
+
+interessante
+
+
+
+
+
 
 
 
