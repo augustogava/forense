@@ -18,5 +18,7 @@ demucs>=4.0
 clearvoice>=0.1
 torch>=2.0
 torchaudio>=2.0
+# Audio transcription (forensic_audio_transcriber.py):
+openai-whisper
 # Opcional para análise de IA via API:
 # anthropic>=0.40.0
