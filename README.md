@@ -352,13 +352,13 @@ python forensic_audio_ai.py -i "audio_processed/0505_1552_2215_demucs_vocals.mp3
 050526 - TODO
 
 
-python forensic_audio_processor.py -i "to_analyse/Quartonat0505.m4a" -o "audio_processed/"
 
-python forensic_audio_processor.py -i "to_analyse/Aposalmoco00505.m4a" -o "audio_processed/"
+
+
 python forensic_audio_processor.py -i "to_analyse/Quartocasa0505.m4a" -o "audio_processed/"
-python forensic_audio_processor.py -i "to_analyse/Antesdormirquarto0505.m4a" -o "audio_processed/"
-python forensic_audio_processor.py -i "to_analyse/Quartotarde0605.m4a" -o "audio_processed/"
-python forensic_audio_processor.py -i "to_analyse/Antesswxobanheiro0605.m4a" -o "audio_processed/"
+
+
+
 
 python forensic_audio_processor.py -i "to_analyse/audio_split/VOR20260506092907_0505_IMP_2_part002.wav" -o "audio_processed/"
 python forensic_audio_processor.py -i "to_analyse/audio_split/VOR20260506092907_0505_IMP_2_part003.wav" -o "audio_processed/"
@@ -370,3 +370,7 @@ python forensic_audio_processor.py -i "to_analyse/audio_split/VOR20260506052907_
 
 ## Transcript
 python forensic_audio_transcriber.py -i "audio_processed/Descicarro_whisper_boost.mp3" -m large-v3 --word-timestamps
+python forensic_audio_transcriber.py -i "to_transcript/" -m large-v3 --word-timestamps
+
+## IA
+python forensic_audio_ai.py -i "audio_processed/Antesswxobanheiro0605_whisper_vad.mp3" 

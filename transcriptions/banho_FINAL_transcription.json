@@ -1,0 +1,177 @@
+{
+  "source_file": "banho_FINAL.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:06,00:00:18": "A CIDADE NO BRASIL",
+    "00:00:58,00:00:59": "A CIDADE NO BRASIL",
+    "00:01:14,00:01:23": "A CIDADE NO BRASIL",
+    "00:01:43,00:01:59": "A CIDADE NO BRASIL",
+    "00:02:09,00:02:29": "A CIDADE NO BRASIL",
+    "00:02:57,00:02:59": "A CIDADE NO BRASIL",
+    "00:03:10,00:03:29": "A CIDADE NO BRASIL",
+    "00:03:30,00:03:46": "A CIDADE NO BRASIL"
+  },
+  "words": [
+    {
+      "start": 6.8,
+      "end": 8.2,
+      "text": "A"
+    },
+    {
+      "start": 8.2,
+      "end": 9.06,
+      "text": "CIDADE"
+    },
+    {
+      "start": 9.06,
+      "end": 9.72,
+      "text": "NO"
+    },
+    {
+      "start": 9.72,
+      "end": 18.9,
+      "text": "BRASIL"
+    },
+    {
+      "start": 58.72,
+      "end": 59.18,
+      "text": "A"
+    },
+    {
+      "start": 59.18,
+      "end": 59.64,
+      "text": "CIDADE"
+    },
+    {
+      "start": 59.64,
+      "end": 59.7,
+      "text": "NO"
+    },
+    {
+      "start": 59.7,
+      "end": 59.98,
+      "text": "BRASIL"
+    },
+    {
+      "start": 74.3,
+      "end": 75.7,
+      "text": "A"
+    },
+    {
+      "start": 75.7,
+      "end": 77.1,
+      "text": "CIDADE"
+    },
+    {
+      "start": 77.1,
+      "end": 77.1,
+      "text": "NO"
+    },
+    {
+      "start": 77.1,
+      "end": 83.92,
+      "text": "BRASIL"
+    },
+    {
+      "start": 103.94,
+      "end": 105.34,
+      "text": "A"
+    },
+    {
+      "start": 105.34,
+      "end": 106.74,
+      "text": "CIDADE"
+    },
+    {
+      "start": 106.74,
+      "end": 107.0,
+      "text": "NO"
+    },
+    {
+      "start": 107.0,
+      "end": 119.98,
+      "text": "BRASIL"
+    },
+    {
+      "start": 129.14,
+      "end": 130.54,
+      "text": "A"
+    },
+    {
+      "start": 130.54,
+      "end": 131.94,
+      "text": "CIDADE"
+    },
+    {
+      "start": 131.94,
+      "end": 132.38,
+      "text": "NO"
+    },
+    {
+      "start": 132.38,
+      "end": 149.62,
+      "text": "BRASIL"
+    },
+    {
+      "start": 177.12,
+      "end": 178.52,
+      "text": "A"
+    },
+    {
+      "start": 178.52,
+      "end": 179.92,
+      "text": "CIDADE"
+    },
+    {
+      "start": 179.92,
+      "end": 179.92,
+      "text": "NO"
+    },
+    {
+      "start": 179.92,
+      "end": 179.96,
+      "text": "BRASIL"
+    },
+    {
+      "start": 190.66,
+      "end": 192.06,
+      "text": "A"
+    },
+    {
+      "start": 192.06,
+      "end": 193.46,
+      "text": "CIDADE"
+    },
+    {
+      "start": 193.46,
+      "end": 193.58,
+      "text": "NO"
+    },
+    {
+      "start": 193.58,
+      "end": 209.74,
+      "text": "BRASIL"
+    },
+    {
+      "start": 210.0,
+      "end": 210.08,
+      "text": "A"
+    },
+    {
+      "start": 210.08,
+      "end": 210.74,
+      "text": "CIDADE"
+    },
+    {
+      "start": 210.74,
+      "end": 210.74,
+      "text": "NO"
+    },
+    {
+      "start": 210.74,
+      "end": 226.16,
+      "text": "BRASIL"
+    }
+  ]
+}

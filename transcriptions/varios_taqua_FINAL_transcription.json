@@ -1,0 +1,359 @@
+{
+  "source_file": "varios_taqua_FINAL.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:29,00:00:29": "Vamos lá.",
+    "00:00:30,00:00:32": "Vamos lá.",
+    "00:01:00,00:01:00": "Vamos lá.",
+    "00:01:55,00:01:58": "Vamos lá.",
+    "00:02:02,00:02:05": "Vamos lá.",
+    "00:02:57,00:02:59": "Vamos lá.",
+    "00:03:11,00:03:12": "Vamos lá.",
+    "00:03:34,00:03:35": "Vamos lá.",
+    "00:04:08,00:04:11": "Vamos lá.",
+    "00:04:30,00:04:31": "Vamos lá.",
+    "00:05:00,00:05:01": "Vamos lá.",
+    "00:05:02,00:05:03": "Você sabe fuzzy?",
+    "00:05:08,00:05:09": "USA!",
+    "00:05:25,00:05:27": "Ô Brasil!",
+    "00:05:45,00:05:48": "E aí, pessoal?",
+    "00:06:00,00:06:01": "Eu estou fazendo um arco de sede.",
+    "00:06:30,00:06:59": "Eu estou fazendo um arco de sede.",
+    "00:07:00,00:07:29": "Eu estou fazendo um arco de sede.",
+    "00:07:30,00:07:32": "Eu estou fazendo um arco de sede.",
+    "00:08:02,00:08:05": "Eu estou fazendo um arco de sede."
+  },
+  "words": [
+    {
+      "start": 29.9,
+      "end": 29.94,
+      "text": "Vamos"
+    },
+    {
+      "start": 29.94,
+      "end": 29.96,
+      "text": "lá."
+    },
+    {
+      "start": 30.0,
+      "end": 32.06,
+      "text": "Vamos"
+    },
+    {
+      "start": 32.06,
+      "end": 32.38,
+      "text": "lá."
+    },
+    {
+      "start": 60.0,
+      "end": 60.2,
+      "text": "Vamos"
+    },
+    {
+      "start": 60.2,
+      "end": 60.56,
+      "text": "lá."
+    },
+    {
+      "start": 115.46,
+      "end": 116.86,
+      "text": "Vamos"
+    },
+    {
+      "start": 116.86,
+      "end": 118.12,
+      "text": "lá."
+    },
+    {
+      "start": 122.32,
+      "end": 123.72,
+      "text": "Vamos"
+    },
+    {
+      "start": 123.72,
+      "end": 125.12,
+      "text": "lá."
+    },
+    {
+      "start": 177.18,
+      "end": 178.58,
+      "text": "Vamos"
+    },
+    {
+      "start": 178.58,
+      "end": 179.98,
+      "text": "lá."
+    },
+    {
+      "start": 191.34,
+      "end": 191.78,
+      "text": "Vamos"
+    },
+    {
+      "start": 191.78,
+      "end": 192.0,
+      "text": "lá."
+    },
+    {
+      "start": 214.72,
+      "end": 215.44,
+      "text": "Vamos"
+    },
+    {
+      "start": 215.44,
+      "end": 215.8,
+      "text": "lá."
+    },
+    {
+      "start": 248.42,
+      "end": 249.82,
+      "text": "Vamos"
+    },
+    {
+      "start": 249.82,
+      "end": 251.22,
+      "text": "lá."
+    },
+    {
+      "start": 270.0,
+      "end": 270.2,
+      "text": "Vamos"
+    },
+    {
+      "start": 270.2,
+      "end": 271.52,
+      "text": "lá."
+    },
+    {
+      "start": 300.0,
+      "end": 301.26,
+      "text": "Vamos"
+    },
+    {
+      "start": 301.26,
+      "end": 301.6,
+      "text": "lá."
+    },
+    {
+      "start": 302.04,
+      "end": 303.18,
+      "text": "Você"
+    },
+    {
+      "start": 303.18,
+      "end": 303.4,
+      "text": "sabe"
+    },
+    {
+      "start": 303.4,
+      "end": 303.74,
+      "text": "fuzzy?"
+    },
+    {
+      "start": 308.58,
+      "end": 309.94,
+      "text": "USA!"
+    },
+    {
+      "start": 325.96,
+      "end": 327.32,
+      "text": "Ô"
+    },
+    {
+      "start": 327.32,
+      "end": 327.78,
+      "text": "Brasil!"
+    },
+    {
+      "start": 345.0,
+      "end": 346.4,
+      "text": "E"
+    },
+    {
+      "start": 346.4,
+      "end": 346.4,
+      "text": "aí,"
+    },
+    {
+      "start": 348.38,
+      "end": 348.56,
+      "text": "pessoal?"
+    },
+    {
+      "start": 360.0,
+      "end": 360.0,
+      "text": "Eu"
+    },
+    {
+      "start": 360.0,
+      "end": 360.02,
+      "text": "estou"
+    },
+    {
+      "start": 360.02,
+      "end": 360.32,
+      "text": "fazendo"
+    },
+    {
+      "start": 360.32,
+      "end": 360.56,
+      "text": "um"
+    },
+    {
+      "start": 360.56,
+      "end": 360.8,
+      "text": "arco"
+    },
+    {
+      "start": 360.8,
+      "end": 360.92,
+      "text": "de"
+    },
+    {
+      "start": 360.92,
+      "end": 361.22,
+      "text": "sede."
+    },
+    {
+      "start": 390.0,
+      "end": 390.12,
+      "text": "Eu"
+    },
+    {
+      "start": 390.12,
+      "end": 390.46,
+      "text": "estou"
+    },
+    {
+      "start": 390.46,
+      "end": 400.18,
+      "text": "fazendo"
+    },
+    {
+      "start": 400.18,
+      "end": 402.64,
+      "text": "um"
+    },
+    {
+      "start": 402.64,
+      "end": 407.62,
+      "text": "arco"
+    },
+    {
+      "start": 407.62,
+      "end": 407.62,
+      "text": "de"
+    },
+    {
+      "start": 407.62,
+      "end": 419.98,
+      "text": "sede."
+    },
+    {
+      "start": 420.0,
+      "end": 420.78,
+      "text": "Eu"
+    },
+    {
+      "start": 420.78,
+      "end": 420.9,
+      "text": "estou"
+    },
+    {
+      "start": 420.9,
+      "end": 421.02,
+      "text": "fazendo"
+    },
+    {
+      "start": 421.02,
+      "end": 422.98,
+      "text": "um"
+    },
+    {
+      "start": 422.98,
+      "end": 441.62,
+      "text": "arco"
+    },
+    {
+      "start": 441.62,
+      "end": 445.18,
+      "text": "de"
+    },
+    {
+      "start": 445.18,
+      "end": 449.98,
+      "text": "sede."
+    },
+    {
+      "start": 450.0,
+      "end": 450.36,
+      "text": "Eu"
+    },
+    {
+      "start": 450.36,
+      "end": 451.06,
+      "text": "estou"
+    },
+    {
+      "start": 451.06,
+      "end": 451.06,
+      "text": "fazendo"
+    },
+    {
+      "start": 451.06,
+      "end": 451.06,
+      "text": "um"
+    },
+    {
+      "start": 451.06,
+      "end": 451.82,
+      "text": "arco"
+    },
+    {
+      "start": 451.82,
+      "end": 451.82,
+      "text": "de"
+    },
+    {
+      "start": 451.82,
+      "end": 452.82,
+      "text": "sede."
+    },
+    {
+      "start": 482.42,
+      "end": 483.82,
+      "text": "Eu"
+    },
+    {
+      "start": 483.82,
+      "end": 485.22,
+      "text": "estou"
+    },
+    {
+      "start": 485.22,
+      "end": 485.22,
+      "text": "fazendo"
+    },
+    {
+      "start": 485.22,
+      "end": 485.22,
+      "text": "um"
+    },
+    {
+      "start": 485.22,
+      "end": 485.22,
+      "text": "arco"
+    },
+    {
+      "start": 485.22,
+      "end": 485.22,
+      "text": "de"
+    },
+    {
+      "start": 485.22,
+      "end": 485.22,
+      "text": "sede."
+    }
+  ]
+}

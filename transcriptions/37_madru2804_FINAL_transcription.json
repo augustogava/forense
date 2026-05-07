@@ -1,0 +1,63 @@
+{
+  "source_file": "37_madru2804_FINAL.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:00": "Música",
+    "00:00:42,00:00:43": "Música",
+    "00:01:03,00:01:04": "Música",
+    "00:01:31,00:01:32": "Música",
+    "00:01:33,00:01:34": "Música",
+    "00:02:00,00:02:00": "Música",
+    "00:02:00,00:02:01": "Música",
+    "00:02:01,00:02:02": "Música",
+    "00:02:02,00:02:03": "Música"
+  },
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.72,
+      "text": "Música"
+    },
+    {
+      "start": 42.24,
+      "end": 43.64,
+      "text": "Música"
+    },
+    {
+      "start": 63.04,
+      "end": 64.44,
+      "text": "Música"
+    },
+    {
+      "start": 91.68,
+      "end": 92.38,
+      "text": "Música"
+    },
+    {
+      "start": 93.08,
+      "end": 94.02,
+      "text": "Música"
+    },
+    {
+      "start": 120.0,
+      "end": 120.96,
+      "text": "Música"
+    },
+    {
+      "start": 120.96,
+      "end": 121.68,
+      "text": "Música"
+    },
+    {
+      "start": 121.68,
+      "end": 122.42,
+      "text": "Música"
+    },
+    {
+      "start": 122.42,
+      "end": 123.94,
+      "text": "Música"
+    }
+  ]
+}
