@@ -1,0 +1,7 @@
+{
+  "source_file": "Banho0705_whisper_vad_ai_enhanced.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "vad": "no_speech_detected",
+  "segments": {}
+}

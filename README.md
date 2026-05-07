@@ -370,7 +370,7 @@ python forensic_audio_ai.py -i "audio_processed/REC20260504235953_whisper_vad.mp
 
 
 
-python forensic_audio_processor.py -i "to_analyse/Quartocasa0505.m4a" -o "audio_processed/"
+python forensic_audio_processor.py -i "to_analyse/Banho0705.m4a" -o "audio_processed/"
 
 
 
@@ -391,5 +391,9 @@ python forensic_audio_transcriber.py -i "to_transcript/" -m large-v3 --word-time
 python forensic_audio_ai.py -i "audio_processed/VOR20260505021551_0215_part001_whisper_vad.mp3" -o "to_ia_processed/"
 python forensic_audio_ai.py -i "audio_processed/VOR20260505021551_0215_part002_whisper_vad.mp3" -o "to_ia_processed/"
 
+python forensic_audio_ai.py -i "audio_processed/Banho0705_whisper_vad.mp3" -o "to_ia_processed/"
+python forensic_audio_transcriber.py -i "to_ia_processed/" -m large-v3 --word-timestamps
+
+
 python forensic_audio_ai.py -i "to_ia/" -o "to_ia_processed/"
-python forensic_audio_transcriber.py -i "to_transcript/"
+python forensic_audio_transcriber.py -i "to_transcript/Banho0705_whisper_vad_ai_enhanced_boosted.mp3"
