@@ -23,6 +23,7 @@ if sys.stdout.encoding != "utf-8":
 if sys.stderr.encoding != "utf-8":
     sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding="utf-8", errors="replace")
 
+import numpy as np
 import torch
 import whisper
 
@@ -94,65 +95,186 @@ def collect_audio_files(input_path: Path) -> List[Path]:
     return []
 
 
+_FORENSIC_PROMPT = (
+    "sexo, buceta, pau, porra, caralho, foder, puta, cu, "
+    "gozar, chupar, estupro, abuso, gemido, pelada"
+)
+
+_EXPLICIT_KEYWORDS = {
+    "sexo", "sexual", "transar", "transou", "transando",
+    "foder", "fuder", "fodeu", "fudeu", "fodendo", "fudendo",
+    "buceta", "boceta", "xereca", "xoxota", "ppk", "gozando", "goza", "gozou", "enfia",
+    "pau", "pica", "rola", "cacete", "pinto",
+    "chupar", "chupou", "chupando", "mamar", "mamou", "mamando", "boquete",
+    "gozar", "gozou", "gozando",
+    "porra", "caralho", "merda", "puta", "putaria", "mete", "dedo", "dedos", "deda", "dedas", "dedou", "dedou", "dedo", "dedos", "deda", "dedas", "dedou", "dedou", 
+    "cu", "bunda", "rabo",
+    "pelada", "pelado", "nua", "nu",
+    "estupro", "estuprar", "estuprou", "estuprando",
+    "abuso", "abusar", "abusou", "abusando",
+    "assédio", "assediar", "assediou",
+    "molestar", "molestou", "molestando",
+    "violência", "violentar", "violentou",
+    "gemido", "gemendo", "gemer", "gemeu", "geme"
+    "tesão", "excitado", "excitada",
+    "masturbar", "masturbou", "masturbando", "masturbação",
+    "penetrar", "penetrou", "penetração",
+    "ejacular", "ejaculou", "ejaculação",
+    "oral", "vaginal", "anal",
+}
+
+
+def _flag_explicit(text: str) -> bool:
+    words = set(text.lower().replace(",", " ").replace(".", " ").split())
+    return bool(words & _EXPLICIT_KEYWORDS)
+
+
+def _extract_speech_segments(
+    audio_np: np.ndarray,
+    sr: int,
+    vad_model,
+    get_speech_ts,
+) -> List[dict]:
+    audio_tensor = torch.from_numpy(audio_np).float()
+    timestamps = get_speech_ts(
+        audio_tensor,
+        vad_model,
+        sampling_rate=sr,
+        threshold=0.3,
+        min_speech_duration_ms=500,
+        min_silence_duration_ms=300,
+    )
+    vad_model.reset_states()
+
+    if not timestamps:
+        return []
+
+    merged = [timestamps[0].copy()]
+    merge_gap = int(sr * 1.5)
+    for ts in timestamps[1:]:
+        if ts["start"] - merged[-1]["end"] < merge_gap:
+            merged[-1]["end"] = ts["end"]
+        else:
+            merged.append(ts.copy())
+
+    return merged
+
+
 def transcribe_file(
     model: whisper.Whisper,
     audio_path: Path,
     output_dir: Path,
     word_timestamps: bool = False,
     model_name: str = "large-v3",
+    vad_model=None,
+    get_speech_ts=None,
 ) -> Optional[Path]:
     t_start = time.time()
+    sr = 16000
     print(f"\n    Transcrevendo: {audio_path.name}")
 
-    needs_convert = audio_path.suffix.lower() in NEEDS_CONVERSION
-    wav_path = _convert_to_wav(audio_path) if needs_convert else audio_path
-    tmp_created = needs_convert
-
+    wav_path = _convert_to_wav(audio_path)
     try:
-        logger.debug(f"Running whisper transcribe on {wav_path}")
-        result = model.transcribe(
-            str(wav_path),
-            language="pt",
-            word_timestamps=word_timestamps,
-            verbose=False,
-        )
+        import wave as _wave
+        with _wave.open(str(wav_path), "rb") as wf:
+            audio_np = np.frombuffer(wf.readframes(wf.getnframes()), np.int16).astype(np.float32) / 32768.0
     except Exception as e:
-        logger.error(f"Transcription failed for {audio_path.name}: {e}")
-        if tmp_created:
-            wav_path.unlink(missing_ok=True)
+        logger.error(f"Failed to load audio {audio_path.name}: {e}")
         return None
     finally:
-        if tmp_created:
-            wav_path.unlink(missing_ok=True)
-
-    segments_dict = {}
-    for seg in result.get("segments", []):
-        key = f"{_fmt_time(seg['start'])},{_fmt_time(seg['end'])}"
-        text = seg["text"].strip()
-        if text:
-            segments_dict[key] = text
-
-    output_data = {
-        "source_file": audio_path.name,
-        "language": result.get("language", "pt"),
-        "model": model_name,
-        "segments": segments_dict,
-    }
-
-    if word_timestamps:
-        words_list = []
-        for seg in result.get("segments", []):
-            for w in seg.get("words", []):
-                words_list.append({
-                    "start": round(w["start"], 2),
-                    "end": round(w["end"], 2),
-                    "text": w["word"].strip(),
-                })
-        if words_list:
-            output_data["words"] = words_list
+        wav_path.unlink(missing_ok=True)
 
     output_dir.mkdir(parents=True, exist_ok=True)
     json_path = output_dir / f"{audio_path.stem}_transcription.json"
+
+    if vad_model is not None and get_speech_ts is not None:
+        print("    [VAD] Detectando segmentos com fala...")
+        speech_segments = _extract_speech_segments(audio_np, sr, vad_model, get_speech_ts)
+        if not speech_segments:
+            print("    [VAD] Nenhuma fala detectada")
+            output_data = {
+                "source_file": audio_path.name,
+                "language": "pt",
+                "model": model_name,
+                "vad": "no_speech_detected",
+                "segments": {},
+            }
+            with open(json_path, "w", encoding="utf-8") as f:
+                json.dump(output_data, f, indent=2, ensure_ascii=False)
+            elapsed = time.time() - t_start
+            print(f"    Concluído em {elapsed:.0f}s — 0 segmentos (sem fala) -> {json_path.name}")
+            return json_path
+
+        total_speech = sum(s["end"] - s["start"] for s in speech_segments) / sr
+        total_audio = len(audio_np) / sr
+        print(f"    [VAD] {len(speech_segments)} segmentos com fala ({total_speech:.0f}s de {total_audio:.0f}s)")
+    else:
+        speech_segments = [{"start": 0, "end": len(audio_np)}]
+
+    segments_dict = {}
+    explicit_segments = {}
+    words_list = []
+    prev_text = None
+    repeat_count = 0
+
+    for chunk_idx, chunk in enumerate(speech_segments):
+        chunk_audio = audio_np[chunk["start"]:chunk["end"]]
+        offset_sec = chunk["start"] / sr
+
+        try:
+            result = model.transcribe(
+                chunk_audio,
+                language="pt",
+                word_timestamps=word_timestamps,
+                verbose=False,
+                condition_on_previous_text=False,
+                compression_ratio_threshold=1.8,
+                no_speech_threshold=0.5,
+                initial_prompt=_FORENSIC_PROMPT,
+            )
+        except Exception as e:
+            logger.error(f"Transcription failed for chunk {chunk_idx} of {audio_path.name}: {e}")
+            continue
+
+        for seg in result.get("segments", []):
+            real_start = seg["start"] + offset_sec
+            real_end = seg["end"] + offset_sec
+            key = f"{_fmt_time(real_start)},{_fmt_time(real_end)}"
+            text = seg["text"].strip()
+            if not text:
+                continue
+            if text == prev_text:
+                repeat_count += 1
+                if repeat_count >= 2:
+                    continue
+            else:
+                repeat_count = 0
+            prev_text = text
+            segments_dict[key] = text
+
+            if _flag_explicit(text):
+                explicit_segments[key] = text
+
+            if word_timestamps:
+                for w in seg.get("words", []):
+                    words_list.append({
+                        "start": round(w["start"] + offset_sec, 2),
+                        "end": round(w["end"] + offset_sec, 2),
+                        "text": w["word"].strip(),
+                    })
+
+    output_data = {
+        "source_file": audio_path.name,
+        "language": "pt",
+        "model": model_name,
+        "segments": segments_dict,
+    }
+    if explicit_segments:
+        output_data["explicit_segments"] = explicit_segments
+        output_data["explicit_count"] = len(explicit_segments)
+    if word_timestamps and words_list:
+        output_data["words"] = words_list
+
     with open(json_path, "w", encoding="utf-8") as f:
         json.dump(output_data, f, indent=2, ensure_ascii=False)
 
@@ -199,6 +321,12 @@ def main() -> int:
         print("  AVISO: ffmpeg não encontrado. Formatos m4a/aac/wma podem falhar.")
 
     device = "cuda" if torch.cuda.is_available() else "cpu"
+
+    print(f"\n  Carregando Silero VAD...")
+    vad_model, vad_utils = torch.hub.load("snakers4/silero-vad", "silero_vad", trust_repo=True)
+    get_speech_ts = vad_utils[0]
+    print("  Silero VAD carregado")
+
     print(f"\n  Carregando modelo Whisper '{args.model}' ({device})...")
     t_load = time.time()
     model = whisper.load_model(args.model, device=device)
@@ -207,11 +335,17 @@ def main() -> int:
     t_total = time.time()
     success = 0
     failed = 0
+    skipped = 0
 
     for idx, af in enumerate(audio_files, 1):
+        json_out = output_dir / f"{af.stem}_transcription.json"
+        if json_out.exists() and json_out.stat().st_size > 0:
+            print(f"  [{idx}/{len(audio_files)}] {af.name} — já transcrito, pulando")
+            skipped += 1
+            continue
         print(f"\n  [{idx}/{len(audio_files)}] {af.name}")
         try:
-            result = transcribe_file(model, af, output_dir, args.word_timestamps, args.model)
+            result = transcribe_file(model, af, output_dir, args.word_timestamps, args.model, vad_model, get_speech_ts)
             if result:
                 success += 1
             else:
@@ -224,7 +358,7 @@ def main() -> int:
     elapsed_total = time.time() - t_total
     print(f"\n{'=' * 60}")
     print(f"  Transcrição concluída em {elapsed_total:.0f}s")
-    print(f"  Sucesso: {success} | Falhas: {failed}")
+    print(f"  Sucesso: {success} | Falhas: {failed} | Pulados: {skipped}")
     print(f"  Saída: {output_dir}")
     print("=" * 60)
 

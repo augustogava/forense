@@ -1,0 +1,25 @@
+{
+  "source_file": "Antesswxobanheiro0605_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:02:00,00:02:29": "E aí",
+    "00:02:30,00:02:59": "E aí",
+    "00:03:00,00:03:29": "E aí",
+    "00:03:30,00:03:40": "E aí",
+    "00:04:00,00:04:29": "A CIDADE NO BRASIL",
+    "00:04:30,00:04:59": "A CIDADE NO BRASIL",
+    "00:05:00,00:05:29": "A CIDADE NO BRASIL",
+    "00:05:30,00:05:59": "A CIDADE NO BRASIL",
+    "00:06:00,00:06:29": "A CIDADE NO BRASIL",
+    "00:06:30,00:06:59": "A CIDADE NO BRASIL",
+    "00:07:00,00:07:29": "A CIDADE NO BRASIL",
+    "00:07:30,00:07:59": "A CIDADE NO BRASIL",
+    "00:08:00,00:08:29": "A CIDADE NO BRASIL",
+    "00:08:30,00:08:59": "A CIDADE NO BRASIL",
+    "00:09:00,00:09:29": "A CIDADE NO BRASIL",
+    "00:09:30,00:09:59": "A CIDADE NO BRASIL",
+    "00:10:00,00:10:29": "A CIDADE NO BRASIL",
+    "00:10:30,00:10:37": "A CIDADE NO BRASIL"
+  }
+}
