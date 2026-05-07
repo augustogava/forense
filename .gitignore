@@ -27,7 +27,7 @@ images/processed_*/
 *.wma
 *.opus
 audio_processed/
-to_analyse/
+# to_analyse/
 
 # Python
 __pycache__/

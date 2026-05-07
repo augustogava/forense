@@ -176,11 +176,7 @@ class ForensicAudioProcessor:
             # ("forensic_full", "Pipeline forense completa", self._pipeline_forensic_full),
             ("whisper_vad", "Sussurros com VAD (sem artefatos)", self._pipeline_whisper_vad),
             # ("forensic_full", "Pipeline forense completa", self._pipeline_forensic_full),
-<<<<<<< HEAD
             #("forensic_full", "Pipeline forense completa", self._pipeline_forensic_full),
-=======
-            # ("forensic_full", "Pipeline forense completa", self._pipeline_forensic_full),
->>>>>>> b61f7af9e688076a64e3efd2aed5d25d98cce56a
         ]
 
         generated_files = []

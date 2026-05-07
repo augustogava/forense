@@ -346,17 +346,24 @@ python forensic_audio_processor.py -i "D:\Documents\Pessoal\2\novas_v2\audios\an
 
 
 
-
-interessante
-
+050526 - TODO
 
 
+python forensic_audio_processor.py -i "to_analyse/Quartonat0505.m4a" -o "audio_processed/"
+
+python forensic_audio_processor.py -i "to_analyse/Aposalmoco00505.m4a" -o "audio_processed/"
+python forensic_audio_processor.py -i "to_analyse/Quartocasa0505.m4a" -o "audio_processed/"
+python forensic_audio_processor.py -i "to_analyse/Antesdormirquarto0505.m4a" -o "audio_processed/"
+python forensic_audio_processor.py -i "to_analyse/Quartotarde0605.m4a" -o "audio_processed/"
+python forensic_audio_processor.py -i "to_analyse/Antesswxobanheiro0605.m4a" -o "audio_processed/"
+
+python forensic_audio_processor.py -i "to_analyse/audio_split/VOR20260506092907_0505_IMP_2_part002.wav" -o "audio_processed/"
+python forensic_audio_processor.py -i "to_analyse/audio_split/VOR20260506092907_0505_IMP_2_part003.wav" -o "audio_processed/"
+
+python forensic_audio_processor.py -i "to_analyse/audio_split/VOR20260506052907_0505_IMP_3_part001.wav" -o "audio_processed/"
+python forensic_audio_processor.py -i "to_analyse/audio_split/VOR20260506052907_0505_IMP_3_part002.wav" -o "audio_processed/"
+python forensic_audio_processor.py -i "to_analyse/audio_split/VOR20260506052907_0505_IMP_3_part003.wav" -o "audio_processed/"
 
 
-
-
-
-
-
-
-
+## Transcript
+python forensic_audio_transcriber.py -i "audio_processed/Descicarro_whisper_boost.mp3" -m large-v3 --word-timestamps
