@@ -11,6 +11,7 @@ import io
 import json
 import logging
 import os
+import random
 import subprocess
 import sys
 import tempfile
@@ -321,7 +322,8 @@ def main() -> int:
         print("  Nenhum arquivo de áudio encontrado.")
         return 1
 
-    print(f"\n  Arquivos encontrados: {len(audio_files)}")
+    random.shuffle(audio_files)
+    print(f"\n  Arquivos encontrados: {len(audio_files)} (ordem aleatória)")
     for af in audio_files:
         print(f"    - {af.name}")
 
