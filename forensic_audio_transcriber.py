@@ -97,7 +97,14 @@ def collect_audio_files(input_path: Path) -> List[Path]:
 
 _FORENSIC_PROMPT = (
     "sexo, buceta, pau, porra, caralho, foder, puta, cu, "
-    "gozar, chupar, estupro, abuso, gemido, pelada"
+    "gozar, chupar, estupro, abuso, gemido, pelada, estuprar, abusar, molestar, violentar, masturbar, penetrar, ejacular, oral, vaginal, anal"
+    "gozando, goza, gozou, enfia, dedo, dedos, deda, dedas, dedou, dedou, dedo, dedos, deda, dedas, dedou, dedou, "
+    "pau, pica, rola, cacete, pinto, chupar, chupou, chupando, mamou, mamando, boquete, gozar, gozou, gozando, enfia, dedo, dedos, deda, dedas, dedou, dedou, dedo, dedos, deda, dedas, dedou, dedou, "
+    "porra, caralho, merda, puta, putaria, mete, dedo, dedos, deda, dedas, dedou, dedou, dedo, dedos, deda, dedas, dedou, dedou, "
+    "cu, bunda, rabo, pelada, pelado, nua, nu, estupro, estuprar, estuprou, estuprando, abuso, abusar, abusou, abusando, assédio, assediar, assediou, molestar, molestou, molestando, violência, violentar, violentou, gemido, gemendo, gemer, gemeu, geme, tesão, excitado, excitada, masturbar, masturbou, masturbando, masturbação, penetrar, penetrou, penetração, ejacular, ejaculou, ejaculação, oral, vaginal, anal"
+    "gozando, goza, gozou, enfia, dedo, dedos, deda, dedas, dedou, dedou, dedo, dedos, deda, dedas, dedou, dedou, "
+    "porra, caralho, merda, puta, putaria, mete, dedo, dedos, deda, dedas, dedou, dedou, dedo, dedos, deda, dedas, dedou, dedou, "
+    "cu, bunda, rabo, pelada, pelado, nua, nu, estupro, estuprar, estuprou, estuprando, abuso, abusar, abusou, abusando, assédio, assediar, assediou, molestar, molestou, molestando, violência, violentar, violentou, gemido, gemendo, gemer, gemeu, geme, tesão, excitado, excitada, masturbar, masturbou, masturbando, masturbação, penetrar, penetrou, penetração, ejacular, ejaculou, ejaculação, oral, vaginal, anal"
 )
 
 _EXPLICIT_KEYWORDS = {
@@ -115,12 +122,13 @@ _EXPLICIT_KEYWORDS = {
     "assédio", "assediar", "assediou",
     "molestar", "molestou", "molestando",
     "violência", "violentar", "violentou",
-    "gemido", "gemendo", "gemer", "gemeu", "geme"
-    "tesão", "excitado", "excitada",
+    "gemido", "gemendo", "gemer", "gemeu", "geme",
+    "tesão", "excitado", "excitada", "masturba", "masturbar", "masturbou", "masturbando", "masturbação",
     "masturbar", "masturbou", "masturbando", "masturbação",
     "penetrar", "penetrou", "penetração",
     "ejacular", "ejaculou", "ejaculação",
-    "oral", "vaginal", "anal",
+    "oral", "vaginal", "anal", "estupra", "estuprar", "estuprou", "estuprando", "abusar", "abusou", "abusando", "assédio", "assediar", "assediou", "molestar", "molestou", "molestando", "violência", "violentar", "violentou", "gemido", "gemendo", "gemer", "gemeu", "geme", "tesão", "excitado", "excitada", "masturbar", "masturbou", "masturbando", "masturbação", "penetrar", "penetrou", "penetração", "ejacular", "ejaculou", "ejaculação", "oral", "vaginal", "anal", "estupra", "estuprar", "estuprou", "estuprando", "abusar", "abusou", "abusando", "assédio", "assediar", "assediou", "molestar", "molestou", "molestando", "violência", "violentar", "violentou", "gemido", "gemendo", "gemer", "gemeu", "geme", "tesão", "excitado", "excitada", "masturbar", "masturbou", "masturbando", "masturbação", "penetrar", "penetrou", "penetração", "ejacular", "ejaculou", "ejaculação", "oral", "vaginal", "anal", "gozando", "goza", "gozou", "enfia", "dedo", "dedos", "deda", "dedas", "dedou", "dedou", "dedo", "dedos", "deda", "dedas", "dedou", "dedou", "porra", "caralho", "merda", "puta", "putaria", "mete", "dedo", "dedos", "deda", "dedas", "dedou", "dedou", "dedo", "dedos", "deda", "dedas", "dedou", "dedou", "cu", "bunda", "rabo", "pelada", "pelado", "nua", "nu", "estupro", "estuprar", "estuprou", "estuprando", "abuso", "abusar", "abusou", "abusando", "assédio", "assediar", "assediou", "molestar", "molestou", "molestando", "violência", "violentar", "violentou", "gemido", "gemendo", "gemer", "gemeu", "geme", "tesão", "excitado", "excitada", "masturbar", "masturbou", "masturbando", "masturbação", "penetrar", "penetrou", "penetração", "ejacular", "ejaculou", "ejaculação", "oral", "vaginal", "anal",
+    "gozando", "goza", "gozou", "enfia", "dedo", "dedos", "deda", "dedas", "dedou", "dedou", "dedo", "dedos", "deda", "dedas", "dedou", "dedou", "porra", "caralho", "merda", "puta", "putaria", "mete", "dedo", "dedos", "deda", "dedas", "dedou", "dedou", "dedo", "dedos", "deda", "dedas", "dedou", "dedou", "cu", "bunda", "rabo", "pelada", "pelado", "nua", "nu", "estupro", "estuprar", "estuprou", "estuprando", "abuso", "abusar", "abusou", "abusando", "assédio", "assediar", "assediou", "molestar", "molestou", "molestando", "violência", "violentar", "violentou", "gemido", "gemendo", "gemer", "gemeu", "geme", "tesão", "excitado", "excitada", "masturbar", "masturbou", "masturbando", "masturbação", "penetrar", "penetrou", "penetração", "ejacular", "ejaculou", "ejaculação", "oral", "vaginal", "anal"
 }
 
 
@@ -141,7 +149,7 @@ def _extract_speech_segments(
         vad_model,
         sampling_rate=sr,
         threshold=0.3,
-        min_speech_duration_ms=500,
+        min_speech_duration_ms=400,
         min_silence_duration_ms=300,
     )
     vad_model.reset_states()

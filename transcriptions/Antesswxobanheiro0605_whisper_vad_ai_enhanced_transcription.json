@@ -1,0 +1,20 @@
+{
+  "source_file": "Antesswxobanheiro0605_whisper_vad_ai_enhanced.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:03": "ah, isso é uma coisa que eu não entendo",
+    "00:03:02,00:03:04": "aberto, estuprar.",
+    "00:03:07,00:03:08": "e mais uma coisa assim, né?",
+    "00:05:09,00:05:26": "crise do ó Denver three",
+    "00:07:54,00:07:55": "Ceará, Paraná, Ionen, Corinah, Parangueirão, Itaipé миллиard.Nânimo Olimpíada, cunhado, materta, advogado, adversário, chance, contribuído, competido, acampado, malyado, maio, frustrado, infeliz, confiado, astrosal, Probleme, outros machos dosamentos, Sandro, futebol,",
+    "00:07:55,00:07:58": "capitão, Mexico, kidnaidos, Nixon e tambor, Treca Mundial,",
+    "00:10:09,00:10:10": "não, Bitch",
+    "00:10:33,00:10:36": ",",
+    "00:10:25,00:10:26": "overload"
+  },
+  "explicit_segments": {
+    "00:03:02,00:03:04": "aberto, estuprar."
+  },
+  "explicit_count": 1
+}
