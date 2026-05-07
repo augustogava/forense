@@ -339,8 +339,23 @@ python forensic_audio_processor.py -i "to_analyse/REC20260504035540.wav" -o "aud
 python forensic_audio_processor.py -i "D:\Documents\Pessoal\2\novas_v2\audios\analysed\0505_1552_2215.mp3" -o "audio_processed/"
 
 
-python forensic_audio_ai.py -i "audio_processed/0505_1552_2215_demucs_vocals.mp3" -o "audio_processed"
 
+
+
+python forensic_audio_ai.py -i "audio_processed/VOR20260505021551_0215_part003_whisper_vad.mp3" -o "audio_processed"
+python forensic_audio_ai.py -i "audio_processed/VOR20260505061552_0615_part002_whisper_vad.mp3" -o "audio_processed"
+python forensic_audio_ai.py -i "audio_processed/VOR20260505101552_2215_part003_whisper_vad.mp3" -o "audio_processed"
+python forensic_audio_ai.py -i "audio_processed/VOR20260505101552_2215_part002_whisper_vad.mp3" -o "audio_processed"
+python forensic_audio_ai.py -i "audio_processed/VOR20260505101552_2215_part001_whisper_vad.mp3" -o "audio_processed"
+python forensic_audio_ai.py -i "audio_processed/VOR20260505142032_1420_part001_whisper_vad.mp3" -o "audio_processed"
+
+python forensic_audio_ai.py -i "audio_processed/VOR20260505142032_1420_paVOR20260505142032_1420_part002_whisper_vadrt001_whisper_vad.mp3" -o "audio_processed"
+python forensic_audio_ai.py -i "audio_processed/VOR20260505021551_0215_part001_whisper_vad.mp3" -o "audio_processed"
+python forensic_audio_ai.py -i "audio_processed/REC20260504045541_whisper_vad.mp3" -o "audio_processed"
+
+python forensic_audio_ai.py -i "audio_processed/REC20260504035540_whisper_vad.mp3" -o "audio_processed"
+python forensic_audio_ai.py -i "audio_processed/REC20260505005954_whisper_vad.mp3" -o "audio_processed"
+python forensic_audio_ai.py -i "audio_processed/REC20260504235953_whisper_vad.mp3" -o "audio_processed"
 
 
 

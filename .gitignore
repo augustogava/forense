@@ -18,15 +18,15 @@ images/processed_*/
 !images/**/.gitkeep
 
 # Audio files
-*.mp3
-*.m4a
-*.wav
-*.aac
-*.ogg
-*.flac
-*.wma
-*.opus
-audio_processed/
+# *.mp3
+# *.m4a
+# *.wav
+# *.aac
+# *.ogg
+# *.flac
+# *.wma
+# *.opus
+# audio_processed/
 to_analyse/
 
 # Python
