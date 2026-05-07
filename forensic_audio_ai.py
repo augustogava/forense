@@ -22,9 +22,28 @@ if sys.stderr.encoding != "utf-8":
     sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding="utf-8", errors="replace")
 
 import numpy as np
+import soundfile as sf
 import torch
 import torchaudio
 from scipy.ndimage import uniform_filter1d
+
+
+def _sf_load(path: str) -> tuple:
+    import tempfile, imageio_ffmpeg
+    p = Path(path)
+    if p.suffix.lower() in (".m4a", ".aac", ".mp3", ".ogg", ".wma", ".flac"):
+        ffmpeg = imageio_ffmpeg.get_ffmpeg_exe()
+        tmp_wav = Path(tempfile.gettempdir()) / f"_sf_load_{p.stem}.wav"
+        subprocess.run(
+            [ffmpeg, "-y", "-i", str(p), "-ar", "44100", "-ac", "2", str(tmp_wav)],
+            capture_output=True, check=True,
+        )
+        data, sr = sf.read(str(tmp_wav), dtype="float32", always_2d=True)
+        tmp_wav.unlink(missing_ok=True)
+    else:
+        data, sr = sf.read(path, dtype="float32", always_2d=True)
+    waveform = torch.from_numpy(data.T)
+    return waveform, sr
 
 logging.basicConfig(level=logging.DEBUG, format="%(asctime)s - %(levelname)s - %(message)s")
 logger = logging.getLogger(__name__)
@@ -200,7 +219,7 @@ def stage_demucs(input_path: Path, work_dir: Path) -> Optional[Path]:
     model.to(device)
 
     print("    [demucs] Carregando áudio...")
-    waveform, sr = torchaudio.load(str(input_path))
+    waveform, sr = _sf_load(str(input_path))
     wav = convert_audio(waveform, sr, model.samplerate, model.audio_channels)
 
     print("    [demucs] Separando vozes...")
@@ -370,7 +389,7 @@ def agc_boost(audio: np.ndarray, sr: int, max_gain: float = 6.0) -> np.ndarray:
 
 
 def _load_for_normalize(wav_path: Path) -> tuple:
-    waveform, sr = torchaudio.load(str(wav_path))
+    waveform, sr = _sf_load(str(wav_path))
     if waveform.shape[0] > 1:
         waveform = waveform.mean(dim=0, keepdim=True)
     return waveform.numpy().squeeze(), sr
@@ -427,7 +446,7 @@ def process_audio(input_path: Path, output_dir: Path, deps: Dict[str, bool]) -> 
         vocals_wav = stage_demucs(input_path, work_dir)
         if vocals_wav and vocals_wav.exists():
             current_wav = vocals_wav
-            wf, sr = torchaudio.load(str(vocals_wav))
+            wf, sr = _sf_load(str(vocals_wav))
             if wf.shape[0] > 1:
                 wf = wf.mean(dim=0, keepdim=True)
             demucs_mp3 = save_as_mp3(wf, sr, output_dir / f"{base_name}_demucs_vocals.mp3")
