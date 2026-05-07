@@ -23,8 +23,27 @@ if sys.stderr.encoding != "utf-8":
 
 import numpy as np
 import soundfile as sf
+import soundfile as sf
 import torch
 from scipy.ndimage import uniform_filter1d
+
+
+def _sf_load(path: str) -> tuple:
+    import tempfile, imageio_ffmpeg
+    p = Path(path)
+    if p.suffix.lower() in (".m4a", ".aac", ".mp3", ".ogg", ".wma", ".flac"):
+        ffmpeg = imageio_ffmpeg.get_ffmpeg_exe()
+        tmp_wav = Path(tempfile.gettempdir()) / f"_sf_load_{p.stem}.wav"
+        subprocess.run(
+            [ffmpeg, "-y", "-i", str(p), "-ar", "44100", "-ac", "2", str(tmp_wav)],
+            capture_output=True, check=True,
+        )
+        data, sr = sf.read(str(tmp_wav), dtype="float32", always_2d=True)
+        tmp_wav.unlink(missing_ok=True)
+    else:
+        data, sr = sf.read(path, dtype="float32", always_2d=True)
+    waveform = torch.from_numpy(data.T)
+    return waveform, sr
 
 logging.basicConfig(level=logging.DEBUG, format="%(asctime)s - %(levelname)s - %(message)s")
 logger = logging.getLogger(__name__)

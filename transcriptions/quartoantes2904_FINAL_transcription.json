@@ -1,0 +1,64 @@
+{
+  "source_file": "quartoantes2904_FINAL.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:34,00:00:37": "Vamos lá.",
+    "00:01:04,00:01:06": "Vamos lá.",
+    "00:01:32,00:01:35": "Vamos lá.",
+    "00:02:05,00:02:08": "Vamos lá.",
+    "00:02:30,00:02:31": "Vamos lá."
+  },
+  "words": [
+    {
+      "start": 34.2,
+      "end": 35.6,
+      "text": "Vamos"
+    },
+    {
+      "start": 35.6,
+      "end": 37.0,
+      "text": "lá."
+    },
+    {
+      "start": 64.36,
+      "end": 65.76,
+      "text": "Vamos"
+    },
+    {
+      "start": 65.76,
+      "end": 66.7,
+      "text": "lá."
+    },
+    {
+      "start": 92.92,
+      "end": 94.32,
+      "text": "Vamos"
+    },
+    {
+      "start": 94.32,
+      "end": 95.42,
+      "text": "lá."
+    },
+    {
+      "start": 125.9,
+      "end": 127.3,
+      "text": "Vamos"
+    },
+    {
+      "start": 127.3,
+      "end": 128.7,
+      "text": "lá."
+    },
+    {
+      "start": 150.0,
+      "end": 150.36,
+      "text": "Vamos"
+    },
+    {
+      "start": 150.36,
+      "end": 151.24,
+      "text": "lá."
+    }
+  ]
+}
