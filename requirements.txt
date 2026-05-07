@@ -16,6 +16,7 @@ noisereduce>=3.0.0
 # AI audio enhancement (forensic_audio_ai.py):
 demucs>=4.0
 clearvoice>=0.1
+# GPU: pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
 torch>=2.0
 torchaudio>=2.0
 # Audio transcription (forensic_audio_transcriber.py):

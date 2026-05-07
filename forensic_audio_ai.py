@@ -177,7 +177,9 @@ def _to_wav(input_path: Path, output_wav: Path, sr: int = 44100, mono: bool = Tr
     cmd = [ffmpeg, "-y", "-i", str(input_path), "-ar", str(sr), "-ac", *ac, str(output_wav)]
     result = subprocess.run(cmd, capture_output=True, text=True)
     if result.returncode != 0:
-        raise RuntimeError(f"ffmpeg conversion failed: {result.stderr[:500]}")
+        err_lines = [l for l in result.stderr.splitlines() if l.strip()]
+        err_tail = "\n".join(err_lines[-5:]) if err_lines else "(no stderr)"
+        raise RuntimeError(f"ffmpeg conversion failed (exit {result.returncode}):\n{err_tail}")
 
 
 def save_as_mp3(waveform: torch.Tensor, sr: int, output_path: Path) -> Path:
@@ -293,8 +295,13 @@ def stage_clearvoice(input_wav: Path, work_dir: Path) -> Optional[Path]:
         enhanced_np = enhanced_audio if isinstance(enhanced_audio, np.ndarray) else enhanced_audio.cpu().numpy()
         if enhanced_np.ndim == 1:
             enhanced_np = enhanced_np[np.newaxis, :]
+        enhanced_np = enhanced_np.astype(np.float32)
+        audio_out = enhanced_np.T if enhanced_np.shape[0] <= 2 else enhanced_np
+        peak = np.max(np.abs(audio_out))
+        if peak > 1.0:
+            audio_out = audio_out / peak
         sr = 48000
-        sf.write(str(output_path), enhanced_np.T if enhanced_np.shape[0] <= 2 else enhanced_np, sr)
+        sf.write(str(output_path), audio_out, sr, subtype="FLOAT")
         print("    [clearvoice] Fala realçada")
         return output_path
 
@@ -526,7 +533,7 @@ def process_audio(input_path: Path, output_dir: Path, deps: Dict[str, bool]) -> 
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="Forensic Audio AI Enhancement")
-    parser.add_argument("--input", "-i", type=str, help="Arquivo de áudio de entrada")
+    parser.add_argument("--input", "-i", type=str, help="Arquivo de áudio ou pasta com áudios")
     parser.add_argument("--output", "-o", type=str, help="Diretório de saída")
     args = parser.parse_args()
 
@@ -551,8 +558,45 @@ def main() -> int:
         output_dir = interactive_select_output(base_dir)
 
     if not input_path.exists():
-        print(f"  ERRO: Arquivo não encontrado: {input_path}")
+        print(f"  ERRO: Caminho não encontrado: {input_path}")
         return 1
+
+    if input_path.is_dir():
+        audio_files = find_audio_files([input_path])
+        if not audio_files:
+            print("  Nenhum arquivo de áudio encontrado na pasta.")
+            return 1
+        print(f"\n  Arquivos encontrados: {len(audio_files)}")
+        for af in audio_files:
+            print(f"    - {af.name}")
+        t_total = time.time()
+        success = 0
+        failed = 0
+        skipped = 0
+        for idx, af in enumerate(audio_files, 1):
+            base_name = af.stem
+            expected_out = output_dir / f"{base_name}_ai_enhanced.mp3"
+            if expected_out.exists() and expected_out.stat().st_size > 0:
+                print(f"  [{idx}/{len(audio_files)}] {af.name} — já processado, pulando")
+                skipped += 1
+                continue
+            print(f"\n{'─' * 60}")
+            print(f"  [{idx}/{len(audio_files)}] {af.name}")
+            print(f"{'─' * 60}")
+            try:
+                process_audio(af, output_dir, deps)
+                success += 1
+            except Exception as e:
+                logger.error(f"Processing failed for {af.name}: {e}", exc_info=True)
+                print(f"\n  ERRO: {e}")
+                failed += 1
+        elapsed_total = time.time() - t_total
+        print(f"\n{'=' * 60}")
+        print(f"  Processamento em lote concluído em {elapsed_total:.0f}s")
+        print(f"  Sucesso: {success} | Falhas: {failed} | Pulados: {skipped}")
+        print(f"  Saída: {output_dir}")
+        print("=" * 60)
+        return 0 if failed == 0 else 1
 
     try:
         process_audio(input_path, output_dir, deps)

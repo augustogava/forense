@@ -388,4 +388,8 @@ python forensic_audio_transcriber.py -i "audio_processed/Descicarro_whisper_boos
 python forensic_audio_transcriber.py -i "to_transcript/" -m large-v3 --word-timestamps
 
 ## IA
-python forensic_audio_ai.py -i "audio_processed/Antesswxobanheiro0605_whisper_vad.mp3" 
+python forensic_audio_ai.py -i "audio_processed/VOR20260505021551_0215_part001_whisper_vad.mp3" -o "to_ia_processed/"
+python forensic_audio_ai.py -i "audio_processed/VOR20260505021551_0215_part002_whisper_vad.mp3" -o "to_ia_processed/"
+
+python forensic_audio_ai.py -i "to_ia/" -o "to_ia_processed/"
+python forensic_audio_transcriber.py -i "to_transcript/" -o "to_ia_processed/"

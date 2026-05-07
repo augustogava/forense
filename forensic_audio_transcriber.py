@@ -10,6 +10,7 @@ import argparse
 import io
 import json
 import logging
+import os
 import subprocess
 import sys
 import tempfile
@@ -30,12 +31,13 @@ logger = logging.getLogger(__name__)
 
 SUPPORTED_EXTENSIONS = {".wav", ".mp3", ".m4a", ".aac", ".ogg", ".flac", ".wma", ".opus"}
 
-NEEDS_CONVERSION = {".m4a", ".aac", ".wma", ".opus"}
+NEEDS_CONVERSION = {".mp3", ".m4a", ".aac", ".ogg", ".flac", ".wma", ".opus"}
 
 _ffmpeg_path: Optional[str] = None
 try:
     import imageio_ffmpeg
     _ffmpeg_path = imageio_ffmpeg.get_ffmpeg_exe()
+    os.environ["PATH"] = str(Path(_ffmpeg_path).parent) + os.pathsep + os.environ.get("PATH", "")
 except ImportError:
     for candidate in ["ffmpeg", "ffmpeg.exe"]:
         try:
