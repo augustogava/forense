@@ -1,0 +1,140 @@
+{
+  "source_file": "VOR20260508111751_0805_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1153.0,
+  "segments": {
+    "00:00:36,00:00:41": "Eu não posso viver, eu não posso viver, eu não posso viver.",
+    "00:01:24,00:01:25": "O que é isso?",
+    "00:01:26,00:01:29": "O que é isso?",
+    "00:05:15,00:05:15": "Tchau."
+  },
+  "words": [
+    {
+      "start": 36.55,
+      "end": 37.35,
+      "text": "Eu",
+      "probability": 0.042
+    },
+    {
+      "start": 37.35,
+      "end": 38.15,
+      "text": "não",
+      "probability": 0.229
+    },
+    {
+      "start": 38.15,
+      "end": 38.51,
+      "text": "posso",
+      "probability": 0.44
+    },
+    {
+      "start": 38.51,
+      "end": 38.89,
+      "text": "viver,",
+      "probability": 0.302
+    },
+    {
+      "start": 39.47,
+      "end": 39.91,
+      "text": "eu",
+      "probability": 0.418
+    },
+    {
+      "start": 39.91,
+      "end": 40.21,
+      "text": "não",
+      "probability": 0.861
+    },
+    {
+      "start": 40.34,
+      "end": 40.68,
+      "text": "posso",
+      "probability": 0.375
+    },
+    {
+      "start": 40.68,
+      "end": 41.1,
+      "text": "viver,",
+      "probability": 0.433
+    },
+    {
+      "start": 41.26,
+      "end": 41.86,
+      "text": "eu",
+      "probability": 0.808
+    },
+    {
+      "start": 41.86,
+      "end": 41.86,
+      "text": "não",
+      "probability": 0.987
+    },
+    {
+      "start": 41.86,
+      "end": 41.86,
+      "text": "posso",
+      "probability": 0.883
+    },
+    {
+      "start": 41.86,
+      "end": 41.86,
+      "text": "viver.",
+      "probability": 0.956
+    },
+    {
+      "start": 84.61,
+      "end": 85.35,
+      "text": "O",
+      "probability": 0.049
+    },
+    {
+      "start": 85.35,
+      "end": 85.61,
+      "text": "que",
+      "probability": 0.682
+    },
+    {
+      "start": 85.61,
+      "end": 85.87,
+      "text": "é",
+      "probability": 0.297
+    },
+    {
+      "start": 85.87,
+      "end": 85.95,
+      "text": "isso?",
+      "probability": 0.671
+    },
+    {
+      "start": 86.37,
+      "end": 86.77,
+      "text": "O",
+      "probability": 0.138
+    },
+    {
+      "start": 86.77,
+      "end": 87.13,
+      "text": "que",
+      "probability": 0.91
+    },
+    {
+      "start": 88.79,
+      "end": 89.03,
+      "text": "é",
+      "probability": 0.82
+    },
+    {
+      "start": 89.03,
+      "end": 89.21,
+      "text": "isso?",
+      "probability": 0.949
+    },
+    {
+      "start": 315.08,
+      "end": 315.78,
+      "text": "Tchau.",
+      "probability": 0.51
+    }
+  ]
+}

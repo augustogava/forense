@@ -1,0 +1,1123 @@
+{
+  "source_file": "VOR20260508094746_0805_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1800.0,
+  "segments": {
+    "00:00:32,00:00:39": "E hoje, ao meio-dia, essa grama pode ser sua!",
+    "00:01:13,00:01:15": "Tchau, tchau.",
+    "00:04:12,00:04:53": "Deus, eu sou o trabalho, eu sou a vida, eu sou a vida, eu sou a vida, eu sou a vida, eu sou a vida, eu sou a vida, eu sou a vida.",
+    "00:04:57,00:06:21": "Não tem como contar, não tem como contar, não tem como contar, não tem como contar, não tem como contar, não tem como contar, não tem como contar, não tem como contar, não tem como contar.",
+    "00:06:30,00:06:31": "Só que a gente já tá chegando pra cima.",
+    "00:06:31,00:06:33": "Tem a arena aí, por favor.",
+    "00:06:33,00:06:35": "A arena resta a segunda hora aqui do Metro Play.",
+    "00:06:35,00:06:37": "Tem resultado também.",
+    "00:06:37,00:06:38": "Não é geralzinho, é de tempo.",
+    "00:06:38,00:06:40": "E aqui no estado é que o Arré é pra ver.",
+    "00:06:40,00:06:41": "Não, não é.",
+    "00:06:41,00:06:43": "O Arré é pra você ver.",
+    "00:06:43,00:06:45": "Quando é uma inscrição aí, manda a mão e confere.",
+    "00:06:45,00:06:46": "Não, não é inscrição.",
+    "00:06:46,00:06:47": "É o nome.",
+    "00:06:47,00:06:48": "Não, não é inscrição.",
+    "00:06:48,00:06:49": "Não, não é inscrição.",
+    "00:06:49,00:06:49": "É o nome.",
+    "00:06:50,00:06:50": "É o nome.",
+    "00:07:03,00:07:15": "A noite descalça, a noite descalça, a noite descalça, a noite descalça.",
+    "00:07:41,00:29:59": "O que é isso?"
+  },
+  "words": [
+    {
+      "start": 32.76,
+      "end": 33.6,
+      "text": "E",
+      "probability": 0.165
+    },
+    {
+      "start": 33.6,
+      "end": 34.44,
+      "text": "hoje,",
+      "probability": 0.656
+    },
+    {
+      "start": 36.58,
+      "end": 36.86,
+      "text": "ao",
+      "probability": 0.966
+    },
+    {
+      "start": 36.86,
+      "end": 37.22,
+      "text": "meio",
+      "probability": 0.995
+    },
+    {
+      "start": 37.22,
+      "end": 37.64,
+      "text": "-dia,",
+      "probability": 0.798
+    },
+    {
+      "start": 37.7,
+      "end": 38.06,
+      "text": "essa",
+      "probability": 0.514
+    },
+    {
+      "start": 38.06,
+      "end": 38.54,
+      "text": "grama",
+      "probability": 0.921
+    },
+    {
+      "start": 38.54,
+      "end": 38.84,
+      "text": "pode",
+      "probability": 0.879
+    },
+    {
+      "start": 38.84,
+      "end": 39.14,
+      "text": "ser",
+      "probability": 0.996
+    },
+    {
+      "start": 39.14,
+      "end": 39.56,
+      "text": "sua!",
+      "probability": 0.997
+    },
+    {
+      "start": 73.29,
+      "end": 74.69,
+      "text": "Tchau,",
+      "probability": 0.524
+    },
+    {
+      "start": 74.69,
+      "end": 75.57,
+      "text": "tchau.",
+      "probability": 0.962
+    },
+    {
+      "start": 252.47,
+      "end": 253.03,
+      "text": "Deus,",
+      "probability": 0.01
+    },
+    {
+      "start": 253.03,
+      "end": 253.59,
+      "text": "eu",
+      "probability": 0.498
+    },
+    {
+      "start": 253.59,
+      "end": 253.91,
+      "text": "sou",
+      "probability": 0.201
+    },
+    {
+      "start": 253.91,
+      "end": 254.17,
+      "text": "o",
+      "probability": 0.348
+    },
+    {
+      "start": 254.17,
+      "end": 254.57,
+      "text": "trabalho,",
+      "probability": 0.413
+    },
+    {
+      "start": 254.81,
+      "end": 254.97,
+      "text": "eu",
+      "probability": 0.507
+    },
+    {
+      "start": 254.97,
+      "end": 255.29,
+      "text": "sou",
+      "probability": 0.718
+    },
+    {
+      "start": 255.29,
+      "end": 255.57,
+      "text": "a",
+      "probability": 0.733
+    },
+    {
+      "start": 255.57,
+      "end": 255.91,
+      "text": "vida,",
+      "probability": 0.345
+    },
+    {
+      "start": 256.09,
+      "end": 256.49,
+      "text": "eu",
+      "probability": 0.555
+    },
+    {
+      "start": 256.49,
+      "end": 256.69,
+      "text": "sou",
+      "probability": 0.779
+    },
+    {
+      "start": 256.69,
+      "end": 256.97,
+      "text": "a",
+      "probability": 0.55
+    },
+    {
+      "start": 256.97,
+      "end": 256.99,
+      "text": "vida,",
+      "probability": 0.308
+    },
+    {
+      "start": 257.41,
+      "end": 257.41,
+      "text": "eu",
+      "probability": 0.879
+    },
+    {
+      "start": 257.41,
+      "end": 257.41,
+      "text": "sou",
+      "probability": 0.96
+    },
+    {
+      "start": 257.41,
+      "end": 257.53,
+      "text": "a",
+      "probability": 0.781
+    },
+    {
+      "start": 257.53,
+      "end": 258.19,
+      "text": "vida,",
+      "probability": 0.917
+    },
+    {
+      "start": 258.31,
+      "end": 259.07,
+      "text": "eu",
+      "probability": 0.929
+    },
+    {
+      "start": 259.07,
+      "end": 259.19,
+      "text": "sou",
+      "probability": 0.971
+    },
+    {
+      "start": 259.19,
+      "end": 260.05,
+      "text": "a",
+      "probability": 0.901
+    },
+    {
+      "start": 260.05,
+      "end": 260.27,
+      "text": "vida,",
+      "probability": 0.985
+    },
+    {
+      "start": 260.99,
+      "end": 261.11,
+      "text": "eu",
+      "probability": 0.933
+    },
+    {
+      "start": 261.37,
+      "end": 261.67,
+      "text": "sou",
+      "probability": 0.976
+    },
+    {
+      "start": 261.67,
+      "end": 262.01,
+      "text": "a",
+      "probability": 0.944
+    },
+    {
+      "start": 262.01,
+      "end": 262.27,
+      "text": "vida,",
+      "probability": 0.993
+    },
+    {
+      "start": 269.86,
+      "end": 273.32,
+      "text": "eu",
+      "probability": 0.942
+    },
+    {
+      "start": 274.37,
+      "end": 274.49,
+      "text": "sou",
+      "probability": 0.983
+    },
+    {
+      "start": 274.49,
+      "end": 274.69,
+      "text": "a",
+      "probability": 0.965
+    },
+    {
+      "start": 274.69,
+      "end": 275.11,
+      "text": "vida,",
+      "probability": 0.995
+    },
+    {
+      "start": 276.49,
+      "end": 282.11,
+      "text": "eu",
+      "probability": 0.957
+    },
+    {
+      "start": 289.79,
+      "end": 289.81,
+      "text": "sou",
+      "probability": 0.987
+    },
+    {
+      "start": 291.63,
+      "end": 292.89,
+      "text": "a",
+      "probability": 0.976
+    },
+    {
+      "start": 292.89,
+      "end": 293.09,
+      "text": "vida.",
+      "probability": 0.996
+    },
+    {
+      "start": 297.2,
+      "end": 297.34,
+      "text": "Não",
+      "probability": 0.015
+    },
+    {
+      "start": 297.34,
+      "end": 297.34,
+      "text": "tem",
+      "probability": 0.24
+    },
+    {
+      "start": 297.34,
+      "end": 298.24,
+      "text": "como",
+      "probability": 0.653
+    },
+    {
+      "start": 298.24,
+      "end": 298.68,
+      "text": "contar,",
+      "probability": 0.277
+    },
+    {
+      "start": 298.94,
+      "end": 299.3,
+      "text": "não",
+      "probability": 0.497
+    },
+    {
+      "start": 299.3,
+      "end": 299.62,
+      "text": "tem",
+      "probability": 0.885
+    },
+    {
+      "start": 299.62,
+      "end": 300.5,
+      "text": "como",
+      "probability": 0.247
+    },
+    {
+      "start": 300.5,
+      "end": 301.4,
+      "text": "contar,",
+      "probability": 0.816
+    },
+    {
+      "start": 305.66,
+      "end": 305.66,
+      "text": "não",
+      "probability": 0.849
+    },
+    {
+      "start": 305.66,
+      "end": 305.66,
+      "text": "tem",
+      "probability": 0.915
+    },
+    {
+      "start": 305.66,
+      "end": 305.66,
+      "text": "como",
+      "probability": 0.878
+    },
+    {
+      "start": 305.66,
+      "end": 305.66,
+      "text": "contar,",
+      "probability": 0.92
+    },
+    {
+      "start": 305.66,
+      "end": 307.32,
+      "text": "não",
+      "probability": 0.952
+    },
+    {
+      "start": 307.32,
+      "end": 307.34,
+      "text": "tem",
+      "probability": 0.925
+    },
+    {
+      "start": 307.34,
+      "end": 307.76,
+      "text": "como",
+      "probability": 0.907
+    },
+    {
+      "start": 307.76,
+      "end": 308.82,
+      "text": "contar,",
+      "probability": 0.919
+    },
+    {
+      "start": 309.28,
+      "end": 309.5,
+      "text": "não",
+      "probability": 0.957
+    },
+    {
+      "start": 309.5,
+      "end": 309.98,
+      "text": "tem",
+      "probability": 0.925
+    },
+    {
+      "start": 309.98,
+      "end": 311.0,
+      "text": "como",
+      "probability": 0.886
+    },
+    {
+      "start": 313.04,
+      "end": 313.06,
+      "text": "contar,",
+      "probability": 0.928
+    },
+    {
+      "start": 313.06,
+      "end": 313.06,
+      "text": "não",
+      "probability": 0.935
+    },
+    {
+      "start": 313.06,
+      "end": 313.06,
+      "text": "tem",
+      "probability": 0.899
+    },
+    {
+      "start": 313.06,
+      "end": 313.06,
+      "text": "como",
+      "probability": 0.918
+    },
+    {
+      "start": 313.06,
+      "end": 313.94,
+      "text": "contar,",
+      "probability": 0.936
+    },
+    {
+      "start": 314.32,
+      "end": 314.86,
+      "text": "não",
+      "probability": 0.933
+    },
+    {
+      "start": 314.86,
+      "end": 315.2,
+      "text": "tem",
+      "probability": 0.896
+    },
+    {
+      "start": 315.2,
+      "end": 315.52,
+      "text": "como",
+      "probability": 0.925
+    },
+    {
+      "start": 315.52,
+      "end": 315.52,
+      "text": "contar,",
+      "probability": 0.935
+    },
+    {
+      "start": 315.52,
+      "end": 315.52,
+      "text": "não",
+      "probability": 0.952
+    },
+    {
+      "start": 315.52,
+      "end": 315.52,
+      "text": "tem",
+      "probability": 0.927
+    },
+    {
+      "start": 328.87,
+      "end": 329.33,
+      "text": "como",
+      "probability": 0.932
+    },
+    {
+      "start": 329.33,
+      "end": 329.65,
+      "text": "contar,",
+      "probability": 0.934
+    },
+    {
+      "start": 347.93,
+      "end": 360.83,
+      "text": "não",
+      "probability": 0.966
+    },
+    {
+      "start": 376.73,
+      "end": 377.99,
+      "text": "tem",
+      "probability": 0.952
+    },
+    {
+      "start": 379.66,
+      "end": 380.58,
+      "text": "como",
+      "probability": 0.948
+    },
+    {
+      "start": 380.58,
+      "end": 381.96,
+      "text": "contar.",
+      "probability": 0.931
+    },
+    {
+      "start": 390.07,
+      "end": 390.15,
+      "text": "Só",
+      "probability": 0.021
+    },
+    {
+      "start": 390.15,
+      "end": 390.33,
+      "text": "que",
+      "probability": 0.278
+    },
+    {
+      "start": 390.33,
+      "end": 390.39,
+      "text": "a",
+      "probability": 0.471
+    },
+    {
+      "start": 390.39,
+      "end": 390.53,
+      "text": "gente",
+      "probability": 0.251
+    },
+    {
+      "start": 390.53,
+      "end": 390.73,
+      "text": "já",
+      "probability": 0.553
+    },
+    {
+      "start": 390.73,
+      "end": 390.87,
+      "text": "tá",
+      "probability": 0.473
+    },
+    {
+      "start": 390.87,
+      "end": 391.15,
+      "text": "chegando",
+      "probability": 0.986
+    },
+    {
+      "start": 391.15,
+      "end": 391.27,
+      "text": "pra",
+      "probability": 0.484
+    },
+    {
+      "start": 391.27,
+      "end": 391.49,
+      "text": "cima.",
+      "probability": 0.656
+    },
+    {
+      "start": 391.79,
+      "end": 392.19,
+      "text": "Tem",
+      "probability": 0.641
+    },
+    {
+      "start": 392.19,
+      "end": 392.47,
+      "text": "a",
+      "probability": 0.39
+    },
+    {
+      "start": 392.47,
+      "end": 392.83,
+      "text": "arena",
+      "probability": 0.422
+    },
+    {
+      "start": 392.83,
+      "end": 393.11,
+      "text": "aí,",
+      "probability": 0.542
+    },
+    {
+      "start": 393.15,
+      "end": 393.33,
+      "text": "por",
+      "probability": 0.604
+    },
+    {
+      "start": 393.33,
+      "end": 393.51,
+      "text": "favor.",
+      "probability": 0.163
+    },
+    {
+      "start": 393.55,
+      "end": 393.87,
+      "text": "A",
+      "probability": 0.123
+    },
+    {
+      "start": 393.87,
+      "end": 394.05,
+      "text": "arena",
+      "probability": 0.9
+    },
+    {
+      "start": 394.05,
+      "end": 394.39,
+      "text": "resta",
+      "probability": 0.779
+    },
+    {
+      "start": 394.39,
+      "end": 394.41,
+      "text": "a",
+      "probability": 0.306
+    },
+    {
+      "start": 394.41,
+      "end": 394.61,
+      "text": "segunda",
+      "probability": 0.922
+    },
+    {
+      "start": 394.61,
+      "end": 394.89,
+      "text": "hora",
+      "probability": 0.991
+    },
+    {
+      "start": 394.89,
+      "end": 395.05,
+      "text": "aqui",
+      "probability": 0.755
+    },
+    {
+      "start": 395.05,
+      "end": 395.19,
+      "text": "do",
+      "probability": 0.653
+    },
+    {
+      "start": 395.19,
+      "end": 395.47,
+      "text": "Metro",
+      "probability": 0.542
+    },
+    {
+      "start": 395.47,
+      "end": 395.71,
+      "text": "Play.",
+      "probability": 0.177
+    },
+    {
+      "start": 395.93,
+      "end": 396.33,
+      "text": "Tem",
+      "probability": 0.3
+    },
+    {
+      "start": 396.33,
+      "end": 396.79,
+      "text": "resultado",
+      "probability": 0.682
+    },
+    {
+      "start": 396.79,
+      "end": 397.13,
+      "text": "também.",
+      "probability": 0.439
+    },
+    {
+      "start": 397.23,
+      "end": 397.47,
+      "text": "Não",
+      "probability": 0.357
+    },
+    {
+      "start": 397.47,
+      "end": 397.53,
+      "text": "é",
+      "probability": 0.389
+    },
+    {
+      "start": 397.53,
+      "end": 398.11,
+      "text": "geralzinho,",
+      "probability": 0.757
+    },
+    {
+      "start": 398.13,
+      "end": 398.35,
+      "text": "é",
+      "probability": 0.47
+    },
+    {
+      "start": 398.35,
+      "end": 398.39,
+      "text": "de",
+      "probability": 0.247
+    },
+    {
+      "start": 398.39,
+      "end": 398.63,
+      "text": "tempo.",
+      "probability": 0.482
+    },
+    {
+      "start": 398.63,
+      "end": 398.87,
+      "text": "E",
+      "probability": 0.413
+    },
+    {
+      "start": 398.87,
+      "end": 398.99,
+      "text": "aqui",
+      "probability": 0.627
+    },
+    {
+      "start": 398.99,
+      "end": 399.13,
+      "text": "no",
+      "probability": 0.28
+    },
+    {
+      "start": 399.13,
+      "end": 399.29,
+      "text": "estado",
+      "probability": 0.086
+    },
+    {
+      "start": 399.29,
+      "end": 399.43,
+      "text": "é",
+      "probability": 0.189
+    },
+    {
+      "start": 399.43,
+      "end": 399.59,
+      "text": "que",
+      "probability": 0.309
+    },
+    {
+      "start": 399.59,
+      "end": 399.63,
+      "text": "o",
+      "probability": 0.474
+    },
+    {
+      "start": 399.63,
+      "end": 399.99,
+      "text": "Arré",
+      "probability": 0.317
+    },
+    {
+      "start": 399.99,
+      "end": 399.99,
+      "text": "é",
+      "probability": 0.113
+    },
+    {
+      "start": 399.99,
+      "end": 400.23,
+      "text": "pra",
+      "probability": 0.261
+    },
+    {
+      "start": 400.23,
+      "end": 400.51,
+      "text": "ver.",
+      "probability": 0.246
+    },
+    {
+      "start": 400.65,
+      "end": 400.97,
+      "text": "Não,",
+      "probability": 0.264
+    },
+    {
+      "start": 401.15,
+      "end": 401.23,
+      "text": "não",
+      "probability": 0.892
+    },
+    {
+      "start": 401.23,
+      "end": 401.37,
+      "text": "é.",
+      "probability": 0.703
+    },
+    {
+      "start": 401.47,
+      "end": 401.81,
+      "text": "O",
+      "probability": 0.162
+    },
+    {
+      "start": 401.81,
+      "end": 402.37,
+      "text": "Arré",
+      "probability": 0.792
+    },
+    {
+      "start": 402.37,
+      "end": 402.53,
+      "text": "é",
+      "probability": 0.82
+    },
+    {
+      "start": 402.53,
+      "end": 402.69,
+      "text": "pra",
+      "probability": 0.547
+    },
+    {
+      "start": 402.69,
+      "end": 402.89,
+      "text": "você",
+      "probability": 0.228
+    },
+    {
+      "start": 402.89,
+      "end": 403.03,
+      "text": "ver.",
+      "probability": 0.537
+    },
+    {
+      "start": 403.49,
+      "end": 403.89,
+      "text": "Quando",
+      "probability": 0.807
+    },
+    {
+      "start": 403.89,
+      "end": 404.03,
+      "text": "é",
+      "probability": 0.362
+    },
+    {
+      "start": 404.03,
+      "end": 404.09,
+      "text": "uma",
+      "probability": 0.417
+    },
+    {
+      "start": 404.09,
+      "end": 404.55,
+      "text": "inscrição",
+      "probability": 0.902
+    },
+    {
+      "start": 404.55,
+      "end": 404.73,
+      "text": "aí,",
+      "probability": 0.999
+    },
+    {
+      "start": 404.75,
+      "end": 405.11,
+      "text": "manda",
+      "probability": 0.914
+    },
+    {
+      "start": 405.11,
+      "end": 405.11,
+      "text": "a",
+      "probability": 0.531
+    },
+    {
+      "start": 405.11,
+      "end": 405.29,
+      "text": "mão",
+      "probability": 0.646
+    },
+    {
+      "start": 405.29,
+      "end": 405.39,
+      "text": "e",
+      "probability": 0.313
+    },
+    {
+      "start": 405.39,
+      "end": 405.73,
+      "text": "confere.",
+      "probability": 0.345
+    },
+    {
+      "start": 405.87,
+      "end": 406.01,
+      "text": "Não,",
+      "probability": 0.177
+    },
+    {
+      "start": 406.15,
+      "end": 406.23,
+      "text": "não",
+      "probability": 0.71
+    },
+    {
+      "start": 406.23,
+      "end": 406.49,
+      "text": "é",
+      "probability": 0.435
+    },
+    {
+      "start": 406.49,
+      "end": 406.81,
+      "text": "inscrição.",
+      "probability": 0.798
+    },
+    {
+      "start": 406.99,
+      "end": 407.27,
+      "text": "É",
+      "probability": 0.369
+    },
+    {
+      "start": 407.27,
+      "end": 407.27,
+      "text": "o",
+      "probability": 0.539
+    },
+    {
+      "start": 407.27,
+      "end": 407.27,
+      "text": "nome.",
+      "probability": 0.372
+    },
+    {
+      "start": 407.65,
+      "end": 408.05,
+      "text": "Não,",
+      "probability": 0.511
+    },
+    {
+      "start": 408.15,
+      "end": 408.21,
+      "text": "não",
+      "probability": 0.942
+    },
+    {
+      "start": 408.21,
+      "end": 408.41,
+      "text": "é",
+      "probability": 0.962
+    },
+    {
+      "start": 408.41,
+      "end": 408.73,
+      "text": "inscrição.",
+      "probability": 0.94
+    },
+    {
+      "start": 408.97,
+      "end": 408.97,
+      "text": "Não,",
+      "probability": 0.303
+    },
+    {
+      "start": 409.17,
+      "end": 409.17,
+      "text": "não",
+      "probability": 0.938
+    },
+    {
+      "start": 409.17,
+      "end": 409.17,
+      "text": "é",
+      "probability": 0.974
+    },
+    {
+      "start": 409.17,
+      "end": 409.43,
+      "text": "inscrição.",
+      "probability": 0.921
+    },
+    {
+      "start": 409.75,
+      "end": 409.87,
+      "text": "É",
+      "probability": 0.583
+    },
+    {
+      "start": 409.87,
+      "end": 409.87,
+      "text": "o",
+      "probability": 0.906
+    },
+    {
+      "start": 409.87,
+      "end": 409.87,
+      "text": "nome.",
+      "probability": 0.976
+    },
+    {
+      "start": 410.05,
+      "end": 410.45,
+      "text": "É",
+      "probability": 0.231
+    },
+    {
+      "start": 410.45,
+      "end": 410.57,
+      "text": "o",
+      "probability": 0.909
+    },
+    {
+      "start": 410.57,
+      "end": 410.73,
+      "text": "nome.",
+      "probability": 0.988
+    },
+    {
+      "start": 423.46,
+      "end": 424.34,
+      "text": "A",
+      "probability": 0.091
+    },
+    {
+      "start": 424.34,
+      "end": 424.8,
+      "text": "noite",
+      "probability": 0.216
+    },
+    {
+      "start": 424.8,
+      "end": 425.88,
+      "text": "descalça,",
+      "probability": 0.329
+    },
+    {
+      "start": 425.88,
+      "end": 426.56,
+      "text": "a",
+      "probability": 0.79
+    },
+    {
+      "start": 427.43,
+      "end": 428.81,
+      "text": "noite",
+      "probability": 0.998
+    },
+    {
+      "start": 428.81,
+      "end": 429.49,
+      "text": "descalça,",
+      "probability": 0.99
+    },
+    {
+      "start": 429.91,
+      "end": 430.23,
+      "text": "a",
+      "probability": 0.771
+    },
+    {
+      "start": 430.23,
+      "end": 431.09,
+      "text": "noite",
+      "probability": 0.998
+    },
+    {
+      "start": 431.09,
+      "end": 431.97,
+      "text": "descalça,",
+      "probability": 0.989
+    },
+    {
+      "start": 432.59,
+      "end": 432.67,
+      "text": "a",
+      "probability": 0.817
+    },
+    {
+      "start": 432.67,
+      "end": 433.99,
+      "text": "noite",
+      "probability": 0.993
+    },
+    {
+      "start": 434.82,
+      "end": 435.58,
+      "text": "descalça.",
+      "probability": 0.992
+    },
+    {
+      "start": 461.98,
+      "end": 462.36,
+      "text": "O",
+      "probability": 0.036
+    },
+    {
+      "start": 462.36,
+      "end": 462.88,
+      "text": "que",
+      "probability": 0.518
+    },
+    {
+      "start": 462.88,
+      "end": 464.02,
+      "text": "é",
+      "probability": 0.415
+    },
+    {
+      "start": 1799.25,
+      "end": 1799.95,
+      "text": "isso?",
+      "probability": 0.697
+    }
+  ]
+}

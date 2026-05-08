@@ -1,0 +1,35 @@
+{
+  "source_file": "VOR20260508104748_0805_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1800.1,
+  "segments": {
+    "00:29:31,00:29:36": "A CIDADE NO BRASIL"
+  },
+  "words": [
+    {
+      "start": 1771.44,
+      "end": 1772.84,
+      "text": "A",
+      "probability": 0.037
+    },
+    {
+      "start": 1772.84,
+      "end": 1774.24,
+      "text": "CIDADE",
+      "probability": 0.656
+    },
+    {
+      "start": 1774.24,
+      "end": 1774.54,
+      "text": "NO",
+      "probability": 0.983
+    },
+    {
+      "start": 1774.54,
+      "end": 1776.82,
+      "text": "BRASIL",
+      "probability": 0.952
+    }
+  ]
+}

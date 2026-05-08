@@ -1,0 +1,35 @@
+{
+  "source_file": "VOR20260508111751_0805_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1153.0,
+  "segments": {
+    "00:01:09,00:01:20": "3, 2, 1, GO!"
+  },
+  "words": [
+    {
+      "start": 69.88,
+      "end": 70.42,
+      "text": "3,",
+      "probability": 0.015
+    },
+    {
+      "start": 70.5,
+      "end": 70.6,
+      "text": "2,",
+      "probability": 0.784
+    },
+    {
+      "start": 70.76,
+      "end": 71.56,
+      "text": "1,",
+      "probability": 0.996
+    },
+    {
+      "start": 79.58,
+      "end": 80.28,
+      "text": "GO!",
+      "probability": 0.078
+    }
+  ]
+}

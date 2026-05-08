@@ -1,0 +1,86 @@
+{
+  "source_file": "VOR20260508104748_0805_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1800.1,
+  "segments": {
+    "00:26:34,00:26:38": "O que é isso?",
+    "00:27:29,00:27:36": "A CIDADE NO BRASIL",
+    "00:28:13,00:28:16": "Tchau, tchau.",
+    "00:29:10,00:29:13": "Tchau, tchau."
+  },
+  "words": [
+    {
+      "start": 1594.55,
+      "end": 1595.71,
+      "text": "O",
+      "probability": 0.04
+    },
+    {
+      "start": 1595.71,
+      "end": 1596.29,
+      "text": "que",
+      "probability": 0.555
+    },
+    {
+      "start": 1596.29,
+      "end": 1596.67,
+      "text": "é",
+      "probability": 0.654
+    },
+    {
+      "start": 1596.67,
+      "end": 1598.39,
+      "text": "isso?",
+      "probability": 0.748
+    },
+    {
+      "start": 1649.83,
+      "end": 1651.23,
+      "text": "A",
+      "probability": 0.016
+    },
+    {
+      "start": 1651.23,
+      "end": 1652.63,
+      "text": "CIDADE",
+      "probability": 0.639
+    },
+    {
+      "start": 1652.63,
+      "end": 1652.77,
+      "text": "NO",
+      "probability": 0.971
+    },
+    {
+      "start": 1652.77,
+      "end": 1656.41,
+      "text": "BRASIL",
+      "probability": 0.936
+    },
+    {
+      "start": 1693.47,
+      "end": 1694.73,
+      "text": "Tchau,",
+      "probability": 0.505
+    },
+    {
+      "start": 1695.7,
+      "end": 1696.14,
+      "text": "tchau.",
+      "probability": 0.934
+    },
+    {
+      "start": 1750.42,
+      "end": 1751.82,
+      "text": "Tchau,",
+      "probability": 0.504
+    },
+    {
+      "start": 1751.82,
+      "end": 1753.22,
+      "text": "tchau.",
+      "probability": 0.961
+    }
+  ]
+}

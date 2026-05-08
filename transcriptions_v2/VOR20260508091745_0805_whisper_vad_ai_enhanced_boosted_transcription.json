@@ -1,0 +1,1454 @@
+{
+  "source_file": "VOR20260508091745_0805_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1800.0,
+  "segments": {
+    "00:22:35,00:24:36": "Eu tenho uma dúvida, eu não posso interagir com a mãe, eu não posso interagir com a mãe, eu não posso interagir com a mãe, eu não posso interagir com a mãe, eu não posso interagir com a mãe, eu não posso interagir com a mãe.",
+    "00:26:42,00:28:18": "Eu fiz isso quando eu tinha 16 anos, quando eu tinha 15 anos, quando eu tinha 15 anos, quando eu tinha 15 anos, quando eu tinha 15 anos, quando eu tinha 15 anos, quando eu tinha 15 anos, quando eu tinha 15 anos, quando eu tinha 15 anos, quando eu tinha 15 anos, quando eu tinha 15 anos, quando eu tinha 15 anos, quando eu tinha 15 anos, quando eu tinha 15 anos, quando eu tinha 15 anos, quando eu tinha 15 anos, quando eu tinha 15 anos, quando eu tinha 15 anos, quando eu tinha 15 anos, quando eu tinha 15 anos, quando eu tinha 15 anos, quando eu tinha 15 anos, quando eu tinha 15 anos, quando eu tinha 15 anos, quando eu tinha 15 anos, quando eu tinha 15 anos, quando eu tinha 15 anos, quando eu tinha 15 anos, quando eu tinha 15 anos, quando eu tinha 15 anos, quando eu tinha 15 anos, quando eu tinha 15 anos, quando eu tinha 15 anos, quando eu tinha 15 anos, quando eu tinha 15 anos, quando eu tinha 15 anos, quando eu tinha 15",
+    "00:28:52,00:29:04": "A CIDADE NO BRASIL",
+    "00:29:35,00:29:37": "Tchau, tchau, tchau."
+  },
+  "words": [
+    {
+      "start": 1355.8,
+      "end": 1356.08,
+      "text": "Eu",
+      "probability": 0.068
+    },
+    {
+      "start": 1462.93,
+      "end": 1463.33,
+      "text": "tenho",
+      "probability": 0.18
+    },
+    {
+      "start": 1463.33,
+      "end": 1463.81,
+      "text": "uma",
+      "probability": 0.585
+    },
+    {
+      "start": 1463.81,
+      "end": 1464.19,
+      "text": "dúvida,",
+      "probability": 0.981
+    },
+    {
+      "start": 1464.35,
+      "end": 1464.79,
+      "text": "eu",
+      "probability": 0.305
+    },
+    {
+      "start": 1464.79,
+      "end": 1464.91,
+      "text": "não",
+      "probability": 0.815
+    },
+    {
+      "start": 1464.91,
+      "end": 1465.15,
+      "text": "posso",
+      "probability": 0.34
+    },
+    {
+      "start": 1465.15,
+      "end": 1465.97,
+      "text": "interagir",
+      "probability": 0.619
+    },
+    {
+      "start": 1465.97,
+      "end": 1466.15,
+      "text": "com",
+      "probability": 0.627
+    },
+    {
+      "start": 1466.15,
+      "end": 1466.21,
+      "text": "a",
+      "probability": 0.388
+    },
+    {
+      "start": 1466.21,
+      "end": 1466.49,
+      "text": "mãe,",
+      "probability": 0.12
+    },
+    {
+      "start": 1466.75,
+      "end": 1466.89,
+      "text": "eu",
+      "probability": 0.268
+    },
+    {
+      "start": 1466.89,
+      "end": 1467.91,
+      "text": "não",
+      "probability": 0.453
+    },
+    {
+      "start": 1467.91,
+      "end": 1468.13,
+      "text": "posso",
+      "probability": 0.14
+    },
+    {
+      "start": 1468.13,
+      "end": 1468.29,
+      "text": "interagir",
+      "probability": 0.915
+    },
+    {
+      "start": 1468.29,
+      "end": 1468.31,
+      "text": "com",
+      "probability": 0.778
+    },
+    {
+      "start": 1468.31,
+      "end": 1468.35,
+      "text": "a",
+      "probability": 0.871
+    },
+    {
+      "start": 1468.35,
+      "end": 1469.57,
+      "text": "mãe,",
+      "probability": 0.952
+    },
+    {
+      "start": 1469.69,
+      "end": 1469.69,
+      "text": "eu",
+      "probability": 0.642
+    },
+    {
+      "start": 1469.69,
+      "end": 1469.69,
+      "text": "não",
+      "probability": 0.898
+    },
+    {
+      "start": 1469.69,
+      "end": 1469.69,
+      "text": "posso",
+      "probability": 0.794
+    },
+    {
+      "start": 1469.69,
+      "end": 1469.69,
+      "text": "interagir",
+      "probability": 0.985
+    },
+    {
+      "start": 1469.69,
+      "end": 1469.69,
+      "text": "com",
+      "probability": 0.972
+    },
+    {
+      "start": 1469.69,
+      "end": 1470.03,
+      "text": "a",
+      "probability": 0.977
+    },
+    {
+      "start": 1470.03,
+      "end": 1470.37,
+      "text": "mãe,",
+      "probability": 0.992
+    },
+    {
+      "start": 1470.37,
+      "end": 1470.57,
+      "text": "eu",
+      "probability": 0.769
+    },
+    {
+      "start": 1470.57,
+      "end": 1470.91,
+      "text": "não",
+      "probability": 0.955
+    },
+    {
+      "start": 1470.91,
+      "end": 1471.13,
+      "text": "posso",
+      "probability": 0.872
+    },
+    {
+      "start": 1471.13,
+      "end": 1471.57,
+      "text": "interagir",
+      "probability": 0.984
+    },
+    {
+      "start": 1471.57,
+      "end": 1471.65,
+      "text": "com",
+      "probability": 0.972
+    },
+    {
+      "start": 1471.65,
+      "end": 1472.17,
+      "text": "a",
+      "probability": 0.982
+    },
+    {
+      "start": 1472.17,
+      "end": 1472.29,
+      "text": "mãe,",
+      "probability": 0.993
+    },
+    {
+      "start": 1472.49,
+      "end": 1472.49,
+      "text": "eu",
+      "probability": 0.804
+    },
+    {
+      "start": 1472.49,
+      "end": 1472.49,
+      "text": "não",
+      "probability": 0.967
+    },
+    {
+      "start": 1472.49,
+      "end": 1472.57,
+      "text": "posso",
+      "probability": 0.884
+    },
+    {
+      "start": 1472.57,
+      "end": 1473.91,
+      "text": "interagir",
+      "probability": 0.982
+    },
+    {
+      "start": 1473.91,
+      "end": 1474.17,
+      "text": "com",
+      "probability": 0.975
+    },
+    {
+      "start": 1474.17,
+      "end": 1474.17,
+      "text": "a",
+      "probability": 0.988
+    },
+    {
+      "start": 1474.17,
+      "end": 1474.69,
+      "text": "mãe,",
+      "probability": 0.995
+    },
+    {
+      "start": 1474.71,
+      "end": 1474.89,
+      "text": "eu",
+      "probability": 0.839
+    },
+    {
+      "start": 1474.89,
+      "end": 1475.01,
+      "text": "não",
+      "probability": 0.977
+    },
+    {
+      "start": 1475.01,
+      "end": 1475.37,
+      "text": "posso",
+      "probability": 0.895
+    },
+    {
+      "start": 1475.37,
+      "end": 1476.05,
+      "text": "interagir",
+      "probability": 0.981
+    },
+    {
+      "start": 1476.05,
+      "end": 1476.05,
+      "text": "com",
+      "probability": 0.981
+    },
+    {
+      "start": 1476.05,
+      "end": 1476.05,
+      "text": "a",
+      "probability": 0.993
+    },
+    {
+      "start": 1476.05,
+      "end": 1476.09,
+      "text": "mãe.",
+      "probability": 0.996
+    },
+    {
+      "start": 1602.58,
+      "end": 1602.72,
+      "text": "Eu",
+      "probability": 0.055
+    },
+    {
+      "start": 1602.72,
+      "end": 1603.3,
+      "text": "fiz",
+      "probability": 0.034
+    },
+    {
+      "start": 1603.3,
+      "end": 1603.96,
+      "text": "isso",
+      "probability": 0.547
+    },
+    {
+      "start": 1622.68,
+      "end": 1624.0,
+      "text": "quando",
+      "probability": 0.382
+    },
+    {
+      "start": 1624.0,
+      "end": 1624.42,
+      "text": "eu",
+      "probability": 0.752
+    },
+    {
+      "start": 1624.42,
+      "end": 1624.66,
+      "text": "tinha",
+      "probability": 0.281
+    },
+    {
+      "start": 1624.66,
+      "end": 1625.14,
+      "text": "16",
+      "probability": 0.192
+    },
+    {
+      "start": 1625.14,
+      "end": 1625.32,
+      "text": "anos,",
+      "probability": 0.944
+    },
+    {
+      "start": 1625.42,
+      "end": 1625.76,
+      "text": "quando",
+      "probability": 0.245
+    },
+    {
+      "start": 1625.76,
+      "end": 1627.2,
+      "text": "eu",
+      "probability": 0.949
+    },
+    {
+      "start": 1627.2,
+      "end": 1627.2,
+      "text": "tinha",
+      "probability": 0.747
+    },
+    {
+      "start": 1627.2,
+      "end": 1627.4,
+      "text": "15",
+      "probability": 0.242
+    },
+    {
+      "start": 1633.86,
+      "end": 1634.4,
+      "text": "anos,",
+      "probability": 0.876
+    },
+    {
+      "start": 1634.88,
+      "end": 1634.92,
+      "text": "quando",
+      "probability": 0.518
+    },
+    {
+      "start": 1634.92,
+      "end": 1635.66,
+      "text": "eu",
+      "probability": 0.995
+    },
+    {
+      "start": 1635.66,
+      "end": 1635.88,
+      "text": "tinha",
+      "probability": 0.909
+    },
+    {
+      "start": 1635.88,
+      "end": 1636.14,
+      "text": "15",
+      "probability": 0.545
+    },
+    {
+      "start": 1636.14,
+      "end": 1636.9,
+      "text": "anos,",
+      "probability": 0.991
+    },
+    {
+      "start": 1638.3,
+      "end": 1639.22,
+      "text": "quando",
+      "probability": 0.513
+    },
+    {
+      "start": 1639.22,
+      "end": 1640.2,
+      "text": "eu",
+      "probability": 0.997
+    },
+    {
+      "start": 1640.2,
+      "end": 1640.2,
+      "text": "tinha",
+      "probability": 0.932
+    },
+    {
+      "start": 1640.2,
+      "end": 1640.2,
+      "text": "15",
+      "probability": 0.877
+    },
+    {
+      "start": 1640.2,
+      "end": 1640.2,
+      "text": "anos,",
+      "probability": 0.998
+    },
+    {
+      "start": 1640.2,
+      "end": 1640.24,
+      "text": "quando",
+      "probability": 0.442
+    },
+    {
+      "start": 1645.01,
+      "end": 1645.41,
+      "text": "eu",
+      "probability": 0.996
+    },
+    {
+      "start": 1645.41,
+      "end": 1645.77,
+      "text": "tinha",
+      "probability": 0.936
+    },
+    {
+      "start": 1645.77,
+      "end": 1646.27,
+      "text": "15",
+      "probability": 0.96
+    },
+    {
+      "start": 1646.27,
+      "end": 1646.39,
+      "text": "anos,",
+      "probability": 0.999
+    },
+    {
+      "start": 1646.53,
+      "end": 1646.73,
+      "text": "quando",
+      "probability": 0.377
+    },
+    {
+      "start": 1646.73,
+      "end": 1646.73,
+      "text": "eu",
+      "probability": 0.997
+    },
+    {
+      "start": 1646.73,
+      "end": 1646.73,
+      "text": "tinha",
+      "probability": 0.946
+    },
+    {
+      "start": 1646.73,
+      "end": 1646.73,
+      "text": "15",
+      "probability": 0.98
+    },
+    {
+      "start": 1646.73,
+      "end": 1646.73,
+      "text": "anos,",
+      "probability": 0.999
+    },
+    {
+      "start": 1646.73,
+      "end": 1646.75,
+      "text": "quando",
+      "probability": 0.462
+    },
+    {
+      "start": 1646.75,
+      "end": 1647.11,
+      "text": "eu",
+      "probability": 0.998
+    },
+    {
+      "start": 1647.11,
+      "end": 1647.11,
+      "text": "tinha",
+      "probability": 0.961
+    },
+    {
+      "start": 1647.11,
+      "end": 1647.11,
+      "text": "15",
+      "probability": 0.989
+    },
+    {
+      "start": 1647.11,
+      "end": 1647.11,
+      "text": "anos,",
+      "probability": 0.999
+    },
+    {
+      "start": 1647.65,
+      "end": 1647.89,
+      "text": "quando",
+      "probability": 0.603
+    },
+    {
+      "start": 1647.89,
+      "end": 1648.13,
+      "text": "eu",
+      "probability": 0.999
+    },
+    {
+      "start": 1648.13,
+      "end": 1648.13,
+      "text": "tinha",
+      "probability": 0.972
+    },
+    {
+      "start": 1648.13,
+      "end": 1648.13,
+      "text": "15",
+      "probability": 0.991
+    },
+    {
+      "start": 1648.13,
+      "end": 1648.13,
+      "text": "anos,",
+      "probability": 0.999
+    },
+    {
+      "start": 1648.13,
+      "end": 1648.13,
+      "text": "quando",
+      "probability": 0.716
+    },
+    {
+      "start": 1648.13,
+      "end": 1648.13,
+      "text": "eu",
+      "probability": 0.999
+    },
+    {
+      "start": 1648.13,
+      "end": 1648.35,
+      "text": "tinha",
+      "probability": 0.978
+    },
+    {
+      "start": 1648.35,
+      "end": 1648.49,
+      "text": "15",
+      "probability": 0.993
+    },
+    {
+      "start": 1648.49,
+      "end": 1648.49,
+      "text": "anos,",
+      "probability": 0.999
+    },
+    {
+      "start": 1648.49,
+      "end": 1648.49,
+      "text": "quando",
+      "probability": 0.778
+    },
+    {
+      "start": 1648.49,
+      "end": 1648.49,
+      "text": "eu",
+      "probability": 0.999
+    },
+    {
+      "start": 1648.49,
+      "end": 1648.49,
+      "text": "tinha",
+      "probability": 0.98
+    },
+    {
+      "start": 1648.49,
+      "end": 1648.89,
+      "text": "15",
+      "probability": 0.993
+    },
+    {
+      "start": 1648.89,
+      "end": 1648.95,
+      "text": "anos,",
+      "probability": 0.999
+    },
+    {
+      "start": 1648.95,
+      "end": 1648.95,
+      "text": "quando",
+      "probability": 0.818
+    },
+    {
+      "start": 1648.95,
+      "end": 1648.95,
+      "text": "eu",
+      "probability": 0.999
+    },
+    {
+      "start": 1648.95,
+      "end": 1648.95,
+      "text": "tinha",
+      "probability": 0.982
+    },
+    {
+      "start": 1648.95,
+      "end": 1648.95,
+      "text": "15",
+      "probability": 0.994
+    },
+    {
+      "start": 1648.95,
+      "end": 1649.27,
+      "text": "anos,",
+      "probability": 0.998
+    },
+    {
+      "start": 1650.15,
+      "end": 1650.15,
+      "text": "quando",
+      "probability": 0.847
+    },
+    {
+      "start": 1650.15,
+      "end": 1650.15,
+      "text": "eu",
+      "probability": 0.999
+    },
+    {
+      "start": 1650.15,
+      "end": 1650.15,
+      "text": "tinha",
+      "probability": 0.983
+    },
+    {
+      "start": 1650.15,
+      "end": 1650.15,
+      "text": "15",
+      "probability": 0.994
+    },
+    {
+      "start": 1650.15,
+      "end": 1650.15,
+      "text": "anos,",
+      "probability": 0.998
+    },
+    {
+      "start": 1650.19,
+      "end": 1650.65,
+      "text": "quando",
+      "probability": 0.867
+    },
+    {
+      "start": 1650.65,
+      "end": 1650.89,
+      "text": "eu",
+      "probability": 0.999
+    },
+    {
+      "start": 1650.89,
+      "end": 1650.89,
+      "text": "tinha",
+      "probability": 0.984
+    },
+    {
+      "start": 1650.89,
+      "end": 1651.09,
+      "text": "15",
+      "probability": 0.994
+    },
+    {
+      "start": 1651.09,
+      "end": 1651.09,
+      "text": "anos,",
+      "probability": 0.998
+    },
+    {
+      "start": 1651.09,
+      "end": 1651.09,
+      "text": "quando",
+      "probability": 0.883
+    },
+    {
+      "start": 1651.09,
+      "end": 1651.09,
+      "text": "eu",
+      "probability": 0.999
+    },
+    {
+      "start": 1651.09,
+      "end": 1651.09,
+      "text": "tinha",
+      "probability": 0.985
+    },
+    {
+      "start": 1651.09,
+      "end": 1651.17,
+      "text": "15",
+      "probability": 0.994
+    },
+    {
+      "start": 1651.17,
+      "end": 1651.27,
+      "text": "anos,",
+      "probability": 0.998
+    },
+    {
+      "start": 1651.27,
+      "end": 1651.27,
+      "text": "quando",
+      "probability": 0.895
+    },
+    {
+      "start": 1651.27,
+      "end": 1651.27,
+      "text": "eu",
+      "probability": 0.999
+    },
+    {
+      "start": 1651.27,
+      "end": 1651.27,
+      "text": "tinha",
+      "probability": 0.985
+    },
+    {
+      "start": 1651.27,
+      "end": 1651.27,
+      "text": "15",
+      "probability": 0.994
+    },
+    {
+      "start": 1651.27,
+      "end": 1651.71,
+      "text": "anos,",
+      "probability": 0.998
+    },
+    {
+      "start": 1652.67,
+      "end": 1653.35,
+      "text": "quando",
+      "probability": 0.906
+    },
+    {
+      "start": 1653.35,
+      "end": 1653.35,
+      "text": "eu",
+      "probability": 0.999
+    },
+    {
+      "start": 1653.35,
+      "end": 1653.35,
+      "text": "tinha",
+      "probability": 0.986
+    },
+    {
+      "start": 1653.35,
+      "end": 1653.43,
+      "text": "15",
+      "probability": 0.994
+    },
+    {
+      "start": 1653.43,
+      "end": 1653.43,
+      "text": "anos,",
+      "probability": 0.997
+    },
+    {
+      "start": 1654.06,
+      "end": 1654.9,
+      "text": "quando",
+      "probability": 0.913
+    },
+    {
+      "start": 1654.9,
+      "end": 1654.98,
+      "text": "eu",
+      "probability": 0.999
+    },
+    {
+      "start": 1654.98,
+      "end": 1655.08,
+      "text": "tinha",
+      "probability": 0.987
+    },
+    {
+      "start": 1655.08,
+      "end": 1655.1,
+      "text": "15",
+      "probability": 0.994
+    },
+    {
+      "start": 1655.1,
+      "end": 1655.1,
+      "text": "anos,",
+      "probability": 0.997
+    },
+    {
+      "start": 1655.1,
+      "end": 1655.36,
+      "text": "quando",
+      "probability": 0.919
+    },
+    {
+      "start": 1655.36,
+      "end": 1655.76,
+      "text": "eu",
+      "probability": 0.999
+    },
+    {
+      "start": 1684.6,
+      "end": 1684.6,
+      "text": "tinha",
+      "probability": 0.987
+    },
+    {
+      "start": 1684.6,
+      "end": 1684.98,
+      "text": "15",
+      "probability": 0.994
+    },
+    {
+      "start": 1684.98,
+      "end": 1685.02,
+      "text": "anos,",
+      "probability": 0.997
+    },
+    {
+      "start": 1685.02,
+      "end": 1685.32,
+      "text": "quando",
+      "probability": 0.925
+    },
+    {
+      "start": 1685.32,
+      "end": 1685.4,
+      "text": "eu",
+      "probability": 0.998
+    },
+    {
+      "start": 1685.4,
+      "end": 1685.54,
+      "text": "tinha",
+      "probability": 0.988
+    },
+    {
+      "start": 1685.54,
+      "end": 1685.74,
+      "text": "15",
+      "probability": 0.994
+    },
+    {
+      "start": 1685.74,
+      "end": 1685.74,
+      "text": "anos,",
+      "probability": 0.997
+    },
+    {
+      "start": 1685.74,
+      "end": 1685.74,
+      "text": "quando",
+      "probability": 0.928
+    },
+    {
+      "start": 1685.74,
+      "end": 1685.74,
+      "text": "eu",
+      "probability": 0.998
+    },
+    {
+      "start": 1685.74,
+      "end": 1685.74,
+      "text": "tinha",
+      "probability": 0.988
+    },
+    {
+      "start": 1685.74,
+      "end": 1686.16,
+      "text": "15",
+      "probability": 0.994
+    },
+    {
+      "start": 1686.16,
+      "end": 1686.82,
+      "text": "anos,",
+      "probability": 0.997
+    },
+    {
+      "start": 1687.28,
+      "end": 1687.5,
+      "text": "quando",
+      "probability": 0.931
+    },
+    {
+      "start": 1687.5,
+      "end": 1687.54,
+      "text": "eu",
+      "probability": 0.998
+    },
+    {
+      "start": 1687.54,
+      "end": 1687.54,
+      "text": "tinha",
+      "probability": 0.988
+    },
+    {
+      "start": 1687.54,
+      "end": 1687.54,
+      "text": "15",
+      "probability": 0.994
+    },
+    {
+      "start": 1687.54,
+      "end": 1687.54,
+      "text": "anos,",
+      "probability": 0.997
+    },
+    {
+      "start": 1687.54,
+      "end": 1687.54,
+      "text": "quando",
+      "probability": 0.934
+    },
+    {
+      "start": 1687.54,
+      "end": 1687.54,
+      "text": "eu",
+      "probability": 0.998
+    },
+    {
+      "start": 1687.54,
+      "end": 1687.54,
+      "text": "tinha",
+      "probability": 0.989
+    },
+    {
+      "start": 1687.54,
+      "end": 1687.54,
+      "text": "15",
+      "probability": 0.994
+    },
+    {
+      "start": 1687.54,
+      "end": 1687.54,
+      "text": "anos,",
+      "probability": 0.997
+    },
+    {
+      "start": 1687.54,
+      "end": 1687.54,
+      "text": "quando",
+      "probability": 0.935
+    },
+    {
+      "start": 1687.54,
+      "end": 1687.54,
+      "text": "eu",
+      "probability": 0.998
+    },
+    {
+      "start": 1687.54,
+      "end": 1687.54,
+      "text": "tinha",
+      "probability": 0.989
+    },
+    {
+      "start": 1687.54,
+      "end": 1687.54,
+      "text": "15",
+      "probability": 0.994
+    },
+    {
+      "start": 1687.54,
+      "end": 1687.54,
+      "text": "anos,",
+      "probability": 0.996
+    },
+    {
+      "start": 1687.54,
+      "end": 1687.54,
+      "text": "quando",
+      "probability": 0.937
+    },
+    {
+      "start": 1687.54,
+      "end": 1687.54,
+      "text": "eu",
+      "probability": 0.998
+    },
+    {
+      "start": 1687.54,
+      "end": 1687.54,
+      "text": "tinha",
+      "probability": 0.989
+    },
+    {
+      "start": 1687.54,
+      "end": 1687.54,
+      "text": "15",
+      "probability": 0.994
+    },
+    {
+      "start": 1687.54,
+      "end": 1687.54,
+      "text": "anos,",
+      "probability": 0.996
+    },
+    {
+      "start": 1687.54,
+      "end": 1687.54,
+      "text": "quando",
+      "probability": 0.939
+    },
+    {
+      "start": 1687.54,
+      "end": 1687.66,
+      "text": "eu",
+      "probability": 0.998
+    },
+    {
+      "start": 1687.66,
+      "end": 1687.78,
+      "text": "tinha",
+      "probability": 0.99
+    },
+    {
+      "start": 1687.78,
+      "end": 1687.8,
+      "text": "15",
+      "probability": 0.994
+    },
+    {
+      "start": 1687.8,
+      "end": 1687.8,
+      "text": "anos,",
+      "probability": 0.996
+    },
+    {
+      "start": 1687.8,
+      "end": 1687.9,
+      "text": "quando",
+      "probability": 0.941
+    },
+    {
+      "start": 1687.9,
+      "end": 1687.9,
+      "text": "eu",
+      "probability": 0.998
+    },
+    {
+      "start": 1687.9,
+      "end": 1688.16,
+      "text": "tinha",
+      "probability": 0.99
+    },
+    {
+      "start": 1688.16,
+      "end": 1688.16,
+      "text": "15",
+      "probability": 0.994
+    },
+    {
+      "start": 1688.16,
+      "end": 1688.16,
+      "text": "anos,",
+      "probability": 0.996
+    },
+    {
+      "start": 1688.16,
+      "end": 1688.16,
+      "text": "quando",
+      "probability": 0.941
+    },
+    {
+      "start": 1688.16,
+      "end": 1688.16,
+      "text": "eu",
+      "probability": 0.998
+    },
+    {
+      "start": 1688.16,
+      "end": 1688.16,
+      "text": "tinha",
+      "probability": 0.99
+    },
+    {
+      "start": 1688.16,
+      "end": 1688.16,
+      "text": "15",
+      "probability": 0.994
+    },
+    {
+      "start": 1688.16,
+      "end": 1688.16,
+      "text": "anos,",
+      "probability": 0.996
+    },
+    {
+      "start": 1688.16,
+      "end": 1688.16,
+      "text": "quando",
+      "probability": 0.942
+    },
+    {
+      "start": 1688.16,
+      "end": 1688.16,
+      "text": "eu",
+      "probability": 0.998
+    },
+    {
+      "start": 1688.16,
+      "end": 1688.16,
+      "text": "tinha",
+      "probability": 0.99
+    },
+    {
+      "start": 1688.16,
+      "end": 1688.16,
+      "text": "15",
+      "probability": 0.994
+    },
+    {
+      "start": 1688.16,
+      "end": 1688.16,
+      "text": "anos,",
+      "probability": 0.995
+    },
+    {
+      "start": 1688.16,
+      "end": 1688.16,
+      "text": "quando",
+      "probability": 0.942
+    },
+    {
+      "start": 1688.16,
+      "end": 1688.16,
+      "text": "eu",
+      "probability": 0.997
+    },
+    {
+      "start": 1688.16,
+      "end": 1688.16,
+      "text": "tinha",
+      "probability": 0.99
+    },
+    {
+      "start": 1688.16,
+      "end": 1688.16,
+      "text": "15",
+      "probability": 0.994
+    },
+    {
+      "start": 1688.16,
+      "end": 1688.16,
+      "text": "anos,",
+      "probability": 0.995
+    },
+    {
+      "start": 1688.16,
+      "end": 1688.16,
+      "text": "quando",
+      "probability": 0.943
+    },
+    {
+      "start": 1688.16,
+      "end": 1688.16,
+      "text": "eu",
+      "probability": 0.997
+    },
+    {
+      "start": 1688.16,
+      "end": 1688.16,
+      "text": "tinha",
+      "probability": 0.99
+    },
+    {
+      "start": 1688.16,
+      "end": 1688.16,
+      "text": "15",
+      "probability": 0.994
+    },
+    {
+      "start": 1688.16,
+      "end": 1688.16,
+      "text": "anos,",
+      "probability": 0.995
+    },
+    {
+      "start": 1688.16,
+      "end": 1688.16,
+      "text": "quando",
+      "probability": 0.944
+    },
+    {
+      "start": 1688.16,
+      "end": 1688.16,
+      "text": "eu",
+      "probability": 0.997
+    },
+    {
+      "start": 1688.16,
+      "end": 1688.2,
+      "text": "tinha",
+      "probability": 0.99
+    },
+    {
+      "start": 1688.2,
+      "end": 1688.2,
+      "text": "15",
+      "probability": 0.994
+    },
+    {
+      "start": 1688.2,
+      "end": 1688.2,
+      "text": "anos,",
+      "probability": 0.995
+    },
+    {
+      "start": 1688.2,
+      "end": 1688.2,
+      "text": "quando",
+      "probability": 0.945
+    },
+    {
+      "start": 1688.2,
+      "end": 1688.2,
+      "text": "eu",
+      "probability": 0.997
+    },
+    {
+      "start": 1688.2,
+      "end": 1688.2,
+      "text": "tinha",
+      "probability": 0.991
+    },
+    {
+      "start": 1688.2,
+      "end": 1688.22,
+      "text": "15",
+      "probability": 0.994
+    },
+    {
+      "start": 1688.22,
+      "end": 1688.22,
+      "text": "anos,",
+      "probability": 0.995
+    },
+    {
+      "start": 1688.22,
+      "end": 1688.22,
+      "text": "quando",
+      "probability": 0.945
+    },
+    {
+      "start": 1688.22,
+      "end": 1688.22,
+      "text": "eu",
+      "probability": 0.997
+    },
+    {
+      "start": 1688.22,
+      "end": 1688.22,
+      "text": "tinha",
+      "probability": 0.991
+    },
+    {
+      "start": 1688.22,
+      "end": 1688.22,
+      "text": "15",
+      "probability": 0.994
+    },
+    {
+      "start": 1688.22,
+      "end": 1688.22,
+      "text": "anos,",
+      "probability": 0.995
+    },
+    {
+      "start": 1688.22,
+      "end": 1688.22,
+      "text": "quando",
+      "probability": 0.945
+    },
+    {
+      "start": 1688.22,
+      "end": 1688.22,
+      "text": "eu",
+      "probability": 0.997
+    },
+    {
+      "start": 1688.22,
+      "end": 1688.22,
+      "text": "tinha",
+      "probability": 0.991
+    },
+    {
+      "start": 1688.22,
+      "end": 1688.22,
+      "text": "15",
+      "probability": 0.994
+    },
+    {
+      "start": 1688.22,
+      "end": 1688.22,
+      "text": "anos,",
+      "probability": 0.995
+    },
+    {
+      "start": 1688.22,
+      "end": 1688.22,
+      "text": "quando",
+      "probability": 0.945
+    },
+    {
+      "start": 1688.22,
+      "end": 1688.22,
+      "text": "eu",
+      "probability": 0.997
+    },
+    {
+      "start": 1688.22,
+      "end": 1688.22,
+      "text": "tinha",
+      "probability": 0.991
+    },
+    {
+      "start": 1688.22,
+      "end": 1688.22,
+      "text": "15",
+      "probability": 0.994
+    },
+    {
+      "start": 1688.22,
+      "end": 1688.32,
+      "text": "anos,",
+      "probability": 0.995
+    },
+    {
+      "start": 1688.32,
+      "end": 1688.32,
+      "text": "quando",
+      "probability": 0.944
+    },
+    {
+      "start": 1688.57,
+      "end": 1688.89,
+      "text": "eu",
+      "probability": 0.997
+    },
+    {
+      "start": 1688.89,
+      "end": 1689.17,
+      "text": "tinha",
+      "probability": 0.991
+    },
+    {
+      "start": 1689.17,
+      "end": 1689.63,
+      "text": "15",
+      "probability": 0.994
+    },
+    {
+      "start": 1689.63,
+      "end": 1690.09,
+      "text": "anos,",
+      "probability": 0.995
+    },
+    {
+      "start": 1690.09,
+      "end": 1690.51,
+      "text": "quando",
+      "probability": 0.94
+    },
+    {
+      "start": 1697.07,
+      "end": 1697.35,
+      "text": "eu",
+      "probability": 0.997
+    },
+    {
+      "start": 1697.35,
+      "end": 1697.91,
+      "text": "tinha",
+      "probability": 0.991
+    },
+    {
+      "start": 1697.91,
+      "end": 1698.29,
+      "text": "15",
+      "probability": 0.994
+    },
+    {
+      "start": 1732.58,
+      "end": 1733.98,
+      "text": "A",
+      "probability": 0.037
+    },
+    {
+      "start": 1733.98,
+      "end": 1735.38,
+      "text": "CIDADE",
+      "probability": 0.671
+    },
+    {
+      "start": 1743.83,
+      "end": 1744.25,
+      "text": "NO",
+      "probability": 0.979
+    },
+    {
+      "start": 1744.25,
+      "end": 1744.39,
+      "text": "BRASIL",
+      "probability": 0.949
+    },
+    {
+      "start": 1775.1,
+      "end": 1775.78,
+      "text": "Tchau,",
+      "probability": 0.512
+    },
+    {
+      "start": 1776.0,
+      "end": 1776.48,
+      "text": "tchau,",
+      "probability": 0.807
+    },
+    {
+      "start": 1776.7,
+      "end": 1777.02,
+      "text": "tchau.",
+      "probability": 0.979
+    }
+  ]
+}

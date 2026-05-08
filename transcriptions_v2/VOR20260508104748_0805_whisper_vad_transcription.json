@@ -1,0 +1,124 @@
+{
+  "source_file": "VOR20260508104748_0805_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1800.1,
+  "segments": {
+    "00:25:52,00:25:53": "O que é isso?",
+    "00:26:32,00:26:34": "Tchau, tchau.",
+    "00:27:07,00:27:09": "Tchau, tchau.",
+    "00:28:28,00:28:33": "O que é isso?",
+    "00:29:11,00:29:13": "Tchau, tchau.",
+    "00:29:37,00:30:00": "O que é isso?"
+  },
+  "words": [
+    {
+      "start": 1552.47,
+      "end": 1552.77,
+      "text": "O",
+      "probability": 0.039
+    },
+    {
+      "start": 1552.77,
+      "end": 1552.85,
+      "text": "que",
+      "probability": 0.537
+    },
+    {
+      "start": 1552.85,
+      "end": 1552.95,
+      "text": "é",
+      "probability": 0.573
+    },
+    {
+      "start": 1552.95,
+      "end": 1553.39,
+      "text": "isso?",
+      "probability": 0.632
+    },
+    {
+      "start": 1592.22,
+      "end": 1593.62,
+      "text": "Tchau,",
+      "probability": 0.514
+    },
+    {
+      "start": 1593.62,
+      "end": 1594.94,
+      "text": "tchau.",
+      "probability": 0.951
+    },
+    {
+      "start": 1627.76,
+      "end": 1628.68,
+      "text": "Tchau,",
+      "probability": 0.508
+    },
+    {
+      "start": 1628.7,
+      "end": 1629.06,
+      "text": "tchau.",
+      "probability": 0.958
+    },
+    {
+      "start": 1708.68,
+      "end": 1710.08,
+      "text": "O",
+      "probability": 0.043
+    },
+    {
+      "start": 1710.08,
+      "end": 1711.48,
+      "text": "que",
+      "probability": 0.559
+    },
+    {
+      "start": 1711.48,
+      "end": 1712.9,
+      "text": "é",
+      "probability": 0.66
+    },
+    {
+      "start": 1712.9,
+      "end": 1713.5,
+      "text": "isso?",
+      "probability": 0.783
+    },
+    {
+      "start": 1751.19,
+      "end": 1752.51,
+      "text": "Tchau,",
+      "probability": 0.496
+    },
+    {
+      "start": 1752.53,
+      "end": 1753.47,
+      "text": "tchau.",
+      "probability": 0.959
+    },
+    {
+      "start": 1777.96,
+      "end": 1778.46,
+      "text": "O",
+      "probability": 0.037
+    },
+    {
+      "start": 1778.46,
+      "end": 1778.46,
+      "text": "que",
+      "probability": 0.424
+    },
+    {
+      "start": 1778.46,
+      "end": 1778.46,
+      "text": "é",
+      "probability": 0.556
+    },
+    {
+      "start": 1778.46,
+      "end": 1800.02,
+      "text": "isso?",
+      "probability": 0.602
+    }
+  ]
+}

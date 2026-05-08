@@ -1,0 +1,173 @@
+{
+  "source_file": "VOR20260508111751_0805_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1153.0,
+  "segments": {
+    "00:04:33,00:05:34": "O meu marido, o meu marido, o meu marido, o meu marido, o meu marido, o meu marido, o meu marido, o meu marido, o meu marido"
+  },
+  "words": [
+    {
+      "start": 273.15,
+      "end": 273.53,
+      "text": "O",
+      "probability": 0.045
+    },
+    {
+      "start": 273.53,
+      "end": 273.57,
+      "text": "meu",
+      "probability": 0.197
+    },
+    {
+      "start": 273.57,
+      "end": 274.21,
+      "text": "marido,",
+      "probability": 0.527
+    },
+    {
+      "start": 274.25,
+      "end": 274.45,
+      "text": "o",
+      "probability": 0.344
+    },
+    {
+      "start": 274.45,
+      "end": 274.69,
+      "text": "meu",
+      "probability": 0.711
+    },
+    {
+      "start": 274.69,
+      "end": 275.03,
+      "text": "marido,",
+      "probability": 0.966
+    },
+    {
+      "start": 275.07,
+      "end": 275.45,
+      "text": "o",
+      "probability": 0.749
+    },
+    {
+      "start": 275.45,
+      "end": 275.49,
+      "text": "meu",
+      "probability": 0.987
+    },
+    {
+      "start": 275.49,
+      "end": 276.01,
+      "text": "marido,",
+      "probability": 0.969
+    },
+    {
+      "start": 276.01,
+      "end": 276.25,
+      "text": "o",
+      "probability": 0.384
+    },
+    {
+      "start": 276.25,
+      "end": 276.25,
+      "text": "meu",
+      "probability": 0.935
+    },
+    {
+      "start": 276.25,
+      "end": 276.37,
+      "text": "marido,",
+      "probability": 0.987
+    },
+    {
+      "start": 293.79,
+      "end": 293.79,
+      "text": "o",
+      "probability": 0.705
+    },
+    {
+      "start": 293.79,
+      "end": 294.15,
+      "text": "meu",
+      "probability": 0.981
+    },
+    {
+      "start": 294.15,
+      "end": 294.33,
+      "text": "marido,",
+      "probability": 0.993
+    },
+    {
+      "start": 294.41,
+      "end": 294.41,
+      "text": "o",
+      "probability": 0.88
+    },
+    {
+      "start": 294.41,
+      "end": 294.41,
+      "text": "meu",
+      "probability": 0.994
+    },
+    {
+      "start": 294.41,
+      "end": 294.41,
+      "text": "marido,",
+      "probability": 0.995
+    },
+    {
+      "start": 294.41,
+      "end": 294.79,
+      "text": "o",
+      "probability": 0.928
+    },
+    {
+      "start": 294.79,
+      "end": 294.79,
+      "text": "meu",
+      "probability": 0.995
+    },
+    {
+      "start": 294.79,
+      "end": 294.79,
+      "text": "marido,",
+      "probability": 0.995
+    },
+    {
+      "start": 294.89,
+      "end": 294.89,
+      "text": "o",
+      "probability": 0.936
+    },
+    {
+      "start": 294.89,
+      "end": 296.07,
+      "text": "meu",
+      "probability": 0.995
+    },
+    {
+      "start": 297.35,
+      "end": 299.47,
+      "text": "marido,",
+      "probability": 0.995
+    },
+    {
+      "start": 307.02,
+      "end": 307.34,
+      "text": "o",
+      "probability": 0.947
+    },
+    {
+      "start": 307.34,
+      "end": 307.82,
+      "text": "meu",
+      "probability": 0.995
+    },
+    {
+      "start": 319.92,
+      "end": 334.5,
+      "text": "marido",
+      "probability": 0.995
+    }
+  ]
+}

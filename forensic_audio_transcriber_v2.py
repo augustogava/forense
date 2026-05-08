@@ -26,13 +26,24 @@ if sys.stdout.encoding != "utf-8":
 if sys.stderr.encoding != "utf-8":
     sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding="utf-8", errors="replace")
 
+import numpy as np
+import librosa
+import soundfile as sf
+import noisereduce as nr
 import torch
 from faster_whisper import WhisperModel
+from scipy.signal import butter, sosfilt
+from scipy.ndimage import median_filter
 
 logging.basicConfig(level=logging.DEBUG, format="%(asctime)s - %(levelname)s - %(message)s")
 logger = logging.getLogger(__name__)
 
+logging.getLogger("numba").setLevel(logging.WARNING)
+logging.getLogger("librosa").setLevel(logging.WARNING)
+
 SUPPORTED_EXTENSIONS = {".wav", ".mp3", ".m4a", ".aac", ".ogg", ".flac", ".wma", ".opus"}
+_PREPROCESS_SR = 44100
+_STFT_CHUNK_SECONDS = 300
 
 _ffmpeg_path: Optional[str] = None
 try:
@@ -104,6 +115,272 @@ _EXPLICIT_KEYWORDS = {
 }
 
 
+def _declip(y: np.ndarray) -> np.ndarray:
+    clip_threshold = 0.98
+    clipped = np.abs(y) > clip_threshold
+    if not np.any(clipped):
+        return y
+    result = y.copy()
+    clip_indices = np.where(clipped)[0]
+    if len(clip_indices) == 0:
+        return y
+    regions = []
+    start = clip_indices[0]
+    for i in range(1, len(clip_indices)):
+        if clip_indices[i] - clip_indices[i-1] > 1:
+            regions.append((start, clip_indices[i-1]))
+            start = clip_indices[i]
+    regions.append((start, clip_indices[-1]))
+    for s, e in regions:
+        pad = 10
+        i_start = max(0, s - pad)
+        i_end = min(len(y), e + pad + 1)
+        x_good = [idx for idx in range(i_start, i_end) if not clipped[idx]]
+        y_good = [y[idx] for idx in x_good]
+        if len(x_good) >= 2:
+            result[s:e+1] = np.interp(range(s, e + 1), x_good, y_good)
+    return result
+
+
+def _highpass(y: np.ndarray, sr: int, cutoff: int) -> np.ndarray:
+    sos = butter(4, cutoff, btype='highpass', fs=sr, output='sos')
+    return sosfilt(sos, y)
+
+
+def _peak_norm(y: np.ndarray) -> np.ndarray:
+    peak = np.max(np.abs(y))
+    if peak > 0:
+        return y * (0.99 / peak)
+    return y
+
+
+def _loudness_norm(y: np.ndarray, target_db: float = -8) -> np.ndarray:
+    target_rms = 10 ** (target_db / 20)
+    current_rms = np.sqrt(np.mean(y ** 2) + 1e-10)
+    if current_rms > 0:
+        gain = min(target_rms / current_rms, 40.0)
+        return np.clip(y * gain, -1.0, 1.0)
+    return y
+
+
+def _dynamic_compress(y: np.ndarray, sr: int) -> np.ndarray:
+    threshold_db = -18
+    ratio = 4.0
+    frame_len = int(sr * 0.02)
+    hop = frame_len // 2
+    n_frames = max(1, (len(y) - frame_len) // hop + 1)
+    rms = np.array([
+        np.sqrt(np.mean(y[i*hop:i*hop+frame_len] ** 2) + 1e-10)
+        for i in range(n_frames)
+    ])
+    peak_env = np.max(rms) if len(rms) > 0 else 1.0
+    if peak_env > 0:
+        rms = rms / peak_env
+    threshold = 10 ** (threshold_db / 20)
+    frame_gain = np.where(
+        rms > threshold,
+        threshold * (rms / threshold) ** (1.0 / ratio) / (rms + 1e-10),
+        1.0
+    )
+    sample_gain = np.interp(
+        np.arange(len(y)),
+        np.arange(n_frames) * hop + hop // 2,
+        frame_gain
+    )
+    return _peak_norm(y * sample_gain)
+
+
+def _process_stft_chunked(y: np.ndarray, sr: int, process_fn) -> np.ndarray:
+    chunk_samples = int(_STFT_CHUNK_SECONDS * sr)
+    overlap_samples = int(2 * sr)
+    n_fft = 2048
+    hop_length = 512
+    if len(y) <= chunk_samples + overlap_samples:
+        S = librosa.stft(y, n_fft=n_fft, hop_length=hop_length)
+        S_processed = process_fn(S, sr)
+        return librosa.istft(S_processed, hop_length=hop_length, length=len(y))
+    result = np.zeros_like(y)
+    weight = np.zeros_like(y)
+    pos = 0
+    while pos < len(y):
+        end = min(pos + chunk_samples, len(y))
+        chunk = y[pos:end]
+        S = librosa.stft(chunk, n_fft=n_fft, hop_length=hop_length)
+        S_processed = process_fn(S, sr)
+        chunk_out = librosa.istft(S_processed, hop_length=hop_length, length=len(chunk))
+        fade_len = min(overlap_samples, len(chunk))
+        w = np.ones(len(chunk))
+        if pos > 0 and fade_len > 0:
+            w[:fade_len] = np.linspace(0, 1, fade_len)
+        if end < len(y) and fade_len > 0:
+            w[-fade_len:] = np.linspace(1, 0, fade_len)
+        result[pos:end] += chunk_out * w
+        weight[pos:end] += w
+        pos += chunk_samples - overlap_samples
+    safe_weight = np.where(weight > 0, weight, 1.0)
+    return result / safe_weight
+
+
+def _compute_vad_mask(y: np.ndarray, sr: int) -> np.ndarray:
+    frame_len = int(sr * 0.03)
+    hop = frame_len // 2
+    n_frames = max(1, (len(y) - frame_len) // hop + 1)
+    rms = np.array([
+        np.sqrt(np.mean(y[i*hop:i*hop+frame_len] ** 2) + 1e-10)
+        for i in range(n_frames)
+    ])
+    zcr = np.array([
+        np.sum(np.abs(np.diff(np.sign(y[i*hop:i*hop+frame_len])))) / (2.0 * frame_len)
+        for i in range(n_frames)
+    ])
+    spectral_flatness = np.zeros(n_frames)
+    for i in range(n_frames):
+        frame = y[i*hop:i*hop+frame_len]
+        spectrum = np.abs(np.fft.rfft(frame * np.hanning(len(frame))))
+        spectrum = spectrum[1:]
+        geo_mean = np.exp(np.mean(np.log(spectrum + 1e-10)))
+        arith_mean = np.mean(spectrum) + 1e-10
+        spectral_flatness[i] = geo_mean / arith_mean
+    silence_rms = np.percentile(rms, 15)
+    rms_threshold = silence_rms * 3.0
+    voice_score = np.zeros(n_frames)
+    voice_score[rms > rms_threshold] += 1.0
+    voice_score[zcr < 0.3] += 0.5
+    voice_score[spectral_flatness < 0.4] += 0.5
+    raw_mask = (voice_score >= 1.0).astype(float)
+    margin_frames = int(0.1 * sr / hop)
+    expanded_mask = np.copy(raw_mask)
+    for i in range(n_frames):
+        if raw_mask[i] > 0:
+            start = max(0, i - margin_frames)
+            end = min(n_frames, i + margin_frames + 1)
+            expanded_mask[start:end] = 1.0
+    kernel_size = max(3, margin_frames // 2) | 1
+    expanded_mask = median_filter(expanded_mask, size=kernel_size)
+    sample_mask = np.interp(
+        np.arange(len(y)),
+        np.arange(n_frames) * hop + hop // 2,
+        expanded_mask
+    )
+    return np.clip(sample_mask, 0.0, 1.0)
+
+
+def _whisper_spectral_boost_vad(y: np.ndarray, sr: int, vad_mask: np.ndarray) -> np.ndarray:
+    n_fft = 2048
+    hop_length = 512
+
+    def _process(S, sr):
+        magnitude = np.abs(S)
+        phase = np.angle(S)
+        freqs = librosa.fft_frequencies(sr=sr, n_fft=n_fft)
+        n_stft_frames = magnitude.shape[1]
+        frame_centers = librosa.frames_to_samples(np.arange(n_stft_frames), hop_length=hop_length)
+        frame_vad = np.array([
+            np.mean(vad_mask[max(0, c - hop_length//2):min(len(vad_mask), c + hop_length//2)])
+            for c in frame_centers
+        ])
+        speech_mask = (freqs >= 150) & (freqs <= 6000)
+        speech_energy = np.mean(magnitude[speech_mask, :], axis=0)
+        valid = speech_energy > 0
+        median_energy = np.median(speech_energy[valid]) if np.any(valid) else 1e-10
+        frame_gain = np.ones(n_stft_frames)
+        quiet = speech_energy < (median_energy * 0.3)
+        has_voice = frame_vad > 0.3
+        boost_frames = quiet & has_voice
+        if np.any(boost_frames) and median_energy > 0:
+            frame_gain[boost_frames] = np.clip(median_energy / (speech_energy[boost_frames] + 1e-10), 1.0, 8.0)
+        freq_gain = np.ones_like(freqs)
+        freq_gain[speech_mask] = 2.5
+        freq_gain[~speech_mask] = 0.05
+        return magnitude * freq_gain[:, np.newaxis] * frame_gain[np.newaxis, :] * np.exp(1j * phase)
+
+    return _peak_norm(_process_stft_chunked(y, sr, _process))
+
+
+def _boost_quiet_segments_vad(y: np.ndarray, sr: int, vad_mask: np.ndarray, max_gain: float = 6.0) -> np.ndarray:
+    frame_len = int(sr * 0.05)
+    hop = frame_len // 2
+    n_frames = max(1, (len(y) - frame_len) // hop + 1)
+    rms = np.array([
+        np.sqrt(np.mean(y[i*hop:i*hop+frame_len] ** 2) + 1e-10)
+        for i in range(n_frames)
+    ])
+    frame_vad = np.array([
+        np.mean(vad_mask[i*hop:min(len(vad_mask), i*hop+frame_len)])
+        for i in range(n_frames)
+    ])
+    silence_thresh = np.percentile(rms, 10)
+    speech_rms = rms[rms > silence_thresh * 2]
+    if len(speech_rms) == 0:
+        return y
+    target = np.percentile(speech_rms, 60)
+    frame_gain = np.ones(n_frames)
+    active = (rms > silence_thresh * 1.5) & (frame_vad > 0.3)
+    frame_gain[active] = np.clip(target / (rms[active] + 1e-10), 1.0, max_gain)
+    sample_gain = np.interp(
+        np.arange(len(y)),
+        np.arange(n_frames) * hop + hop // 2,
+        frame_gain
+    )
+    return y * sample_gain
+
+
+def _load_and_convert(audio_path: Path) -> Path:
+    ext = audio_path.suffix.lower()
+    if ext == ".wav":
+        return audio_path
+    temp_wav = audio_path.parent / f"_tmp_preprocess_{audio_path.stem}.wav"
+    ffmpeg = _ffmpeg_path or "ffmpeg"
+    cmd = [
+        ffmpeg, "-y", "-i", str(audio_path),
+        "-ar", str(_PREPROCESS_SR), "-ac", "1",
+        "-sample_fmt", "s16", str(temp_wav)
+    ]
+    result = subprocess.run(cmd, capture_output=True, text=True)
+    if result.returncode != 0:
+        raise RuntimeError(f"ffmpeg conversion failed: {result.stderr[:500]}")
+    return temp_wav
+
+
+def _preprocess_audio(audio_path: Path, output_dir: Path) -> Path:
+    t0 = time.time()
+    logger.debug(f"Preprocessing audio: {audio_path.name}")
+
+    temp_input = None
+    wav_path = audio_path
+    if audio_path.suffix.lower() != ".wav":
+        wav_path = _load_and_convert(audio_path)
+        temp_input = wav_path
+
+    try:
+        y, sr = librosa.load(str(wav_path), sr=_PREPROCESS_SR, mono=True)
+    finally:
+        if temp_input and temp_input.exists():
+            temp_input.unlink()
+
+    vad_mask = _compute_vad_mask(y, sr)
+    y = _declip(y)
+    y = _highpass(y, sr, 80)
+    y = nr.reduce_noise(y=y, sr=sr, stationary=False, prop_decrease=0.90,
+                        thresh_n_mult_nonstationary=1.5, sigmoid_slope_nonstationary=15, n_fft=2048)
+    y = nr.reduce_noise(y=y, sr=sr, stationary=True, prop_decrease=0.7,
+                        n_std_thresh_stationary=1.2, n_fft=2048)
+    y = _whisper_spectral_boost_vad(y, sr, vad_mask)
+    y = _boost_quiet_segments_vad(y, sr, vad_mask, max_gain=10.0)
+    y = _dynamic_compress(y, sr)
+    y = _loudness_norm(y, target_db=-6)
+    y = _peak_norm(y)
+
+    output_dir.mkdir(parents=True, exist_ok=True)
+    temp_wav = output_dir / f"_tmp_preprocessed_{audio_path.stem}.wav"
+    sf.write(str(temp_wav), y, sr, subtype='PCM_16')
+
+    elapsed = time.time() - t0
+    logger.debug(f"Preprocessing done in {elapsed:.0f}s: {audio_path.name}")
+    print(f"    Pré-processamento concluído em {elapsed:.0f}s")
+    return temp_wav
+
+
 _YOUTUBE_PATTERNS = [
     re.compile(r"legenda(s|do|gem)?\s+(por|e)\s+", re.IGNORECASE),
     re.compile(r"transcri(ção|cão)\s+e\s+legenda", re.IGNORECASE),
@@ -114,6 +391,15 @@ _YOUTUBE_PATTERNS = [
     re.compile(r"www\.\w+\.\w+", re.IGNORECASE),
 ]
 
+_GENERIC_HALLUCINATION_PATTERNS = [
+    re.compile(r"^m[úu]sica\.?$", re.IGNORECASE),
+    re.compile(r"^o que [ée] isso\??$", re.IGNORECASE),
+    re.compile(r"dispon[íi]vel em portugu[eê]s", re.IGNORECASE),
+    re.compile(r"^e a[íi]\.?$", re.IGNORECASE),
+    re.compile(r"^aten[çc][ãa]o!?$", re.IGNORECASE),
+    re.compile(r"^a cidade no brasil\.?$", re.IGNORECASE),
+]
+
 _PROMPT_FRAGMENTS = [
     "transcrição de conversa em português",
     "conteúdo explícito",
@@ -121,7 +407,21 @@ _PROMPT_FRAGMENTS = [
     "incluindo palavrões",
     "acompanhe o processo de transcrição",
     "acompanhe a conversa em português",
+    "português brasileiro",
 ]
+
+
+def _has_ngram_repetition(words: list, ngram_sizes=(2, 3, 4), min_repeats: int = 3) -> bool:
+    for n in ngram_sizes:
+        if len(words) < n * min_repeats:
+            continue
+        ngrams = [" ".join(words[i:i+n]) for i in range(len(words) - n + 1)]
+        from collections import Counter
+        counts = Counter(ngrams)
+        most_common_ng, count = counts.most_common(1)[0]
+        if count >= min_repeats and (count * n) / len(words) > 0.4:
+            return True
+    return False
 
 
 def _is_hallucination(seg) -> bool:
@@ -145,6 +445,9 @@ def _is_hallucination(seg) -> bool:
     for pat in _YOUTUBE_PATTERNS:
         if pat.search(text):
             return True
+    for pat in _GENERIC_HALLUCINATION_PATTERNS:
+        if pat.search(text.strip()):
+            return True
 
     words = [w for w in text_lower.replace(",", " ").replace(".", " ").split() if w]
     unique = set(words)
@@ -156,6 +459,9 @@ def _is_hallucination(seg) -> bool:
         most_common_count = counts.most_common(1)[0][1]
         if most_common_count / len(words) > 0.6:
             return True
+
+    if len(words) >= 6 and _has_ngram_repetition(words):
+        return True
 
     return False
 
@@ -178,9 +484,17 @@ def transcribe_file(
     output_dir.mkdir(parents=True, exist_ok=True)
     json_path = output_dir / f"{audio_path.stem}_transcription.json"
 
+    preprocessed_path = None
+    try:
+        preprocessed_path = _preprocess_audio(audio_path, output_dir)
+        transcribe_target = str(preprocessed_path)
+    except Exception as e:
+        logger.error(f"Preprocessing failed for {audio_path.name}, using original: {e}")
+        transcribe_target = str(audio_path)
+
     try:
         segments_gen, info = model.transcribe(
-            str(audio_path),
+            transcribe_target,
             language="pt",
             beam_size=10,
             word_timestamps=True,
@@ -188,17 +502,19 @@ def transcribe_file(
             no_speech_threshold=0.6,
             compression_ratio_threshold=2.4,
             temperature=0.0,
-            hallucination_silence_threshold=2.0,
+            hallucination_silence_threshold=1.0,
             vad_filter=True,
             vad_parameters=dict(
-                threshold=0.3,
-                min_speech_duration_ms=500,
+                threshold=0.35,
+                min_speech_duration_ms=250,
                 min_silence_duration_ms=300,
             ),
             initial_prompt=_FORENSIC_PROMPT,
         )
     except Exception as e:
         logger.error(f"Transcription failed for {audio_path.name}: {e}")
+        if preprocessed_path and preprocessed_path.exists():
+            preprocessed_path.unlink()
         return None
 
     segments_dict = {}
@@ -258,6 +574,9 @@ def transcribe_file(
 
     with open(json_path, "w", encoding="utf-8") as f:
         json.dump(output_data, f, indent=2, ensure_ascii=False)
+
+    if preprocessed_path and preprocessed_path.exists():
+        preprocessed_path.unlink()
 
     elapsed = time.time() - t_start
     seg_count = len(segments_dict)

@@ -1,0 +1,163 @@
+{
+  "source_file": "VOR20260508091745_0805_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1800.0,
+  "segments": {
+    "00:00:17,00:24:35": "Você não pode liberar de forma unilateral, abrindo as suas ruínas, as suas raízes, sem ter reciprocidade no movimento.",
+    "00:24:35,00:24:37": "E aí",
+    "00:29:30,00:29:37": "A CIDADE NO BRASIL"
+  },
+  "words": [
+    {
+      "start": 17.72,
+      "end": 18.4,
+      "text": "Você",
+      "probability": 0.041
+    },
+    {
+      "start": 1463.14,
+      "end": 1463.82,
+      "text": "não",
+      "probability": 0.47
+    },
+    {
+      "start": 1463.82,
+      "end": 1465.12,
+      "text": "pode",
+      "probability": 0.938
+    },
+    {
+      "start": 1465.12,
+      "end": 1465.78,
+      "text": "liberar",
+      "probability": 0.875
+    },
+    {
+      "start": 1465.78,
+      "end": 1465.96,
+      "text": "de",
+      "probability": 0.713
+    },
+    {
+      "start": 1465.96,
+      "end": 1466.26,
+      "text": "forma",
+      "probability": 0.954
+    },
+    {
+      "start": 1466.26,
+      "end": 1468.4,
+      "text": "unilateral,",
+      "probability": 0.912
+    },
+    {
+      "start": 1468.72,
+      "end": 1469.58,
+      "text": "abrindo",
+      "probability": 0.994
+    },
+    {
+      "start": 1469.58,
+      "end": 1469.78,
+      "text": "as",
+      "probability": 0.708
+    },
+    {
+      "start": 1469.78,
+      "end": 1470.12,
+      "text": "suas",
+      "probability": 0.998
+    },
+    {
+      "start": 1470.12,
+      "end": 1471.84,
+      "text": "ruínas,",
+      "probability": 0.561
+    },
+    {
+      "start": 1471.96,
+      "end": 1472.08,
+      "text": "as",
+      "probability": 0.831
+    },
+    {
+      "start": 1472.08,
+      "end": 1472.26,
+      "text": "suas",
+      "probability": 0.945
+    },
+    {
+      "start": 1472.26,
+      "end": 1472.5,
+      "text": "raízes,",
+      "probability": 0.686
+    },
+    {
+      "start": 1472.66,
+      "end": 1473.36,
+      "text": "sem",
+      "probability": 0.92
+    },
+    {
+      "start": 1473.36,
+      "end": 1473.62,
+      "text": "ter",
+      "probability": 0.941
+    },
+    {
+      "start": 1473.62,
+      "end": 1474.68,
+      "text": "reciprocidade",
+      "probability": 0.993
+    },
+    {
+      "start": 1474.68,
+      "end": 1474.98,
+      "text": "no",
+      "probability": 0.718
+    },
+    {
+      "start": 1474.98,
+      "end": 1475.44,
+      "text": "movimento.",
+      "probability": 0.992
+    },
+    {
+      "start": 1475.44,
+      "end": 1475.46,
+      "text": "E",
+      "probability": 0.183
+    },
+    {
+      "start": 1475.46,
+      "end": 1477.14,
+      "text": "aí",
+      "probability": 0.954
+    },
+    {
+      "start": 1770.6,
+      "end": 1772.0,
+      "text": "A",
+      "probability": 0.046
+    },
+    {
+      "start": 1772.0,
+      "end": 1773.4,
+      "text": "CIDADE",
+      "probability": 0.629
+    },
+    {
+      "start": 1773.4,
+      "end": 1773.64,
+      "text": "NO",
+      "probability": 0.988
+    },
+    {
+      "start": 1775.2,
+      "end": 1777.68,
+      "text": "BRASIL",
+      "probability": 0.963
+    }
+  ]
+}

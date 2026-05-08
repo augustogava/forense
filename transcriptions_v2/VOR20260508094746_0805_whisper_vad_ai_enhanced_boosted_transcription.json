@@ -1,0 +1,321 @@
+{
+  "source_file": "VOR20260508094746_0805_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1800.0,
+  "segments": {
+    "00:00:31,00:00:39": "E hoje, ao meio-dia, essa grama pode ser sua!",
+    "00:01:20,00:01:21": "Tchau.",
+    "00:03:49,00:03:51": "A música é da minha produtora.",
+    "00:04:33,00:04:40": "Tchau, tchau.",
+    "00:06:00,00:06:01": "Tchau.",
+    "00:06:29,00:06:31": "Ninguém sabe qual é o grupo da patroa, não é bem?",
+    "00:06:31,00:06:32": "Quem é a reina?",
+    "00:06:32,00:06:33": "Quem é o cus?",
+    "00:06:33,00:06:34": "Quem é a reina dessa?",
+    "00:06:34,00:06:35": "Quem é a reina dessa?",
+    "00:07:24,00:07:25": "MÚSICA"
+  },
+  "words": [
+    {
+      "start": 31.84,
+      "end": 32.68,
+      "text": "E",
+      "probability": 0.094
+    },
+    {
+      "start": 32.68,
+      "end": 33.52,
+      "text": "hoje,",
+      "probability": 0.345
+    },
+    {
+      "start": 36.56,
+      "end": 36.82,
+      "text": "ao",
+      "probability": 0.972
+    },
+    {
+      "start": 36.82,
+      "end": 37.22,
+      "text": "meio",
+      "probability": 0.994
+    },
+    {
+      "start": 37.22,
+      "end": 37.68,
+      "text": "-dia,",
+      "probability": 0.824
+    },
+    {
+      "start": 37.72,
+      "end": 38.04,
+      "text": "essa",
+      "probability": 0.258
+    },
+    {
+      "start": 38.04,
+      "end": 38.54,
+      "text": "grama",
+      "probability": 0.586
+    },
+    {
+      "start": 38.54,
+      "end": 38.86,
+      "text": "pode",
+      "probability": 0.878
+    },
+    {
+      "start": 38.86,
+      "end": 39.16,
+      "text": "ser",
+      "probability": 0.571
+    },
+    {
+      "start": 39.16,
+      "end": 39.58,
+      "text": "sua!",
+      "probability": 0.993
+    },
+    {
+      "start": 80.36,
+      "end": 81.76,
+      "text": "Tchau.",
+      "probability": 0.496
+    },
+    {
+      "start": 229.58,
+      "end": 229.8,
+      "text": "A",
+      "probability": 0.077
+    },
+    {
+      "start": 229.8,
+      "end": 229.8,
+      "text": "música",
+      "probability": 0.195
+    },
+    {
+      "start": 229.8,
+      "end": 230.0,
+      "text": "é",
+      "probability": 0.36
+    },
+    {
+      "start": 230.0,
+      "end": 230.34,
+      "text": "da",
+      "probability": 0.947
+    },
+    {
+      "start": 230.34,
+      "end": 230.66,
+      "text": "minha",
+      "probability": 0.228
+    },
+    {
+      "start": 230.66,
+      "end": 231.28,
+      "text": "produtora.",
+      "probability": 0.854
+    },
+    {
+      "start": 273.92,
+      "end": 275.32,
+      "text": "Tchau,",
+      "probability": 0.509
+    },
+    {
+      "start": 279.41,
+      "end": 280.09,
+      "text": "tchau.",
+      "probability": 0.956
+    },
+    {
+      "start": 360.48,
+      "end": 361.88,
+      "text": "Tchau.",
+      "probability": 0.521
+    },
+    {
+      "start": 389.66,
+      "end": 389.88,
+      "text": "Ninguém",
+      "probability": 0.056
+    },
+    {
+      "start": 389.88,
+      "end": 390.22,
+      "text": "sabe",
+      "probability": 0.705
+    },
+    {
+      "start": 390.22,
+      "end": 390.42,
+      "text": "qual",
+      "probability": 0.069
+    },
+    {
+      "start": 390.42,
+      "end": 390.42,
+      "text": "é",
+      "probability": 0.945
+    },
+    {
+      "start": 390.42,
+      "end": 390.5,
+      "text": "o",
+      "probability": 0.507
+    },
+    {
+      "start": 390.5,
+      "end": 390.62,
+      "text": "grupo",
+      "probability": 0.232
+    },
+    {
+      "start": 390.62,
+      "end": 390.8,
+      "text": "da",
+      "probability": 0.402
+    },
+    {
+      "start": 390.8,
+      "end": 391.18,
+      "text": "patroa,",
+      "probability": 0.655
+    },
+    {
+      "start": 391.2,
+      "end": 391.32,
+      "text": "não",
+      "probability": 0.113
+    },
+    {
+      "start": 391.32,
+      "end": 391.46,
+      "text": "é",
+      "probability": 0.431
+    },
+    {
+      "start": 391.46,
+      "end": 391.56,
+      "text": "bem?",
+      "probability": 0.23
+    },
+    {
+      "start": 391.94,
+      "end": 392.26,
+      "text": "Quem",
+      "probability": 0.096
+    },
+    {
+      "start": 392.26,
+      "end": 392.5,
+      "text": "é",
+      "probability": 0.666
+    },
+    {
+      "start": 392.5,
+      "end": 392.58,
+      "text": "a",
+      "probability": 0.178
+    },
+    {
+      "start": 392.58,
+      "end": 392.8,
+      "text": "reina?",
+      "probability": 0.522
+    },
+    {
+      "start": 392.96,
+      "end": 393.16,
+      "text": "Quem",
+      "probability": 0.228
+    },
+    {
+      "start": 393.16,
+      "end": 393.24,
+      "text": "é",
+      "probability": 0.742
+    },
+    {
+      "start": 393.24,
+      "end": 393.38,
+      "text": "o",
+      "probability": 0.8
+    },
+    {
+      "start": 393.38,
+      "end": 393.62,
+      "text": "cus?",
+      "probability": 0.259
+    },
+    {
+      "start": 393.7,
+      "end": 393.86,
+      "text": "Quem",
+      "probability": 0.097
+    },
+    {
+      "start": 393.86,
+      "end": 394.0,
+      "text": "é",
+      "probability": 0.897
+    },
+    {
+      "start": 394.0,
+      "end": 394.14,
+      "text": "a",
+      "probability": 0.437
+    },
+    {
+      "start": 394.14,
+      "end": 394.24,
+      "text": "reina",
+      "probability": 0.694
+    },
+    {
+      "start": 394.24,
+      "end": 394.32,
+      "text": "dessa?",
+      "probability": 0.61
+    },
+    {
+      "start": 394.34,
+      "end": 394.56,
+      "text": "Quem",
+      "probability": 0.144
+    },
+    {
+      "start": 394.56,
+      "end": 394.7,
+      "text": "é",
+      "probability": 0.493
+    },
+    {
+      "start": 394.7,
+      "end": 394.8,
+      "text": "a",
+      "probability": 0.553
+    },
+    {
+      "start": 394.8,
+      "end": 395.02,
+      "text": "reina",
+      "probability": 0.967
+    },
+    {
+      "start": 395.02,
+      "end": 395.12,
+      "text": "dessa?",
+      "probability": 0.112
+    },
+    {
+      "start": 444.52,
+      "end": 445.92,
+      "text": "MÚSICA",
+      "probability": 0.525
+    }
+  ]
+}
