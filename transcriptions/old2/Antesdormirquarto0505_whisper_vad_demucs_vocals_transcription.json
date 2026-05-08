@@ -1,0 +1,28 @@
+{
+  "source_file": "Antesdormirquarto0505_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:01:20,00:01:23": "Fim",
+    "00:01:26,00:01:29": "Mr Media cones",
+    "00:01:37,00:01:39": "Oh! Ah! Ah! Ah! Ah!",
+    "00:01:49,00:01:54": "Vamos..",
+    "00:02:15,00:02:16": "Interagir...",
+    "00:02:25,00:02:31": "Seja rico e positivo, não seisha mais.",
+    "00:02:33,00:02:37": "Valeuetera!",
+    "00:02:48,00:03:02": "Transcrição Nagara Pereeva",
+    "00:03:07,00:03:11": "Estamos茶 nest localidade to, onde tudo está trazido, éida pra cada procuradora de Bornos .",
+    "00:03:11,00:03:14": "Não se esqueça de deixar o seu like, compartilhar e se inscrever no canal.",
+    "00:04:48,00:04:50": "Legendado pela comunidade da Amara.org",
+    "00:04:59,00:05:03": "do saidi.",
+    "00:07:27,00:07:31": "Transcrição e Legendas Pedro Ribeiro Carta",
+    "00:07:33,00:07:35": "Também podem systematizar um par abuso controlado.",
+    "00:07:42,00:07:45": "500 milwwtW. All day long.",
+    "00:08:55,00:08:58": "Não se esqueça de assinar o canal e ativar as notificações.",
+    "00:13:00,00:13:02": "Legenda por Sônia Ruberti"
+  },
+  "explicit_segments": {
+    "00:07:33,00:07:35": "Também podem systematizar um par abuso controlado."
+  },
+  "explicit_count": 1
+}

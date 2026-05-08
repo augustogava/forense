@@ -126,13 +126,32 @@ _EXPLICIT_KEYWORDS = {
     "oral", "vaginal", "anal",
 }
 
-def _is_hallucination(text: str) -> bool:
-    words = [w for w in text.lower().replace(",", " ").replace(".", " ").split() if w]
-    if not words:
+_NO_SPEECH_PROB_THRESHOLD = 0.6
+_AVG_LOGPROB_THRESHOLD = -1.0
+_COMPRESSION_RATIO_THRESHOLD = 2.4
+
+
+def _is_hallucination(seg: dict) -> bool:
+    text = seg.get("text", "").strip()
+    if not text:
         return True
+
+    no_speech = seg.get("no_speech_prob", 0.0)
+    logprob = seg.get("avg_logprob", 0.0)
+    compression = seg.get("compression_ratio", 1.0)
+
+    if no_speech > _NO_SPEECH_PROB_THRESHOLD:
+        return True
+    if logprob < _AVG_LOGPROB_THRESHOLD and compression > _COMPRESSION_RATIO_THRESHOLD:
+        return True
+    if logprob < -1.5:
+        return True
+
+    words = [w for w in text.lower().replace(",", " ").replace(".", " ").split() if w]
     unique = set(words)
     if len(words) >= 3 and len(unique) <= 2 and unique.issubset(_EXPLICIT_KEYWORDS):
         return True
+
     return False
 
 
@@ -152,9 +171,9 @@ def _extract_speech_segments(
         audio_tensor,
         vad_model,
         sampling_rate=sr,
-        threshold=0.4,
+        threshold=0.3,
         min_speech_duration_ms=500,
-        min_silence_duration_ms=200,
+        min_silence_duration_ms=300,
     )
     vad_model.reset_states()
 
@@ -255,8 +274,8 @@ def transcribe_file(
             text = seg["text"].strip()
             if not text:
                 continue
-            if _is_hallucination(text):
-                logger.debug(f"Hallucination filtered: '{text}'")
+            if _is_hallucination(seg):
+                logger.debug(f"Hallucination filtered (nsp={seg.get('no_speech_prob', 0):.2f} logp={seg.get('avg_logprob', 0):.2f} cr={seg.get('compression_ratio', 0):.2f}): '{text}'")
                 continue
             if text == prev_text:
                 repeat_count += 1
