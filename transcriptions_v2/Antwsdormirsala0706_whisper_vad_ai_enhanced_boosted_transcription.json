@@ -1,0 +1,478 @@
+{
+  "source_file": "Antwsdormirsala0706_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 6649.5,
+  "segments": {
+    "00:00:20,00:00:24": "Ah, sei.",
+    "00:00:30,00:00:31": "Vem.",
+    "00:00:32,00:00:33": "Aqui, ó.",
+    "00:00:34,00:00:34": "Vem.",
+    "00:00:35,00:00:35": "Vem.",
+    "00:00:36,00:00:49": "Vem, meu Deus.",
+    "00:01:12,00:01:12": "Vem.",
+    "00:01:12,00:01:13": "Ah.",
+    "00:01:23,00:01:23": "Meu Deus.",
+    "00:06:42,00:06:43": "O que eu vou fazer?",
+    "00:06:46,00:06:48": "Você não vai me chamar, meu Deus.",
+    "00:06:53,00:06:54": "Você não vai me chamar.",
+    "00:06:54,00:06:57": "Você não vai me chamar.",
+    "00:07:09,00:07:24": "Ah, vai.",
+    "00:07:25,00:07:25": "Ah, vai.",
+    "00:07:26,00:07:27": "Chega, meu Deus.",
+    "00:07:27,00:07:49": "Não, não.",
+    "00:07:49,00:08:25": "Ah, não.",
+    "00:08:25,00:08:25": "Você não vai me chamar.",
+    "00:08:26,00:39:30": "Ah, não.",
+    "00:39:30,00:39:30": "Não, não.",
+    "00:43:05,00:43:15": "Não, não pegue banheiro, vai fazer isento com vocês.",
+    "00:43:16,00:43:19": "Vai fazer isento com vocês.",
+    "01:43:45,01:46:02": "Não, não pegue banheiro."
+  },
+  "words": [
+    {
+      "start": 20.71,
+      "end": 21.19,
+      "text": "Ah,",
+      "probability": 0.114
+    },
+    {
+      "start": 24.68,
+      "end": 24.96,
+      "text": "sei.",
+      "probability": 0.253
+    },
+    {
+      "start": 30.76,
+      "end": 31.24,
+      "text": "Vem.",
+      "probability": 0.912
+    },
+    {
+      "start": 32.22,
+      "end": 32.7,
+      "text": "Aqui,",
+      "probability": 0.344
+    },
+    {
+      "start": 32.86,
+      "end": 33.02,
+      "text": "ó.",
+      "probability": 0.804
+    },
+    {
+      "start": 34.11,
+      "end": 34.59,
+      "text": "Vem.",
+      "probability": 0.839
+    },
+    {
+      "start": 35.43,
+      "end": 35.91,
+      "text": "Vem.",
+      "probability": 0.949
+    },
+    {
+      "start": 36.27,
+      "end": 36.75,
+      "text": "Vem,",
+      "probability": 0.974
+    },
+    {
+      "start": 48.84,
+      "end": 48.92,
+      "text": "meu",
+      "probability": 0.34
+    },
+    {
+      "start": 48.92,
+      "end": 49.1,
+      "text": "Deus.",
+      "probability": 0.185
+    },
+    {
+      "start": 72.3,
+      "end": 72.78,
+      "text": "Vem.",
+      "probability": 0.985
+    },
+    {
+      "start": 72.86,
+      "end": 73.1,
+      "text": "Ah.",
+      "probability": 0.581
+    },
+    {
+      "start": 83.04,
+      "end": 83.52,
+      "text": "Meu",
+      "probability": 0.163
+    },
+    {
+      "start": 83.52,
+      "end": 83.86,
+      "text": "Deus.",
+      "probability": 0.994
+    },
+    {
+      "start": 402.56,
+      "end": 402.98,
+      "text": "O",
+      "probability": 0.137
+    },
+    {
+      "start": 402.98,
+      "end": 403.12,
+      "text": "que",
+      "probability": 0.69
+    },
+    {
+      "start": 403.12,
+      "end": 403.12,
+      "text": "eu",
+      "probability": 0.301
+    },
+    {
+      "start": 403.12,
+      "end": 403.2,
+      "text": "vou",
+      "probability": 0.672
+    },
+    {
+      "start": 403.2,
+      "end": 403.38,
+      "text": "fazer?",
+      "probability": 0.768
+    },
+    {
+      "start": 406.69,
+      "end": 407.17,
+      "text": "Você",
+      "probability": 0.118
+    },
+    {
+      "start": 407.17,
+      "end": 407.33,
+      "text": "não",
+      "probability": 0.22
+    },
+    {
+      "start": 407.33,
+      "end": 407.57,
+      "text": "vai",
+      "probability": 0.572
+    },
+    {
+      "start": 407.57,
+      "end": 407.85,
+      "text": "me",
+      "probability": 0.212
+    },
+    {
+      "start": 407.85,
+      "end": 408.23,
+      "text": "chamar,",
+      "probability": 0.658
+    },
+    {
+      "start": 408.51,
+      "end": 408.51,
+      "text": "meu",
+      "probability": 0.27
+    },
+    {
+      "start": 408.51,
+      "end": 408.73,
+      "text": "Deus.",
+      "probability": 0.934
+    },
+    {
+      "start": 413.03,
+      "end": 413.51,
+      "text": "Você",
+      "probability": 0.401
+    },
+    {
+      "start": 413.51,
+      "end": 413.69,
+      "text": "não",
+      "probability": 0.711
+    },
+    {
+      "start": 413.69,
+      "end": 413.95,
+      "text": "vai",
+      "probability": 0.964
+    },
+    {
+      "start": 413.95,
+      "end": 414.03,
+      "text": "me",
+      "probability": 0.949
+    },
+    {
+      "start": 414.03,
+      "end": 414.17,
+      "text": "chamar.",
+      "probability": 1.0
+    },
+    {
+      "start": 414.21,
+      "end": 414.67,
+      "text": "Você",
+      "probability": 0.6
+    },
+    {
+      "start": 416.3,
+      "end": 416.44,
+      "text": "não",
+      "probability": 0.904
+    },
+    {
+      "start": 416.44,
+      "end": 416.88,
+      "text": "vai",
+      "probability": 0.989
+    },
+    {
+      "start": 416.88,
+      "end": 417.04,
+      "text": "me",
+      "probability": 0.979
+    },
+    {
+      "start": 417.04,
+      "end": 417.04,
+      "text": "chamar.",
+      "probability": 1.0
+    },
+    {
+      "start": 429.7,
+      "end": 430.16,
+      "text": "Ah,",
+      "probability": 0.03
+    },
+    {
+      "start": 444.67,
+      "end": 444.83,
+      "text": "vai.",
+      "probability": 0.15
+    },
+    {
+      "start": 445.21,
+      "end": 445.69,
+      "text": "Ah,",
+      "probability": 0.752
+    },
+    {
+      "start": 445.77,
+      "end": 445.93,
+      "text": "vai.",
+      "probability": 0.48
+    },
+    {
+      "start": 446.53,
+      "end": 447.01,
+      "text": "Chega,",
+      "probability": 0.901
+    },
+    {
+      "start": 447.01,
+      "end": 447.19,
+      "text": "meu",
+      "probability": 0.3
+    },
+    {
+      "start": 447.19,
+      "end": 447.31,
+      "text": "Deus.",
+      "probability": 0.963
+    },
+    {
+      "start": 447.41,
+      "end": 447.89,
+      "text": "Não,",
+      "probability": 0.315
+    },
+    {
+      "start": 468.99,
+      "end": 469.05,
+      "text": "não.",
+      "probability": 0.55
+    },
+    {
+      "start": 469.53,
+      "end": 470.01,
+      "text": "Ah,",
+      "probability": 0.22
+    },
+    {
+      "start": 505.11,
+      "end": 505.27,
+      "text": "não.",
+      "probability": 0.567
+    },
+    {
+      "start": 505.45,
+      "end": 505.45,
+      "text": "Você",
+      "probability": 0.017
+    },
+    {
+      "start": 505.45,
+      "end": 505.71,
+      "text": "não",
+      "probability": 0.956
+    },
+    {
+      "start": 505.71,
+      "end": 505.71,
+      "text": "vai",
+      "probability": 0.975
+    },
+    {
+      "start": 505.71,
+      "end": 505.71,
+      "text": "me",
+      "probability": 0.984
+    },
+    {
+      "start": 505.71,
+      "end": 505.71,
+      "text": "chamar.",
+      "probability": 1.0
+    },
+    {
+      "start": 506.03,
+      "end": 506.51,
+      "text": "Ah,",
+      "probability": 0.792
+    },
+    {
+      "start": 2370.51,
+      "end": 2370.63,
+      "text": "não.",
+      "probability": 0.988
+    },
+    {
+      "start": 2370.75,
+      "end": 2370.87,
+      "text": "Não,",
+      "probability": 0.506
+    },
+    {
+      "start": 2370.97,
+      "end": 2370.97,
+      "text": "não.",
+      "probability": 0.993
+    },
+    {
+      "start": 2585.77,
+      "end": 2586.37,
+      "text": "Não,",
+      "probability": 0.061
+    },
+    {
+      "start": 2591.59,
+      "end": 2591.89,
+      "text": "não",
+      "probability": 0.713
+    },
+    {
+      "start": 2591.89,
+      "end": 2592.13,
+      "text": "pegue",
+      "probability": 0.519
+    },
+    {
+      "start": 2592.13,
+      "end": 2592.49,
+      "text": "banheiro,",
+      "probability": 0.418
+    },
+    {
+      "start": 2592.65,
+      "end": 2593.19,
+      "text": "vai",
+      "probability": 0.22
+    },
+    {
+      "start": 2594.53,
+      "end": 2594.83,
+      "text": "fazer",
+      "probability": 0.978
+    },
+    {
+      "start": 2594.83,
+      "end": 2595.11,
+      "text": "isento",
+      "probability": 0.568
+    },
+    {
+      "start": 2595.11,
+      "end": 2595.31,
+      "text": "com",
+      "probability": 0.549
+    },
+    {
+      "start": 2595.31,
+      "end": 2595.55,
+      "text": "vocês.",
+      "probability": 0.357
+    },
+    {
+      "start": 2596.9,
+      "end": 2597.28,
+      "text": "Vai",
+      "probability": 0.451
+    },
+    {
+      "start": 2597.28,
+      "end": 2597.88,
+      "text": "fazer",
+      "probability": 0.486
+    },
+    {
+      "start": 2597.88,
+      "end": 2598.38,
+      "text": "isento",
+      "probability": 0.836
+    },
+    {
+      "start": 2598.38,
+      "end": 2598.86,
+      "text": "com",
+      "probability": 0.393
+    },
+    {
+      "start": 2598.86,
+      "end": 2599.28,
+      "text": "vocês.",
+      "probability": 0.223
+    },
+    {
+      "start": 6225.12,
+      "end": 6225.72,
+      "text": "Não,",
+      "probability": 0.353
+    },
+    {
+      "start": 6225.84,
+      "end": 6225.98,
+      "text": "não",
+      "probability": 0.708
+    },
+    {
+      "start": 6225.98,
+      "end": 6228.1,
+      "text": "pegue",
+      "probability": 0.76
+    },
+    {
+      "start": 6361.54,
+      "end": 6362.18,
+      "text": "banheiro.",
+      "probability": 0.847
+    }
+  ]
+}
