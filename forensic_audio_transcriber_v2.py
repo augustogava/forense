@@ -4,8 +4,49 @@ Forensic Audio Transcriber V2 — faster-whisper
 
 4-8x faster than openai-whisper via CTranslate2.
 Built-in Silero VAD and hallucination_silence_threshold.
+Integrated audio preprocessing (noise reduction, VAD-gated spectral boost).
 
-pip install faster-whisper
+pip install faster-whisper librosa soundfile noisereduce scipy
+
+== TUNING GUIDE (optimized for noisy background + low volume + short words) ==
+
+--- TRANSCRIPTION PARAMETERS (model.transcribe) ---
+  beam_size=10            : Higher beam = more accurate decoding (default 5, max ~10 useful)
+  temperature=0.0         : Deterministic output, prevents random hallucinations
+  no_speech_threshold=0.6 : Segments with no_speech_prob > 0.6 are discarded (Whisper default)
+  compression_ratio_threshold=2.4 : Segments with high repetition ratio are discarded (Whisper default)
+  hallucination_silence_threshold=1.0 : Words generated during >1s silence gaps are removed (lower = stricter)
+  condition_on_previous_text=False : Prevents error propagation between segments
+
+--- VAD PARAMETERS (Silero VAD inside faster-whisper) ---
+  vad threshold=0.35      : Speech detection confidence (0=everything, 1=only loud speech). 0.35 = slightly strict to reduce false positives
+  min_speech_duration_ms=250 : Minimum speech duration to keep. 250ms catches short words ("sim","nao","tchau")
+  min_silence_duration_ms=300 : Minimum silence to split segments. 300ms keeps natural pauses together
+
+--- AUDIO PREPROCESSING PIPELINE (applied before transcription) ---
+  1. _compute_vad_mask      : Computes voice activity on ORIGINAL signal (before any processing)
+  2. _declip                : Repairs clipped samples (threshold 0.98) via interpolation
+  3. _highpass(80Hz)        : Removes rumble/DC offset below 80Hz (speech fundamentals are above 85Hz)
+  4. noisereduce stationary  : Removes constant background (AC, fan, traffic)
+       prop_decrease=0.80   : 80% reduction of estimated noise floor (aggressive for constant noise)
+       n_std_thresh=1.5     : Only removes what is 1.5 std devs below noise profile (preserves speech near noise floor)
+  5. noisereduce non-stationary : Removes variable noise (movement, intermittent sounds)
+       prop_decrease=0.70   : 70% reduction (conservative to preserve quiet speech)
+       thresh_n_mult=2.0    : Needs 2x certainty before classifying as noise (protects short words)
+       sigmoid_slope=10     : Soft transition noise/speech (avoids abrupt cuts on short words)
+  6. _whisper_spectral_boost_vad : Frequency-domain boost, only where VAD detected voice
+       speech_band=150-8000Hz : Covers full Whisper mel range including sibilants (s,f,ch,x)
+       speech_gain=2.0x     : Moderate boost to speech frequencies
+       sub_150Hz_gain=0.1   : Strong cut below speech range
+       above_8kHz_gain=0.2  : Mild cut above Whisper's useful range
+       frame_boost_max=6.0x : Max boost for quiet voiced frames
+  7. _boost_quiet_segments_vad : Time-domain gain, only where VAD detected voice
+       max_gain=6.0x (15.6dB) : Enough to lift quiet speech without amplifying artifacts
+  8. _dynamic_compress       : Reduces dynamic range so quiet and loud are closer
+       threshold=-20dB      : Starts compressing at -20dB
+       ratio=2.5:1          : Gentle compression, preserves natural emphasis of short words
+  9. _loudness_norm(-6dB)   : Normalizes overall loudness to -6dB RMS
+  10. _peak_norm(0.99)      : Prevents clipping, normalizes peak to 0.99
 """
 
 import argparse
