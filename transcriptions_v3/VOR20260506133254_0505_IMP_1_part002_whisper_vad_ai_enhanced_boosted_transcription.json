@@ -1,0 +1,36 @@
+{
+  "source_file": "VOR20260506133254_0505_IMP_1_part002_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:09:11,00:09:11": "E aí",
+    "01:00:50,01:00:51": "E aí"
+  },
+  "hallucinations_filtered": 2,
+  "words": [
+    {
+      "start": 551.23,
+      "end": 551.25,
+      "text": "E",
+      "confidence": 0.12
+    },
+    {
+      "start": 551.25,
+      "end": 551.27,
+      "text": "aí",
+      "confidence": 0.959
+    },
+    {
+      "start": 3650.85,
+      "end": 3650.99,
+      "text": "E",
+      "confidence": 0.14
+    },
+    {
+      "start": 3650.99,
+      "end": 3651.01,
+      "text": "aí",
+      "confidence": 0.962
+    }
+  ]
+}

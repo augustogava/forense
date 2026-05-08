@@ -182,6 +182,7 @@ def transcribe_file(
         segments_gen, info = model.transcribe(
             str(audio_path),
             language="pt",
+            beam_size=10,
             word_timestamps=True,
             condition_on_previous_text=False,
             no_speech_threshold=0.6,

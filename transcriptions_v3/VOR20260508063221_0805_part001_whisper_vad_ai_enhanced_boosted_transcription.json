@@ -1,0 +1,36 @@
+{
+  "source_file": "VOR20260508063221_0805_part001_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:18:05,00:18:54": "O que?",
+    "00:19:18,00:19:18": "O que?"
+  },
+  "hallucinations_filtered": 3,
+  "words": [
+    {
+      "start": 1085.0,
+      "end": 1085.46,
+      "text": "O",
+      "confidence": 0.133
+    },
+    {
+      "start": 1134.68,
+      "end": 1134.78,
+      "text": "que?",
+      "confidence": 0.911
+    },
+    {
+      "start": 1158.27,
+      "end": 1158.29,
+      "text": "O",
+      "confidence": 0.285
+    },
+    {
+      "start": 1158.29,
+      "end": 1158.41,
+      "text": "que?",
+      "confidence": 0.959
+    }
+  ]
+}

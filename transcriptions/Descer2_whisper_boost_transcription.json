@@ -1,0 +1,175 @@
+{
+  "source_file": "Descer2_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:02,00:00:03": "Você vai cair.",
+    "00:00:06,00:00:08": "Você vai cair, Matias.",
+    "00:00:10,00:00:12": "Vamos brincar, gente.",
+    "00:00:12,00:00:12": "A gente vai brincar.",
+    "00:00:18,00:00:19": "Atenção!",
+    "00:00:29,00:00:30": "É isso.",
+    "00:00:57,00:00:58": "Foi de honra.",
+    "00:02:06,00:02:08": "Atenção!",
+    "00:02:21,00:02:22": "Atenção!",
+    "00:02:44,00:02:45": "Não há problema. É a ideia aqui.",
+    "00:02:51,00:02:51": "Tudo bom?"
+  },
+  "words": [
+    {
+      "start": 2.67,
+      "end": 3.23,
+      "text": "Você"
+    },
+    {
+      "start": 3.23,
+      "end": 3.41,
+      "text": "vai"
+    },
+    {
+      "start": 3.41,
+      "end": 3.71,
+      "text": "cair."
+    },
+    {
+      "start": 6.89,
+      "end": 7.45,
+      "text": "Você"
+    },
+    {
+      "start": 7.45,
+      "end": 8.01,
+      "text": "vai"
+    },
+    {
+      "start": 8.01,
+      "end": 8.27,
+      "text": "cair,"
+    },
+    {
+      "start": 8.33,
+      "end": 8.81,
+      "text": "Matias."
+    },
+    {
+      "start": 10.83,
+      "end": 11.39,
+      "text": "Vamos"
+    },
+    {
+      "start": 11.39,
+      "end": 11.79,
+      "text": "brincar,"
+    },
+    {
+      "start": 11.79,
+      "end": 12.01,
+      "text": "gente."
+    },
+    {
+      "start": 12.17,
+      "end": 12.19,
+      "text": "A"
+    },
+    {
+      "start": 12.19,
+      "end": 12.31,
+      "text": "gente"
+    },
+    {
+      "start": 12.31,
+      "end": 12.31,
+      "text": "vai"
+    },
+    {
+      "start": 12.31,
+      "end": 12.47,
+      "text": "brincar."
+    },
+    {
+      "start": 18.31,
+      "end": 19.15,
+      "text": "Atenção!"
+    },
+    {
+      "start": 29.95,
+      "end": 30.25,
+      "text": "É"
+    },
+    {
+      "start": 30.25,
+      "end": 30.35,
+      "text": "isso."
+    },
+    {
+      "start": 57.83,
+      "end": 57.93,
+      "text": "Foi"
+    },
+    {
+      "start": 57.93,
+      "end": 57.95,
+      "text": "de"
+    },
+    {
+      "start": 57.95,
+      "end": 58.37,
+      "text": "honra."
+    },
+    {
+      "start": 126.72,
+      "end": 128.02,
+      "text": "Atenção!"
+    },
+    {
+      "start": 141.76,
+      "end": 142.34,
+      "text": "Atenção!"
+    },
+    {
+      "start": 164.0,
+      "end": 164.06,
+      "text": "Não"
+    },
+    {
+      "start": 164.06,
+      "end": 164.18,
+      "text": "há"
+    },
+    {
+      "start": 164.18,
+      "end": 164.36,
+      "text": "problema."
+    },
+    {
+      "start": 164.84,
+      "end": 165.12,
+      "text": "É"
+    },
+    {
+      "start": 165.12,
+      "end": 165.24,
+      "text": "a"
+    },
+    {
+      "start": 165.24,
+      "end": 165.38,
+      "text": "ideia"
+    },
+    {
+      "start": 165.38,
+      "end": 165.6,
+      "text": "aqui."
+    },
+    {
+      "start": 171.14,
+      "end": 171.28,
+      "text": "Tudo"
+    },
+    {
+      "start": 171.28,
+      "end": 171.62,
+      "text": "bom?"
+    }
+  ]
+}

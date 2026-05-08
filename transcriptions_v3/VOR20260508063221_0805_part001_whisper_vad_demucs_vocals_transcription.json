@@ -1,0 +1,17 @@
+{
+  "source_file": "VOR20260508063221_0805_part001_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:57:31,00:57:32": "Tchau."
+  },
+  "hallucinations_filtered": 1,
+  "words": [
+    {
+      "start": 3451.95,
+      "end": 3452.13,
+      "text": "Tchau.",
+      "confidence": 0.355
+    }
+  ]
+}

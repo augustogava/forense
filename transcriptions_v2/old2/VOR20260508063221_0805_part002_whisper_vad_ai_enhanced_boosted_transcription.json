@@ -1,0 +1,29 @@
+{
+  "source_file": "VOR20260508063221_0805_part002_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.0,
+  "segments": {
+    "00:00:02,00:22:34": "Eu tenho camisola."
+  },
+  "words": [
+    {
+      "start": 2.13,
+      "end": 3.47,
+      "text": "Eu",
+      "probability": 0.156
+    },
+    {
+      "start": 1353.77,
+      "end": 1354.09,
+      "text": "tenho",
+      "probability": 0.47
+    },
+    {
+      "start": 1354.09,
+      "end": 1354.69,
+      "text": "camisola.",
+      "probability": 0.518
+    }
+  ]
+}

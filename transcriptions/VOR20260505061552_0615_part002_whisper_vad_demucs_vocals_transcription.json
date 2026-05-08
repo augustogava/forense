@@ -1,0 +1,441 @@
+{
+  "source_file": "VOR20260505061552_0615_part002_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:54,00:00:54": "Não há ordem.",
+    "00:01:19,00:01:22": "Atenção, o que eu estou dizendo é que a gente tem que ter uma lei de violência.",
+    "00:01:38,00:01:42": "Agradecimentos a todos os que participaram do programa.",
+    "00:01:44,00:01:45": "Em nome do Senhor, amém.",
+    "00:06:49,00:06:49": ".",
+    "00:06:56,00:06:56": "Obrigado.",
+    "00:09:32,00:09:33": "Muito obrigado.",
+    "00:20:11,00:20:12": "Não!",
+    "00:21:54,00:21:55": "Sem louco.",
+    "00:23:04,00:23:04": "Atenção!",
+    "00:26:52,00:26:53": ".",
+    "00:36:48,00:36:49": ".",
+    "00:38:20,00:38:21": "Agradecimentos a todos os participantes.",
+    "00:41:30,00:41:30": "Não tem problema.",
+    "00:52:08,00:52:09": "O que é o sexo?",
+    "00:53:31,00:53:32": "Não há dúvida.",
+    "00:56:07,00:56:07": "Obrigado.",
+    "01:06:50,01:06:50": ".",
+    "01:08:51,01:08:53": "Não há nenhum problema.",
+    "01:09:23,01:09:23": "Tchau!",
+    "01:10:00,01:10:03": "Acompanhe o programa em todos os lugares.",
+    "01:10:06,01:10:06": "Obrigado.",
+    "01:27:16,01:27:17": "Não há ideia do que isso significa."
+  },
+  "explicit_segments": {
+    "00:01:19,00:01:22": "Atenção, o que eu estou dizendo é que a gente tem que ter uma lei de violência."
+  },
+  "explicit_count": 1,
+  "words": [
+    {
+      "start": 54.02,
+      "end": 54.04,
+      "text": "Não"
+    },
+    {
+      "start": 54.04,
+      "end": 54.16,
+      "text": "há"
+    },
+    {
+      "start": 54.16,
+      "end": 54.44,
+      "text": "ordem."
+    },
+    {
+      "start": 79.33,
+      "end": 79.73,
+      "text": "Atenção,"
+    },
+    {
+      "start": 79.73,
+      "end": 79.73,
+      "text": "o"
+    },
+    {
+      "start": 79.73,
+      "end": 79.73,
+      "text": "que"
+    },
+    {
+      "start": 79.73,
+      "end": 79.83,
+      "text": "eu"
+    },
+    {
+      "start": 79.83,
+      "end": 79.99,
+      "text": "estou"
+    },
+    {
+      "start": 79.99,
+      "end": 80.57,
+      "text": "dizendo"
+    },
+    {
+      "start": 80.57,
+      "end": 80.95,
+      "text": "é"
+    },
+    {
+      "start": 80.95,
+      "end": 80.99,
+      "text": "que"
+    },
+    {
+      "start": 80.99,
+      "end": 80.99,
+      "text": "a"
+    },
+    {
+      "start": 80.99,
+      "end": 82.13,
+      "text": "gente"
+    },
+    {
+      "start": 82.13,
+      "end": 82.13,
+      "text": "tem"
+    },
+    {
+      "start": 82.13,
+      "end": 82.13,
+      "text": "que"
+    },
+    {
+      "start": 82.13,
+      "end": 82.13,
+      "text": "ter"
+    },
+    {
+      "start": 82.13,
+      "end": 82.13,
+      "text": "uma"
+    },
+    {
+      "start": 82.13,
+      "end": 82.13,
+      "text": "lei"
+    },
+    {
+      "start": 82.13,
+      "end": 82.13,
+      "text": "de"
+    },
+    {
+      "start": 82.13,
+      "end": 82.13,
+      "text": "violência."
+    },
+    {
+      "start": 98.53,
+      "end": 98.75,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 98.75,
+      "end": 99.01,
+      "text": "a"
+    },
+    {
+      "start": 99.01,
+      "end": 99.49,
+      "text": "todos"
+    },
+    {
+      "start": 99.49,
+      "end": 99.93,
+      "text": "os"
+    },
+    {
+      "start": 99.93,
+      "end": 99.93,
+      "text": "que"
+    },
+    {
+      "start": 99.93,
+      "end": 102.81,
+      "text": "participaram"
+    },
+    {
+      "start": 102.81,
+      "end": 102.81,
+      "text": "do"
+    },
+    {
+      "start": 102.81,
+      "end": 102.81,
+      "text": "programa."
+    },
+    {
+      "start": 104.61,
+      "end": 104.75,
+      "text": "Em"
+    },
+    {
+      "start": 104.75,
+      "end": 104.97,
+      "text": "nome"
+    },
+    {
+      "start": 104.97,
+      "end": 105.19,
+      "text": "do"
+    },
+    {
+      "start": 105.19,
+      "end": 105.39,
+      "text": "Senhor,"
+    },
+    {
+      "start": 105.71,
+      "end": 105.93,
+      "text": "amém."
+    },
+    {
+      "start": 409.73,
+      "end": 409.97,
+      "text": "."
+    },
+    {
+      "start": 416.19,
+      "end": 416.51,
+      "text": "Obrigado."
+    },
+    {
+      "start": 572.99,
+      "end": 573.17,
+      "text": "Muito"
+    },
+    {
+      "start": 573.17,
+      "end": 573.19,
+      "text": "obrigado."
+    },
+    {
+      "start": 1211.84,
+      "end": 1212.06,
+      "text": "Não!"
+    },
+    {
+      "start": 1314.85,
+      "end": 1315.21,
+      "text": "Sem"
+    },
+    {
+      "start": 1315.21,
+      "end": 1315.67,
+      "text": "louco."
+    },
+    {
+      "start": 1384.19,
+      "end": 1384.39,
+      "text": "Atenção!"
+    },
+    {
+      "start": 1612.99,
+      "end": 1613.23,
+      "text": "."
+    },
+    {
+      "start": 2208.83,
+      "end": 2209.29,
+      "text": "."
+    },
+    {
+      "start": 2300.83,
+      "end": 2301.03,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 2301.03,
+      "end": 2301.21,
+      "text": "a"
+    },
+    {
+      "start": 2301.21,
+      "end": 2301.29,
+      "text": "todos"
+    },
+    {
+      "start": 2301.29,
+      "end": 2301.57,
+      "text": "os"
+    },
+    {
+      "start": 2301.57,
+      "end": 2301.79,
+      "text": "participantes."
+    },
+    {
+      "start": 2490.69,
+      "end": 2490.89,
+      "text": "Não"
+    },
+    {
+      "start": 2490.89,
+      "end": 2490.89,
+      "text": "tem"
+    },
+    {
+      "start": 2490.89,
+      "end": 2490.97,
+      "text": "problema."
+    },
+    {
+      "start": 3128.9,
+      "end": 3129.0,
+      "text": "O"
+    },
+    {
+      "start": 3129.0,
+      "end": 3129.22,
+      "text": "que"
+    },
+    {
+      "start": 3129.22,
+      "end": 3129.32,
+      "text": "é"
+    },
+    {
+      "start": 3129.32,
+      "end": 3129.56,
+      "text": "o"
+    },
+    {
+      "start": 3129.56,
+      "end": 3129.56,
+      "text": "sexo?"
+    },
+    {
+      "start": 3211.55,
+      "end": 3211.69,
+      "text": "Não"
+    },
+    {
+      "start": 3211.69,
+      "end": 3211.77,
+      "text": "há"
+    },
+    {
+      "start": 3211.77,
+      "end": 3212.63,
+      "text": "dúvida."
+    },
+    {
+      "start": 3367.27,
+      "end": 3367.59,
+      "text": "Obrigado."
+    },
+    {
+      "start": 4010.47,
+      "end": 4010.73,
+      "text": "."
+    },
+    {
+      "start": 4131.71,
+      "end": 4131.95,
+      "text": "Não"
+    },
+    {
+      "start": 4131.95,
+      "end": 4132.31,
+      "text": "há"
+    },
+    {
+      "start": 4132.31,
+      "end": 4132.63,
+      "text": "nenhum"
+    },
+    {
+      "start": 4132.63,
+      "end": 4133.01,
+      "text": "problema."
+    },
+    {
+      "start": 4163.11,
+      "end": 4163.79,
+      "text": "Tchau!"
+    },
+    {
+      "start": 4200.39,
+      "end": 4201.07,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 4201.07,
+      "end": 4201.07,
+      "text": "o"
+    },
+    {
+      "start": 4201.07,
+      "end": 4201.13,
+      "text": "programa"
+    },
+    {
+      "start": 4201.13,
+      "end": 4201.17,
+      "text": "em"
+    },
+    {
+      "start": 4201.17,
+      "end": 4201.69,
+      "text": "todos"
+    },
+    {
+      "start": 4201.69,
+      "end": 4202.37,
+      "text": "os"
+    },
+    {
+      "start": 4202.37,
+      "end": 4203.47,
+      "text": "lugares."
+    },
+    {
+      "start": 4206.15,
+      "end": 4206.41,
+      "text": "Obrigado."
+    },
+    {
+      "start": 5236.8,
+      "end": 5236.88,
+      "text": "Não"
+    },
+    {
+      "start": 5236.88,
+      "end": 5236.92,
+      "text": "há"
+    },
+    {
+      "start": 5236.92,
+      "end": 5237.18,
+      "text": "ideia"
+    },
+    {
+      "start": 5237.18,
+      "end": 5237.32,
+      "text": "do"
+    },
+    {
+      "start": 5237.32,
+      "end": 5237.46,
+      "text": "que"
+    },
+    {
+      "start": 5237.46,
+      "end": 5237.62,
+      "text": "isso"
+    },
+    {
+      "start": 5237.62,
+      "end": 5237.84,
+      "text": "significa."
+    }
+  ]
+}

@@ -1,0 +1,656 @@
+{
+  "source_file": "Mathiasapecarro2904_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:01,00:00:03": "Aplausos",
+    "00:00:09,00:00:09": "Atenção!",
+    "00:00:17,00:00:22": "Atenção, o que acontece é que o governo do Brasil está fazendo um movimento de violência contra a população brasileira.",
+    "00:01:04,00:01:15": "Acompanhe o programa em seus redes sociais.",
+    "00:01:25,00:01:25": ".",
+    "00:01:30,00:01:31": "Não há mais.",
+    "00:01:34,00:01:35": "O que vai, o que vai, o que vai?",
+    "00:01:48,00:01:49": "Não se importou!",
+    "00:01:57,00:01:58": "Uhul!",
+    "00:02:00,00:02:01": "FIOS!",
+    "00:02:08,00:02:09": "O que dizem em 129?",
+    "00:02:10,00:02:13": "Nesse trio, tem gente precisando de você.",
+    "00:02:13,00:02:15": "Participe da campanha do agasalho.",
+    "00:02:15,00:02:18": "Doe via pics ou índios pontos de arrecadação.",
+    "00:03:03,00:03:09": "Acompanhe a prática com projetos reais e vivências que preparam você para o mercado de trabalho desde o início. E o resultado aparece.",
+    "00:03:19,00:03:19": "Incrível isso!",
+    "00:09:20,00:09:22": "Atenção!",
+    "00:11:16,00:11:18": "O Miki veio passear?",
+    "00:11:20,00:11:21": "Oi Miki!",
+    "00:11:24,00:11:26": "Sabe onde a gente está indo? Para a casa da vovó.",
+    "00:11:26,00:11:28": "Para a casa da vovó?",
+    "00:11:37,00:11:38": "Já está cedando.",
+    "00:11:50,00:11:51": "Atenção!"
+  },
+  "explicit_segments": {
+    "00:00:17,00:00:22": "Atenção, o que acontece é que o governo do Brasil está fazendo um movimento de violência contra a população brasileira."
+  },
+  "explicit_count": 1,
+  "words": [
+    {
+      "start": 1.22,
+      "end": 3.6,
+      "text": "Aplausos"
+    },
+    {
+      "start": 9.03,
+      "end": 9.47,
+      "text": "Atenção!"
+    },
+    {
+      "start": 17.92,
+      "end": 18.22,
+      "text": "Atenção,"
+    },
+    {
+      "start": 18.22,
+      "end": 18.36,
+      "text": "o"
+    },
+    {
+      "start": 18.36,
+      "end": 18.52,
+      "text": "que"
+    },
+    {
+      "start": 18.52,
+      "end": 18.74,
+      "text": "acontece"
+    },
+    {
+      "start": 18.74,
+      "end": 18.78,
+      "text": "é"
+    },
+    {
+      "start": 18.78,
+      "end": 19.0,
+      "text": "que"
+    },
+    {
+      "start": 19.0,
+      "end": 19.0,
+      "text": "o"
+    },
+    {
+      "start": 19.0,
+      "end": 19.0,
+      "text": "governo"
+    },
+    {
+      "start": 19.0,
+      "end": 19.0,
+      "text": "do"
+    },
+    {
+      "start": 19.0,
+      "end": 19.22,
+      "text": "Brasil"
+    },
+    {
+      "start": 19.22,
+      "end": 19.76,
+      "text": "está"
+    },
+    {
+      "start": 19.76,
+      "end": 20.4,
+      "text": "fazendo"
+    },
+    {
+      "start": 20.4,
+      "end": 20.44,
+      "text": "um"
+    },
+    {
+      "start": 20.44,
+      "end": 20.44,
+      "text": "movimento"
+    },
+    {
+      "start": 20.44,
+      "end": 21.0,
+      "text": "de"
+    },
+    {
+      "start": 21.0,
+      "end": 22.86,
+      "text": "violência"
+    },
+    {
+      "start": 22.86,
+      "end": 22.86,
+      "text": "contra"
+    },
+    {
+      "start": 22.86,
+      "end": 22.86,
+      "text": "a"
+    },
+    {
+      "start": 22.86,
+      "end": 22.86,
+      "text": "população"
+    },
+    {
+      "start": 22.86,
+      "end": 22.92,
+      "text": "brasileira."
+    },
+    {
+      "start": 64.0,
+      "end": 64.8,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 64.8,
+      "end": 64.8,
+      "text": "o"
+    },
+    {
+      "start": 64.8,
+      "end": 64.8,
+      "text": "programa"
+    },
+    {
+      "start": 64.8,
+      "end": 65.3,
+      "text": "em"
+    },
+    {
+      "start": 65.3,
+      "end": 65.44,
+      "text": "seus"
+    },
+    {
+      "start": 65.44,
+      "end": 65.88,
+      "text": "redes"
+    },
+    {
+      "start": 65.88,
+      "end": 75.0,
+      "text": "sociais."
+    },
+    {
+      "start": 85.31,
+      "end": 85.69,
+      "text": "."
+    },
+    {
+      "start": 90.82,
+      "end": 91.06,
+      "text": "Não"
+    },
+    {
+      "start": 91.06,
+      "end": 91.2,
+      "text": "há"
+    },
+    {
+      "start": 91.2,
+      "end": 91.36,
+      "text": "mais."
+    },
+    {
+      "start": 94.24,
+      "end": 94.48,
+      "text": "O"
+    },
+    {
+      "start": 94.48,
+      "end": 94.48,
+      "text": "que"
+    },
+    {
+      "start": 94.48,
+      "end": 94.56,
+      "text": "vai,"
+    },
+    {
+      "start": 94.62,
+      "end": 94.78,
+      "text": "o"
+    },
+    {
+      "start": 94.78,
+      "end": 94.84,
+      "text": "que"
+    },
+    {
+      "start": 94.84,
+      "end": 95.06,
+      "text": "vai,"
+    },
+    {
+      "start": 95.18,
+      "end": 95.18,
+      "text": "o"
+    },
+    {
+      "start": 95.18,
+      "end": 95.18,
+      "text": "que"
+    },
+    {
+      "start": 95.18,
+      "end": 95.18,
+      "text": "vai?"
+    },
+    {
+      "start": 108.77,
+      "end": 108.85,
+      "text": "Não"
+    },
+    {
+      "start": 108.85,
+      "end": 108.85,
+      "text": "se"
+    },
+    {
+      "start": 108.85,
+      "end": 109.13,
+      "text": "importou!"
+    },
+    {
+      "start": 117.95,
+      "end": 118.33,
+      "text": "Uhul!"
+    },
+    {
+      "start": 120.96,
+      "end": 121.48,
+      "text": "FIOS!"
+    },
+    {
+      "start": 128.35,
+      "end": 128.35,
+      "text": "O"
+    },
+    {
+      "start": 128.35,
+      "end": 128.45,
+      "text": "que"
+    },
+    {
+      "start": 128.45,
+      "end": 128.79,
+      "text": "dizem"
+    },
+    {
+      "start": 128.79,
+      "end": 128.95,
+      "text": "em"
+    },
+    {
+      "start": 128.95,
+      "end": 129.77,
+      "text": "129?"
+    },
+    {
+      "start": 130.43,
+      "end": 131.03,
+      "text": "Nesse"
+    },
+    {
+      "start": 131.03,
+      "end": 131.33,
+      "text": "trio,"
+    },
+    {
+      "start": 131.45,
+      "end": 131.75,
+      "text": "tem"
+    },
+    {
+      "start": 131.75,
+      "end": 132.07,
+      "text": "gente"
+    },
+    {
+      "start": 132.07,
+      "end": 132.77,
+      "text": "precisando"
+    },
+    {
+      "start": 132.77,
+      "end": 132.93,
+      "text": "de"
+    },
+    {
+      "start": 132.93,
+      "end": 133.17,
+      "text": "você."
+    },
+    {
+      "start": 133.55,
+      "end": 134.15,
+      "text": "Participe"
+    },
+    {
+      "start": 134.15,
+      "end": 134.27,
+      "text": "da"
+    },
+    {
+      "start": 134.27,
+      "end": 134.69,
+      "text": "campanha"
+    },
+    {
+      "start": 134.69,
+      "end": 134.79,
+      "text": "do"
+    },
+    {
+      "start": 134.79,
+      "end": 135.31,
+      "text": "agasalho."
+    },
+    {
+      "start": 135.31,
+      "end": 135.73,
+      "text": "Doe"
+    },
+    {
+      "start": 135.73,
+      "end": 135.93,
+      "text": "via"
+    },
+    {
+      "start": 135.93,
+      "end": 136.23,
+      "text": "pics"
+    },
+    {
+      "start": 136.23,
+      "end": 136.67,
+      "text": "ou"
+    },
+    {
+      "start": 136.67,
+      "end": 137.11,
+      "text": "índios"
+    },
+    {
+      "start": 137.11,
+      "end": 137.33,
+      "text": "pontos"
+    },
+    {
+      "start": 137.33,
+      "end": 137.59,
+      "text": "de"
+    },
+    {
+      "start": 137.59,
+      "end": 138.01,
+      "text": "arrecadação."
+    },
+    {
+      "start": 183.49,
+      "end": 183.65,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 183.65,
+      "end": 183.65,
+      "text": "a"
+    },
+    {
+      "start": 183.65,
+      "end": 183.99,
+      "text": "prática"
+    },
+    {
+      "start": 183.99,
+      "end": 184.13,
+      "text": "com"
+    },
+    {
+      "start": 184.13,
+      "end": 184.49,
+      "text": "projetos"
+    },
+    {
+      "start": 184.49,
+      "end": 184.67,
+      "text": "reais"
+    },
+    {
+      "start": 184.67,
+      "end": 184.99,
+      "text": "e"
+    },
+    {
+      "start": 184.99,
+      "end": 185.43,
+      "text": "vivências"
+    },
+    {
+      "start": 185.43,
+      "end": 185.57,
+      "text": "que"
+    },
+    {
+      "start": 185.57,
+      "end": 186.09,
+      "text": "preparam"
+    },
+    {
+      "start": 186.09,
+      "end": 186.31,
+      "text": "você"
+    },
+    {
+      "start": 186.31,
+      "end": 186.81,
+      "text": "para"
+    },
+    {
+      "start": 186.81,
+      "end": 186.95,
+      "text": "o"
+    },
+    {
+      "start": 186.95,
+      "end": 187.25,
+      "text": "mercado"
+    },
+    {
+      "start": 187.25,
+      "end": 187.43,
+      "text": "de"
+    },
+    {
+      "start": 187.43,
+      "end": 187.71,
+      "text": "trabalho"
+    },
+    {
+      "start": 187.71,
+      "end": 188.07,
+      "text": "desde"
+    },
+    {
+      "start": 188.07,
+      "end": 188.29,
+      "text": "o"
+    },
+    {
+      "start": 188.29,
+      "end": 188.45,
+      "text": "início."
+    },
+    {
+      "start": 188.71,
+      "end": 188.95,
+      "text": "E"
+    },
+    {
+      "start": 188.95,
+      "end": 189.07,
+      "text": "o"
+    },
+    {
+      "start": 189.07,
+      "end": 189.43,
+      "text": "resultado"
+    },
+    {
+      "start": 189.43,
+      "end": 189.83,
+      "text": "aparece."
+    },
+    {
+      "start": 199.11,
+      "end": 199.33,
+      "text": "Incrível"
+    },
+    {
+      "start": 199.33,
+      "end": 199.49,
+      "text": "isso!"
+    },
+    {
+      "start": 560.87,
+      "end": 562.93,
+      "text": "Atenção!"
+    },
+    {
+      "start": 676.45,
+      "end": 676.55,
+      "text": "O"
+    },
+    {
+      "start": 676.55,
+      "end": 676.89,
+      "text": "Miki"
+    },
+    {
+      "start": 676.89,
+      "end": 677.23,
+      "text": "veio"
+    },
+    {
+      "start": 677.23,
+      "end": 678.21,
+      "text": "passear?"
+    },
+    {
+      "start": 680.27,
+      "end": 680.61,
+      "text": "Oi"
+    },
+    {
+      "start": 680.61,
+      "end": 681.29,
+      "text": "Miki!"
+    },
+    {
+      "start": 684.23,
+      "end": 684.31,
+      "text": "Sabe"
+    },
+    {
+      "start": 684.31,
+      "end": 684.39,
+      "text": "onde"
+    },
+    {
+      "start": 684.39,
+      "end": 684.51,
+      "text": "a"
+    },
+    {
+      "start": 684.51,
+      "end": 684.61,
+      "text": "gente"
+    },
+    {
+      "start": 684.61,
+      "end": 684.83,
+      "text": "está"
+    },
+    {
+      "start": 684.83,
+      "end": 685.05,
+      "text": "indo?"
+    },
+    {
+      "start": 685.21,
+      "end": 685.41,
+      "text": "Para"
+    },
+    {
+      "start": 685.41,
+      "end": 685.49,
+      "text": "a"
+    },
+    {
+      "start": 685.49,
+      "end": 685.63,
+      "text": "casa"
+    },
+    {
+      "start": 685.63,
+      "end": 685.81,
+      "text": "da"
+    },
+    {
+      "start": 685.81,
+      "end": 686.45,
+      "text": "vovó."
+    },
+    {
+      "start": 686.77,
+      "end": 687.13,
+      "text": "Para"
+    },
+    {
+      "start": 687.13,
+      "end": 687.97,
+      "text": "a"
+    },
+    {
+      "start": 687.97,
+      "end": 688.15,
+      "text": "casa"
+    },
+    {
+      "start": 688.15,
+      "end": 688.33,
+      "text": "da"
+    },
+    {
+      "start": 688.33,
+      "end": 688.81,
+      "text": "vovó?"
+    },
+    {
+      "start": 697.79,
+      "end": 698.27,
+      "text": "Já"
+    },
+    {
+      "start": 698.27,
+      "end": 698.43,
+      "text": "está"
+    },
+    {
+      "start": 698.43,
+      "end": 698.91,
+      "text": "cedando."
+    },
+    {
+      "start": 710.53,
+      "end": 711.31,
+      "text": "Atenção!"
+    }
+  ]
+}
