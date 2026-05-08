@@ -97,40 +97,43 @@ def collect_audio_files(input_path: Path) -> List[Path]:
 
 
 _FORENSIC_PROMPT = (
-    "sexo, buceta, pau, porra, caralho, foder, puta, cu, "
-    "gozar, chupar, estupro, abuso, gemido, pelada, estuprar, abusar, molestar, violentar, masturbar, penetrar, ejacular, oral, vaginal, anal"
-    "gozando, goza, gozou, enfia, dedo, dedos, deda, dedas, dedou, dedou, dedo, dedos, deda, dedas, dedou, dedou, "
-    "pau, pica, rola, cacete, pinto, chupar, chupou, chupando, mamou, mamando, boquete, gozar, gozou, gozando, enfia, dedo, dedos, deda, dedas, dedou, dedou, dedo, dedos, deda, dedas, dedou, dedou, "
-    "porra, caralho, merda, puta, putaria, mete, dedo, dedos, deda, dedas, dedou, dedou, dedo, dedos, deda, dedas, dedou, dedou, "
-    "cu, bunda, rabo, pelada, pelado, nua, nu, estupro, estuprar, estuprou, estuprando, abuso, abusar, abusou, abusando, assédio, assediar, assediou, molestar, molestou, molestando, violência, violentar, violentou, gemido, gemendo, gemer, gemeu, geme, tesão, excitado, excitada, masturbar, masturbou, masturbando, masturbação, penetrar, penetrou, penetração, ejacular, ejaculou, ejaculação, oral, vaginal, anal"
-    "gozando, goza, gozou, enfia, dedo, dedos, deda, dedas, dedou, dedou, dedo, dedos, deda, dedas, dedou, dedou, "
-    "porra, caralho, merda, puta, putaria, mete, dedo, dedos, deda, dedas, dedou, dedou, dedo, dedos, deda, dedas, dedou, dedou, "
-    "cu, bunda, rabo, pelada, pelado, nua, nu, estupro, estuprar, estuprou, estuprando, abuso, abusar, abusou, abusando, assédio, assediar, assediou, molestar, molestou, molestando, violência, violentar, violentou, gemido, gemendo, gemer, gemeu, geme, tesão, excitado, excitada, masturbar, masturbou, masturbando, masturbação, penetrar, penetrou, penetração, ejacular, ejaculou, ejaculação, oral, vaginal, anal"
+    "Transcrição de conversa em português brasileiro. "
+    "Possível conteúdo explícito: sexo, abuso, estupro, violência, assédio. "
+    "Transcrever fielmente tudo que for dito, incluindo palavrões e termos sexuais."
 )
 
 _EXPLICIT_KEYWORDS = {
     "sexo", "sexual", "transar", "transou", "transando",
     "foder", "fuder", "fodeu", "fudeu", "fodendo", "fudendo",
-    "buceta", "boceta", "xereca", "xoxota", "ppk", "gozando", "goza", "gozou", "enfia",
+    "buceta", "boceta", "xereca", "xoxota", "ppk",
     "pau", "pica", "rola", "cacete", "pinto",
     "chupar", "chupou", "chupando", "mamar", "mamou", "mamando", "boquete",
-    "gozar", "gozou", "gozando",
-    "porra", "caralho", "merda", "puta", "putaria", "mete", "dedo", "dedos", "deda", "dedas", "dedou", "dedou", "dedo", "dedos", "deda", "dedas", "dedou", "dedou", 
+    "gozar", "gozou", "gozando", "goza", "enfia", "mete",
+    "porra", "caralho", "merda", "puta", "putaria",
+    "dedo", "dedos", "deda", "dedas", "dedou",
     "cu", "bunda", "rabo",
     "pelada", "pelado", "nua", "nu",
-    "estupro", "estuprar", "estuprou", "estuprando",
+    "estupro", "estupra", "estuprar", "estuprou", "estuprando",
     "abuso", "abusar", "abusou", "abusando",
     "assédio", "assediar", "assediou",
     "molestar", "molestou", "molestando",
     "violência", "violentar", "violentou",
     "gemido", "gemendo", "gemer", "gemeu", "geme",
-    "tesão", "excitado", "excitada", "masturba", "masturbar", "masturbou", "masturbando", "masturbação",
-    "masturbar", "masturbou", "masturbando", "masturbação",
+    "tesão", "excitado", "excitada",
+    "masturba", "masturbar", "masturbou", "masturbando", "masturbação",
     "penetrar", "penetrou", "penetração",
     "ejacular", "ejaculou", "ejaculação",
-    "oral", "vaginal", "anal", "estupra", "estuprar", "estuprou", "estuprando", "abusar", "abusou", "abusando", "assédio", "assediar", "assediou", "molestar", "molestou", "molestando", "violência", "violentar", "violentou", "gemido", "gemendo", "gemer", "gemeu", "geme", "tesão", "excitado", "excitada", "masturbar", "masturbou", "masturbando", "masturbação", "penetrar", "penetrou", "penetração", "ejacular", "ejaculou", "ejaculação", "oral", "vaginal", "anal", "estupra", "estuprar", "estuprou", "estuprando", "abusar", "abusou", "abusando", "assédio", "assediar", "assediou", "molestar", "molestou", "molestando", "violência", "violentar", "violentou", "gemido", "gemendo", "gemer", "gemeu", "geme", "tesão", "excitado", "excitada", "masturbar", "masturbou", "masturbando", "masturbação", "penetrar", "penetrou", "penetração", "ejacular", "ejaculou", "ejaculação", "oral", "vaginal", "anal", "gozando", "goza", "gozou", "enfia", "dedo", "dedos", "deda", "dedas", "dedou", "dedou", "dedo", "dedos", "deda", "dedas", "dedou", "dedou", "porra", "caralho", "merda", "puta", "putaria", "mete", "dedo", "dedos", "deda", "dedas", "dedou", "dedou", "dedo", "dedos", "deda", "dedas", "dedou", "dedou", "cu", "bunda", "rabo", "pelada", "pelado", "nua", "nu", "estupro", "estuprar", "estuprou", "estuprando", "abuso", "abusar", "abusou", "abusando", "assédio", "assediar", "assediou", "molestar", "molestou", "molestando", "violência", "violentar", "violentou", "gemido", "gemendo", "gemer", "gemeu", "geme", "tesão", "excitado", "excitada", "masturbar", "masturbou", "masturbando", "masturbação", "penetrar", "penetrou", "penetração", "ejacular", "ejaculou", "ejaculação", "oral", "vaginal", "anal",
-    "gozando", "goza", "gozou", "enfia", "dedo", "dedos", "deda", "dedas", "dedou", "dedou", "dedo", "dedos", "deda", "dedas", "dedou", "dedou", "porra", "caralho", "merda", "puta", "putaria", "mete", "dedo", "dedos", "deda", "dedas", "dedou", "dedou", "dedo", "dedos", "deda", "dedas", "dedou", "dedou", "cu", "bunda", "rabo", "pelada", "pelado", "nua", "nu", "estupro", "estuprar", "estuprou", "estuprando", "abuso", "abusar", "abusou", "abusando", "assédio", "assediar", "assediou", "molestar", "molestou", "molestando", "violência", "violentar", "violentou", "gemido", "gemendo", "gemer", "gemeu", "geme", "tesão", "excitado", "excitada", "masturbar", "masturbou", "masturbando", "masturbação", "penetrar", "penetrou", "penetração", "ejacular", "ejaculou", "ejaculação", "oral", "vaginal", "anal"
+    "oral", "vaginal", "anal",
 }
+
+def _is_hallucination(text: str) -> bool:
+    words = [w for w in text.lower().replace(",", " ").replace(".", " ").split() if w]
+    if not words:
+        return True
+    unique = set(words)
+    if len(words) >= 3 and len(unique) <= 2 and unique.issubset(_EXPLICIT_KEYWORDS):
+        return True
+    return False
 
 
 def _flag_explicit(text: str) -> bool:
@@ -149,9 +152,9 @@ def _extract_speech_segments(
         audio_tensor,
         vad_model,
         sampling_rate=sr,
-        threshold=0.3,
-        min_speech_duration_ms=400,
-        min_silence_duration_ms=300,
+        threshold=0.4,
+        min_speech_duration_ms=500,
+        min_silence_duration_ms=200,
     )
     vad_model.reset_states()
 
@@ -251,6 +254,9 @@ def transcribe_file(
             key = f"{_fmt_time(real_start)},{_fmt_time(real_end)}"
             text = seg["text"].strip()
             if not text:
+                continue
+            if _is_hallucination(text):
+                logger.debug(f"Hallucination filtered: '{text}'")
                 continue
             if text == prev_text:
                 repeat_count += 1

@@ -396,4 +396,4 @@ python forensic_audio_transcriber.py -i "to_ia_processed/" -m large-v3 --word-ti
 
 
 python forensic_audio_ai.py -i "to_ia/" -o "to_ia_processed/"
-python forensic_audio_transcriber.py -i "to_transcript/Banho0705_whisper_vad_ai_enhanced_boosted.mp3"
+python forensic_audio_transcriber.py -i "to_transcript/
