@@ -1,0 +1,503 @@
+{
+  "source_file": "VOR20260508094746_0805_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1800.0,
+  "segments": {
+    "00:01:13,00:01:57": "Caixa da esquerda bloqueada à frente",
+    "00:01:57,00:03:48": "Duas horas de música",
+    "00:03:48,00:03:51": "Música na metropolitana",
+    "00:03:51,00:04:05": "Onde pode ver como eu",
+    "00:04:05,00:04:08": "As filas de rio me desejam",
+    "00:04:08,00:04:10": "Tô aplaudindo a sua feral",
+    "00:04:10,00:04:15": "Eu sei que só o trabalho é mentado",
+    "00:04:15,00:04:17": "Uma loucura e até troféu",
+    "00:04:18,00:04:20": "Mas quando o céu faz",
+    "00:04:20,00:04:59": "O tempo com os amantes",
+    "00:04:59,00:05:19": "É o fim da terceira",
+    "00:06:50,00:06:59": "Zero, e o metropolitano continua aqui, e perto de 60 metros, e na metropolitana, yeah, duas horas de música, Metro Play Metropolitana.",
+    "00:07:08,00:07:09": "Metropolitana."
+  },
+  "words": [
+    {
+      "start": 73.81,
+      "end": 74.53,
+      "text": "Caixa",
+      "probability": 0.551
+    },
+    {
+      "start": 115.56,
+      "end": 115.72,
+      "text": "da",
+      "probability": 0.956
+    },
+    {
+      "start": 115.72,
+      "end": 116.28,
+      "text": "esquerda",
+      "probability": 0.917
+    },
+    {
+      "start": 116.28,
+      "end": 116.76,
+      "text": "bloqueada",
+      "probability": 0.724
+    },
+    {
+      "start": 116.76,
+      "end": 116.96,
+      "text": "à",
+      "probability": 0.633
+    },
+    {
+      "start": 116.96,
+      "end": 117.32,
+      "text": "frente",
+      "probability": 0.997
+    },
+    {
+      "start": 117.32,
+      "end": 118.42,
+      "text": "Duas",
+      "probability": 0.51
+    },
+    {
+      "start": 228.11,
+      "end": 228.31,
+      "text": "horas",
+      "probability": 0.871
+    },
+    {
+      "start": 228.31,
+      "end": 228.49,
+      "text": "de",
+      "probability": 0.99
+    },
+    {
+      "start": 228.49,
+      "end": 228.83,
+      "text": "música",
+      "probability": 0.975
+    },
+    {
+      "start": 228.83,
+      "end": 229.75,
+      "text": "Música",
+      "probability": 0.636
+    },
+    {
+      "start": 229.75,
+      "end": 230.21,
+      "text": "na",
+      "probability": 0.469
+    },
+    {
+      "start": 230.21,
+      "end": 231.31,
+      "text": "metropolitana",
+      "probability": 0.825
+    },
+    {
+      "start": 231.31,
+      "end": 232.27,
+      "text": "Onde",
+      "probability": 0.367
+    },
+    {
+      "start": 244.02,
+      "end": 244.3,
+      "text": "pode",
+      "probability": 0.55
+    },
+    {
+      "start": 244.3,
+      "end": 244.54,
+      "text": "ver",
+      "probability": 0.894
+    },
+    {
+      "start": 244.54,
+      "end": 244.78,
+      "text": "como",
+      "probability": 0.838
+    },
+    {
+      "start": 244.78,
+      "end": 245.12,
+      "text": "eu",
+      "probability": 0.977
+    },
+    {
+      "start": 245.12,
+      "end": 245.82,
+      "text": "As",
+      "probability": 0.115
+    },
+    {
+      "start": 246.17,
+      "end": 246.53,
+      "text": "filas",
+      "probability": 0.486
+    },
+    {
+      "start": 246.53,
+      "end": 246.67,
+      "text": "de",
+      "probability": 0.911
+    },
+    {
+      "start": 246.67,
+      "end": 246.95,
+      "text": "rio",
+      "probability": 0.432
+    },
+    {
+      "start": 246.95,
+      "end": 247.13,
+      "text": "me",
+      "probability": 0.849
+    },
+    {
+      "start": 247.13,
+      "end": 248.13,
+      "text": "desejam",
+      "probability": 0.779
+    },
+    {
+      "start": 248.13,
+      "end": 248.65,
+      "text": "Tô",
+      "probability": 0.686
+    },
+    {
+      "start": 248.65,
+      "end": 249.27,
+      "text": "aplaudindo",
+      "probability": 0.982
+    },
+    {
+      "start": 249.27,
+      "end": 249.47,
+      "text": "a",
+      "probability": 0.958
+    },
+    {
+      "start": 249.47,
+      "end": 249.65,
+      "text": "sua",
+      "probability": 0.5
+    },
+    {
+      "start": 249.65,
+      "end": 250.11,
+      "text": "feral",
+      "probability": 0.425
+    },
+    {
+      "start": 250.11,
+      "end": 250.83,
+      "text": "Eu",
+      "probability": 0.881
+    },
+    {
+      "start": 253.64,
+      "end": 253.9,
+      "text": "sei",
+      "probability": 0.998
+    },
+    {
+      "start": 253.9,
+      "end": 254.0,
+      "text": "que",
+      "probability": 0.999
+    },
+    {
+      "start": 254.0,
+      "end": 254.16,
+      "text": "só",
+      "probability": 0.852
+    },
+    {
+      "start": 254.16,
+      "end": 254.26,
+      "text": "o",
+      "probability": 0.5
+    },
+    {
+      "start": 254.26,
+      "end": 254.66,
+      "text": "trabalho",
+      "probability": 0.984
+    },
+    {
+      "start": 254.66,
+      "end": 254.88,
+      "text": "é",
+      "probability": 0.734
+    },
+    {
+      "start": 254.88,
+      "end": 255.52,
+      "text": "mentado",
+      "probability": 0.445
+    },
+    {
+      "start": 255.52,
+      "end": 256.32,
+      "text": "Uma",
+      "probability": 0.545
+    },
+    {
+      "start": 256.32,
+      "end": 256.82,
+      "text": "loucura",
+      "probability": 0.953
+    },
+    {
+      "start": 256.82,
+      "end": 256.96,
+      "text": "e",
+      "probability": 0.242
+    },
+    {
+      "start": 256.96,
+      "end": 257.2,
+      "text": "até",
+      "probability": 0.629
+    },
+    {
+      "start": 257.2,
+      "end": 257.88,
+      "text": "troféu",
+      "probability": 0.574
+    },
+    {
+      "start": 258.72,
+      "end": 259.12,
+      "text": "Mas",
+      "probability": 0.976
+    },
+    {
+      "start": 259.12,
+      "end": 259.38,
+      "text": "quando",
+      "probability": 0.875
+    },
+    {
+      "start": 259.38,
+      "end": 259.46,
+      "text": "o",
+      "probability": 0.225
+    },
+    {
+      "start": 259.46,
+      "end": 259.56,
+      "text": "céu",
+      "probability": 0.172
+    },
+    {
+      "start": 259.56,
+      "end": 260.16,
+      "text": "faz",
+      "probability": 0.379
+    },
+    {
+      "start": 260.16,
+      "end": 260.66,
+      "text": "O",
+      "probability": 0.025
+    },
+    {
+      "start": 260.66,
+      "end": 261.58,
+      "text": "tempo",
+      "probability": 0.432
+    },
+    {
+      "start": 298.02,
+      "end": 298.5,
+      "text": "com",
+      "probability": 0.242
+    },
+    {
+      "start": 298.5,
+      "end": 298.82,
+      "text": "os",
+      "probability": 0.537
+    },
+    {
+      "start": 298.82,
+      "end": 299.54,
+      "text": "amantes",
+      "probability": 0.881
+    },
+    {
+      "start": 299.54,
+      "end": 300.44,
+      "text": "É",
+      "probability": 0.738
+    },
+    {
+      "start": 318.14,
+      "end": 318.26,
+      "text": "o",
+      "probability": 0.967
+    },
+    {
+      "start": 318.26,
+      "end": 318.6,
+      "text": "fim",
+      "probability": 0.997
+    },
+    {
+      "start": 318.6,
+      "end": 318.74,
+      "text": "da",
+      "probability": 0.528
+    },
+    {
+      "start": 318.74,
+      "end": 319.28,
+      "text": "terceira",
+      "probability": 0.592
+    },
+    {
+      "start": 410.26,
+      "end": 410.56,
+      "text": "Zero,",
+      "probability": 0.034
+    },
+    {
+      "start": 410.58,
+      "end": 410.8,
+      "text": "e",
+      "probability": 0.7
+    },
+    {
+      "start": 410.8,
+      "end": 410.9,
+      "text": "o",
+      "probability": 0.901
+    },
+    {
+      "start": 410.9,
+      "end": 411.44,
+      "text": "metropolitano",
+      "probability": 0.671
+    },
+    {
+      "start": 411.44,
+      "end": 411.68,
+      "text": "continua",
+      "probability": 0.909
+    },
+    {
+      "start": 411.68,
+      "end": 411.98,
+      "text": "aqui,",
+      "probability": 0.946
+    },
+    {
+      "start": 412.06,
+      "end": 412.26,
+      "text": "e",
+      "probability": 0.336
+    },
+    {
+      "start": 412.26,
+      "end": 412.7,
+      "text": "perto",
+      "probability": 0.598
+    },
+    {
+      "start": 412.7,
+      "end": 412.88,
+      "text": "de",
+      "probability": 0.806
+    },
+    {
+      "start": 412.88,
+      "end": 413.12,
+      "text": "60",
+      "probability": 0.808
+    },
+    {
+      "start": 413.12,
+      "end": 413.36,
+      "text": "metros,",
+      "probability": 0.741
+    },
+    {
+      "start": 413.82,
+      "end": 414.28,
+      "text": "e",
+      "probability": 0.472
+    },
+    {
+      "start": 414.28,
+      "end": 414.4,
+      "text": "na",
+      "probability": 0.541
+    },
+    {
+      "start": 414.4,
+      "end": 415.42,
+      "text": "metropolitana,",
+      "probability": 0.984
+    },
+    {
+      "start": 415.42,
+      "end": 415.6,
+      "text": "yeah,",
+      "probability": 0.274
+    },
+    {
+      "start": 415.76,
+      "end": 416.4,
+      "text": "duas",
+      "probability": 0.685
+    },
+    {
+      "start": 416.4,
+      "end": 416.86,
+      "text": "horas",
+      "probability": 0.967
+    },
+    {
+      "start": 416.86,
+      "end": 417.04,
+      "text": "de",
+      "probability": 0.923
+    },
+    {
+      "start": 417.04,
+      "end": 417.4,
+      "text": "música,",
+      "probability": 0.998
+    },
+    {
+      "start": 417.82,
+      "end": 418.58,
+      "text": "Metro",
+      "probability": 0.721
+    },
+    {
+      "start": 418.58,
+      "end": 418.84,
+      "text": "Play",
+      "probability": 0.459
+    },
+    {
+      "start": 418.84,
+      "end": 419.86,
+      "text": "Metropolitana.",
+      "probability": 0.945
+    },
+    {
+      "start": 428.5,
+      "end": 429.06,
+      "text": "Metropolitana.",
+      "probability": 0.764
+    }
+  ]
+}

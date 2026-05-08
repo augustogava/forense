@@ -1,0 +1,15 @@
+{
+  "source_file": "VOR20260508104748_0805_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:25:57,00:25:57": "."
+  },
+  "words": [
+    {
+      "start": 1557.54,
+      "end": 1557.88,
+      "text": "."
+    }
+  ]
+}

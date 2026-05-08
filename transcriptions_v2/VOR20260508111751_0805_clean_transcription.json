@@ -1,0 +1,418 @@
+{
+  "source_file": "VOR20260508111751_0805_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1153.0,
+  "segments": {
+    "00:00:44,00:01:29": "Fala que você é injetanol, por favor?",
+    "00:04:08,00:04:09": "Cadê a mãozinha do céu aqui, velho?",
+    "00:04:10,00:04:11": "De um lado todo, por favor.",
+    "00:04:30,00:04:39": "Minha boca fez esforço, esqueço meu aliexar e o garfo meu faz a vez, mas o seu não esqueço nem querer.",
+    "00:04:43,00:05:18": "Menina do ouro, é me arrancar o toque do meu bebê do ouro, e balançar de medo no toque do meu oi, oi, oi.",
+    "00:05:18,00:05:26": "Tchau, tchau."
+  },
+  "words": [
+    {
+      "start": 44.6,
+      "end": 44.98,
+      "text": "Fala",
+      "probability": 0.262
+    },
+    {
+      "start": 88.66,
+      "end": 88.82,
+      "text": "que",
+      "probability": 0.305
+    },
+    {
+      "start": 88.82,
+      "end": 88.94,
+      "text": "você",
+      "probability": 0.628
+    },
+    {
+      "start": 88.94,
+      "end": 89.04,
+      "text": "é",
+      "probability": 0.8
+    },
+    {
+      "start": 89.04,
+      "end": 89.56,
+      "text": "injetanol,",
+      "probability": 0.56
+    },
+    {
+      "start": 89.64,
+      "end": 89.82,
+      "text": "por",
+      "probability": 0.954
+    },
+    {
+      "start": 89.82,
+      "end": 89.96,
+      "text": "favor?",
+      "probability": 0.99
+    },
+    {
+      "start": 248.12,
+      "end": 248.5,
+      "text": "Cadê",
+      "probability": 0.573
+    },
+    {
+      "start": 248.5,
+      "end": 248.56,
+      "text": "a",
+      "probability": 0.938
+    },
+    {
+      "start": 248.56,
+      "end": 248.86,
+      "text": "mãozinha",
+      "probability": 0.961
+    },
+    {
+      "start": 248.86,
+      "end": 249.0,
+      "text": "do",
+      "probability": 0.924
+    },
+    {
+      "start": 249.0,
+      "end": 249.24,
+      "text": "céu",
+      "probability": 0.744
+    },
+    {
+      "start": 249.24,
+      "end": 249.44,
+      "text": "aqui,",
+      "probability": 0.59
+    },
+    {
+      "start": 249.6,
+      "end": 249.82,
+      "text": "velho?",
+      "probability": 0.672
+    },
+    {
+      "start": 250.02,
+      "end": 250.3,
+      "text": "De",
+      "probability": 0.246
+    },
+    {
+      "start": 250.3,
+      "end": 250.42,
+      "text": "um",
+      "probability": 0.896
+    },
+    {
+      "start": 250.42,
+      "end": 250.62,
+      "text": "lado",
+      "probability": 0.994
+    },
+    {
+      "start": 250.62,
+      "end": 250.94,
+      "text": "todo,",
+      "probability": 0.237
+    },
+    {
+      "start": 251.28,
+      "end": 251.46,
+      "text": "por",
+      "probability": 0.345
+    },
+    {
+      "start": 251.46,
+      "end": 251.54,
+      "text": "favor.",
+      "probability": 0.782
+    },
+    {
+      "start": 270.84,
+      "end": 270.88,
+      "text": "Minha",
+      "probability": 0.371
+    },
+    {
+      "start": 270.88,
+      "end": 271.24,
+      "text": "boca",
+      "probability": 0.937
+    },
+    {
+      "start": 271.24,
+      "end": 271.92,
+      "text": "fez",
+      "probability": 0.567
+    },
+    {
+      "start": 271.92,
+      "end": 272.68,
+      "text": "esforço,",
+      "probability": 0.584
+    },
+    {
+      "start": 272.68,
+      "end": 273.38,
+      "text": "esqueço",
+      "probability": 0.91
+    },
+    {
+      "start": 273.38,
+      "end": 273.56,
+      "text": "meu",
+      "probability": 0.816
+    },
+    {
+      "start": 273.56,
+      "end": 274.6,
+      "text": "aliexar",
+      "probability": 0.538
+    },
+    {
+      "start": 274.6,
+      "end": 274.92,
+      "text": "e",
+      "probability": 0.533
+    },
+    {
+      "start": 274.92,
+      "end": 274.96,
+      "text": "o",
+      "probability": 0.634
+    },
+    {
+      "start": 274.96,
+      "end": 275.52,
+      "text": "garfo",
+      "probability": 0.517
+    },
+    {
+      "start": 275.52,
+      "end": 275.84,
+      "text": "meu",
+      "probability": 0.603
+    },
+    {
+      "start": 275.84,
+      "end": 276.26,
+      "text": "faz",
+      "probability": 0.577
+    },
+    {
+      "start": 276.26,
+      "end": 276.5,
+      "text": "a",
+      "probability": 0.627
+    },
+    {
+      "start": 276.5,
+      "end": 276.86,
+      "text": "vez,",
+      "probability": 0.359
+    },
+    {
+      "start": 276.94,
+      "end": 277.5,
+      "text": "mas",
+      "probability": 0.557
+    },
+    {
+      "start": 277.5,
+      "end": 277.76,
+      "text": "o",
+      "probability": 0.832
+    },
+    {
+      "start": 277.76,
+      "end": 278.08,
+      "text": "seu",
+      "probability": 0.431
+    },
+    {
+      "start": 278.08,
+      "end": 278.44,
+      "text": "não",
+      "probability": 0.938
+    },
+    {
+      "start": 278.44,
+      "end": 279.08,
+      "text": "esqueço",
+      "probability": 0.367
+    },
+    {
+      "start": 279.08,
+      "end": 279.36,
+      "text": "nem",
+      "probability": 0.947
+    },
+    {
+      "start": 279.36,
+      "end": 279.74,
+      "text": "querer.",
+      "probability": 0.965
+    },
+    {
+      "start": 283.04,
+      "end": 283.76,
+      "text": "Menina",
+      "probability": 0.553
+    },
+    {
+      "start": 283.76,
+      "end": 284.08,
+      "text": "do",
+      "probability": 0.583
+    },
+    {
+      "start": 284.08,
+      "end": 284.46,
+      "text": "ouro,",
+      "probability": 0.857
+    },
+    {
+      "start": 287.0,
+      "end": 287.32,
+      "text": "é",
+      "probability": 0.945
+    },
+    {
+      "start": 287.32,
+      "end": 287.48,
+      "text": "me",
+      "probability": 0.241
+    },
+    {
+      "start": 287.48,
+      "end": 288.0,
+      "text": "arrancar",
+      "probability": 0.741
+    },
+    {
+      "start": 288.0,
+      "end": 288.18,
+      "text": "o",
+      "probability": 0.202
+    },
+    {
+      "start": 288.18,
+      "end": 288.48,
+      "text": "toque",
+      "probability": 0.223
+    },
+    {
+      "start": 288.83,
+      "end": 288.95,
+      "text": "do",
+      "probability": 0.702
+    },
+    {
+      "start": 288.95,
+      "end": 289.23,
+      "text": "meu",
+      "probability": 0.288
+    },
+    {
+      "start": 289.23,
+      "end": 289.79,
+      "text": "bebê",
+      "probability": 0.563
+    },
+    {
+      "start": 289.79,
+      "end": 289.83,
+      "text": "do",
+      "probability": 0.579
+    },
+    {
+      "start": 289.83,
+      "end": 290.17,
+      "text": "ouro,",
+      "probability": 0.86
+    },
+    {
+      "start": 290.17,
+      "end": 290.41,
+      "text": "e",
+      "probability": 0.561
+    },
+    {
+      "start": 290.41,
+      "end": 291.21,
+      "text": "balançar",
+      "probability": 0.802
+    },
+    {
+      "start": 291.21,
+      "end": 291.35,
+      "text": "de",
+      "probability": 0.146
+    },
+    {
+      "start": 293.59,
+      "end": 294.05,
+      "text": "medo",
+      "probability": 0.937
+    },
+    {
+      "start": 294.05,
+      "end": 294.41,
+      "text": "no",
+      "probability": 0.752
+    },
+    {
+      "start": 294.41,
+      "end": 294.87,
+      "text": "toque",
+      "probability": 0.405
+    },
+    {
+      "start": 299.19,
+      "end": 302.61,
+      "text": "do",
+      "probability": 0.773
+    },
+    {
+      "start": 302.9,
+      "end": 303.08,
+      "text": "meu",
+      "probability": 0.762
+    },
+    {
+      "start": 303.08,
+      "end": 308.56,
+      "text": "oi,",
+      "probability": 0.257
+    },
+    {
+      "start": 318.42,
+      "end": 318.42,
+      "text": "oi,",
+      "probability": 0.799
+    },
+    {
+      "start": 318.42,
+      "end": 318.42,
+      "text": "oi.",
+      "probability": 0.98
+    },
+    {
+      "start": 318.42,
+      "end": 319.72,
+      "text": "Tchau,",
+      "probability": 0.556
+    },
+    {
+      "start": 326.0,
+      "end": 326.2,
+      "text": "tchau.",
+      "probability": 0.802
+    }
+  ]
+}

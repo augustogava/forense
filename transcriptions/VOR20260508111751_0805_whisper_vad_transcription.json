@@ -1,0 +1,667 @@
+{
+  "source_file": "VOR20260508111751_0805_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:01,00:00:01": "Agradecimentos a todos os participantes.",
+    "00:00:21,00:00:22": "Simplesmente...",
+    "00:00:29,00:00:31": "Atenção!",
+    "00:00:45,00:00:46": "Atenção!",
+    "00:00:52,00:00:54": "O que é isso?",
+    "00:00:57,00:00:58": "Não se esqueça de curtir o vídeo e se inscrever no canal.",
+    "00:01:27,00:01:28": "É esse o rock?",
+    "00:01:28,00:01:30": "Só o que tem de rock, por favor.",
+    "00:01:30,00:01:30": "Sim, só o rock.",
+    "00:04:18,00:04:25": "Meu peito é um pétalo, me virou da vez, me fez ver pra ver, seu meu lado sério",
+    "00:04:25,00:04:32": "A unha fez estrada na minha porta, sua boca na minha boca, fez esforço",
+    "00:04:32,00:04:39": "Esqueço meu aniversário, vou dar o meu passo a vez, faz o seu não esqueço nem querer",
+    "00:05:06,00:05:08": "Fazendo tempo, gemendo o sol",
+    "00:05:11,00:05:12": "Vem virar o olho",
+    "00:05:15,00:05:17": "Tenta você, mas só acabou de falar um",
+    "00:05:21,00:05:25": "Só que eu sei que traz a minha força",
+    "00:05:25,00:05:27": "Sua boca na minha bolha",
+    "00:05:27,00:05:29": "E agora eu vou te ver",
+    "00:11:15,00:11:15": "."
+  },
+  "explicit_segments": {
+    "00:05:06,00:05:08": "Fazendo tempo, gemendo o sol"
+  },
+  "explicit_count": 1,
+  "words": [
+    {
+      "start": 1.09,
+      "end": 1.29,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 1.29,
+      "end": 1.31,
+      "text": "a"
+    },
+    {
+      "start": 1.31,
+      "end": 1.41,
+      "text": "todos"
+    },
+    {
+      "start": 1.41,
+      "end": 1.41,
+      "text": "os"
+    },
+    {
+      "start": 1.41,
+      "end": 1.57,
+      "text": "participantes."
+    },
+    {
+      "start": 21.47,
+      "end": 22.11,
+      "text": "Simplesmente..."
+    },
+    {
+      "start": 29.09,
+      "end": 31.49,
+      "text": "Atenção!"
+    },
+    {
+      "start": 45.29,
+      "end": 46.69,
+      "text": "Atenção!"
+    },
+    {
+      "start": 52.68,
+      "end": 53.46,
+      "text": "O"
+    },
+    {
+      "start": 53.46,
+      "end": 53.74,
+      "text": "que"
+    },
+    {
+      "start": 53.74,
+      "end": 54.14,
+      "text": "é"
+    },
+    {
+      "start": 54.14,
+      "end": 54.54,
+      "text": "isso?"
+    },
+    {
+      "start": 57.09,
+      "end": 57.71,
+      "text": "Não"
+    },
+    {
+      "start": 57.71,
+      "end": 57.97,
+      "text": "se"
+    },
+    {
+      "start": 57.97,
+      "end": 58.69,
+      "text": "esqueça"
+    },
+    {
+      "start": 58.69,
+      "end": 58.87,
+      "text": "de"
+    },
+    {
+      "start": 58.87,
+      "end": 58.87,
+      "text": "curtir"
+    },
+    {
+      "start": 58.87,
+      "end": 58.87,
+      "text": "o"
+    },
+    {
+      "start": 58.87,
+      "end": 58.91,
+      "text": "vídeo"
+    },
+    {
+      "start": 58.91,
+      "end": 58.91,
+      "text": "e"
+    },
+    {
+      "start": 58.91,
+      "end": 58.91,
+      "text": "se"
+    },
+    {
+      "start": 58.91,
+      "end": 58.91,
+      "text": "inscrever"
+    },
+    {
+      "start": 58.91,
+      "end": 58.93,
+      "text": "no"
+    },
+    {
+      "start": 58.93,
+      "end": 58.93,
+      "text": "canal."
+    },
+    {
+      "start": 87.04,
+      "end": 87.44,
+      "text": "É"
+    },
+    {
+      "start": 87.44,
+      "end": 87.78,
+      "text": "esse"
+    },
+    {
+      "start": 87.78,
+      "end": 87.9,
+      "text": "o"
+    },
+    {
+      "start": 87.9,
+      "end": 88.14,
+      "text": "rock?"
+    },
+    {
+      "start": 88.36,
+      "end": 88.6,
+      "text": "Só"
+    },
+    {
+      "start": 88.6,
+      "end": 88.74,
+      "text": "o"
+    },
+    {
+      "start": 88.74,
+      "end": 88.84,
+      "text": "que"
+    },
+    {
+      "start": 88.84,
+      "end": 89.04,
+      "text": "tem"
+    },
+    {
+      "start": 89.04,
+      "end": 89.12,
+      "text": "de"
+    },
+    {
+      "start": 89.12,
+      "end": 89.46,
+      "text": "rock,"
+    },
+    {
+      "start": 89.62,
+      "end": 89.84,
+      "text": "por"
+    },
+    {
+      "start": 89.84,
+      "end": 90.08,
+      "text": "favor."
+    },
+    {
+      "start": 90.1,
+      "end": 90.34,
+      "text": "Sim,"
+    },
+    {
+      "start": 90.36,
+      "end": 90.38,
+      "text": "só"
+    },
+    {
+      "start": 90.38,
+      "end": 90.44,
+      "text": "o"
+    },
+    {
+      "start": 90.44,
+      "end": 90.7,
+      "text": "rock."
+    },
+    {
+      "start": 258.41,
+      "end": 258.79,
+      "text": "Meu"
+    },
+    {
+      "start": 258.79,
+      "end": 259.17,
+      "text": "peito"
+    },
+    {
+      "start": 259.17,
+      "end": 259.29,
+      "text": "é"
+    },
+    {
+      "start": 259.29,
+      "end": 259.45,
+      "text": "um"
+    },
+    {
+      "start": 259.45,
+      "end": 260.15,
+      "text": "pétalo,"
+    },
+    {
+      "start": 260.15,
+      "end": 260.47,
+      "text": "me"
+    },
+    {
+      "start": 260.47,
+      "end": 260.95,
+      "text": "virou"
+    },
+    {
+      "start": 260.95,
+      "end": 261.21,
+      "text": "da"
+    },
+    {
+      "start": 261.21,
+      "end": 261.63,
+      "text": "vez,"
+    },
+    {
+      "start": 261.65,
+      "end": 261.83,
+      "text": "me"
+    },
+    {
+      "start": 261.83,
+      "end": 262.13,
+      "text": "fez"
+    },
+    {
+      "start": 262.13,
+      "end": 262.33,
+      "text": "ver"
+    },
+    {
+      "start": 262.33,
+      "end": 262.61,
+      "text": "pra"
+    },
+    {
+      "start": 262.61,
+      "end": 263.07,
+      "text": "ver,"
+    },
+    {
+      "start": 263.07,
+      "end": 263.51,
+      "text": "seu"
+    },
+    {
+      "start": 263.51,
+      "end": 263.87,
+      "text": "meu"
+    },
+    {
+      "start": 263.87,
+      "end": 264.45,
+      "text": "lado"
+    },
+    {
+      "start": 264.45,
+      "end": 265.59,
+      "text": "sério"
+    },
+    {
+      "start": 265.59,
+      "end": 266.31,
+      "text": "A"
+    },
+    {
+      "start": 266.31,
+      "end": 266.85,
+      "text": "unha"
+    },
+    {
+      "start": 266.85,
+      "end": 267.13,
+      "text": "fez"
+    },
+    {
+      "start": 267.13,
+      "end": 268.07,
+      "text": "estrada"
+    },
+    {
+      "start": 268.07,
+      "end": 268.33,
+      "text": "na"
+    },
+    {
+      "start": 268.33,
+      "end": 268.75,
+      "text": "minha"
+    },
+    {
+      "start": 268.75,
+      "end": 269.15,
+      "text": "porta,"
+    },
+    {
+      "start": 269.55,
+      "end": 269.83,
+      "text": "sua"
+    },
+    {
+      "start": 269.83,
+      "end": 270.19,
+      "text": "boca"
+    },
+    {
+      "start": 270.19,
+      "end": 270.51,
+      "text": "na"
+    },
+    {
+      "start": 270.51,
+      "end": 270.91,
+      "text": "minha"
+    },
+    {
+      "start": 270.91,
+      "end": 271.49,
+      "text": "boca,"
+    },
+    {
+      "start": 271.55,
+      "end": 271.91,
+      "text": "fez"
+    },
+    {
+      "start": 271.91,
+      "end": 272.69,
+      "text": "esforço"
+    },
+    {
+      "start": 272.69,
+      "end": 273.33,
+      "text": "Esqueço"
+    },
+    {
+      "start": 273.33,
+      "end": 273.55,
+      "text": "meu"
+    },
+    {
+      "start": 273.55,
+      "end": 274.85,
+      "text": "aniversário,"
+    },
+    {
+      "start": 274.91,
+      "end": 275.15,
+      "text": "vou"
+    },
+    {
+      "start": 275.15,
+      "end": 275.33,
+      "text": "dar"
+    },
+    {
+      "start": 275.33,
+      "end": 275.55,
+      "text": "o"
+    },
+    {
+      "start": 275.55,
+      "end": 275.81,
+      "text": "meu"
+    },
+    {
+      "start": 275.81,
+      "end": 276.35,
+      "text": "passo"
+    },
+    {
+      "start": 276.35,
+      "end": 276.51,
+      "text": "a"
+    },
+    {
+      "start": 276.51,
+      "end": 276.91,
+      "text": "vez,"
+    },
+    {
+      "start": 276.97,
+      "end": 277.41,
+      "text": "faz"
+    },
+    {
+      "start": 277.41,
+      "end": 277.75,
+      "text": "o"
+    },
+    {
+      "start": 277.75,
+      "end": 278.09,
+      "text": "seu"
+    },
+    {
+      "start": 278.09,
+      "end": 278.43,
+      "text": "não"
+    },
+    {
+      "start": 278.43,
+      "end": 279.11,
+      "text": "esqueço"
+    },
+    {
+      "start": 279.11,
+      "end": 279.33,
+      "text": "nem"
+    },
+    {
+      "start": 279.33,
+      "end": 279.73,
+      "text": "querer"
+    },
+    {
+      "start": 306.24,
+      "end": 306.82,
+      "text": "Fazendo"
+    },
+    {
+      "start": 306.82,
+      "end": 307.18,
+      "text": "tempo,"
+    },
+    {
+      "start": 307.38,
+      "end": 308.28,
+      "text": "gemendo"
+    },
+    {
+      "start": 308.28,
+      "end": 308.42,
+      "text": "o"
+    },
+    {
+      "start": 308.42,
+      "end": 308.72,
+      "text": "sol"
+    },
+    {
+      "start": 311.06,
+      "end": 311.66,
+      "text": "Vem"
+    },
+    {
+      "start": 311.66,
+      "end": 312.02,
+      "text": "virar"
+    },
+    {
+      "start": 312.02,
+      "end": 312.04,
+      "text": "o"
+    },
+    {
+      "start": 312.04,
+      "end": 312.58,
+      "text": "olho"
+    },
+    {
+      "start": 315.84,
+      "end": 316.44,
+      "text": "Tenta"
+    },
+    {
+      "start": 316.44,
+      "end": 316.68,
+      "text": "você,"
+    },
+    {
+      "start": 316.74,
+      "end": 316.88,
+      "text": "mas"
+    },
+    {
+      "start": 316.88,
+      "end": 317.0,
+      "text": "só"
+    },
+    {
+      "start": 317.0,
+      "end": 317.28,
+      "text": "acabou"
+    },
+    {
+      "start": 317.28,
+      "end": 317.44,
+      "text": "de"
+    },
+    {
+      "start": 317.44,
+      "end": 317.64,
+      "text": "falar"
+    },
+    {
+      "start": 317.64,
+      "end": 317.92,
+      "text": "um"
+    },
+    {
+      "start": 321.6,
+      "end": 322.2,
+      "text": "Só"
+    },
+    {
+      "start": 322.2,
+      "end": 322.8,
+      "text": "que"
+    },
+    {
+      "start": 322.8,
+      "end": 322.84,
+      "text": "eu"
+    },
+    {
+      "start": 322.84,
+      "end": 323.22,
+      "text": "sei"
+    },
+    {
+      "start": 323.22,
+      "end": 323.56,
+      "text": "que"
+    },
+    {
+      "start": 323.56,
+      "end": 323.86,
+      "text": "traz"
+    },
+    {
+      "start": 323.86,
+      "end": 324.1,
+      "text": "a"
+    },
+    {
+      "start": 324.1,
+      "end": 324.76,
+      "text": "minha"
+    },
+    {
+      "start": 324.76,
+      "end": 325.26,
+      "text": "força"
+    },
+    {
+      "start": 325.26,
+      "end": 325.94,
+      "text": "Sua"
+    },
+    {
+      "start": 325.94,
+      "end": 326.26,
+      "text": "boca"
+    },
+    {
+      "start": 326.26,
+      "end": 326.6,
+      "text": "na"
+    },
+    {
+      "start": 326.6,
+      "end": 326.86,
+      "text": "minha"
+    },
+    {
+      "start": 326.86,
+      "end": 327.66,
+      "text": "bolha"
+    },
+    {
+      "start": 327.66,
+      "end": 327.94,
+      "text": "E"
+    },
+    {
+      "start": 327.94,
+      "end": 328.5,
+      "text": "agora"
+    },
+    {
+      "start": 328.5,
+      "end": 328.72,
+      "text": "eu"
+    },
+    {
+      "start": 328.72,
+      "end": 328.94,
+      "text": "vou"
+    },
+    {
+      "start": 328.94,
+      "end": 329.12,
+      "text": "te"
+    },
+    {
+      "start": 329.12,
+      "end": 329.14,
+      "text": "ver"
+    },
+    {
+      "start": 675.62,
+      "end": 676.0,
+      "text": "."
+    }
+  ]
+}

@@ -1,0 +1,971 @@
+{
+  "source_file": "VOR20260508111751_0805_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:33,00:00:39": "Você pode ser um homem, mas você não é um homem.",
+    "00:00:39,00:00:41": "Você pode ser um homem, mas você não é um homem.",
+    "00:01:12,00:01:16": "É a barra, barra, barra",
+    "00:01:21,00:01:25": "Se você faz isso, você vai se despedir",
+    "00:01:25,00:01:27": "É a barra, barra, barra",
+    "00:01:35,00:04:22": "É a luz, e a dor",
+    "00:04:26,00:04:32": "A unha fez estrada na minha porta Sua boca na minha boca fez esforço",
+    "00:04:32,00:04:36": "Esqueço meu aniversário, o dado não faz a vez",
+    "00:04:37,00:04:39": "Tu faz o seu, não esqueço nem querer",
+    "00:04:43,00:04:49": "Menina do olho, minha dor É minha falta forte, o seu esredor",
+    "00:04:49,00:04:53": "Se vai no cabelo, eu vou fazer do bem com você",
+    "00:04:54,00:05:00": "Vem me dar um abraço e um abraço",
+    "00:05:02,00:05:04": "E o que me decorou",
+    "00:05:04,00:05:06": "E vai não saber o que eu vou fazer",
+    "00:05:08,00:05:13": "Vem me dar um abraço e um abraço",
+    "00:05:14,00:05:16": "Eu sou o que vem a te chamar",
+    "00:05:16,00:05:18": "E o que vai me decorar",
+    "00:05:18,00:05:25": "Vem me dar um abraço e um abraço",
+    "00:05:25,00:05:27": "Sua boca na minha boca"
+  },
+  "hallucinations_filtered": 6,
+  "words": [
+    {
+      "start": 33.11,
+      "end": 33.51,
+      "text": "Você",
+      "confidence": 0.321
+    },
+    {
+      "start": 33.51,
+      "end": 33.75,
+      "text": "pode",
+      "confidence": 0.24
+    },
+    {
+      "start": 37.56,
+      "end": 37.84,
+      "text": "ser",
+      "confidence": 0.805
+    },
+    {
+      "start": 37.84,
+      "end": 37.96,
+      "text": "um",
+      "confidence": 0.592
+    },
+    {
+      "start": 37.96,
+      "end": 38.18,
+      "text": "homem,",
+      "confidence": 0.894
+    },
+    {
+      "start": 38.18,
+      "end": 38.36,
+      "text": "mas",
+      "confidence": 0.95
+    },
+    {
+      "start": 38.36,
+      "end": 38.64,
+      "text": "você",
+      "confidence": 0.951
+    },
+    {
+      "start": 38.64,
+      "end": 38.94,
+      "text": "não",
+      "confidence": 0.973
+    },
+    {
+      "start": 38.94,
+      "end": 39.16,
+      "text": "é",
+      "confidence": 0.988
+    },
+    {
+      "start": 39.16,
+      "end": 39.18,
+      "text": "um",
+      "confidence": 0.954
+    },
+    {
+      "start": 39.18,
+      "end": 39.2,
+      "text": "homem.",
+      "confidence": 0.998
+    },
+    {
+      "start": 39.2,
+      "end": 39.22,
+      "text": "Você",
+      "confidence": 0.628
+    },
+    {
+      "start": 39.22,
+      "end": 39.24,
+      "text": "pode",
+      "confidence": 0.733
+    },
+    {
+      "start": 39.24,
+      "end": 39.26,
+      "text": "ser",
+      "confidence": 0.971
+    },
+    {
+      "start": 39.26,
+      "end": 39.28,
+      "text": "um",
+      "confidence": 0.965
+    },
+    {
+      "start": 39.28,
+      "end": 39.38,
+      "text": "homem,",
+      "confidence": 0.995
+    },
+    {
+      "start": 39.48,
+      "end": 40.12,
+      "text": "mas",
+      "confidence": 0.978
+    },
+    {
+      "start": 40.12,
+      "end": 40.36,
+      "text": "você",
+      "confidence": 0.994
+    },
+    {
+      "start": 40.36,
+      "end": 40.5,
+      "text": "não",
+      "confidence": 0.994
+    },
+    {
+      "start": 40.5,
+      "end": 41.02,
+      "text": "é",
+      "confidence": 0.997
+    },
+    {
+      "start": 41.02,
+      "end": 41.14,
+      "text": "um",
+      "confidence": 0.99
+    },
+    {
+      "start": 41.14,
+      "end": 41.16,
+      "text": "homem.",
+      "confidence": 0.998
+    },
+    {
+      "start": 72.05,
+      "end": 73.39,
+      "text": "É",
+      "confidence": 0.055
+    },
+    {
+      "start": 73.39,
+      "end": 73.65,
+      "text": "a",
+      "confidence": 0.251
+    },
+    {
+      "start": 73.65,
+      "end": 74.63,
+      "text": "barra,",
+      "confidence": 0.353
+    },
+    {
+      "start": 74.71,
+      "end": 75.63,
+      "text": "barra,",
+      "confidence": 0.893
+    },
+    {
+      "start": 75.63,
+      "end": 76.53,
+      "text": "barra",
+      "confidence": 0.99
+    },
+    {
+      "start": 81.45,
+      "end": 81.61,
+      "text": "Se",
+      "confidence": 0.579
+    },
+    {
+      "start": 81.61,
+      "end": 81.99,
+      "text": "você",
+      "confidence": 0.898
+    },
+    {
+      "start": 81.99,
+      "end": 82.53,
+      "text": "faz",
+      "confidence": 0.213
+    },
+    {
+      "start": 82.53,
+      "end": 83.33,
+      "text": "isso,",
+      "confidence": 0.687
+    },
+    {
+      "start": 83.67,
+      "end": 83.97,
+      "text": "você",
+      "confidence": 0.61
+    },
+    {
+      "start": 83.97,
+      "end": 84.39,
+      "text": "vai",
+      "confidence": 0.289
+    },
+    {
+      "start": 84.39,
+      "end": 84.77,
+      "text": "se",
+      "confidence": 0.379
+    },
+    {
+      "start": 84.77,
+      "end": 85.3,
+      "text": "despedir",
+      "confidence": 0.339
+    },
+    {
+      "start": 85.3,
+      "end": 85.37,
+      "text": "É",
+      "confidence": 0.235
+    },
+    {
+      "start": 85.37,
+      "end": 85.69,
+      "text": "a",
+      "confidence": 0.789
+    },
+    {
+      "start": 85.69,
+      "end": 85.91,
+      "text": "barra,",
+      "confidence": 0.788
+    },
+    {
+      "start": 86.23,
+      "end": 86.39,
+      "text": "barra,",
+      "confidence": 0.998
+    },
+    {
+      "start": 86.73,
+      "end": 87.15,
+      "text": "barra",
+      "confidence": 0.999
+    },
+    {
+      "start": 95.73,
+      "end": 95.75,
+      "text": "É",
+      "confidence": 0.21
+    },
+    {
+      "start": 248.3,
+      "end": 248.44,
+      "text": "a",
+      "confidence": 0.965
+    },
+    {
+      "start": 248.44,
+      "end": 248.6,
+      "text": "luz,",
+      "confidence": 0.983
+    },
+    {
+      "start": 258.38,
+      "end": 259.35,
+      "text": "e",
+      "confidence": 0.966
+    },
+    {
+      "start": 259.35,
+      "end": 259.47,
+      "text": "a",
+      "confidence": 0.997
+    },
+    {
+      "start": 259.47,
+      "end": 262.79,
+      "text": "dor",
+      "confidence": 0.995
+    },
+    {
+      "start": 266.45,
+      "end": 266.51,
+      "text": "A",
+      "confidence": 0.33
+    },
+    {
+      "start": 266.51,
+      "end": 266.89,
+      "text": "unha",
+      "confidence": 0.628
+    },
+    {
+      "start": 266.89,
+      "end": 267.15,
+      "text": "fez",
+      "confidence": 0.978
+    },
+    {
+      "start": 267.15,
+      "end": 267.97,
+      "text": "estrada",
+      "confidence": 0.94
+    },
+    {
+      "start": 267.97,
+      "end": 268.29,
+      "text": "na",
+      "confidence": 0.902
+    },
+    {
+      "start": 268.29,
+      "end": 268.75,
+      "text": "minha",
+      "confidence": 0.989
+    },
+    {
+      "start": 268.75,
+      "end": 269.21,
+      "text": "porta",
+      "confidence": 0.4
+    },
+    {
+      "start": 269.21,
+      "end": 269.91,
+      "text": "Sua",
+      "confidence": 0.61
+    },
+    {
+      "start": 269.91,
+      "end": 270.27,
+      "text": "boca",
+      "confidence": 0.985
+    },
+    {
+      "start": 270.27,
+      "end": 270.51,
+      "text": "na",
+      "confidence": 0.95
+    },
+    {
+      "start": 270.51,
+      "end": 270.91,
+      "text": "minha",
+      "confidence": 0.994
+    },
+    {
+      "start": 270.91,
+      "end": 271.45,
+      "text": "boca",
+      "confidence": 0.994
+    },
+    {
+      "start": 271.45,
+      "end": 271.89,
+      "text": "fez",
+      "confidence": 0.792
+    },
+    {
+      "start": 271.89,
+      "end": 272.62,
+      "text": "esforço",
+      "confidence": 0.825
+    },
+    {
+      "start": 272.62,
+      "end": 273.37,
+      "text": "Esqueço",
+      "confidence": 0.846
+    },
+    {
+      "start": 273.37,
+      "end": 273.53,
+      "text": "meu",
+      "confidence": 0.714
+    },
+    {
+      "start": 273.53,
+      "end": 274.75,
+      "text": "aniversário,",
+      "confidence": 0.976
+    },
+    {
+      "start": 274.89,
+      "end": 275.03,
+      "text": "o",
+      "confidence": 0.121
+    },
+    {
+      "start": 275.03,
+      "end": 275.29,
+      "text": "dado",
+      "confidence": 0.488
+    },
+    {
+      "start": 275.29,
+      "end": 275.87,
+      "text": "não",
+      "confidence": 0.451
+    },
+    {
+      "start": 275.87,
+      "end": 276.19,
+      "text": "faz",
+      "confidence": 0.59
+    },
+    {
+      "start": 276.19,
+      "end": 276.47,
+      "text": "a",
+      "confidence": 0.763
+    },
+    {
+      "start": 276.47,
+      "end": 276.79,
+      "text": "vez",
+      "confidence": 0.663
+    },
+    {
+      "start": 277.25,
+      "end": 277.33,
+      "text": "Tu",
+      "confidence": 0.209
+    },
+    {
+      "start": 277.33,
+      "end": 277.59,
+      "text": "faz",
+      "confidence": 0.974
+    },
+    {
+      "start": 277.59,
+      "end": 277.73,
+      "text": "o",
+      "confidence": 0.57
+    },
+    {
+      "start": 277.73,
+      "end": 278.11,
+      "text": "seu,",
+      "confidence": 0.851
+    },
+    {
+      "start": 278.13,
+      "end": 278.45,
+      "text": "não",
+      "confidence": 0.88
+    },
+    {
+      "start": 278.45,
+      "end": 279.09,
+      "text": "esqueço",
+      "confidence": 0.982
+    },
+    {
+      "start": 279.09,
+      "end": 279.39,
+      "text": "nem",
+      "confidence": 0.909
+    },
+    {
+      "start": 279.39,
+      "end": 279.73,
+      "text": "querer",
+      "confidence": 0.935
+    },
+    {
+      "start": 283.28,
+      "end": 283.8,
+      "text": "Menina",
+      "confidence": 0.818
+    },
+    {
+      "start": 283.8,
+      "end": 284.02,
+      "text": "do",
+      "confidence": 0.698
+    },
+    {
+      "start": 284.02,
+      "end": 284.44,
+      "text": "olho,",
+      "confidence": 0.935
+    },
+    {
+      "start": 284.56,
+      "end": 284.78,
+      "text": "minha",
+      "confidence": 0.463
+    },
+    {
+      "start": 284.78,
+      "end": 285.2,
+      "text": "dor",
+      "confidence": 0.564
+    },
+    {
+      "start": 285.2,
+      "end": 285.81,
+      "text": "É",
+      "confidence": 0.496
+    },
+    {
+      "start": 287.31,
+      "end": 287.55,
+      "text": "minha",
+      "confidence": 0.742
+    },
+    {
+      "start": 287.55,
+      "end": 288.01,
+      "text": "falta",
+      "confidence": 0.135
+    },
+    {
+      "start": 288.01,
+      "end": 288.61,
+      "text": "forte,",
+      "confidence": 0.761
+    },
+    {
+      "start": 288.75,
+      "end": 288.95,
+      "text": "o",
+      "confidence": 0.387
+    },
+    {
+      "start": 288.95,
+      "end": 289.23,
+      "text": "seu",
+      "confidence": 0.387
+    },
+    {
+      "start": 289.23,
+      "end": 289.97,
+      "text": "esredor",
+      "confidence": 0.328
+    },
+    {
+      "start": 289.99,
+      "end": 290.35,
+      "text": "Se",
+      "confidence": 0.383
+    },
+    {
+      "start": 290.35,
+      "end": 290.65,
+      "text": "vai",
+      "confidence": 0.509
+    },
+    {
+      "start": 290.65,
+      "end": 290.85,
+      "text": "no",
+      "confidence": 0.211
+    },
+    {
+      "start": 290.85,
+      "end": 291.43,
+      "text": "cabelo,",
+      "confidence": 0.604
+    },
+    {
+      "start": 291.53,
+      "end": 291.71,
+      "text": "eu",
+      "confidence": 0.193
+    },
+    {
+      "start": 291.71,
+      "end": 291.91,
+      "text": "vou",
+      "confidence": 0.552
+    },
+    {
+      "start": 291.91,
+      "end": 292.25,
+      "text": "fazer",
+      "confidence": 0.175
+    },
+    {
+      "start": 292.25,
+      "end": 292.79,
+      "text": "do",
+      "confidence": 0.26
+    },
+    {
+      "start": 292.79,
+      "end": 293.05,
+      "text": "bem",
+      "confidence": 0.936
+    },
+    {
+      "start": 293.05,
+      "end": 293.43,
+      "text": "com",
+      "confidence": 0.208
+    },
+    {
+      "start": 293.43,
+      "end": 293.65,
+      "text": "você",
+      "confidence": 0.341
+    },
+    {
+      "start": 294.35,
+      "end": 297.37,
+      "text": "Vem",
+      "confidence": 0.236
+    },
+    {
+      "start": 297.37,
+      "end": 297.65,
+      "text": "me",
+      "confidence": 0.524
+    },
+    {
+      "start": 297.65,
+      "end": 297.99,
+      "text": "dar",
+      "confidence": 0.58
+    },
+    {
+      "start": 297.99,
+      "end": 298.25,
+      "text": "um",
+      "confidence": 0.161
+    },
+    {
+      "start": 298.25,
+      "end": 298.53,
+      "text": "abraço",
+      "confidence": 0.561
+    },
+    {
+      "start": 298.53,
+      "end": 298.77,
+      "text": "e",
+      "confidence": 0.272
+    },
+    {
+      "start": 298.77,
+      "end": 299.01,
+      "text": "um",
+      "confidence": 0.256
+    },
+    {
+      "start": 299.01,
+      "end": 300.19,
+      "text": "abraço",
+      "confidence": 0.701
+    },
+    {
+      "start": 302.56,
+      "end": 302.87,
+      "text": "E",
+      "confidence": 0.229
+    },
+    {
+      "start": 302.87,
+      "end": 302.99,
+      "text": "o",
+      "confidence": 0.186
+    },
+    {
+      "start": 302.99,
+      "end": 303.07,
+      "text": "que",
+      "confidence": 0.88
+    },
+    {
+      "start": 303.07,
+      "end": 303.33,
+      "text": "me",
+      "confidence": 0.508
+    },
+    {
+      "start": 303.33,
+      "end": 304.06,
+      "text": "decorou",
+      "confidence": 0.389
+    },
+    {
+      "start": 304.06,
+      "end": 304.41,
+      "text": "E",
+      "confidence": 0.723
+    },
+    {
+      "start": 304.41,
+      "end": 304.65,
+      "text": "vai",
+      "confidence": 0.405
+    },
+    {
+      "start": 304.65,
+      "end": 304.87,
+      "text": "não",
+      "confidence": 0.212
+    },
+    {
+      "start": 304.87,
+      "end": 305.25,
+      "text": "saber",
+      "confidence": 0.805
+    },
+    {
+      "start": 305.25,
+      "end": 305.53,
+      "text": "o",
+      "confidence": 0.225
+    },
+    {
+      "start": 305.53,
+      "end": 305.77,
+      "text": "que",
+      "confidence": 0.935
+    },
+    {
+      "start": 305.77,
+      "end": 305.93,
+      "text": "eu",
+      "confidence": 0.522
+    },
+    {
+      "start": 305.93,
+      "end": 306.23,
+      "text": "vou",
+      "confidence": 0.849
+    },
+    {
+      "start": 306.23,
+      "end": 306.55,
+      "text": "fazer",
+      "confidence": 0.952
+    },
+    {
+      "start": 308.99,
+      "end": 311.55,
+      "text": "Vem",
+      "confidence": 0.955
+    },
+    {
+      "start": 311.55,
+      "end": 311.67,
+      "text": "me",
+      "confidence": 0.999
+    },
+    {
+      "start": 311.67,
+      "end": 311.99,
+      "text": "dar",
+      "confidence": 0.997
+    },
+    {
+      "start": 311.99,
+      "end": 312.09,
+      "text": "um",
+      "confidence": 0.976
+    },
+    {
+      "start": 312.09,
+      "end": 312.63,
+      "text": "abraço",
+      "confidence": 0.968
+    },
+    {
+      "start": 312.63,
+      "end": 312.65,
+      "text": "e",
+      "confidence": 0.651
+    },
+    {
+      "start": 312.65,
+      "end": 312.67,
+      "text": "um",
+      "confidence": 0.996
+    },
+    {
+      "start": 312.67,
+      "end": 313.77,
+      "text": "abraço",
+      "confidence": 0.998
+    },
+    {
+      "start": 314.79,
+      "end": 314.93,
+      "text": "Eu",
+      "confidence": 0.361
+    },
+    {
+      "start": 314.93,
+      "end": 315.43,
+      "text": "sou",
+      "confidence": 0.645
+    },
+    {
+      "start": 315.43,
+      "end": 315.59,
+      "text": "o",
+      "confidence": 0.982
+    },
+    {
+      "start": 315.59,
+      "end": 315.73,
+      "text": "que",
+      "confidence": 0.989
+    },
+    {
+      "start": 315.73,
+      "end": 315.77,
+      "text": "vem",
+      "confidence": 0.993
+    },
+    {
+      "start": 315.77,
+      "end": 316.07,
+      "text": "a",
+      "confidence": 0.973
+    },
+    {
+      "start": 316.07,
+      "end": 316.15,
+      "text": "te",
+      "confidence": 0.993
+    },
+    {
+      "start": 316.15,
+      "end": 316.34,
+      "text": "chamar",
+      "confidence": 1.0
+    },
+    {
+      "start": 316.34,
+      "end": 316.36,
+      "text": "E",
+      "confidence": 0.247
+    },
+    {
+      "start": 316.36,
+      "end": 316.39,
+      "text": "o",
+      "confidence": 0.685
+    },
+    {
+      "start": 316.39,
+      "end": 316.41,
+      "text": "que",
+      "confidence": 0.997
+    },
+    {
+      "start": 316.41,
+      "end": 316.43,
+      "text": "vai",
+      "confidence": 0.456
+    },
+    {
+      "start": 316.43,
+      "end": 316.57,
+      "text": "me",
+      "confidence": 0.194
+    },
+    {
+      "start": 316.57,
+      "end": 318.29,
+      "text": "decorar",
+      "confidence": 0.399
+    },
+    {
+      "start": 318.29,
+      "end": 321.04,
+      "text": "Vem",
+      "confidence": 0.526
+    },
+    {
+      "start": 322.79,
+      "end": 323.37,
+      "text": "me",
+      "confidence": 0.971
+    },
+    {
+      "start": 323.37,
+      "end": 323.75,
+      "text": "dar",
+      "confidence": 0.933
+    },
+    {
+      "start": 323.75,
+      "end": 323.86,
+      "text": "um",
+      "confidence": 0.988
+    },
+    {
+      "start": 324.54,
+      "end": 324.56,
+      "text": "abraço",
+      "confidence": 0.999
+    },
+    {
+      "start": 324.56,
+      "end": 324.58,
+      "text": "e",
+      "confidence": 0.835
+    },
+    {
+      "start": 324.58,
+      "end": 324.84,
+      "text": "um",
+      "confidence": 0.999
+    },
+    {
+      "start": 324.84,
+      "end": 325.38,
+      "text": "abraço",
+      "confidence": 0.999
+    },
+    {
+      "start": 325.48,
+      "end": 325.88,
+      "text": "Sua",
+      "confidence": 0.749
+    },
+    {
+      "start": 325.88,
+      "end": 326.26,
+      "text": "boca",
+      "confidence": 0.954
+    },
+    {
+      "start": 326.26,
+      "end": 326.54,
+      "text": "na",
+      "confidence": 0.62
+    },
+    {
+      "start": 326.54,
+      "end": 326.88,
+      "text": "minha",
+      "confidence": 0.939
+    },
+    {
+      "start": 326.88,
+      "end": 327.4,
+      "text": "boca",
+      "confidence": 0.601
+    }
+  ]
+}

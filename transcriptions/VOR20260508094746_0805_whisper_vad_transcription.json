@@ -1,0 +1,935 @@
+{
+  "source_file": "VOR20260508094746_0805_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:19,00:00:21": "E um baldez à frente.",
+    "00:00:30,00:00:39": "A grande metropolitana está acumulada em dois mil reais. E hoje, ao meio dia, essa grana pode ser sua.",
+    "00:01:04,00:01:20": "Acompanhe o próximo vídeo para saber mais sobre o sexo.",
+    "00:01:26,00:01:26": "Não é possível!",
+    "00:02:22,00:02:24": "Apenas o que você quer, não tem como não ter.",
+    "00:02:45,00:02:48": "Acompanhe o processo de tradução em português.",
+    "00:03:08,00:03:08": "Não é possível.",
+    "00:03:54,00:03:57": "O que é isso?",
+    "00:04:29,00:04:43": "Não tem tempo, a gente se prendendo a toa, não faz nada de trajetória, não dá pra saber, tá bom, perdoe.",
+    "00:04:49,00:04:51": "Não há mais opção de imigração!",
+    "00:04:56,00:04:59": "E aí",
+    "00:05:18,00:05:40": "Acompanhe o processo de tradução e o link do vídeo na descrição do vídeo.",
+    "00:06:37,00:06:41": "Atena ao Zinho, e a sua senhora aqui é uma férrea, pela mão de ódio.",
+    "00:06:41,00:06:43": "Senhora, você é boa.",
+    "00:06:43,00:06:45": "Então, já manda a inscrição aí, manda o nome completo.",
+    "00:06:47,00:06:50": "119-118-9850.",
+    "00:06:50,00:06:51": "E o meu nome continua aqui.",
+    "00:06:52,00:06:53": "É importante isso, exatamente.",
+    "00:06:54,00:06:57": "A metropolitana, e é duas horas de música.",
+    "00:06:58,00:06:59": "Metro Play Metropolitana.",
+    "00:07:04,00:07:17": "Atenção! O que eu estou dizendo é que a gente tem que fazer uma análise de todos os aspectos da nossa vida.",
+    "00:07:23,00:07:25": "Música"
+  },
+  "explicit_segments": {
+    "00:01:04,00:01:20": "Acompanhe o próximo vídeo para saber mais sobre o sexo."
+  },
+  "explicit_count": 1,
+  "words": [
+    {
+      "start": 19.65,
+      "end": 20.25,
+      "text": "E"
+    },
+    {
+      "start": 20.25,
+      "end": 20.37,
+      "text": "um"
+    },
+    {
+      "start": 20.37,
+      "end": 20.87,
+      "text": "baldez"
+    },
+    {
+      "start": 20.87,
+      "end": 20.89,
+      "text": "à"
+    },
+    {
+      "start": 20.89,
+      "end": 21.13,
+      "text": "frente."
+    },
+    {
+      "start": 30.92,
+      "end": 31.64,
+      "text": "A"
+    },
+    {
+      "start": 31.64,
+      "end": 31.84,
+      "text": "grande"
+    },
+    {
+      "start": 31.84,
+      "end": 32.92,
+      "text": "metropolitana"
+    },
+    {
+      "start": 32.92,
+      "end": 33.28,
+      "text": "está"
+    },
+    {
+      "start": 33.28,
+      "end": 33.9,
+      "text": "acumulada"
+    },
+    {
+      "start": 33.9,
+      "end": 34.38,
+      "text": "em"
+    },
+    {
+      "start": 34.38,
+      "end": 34.7,
+      "text": "dois"
+    },
+    {
+      "start": 34.7,
+      "end": 35.1,
+      "text": "mil"
+    },
+    {
+      "start": 35.1,
+      "end": 35.5,
+      "text": "reais."
+    },
+    {
+      "start": 35.8,
+      "end": 36.16,
+      "text": "E"
+    },
+    {
+      "start": 36.16,
+      "end": 36.46,
+      "text": "hoje,"
+    },
+    {
+      "start": 36.6,
+      "end": 36.86,
+      "text": "ao"
+    },
+    {
+      "start": 36.86,
+      "end": 37.18,
+      "text": "meio"
+    },
+    {
+      "start": 37.18,
+      "end": 37.5,
+      "text": "dia,"
+    },
+    {
+      "start": 37.7,
+      "end": 38.06,
+      "text": "essa"
+    },
+    {
+      "start": 38.06,
+      "end": 38.56,
+      "text": "grana"
+    },
+    {
+      "start": 38.56,
+      "end": 38.8,
+      "text": "pode"
+    },
+    {
+      "start": 38.8,
+      "end": 39.14,
+      "text": "ser"
+    },
+    {
+      "start": 39.14,
+      "end": 39.56,
+      "text": "sua."
+    },
+    {
+      "start": 64.71,
+      "end": 65.43,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 65.43,
+      "end": 65.63,
+      "text": "o"
+    },
+    {
+      "start": 65.63,
+      "end": 67.13,
+      "text": "próximo"
+    },
+    {
+      "start": 67.13,
+      "end": 67.89,
+      "text": "vídeo"
+    },
+    {
+      "start": 67.89,
+      "end": 68.51,
+      "text": "para"
+    },
+    {
+      "start": 68.51,
+      "end": 69.93,
+      "text": "saber"
+    },
+    {
+      "start": 69.93,
+      "end": 69.97,
+      "text": "mais"
+    },
+    {
+      "start": 69.97,
+      "end": 77.23,
+      "text": "sobre"
+    },
+    {
+      "start": 77.23,
+      "end": 80.45,
+      "text": "o"
+    },
+    {
+      "start": 80.45,
+      "end": 80.45,
+      "text": "sexo."
+    },
+    {
+      "start": 86.05,
+      "end": 86.25,
+      "text": "Não"
+    },
+    {
+      "start": 86.25,
+      "end": 86.25,
+      "text": "é"
+    },
+    {
+      "start": 86.25,
+      "end": 86.31,
+      "text": "possível!"
+    },
+    {
+      "start": 142.35,
+      "end": 142.75,
+      "text": "Apenas"
+    },
+    {
+      "start": 142.75,
+      "end": 142.97,
+      "text": "o"
+    },
+    {
+      "start": 142.97,
+      "end": 142.97,
+      "text": "que"
+    },
+    {
+      "start": 142.97,
+      "end": 142.99,
+      "text": "você"
+    },
+    {
+      "start": 142.99,
+      "end": 143.17,
+      "text": "quer,"
+    },
+    {
+      "start": 143.17,
+      "end": 143.31,
+      "text": "não"
+    },
+    {
+      "start": 143.31,
+      "end": 143.55,
+      "text": "tem"
+    },
+    {
+      "start": 143.55,
+      "end": 143.77,
+      "text": "como"
+    },
+    {
+      "start": 143.77,
+      "end": 143.99,
+      "text": "não"
+    },
+    {
+      "start": 143.99,
+      "end": 144.21,
+      "text": "ter."
+    },
+    {
+      "start": 165.6,
+      "end": 166.14,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 166.14,
+      "end": 166.28,
+      "text": "o"
+    },
+    {
+      "start": 166.28,
+      "end": 166.74,
+      "text": "processo"
+    },
+    {
+      "start": 166.74,
+      "end": 166.84,
+      "text": "de"
+    },
+    {
+      "start": 166.84,
+      "end": 167.44,
+      "text": "tradução"
+    },
+    {
+      "start": 167.44,
+      "end": 167.9,
+      "text": "em"
+    },
+    {
+      "start": 167.9,
+      "end": 168.68,
+      "text": "português."
+    },
+    {
+      "start": 188.13,
+      "end": 188.15,
+      "text": "Não"
+    },
+    {
+      "start": 188.15,
+      "end": 188.25,
+      "text": "é"
+    },
+    {
+      "start": 188.25,
+      "end": 188.39,
+      "text": "possível."
+    },
+    {
+      "start": 234.33,
+      "end": 235.49,
+      "text": "O"
+    },
+    {
+      "start": 235.49,
+      "end": 235.51,
+      "text": "que"
+    },
+    {
+      "start": 235.51,
+      "end": 236.67,
+      "text": "é"
+    },
+    {
+      "start": 236.67,
+      "end": 237.25,
+      "text": "isso?"
+    },
+    {
+      "start": 269.83,
+      "end": 270.31,
+      "text": "Não"
+    },
+    {
+      "start": 270.31,
+      "end": 270.31,
+      "text": "tem"
+    },
+    {
+      "start": 270.31,
+      "end": 271.25,
+      "text": "tempo,"
+    },
+    {
+      "start": 271.29,
+      "end": 271.67,
+      "text": "a"
+    },
+    {
+      "start": 271.67,
+      "end": 271.93,
+      "text": "gente"
+    },
+    {
+      "start": 271.93,
+      "end": 272.27,
+      "text": "se"
+    },
+    {
+      "start": 272.27,
+      "end": 272.91,
+      "text": "prendendo"
+    },
+    {
+      "start": 272.91,
+      "end": 273.07,
+      "text": "a"
+    },
+    {
+      "start": 273.07,
+      "end": 273.85,
+      "text": "toa,"
+    },
+    {
+      "start": 273.93,
+      "end": 274.35,
+      "text": "não"
+    },
+    {
+      "start": 274.35,
+      "end": 274.61,
+      "text": "faz"
+    },
+    {
+      "start": 274.61,
+      "end": 274.95,
+      "text": "nada"
+    },
+    {
+      "start": 274.95,
+      "end": 275.13,
+      "text": "de"
+    },
+    {
+      "start": 275.13,
+      "end": 276.23,
+      "text": "trajetória,"
+    },
+    {
+      "start": 276.65,
+      "end": 278.49,
+      "text": "não"
+    },
+    {
+      "start": 278.49,
+      "end": 279.11,
+      "text": "dá"
+    },
+    {
+      "start": 279.11,
+      "end": 279.85,
+      "text": "pra"
+    },
+    {
+      "start": 279.85,
+      "end": 281.15,
+      "text": "saber,"
+    },
+    {
+      "start": 281.37,
+      "end": 281.87,
+      "text": "tá"
+    },
+    {
+      "start": 281.87,
+      "end": 282.67,
+      "text": "bom,"
+    },
+    {
+      "start": 282.67,
+      "end": 283.73,
+      "text": "perdoe."
+    },
+    {
+      "start": 289.95,
+      "end": 290.15,
+      "text": "Não"
+    },
+    {
+      "start": 290.15,
+      "end": 290.29,
+      "text": "há"
+    },
+    {
+      "start": 290.29,
+      "end": 290.41,
+      "text": "mais"
+    },
+    {
+      "start": 290.41,
+      "end": 290.83,
+      "text": "opção"
+    },
+    {
+      "start": 290.83,
+      "end": 290.83,
+      "text": "de"
+    },
+    {
+      "start": 290.83,
+      "end": 291.45,
+      "text": "imigração!"
+    },
+    {
+      "start": 296.11,
+      "end": 297.31,
+      "text": "E"
+    },
+    {
+      "start": 297.31,
+      "end": 299.07,
+      "text": "aí"
+    },
+    {
+      "start": 318.08,
+      "end": 318.6,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 318.6,
+      "end": 319.12,
+      "text": "o"
+    },
+    {
+      "start": 319.12,
+      "end": 319.6,
+      "text": "processo"
+    },
+    {
+      "start": 319.6,
+      "end": 321.64,
+      "text": "de"
+    },
+    {
+      "start": 321.64,
+      "end": 325.68,
+      "text": "tradução"
+    },
+    {
+      "start": 325.68,
+      "end": 325.76,
+      "text": "e"
+    },
+    {
+      "start": 325.76,
+      "end": 325.78,
+      "text": "o"
+    },
+    {
+      "start": 325.78,
+      "end": 328.44,
+      "text": "link"
+    },
+    {
+      "start": 328.44,
+      "end": 331.46,
+      "text": "do"
+    },
+    {
+      "start": 331.46,
+      "end": 332.02,
+      "text": "vídeo"
+    },
+    {
+      "start": 332.02,
+      "end": 332.86,
+      "text": "na"
+    },
+    {
+      "start": 332.86,
+      "end": 333.72,
+      "text": "descrição"
+    },
+    {
+      "start": 333.72,
+      "end": 336.36,
+      "text": "do"
+    },
+    {
+      "start": 336.36,
+      "end": 340.92,
+      "text": "vídeo."
+    },
+    {
+      "start": 397.58,
+      "end": 397.78,
+      "text": "Atena"
+    },
+    {
+      "start": 397.78,
+      "end": 397.84,
+      "text": "ao"
+    },
+    {
+      "start": 397.84,
+      "end": 398.16,
+      "text": "Zinho,"
+    },
+    {
+      "start": 398.26,
+      "end": 398.72,
+      "text": "e"
+    },
+    {
+      "start": 398.72,
+      "end": 398.94,
+      "text": "a"
+    },
+    {
+      "start": 398.94,
+      "end": 399.06,
+      "text": "sua"
+    },
+    {
+      "start": 399.06,
+      "end": 399.32,
+      "text": "senhora"
+    },
+    {
+      "start": 399.32,
+      "end": 399.6,
+      "text": "aqui"
+    },
+    {
+      "start": 399.6,
+      "end": 399.68,
+      "text": "é"
+    },
+    {
+      "start": 399.68,
+      "end": 399.72,
+      "text": "uma"
+    },
+    {
+      "start": 399.72,
+      "end": 400.12,
+      "text": "férrea,"
+    },
+    {
+      "start": 400.12,
+      "end": 400.94,
+      "text": "pela"
+    },
+    {
+      "start": 400.94,
+      "end": 401.16,
+      "text": "mão"
+    },
+    {
+      "start": 401.16,
+      "end": 401.36,
+      "text": "de"
+    },
+    {
+      "start": 401.36,
+      "end": 401.76,
+      "text": "ódio."
+    },
+    {
+      "start": 401.78,
+      "end": 402.26,
+      "text": "Senhora,"
+    },
+    {
+      "start": 402.42,
+      "end": 402.66,
+      "text": "você"
+    },
+    {
+      "start": 402.66,
+      "end": 402.96,
+      "text": "é"
+    },
+    {
+      "start": 402.96,
+      "end": 403.2,
+      "text": "boa."
+    },
+    {
+      "start": 403.4,
+      "end": 403.88,
+      "text": "Então,"
+    },
+    {
+      "start": 403.88,
+      "end": 404.0,
+      "text": "já"
+    },
+    {
+      "start": 404.0,
+      "end": 404.18,
+      "text": "manda"
+    },
+    {
+      "start": 404.18,
+      "end": 404.24,
+      "text": "a"
+    },
+    {
+      "start": 404.24,
+      "end": 404.54,
+      "text": "inscrição"
+    },
+    {
+      "start": 404.54,
+      "end": 404.72,
+      "text": "aí,"
+    },
+    {
+      "start": 404.76,
+      "end": 405.1,
+      "text": "manda"
+    },
+    {
+      "start": 405.1,
+      "end": 405.12,
+      "text": "o"
+    },
+    {
+      "start": 405.12,
+      "end": 405.34,
+      "text": "nome"
+    },
+    {
+      "start": 405.34,
+      "end": 405.62,
+      "text": "completo."
+    },
+    {
+      "start": 407.62,
+      "end": 408.1,
+      "text": "119"
+    },
+    {
+      "start": 408.1,
+      "end": 408.58,
+      "text": "-118"
+    },
+    {
+      "start": 408.58,
+      "end": 410.5,
+      "text": "-9850."
+    },
+    {
+      "start": 410.6,
+      "end": 410.88,
+      "text": "E"
+    },
+    {
+      "start": 410.88,
+      "end": 410.9,
+      "text": "o"
+    },
+    {
+      "start": 410.9,
+      "end": 411.06,
+      "text": "meu"
+    },
+    {
+      "start": 411.06,
+      "end": 411.18,
+      "text": "nome"
+    },
+    {
+      "start": 411.18,
+      "end": 411.54,
+      "text": "continua"
+    },
+    {
+      "start": 411.54,
+      "end": 411.98,
+      "text": "aqui."
+    },
+    {
+      "start": 412.12,
+      "end": 412.28,
+      "text": "É"
+    },
+    {
+      "start": 412.28,
+      "end": 412.5,
+      "text": "importante"
+    },
+    {
+      "start": 412.5,
+      "end": 413.0,
+      "text": "isso,"
+    },
+    {
+      "start": 413.0,
+      "end": 413.3,
+      "text": "exatamente."
+    },
+    {
+      "start": 414.44,
+      "end": 414.92,
+      "text": "A"
+    },
+    {
+      "start": 414.92,
+      "end": 415.4,
+      "text": "metropolitana,"
+    },
+    {
+      "start": 415.4,
+      "end": 415.52,
+      "text": "e"
+    },
+    {
+      "start": 415.52,
+      "end": 415.68,
+      "text": "é"
+    },
+    {
+      "start": 415.68,
+      "end": 416.3,
+      "text": "duas"
+    },
+    {
+      "start": 416.3,
+      "end": 416.82,
+      "text": "horas"
+    },
+    {
+      "start": 416.82,
+      "end": 417.06,
+      "text": "de"
+    },
+    {
+      "start": 417.06,
+      "end": 417.38,
+      "text": "música."
+    },
+    {
+      "start": 418.12,
+      "end": 418.6,
+      "text": "Metro"
+    },
+    {
+      "start": 418.6,
+      "end": 418.84,
+      "text": "Play"
+    },
+    {
+      "start": 418.84,
+      "end": 419.72,
+      "text": "Metropolitana."
+    },
+    {
+      "start": 424.51,
+      "end": 424.77,
+      "text": "Atenção!"
+    },
+    {
+      "start": 424.99,
+      "end": 425.21,
+      "text": "O"
+    },
+    {
+      "start": 425.21,
+      "end": 425.21,
+      "text": "que"
+    },
+    {
+      "start": 425.21,
+      "end": 425.21,
+      "text": "eu"
+    },
+    {
+      "start": 425.21,
+      "end": 425.21,
+      "text": "estou"
+    },
+    {
+      "start": 425.21,
+      "end": 425.89,
+      "text": "dizendo"
+    },
+    {
+      "start": 425.89,
+      "end": 426.37,
+      "text": "é"
+    },
+    {
+      "start": 426.37,
+      "end": 426.71,
+      "text": "que"
+    },
+    {
+      "start": 426.71,
+      "end": 430.79,
+      "text": "a"
+    },
+    {
+      "start": 430.79,
+      "end": 430.79,
+      "text": "gente"
+    },
+    {
+      "start": 430.79,
+      "end": 431.67,
+      "text": "tem"
+    },
+    {
+      "start": 431.67,
+      "end": 432.07,
+      "text": "que"
+    },
+    {
+      "start": 432.07,
+      "end": 432.07,
+      "text": "fazer"
+    },
+    {
+      "start": 432.07,
+      "end": 432.07,
+      "text": "uma"
+    },
+    {
+      "start": 432.07,
+      "end": 432.07,
+      "text": "análise"
+    },
+    {
+      "start": 432.07,
+      "end": 432.07,
+      "text": "de"
+    },
+    {
+      "start": 432.07,
+      "end": 432.07,
+      "text": "todos"
+    },
+    {
+      "start": 432.07,
+      "end": 432.07,
+      "text": "os"
+    },
+    {
+      "start": 432.07,
+      "end": 432.27,
+      "text": "aspectos"
+    },
+    {
+      "start": 432.27,
+      "end": 432.27,
+      "text": "da"
+    },
+    {
+      "start": 432.27,
+      "end": 432.65,
+      "text": "nossa"
+    },
+    {
+      "start": 432.65,
+      "end": 437.53,
+      "text": "vida."
+    },
+    {
+      "start": 443.87,
+      "end": 445.27,
+      "text": "Música"
+    }
+  ]
+}

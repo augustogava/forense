@@ -1,0 +1,23 @@
+{
+  "source_file": "cabelo_080526.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 657.1,
+  "segments": {
+    "00:10:41,00:10:43": "Tchau, tchau."
+  },
+  "words": [
+    {
+      "start": 641.64,
+      "end": 641.96,
+      "text": "Tchau,",
+      "probability": 0.521
+    },
+    {
+      "start": 641.98,
+      "end": 643.18,
+      "text": "tchau.",
+      "probability": 0.879
+    }
+  ]
+}

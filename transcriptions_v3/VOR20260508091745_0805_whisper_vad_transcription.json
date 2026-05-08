@@ -1,0 +1,265 @@
+{
+  "source_file": "VOR20260508091745_0805_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:06,00:24:24": "Ela tem que ser de uma dupla.",
+    "00:24:24,00:24:35": "Você não pode liberar de forma unilateral, abrindo as suas... reduzindo as suas tarifas, sem ter reciprocidade no movimento.",
+    "00:29:48,00:29:53": "Eu não sei o que eu vou fazer, mas eu vou fazer o que eu quero."
+  },
+  "hallucinations_filtered": 2,
+  "words": [
+    {
+      "start": 6.32,
+      "end": 6.48,
+      "text": "Ela",
+      "confidence": 0.49
+    },
+    {
+      "start": 1463.28,
+      "end": 1463.36,
+      "text": "tem",
+      "confidence": 0.957
+    },
+    {
+      "start": 1463.36,
+      "end": 1463.52,
+      "text": "que",
+      "confidence": 0.907
+    },
+    {
+      "start": 1463.52,
+      "end": 1463.62,
+      "text": "ser",
+      "confidence": 0.99
+    },
+    {
+      "start": 1463.62,
+      "end": 1463.72,
+      "text": "de",
+      "confidence": 0.978
+    },
+    {
+      "start": 1463.72,
+      "end": 1463.86,
+      "text": "uma",
+      "confidence": 0.868
+    },
+    {
+      "start": 1463.86,
+      "end": 1464.28,
+      "text": "dupla.",
+      "confidence": 0.997
+    },
+    {
+      "start": 1464.36,
+      "end": 1464.78,
+      "text": "Você",
+      "confidence": 0.965
+    },
+    {
+      "start": 1464.78,
+      "end": 1464.9,
+      "text": "não",
+      "confidence": 0.994
+    },
+    {
+      "start": 1464.9,
+      "end": 1465.16,
+      "text": "pode",
+      "confidence": 0.991
+    },
+    {
+      "start": 1465.16,
+      "end": 1465.78,
+      "text": "liberar",
+      "confidence": 0.794
+    },
+    {
+      "start": 1465.78,
+      "end": 1465.92,
+      "text": "de",
+      "confidence": 0.916
+    },
+    {
+      "start": 1465.92,
+      "end": 1466.36,
+      "text": "forma",
+      "confidence": 0.975
+    },
+    {
+      "start": 1466.36,
+      "end": 1468.4,
+      "text": "unilateral,",
+      "confidence": 0.967
+    },
+    {
+      "start": 1468.66,
+      "end": 1469.62,
+      "text": "abrindo",
+      "confidence": 0.836
+    },
+    {
+      "start": 1469.62,
+      "end": 1469.74,
+      "text": "as",
+      "confidence": 0.748
+    },
+    {
+      "start": 1469.74,
+      "end": 1470.22,
+      "text": "suas...",
+      "confidence": 0.992
+    },
+    {
+      "start": 1470.22,
+      "end": 1471.82,
+      "text": "reduzindo",
+      "confidence": 0.771
+    },
+    {
+      "start": 1471.82,
+      "end": 1471.94,
+      "text": "as",
+      "confidence": 0.974
+    },
+    {
+      "start": 1471.94,
+      "end": 1472.12,
+      "text": "suas",
+      "confidence": 0.996
+    },
+    {
+      "start": 1472.12,
+      "end": 1472.74,
+      "text": "tarifas,",
+      "confidence": 0.994
+    },
+    {
+      "start": 1472.76,
+      "end": 1473.36,
+      "text": "sem",
+      "confidence": 0.546
+    },
+    {
+      "start": 1473.36,
+      "end": 1473.6,
+      "text": "ter",
+      "confidence": 0.975
+    },
+    {
+      "start": 1473.6,
+      "end": 1474.68,
+      "text": "reciprocidade",
+      "confidence": 0.946
+    },
+    {
+      "start": 1474.68,
+      "end": 1475.08,
+      "text": "no",
+      "confidence": 0.674
+    },
+    {
+      "start": 1475.08,
+      "end": 1475.46,
+      "text": "movimento.",
+      "confidence": 0.995
+    },
+    {
+      "start": 1788.3,
+      "end": 1788.44,
+      "text": "Eu",
+      "confidence": 0.053
+    },
+    {
+      "start": 1788.44,
+      "end": 1788.8,
+      "text": "não",
+      "confidence": 0.233
+    },
+    {
+      "start": 1788.8,
+      "end": 1789.12,
+      "text": "sei",
+      "confidence": 0.388
+    },
+    {
+      "start": 1789.12,
+      "end": 1789.66,
+      "text": "o",
+      "confidence": 0.384
+    },
+    {
+      "start": 1789.66,
+      "end": 1790.04,
+      "text": "que",
+      "confidence": 0.972
+    },
+    {
+      "start": 1790.04,
+      "end": 1790.06,
+      "text": "eu",
+      "confidence": 0.334
+    },
+    {
+      "start": 1790.06,
+      "end": 1790.34,
+      "text": "vou",
+      "confidence": 0.354
+    },
+    {
+      "start": 1790.34,
+      "end": 1792.46,
+      "text": "fazer,",
+      "confidence": 0.706
+    },
+    {
+      "start": 1792.54,
+      "end": 1792.56,
+      "text": "mas",
+      "confidence": 0.251
+    },
+    {
+      "start": 1792.56,
+      "end": 1792.58,
+      "text": "eu",
+      "confidence": 0.333
+    },
+    {
+      "start": 1792.58,
+      "end": 1792.7,
+      "text": "vou",
+      "confidence": 0.223
+    },
+    {
+      "start": 1792.7,
+      "end": 1792.72,
+      "text": "fazer",
+      "confidence": 0.173
+    },
+    {
+      "start": 1792.72,
+      "end": 1793.38,
+      "text": "o",
+      "confidence": 0.339
+    },
+    {
+      "start": 1793.38,
+      "end": 1793.4,
+      "text": "que",
+      "confidence": 0.741
+    },
+    {
+      "start": 1793.4,
+      "end": 1793.6,
+      "text": "eu",
+      "confidence": 0.871
+    },
+    {
+      "start": 1793.6,
+      "end": 1793.62,
+      "text": "quero.",
+      "confidence": 0.568
+    }
+  ]
+}

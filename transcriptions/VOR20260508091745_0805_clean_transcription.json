@@ -1,0 +1,440 @@
+{
+  "source_file": "VOR20260508091745_0805_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:24:22,00:24:35": "Ela tem que ser de uma dupla. Você não pode liberar de forma unilateral, abrindo as suas, reduzindo as suas tarifas, sem ter em reciprocidade um movimento...",
+    "00:24:39,00:24:40": "Não se esqueça de deixar seu like e se inscrever no canal.",
+    "00:26:46,00:26:46": "É isso aí!",
+    "00:27:15,00:27:15": "É isso!",
+    "00:27:28,00:27:31": "Acompanhe o programa em português brasileiro.",
+    "00:28:09,00:28:09": ".",
+    "00:28:53,00:28:53": "O que é isso, Jane?",
+    "00:29:37,00:29:37": ".",
+    "00:29:43,00:29:46": "Eu não tenho como encontrar o que eu quero",
+    "00:29:47,00:29:53": "Não sei, eu não sei, eu não sei, eu não sei",
+    "00:29:58,00:29:59": "Não tem ninguém que não me ame!"
+  },
+  "words": [
+    {
+      "start": 1462.88,
+      "end": 1463.12,
+      "text": "Ela"
+    },
+    {
+      "start": 1463.12,
+      "end": 1463.4,
+      "text": "tem"
+    },
+    {
+      "start": 1463.4,
+      "end": 1463.52,
+      "text": "que"
+    },
+    {
+      "start": 1463.52,
+      "end": 1463.66,
+      "text": "ser"
+    },
+    {
+      "start": 1463.66,
+      "end": 1463.76,
+      "text": "de"
+    },
+    {
+      "start": 1463.76,
+      "end": 1463.8,
+      "text": "uma"
+    },
+    {
+      "start": 1463.8,
+      "end": 1464.3,
+      "text": "dupla."
+    },
+    {
+      "start": 1464.38,
+      "end": 1464.78,
+      "text": "Você"
+    },
+    {
+      "start": 1464.78,
+      "end": 1464.94,
+      "text": "não"
+    },
+    {
+      "start": 1464.94,
+      "end": 1465.14,
+      "text": "pode"
+    },
+    {
+      "start": 1465.14,
+      "end": 1465.78,
+      "text": "liberar"
+    },
+    {
+      "start": 1465.78,
+      "end": 1465.94,
+      "text": "de"
+    },
+    {
+      "start": 1465.94,
+      "end": 1466.26,
+      "text": "forma"
+    },
+    {
+      "start": 1466.26,
+      "end": 1468.4,
+      "text": "unilateral,"
+    },
+    {
+      "start": 1468.5,
+      "end": 1469.62,
+      "text": "abrindo"
+    },
+    {
+      "start": 1469.62,
+      "end": 1469.76,
+      "text": "as"
+    },
+    {
+      "start": 1469.76,
+      "end": 1470.04,
+      "text": "suas,"
+    },
+    {
+      "start": 1470.22,
+      "end": 1471.82,
+      "text": "reduzindo"
+    },
+    {
+      "start": 1471.82,
+      "end": 1471.94,
+      "text": "as"
+    },
+    {
+      "start": 1471.94,
+      "end": 1472.1,
+      "text": "suas"
+    },
+    {
+      "start": 1472.1,
+      "end": 1472.72,
+      "text": "tarifas,"
+    },
+    {
+      "start": 1472.72,
+      "end": 1473.36,
+      "text": "sem"
+    },
+    {
+      "start": 1473.36,
+      "end": 1473.62,
+      "text": "ter"
+    },
+    {
+      "start": 1473.62,
+      "end": 1473.8,
+      "text": "em"
+    },
+    {
+      "start": 1473.8,
+      "end": 1474.66,
+      "text": "reciprocidade"
+    },
+    {
+      "start": 1474.66,
+      "end": 1475.02,
+      "text": "um"
+    },
+    {
+      "start": 1475.02,
+      "end": 1475.86,
+      "text": "movimento..."
+    },
+    {
+      "start": 1479.68,
+      "end": 1479.68,
+      "text": "Não"
+    },
+    {
+      "start": 1479.68,
+      "end": 1479.76,
+      "text": "se"
+    },
+    {
+      "start": 1479.76,
+      "end": 1479.88,
+      "text": "esqueça"
+    },
+    {
+      "start": 1479.88,
+      "end": 1480.16,
+      "text": "de"
+    },
+    {
+      "start": 1480.16,
+      "end": 1480.16,
+      "text": "deixar"
+    },
+    {
+      "start": 1480.16,
+      "end": 1480.16,
+      "text": "seu"
+    },
+    {
+      "start": 1480.16,
+      "end": 1480.16,
+      "text": "like"
+    },
+    {
+      "start": 1480.16,
+      "end": 1480.16,
+      "text": "e"
+    },
+    {
+      "start": 1480.16,
+      "end": 1480.16,
+      "text": "se"
+    },
+    {
+      "start": 1480.16,
+      "end": 1480.36,
+      "text": "inscrever"
+    },
+    {
+      "start": 1480.36,
+      "end": 1480.36,
+      "text": "no"
+    },
+    {
+      "start": 1480.36,
+      "end": 1480.36,
+      "text": "canal."
+    },
+    {
+      "start": 1606.02,
+      "end": 1606.32,
+      "text": "É"
+    },
+    {
+      "start": 1606.32,
+      "end": 1606.48,
+      "text": "isso"
+    },
+    {
+      "start": 1606.48,
+      "end": 1606.48,
+      "text": "aí!"
+    },
+    {
+      "start": 1635.23,
+      "end": 1635.39,
+      "text": "É"
+    },
+    {
+      "start": 1635.39,
+      "end": 1635.47,
+      "text": "isso!"
+    },
+    {
+      "start": 1648.56,
+      "end": 1648.98,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 1648.98,
+      "end": 1649.0,
+      "text": "o"
+    },
+    {
+      "start": 1649.0,
+      "end": 1649.02,
+      "text": "programa"
+    },
+    {
+      "start": 1649.02,
+      "end": 1649.04,
+      "text": "em"
+    },
+    {
+      "start": 1649.04,
+      "end": 1651.16,
+      "text": "português"
+    },
+    {
+      "start": 1651.16,
+      "end": 1651.16,
+      "text": "brasileiro."
+    },
+    {
+      "start": 1689.35,
+      "end": 1689.59,
+      "text": "."
+    },
+    {
+      "start": 1733.19,
+      "end": 1733.27,
+      "text": "O"
+    },
+    {
+      "start": 1733.27,
+      "end": 1733.31,
+      "text": "que"
+    },
+    {
+      "start": 1733.31,
+      "end": 1733.35,
+      "text": "é"
+    },
+    {
+      "start": 1733.35,
+      "end": 1733.53,
+      "text": "isso,"
+    },
+    {
+      "start": 1733.55,
+      "end": 1733.81,
+      "text": "Jane?"
+    },
+    {
+      "start": 1777.47,
+      "end": 1777.69,
+      "text": "."
+    },
+    {
+      "start": 1783.02,
+      "end": 1783.56,
+      "text": "Eu"
+    },
+    {
+      "start": 1783.56,
+      "end": 1783.78,
+      "text": "não"
+    },
+    {
+      "start": 1783.78,
+      "end": 1784.08,
+      "text": "tenho"
+    },
+    {
+      "start": 1784.08,
+      "end": 1784.54,
+      "text": "como"
+    },
+    {
+      "start": 1784.54,
+      "end": 1785.08,
+      "text": "encontrar"
+    },
+    {
+      "start": 1785.08,
+      "end": 1785.92,
+      "text": "o"
+    },
+    {
+      "start": 1785.92,
+      "end": 1786.26,
+      "text": "que"
+    },
+    {
+      "start": 1786.26,
+      "end": 1786.4,
+      "text": "eu"
+    },
+    {
+      "start": 1786.4,
+      "end": 1786.86,
+      "text": "quero"
+    },
+    {
+      "start": 1787.56,
+      "end": 1788.18,
+      "text": "Não"
+    },
+    {
+      "start": 1788.18,
+      "end": 1789.36,
+      "text": "sei,"
+    },
+    {
+      "start": 1789.5,
+      "end": 1789.82,
+      "text": "eu"
+    },
+    {
+      "start": 1789.82,
+      "end": 1790.16,
+      "text": "não"
+    },
+    {
+      "start": 1790.16,
+      "end": 1790.66,
+      "text": "sei,"
+    },
+    {
+      "start": 1790.8,
+      "end": 1791.04,
+      "text": "eu"
+    },
+    {
+      "start": 1791.04,
+      "end": 1791.32,
+      "text": "não"
+    },
+    {
+      "start": 1791.32,
+      "end": 1791.76,
+      "text": "sei,"
+    },
+    {
+      "start": 1792.02,
+      "end": 1792.12,
+      "text": "eu"
+    },
+    {
+      "start": 1792.12,
+      "end": 1792.34,
+      "text": "não"
+    },
+    {
+      "start": 1792.34,
+      "end": 1793.0,
+      "text": "sei"
+    },
+    {
+      "start": 1798.56,
+      "end": 1798.78,
+      "text": "Não"
+    },
+    {
+      "start": 1798.78,
+      "end": 1798.78,
+      "text": "tem"
+    },
+    {
+      "start": 1798.78,
+      "end": 1798.94,
+      "text": "ninguém"
+    },
+    {
+      "start": 1798.94,
+      "end": 1799.16,
+      "text": "que"
+    },
+    {
+      "start": 1799.16,
+      "end": 1799.38,
+      "text": "não"
+    },
+    {
+      "start": 1799.38,
+      "end": 1799.5,
+      "text": "me"
+    },
+    {
+      "start": 1799.5,
+      "end": 1799.82,
+      "text": "ame!"
+    }
+  ]
+}

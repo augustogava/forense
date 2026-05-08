@@ -1,0 +1,2128 @@
+{
+  "source_file": "VOR20260508094746_0805_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:02:31,00:02:44": "Eu tô com o tempo na hora, tô rolando, tô na rua, não, não tem que eu parar de chorar",
+    "00:02:44,00:03:50": "Eu tô com o tempo na hora, tô na rua, não, não tem que eu parar de chorar",
+    "00:03:50,00:04:07": "Onde pode ver como eu, eu sou a filha de medo e desejo",
+    "00:04:08,00:04:11": "Tô aplaudindo a sua pera, o rei de milhares",
+    "00:04:11,00:04:17": "Eu sei que só trabalho mentoso, mal curado e atrapalhado",
+    "00:04:18,00:04:22": "Mas quando eu mais respirei, me via",
+    "00:04:24,00:04:33": "Tanto amor, a gente se prendendo a todo ar",
+    "00:04:33,00:04:35": "Mas falar de outra pessoa",
+    "00:04:38,00:04:42": "Só dá pra saber se aconteceu",
+    "00:04:43,00:04:59": "Se o que eu desço em aprego antes, no confronto é como os amantes",
+    "00:05:00,00:05:04": "E na hora que eu te ver, foi melhor que eu imaginei",
+    "00:05:04,00:05:09": "Se o que eu desço em aprego antes, no confronto é como os amantes",
+    "00:05:12,00:05:15": "No confronto é como os amantes",
+    "00:05:17,00:05:19": "Pelo fim da vida e do mundo",
+    "00:05:23,00:05:27": "Acabou o abraço, mudando o tempo",
+    "00:05:28,00:05:32": "A gente se prendendo à toa, por conta de outra pessoa",
+    "00:05:34,00:05:39": "Só da praça, por isso que eu me perdi",
+    "00:05:39,00:05:53": "Foi melhor que eu imaginei, que eu soubesse o meu peito antes",
+    "00:05:53,00:05:58": "Eu consegui, eu soube antes, e na hora que eu te deixei",
+    "00:05:58,00:06:00": "Quando eu imaginei",
+    "00:06:00,00:06:03": "Seu coraço e o seu toalho",
+    "00:06:04,00:06:06": "Não são tão bons a nós",
+    "00:06:06,00:06:07": "Meu Deus",
+    "00:06:09,00:06:11": "Não são bons aos amantes",
+    "00:06:12,00:06:14": "E eu, e eu, e eu, e eu",
+    "00:06:14,00:06:16": "É o fim daquele medo todo",
+    "00:06:19,00:06:22": "É o fim daquele medo todo",
+    "00:06:23,00:06:25": "Metropolitano é o Português",
+    "00:06:25,00:06:27": "4 de Meus Crescentes para os Reis",
+    "00:06:32,00:06:37": "metropolitana dessa segunda hora aqui no metro tem tem resultado também não",
+    "00:06:37,00:06:41": "finalzinho e aqui o jogador aqui é uma essa aí a mão dela",
+    "00:06:42,00:06:51": "e aí manda a mão de completo a gente é 9 11 11 9850 e o meu trabalho continua",
+    "00:06:52,00:06:53": "E português, exatamente.",
+    "00:06:53,00:06:55": "Na metropolitana, yeah!",
+    "00:06:56,00:06:57": "Duas Horas de Música.",
+    "00:06:58,00:06:59": "Metroplay Metropolitana.",
+    "00:07:08,00:07:10": "Hold up the sky like that.",
+    "00:07:10,00:07:12": "And I just can't stop.",
+    "00:07:14,00:07:15": "And I just can't stop.",
+    "00:07:15,00:07:22": "Hold it up as far as I can.",
+    "00:07:24,00:07:27": "Do you know that I'm so dark inside?",
+    "00:07:27,00:07:42": "I know that I'm lost."
+  },
+  "hallucinations_filtered": 3,
+  "words": [
+    {
+      "start": 151.06,
+      "end": 151.44,
+      "text": "Eu",
+      "confidence": 0.283
+    },
+    {
+      "start": 151.44,
+      "end": 151.94,
+      "text": "tô",
+      "confidence": 0.698
+    },
+    {
+      "start": 159.21,
+      "end": 159.54,
+      "text": "com",
+      "confidence": 0.333
+    },
+    {
+      "start": 159.54,
+      "end": 159.84,
+      "text": "o",
+      "confidence": 0.85
+    },
+    {
+      "start": 159.84,
+      "end": 160.56,
+      "text": "tempo",
+      "confidence": 0.996
+    },
+    {
+      "start": 160.56,
+      "end": 160.7,
+      "text": "na",
+      "confidence": 0.973
+    },
+    {
+      "start": 160.7,
+      "end": 161.04,
+      "text": "hora,",
+      "confidence": 0.998
+    },
+    {
+      "start": 161.18,
+      "end": 161.2,
+      "text": "tô",
+      "confidence": 0.953
+    },
+    {
+      "start": 161.2,
+      "end": 161.22,
+      "text": "rolando,",
+      "confidence": 0.97
+    },
+    {
+      "start": 161.52,
+      "end": 161.94,
+      "text": "tô",
+      "confidence": 0.944
+    },
+    {
+      "start": 161.94,
+      "end": 162.38,
+      "text": "na",
+      "confidence": 0.995
+    },
+    {
+      "start": 162.38,
+      "end": 162.8,
+      "text": "rua,",
+      "confidence": 0.993
+    },
+    {
+      "start": 163.18,
+      "end": 163.2,
+      "text": "não,",
+      "confidence": 0.987
+    },
+    {
+      "start": 163.2,
+      "end": 163.22,
+      "text": "não",
+      "confidence": 0.994
+    },
+    {
+      "start": 163.22,
+      "end": 163.24,
+      "text": "tem",
+      "confidence": 0.869
+    },
+    {
+      "start": 163.24,
+      "end": 163.66,
+      "text": "que",
+      "confidence": 0.971
+    },
+    {
+      "start": 163.66,
+      "end": 164.08,
+      "text": "eu",
+      "confidence": 0.992
+    },
+    {
+      "start": 164.08,
+      "end": 164.14,
+      "text": "parar",
+      "confidence": 0.999
+    },
+    {
+      "start": 164.14,
+      "end": 164.16,
+      "text": "de",
+      "confidence": 0.998
+    },
+    {
+      "start": 164.16,
+      "end": 164.18,
+      "text": "chorar",
+      "confidence": 0.999
+    },
+    {
+      "start": 164.18,
+      "end": 164.2,
+      "text": "Eu",
+      "confidence": 0.725
+    },
+    {
+      "start": 164.2,
+      "end": 164.24,
+      "text": "tô",
+      "confidence": 0.827
+    },
+    {
+      "start": 164.51,
+      "end": 164.65,
+      "text": "com",
+      "confidence": 0.963
+    },
+    {
+      "start": 164.65,
+      "end": 165.35,
+      "text": "o",
+      "confidence": 0.994
+    },
+    {
+      "start": 165.35,
+      "end": 165.71,
+      "text": "tempo",
+      "confidence": 1.0
+    },
+    {
+      "start": 165.71,
+      "end": 165.99,
+      "text": "na",
+      "confidence": 0.987
+    },
+    {
+      "start": 165.99,
+      "end": 166.35,
+      "text": "hora,",
+      "confidence": 0.998
+    },
+    {
+      "start": 166.51,
+      "end": 166.65,
+      "text": "tô",
+      "confidence": 0.924
+    },
+    {
+      "start": 166.65,
+      "end": 166.67,
+      "text": "na",
+      "confidence": 0.8
+    },
+    {
+      "start": 166.67,
+      "end": 166.69,
+      "text": "rua,",
+      "confidence": 0.963
+    },
+    {
+      "start": 229.67,
+      "end": 229.69,
+      "text": "não,",
+      "confidence": 0.984
+    },
+    {
+      "start": 229.69,
+      "end": 229.71,
+      "text": "não",
+      "confidence": 0.995
+    },
+    {
+      "start": 229.71,
+      "end": 229.81,
+      "text": "tem",
+      "confidence": 0.914
+    },
+    {
+      "start": 229.81,
+      "end": 229.83,
+      "text": "que",
+      "confidence": 0.991
+    },
+    {
+      "start": 229.83,
+      "end": 229.99,
+      "text": "eu",
+      "confidence": 0.99
+    },
+    {
+      "start": 229.99,
+      "end": 230.15,
+      "text": "parar",
+      "confidence": 0.999
+    },
+    {
+      "start": 230.15,
+      "end": 230.17,
+      "text": "de",
+      "confidence": 0.999
+    },
+    {
+      "start": 230.17,
+      "end": 230.19,
+      "text": "chorar",
+      "confidence": 1.0
+    },
+    {
+      "start": 230.19,
+      "end": 232.27,
+      "text": "Onde",
+      "confidence": 0.633
+    },
+    {
+      "start": 244.0,
+      "end": 244.28,
+      "text": "pode",
+      "confidence": 0.7
+    },
+    {
+      "start": 244.28,
+      "end": 244.5,
+      "text": "ver",
+      "confidence": 0.84
+    },
+    {
+      "start": 244.5,
+      "end": 244.78,
+      "text": "como",
+      "confidence": 0.833
+    },
+    {
+      "start": 244.78,
+      "end": 245.14,
+      "text": "eu,",
+      "confidence": 0.994
+    },
+    {
+      "start": 245.42,
+      "end": 245.87,
+      "text": "eu",
+      "confidence": 0.132
+    },
+    {
+      "start": 246.05,
+      "end": 246.21,
+      "text": "sou",
+      "confidence": 0.191
+    },
+    {
+      "start": 246.21,
+      "end": 246.23,
+      "text": "a",
+      "confidence": 0.291
+    },
+    {
+      "start": 246.23,
+      "end": 246.43,
+      "text": "filha",
+      "confidence": 0.77
+    },
+    {
+      "start": 246.43,
+      "end": 246.61,
+      "text": "de",
+      "confidence": 0.959
+    },
+    {
+      "start": 246.61,
+      "end": 246.91,
+      "text": "medo",
+      "confidence": 0.084
+    },
+    {
+      "start": 246.91,
+      "end": 247.09,
+      "text": "e",
+      "confidence": 0.925
+    },
+    {
+      "start": 247.09,
+      "end": 247.93,
+      "text": "desejo",
+      "confidence": 0.992
+    },
+    {
+      "start": 248.45,
+      "end": 248.67,
+      "text": "Tô",
+      "confidence": 0.709
+    },
+    {
+      "start": 248.67,
+      "end": 249.23,
+      "text": "aplaudindo",
+      "confidence": 0.98
+    },
+    {
+      "start": 249.23,
+      "end": 249.39,
+      "text": "a",
+      "confidence": 0.899
+    },
+    {
+      "start": 249.39,
+      "end": 249.67,
+      "text": "sua",
+      "confidence": 0.654
+    },
+    {
+      "start": 249.67,
+      "end": 250.03,
+      "text": "pera,",
+      "confidence": 0.437
+    },
+    {
+      "start": 250.17,
+      "end": 250.45,
+      "text": "o",
+      "confidence": 0.292
+    },
+    {
+      "start": 250.45,
+      "end": 250.83,
+      "text": "rei",
+      "confidence": 0.374
+    },
+    {
+      "start": 250.83,
+      "end": 250.95,
+      "text": "de",
+      "confidence": 0.975
+    },
+    {
+      "start": 250.95,
+      "end": 251.86,
+      "text": "milhares",
+      "confidence": 0.425
+    },
+    {
+      "start": 251.86,
+      "end": 252.97,
+      "text": "Eu",
+      "confidence": 0.298
+    },
+    {
+      "start": 252.97,
+      "end": 253.79,
+      "text": "sei",
+      "confidence": 0.742
+    },
+    {
+      "start": 253.79,
+      "end": 253.95,
+      "text": "que",
+      "confidence": 0.984
+    },
+    {
+      "start": 253.95,
+      "end": 254.11,
+      "text": "só",
+      "confidence": 0.909
+    },
+    {
+      "start": 254.11,
+      "end": 254.61,
+      "text": "trabalho",
+      "confidence": 0.296
+    },
+    {
+      "start": 254.61,
+      "end": 255.61,
+      "text": "mentoso,",
+      "confidence": 0.259
+    },
+    {
+      "start": 255.81,
+      "end": 256.35,
+      "text": "mal",
+      "confidence": 0.641
+    },
+    {
+      "start": 256.35,
+      "end": 257.11,
+      "text": "curado",
+      "confidence": 0.518
+    },
+    {
+      "start": 257.11,
+      "end": 257.29,
+      "text": "e",
+      "confidence": 0.236
+    },
+    {
+      "start": 257.29,
+      "end": 257.97,
+      "text": "atrapalhado",
+      "confidence": 0.547
+    },
+    {
+      "start": 258.53,
+      "end": 258.93,
+      "text": "Mas",
+      "confidence": 0.98
+    },
+    {
+      "start": 258.93,
+      "end": 259.31,
+      "text": "quando",
+      "confidence": 0.924
+    },
+    {
+      "start": 259.31,
+      "end": 259.51,
+      "text": "eu",
+      "confidence": 0.097
+    },
+    {
+      "start": 259.51,
+      "end": 260.07,
+      "text": "mais",
+      "confidence": 0.151
+    },
+    {
+      "start": 260.07,
+      "end": 262.03,
+      "text": "respirei,",
+      "confidence": 0.876
+    },
+    {
+      "start": 262.07,
+      "end": 262.29,
+      "text": "me",
+      "confidence": 0.407
+    },
+    {
+      "start": 262.29,
+      "end": 262.75,
+      "text": "via",
+      "confidence": 0.276
+    },
+    {
+      "start": 264.03,
+      "end": 265.75,
+      "text": "Tanto",
+      "confidence": 0.424
+    },
+    {
+      "start": 266.2,
+      "end": 266.84,
+      "text": "amor,",
+      "confidence": 0.82
+    },
+    {
+      "start": 267.24,
+      "end": 267.73,
+      "text": "a",
+      "confidence": 0.822
+    },
+    {
+      "start": 271.48,
+      "end": 272.0,
+      "text": "gente",
+      "confidence": 0.998
+    },
+    {
+      "start": 272.0,
+      "end": 272.24,
+      "text": "se",
+      "confidence": 0.989
+    },
+    {
+      "start": 272.24,
+      "end": 272.9,
+      "text": "prendendo",
+      "confidence": 0.985
+    },
+    {
+      "start": 272.9,
+      "end": 273.06,
+      "text": "a",
+      "confidence": 0.861
+    },
+    {
+      "start": 273.06,
+      "end": 273.46,
+      "text": "todo",
+      "confidence": 0.379
+    },
+    {
+      "start": 273.46,
+      "end": 273.92,
+      "text": "ar",
+      "confidence": 0.451
+    },
+    {
+      "start": 273.96,
+      "end": 274.5,
+      "text": "Mas",
+      "confidence": 0.425
+    },
+    {
+      "start": 274.5,
+      "end": 274.74,
+      "text": "falar",
+      "confidence": 0.232
+    },
+    {
+      "start": 274.74,
+      "end": 275.12,
+      "text": "de",
+      "confidence": 0.934
+    },
+    {
+      "start": 275.12,
+      "end": 275.26,
+      "text": "outra",
+      "confidence": 0.971
+    },
+    {
+      "start": 275.26,
+      "end": 275.74,
+      "text": "pessoa",
+      "confidence": 0.997
+    },
+    {
+      "start": 278.4,
+      "end": 278.86,
+      "text": "Só",
+      "confidence": 0.539
+    },
+    {
+      "start": 278.86,
+      "end": 279.24,
+      "text": "dá",
+      "confidence": 0.469
+    },
+    {
+      "start": 279.24,
+      "end": 279.78,
+      "text": "pra",
+      "confidence": 0.979
+    },
+    {
+      "start": 279.78,
+      "end": 280.72,
+      "text": "saber",
+      "confidence": 0.751
+    },
+    {
+      "start": 280.72,
+      "end": 281.82,
+      "text": "se",
+      "confidence": 0.417
+    },
+    {
+      "start": 281.82,
+      "end": 282.46,
+      "text": "aconteceu",
+      "confidence": 0.289
+    },
+    {
+      "start": 283.44,
+      "end": 284.75,
+      "text": "Se",
+      "confidence": 0.476
+    },
+    {
+      "start": 294.78,
+      "end": 294.98,
+      "text": "o",
+      "confidence": 0.345
+    },
+    {
+      "start": 294.98,
+      "end": 295.16,
+      "text": "que",
+      "confidence": 0.164
+    },
+    {
+      "start": 295.16,
+      "end": 295.28,
+      "text": "eu",
+      "confidence": 0.904
+    },
+    {
+      "start": 295.28,
+      "end": 295.58,
+      "text": "desço",
+      "confidence": 0.414
+    },
+    {
+      "start": 295.58,
+      "end": 295.68,
+      "text": "em",
+      "confidence": 0.395
+    },
+    {
+      "start": 295.68,
+      "end": 296.14,
+      "text": "aprego",
+      "confidence": 0.35
+    },
+    {
+      "start": 296.14,
+      "end": 296.88,
+      "text": "antes,",
+      "confidence": 0.738
+    },
+    {
+      "start": 297.1,
+      "end": 297.46,
+      "text": "no",
+      "confidence": 0.211
+    },
+    {
+      "start": 297.46,
+      "end": 298.04,
+      "text": "confronto",
+      "confidence": 0.534
+    },
+    {
+      "start": 298.04,
+      "end": 298.16,
+      "text": "é",
+      "confidence": 0.157
+    },
+    {
+      "start": 298.16,
+      "end": 298.42,
+      "text": "como",
+      "confidence": 0.769
+    },
+    {
+      "start": 298.42,
+      "end": 298.54,
+      "text": "os",
+      "confidence": 0.153
+    },
+    {
+      "start": 298.54,
+      "end": 299.52,
+      "text": "amantes",
+      "confidence": 0.614
+    },
+    {
+      "start": 300.06,
+      "end": 300.1,
+      "text": "E",
+      "confidence": 0.917
+    },
+    {
+      "start": 300.1,
+      "end": 300.34,
+      "text": "na",
+      "confidence": 0.929
+    },
+    {
+      "start": 300.34,
+      "end": 300.68,
+      "text": "hora",
+      "confidence": 1.0
+    },
+    {
+      "start": 300.68,
+      "end": 300.86,
+      "text": "que",
+      "confidence": 0.988
+    },
+    {
+      "start": 300.86,
+      "end": 301.02,
+      "text": "eu",
+      "confidence": 0.995
+    },
+    {
+      "start": 301.02,
+      "end": 301.12,
+      "text": "te",
+      "confidence": 0.868
+    },
+    {
+      "start": 301.12,
+      "end": 301.5,
+      "text": "ver,",
+      "confidence": 0.42
+    },
+    {
+      "start": 301.82,
+      "end": 302.52,
+      "text": "foi",
+      "confidence": 0.352
+    },
+    {
+      "start": 302.52,
+      "end": 303.0,
+      "text": "melhor",
+      "confidence": 0.98
+    },
+    {
+      "start": 303.0,
+      "end": 303.2,
+      "text": "que",
+      "confidence": 0.694
+    },
+    {
+      "start": 303.2,
+      "end": 303.36,
+      "text": "eu",
+      "confidence": 0.995
+    },
+    {
+      "start": 303.36,
+      "end": 304.63,
+      "text": "imaginei",
+      "confidence": 0.986
+    },
+    {
+      "start": 304.91,
+      "end": 305.13,
+      "text": "Se",
+      "confidence": 0.991
+    },
+    {
+      "start": 305.13,
+      "end": 305.27,
+      "text": "o",
+      "confidence": 0.994
+    },
+    {
+      "start": 305.27,
+      "end": 305.43,
+      "text": "que",
+      "confidence": 0.997
+    },
+    {
+      "start": 305.43,
+      "end": 305.55,
+      "text": "eu",
+      "confidence": 1.0
+    },
+    {
+      "start": 305.55,
+      "end": 305.91,
+      "text": "desço",
+      "confidence": 0.999
+    },
+    {
+      "start": 305.91,
+      "end": 306.01,
+      "text": "em",
+      "confidence": 1.0
+    },
+    {
+      "start": 306.01,
+      "end": 306.43,
+      "text": "aprego",
+      "confidence": 0.995
+    },
+    {
+      "start": 306.43,
+      "end": 307.17,
+      "text": "antes,",
+      "confidence": 1.0
+    },
+    {
+      "start": 307.41,
+      "end": 307.75,
+      "text": "no",
+      "confidence": 0.942
+    },
+    {
+      "start": 307.75,
+      "end": 308.35,
+      "text": "confronto",
+      "confidence": 0.998
+    },
+    {
+      "start": 308.35,
+      "end": 308.37,
+      "text": "é",
+      "confidence": 0.998
+    },
+    {
+      "start": 308.37,
+      "end": 308.43,
+      "text": "como",
+      "confidence": 0.996
+    },
+    {
+      "start": 308.43,
+      "end": 308.67,
+      "text": "os",
+      "confidence": 1.0
+    },
+    {
+      "start": 308.67,
+      "end": 309.65,
+      "text": "amantes",
+      "confidence": 1.0
+    },
+    {
+      "start": 312.56,
+      "end": 312.77,
+      "text": "No",
+      "confidence": 0.706
+    },
+    {
+      "start": 312.77,
+      "end": 313.41,
+      "text": "confronto",
+      "confidence": 0.996
+    },
+    {
+      "start": 313.41,
+      "end": 313.51,
+      "text": "é",
+      "confidence": 0.986
+    },
+    {
+      "start": 313.51,
+      "end": 313.71,
+      "text": "como",
+      "confidence": 0.994
+    },
+    {
+      "start": 313.71,
+      "end": 313.91,
+      "text": "os",
+      "confidence": 0.999
+    },
+    {
+      "start": 313.91,
+      "end": 315.03,
+      "text": "amantes",
+      "confidence": 0.999
+    },
+    {
+      "start": 317.97,
+      "end": 318.25,
+      "text": "Pelo",
+      "confidence": 0.524
+    },
+    {
+      "start": 318.25,
+      "end": 318.51,
+      "text": "fim",
+      "confidence": 0.977
+    },
+    {
+      "start": 318.51,
+      "end": 318.85,
+      "text": "da",
+      "confidence": 0.67
+    },
+    {
+      "start": 318.85,
+      "end": 319.07,
+      "text": "vida",
+      "confidence": 0.13
+    },
+    {
+      "start": 319.07,
+      "end": 319.25,
+      "text": "e",
+      "confidence": 0.498
+    },
+    {
+      "start": 319.25,
+      "end": 319.51,
+      "text": "do",
+      "confidence": 0.926
+    },
+    {
+      "start": 319.51,
+      "end": 319.99,
+      "text": "mundo",
+      "confidence": 0.496
+    },
+    {
+      "start": 323.09,
+      "end": 323.85,
+      "text": "Acabou",
+      "confidence": 0.487
+    },
+    {
+      "start": 323.85,
+      "end": 323.87,
+      "text": "o",
+      "confidence": 0.222
+    },
+    {
+      "start": 323.87,
+      "end": 325.43,
+      "text": "abraço,",
+      "confidence": 0.679
+    },
+    {
+      "start": 325.57,
+      "end": 326.61,
+      "text": "mudando",
+      "confidence": 0.808
+    },
+    {
+      "start": 326.61,
+      "end": 326.83,
+      "text": "o",
+      "confidence": 0.981
+    },
+    {
+      "start": 326.83,
+      "end": 327.57,
+      "text": "tempo",
+      "confidence": 0.999
+    },
+    {
+      "start": 328.19,
+      "end": 328.23,
+      "text": "A",
+      "confidence": 0.99
+    },
+    {
+      "start": 328.23,
+      "end": 328.61,
+      "text": "gente",
+      "confidence": 0.999
+    },
+    {
+      "start": 328.61,
+      "end": 328.83,
+      "text": "se",
+      "confidence": 0.975
+    },
+    {
+      "start": 328.83,
+      "end": 329.47,
+      "text": "prendendo",
+      "confidence": 0.988
+    },
+    {
+      "start": 329.47,
+      "end": 329.63,
+      "text": "à",
+      "confidence": 0.821
+    },
+    {
+      "start": 329.63,
+      "end": 330.45,
+      "text": "toa,",
+      "confidence": 0.974
+    },
+    {
+      "start": 330.53,
+      "end": 331.01,
+      "text": "por",
+      "confidence": 0.996
+    },
+    {
+      "start": 331.01,
+      "end": 331.33,
+      "text": "conta",
+      "confidence": 0.887
+    },
+    {
+      "start": 331.33,
+      "end": 331.55,
+      "text": "de",
+      "confidence": 0.999
+    },
+    {
+      "start": 331.55,
+      "end": 331.79,
+      "text": "outra",
+      "confidence": 0.999
+    },
+    {
+      "start": 331.79,
+      "end": 332.43,
+      "text": "pessoa",
+      "confidence": 0.999
+    },
+    {
+      "start": 334.95,
+      "end": 335.39,
+      "text": "Só",
+      "confidence": 0.365
+    },
+    {
+      "start": 335.39,
+      "end": 335.75,
+      "text": "da",
+      "confidence": 0.242
+    },
+    {
+      "start": 335.75,
+      "end": 336.99,
+      "text": "praça,",
+      "confidence": 0.521
+    },
+    {
+      "start": 337.13,
+      "end": 337.71,
+      "text": "por",
+      "confidence": 0.319
+    },
+    {
+      "start": 337.71,
+      "end": 338.17,
+      "text": "isso",
+      "confidence": 0.39
+    },
+    {
+      "start": 338.17,
+      "end": 338.37,
+      "text": "que",
+      "confidence": 0.345
+    },
+    {
+      "start": 338.37,
+      "end": 338.45,
+      "text": "eu",
+      "confidence": 0.6
+    },
+    {
+      "start": 339.2,
+      "end": 339.44,
+      "text": "me",
+      "confidence": 0.382
+    },
+    {
+      "start": 339.44,
+      "end": 339.96,
+      "text": "perdi",
+      "confidence": 0.602
+    },
+    {
+      "start": 339.98,
+      "end": 340.75,
+      "text": "Foi",
+      "confidence": 0.916
+    },
+    {
+      "start": 348.83,
+      "end": 349.27,
+      "text": "melhor",
+      "confidence": 0.994
+    },
+    {
+      "start": 349.27,
+      "end": 349.47,
+      "text": "que",
+      "confidence": 0.589
+    },
+    {
+      "start": 349.47,
+      "end": 349.63,
+      "text": "eu",
+      "confidence": 0.966
+    },
+    {
+      "start": 349.63,
+      "end": 351.01,
+      "text": "imaginei,",
+      "confidence": 0.999
+    },
+    {
+      "start": 351.03,
+      "end": 351.39,
+      "text": "que",
+      "confidence": 0.775
+    },
+    {
+      "start": 351.39,
+      "end": 351.57,
+      "text": "eu",
+      "confidence": 0.953
+    },
+    {
+      "start": 351.57,
+      "end": 352.11,
+      "text": "soubesse",
+      "confidence": 0.896
+    },
+    {
+      "start": 352.11,
+      "end": 352.19,
+      "text": "o",
+      "confidence": 0.48
+    },
+    {
+      "start": 352.19,
+      "end": 352.41,
+      "text": "meu",
+      "confidence": 0.394
+    },
+    {
+      "start": 352.41,
+      "end": 352.73,
+      "text": "peito",
+      "confidence": 0.68
+    },
+    {
+      "start": 352.73,
+      "end": 353.42,
+      "text": "antes",
+      "confidence": 0.926
+    },
+    {
+      "start": 353.42,
+      "end": 354.01,
+      "text": "Eu",
+      "confidence": 0.194
+    },
+    {
+      "start": 354.01,
+      "end": 354.67,
+      "text": "consegui,",
+      "confidence": 0.392
+    },
+    {
+      "start": 354.71,
+      "end": 354.79,
+      "text": "eu",
+      "confidence": 0.112
+    },
+    {
+      "start": 354.79,
+      "end": 355.37,
+      "text": "soube",
+      "confidence": 0.356
+    },
+    {
+      "start": 355.37,
+      "end": 355.89,
+      "text": "antes,",
+      "confidence": 0.597
+    },
+    {
+      "start": 356.21,
+      "end": 356.63,
+      "text": "e",
+      "confidence": 0.48
+    },
+    {
+      "start": 356.63,
+      "end": 356.85,
+      "text": "na",
+      "confidence": 0.901
+    },
+    {
+      "start": 356.85,
+      "end": 357.25,
+      "text": "hora",
+      "confidence": 0.999
+    },
+    {
+      "start": 357.25,
+      "end": 357.39,
+      "text": "que",
+      "confidence": 0.993
+    },
+    {
+      "start": 357.39,
+      "end": 357.51,
+      "text": "eu",
+      "confidence": 0.997
+    },
+    {
+      "start": 357.51,
+      "end": 357.85,
+      "text": "te",
+      "confidence": 0.369
+    },
+    {
+      "start": 357.85,
+      "end": 358.85,
+      "text": "deixei",
+      "confidence": 0.509
+    },
+    {
+      "start": 358.97,
+      "end": 359.33,
+      "text": "Quando",
+      "confidence": 0.068
+    },
+    {
+      "start": 359.33,
+      "end": 359.51,
+      "text": "eu",
+      "confidence": 0.281
+    },
+    {
+      "start": 359.51,
+      "end": 360.89,
+      "text": "imaginei",
+      "confidence": 0.864
+    },
+    {
+      "start": 360.89,
+      "end": 361.89,
+      "text": "Seu",
+      "confidence": 0.538
+    },
+    {
+      "start": 361.89,
+      "end": 362.35,
+      "text": "coraço",
+      "confidence": 0.378
+    },
+    {
+      "start": 362.35,
+      "end": 362.39,
+      "text": "e",
+      "confidence": 0.401
+    },
+    {
+      "start": 362.39,
+      "end": 362.55,
+      "text": "o",
+      "confidence": 0.389
+    },
+    {
+      "start": 362.55,
+      "end": 362.77,
+      "text": "seu",
+      "confidence": 0.72
+    },
+    {
+      "start": 362.77,
+      "end": 363.97,
+      "text": "toalho",
+      "confidence": 0.3
+    },
+    {
+      "start": 364.25,
+      "end": 364.35,
+      "text": "Não",
+      "confidence": 0.165
+    },
+    {
+      "start": 364.35,
+      "end": 364.73,
+      "text": "são",
+      "confidence": 0.227
+    },
+    {
+      "start": 364.73,
+      "end": 365.01,
+      "text": "tão",
+      "confidence": 0.777
+    },
+    {
+      "start": 365.01,
+      "end": 365.43,
+      "text": "bons",
+      "confidence": 0.449
+    },
+    {
+      "start": 365.43,
+      "end": 365.65,
+      "text": "a",
+      "confidence": 0.179
+    },
+    {
+      "start": 365.65,
+      "end": 366.17,
+      "text": "nós",
+      "confidence": 0.808
+    },
+    {
+      "start": 366.47,
+      "end": 367.35,
+      "text": "Meu",
+      "confidence": 0.218
+    },
+    {
+      "start": 367.35,
+      "end": 367.81,
+      "text": "Deus",
+      "confidence": 0.889
+    },
+    {
+      "start": 369.27,
+      "end": 369.43,
+      "text": "Não",
+      "confidence": 0.596
+    },
+    {
+      "start": 369.43,
+      "end": 369.73,
+      "text": "são",
+      "confidence": 0.942
+    },
+    {
+      "start": 369.73,
+      "end": 370.09,
+      "text": "bons",
+      "confidence": 0.724
+    },
+    {
+      "start": 370.09,
+      "end": 370.55,
+      "text": "aos",
+      "confidence": 0.779
+    },
+    {
+      "start": 370.55,
+      "end": 371.47,
+      "text": "amantes",
+      "confidence": 0.826
+    },
+    {
+      "start": 372.19,
+      "end": 372.33,
+      "text": "E",
+      "confidence": 0.237
+    },
+    {
+      "start": 372.33,
+      "end": 372.59,
+      "text": "eu,",
+      "confidence": 0.722
+    },
+    {
+      "start": 372.73,
+      "end": 372.85,
+      "text": "e",
+      "confidence": 0.811
+    },
+    {
+      "start": 372.85,
+      "end": 373.29,
+      "text": "eu,",
+      "confidence": 0.995
+    },
+    {
+      "start": 373.29,
+      "end": 373.61,
+      "text": "e",
+      "confidence": 0.898
+    },
+    {
+      "start": 373.61,
+      "end": 373.83,
+      "text": "eu,",
+      "confidence": 0.995
+    },
+    {
+      "start": 373.85,
+      "end": 374.05,
+      "text": "e",
+      "confidence": 0.846
+    },
+    {
+      "start": 374.05,
+      "end": 374.15,
+      "text": "eu",
+      "confidence": 0.998
+    },
+    {
+      "start": 374.71,
+      "end": 374.75,
+      "text": "É",
+      "confidence": 0.55
+    },
+    {
+      "start": 374.75,
+      "end": 374.89,
+      "text": "o",
+      "confidence": 0.943
+    },
+    {
+      "start": 374.89,
+      "end": 375.21,
+      "text": "fim",
+      "confidence": 0.987
+    },
+    {
+      "start": 375.21,
+      "end": 375.65,
+      "text": "daquele",
+      "confidence": 0.993
+    },
+    {
+      "start": 375.65,
+      "end": 375.95,
+      "text": "medo",
+      "confidence": 0.971
+    },
+    {
+      "start": 375.95,
+      "end": 376.55,
+      "text": "todo",
+      "confidence": 0.245
+    },
+    {
+      "start": 379.5,
+      "end": 379.82,
+      "text": "É",
+      "confidence": 0.961
+    },
+    {
+      "start": 379.82,
+      "end": 379.92,
+      "text": "o",
+      "confidence": 0.998
+    },
+    {
+      "start": 379.92,
+      "end": 380.18,
+      "text": "fim",
+      "confidence": 1.0
+    },
+    {
+      "start": 380.18,
+      "end": 380.72,
+      "text": "daquele",
+      "confidence": 0.999
+    },
+    {
+      "start": 380.72,
+      "end": 381.16,
+      "text": "medo",
+      "confidence": 0.999
+    },
+    {
+      "start": 381.16,
+      "end": 382.08,
+      "text": "todo",
+      "confidence": 0.993
+    },
+    {
+      "start": 383.44,
+      "end": 384.8,
+      "text": "Metropolitano",
+      "confidence": 0.803
+    },
+    {
+      "start": 384.8,
+      "end": 384.88,
+      "text": "é",
+      "confidence": 0.178
+    },
+    {
+      "start": 384.88,
+      "end": 384.96,
+      "text": "o",
+      "confidence": 0.535
+    },
+    {
+      "start": 384.96,
+      "end": 385.56,
+      "text": "Português",
+      "confidence": 0.63
+    },
+    {
+      "start": 385.9,
+      "end": 386.32,
+      "text": "4",
+      "confidence": 0.241
+    },
+    {
+      "start": 386.32,
+      "end": 386.54,
+      "text": "de",
+      "confidence": 0.178
+    },
+    {
+      "start": 386.54,
+      "end": 386.82,
+      "text": "Meus",
+      "confidence": 0.279
+    },
+    {
+      "start": 386.82,
+      "end": 386.98,
+      "text": "Crescentes",
+      "confidence": 0.417
+    },
+    {
+      "start": 386.98,
+      "end": 387.12,
+      "text": "para",
+      "confidence": 0.218
+    },
+    {
+      "start": 387.12,
+      "end": 387.16,
+      "text": "os",
+      "confidence": 0.52
+    },
+    {
+      "start": 387.16,
+      "end": 387.44,
+      "text": "Reis",
+      "confidence": 0.479
+    },
+    {
+      "start": 392.88,
+      "end": 393.98,
+      "text": "metropolitana",
+      "confidence": 0.558
+    },
+    {
+      "start": 393.98,
+      "end": 394.2,
+      "text": "dessa",
+      "confidence": 0.564
+    },
+    {
+      "start": 394.2,
+      "end": 394.64,
+      "text": "segunda",
+      "confidence": 0.974
+    },
+    {
+      "start": 394.64,
+      "end": 394.88,
+      "text": "hora",
+      "confidence": 0.978
+    },
+    {
+      "start": 394.88,
+      "end": 395.04,
+      "text": "aqui",
+      "confidence": 0.628
+    },
+    {
+      "start": 395.04,
+      "end": 395.22,
+      "text": "no",
+      "confidence": 0.287
+    },
+    {
+      "start": 395.22,
+      "end": 395.4,
+      "text": "metro",
+      "confidence": 0.293
+    },
+    {
+      "start": 395.4,
+      "end": 395.78,
+      "text": "tem",
+      "confidence": 0.266
+    },
+    {
+      "start": 395.78,
+      "end": 396.34,
+      "text": "tem",
+      "confidence": 0.242
+    },
+    {
+      "start": 396.34,
+      "end": 396.8,
+      "text": "resultado",
+      "confidence": 0.836
+    },
+    {
+      "start": 396.8,
+      "end": 397.18,
+      "text": "também",
+      "confidence": 0.775
+    },
+    {
+      "start": 397.18,
+      "end": 397.4,
+      "text": "não",
+      "confidence": 0.457
+    },
+    {
+      "start": 397.56,
+      "end": 398.14,
+      "text": "finalzinho",
+      "confidence": 0.766
+    },
+    {
+      "start": 398.14,
+      "end": 398.58,
+      "text": "e",
+      "confidence": 0.331
+    },
+    {
+      "start": 398.58,
+      "end": 398.96,
+      "text": "aqui",
+      "confidence": 0.234
+    },
+    {
+      "start": 398.96,
+      "end": 399.1,
+      "text": "o",
+      "confidence": 0.277
+    },
+    {
+      "start": 399.1,
+      "end": 399.36,
+      "text": "jogador",
+      "confidence": 0.431
+    },
+    {
+      "start": 399.36,
+      "end": 399.54,
+      "text": "aqui",
+      "confidence": 0.681
+    },
+    {
+      "start": 399.54,
+      "end": 399.66,
+      "text": "é",
+      "confidence": 0.444
+    },
+    {
+      "start": 399.66,
+      "end": 399.76,
+      "text": "uma",
+      "confidence": 0.958
+    },
+    {
+      "start": 399.76,
+      "end": 400.08,
+      "text": "essa",
+      "confidence": 0.135
+    },
+    {
+      "start": 400.08,
+      "end": 400.38,
+      "text": "aí",
+      "confidence": 0.437
+    },
+    {
+      "start": 400.38,
+      "end": 400.78,
+      "text": "a",
+      "confidence": 0.261
+    },
+    {
+      "start": 400.78,
+      "end": 401.14,
+      "text": "mão",
+      "confidence": 0.773
+    },
+    {
+      "start": 401.14,
+      "end": 401.52,
+      "text": "dela",
+      "confidence": 0.596
+    },
+    {
+      "start": 402.24,
+      "end": 402.86,
+      "text": "e",
+      "confidence": 0.135
+    },
+    {
+      "start": 402.86,
+      "end": 403.22,
+      "text": "aí",
+      "confidence": 0.289
+    },
+    {
+      "start": 403.22,
+      "end": 405.08,
+      "text": "manda",
+      "confidence": 0.612
+    },
+    {
+      "start": 405.08,
+      "end": 405.14,
+      "text": "a",
+      "confidence": 0.23
+    },
+    {
+      "start": 405.14,
+      "end": 405.26,
+      "text": "mão",
+      "confidence": 0.443
+    },
+    {
+      "start": 405.26,
+      "end": 405.4,
+      "text": "de",
+      "confidence": 0.753
+    },
+    {
+      "start": 405.4,
+      "end": 405.66,
+      "text": "completo",
+      "confidence": 0.809
+    },
+    {
+      "start": 405.66,
+      "end": 406.28,
+      "text": "a",
+      "confidence": 0.103
+    },
+    {
+      "start": 406.28,
+      "end": 406.62,
+      "text": "gente",
+      "confidence": 0.597
+    },
+    {
+      "start": 406.62,
+      "end": 406.88,
+      "text": "é",
+      "confidence": 0.425
+    },
+    {
+      "start": 406.88,
+      "end": 407.32,
+      "text": "9",
+      "confidence": 0.288
+    },
+    {
+      "start": 407.32,
+      "end": 408.06,
+      "text": "11",
+      "confidence": 0.391
+    },
+    {
+      "start": 408.06,
+      "end": 408.54,
+      "text": "11",
+      "confidence": 0.33
+    },
+    {
+      "start": 408.54,
+      "end": 410.16,
+      "text": "9850",
+      "confidence": 0.636
+    },
+    {
+      "start": 410.16,
+      "end": 410.78,
+      "text": "e",
+      "confidence": 0.54
+    },
+    {
+      "start": 410.78,
+      "end": 410.9,
+      "text": "o",
+      "confidence": 0.354
+    },
+    {
+      "start": 410.9,
+      "end": 411.06,
+      "text": "meu",
+      "confidence": 0.136
+    },
+    {
+      "start": 411.06,
+      "end": 411.24,
+      "text": "trabalho",
+      "confidence": 0.225
+    },
+    {
+      "start": 411.24,
+      "end": 411.64,
+      "text": "continua",
+      "confidence": 0.417
+    },
+    {
+      "start": 412.22,
+      "end": 412.48,
+      "text": "E",
+      "confidence": 0.209
+    },
+    {
+      "start": 412.48,
+      "end": 412.94,
+      "text": "português,",
+      "confidence": 0.394
+    },
+    {
+      "start": 413.0,
+      "end": 413.26,
+      "text": "exatamente.",
+      "confidence": 0.292
+    },
+    {
+      "start": 413.78,
+      "end": 414.32,
+      "text": "Na",
+      "confidence": 0.383
+    },
+    {
+      "start": 414.32,
+      "end": 415.34,
+      "text": "metropolitana,",
+      "confidence": 0.95
+    },
+    {
+      "start": 415.38,
+      "end": 415.58,
+      "text": "yeah!",
+      "confidence": 0.806
+    },
+    {
+      "start": 416.08,
+      "end": 416.54,
+      "text": "Duas",
+      "confidence": 0.821
+    },
+    {
+      "start": 416.54,
+      "end": 416.9,
+      "text": "Horas",
+      "confidence": 0.7
+    },
+    {
+      "start": 416.9,
+      "end": 417.02,
+      "text": "de",
+      "confidence": 0.799
+    },
+    {
+      "start": 417.02,
+      "end": 417.48,
+      "text": "Música.",
+      "confidence": 0.877
+    },
+    {
+      "start": 418.3,
+      "end": 418.86,
+      "text": "Metroplay",
+      "confidence": 0.522
+    },
+    {
+      "start": 418.86,
+      "end": 419.74,
+      "text": "Metropolitana.",
+      "confidence": 0.908
+    },
+    {
+      "start": 428.49,
+      "end": 428.63,
+      "text": "Hold",
+      "confidence": 0.173
+    },
+    {
+      "start": 428.63,
+      "end": 428.87,
+      "text": "up",
+      "confidence": 0.994
+    },
+    {
+      "start": 428.87,
+      "end": 428.97,
+      "text": "the",
+      "confidence": 0.597
+    },
+    {
+      "start": 428.97,
+      "end": 429.39,
+      "text": "sky",
+      "confidence": 0.974
+    },
+    {
+      "start": 429.39,
+      "end": 429.77,
+      "text": "like",
+      "confidence": 0.702
+    },
+    {
+      "start": 429.77,
+      "end": 430.25,
+      "text": "that.",
+      "confidence": 0.51
+    },
+    {
+      "start": 430.97,
+      "end": 431.03,
+      "text": "And",
+      "confidence": 0.297
+    },
+    {
+      "start": 431.03,
+      "end": 431.19,
+      "text": "I",
+      "confidence": 0.551
+    },
+    {
+      "start": 431.19,
+      "end": 431.43,
+      "text": "just",
+      "confidence": 0.995
+    },
+    {
+      "start": 431.43,
+      "end": 432.05,
+      "text": "can't",
+      "confidence": 0.994
+    },
+    {
+      "start": 432.05,
+      "end": 432.35,
+      "text": "stop.",
+      "confidence": 0.99
+    },
+    {
+      "start": 434.56,
+      "end": 434.72,
+      "text": "And",
+      "confidence": 0.451
+    },
+    {
+      "start": 434.72,
+      "end": 434.94,
+      "text": "I",
+      "confidence": 0.815
+    },
+    {
+      "start": 434.94,
+      "end": 435.2,
+      "text": "just",
+      "confidence": 0.331
+    },
+    {
+      "start": 435.2,
+      "end": 435.52,
+      "text": "can't",
+      "confidence": 0.986
+    },
+    {
+      "start": 435.52,
+      "end": 435.67,
+      "text": "stop.",
+      "confidence": 0.757
+    },
+    {
+      "start": 435.67,
+      "end": 435.89,
+      "text": "Hold",
+      "confidence": 0.757
+    },
+    {
+      "start": 440.5,
+      "end": 440.56,
+      "text": "it",
+      "confidence": 0.927
+    },
+    {
+      "start": 440.56,
+      "end": 440.9,
+      "text": "up",
+      "confidence": 0.879
+    },
+    {
+      "start": 440.9,
+      "end": 440.94,
+      "text": "as",
+      "confidence": 0.485
+    },
+    {
+      "start": 440.94,
+      "end": 441.24,
+      "text": "far",
+      "confidence": 0.787
+    },
+    {
+      "start": 441.24,
+      "end": 441.64,
+      "text": "as",
+      "confidence": 0.994
+    },
+    {
+      "start": 441.64,
+      "end": 441.88,
+      "text": "I",
+      "confidence": 0.854
+    },
+    {
+      "start": 441.88,
+      "end": 442.0,
+      "text": "can.",
+      "confidence": 0.997
+    },
+    {
+      "start": 444.11,
+      "end": 444.55,
+      "text": "Do",
+      "confidence": 0.277
+    },
+    {
+      "start": 444.55,
+      "end": 444.69,
+      "text": "you",
+      "confidence": 0.293
+    },
+    {
+      "start": 444.69,
+      "end": 444.79,
+      "text": "know",
+      "confidence": 0.432
+    },
+    {
+      "start": 444.79,
+      "end": 445.09,
+      "text": "that",
+      "confidence": 0.227
+    },
+    {
+      "start": 445.09,
+      "end": 445.63,
+      "text": "I'm",
+      "confidence": 0.617
+    },
+    {
+      "start": 445.63,
+      "end": 445.77,
+      "text": "so",
+      "confidence": 0.29
+    },
+    {
+      "start": 445.77,
+      "end": 447.01,
+      "text": "dark",
+      "confidence": 0.208
+    },
+    {
+      "start": 447.01,
+      "end": 447.56,
+      "text": "inside?",
+      "confidence": 0.928
+    },
+    {
+      "start": 447.56,
+      "end": 449.75,
+      "text": "I",
+      "confidence": 0.713
+    },
+    {
+      "start": 458.47,
+      "end": 458.73,
+      "text": "know",
+      "confidence": 0.968
+    },
+    {
+      "start": 458.73,
+      "end": 459.49,
+      "text": "that",
+      "confidence": 0.405
+    },
+    {
+      "start": 460.97,
+      "end": 461.6,
+      "text": "I'm",
+      "confidence": 0.887
+    },
+    {
+      "start": 461.6,
+      "end": 462.02,
+      "text": "lost.",
+      "confidence": 0.184
+    }
+  ]
+}

@@ -1,0 +1,538 @@
+{
+  "source_file": "VOR20260508094746_0805_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:20,00:00:21": "E um beijo à frente.",
+    "00:00:30,00:00:39": "A grande metropolitana está acumulada em dois mil reais. E hoje, ao meio dia, essa grana pode ser sua.",
+    "00:01:09,00:01:09": ".",
+    "00:01:56,00:01:56": "Obrigada.",
+    "00:03:50,00:03:51": "Abertura da tradutora",
+    "00:04:31,00:04:36": "A gente se prendendo a torva, não faz nada de trapezoide.",
+    "00:04:37,00:04:43": "Não dá pra saber que a dor não tem fim.",
+    "00:04:55,00:05:09": "Acompanhe o vídeo e saiba como fazer um bom trabalho.",
+    "00:05:12,00:05:13": "Atenção!",
+    "00:05:23,00:05:40": "Acompanhe o vídeo em seu celular ou no seu smartphone.",
+    "00:06:11,00:06:12": "E aí",
+    "00:06:12,00:06:13": "E aí",
+    "00:06:19,00:06:22": "É o mundo aquele medo do...",
+    "00:06:49,00:06:51": "E o Metroplay continua aqui.",
+    "00:06:52,00:06:53": "E perto de se acertar.",
+    "00:06:53,00:06:55": "E na Metropolitana.",
+    "00:06:55,00:06:57": "Duas horas de música.",
+    "00:06:58,00:06:59": "Metroplay Metropolitana.",
+    "00:07:09,00:07:11": "E aí"
+  },
+  "words": [
+    {
+      "start": 20.26,
+      "end": 20.34,
+      "text": "E"
+    },
+    {
+      "start": 20.34,
+      "end": 20.36,
+      "text": "um"
+    },
+    {
+      "start": 20.36,
+      "end": 20.76,
+      "text": "beijo"
+    },
+    {
+      "start": 20.76,
+      "end": 20.92,
+      "text": "à"
+    },
+    {
+      "start": 20.92,
+      "end": 21.2,
+      "text": "frente."
+    },
+    {
+      "start": 30.94,
+      "end": 31.62,
+      "text": "A"
+    },
+    {
+      "start": 31.62,
+      "end": 31.84,
+      "text": "grande"
+    },
+    {
+      "start": 31.84,
+      "end": 32.92,
+      "text": "metropolitana"
+    },
+    {
+      "start": 32.92,
+      "end": 33.26,
+      "text": "está"
+    },
+    {
+      "start": 33.26,
+      "end": 33.88,
+      "text": "acumulada"
+    },
+    {
+      "start": 33.88,
+      "end": 34.36,
+      "text": "em"
+    },
+    {
+      "start": 34.36,
+      "end": 34.7,
+      "text": "dois"
+    },
+    {
+      "start": 34.7,
+      "end": 35.12,
+      "text": "mil"
+    },
+    {
+      "start": 35.12,
+      "end": 35.5,
+      "text": "reais."
+    },
+    {
+      "start": 35.76,
+      "end": 36.16,
+      "text": "E"
+    },
+    {
+      "start": 36.16,
+      "end": 36.48,
+      "text": "hoje,"
+    },
+    {
+      "start": 36.6,
+      "end": 36.86,
+      "text": "ao"
+    },
+    {
+      "start": 36.86,
+      "end": 37.2,
+      "text": "meio"
+    },
+    {
+      "start": 37.2,
+      "end": 37.48,
+      "text": "dia,"
+    },
+    {
+      "start": 37.72,
+      "end": 38.06,
+      "text": "essa"
+    },
+    {
+      "start": 38.06,
+      "end": 38.56,
+      "text": "grana"
+    },
+    {
+      "start": 38.56,
+      "end": 38.82,
+      "text": "pode"
+    },
+    {
+      "start": 38.82,
+      "end": 39.12,
+      "text": "ser"
+    },
+    {
+      "start": 39.12,
+      "end": 39.56,
+      "text": "sua."
+    },
+    {
+      "start": 69.54,
+      "end": 70.0,
+      "text": "."
+    },
+    {
+      "start": 116.46,
+      "end": 116.64,
+      "text": "Obrigada."
+    },
+    {
+      "start": 230.69,
+      "end": 230.89,
+      "text": "Abertura"
+    },
+    {
+      "start": 230.89,
+      "end": 230.97,
+      "text": "da"
+    },
+    {
+      "start": 230.97,
+      "end": 231.29,
+      "text": "tradutora"
+    },
+    {
+      "start": 271.75,
+      "end": 271.83,
+      "text": "A"
+    },
+    {
+      "start": 271.83,
+      "end": 271.93,
+      "text": "gente"
+    },
+    {
+      "start": 271.93,
+      "end": 272.19,
+      "text": "se"
+    },
+    {
+      "start": 272.19,
+      "end": 272.97,
+      "text": "prendendo"
+    },
+    {
+      "start": 272.97,
+      "end": 273.05,
+      "text": "a"
+    },
+    {
+      "start": 273.05,
+      "end": 273.85,
+      "text": "torva,"
+    },
+    {
+      "start": 273.93,
+      "end": 274.37,
+      "text": "não"
+    },
+    {
+      "start": 274.37,
+      "end": 274.63,
+      "text": "faz"
+    },
+    {
+      "start": 274.63,
+      "end": 274.97,
+      "text": "nada"
+    },
+    {
+      "start": 274.97,
+      "end": 275.15,
+      "text": "de"
+    },
+    {
+      "start": 275.15,
+      "end": 276.25,
+      "text": "trapezoide."
+    },
+    {
+      "start": 277.85,
+      "end": 278.57,
+      "text": "Não"
+    },
+    {
+      "start": 278.57,
+      "end": 279.29,
+      "text": "dá"
+    },
+    {
+      "start": 279.29,
+      "end": 279.87,
+      "text": "pra"
+    },
+    {
+      "start": 279.87,
+      "end": 280.79,
+      "text": "saber"
+    },
+    {
+      "start": 280.79,
+      "end": 281.79,
+      "text": "que"
+    },
+    {
+      "start": 281.79,
+      "end": 281.95,
+      "text": "a"
+    },
+    {
+      "start": 281.95,
+      "end": 282.45,
+      "text": "dor"
+    },
+    {
+      "start": 282.45,
+      "end": 282.81,
+      "text": "não"
+    },
+    {
+      "start": 282.81,
+      "end": 283.15,
+      "text": "tem"
+    },
+    {
+      "start": 283.15,
+      "end": 283.51,
+      "text": "fim."
+    },
+    {
+      "start": 295.14,
+      "end": 297.92,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 297.92,
+      "end": 299.68,
+      "text": "o"
+    },
+    {
+      "start": 299.68,
+      "end": 299.7,
+      "text": "vídeo"
+    },
+    {
+      "start": 299.7,
+      "end": 301.86,
+      "text": "e"
+    },
+    {
+      "start": 301.86,
+      "end": 302.88,
+      "text": "saiba"
+    },
+    {
+      "start": 302.88,
+      "end": 308.56,
+      "text": "como"
+    },
+    {
+      "start": 308.56,
+      "end": 308.68,
+      "text": "fazer"
+    },
+    {
+      "start": 308.68,
+      "end": 308.68,
+      "text": "um"
+    },
+    {
+      "start": 308.68,
+      "end": 308.68,
+      "text": "bom"
+    },
+    {
+      "start": 308.68,
+      "end": 309.2,
+      "text": "trabalho."
+    },
+    {
+      "start": 312.96,
+      "end": 313.5,
+      "text": "Atenção!"
+    },
+    {
+      "start": 323.55,
+      "end": 326.35,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 326.35,
+      "end": 326.79,
+      "text": "o"
+    },
+    {
+      "start": 326.79,
+      "end": 327.17,
+      "text": "vídeo"
+    },
+    {
+      "start": 327.17,
+      "end": 328.11,
+      "text": "em"
+    },
+    {
+      "start": 328.11,
+      "end": 329.53,
+      "text": "seu"
+    },
+    {
+      "start": 329.53,
+      "end": 332.81,
+      "text": "celular"
+    },
+    {
+      "start": 332.81,
+      "end": 334.43,
+      "text": "ou"
+    },
+    {
+      "start": 334.43,
+      "end": 335.85,
+      "text": "no"
+    },
+    {
+      "start": 335.85,
+      "end": 335.91,
+      "text": "seu"
+    },
+    {
+      "start": 335.91,
+      "end": 340.23,
+      "text": "smartphone."
+    },
+    {
+      "start": 371.18,
+      "end": 371.94,
+      "text": "E"
+    },
+    {
+      "start": 371.94,
+      "end": 372.66,
+      "text": "aí"
+    },
+    {
+      "start": 372.66,
+      "end": 372.88,
+      "text": "E"
+    },
+    {
+      "start": 372.88,
+      "end": 373.26,
+      "text": "aí"
+    },
+    {
+      "start": 379.72,
+      "end": 379.84,
+      "text": "É"
+    },
+    {
+      "start": 379.84,
+      "end": 379.94,
+      "text": "o"
+    },
+    {
+      "start": 379.94,
+      "end": 380.26,
+      "text": "mundo"
+    },
+    {
+      "start": 380.26,
+      "end": 380.62,
+      "text": "aquele"
+    },
+    {
+      "start": 380.62,
+      "end": 381.24,
+      "text": "medo"
+    },
+    {
+      "start": 381.24,
+      "end": 382.7,
+      "text": "do..."
+    },
+    {
+      "start": 409.98,
+      "end": 410.62,
+      "text": "E"
+    },
+    {
+      "start": 410.62,
+      "end": 410.9,
+      "text": "o"
+    },
+    {
+      "start": 410.9,
+      "end": 411.4,
+      "text": "Metroplay"
+    },
+    {
+      "start": 411.4,
+      "end": 411.68,
+      "text": "continua"
+    },
+    {
+      "start": 411.68,
+      "end": 411.98,
+      "text": "aqui."
+    },
+    {
+      "start": 412.1,
+      "end": 412.28,
+      "text": "E"
+    },
+    {
+      "start": 412.28,
+      "end": 412.7,
+      "text": "perto"
+    },
+    {
+      "start": 412.7,
+      "end": 412.88,
+      "text": "de"
+    },
+    {
+      "start": 412.88,
+      "end": 413.04,
+      "text": "se"
+    },
+    {
+      "start": 413.04,
+      "end": 413.36,
+      "text": "acertar."
+    },
+    {
+      "start": 413.42,
+      "end": 413.96,
+      "text": "E"
+    },
+    {
+      "start": 413.96,
+      "end": 414.4,
+      "text": "na"
+    },
+    {
+      "start": 414.4,
+      "end": 415.42,
+      "text": "Metropolitana."
+    },
+    {
+      "start": 415.96,
+      "end": 416.6,
+      "text": "Duas"
+    },
+    {
+      "start": 416.6,
+      "end": 416.82,
+      "text": "horas"
+    },
+    {
+      "start": 416.82,
+      "end": 417.06,
+      "text": "de"
+    },
+    {
+      "start": 417.06,
+      "end": 417.44,
+      "text": "música."
+    },
+    {
+      "start": 418.44,
+      "end": 419.08,
+      "text": "Metroplay"
+    },
+    {
+      "start": 419.08,
+      "end": 419.72,
+      "text": "Metropolitana."
+    },
+    {
+      "start": 429.67,
+      "end": 430.93,
+      "text": "E"
+    },
+    {
+      "start": 430.93,
+      "end": 431.93,
+      "text": "aí"
+    }
+  ]
+}
