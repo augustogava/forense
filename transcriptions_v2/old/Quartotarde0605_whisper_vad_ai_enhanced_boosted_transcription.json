@@ -1,0 +1,29 @@
+{
+  "source_file": "Quartotarde0605_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3971.3,
+  "segments": {
+    "01:00:36,01:00:38": "Obrigado por assistir."
+  },
+  "words": [
+    {
+      "start": 3636.1,
+      "end": 3636.6,
+      "text": "Obrigado",
+      "probability": 0.201
+    },
+    {
+      "start": 3636.6,
+      "end": 3637.28,
+      "text": "por",
+      "probability": 0.045
+    },
+    {
+      "start": 3637.28,
+      "end": 3638.74,
+      "text": "assistir.",
+      "probability": 0.938
+    }
+  ]
+}

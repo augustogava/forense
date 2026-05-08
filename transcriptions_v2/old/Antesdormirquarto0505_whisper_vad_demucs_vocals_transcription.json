@@ -1,0 +1,101 @@
+{
+  "source_file": "Antesdormirquarto0505_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1387.5,
+  "segments": {
+    "00:01:15,00:02:35": "Acompanhe-nos no Facebook, no Instagram e no Twitter para receber notificações de novos vídeos."
+  },
+  "words": [
+    {
+      "start": 75.31,
+      "end": 76.03,
+      "text": "Acompanhe",
+      "probability": 0.46
+    },
+    {
+      "start": 76.03,
+      "end": 76.11,
+      "text": "-nos",
+      "probability": 0.501
+    },
+    {
+      "start": 76.11,
+      "end": 76.47,
+      "text": "no",
+      "probability": 0.408
+    },
+    {
+      "start": 76.47,
+      "end": 76.99,
+      "text": "Facebook,",
+      "probability": 0.11
+    },
+    {
+      "start": 76.99,
+      "end": 76.99,
+      "text": "no",
+      "probability": 0.478
+    },
+    {
+      "start": 76.99,
+      "end": 77.09,
+      "text": "Instagram",
+      "probability": 0.548
+    },
+    {
+      "start": 77.09,
+      "end": 77.23,
+      "text": "e",
+      "probability": 0.734
+    },
+    {
+      "start": 77.23,
+      "end": 77.35,
+      "text": "no",
+      "probability": 0.946
+    },
+    {
+      "start": 77.35,
+      "end": 77.63,
+      "text": "Twitter",
+      "probability": 0.556
+    },
+    {
+      "start": 77.63,
+      "end": 78.35,
+      "text": "para",
+      "probability": 0.014
+    },
+    {
+      "start": 80.4,
+      "end": 80.42,
+      "text": "receber",
+      "probability": 0.471
+    },
+    {
+      "start": 80.42,
+      "end": 82.02,
+      "text": "notificações",
+      "probability": 0.838
+    },
+    {
+      "start": 146.12,
+      "end": 146.12,
+      "text": "de",
+      "probability": 0.823
+    },
+    {
+      "start": 150.88,
+      "end": 153.88,
+      "text": "novos",
+      "probability": 0.99
+    },
+    {
+      "start": 153.88,
+      "end": 155.12,
+      "text": "vídeos.",
+      "probability": 0.959
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "source_file": "Quartonat0505_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 5288.6,
+  "segments": {
+    "00:00:10,00:00:11": "Música",
+    "00:24:11,00:24:13": "Música"
+  },
+  "words": [
+    {
+      "start": 10.17,
+      "end": 11.31,
+      "text": "Música",
+      "probability": 0.412
+    },
+    {
+      "start": 1451.5,
+      "end": 1453.2,
+      "text": "Música",
+      "probability": 0.898
+    }
+  ]
+}

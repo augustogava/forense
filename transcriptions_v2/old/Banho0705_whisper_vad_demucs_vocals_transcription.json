@@ -1,0 +1,47 @@
+{
+  "source_file": "Banho0705_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 323.5,
+  "segments": {
+    "00:00:02,00:00:05": "Legendas pela comunidade da Amara.org"
+  },
+  "words": [
+    {
+      "start": 2.77,
+      "end": 3.31,
+      "text": "Legendas",
+      "probability": 0.465
+    },
+    {
+      "start": 3.31,
+      "end": 3.31,
+      "text": "pela",
+      "probability": 0.107
+    },
+    {
+      "start": 3.31,
+      "end": 4.07,
+      "text": "comunidade",
+      "probability": 0.991
+    },
+    {
+      "start": 4.07,
+      "end": 4.13,
+      "text": "da",
+      "probability": 0.977
+    },
+    {
+      "start": 4.13,
+      "end": 5.11,
+      "text": "Amara",
+      "probability": 0.965
+    },
+    {
+      "start": 5.11,
+      "end": 5.31,
+      "text": ".org",
+      "probability": 0.999
+    }
+  ]
+}

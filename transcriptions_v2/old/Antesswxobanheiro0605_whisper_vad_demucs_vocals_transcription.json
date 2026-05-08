@@ -1,0 +1,29 @@
+{
+  "source_file": "Antesswxobanheiro0605_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 637.2,
+  "segments": {
+    "00:00:01,00:00:03": "Obrigado por assistir."
+  },
+  "words": [
+    {
+      "start": 1.74,
+      "end": 2.04,
+      "text": "Obrigado",
+      "probability": 0.43
+    },
+    {
+      "start": 2.04,
+      "end": 2.56,
+      "text": "por",
+      "probability": 0.189
+    },
+    {
+      "start": 2.56,
+      "end": 3.96,
+      "text": "assistir.",
+      "probability": 0.986
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "source_file": "Antesdormirquarto0505_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1387.5,
+  "segments": {
+    "00:01:15,00:01:18": "Eu acho que a gente não está indo ao banheiro.",
+    "00:01:19,00:01:21": "O que vai acontecer se...",
+    "00:01:21,00:01:21": "A gente vai sim.",
+    "00:01:22,00:01:23": "Se não, não.",
+    "00:02:24,00:02:26": "Eu quero que eu fique aqui.",
+    "00:02:28,00:02:29": "Eu quero.",
+    "00:02:32,00:02:34": "Eu quero.",
+    "00:08:57,00:22:16": "Não, não, não, não, não, não, não, não, não, não, não."
+  },
+  "words": [
+    {
+      "start": 75.0,
+      "end": 75.54,
+      "text": "Eu",
+      "probability": 0.085
+    },
+    {
+      "start": 75.54,
+      "end": 75.78,
+      "text": "acho",
+      "probability": 0.204
+    },
+    {
+      "start": 75.78,
+      "end": 75.88,
+      "text": "que",
+      "probability": 0.973
+    },
+    {
+      "start": 75.88,
+      "end": 76.14,
+      "text": "a",
+      "probability": 0.135
+    },
+    {
+      "start": 76.14,
+      "end": 76.2,
+      "text": "gente",
+      "probability": 0.608
+    },
+    {
+      "start": 76.2,
+      "end": 76.84,
+      "text": "não",
+      "probability": 0.189
+    },
+    {
+      "start": 76.84,
+      "end": 77.08,
+      "text": "está",
+      "probability": 0.292
+    },
+    {
+      "start": 77.08,
+      "end": 77.3,
+      "text": "indo",
+      "probability": 0.622
+    },
+    {
+      "start": 77.3,
+      "end": 77.76,
+      "text": "ao",
+      "probability": 0.364
+    },
+    {
+      "start": 77.76,
+      "end": 78.28,
+      "text": "banheiro.",
+      "probability": 0.995
+    },
+    {
+      "start": 79.78,
+      "end": 80.22,
+      "text": "O",
+      "probability": 0.489
+    },
+    {
+      "start": 80.22,
+      "end": 80.38,
+      "text": "que",
+      "probability": 0.906
+    },
+    {
+      "start": 80.38,
+      "end": 80.54,
+      "text": "vai",
+      "probability": 0.965
+    },
+    {
+      "start": 80.54,
+      "end": 80.84,
+      "text": "acontecer",
+      "probability": 0.967
+    },
+    {
+      "start": 80.84,
+      "end": 81.52,
+      "text": "se...",
+      "probability": 0.397
+    },
+    {
+      "start": 81.52,
+      "end": 81.56,
+      "text": "A",
+      "probability": 0.406
+    },
+    {
+      "start": 81.56,
+      "end": 81.56,
+      "text": "gente",
+      "probability": 0.99
+    },
+    {
+      "start": 81.56,
+      "end": 81.72,
+      "text": "vai",
+      "probability": 0.655
+    },
+    {
+      "start": 81.72,
+      "end": 81.98,
+      "text": "sim.",
+      "probability": 0.282
+    },
+    {
+      "start": 82.4,
+      "end": 83.02,
+      "text": "Se",
+      "probability": 0.264
+    },
+    {
+      "start": 83.08,
+      "end": 83.34,
+      "text": "não,",
+      "probability": 0.993
+    },
+    {
+      "start": 83.34,
+      "end": 83.46,
+      "text": "não.",
+      "probability": 0.576
+    },
+    {
+      "start": 144.59,
+      "end": 145.23,
+      "text": "Eu",
+      "probability": 0.269
+    },
+    {
+      "start": 145.23,
+      "end": 145.31,
+      "text": "quero",
+      "probability": 0.176
+    },
+    {
+      "start": 145.31,
+      "end": 145.57,
+      "text": "que",
+      "probability": 0.223
+    },
+    {
+      "start": 145.57,
+      "end": 145.89,
+      "text": "eu",
+      "probability": 0.384
+    },
+    {
+      "start": 145.89,
+      "end": 146.21,
+      "text": "fique",
+      "probability": 0.165
+    },
+    {
+      "start": 146.21,
+      "end": 146.83,
+      "text": "aqui.",
+      "probability": 0.489
+    },
+    {
+      "start": 148.66,
+      "end": 148.98,
+      "text": "Eu",
+      "probability": 0.521
+    },
+    {
+      "start": 148.98,
+      "end": 149.52,
+      "text": "quero.",
+      "probability": 0.521
+    },
+    {
+      "start": 152.86,
+      "end": 153.42,
+      "text": "Eu",
+      "probability": 0.784
+    },
+    {
+      "start": 153.42,
+      "end": 154.0,
+      "text": "quero.",
+      "probability": 0.856
+    },
+    {
+      "start": 537.02,
+      "end": 537.58,
+      "text": "Não,",
+      "probability": 0.05
+    },
+    {
+      "start": 1314.5,
+      "end": 1314.5,
+      "text": "não,",
+      "probability": 0.723
+    },
+    {
+      "start": 1314.68,
+      "end": 1314.68,
+      "text": "não,",
+      "probability": 0.944
+    },
+    {
+      "start": 1314.72,
+      "end": 1314.94,
+      "text": "não,",
+      "probability": 0.902
+    },
+    {
+      "start": 1314.94,
+      "end": 1315.24,
+      "text": "não,",
+      "probability": 0.938
+    },
+    {
+      "start": 1333.73,
+      "end": 1333.93,
+      "text": "não,",
+      "probability": 0.969
+    },
+    {
+      "start": 1334.01,
+      "end": 1334.29,
+      "text": "não,",
+      "probability": 0.982
+    },
+    {
+      "start": 1334.29,
+      "end": 1334.53,
+      "text": "não,",
+      "probability": 0.988
+    },
+    {
+      "start": 1334.53,
+      "end": 1334.63,
+      "text": "não,",
+      "probability": 0.99
+    },
+    {
+      "start": 1334.63,
+      "end": 1335.41,
+      "text": "não,",
+      "probability": 0.992
+    },
+    {
+      "start": 1335.77,
+      "end": 1336.91,
+      "text": "não.",
+      "probability": 0.992
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "source_file": "Banho0705_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 323.5,
+  "segments": {
+    "00:00:02,00:00:05": "Legenda por Sônia Ruberti"
+  },
+  "words": [
+    {
+      "start": 2.77,
+      "end": 3.27,
+      "text": "Legenda",
+      "probability": 0.508
+    },
+    {
+      "start": 3.27,
+      "end": 3.27,
+      "text": "por",
+      "probability": 0.707
+    },
+    {
+      "start": 3.27,
+      "end": 4.25,
+      "text": "Sônia",
+      "probability": 0.992
+    },
+    {
+      "start": 4.25,
+      "end": 5.15,
+      "text": "Ruberti",
+      "probability": 1.0
+    }
+  ]
+}

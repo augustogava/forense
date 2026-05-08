@@ -397,3 +397,7 @@ python forensic_audio_transcriber.py -i "to_ia_processed/" -m large-v3 --word-ti
 
 python forensic_audio_ai.py -i "to_ia/" -o "to_ia_processed/"
 python forensic_audio_transcriber.py -i "to_transcript/
+
+python forensic_audio_transcriber.py -i to_transcript/ --word-timestamps
+python forensic_audio_transcriber_v2.py -i to_transcript/ -o transcriptions_v2 --word-timestamps
+python forensic_audio_transcriber_v3.py -i to_transcript -o transcriptions_v3 --word-timestamps

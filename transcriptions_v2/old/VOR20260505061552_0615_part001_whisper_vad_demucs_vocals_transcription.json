@@ -1,0 +1,47 @@
+{
+  "source_file": "VOR20260505061552_0615_part001_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 5400.0,
+  "segments": {
+    "01:27:51,01:29:54": "Transcrição e Legendas Pedro Ribeiro Carvalho"
+  },
+  "words": [
+    {
+      "start": 5271.89,
+      "end": 5273.73,
+      "text": "Transcrição",
+      "probability": 0.658
+    },
+    {
+      "start": 5385.79,
+      "end": 5386.01,
+      "text": "e",
+      "probability": 0.988
+    },
+    {
+      "start": 5386.01,
+      "end": 5386.01,
+      "text": "Legendas",
+      "probability": 0.993
+    },
+    {
+      "start": 5386.01,
+      "end": 5387.07,
+      "text": "Pedro",
+      "probability": 0.634
+    },
+    {
+      "start": 5392.86,
+      "end": 5394.32,
+      "text": "Ribeiro",
+      "probability": 0.808
+    },
+    {
+      "start": 5394.32,
+      "end": 5394.76,
+      "text": "Carvalho",
+      "probability": 0.809
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "source_file": "Quartonat0505_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 5288.6,
+  "segments": {
+    "00:24:10,00:24:28": "A justiça da coisa, dos céus, tudo o que for dito."
+  },
+  "words": [
+    {
+      "start": 1450.96,
+      "end": 1450.98,
+      "text": "A",
+      "probability": 0.017
+    },
+    {
+      "start": 1450.98,
+      "end": 1451.16,
+      "text": "justiça",
+      "probability": 0.783
+    },
+    {
+      "start": 1451.16,
+      "end": 1451.32,
+      "text": "da",
+      "probability": 0.874
+    },
+    {
+      "start": 1451.32,
+      "end": 1451.7,
+      "text": "coisa,",
+      "probability": 0.888
+    },
+    {
+      "start": 1451.96,
+      "end": 1452.58,
+      "text": "dos",
+      "probability": 0.141
+    },
+    {
+      "start": 1467.43,
+      "end": 1467.95,
+      "text": "céus,",
+      "probability": 0.88
+    },
+    {
+      "start": 1467.95,
+      "end": 1468.21,
+      "text": "tudo",
+      "probability": 0.384
+    },
+    {
+      "start": 1468.21,
+      "end": 1468.31,
+      "text": "o",
+      "probability": 0.273
+    },
+    {
+      "start": 1468.31,
+      "end": 1468.41,
+      "text": "que",
+      "probability": 0.635
+    },
+    {
+      "start": 1468.41,
+      "end": 1468.51,
+      "text": "for",
+      "probability": 0.009
+    },
+    {
+      "start": 1468.51,
+      "end": 1468.95,
+      "text": "dito.",
+      "probability": 0.454
+    }
+  ]
+}

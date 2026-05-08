@@ -1,0 +1,145 @@
+{
+  "source_file": "VOR20260505061552_0615_part001_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:08:35,00:08:37": "Apenas o que for dito, não é o que é.",
+    "00:08:37,00:12:20": "Apenas o que for dito, não é o que é.",
+    "01:29:59,01:30:00": "E aí"
+  },
+  "hallucinations_filtered": 1,
+  "words": [
+    {
+      "start": 515.28,
+      "end": 515.7,
+      "text": "Apenas",
+      "confidence": 0.419
+    },
+    {
+      "start": 515.7,
+      "end": 515.72,
+      "text": "o",
+      "confidence": 0.716
+    },
+    {
+      "start": 515.72,
+      "end": 515.84,
+      "text": "que",
+      "confidence": 0.983
+    },
+    {
+      "start": 515.84,
+      "end": 515.86,
+      "text": "for",
+      "confidence": 0.491
+    },
+    {
+      "start": 515.86,
+      "end": 515.88,
+      "text": "dito,",
+      "confidence": 0.979
+    },
+    {
+      "start": 515.88,
+      "end": 515.9,
+      "text": "não",
+      "confidence": 0.862
+    },
+    {
+      "start": 515.9,
+      "end": 515.98,
+      "text": "é",
+      "confidence": 0.971
+    },
+    {
+      "start": 515.98,
+      "end": 516.56,
+      "text": "o",
+      "confidence": 0.951
+    },
+    {
+      "start": 516.56,
+      "end": 516.8,
+      "text": "que",
+      "confidence": 0.994
+    },
+    {
+      "start": 516.8,
+      "end": 517.11,
+      "text": "é.",
+      "confidence": 0.945
+    },
+    {
+      "start": 517.11,
+      "end": 518.83,
+      "text": "Apenas",
+      "confidence": 0.721
+    },
+    {
+      "start": 740.09,
+      "end": 740.11,
+      "text": "o",
+      "confidence": 0.911
+    },
+    {
+      "start": 740.11,
+      "end": 740.13,
+      "text": "que",
+      "confidence": 0.994
+    },
+    {
+      "start": 740.13,
+      "end": 740.15,
+      "text": "for",
+      "confidence": 0.899
+    },
+    {
+      "start": 740.15,
+      "end": 740.49,
+      "text": "dito,",
+      "confidence": 0.996
+    },
+    {
+      "start": 740.49,
+      "end": 740.51,
+      "text": "não",
+      "confidence": 0.989
+    },
+    {
+      "start": 740.51,
+      "end": 740.53,
+      "text": "é",
+      "confidence": 0.998
+    },
+    {
+      "start": 740.53,
+      "end": 740.55,
+      "text": "o",
+      "confidence": 0.989
+    },
+    {
+      "start": 740.55,
+      "end": 740.57,
+      "text": "que",
+      "confidence": 0.997
+    },
+    {
+      "start": 740.57,
+      "end": 740.59,
+      "text": "é.",
+      "confidence": 0.987
+    },
+    {
+      "start": 5399.96,
+      "end": 5399.98,
+      "text": "E",
+      "confidence": 0.157
+    },
+    {
+      "start": 5399.98,
+      "end": 5400.0,
+      "text": "aí",
+      "confidence": 0.953
+    }
+  ]
+}

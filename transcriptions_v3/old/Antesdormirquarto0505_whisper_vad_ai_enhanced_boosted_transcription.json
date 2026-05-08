@@ -1,0 +1,765 @@
+{
+  "source_file": "Antesdormirquarto0505_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:02:25,00:02:27": "Acompanhe o processo de transcrição em português brasileiro.",
+    "00:03:07,00:07:27": "Não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não",
+    "00:07:29,00:07:30": "A gente...",
+    "00:07:31,00:07:33": "A gente...",
+    "00:12:00,00:12:01": "o"
+  },
+  "hallucinations_filtered": 4,
+  "words": [
+    {
+      "start": 145.21,
+      "end": 146.11,
+      "text": "Acompanhe",
+      "confidence": 0.209
+    },
+    {
+      "start": 146.11,
+      "end": 146.37,
+      "text": "o",
+      "confidence": 0.241
+    },
+    {
+      "start": 146.37,
+      "end": 146.39,
+      "text": "processo",
+      "confidence": 0.08
+    },
+    {
+      "start": 146.39,
+      "end": 146.41,
+      "text": "de",
+      "confidence": 0.311
+    },
+    {
+      "start": 146.41,
+      "end": 146.57,
+      "text": "transcrição",
+      "confidence": 0.359
+    },
+    {
+      "start": 146.57,
+      "end": 146.95,
+      "text": "em",
+      "confidence": 0.281
+    },
+    {
+      "start": 146.95,
+      "end": 147.17,
+      "text": "português",
+      "confidence": 0.793
+    },
+    {
+      "start": 147.17,
+      "end": 147.83,
+      "text": "brasileiro.",
+      "confidence": 0.574
+    },
+    {
+      "start": 187.45,
+      "end": 190.71,
+      "text": "Não,",
+      "confidence": 0.107
+    },
+    {
+      "start": 191.87,
+      "end": 192.25,
+      "text": "não,",
+      "confidence": 0.423
+    },
+    {
+      "start": 192.39,
+      "end": 192.59,
+      "text": "não,",
+      "confidence": 0.817
+    },
+    {
+      "start": 192.59,
+      "end": 192.83,
+      "text": "não,",
+      "confidence": 0.806
+    },
+    {
+      "start": 192.99,
+      "end": 193.13,
+      "text": "não,",
+      "confidence": 0.936
+    },
+    {
+      "start": 193.27,
+      "end": 193.35,
+      "text": "não,",
+      "confidence": 0.979
+    },
+    {
+      "start": 193.41,
+      "end": 193.43,
+      "text": "não,",
+      "confidence": 0.991
+    },
+    {
+      "start": 193.57,
+      "end": 193.59,
+      "text": "não,",
+      "confidence": 0.995
+    },
+    {
+      "start": 193.77,
+      "end": 193.85,
+      "text": "não,",
+      "confidence": 0.995
+    },
+    {
+      "start": 193.85,
+      "end": 194.51,
+      "text": "não,",
+      "confidence": 0.995
+    },
+    {
+      "start": 209.27,
+      "end": 209.29,
+      "text": "não,",
+      "confidence": 0.994
+    },
+    {
+      "start": 209.39,
+      "end": 209.41,
+      "text": "não,",
+      "confidence": 0.993
+    },
+    {
+      "start": 209.41,
+      "end": 209.73,
+      "text": "não,",
+      "confidence": 0.992
+    },
+    {
+      "start": 288.52,
+      "end": 288.54,
+      "text": "não,",
+      "confidence": 0.989
+    },
+    {
+      "start": 288.82,
+      "end": 288.98,
+      "text": "não,",
+      "confidence": 0.966
+    },
+    {
+      "start": 289.34,
+      "end": 289.36,
+      "text": "não,",
+      "confidence": 0.779
+    },
+    {
+      "start": 289.56,
+      "end": 289.7,
+      "text": "não,",
+      "confidence": 0.571
+    },
+    {
+      "start": 290.22,
+      "end": 291.18,
+      "text": "não,",
+      "confidence": 0.733
+    },
+    {
+      "start": 291.18,
+      "end": 291.2,
+      "text": "não,",
+      "confidence": 0.902
+    },
+    {
+      "start": 291.2,
+      "end": 291.22,
+      "text": "não,",
+      "confidence": 0.96
+    },
+    {
+      "start": 291.22,
+      "end": 291.24,
+      "text": "não,",
+      "confidence": 0.979
+    },
+    {
+      "start": 291.24,
+      "end": 291.26,
+      "text": "não,",
+      "confidence": 0.985
+    },
+    {
+      "start": 291.26,
+      "end": 291.28,
+      "text": "não,",
+      "confidence": 0.989
+    },
+    {
+      "start": 291.28,
+      "end": 291.3,
+      "text": "não,",
+      "confidence": 0.991
+    },
+    {
+      "start": 291.3,
+      "end": 291.32,
+      "text": "não,",
+      "confidence": 0.991
+    },
+    {
+      "start": 291.32,
+      "end": 291.34,
+      "text": "não,",
+      "confidence": 0.992
+    },
+    {
+      "start": 291.34,
+      "end": 291.36,
+      "text": "não,",
+      "confidence": 0.992
+    },
+    {
+      "start": 291.36,
+      "end": 291.38,
+      "text": "não,",
+      "confidence": 0.993
+    },
+    {
+      "start": 291.38,
+      "end": 291.4,
+      "text": "não,",
+      "confidence": 0.993
+    },
+    {
+      "start": 291.4,
+      "end": 291.42,
+      "text": "não,",
+      "confidence": 0.993
+    },
+    {
+      "start": 291.42,
+      "end": 291.44,
+      "text": "não,",
+      "confidence": 0.993
+    },
+    {
+      "start": 291.44,
+      "end": 291.46,
+      "text": "não,",
+      "confidence": 0.992
+    },
+    {
+      "start": 291.46,
+      "end": 291.48,
+      "text": "não,",
+      "confidence": 0.992
+    },
+    {
+      "start": 291.48,
+      "end": 291.5,
+      "text": "não,",
+      "confidence": 0.992
+    },
+    {
+      "start": 292.91,
+      "end": 292.92,
+      "text": "não,",
+      "confidence": 0.992
+    },
+    {
+      "start": 292.92,
+      "end": 292.94,
+      "text": "não,",
+      "confidence": 0.991
+    },
+    {
+      "start": 292.94,
+      "end": 292.96,
+      "text": "não,",
+      "confidence": 0.991
+    },
+    {
+      "start": 292.96,
+      "end": 292.98,
+      "text": "não,",
+      "confidence": 0.991
+    },
+    {
+      "start": 292.98,
+      "end": 293.0,
+      "text": "não,",
+      "confidence": 0.99
+    },
+    {
+      "start": 293.0,
+      "end": 293.02,
+      "text": "não,",
+      "confidence": 0.99
+    },
+    {
+      "start": 293.02,
+      "end": 293.04,
+      "text": "não,",
+      "confidence": 0.99
+    },
+    {
+      "start": 293.04,
+      "end": 293.06,
+      "text": "não,",
+      "confidence": 0.99
+    },
+    {
+      "start": 293.06,
+      "end": 293.08,
+      "text": "não,",
+      "confidence": 0.989
+    },
+    {
+      "start": 293.08,
+      "end": 293.1,
+      "text": "não,",
+      "confidence": 0.989
+    },
+    {
+      "start": 293.1,
+      "end": 293.12,
+      "text": "não,",
+      "confidence": 0.989
+    },
+    {
+      "start": 293.12,
+      "end": 293.14,
+      "text": "não,",
+      "confidence": 0.988
+    },
+    {
+      "start": 293.5,
+      "end": 293.66,
+      "text": "não,",
+      "confidence": 0.988
+    },
+    {
+      "start": 293.66,
+      "end": 293.68,
+      "text": "não,",
+      "confidence": 0.988
+    },
+    {
+      "start": 293.68,
+      "end": 293.7,
+      "text": "não,",
+      "confidence": 0.987
+    },
+    {
+      "start": 293.7,
+      "end": 293.72,
+      "text": "não,",
+      "confidence": 0.987
+    },
+    {
+      "start": 293.94,
+      "end": 294.16,
+      "text": "não,",
+      "confidence": 0.987
+    },
+    {
+      "start": 294.48,
+      "end": 294.55,
+      "text": "não,",
+      "confidence": 0.987
+    },
+    {
+      "start": 295.19,
+      "end": 295.29,
+      "text": "não,",
+      "confidence": 0.986
+    },
+    {
+      "start": 295.37,
+      "end": 296.11,
+      "text": "não,",
+      "confidence": 0.986
+    },
+    {
+      "start": 296.65,
+      "end": 296.79,
+      "text": "não,",
+      "confidence": 0.985
+    },
+    {
+      "start": 296.79,
+      "end": 296.81,
+      "text": "não,",
+      "confidence": 0.985
+    },
+    {
+      "start": 296.81,
+      "end": 296.83,
+      "text": "não,",
+      "confidence": 0.985
+    },
+    {
+      "start": 296.83,
+      "end": 296.85,
+      "text": "não,",
+      "confidence": 0.984
+    },
+    {
+      "start": 299.34,
+      "end": 299.36,
+      "text": "não,",
+      "confidence": 0.984
+    },
+    {
+      "start": 299.36,
+      "end": 299.38,
+      "text": "não,",
+      "confidence": 0.983
+    },
+    {
+      "start": 299.38,
+      "end": 299.4,
+      "text": "não,",
+      "confidence": 0.983
+    },
+    {
+      "start": 299.4,
+      "end": 299.42,
+      "text": "não,",
+      "confidence": 0.982
+    },
+    {
+      "start": 300.14,
+      "end": 300.16,
+      "text": "não,",
+      "confidence": 0.981
+    },
+    {
+      "start": 300.18,
+      "end": 300.2,
+      "text": "não,",
+      "confidence": 0.981
+    },
+    {
+      "start": 300.2,
+      "end": 300.22,
+      "text": "não,",
+      "confidence": 0.981
+    },
+    {
+      "start": 300.22,
+      "end": 300.24,
+      "text": "não,",
+      "confidence": 0.98
+    },
+    {
+      "start": 300.24,
+      "end": 300.26,
+      "text": "não,",
+      "confidence": 0.98
+    },
+    {
+      "start": 300.26,
+      "end": 300.28,
+      "text": "não,",
+      "confidence": 0.979
+    },
+    {
+      "start": 300.32,
+      "end": 300.56,
+      "text": "não,",
+      "confidence": 0.978
+    },
+    {
+      "start": 300.7,
+      "end": 300.98,
+      "text": "não,",
+      "confidence": 0.978
+    },
+    {
+      "start": 300.98,
+      "end": 301.0,
+      "text": "não,",
+      "confidence": 0.977
+    },
+    {
+      "start": 301.0,
+      "end": 301.02,
+      "text": "não,",
+      "confidence": 0.976
+    },
+    {
+      "start": 301.2,
+      "end": 301.22,
+      "text": "não,",
+      "confidence": 0.976
+    },
+    {
+      "start": 301.26,
+      "end": 301.38,
+      "text": "não,",
+      "confidence": 0.975
+    },
+    {
+      "start": 301.38,
+      "end": 301.4,
+      "text": "não,",
+      "confidence": 0.974
+    },
+    {
+      "start": 301.4,
+      "end": 301.42,
+      "text": "não,",
+      "confidence": 0.974
+    },
+    {
+      "start": 301.42,
+      "end": 301.44,
+      "text": "não,",
+      "confidence": 0.973
+    },
+    {
+      "start": 301.44,
+      "end": 301.46,
+      "text": "não,",
+      "confidence": 0.973
+    },
+    {
+      "start": 301.46,
+      "end": 301.48,
+      "text": "não,",
+      "confidence": 0.972
+    },
+    {
+      "start": 301.48,
+      "end": 301.5,
+      "text": "não,",
+      "confidence": 0.971
+    },
+    {
+      "start": 301.5,
+      "end": 301.52,
+      "text": "não,",
+      "confidence": 0.971
+    },
+    {
+      "start": 301.52,
+      "end": 301.54,
+      "text": "não,",
+      "confidence": 0.97
+    },
+    {
+      "start": 301.54,
+      "end": 301.56,
+      "text": "não,",
+      "confidence": 0.969
+    },
+    {
+      "start": 301.56,
+      "end": 301.58,
+      "text": "não,",
+      "confidence": 0.968
+    },
+    {
+      "start": 301.58,
+      "end": 301.6,
+      "text": "não,",
+      "confidence": 0.967
+    },
+    {
+      "start": 301.6,
+      "end": 301.66,
+      "text": "não,",
+      "confidence": 0.967
+    },
+    {
+      "start": 301.66,
+      "end": 301.68,
+      "text": "não,",
+      "confidence": 0.966
+    },
+    {
+      "start": 301.68,
+      "end": 301.7,
+      "text": "não,",
+      "confidence": 0.965
+    },
+    {
+      "start": 301.7,
+      "end": 301.72,
+      "text": "não,",
+      "confidence": 0.965
+    },
+    {
+      "start": 301.72,
+      "end": 301.74,
+      "text": "não,",
+      "confidence": 0.964
+    },
+    {
+      "start": 301.74,
+      "end": 301.76,
+      "text": "não,",
+      "confidence": 0.963
+    },
+    {
+      "start": 301.76,
+      "end": 301.78,
+      "text": "não,",
+      "confidence": 0.962
+    },
+    {
+      "start": 301.78,
+      "end": 301.8,
+      "text": "não,",
+      "confidence": 0.961
+    },
+    {
+      "start": 301.8,
+      "end": 301.82,
+      "text": "não,",
+      "confidence": 0.96
+    },
+    {
+      "start": 301.82,
+      "end": 301.84,
+      "text": "não,",
+      "confidence": 0.96
+    },
+    {
+      "start": 301.84,
+      "end": 301.86,
+      "text": "não,",
+      "confidence": 0.958
+    },
+    {
+      "start": 301.86,
+      "end": 301.88,
+      "text": "não,",
+      "confidence": 0.957
+    },
+    {
+      "start": 301.88,
+      "end": 302.04,
+      "text": "não,",
+      "confidence": 0.956
+    },
+    {
+      "start": 302.04,
+      "end": 302.06,
+      "text": "não,",
+      "confidence": 0.955
+    },
+    {
+      "start": 302.06,
+      "end": 302.12,
+      "text": "não,",
+      "confidence": 0.953
+    },
+    {
+      "start": 302.12,
+      "end": 302.14,
+      "text": "não,",
+      "confidence": 0.952
+    },
+    {
+      "start": 302.14,
+      "end": 302.2,
+      "text": "não,",
+      "confidence": 0.952
+    },
+    {
+      "start": 302.5,
+      "end": 302.74,
+      "text": "não,",
+      "confidence": 0.951
+    },
+    {
+      "start": 302.82,
+      "end": 303.14,
+      "text": "não,",
+      "confidence": 0.95
+    },
+    {
+      "start": 303.28,
+      "end": 303.52,
+      "text": "não,",
+      "confidence": 0.949
+    },
+    {
+      "start": 303.68,
+      "end": 304.4,
+      "text": "não,",
+      "confidence": 0.949
+    },
+    {
+      "start": 305.64,
+      "end": 305.86,
+      "text": "não,",
+      "confidence": 0.947
+    },
+    {
+      "start": 306.26,
+      "end": 306.8,
+      "text": "não,",
+      "confidence": 0.947
+    },
+    {
+      "start": 307.12,
+      "end": 307.34,
+      "text": "não,",
+      "confidence": 0.945
+    },
+    {
+      "start": 324.46,
+      "end": 325.34,
+      "text": "não,",
+      "confidence": 0.945
+    },
+    {
+      "start": 330.16,
+      "end": 330.82,
+      "text": "não,",
+      "confidence": 0.944
+    },
+    {
+      "start": 447.48,
+      "end": 447.5,
+      "text": "não",
+      "confidence": 0.945
+    },
+    {
+      "start": 449.66,
+      "end": 450.02,
+      "text": "A",
+      "confidence": 0.563
+    },
+    {
+      "start": 450.02,
+      "end": 450.2,
+      "text": "gente...",
+      "confidence": 0.996
+    },
+    {
+      "start": 451.0,
+      "end": 452.53,
+      "text": "A",
+      "confidence": 0.86
+    },
+    {
+      "start": 452.89,
+      "end": 453.67,
+      "text": "gente...",
+      "confidence": 0.997
+    },
+    {
+      "start": 720.22,
+      "end": 721.32,
+      "text": "o",
+      "confidence": 0.309
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "source_file": "Quartotarde0605_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3971.3,
+  "segments": {
+    "01:00:10,01:00:38": "Acompanhe o curso em www.mesmerism.info"
+  },
+  "words": [
+    {
+      "start": 3610.96,
+      "end": 3612.84,
+      "text": "Acompanhe",
+      "probability": 0.432
+    },
+    {
+      "start": 3614.25,
+      "end": 3616.65,
+      "text": "o",
+      "probability": 0.332
+    },
+    {
+      "start": 3616.65,
+      "end": 3616.83,
+      "text": "curso",
+      "probability": 0.061
+    },
+    {
+      "start": 3635.68,
+      "end": 3636.86,
+      "text": "em",
+      "probability": 0.363
+    },
+    {
+      "start": 3636.86,
+      "end": 3637.06,
+      "text": "www",
+      "probability": 0.755
+    },
+    {
+      "start": 3637.06,
+      "end": 3638.76,
+      "text": ".mesmerism",
+      "probability": 0.788
+    },
+    {
+      "start": 3638.76,
+      "end": 3638.9,
+      "text": ".info",
+      "probability": 0.998
+    }
+  ]
+}

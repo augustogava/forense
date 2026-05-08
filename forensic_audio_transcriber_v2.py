@@ -14,6 +14,7 @@ import json
 import logging
 import os
 import random
+import re
 import subprocess
 import sys
 import time
@@ -103,6 +104,26 @@ _EXPLICIT_KEYWORDS = {
 }
 
 
+_YOUTUBE_PATTERNS = [
+    re.compile(r"legenda(s|do|gem)?\s+(por|e)\s+", re.IGNORECASE),
+    re.compile(r"transcri(ção|cão)\s+e\s+legenda", re.IGNORECASE),
+    re.compile(r"obrigad[ao]\s+por\s+assistir", re.IGNORECASE),
+    re.compile(r"inscreva-se\s+no\s+canal", re.IGNORECASE),
+    re.compile(r"ative\s+o\s+sininho", re.IGNORECASE),
+    re.compile(r"acesse\s+o\s+(nosso\s+)?site", re.IGNORECASE),
+    re.compile(r"www\.\w+\.\w+", re.IGNORECASE),
+]
+
+_PROMPT_FRAGMENTS = [
+    "transcrição de conversa em português",
+    "conteúdo explícito",
+    "transcrever fielmente",
+    "incluindo palavrões",
+    "acompanhe o processo de transcrição",
+    "acompanhe a conversa em português",
+]
+
+
 def _is_hallucination(seg) -> bool:
     text = seg.text.strip() if hasattr(seg, "text") else ""
     if not text:
@@ -117,10 +138,24 @@ def _is_hallucination(seg) -> bool:
     if compression > 2.4 and logprob < -1.0:
         return True
 
-    words = [w for w in text.lower().replace(",", " ").replace(".", " ").split() if w]
+    text_lower = text.lower()
+    for frag in _PROMPT_FRAGMENTS:
+        if frag in text_lower:
+            return True
+    for pat in _YOUTUBE_PATTERNS:
+        if pat.search(text):
+            return True
+
+    words = [w for w in text_lower.replace(",", " ").replace(".", " ").split() if w]
     unique = set(words)
     if len(words) >= 3 and len(unique) <= 2 and unique.issubset(_EXPLICIT_KEYWORDS):
         return True
+    if len(words) >= 5:
+        from collections import Counter
+        counts = Counter(words)
+        most_common_count = counts.most_common(1)[0][1]
+        if most_common_count / len(words) > 0.6:
+            return True
 
     return False
 

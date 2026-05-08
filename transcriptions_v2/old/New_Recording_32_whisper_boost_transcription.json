@@ -1,0 +1,47 @@
+{
+  "source_file": "New_Recording_32_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1936.0,
+  "segments": {
+    "00:27:16,00:29:56": "Transcrição e Legendas Pedro Ribeiro Carvalho"
+  },
+  "words": [
+    {
+      "start": 1636.37,
+      "end": 1638.25,
+      "text": "Transcrição",
+      "probability": 0.665
+    },
+    {
+      "start": 1781.7,
+      "end": 1781.7,
+      "text": "e",
+      "probability": 0.994
+    },
+    {
+      "start": 1781.7,
+      "end": 1783.3,
+      "text": "Legendas",
+      "probability": 0.997
+    },
+    {
+      "start": 1789.86,
+      "end": 1790.28,
+      "text": "Pedro",
+      "probability": 0.572
+    },
+    {
+      "start": 1790.28,
+      "end": 1792.14,
+      "text": "Ribeiro",
+      "probability": 0.817
+    },
+    {
+      "start": 1795.57,
+      "end": 1796.35,
+      "text": "Carvalho",
+      "probability": 0.844
+    }
+  ]
+}

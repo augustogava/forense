@@ -1,0 +1,47 @@
+{
+  "source_file": "VOR20260505021551_0215_part003_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.0,
+  "segments": {
+    "00:00:00,00:00:01": "Transcrição e Legendas Pedro Ribeiro Carta"
+  },
+  "words": [
+    {
+      "start": 0.86,
+      "end": 1.16,
+      "text": "Transcrição",
+      "probability": 0.65
+    },
+    {
+      "start": 1.16,
+      "end": 1.16,
+      "text": "e",
+      "probability": 0.999
+    },
+    {
+      "start": 1.16,
+      "end": 1.28,
+      "text": "Legendas",
+      "probability": 0.998
+    },
+    {
+      "start": 1.28,
+      "end": 1.28,
+      "text": "Pedro",
+      "probability": 0.603
+    },
+    {
+      "start": 1.28,
+      "end": 1.44,
+      "text": "Ribeiro",
+      "probability": 0.682
+    },
+    {
+      "start": 1.44,
+      "end": 1.58,
+      "text": "Carta",
+      "probability": 0.771
+    }
+  ]
+}

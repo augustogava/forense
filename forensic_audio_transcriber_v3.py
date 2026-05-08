@@ -14,6 +14,7 @@ import json
 import logging
 import os
 import random
+import re
 import subprocess
 import sys
 import time
@@ -54,6 +55,36 @@ def _fmt_time(seconds: float) -> str:
     m = int((seconds % 3600) // 60)
     s = int(seconds % 60)
     return f"{h:02d}:{m:02d}:{s:02d}"
+
+
+def _load_audio(input_path: Path) -> np.ndarray:
+    import tempfile
+    import wave as _wave
+
+    if not _ffmpeg_path:
+        logger.error("ffmpeg not found, cannot convert audio")
+        sys.exit(1)
+
+    tmp_wav = Path(tempfile.gettempdir()) / f"whisper_{input_path.stem}.wav"
+    cmd = [
+        _ffmpeg_path, "-y",
+        "-i", str(input_path),
+        "-ar", "16000",
+        "-ac", "1",
+        "-c:a", "pcm_s16le",
+        str(tmp_wav),
+    ]
+    logger.debug(f"Converting to WAV 16kHz mono: {input_path.name}")
+    result = subprocess.run(cmd, capture_output=True, text=True)
+    if result.returncode != 0:
+        raise RuntimeError(f"ffmpeg failed: {result.stderr.strip()}")
+
+    try:
+        with _wave.open(str(tmp_wav), "rb") as wf:
+            audio_np = np.frombuffer(wf.readframes(wf.getnframes()), np.int16).astype(np.float32) / 32768.0
+    finally:
+        tmp_wav.unlink(missing_ok=True)
+    return audio_np
 
 
 def collect_audio_files(input_path: Path) -> List[Path]:
@@ -106,6 +137,26 @@ _EXPLICIT_KEYWORDS = {
 _WORD_CONFIDENCE_THRESHOLD = 0.3
 
 
+_YOUTUBE_PATTERNS = [
+    re.compile(r"legenda(s|do|gem)?\s+(por|e)\s+", re.IGNORECASE),
+    re.compile(r"transcri(ção|cão)\s+e\s+legenda", re.IGNORECASE),
+    re.compile(r"obrigad[ao]\s+por\s+assistir", re.IGNORECASE),
+    re.compile(r"inscreva-se\s+no\s+canal", re.IGNORECASE),
+    re.compile(r"ative\s+o\s+sininho", re.IGNORECASE),
+    re.compile(r"acesse\s+o\s+(nosso\s+)?site", re.IGNORECASE),
+    re.compile(r"www\.\w+\.\w+", re.IGNORECASE),
+]
+
+_PROMPT_FRAGMENTS = [
+    "transcrição de conversa em português",
+    "conteúdo explícito",
+    "transcrever fielmente",
+    "incluindo palavrões",
+    "acompanhe o processo de transcrição",
+    "acompanhe a conversa em português",
+]
+
+
 def _is_hallucination(seg: dict) -> bool:
     text = seg.get("text", "").strip()
     if not text:
@@ -129,10 +180,24 @@ def _is_hallucination(seg: dict) -> bool:
         if len(seg_words) > 0 and low_conf_count / len(seg_words) > 0.7:
             return True
 
-    words = [w for w in text.lower().replace(",", " ").replace(".", " ").split() if w]
+    text_lower = text.lower()
+    for frag in _PROMPT_FRAGMENTS:
+        if frag in text_lower:
+            return True
+    for pat in _YOUTUBE_PATTERNS:
+        if pat.search(text):
+            return True
+
+    words = [w for w in text_lower.replace(",", " ").replace(".", " ").split() if w]
     unique = set(words)
     if len(words) >= 3 and len(unique) <= 2 and unique.issubset(_EXPLICIT_KEYWORDS):
         return True
+    if len(words) >= 5:
+        from collections import Counter
+        counts = Counter(words)
+        most_common_count = counts.most_common(1)[0][1]
+        if most_common_count / len(words) > 0.6:
+            return True
 
     return False
 
@@ -156,7 +221,7 @@ def transcribe_file(
     json_path = output_dir / f"{audio_path.stem}_transcription.json"
 
     try:
-        audio = whisper.load_audio(str(audio_path))
+        audio = _load_audio(audio_path)
     except Exception as e:
         logger.error(f"Failed to load audio {audio_path.name}: {e}")
         return None

@@ -1,0 +1,424 @@
+{
+  "source_file": "Quartotarde0605_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:59:31,00:59:33": "Aí, se eu vou na menina, ela está pegando o amor.",
+    "00:59:34,00:59:36": "Eu não sei o que eu vou, eu vou na...",
+    "00:59:36,00:59:43": "Na máquina de esformel, aí eu vou no chão, eu vou no livro dela,",
+    "00:59:43,00:59:45": "eu chego lá e eu vou ver o que ela está fazendo.",
+    "00:59:49,00:59:53": "Aí, ela foi e viu o que eu estou fazendo.",
+    "00:59:54,00:59:57": "Aí, se eu vou no livro, ele dura até o áudio,"
+  },
+  "hallucinations_filtered": 2,
+  "words": [
+    {
+      "start": 3571.68,
+      "end": 3571.7,
+      "text": "Aí,",
+      "confidence": 0.518
+    },
+    {
+      "start": 3571.8,
+      "end": 3571.92,
+      "text": "se",
+      "confidence": 0.274
+    },
+    {
+      "start": 3571.92,
+      "end": 3572.02,
+      "text": "eu",
+      "confidence": 0.33
+    },
+    {
+      "start": 3572.02,
+      "end": 3572.14,
+      "text": "vou",
+      "confidence": 0.842
+    },
+    {
+      "start": 3572.14,
+      "end": 3572.26,
+      "text": "na",
+      "confidence": 0.843
+    },
+    {
+      "start": 3572.26,
+      "end": 3572.58,
+      "text": "menina,",
+      "confidence": 0.965
+    },
+    {
+      "start": 3572.6,
+      "end": 3572.74,
+      "text": "ela",
+      "confidence": 0.38
+    },
+    {
+      "start": 3572.74,
+      "end": 3572.84,
+      "text": "está",
+      "confidence": 0.632
+    },
+    {
+      "start": 3572.84,
+      "end": 3573.24,
+      "text": "pegando",
+      "confidence": 0.474
+    },
+    {
+      "start": 3573.24,
+      "end": 3573.32,
+      "text": "o",
+      "confidence": 0.563
+    },
+    {
+      "start": 3573.32,
+      "end": 3573.58,
+      "text": "amor.",
+      "confidence": 0.214
+    },
+    {
+      "start": 3574.92,
+      "end": 3575.12,
+      "text": "Eu",
+      "confidence": 0.449
+    },
+    {
+      "start": 3575.12,
+      "end": 3575.18,
+      "text": "não",
+      "confidence": 0.819
+    },
+    {
+      "start": 3575.18,
+      "end": 3575.38,
+      "text": "sei",
+      "confidence": 0.999
+    },
+    {
+      "start": 3575.38,
+      "end": 3575.5,
+      "text": "o",
+      "confidence": 0.503
+    },
+    {
+      "start": 3575.5,
+      "end": 3575.68,
+      "text": "que",
+      "confidence": 0.97
+    },
+    {
+      "start": 3575.68,
+      "end": 3575.7,
+      "text": "eu",
+      "confidence": 0.691
+    },
+    {
+      "start": 3575.7,
+      "end": 3575.82,
+      "text": "vou,",
+      "confidence": 0.964
+    },
+    {
+      "start": 3575.88,
+      "end": 3576.0,
+      "text": "eu",
+      "confidence": 0.661
+    },
+    {
+      "start": 3576.0,
+      "end": 3576.08,
+      "text": "vou",
+      "confidence": 0.979
+    },
+    {
+      "start": 3576.08,
+      "end": 3576.37,
+      "text": "na...",
+      "confidence": 0.974
+    },
+    {
+      "start": 3576.59,
+      "end": 3577.76,
+      "text": "Na",
+      "confidence": 0.687
+    },
+    {
+      "start": 3577.76,
+      "end": 3578.94,
+      "text": "máquina",
+      "confidence": 0.395
+    },
+    {
+      "start": 3578.94,
+      "end": 3579.28,
+      "text": "de",
+      "confidence": 0.767
+    },
+    {
+      "start": 3579.28,
+      "end": 3579.92,
+      "text": "esformel,",
+      "confidence": 0.211
+    },
+    {
+      "start": 3580.08,
+      "end": 3580.58,
+      "text": "aí",
+      "confidence": 0.221
+    },
+    {
+      "start": 3580.58,
+      "end": 3581.04,
+      "text": "eu",
+      "confidence": 0.778
+    },
+    {
+      "start": 3581.04,
+      "end": 3581.12,
+      "text": "vou",
+      "confidence": 0.625
+    },
+    {
+      "start": 3581.12,
+      "end": 3581.26,
+      "text": "no",
+      "confidence": 0.534
+    },
+    {
+      "start": 3581.26,
+      "end": 3581.44,
+      "text": "chão,",
+      "confidence": 0.918
+    },
+    {
+      "start": 3581.44,
+      "end": 3581.64,
+      "text": "eu",
+      "confidence": 0.218
+    },
+    {
+      "start": 3581.64,
+      "end": 3581.98,
+      "text": "vou",
+      "confidence": 0.43
+    },
+    {
+      "start": 3581.98,
+      "end": 3582.2,
+      "text": "no",
+      "confidence": 0.872
+    },
+    {
+      "start": 3582.2,
+      "end": 3582.9,
+      "text": "livro",
+      "confidence": 0.624
+    },
+    {
+      "start": 3582.9,
+      "end": 3583.11,
+      "text": "dela,",
+      "confidence": 0.994
+    },
+    {
+      "start": 3583.11,
+      "end": 3583.46,
+      "text": "eu",
+      "confidence": 0.65
+    },
+    {
+      "start": 3583.46,
+      "end": 3583.7,
+      "text": "chego",
+      "confidence": 0.79
+    },
+    {
+      "start": 3583.7,
+      "end": 3583.82,
+      "text": "lá",
+      "confidence": 0.964
+    },
+    {
+      "start": 3583.82,
+      "end": 3583.94,
+      "text": "e",
+      "confidence": 0.556
+    },
+    {
+      "start": 3583.94,
+      "end": 3584.18,
+      "text": "eu",
+      "confidence": 0.64
+    },
+    {
+      "start": 3584.18,
+      "end": 3584.36,
+      "text": "vou",
+      "confidence": 0.289
+    },
+    {
+      "start": 3584.36,
+      "end": 3584.78,
+      "text": "ver",
+      "confidence": 0.165
+    },
+    {
+      "start": 3584.78,
+      "end": 3584.94,
+      "text": "o",
+      "confidence": 0.251
+    },
+    {
+      "start": 3584.94,
+      "end": 3585.02,
+      "text": "que",
+      "confidence": 0.535
+    },
+    {
+      "start": 3585.02,
+      "end": 3585.04,
+      "text": "ela",
+      "confidence": 0.511
+    },
+    {
+      "start": 3585.04,
+      "end": 3585.06,
+      "text": "está",
+      "confidence": 0.311
+    },
+    {
+      "start": 3585.06,
+      "end": 3585.36,
+      "text": "fazendo.",
+      "confidence": 0.656
+    },
+    {
+      "start": 3589.63,
+      "end": 3589.97,
+      "text": "Aí,",
+      "confidence": 0.984
+    },
+    {
+      "start": 3590.19,
+      "end": 3590.69,
+      "text": "ela",
+      "confidence": 0.932
+    },
+    {
+      "start": 3590.69,
+      "end": 3591.99,
+      "text": "foi",
+      "confidence": 0.56
+    },
+    {
+      "start": 3591.99,
+      "end": 3592.31,
+      "text": "e",
+      "confidence": 0.649
+    },
+    {
+      "start": 3592.31,
+      "end": 3592.43,
+      "text": "viu",
+      "confidence": 0.19
+    },
+    {
+      "start": 3592.43,
+      "end": 3592.55,
+      "text": "o",
+      "confidence": 0.481
+    },
+    {
+      "start": 3592.55,
+      "end": 3592.71,
+      "text": "que",
+      "confidence": 0.215
+    },
+    {
+      "start": 3592.71,
+      "end": 3592.79,
+      "text": "eu",
+      "confidence": 0.899
+    },
+    {
+      "start": 3592.79,
+      "end": 3592.99,
+      "text": "estou",
+      "confidence": 0.418
+    },
+    {
+      "start": 3592.99,
+      "end": 3593.01,
+      "text": "fazendo.",
+      "confidence": 0.979
+    },
+    {
+      "start": 3594.2,
+      "end": 3594.32,
+      "text": "Aí,",
+      "confidence": 0.608
+    },
+    {
+      "start": 3594.38,
+      "end": 3594.48,
+      "text": "se",
+      "confidence": 0.604
+    },
+    {
+      "start": 3594.48,
+      "end": 3594.56,
+      "text": "eu",
+      "confidence": 0.951
+    },
+    {
+      "start": 3594.56,
+      "end": 3594.74,
+      "text": "vou",
+      "confidence": 0.571
+    },
+    {
+      "start": 3594.74,
+      "end": 3594.9,
+      "text": "no",
+      "confidence": 0.652
+    },
+    {
+      "start": 3594.9,
+      "end": 3595.02,
+      "text": "livro,",
+      "confidence": 0.922
+    },
+    {
+      "start": 3595.14,
+      "end": 3595.36,
+      "text": "ele",
+      "confidence": 0.479
+    },
+    {
+      "start": 3595.36,
+      "end": 3595.88,
+      "text": "dura",
+      "confidence": 0.165
+    },
+    {
+      "start": 3595.88,
+      "end": 3596.12,
+      "text": "até",
+      "confidence": 0.232
+    },
+    {
+      "start": 3596.12,
+      "end": 3596.36,
+      "text": "o",
+      "confidence": 0.509
+    },
+    {
+      "start": 3596.36,
+      "end": 3597.26,
+      "text": "áudio,",
+      "confidence": 0.878
+    }
+  ]
+}

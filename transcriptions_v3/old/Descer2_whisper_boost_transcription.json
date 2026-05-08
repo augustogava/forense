@@ -1,0 +1,683 @@
+{
+  "source_file": "Descer2_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:33,00:02:50": "oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi oi o"
+  },
+  "hallucinations_filtered": 2,
+  "words": [
+    {
+      "start": 33.28,
+      "end": 33.71,
+      "text": "oi",
+      "confidence": 0.06
+    },
+    {
+      "start": 34.13,
+      "end": 34.47,
+      "text": "oi",
+      "confidence": 0.68
+    },
+    {
+      "start": 34.47,
+      "end": 35.06,
+      "text": "oi",
+      "confidence": 0.694
+    },
+    {
+      "start": 42.64,
+      "end": 43.54,
+      "text": "oi",
+      "confidence": 0.743
+    },
+    {
+      "start": 56.33,
+      "end": 57.82,
+      "text": "oi",
+      "confidence": 0.79
+    },
+    {
+      "start": 57.82,
+      "end": 58.56,
+      "text": "oi",
+      "confidence": 0.813
+    },
+    {
+      "start": 58.56,
+      "end": 58.58,
+      "text": "oi",
+      "confidence": 0.835
+    },
+    {
+      "start": 58.58,
+      "end": 58.62,
+      "text": "oi",
+      "confidence": 0.851
+    },
+    {
+      "start": 58.62,
+      "end": 59.04,
+      "text": "oi",
+      "confidence": 0.862
+    },
+    {
+      "start": 59.04,
+      "end": 59.14,
+      "text": "oi",
+      "confidence": 0.869
+    },
+    {
+      "start": 59.14,
+      "end": 60.02,
+      "text": "oi",
+      "confidence": 0.873
+    },
+    {
+      "start": 115.66,
+      "end": 116.15,
+      "text": "oi",
+      "confidence": 0.875
+    },
+    {
+      "start": 116.15,
+      "end": 116.17,
+      "text": "oi",
+      "confidence": 0.872
+    },
+    {
+      "start": 116.17,
+      "end": 116.19,
+      "text": "oi",
+      "confidence": 0.868
+    },
+    {
+      "start": 116.19,
+      "end": 116.21,
+      "text": "oi",
+      "confidence": 0.868
+    },
+    {
+      "start": 116.21,
+      "end": 116.31,
+      "text": "oi",
+      "confidence": 0.87
+    },
+    {
+      "start": 116.31,
+      "end": 116.59,
+      "text": "oi",
+      "confidence": 0.871
+    },
+    {
+      "start": 116.59,
+      "end": 116.77,
+      "text": "oi",
+      "confidence": 0.875
+    },
+    {
+      "start": 116.77,
+      "end": 116.79,
+      "text": "oi",
+      "confidence": 0.879
+    },
+    {
+      "start": 116.79,
+      "end": 116.81,
+      "text": "oi",
+      "confidence": 0.885
+    },
+    {
+      "start": 126.22,
+      "end": 126.77,
+      "text": "oi",
+      "confidence": 0.891
+    },
+    {
+      "start": 126.77,
+      "end": 127.01,
+      "text": "oi",
+      "confidence": 0.897
+    },
+    {
+      "start": 127.01,
+      "end": 128.05,
+      "text": "oi",
+      "confidence": 0.902
+    },
+    {
+      "start": 128.96,
+      "end": 129.32,
+      "text": "oi",
+      "confidence": 0.906
+    },
+    {
+      "start": 129.32,
+      "end": 129.64,
+      "text": "oi",
+      "confidence": 0.906
+    },
+    {
+      "start": 129.64,
+      "end": 129.66,
+      "text": "oi",
+      "confidence": 0.905
+    },
+    {
+      "start": 129.66,
+      "end": 129.68,
+      "text": "oi",
+      "confidence": 0.903
+    },
+    {
+      "start": 129.68,
+      "end": 129.7,
+      "text": "oi",
+      "confidence": 0.898
+    },
+    {
+      "start": 129.7,
+      "end": 129.72,
+      "text": "oi",
+      "confidence": 0.889
+    },
+    {
+      "start": 129.72,
+      "end": 129.74,
+      "text": "oi",
+      "confidence": 0.872
+    },
+    {
+      "start": 129.74,
+      "end": 129.76,
+      "text": "oi",
+      "confidence": 0.828
+    },
+    {
+      "start": 129.76,
+      "end": 129.78,
+      "text": "oi",
+      "confidence": 0.738
+    },
+    {
+      "start": 129.78,
+      "end": 129.8,
+      "text": "oi",
+      "confidence": 0.655
+    },
+    {
+      "start": 129.8,
+      "end": 129.82,
+      "text": "oi",
+      "confidence": 0.636
+    },
+    {
+      "start": 129.82,
+      "end": 129.84,
+      "text": "oi",
+      "confidence": 0.649
+    },
+    {
+      "start": 129.84,
+      "end": 129.86,
+      "text": "oi",
+      "confidence": 0.671
+    },
+    {
+      "start": 129.86,
+      "end": 129.88,
+      "text": "oi",
+      "confidence": 0.693
+    },
+    {
+      "start": 129.88,
+      "end": 129.9,
+      "text": "oi",
+      "confidence": 0.72
+    },
+    {
+      "start": 129.9,
+      "end": 129.92,
+      "text": "oi",
+      "confidence": 0.751
+    },
+    {
+      "start": 129.92,
+      "end": 129.94,
+      "text": "oi",
+      "confidence": 0.782
+    },
+    {
+      "start": 129.94,
+      "end": 129.96,
+      "text": "oi",
+      "confidence": 0.805
+    },
+    {
+      "start": 129.96,
+      "end": 129.98,
+      "text": "oi",
+      "confidence": 0.823
+    },
+    {
+      "start": 129.98,
+      "end": 130.0,
+      "text": "oi",
+      "confidence": 0.838
+    },
+    {
+      "start": 130.0,
+      "end": 130.02,
+      "text": "oi",
+      "confidence": 0.851
+    },
+    {
+      "start": 130.02,
+      "end": 130.04,
+      "text": "oi",
+      "confidence": 0.86
+    },
+    {
+      "start": 130.04,
+      "end": 130.06,
+      "text": "oi",
+      "confidence": 0.868
+    },
+    {
+      "start": 130.06,
+      "end": 130.08,
+      "text": "oi",
+      "confidence": 0.875
+    },
+    {
+      "start": 130.08,
+      "end": 130.1,
+      "text": "oi",
+      "confidence": 0.88
+    },
+    {
+      "start": 130.1,
+      "end": 130.12,
+      "text": "oi",
+      "confidence": 0.885
+    },
+    {
+      "start": 130.12,
+      "end": 130.14,
+      "text": "oi",
+      "confidence": 0.889
+    },
+    {
+      "start": 130.14,
+      "end": 130.16,
+      "text": "oi",
+      "confidence": 0.893
+    },
+    {
+      "start": 130.16,
+      "end": 130.18,
+      "text": "oi",
+      "confidence": 0.896
+    },
+    {
+      "start": 130.18,
+      "end": 130.2,
+      "text": "oi",
+      "confidence": 0.899
+    },
+    {
+      "start": 130.2,
+      "end": 130.22,
+      "text": "oi",
+      "confidence": 0.902
+    },
+    {
+      "start": 130.22,
+      "end": 130.24,
+      "text": "oi",
+      "confidence": 0.903
+    },
+    {
+      "start": 130.24,
+      "end": 130.26,
+      "text": "oi",
+      "confidence": 0.905
+    },
+    {
+      "start": 130.26,
+      "end": 130.28,
+      "text": "oi",
+      "confidence": 0.908
+    },
+    {
+      "start": 141.26,
+      "end": 141.76,
+      "text": "oi",
+      "confidence": 0.909
+    },
+    {
+      "start": 141.76,
+      "end": 141.78,
+      "text": "oi",
+      "confidence": 0.911
+    },
+    {
+      "start": 141.78,
+      "end": 141.8,
+      "text": "oi",
+      "confidence": 0.913
+    },
+    {
+      "start": 141.8,
+      "end": 141.82,
+      "text": "oi",
+      "confidence": 0.915
+    },
+    {
+      "start": 141.82,
+      "end": 141.84,
+      "text": "oi",
+      "confidence": 0.916
+    },
+    {
+      "start": 141.84,
+      "end": 142.08,
+      "text": "oi",
+      "confidence": 0.917
+    },
+    {
+      "start": 142.08,
+      "end": 142.1,
+      "text": "oi",
+      "confidence": 0.918
+    },
+    {
+      "start": 142.1,
+      "end": 142.12,
+      "text": "oi",
+      "confidence": 0.92
+    },
+    {
+      "start": 142.12,
+      "end": 142.14,
+      "text": "oi",
+      "confidence": 0.921
+    },
+    {
+      "start": 142.14,
+      "end": 142.16,
+      "text": "oi",
+      "confidence": 0.922
+    },
+    {
+      "start": 142.16,
+      "end": 145.48,
+      "text": "oi",
+      "confidence": 0.924
+    },
+    {
+      "start": 145.48,
+      "end": 146.8,
+      "text": "oi",
+      "confidence": 0.926
+    },
+    {
+      "start": 146.8,
+      "end": 146.82,
+      "text": "oi",
+      "confidence": 0.927
+    },
+    {
+      "start": 146.82,
+      "end": 147.92,
+      "text": "oi",
+      "confidence": 0.929
+    },
+    {
+      "start": 147.92,
+      "end": 149.24,
+      "text": "oi",
+      "confidence": 0.93
+    },
+    {
+      "start": 149.24,
+      "end": 149.26,
+      "text": "oi",
+      "confidence": 0.931
+    },
+    {
+      "start": 149.26,
+      "end": 149.52,
+      "text": "oi",
+      "confidence": 0.933
+    },
+    {
+      "start": 149.52,
+      "end": 149.54,
+      "text": "oi",
+      "confidence": 0.933
+    },
+    {
+      "start": 149.54,
+      "end": 149.56,
+      "text": "oi",
+      "confidence": 0.935
+    },
+    {
+      "start": 149.56,
+      "end": 149.58,
+      "text": "oi",
+      "confidence": 0.936
+    },
+    {
+      "start": 149.58,
+      "end": 149.6,
+      "text": "oi",
+      "confidence": 0.937
+    },
+    {
+      "start": 149.6,
+      "end": 149.62,
+      "text": "oi",
+      "confidence": 0.939
+    },
+    {
+      "start": 149.62,
+      "end": 149.64,
+      "text": "oi",
+      "confidence": 0.94
+    },
+    {
+      "start": 149.64,
+      "end": 149.66,
+      "text": "oi",
+      "confidence": 0.94
+    },
+    {
+      "start": 149.66,
+      "end": 149.82,
+      "text": "oi",
+      "confidence": 0.942
+    },
+    {
+      "start": 149.82,
+      "end": 150.18,
+      "text": "oi",
+      "confidence": 0.942
+    },
+    {
+      "start": 150.18,
+      "end": 150.42,
+      "text": "oi",
+      "confidence": 0.944
+    },
+    {
+      "start": 150.42,
+      "end": 150.44,
+      "text": "oi",
+      "confidence": 0.945
+    },
+    {
+      "start": 150.44,
+      "end": 150.46,
+      "text": "oi",
+      "confidence": 0.946
+    },
+    {
+      "start": 150.46,
+      "end": 150.48,
+      "text": "oi",
+      "confidence": 0.947
+    },
+    {
+      "start": 150.48,
+      "end": 150.5,
+      "text": "oi",
+      "confidence": 0.948
+    },
+    {
+      "start": 150.5,
+      "end": 150.66,
+      "text": "oi",
+      "confidence": 0.949
+    },
+    {
+      "start": 150.66,
+      "end": 150.68,
+      "text": "oi",
+      "confidence": 0.95
+    },
+    {
+      "start": 150.68,
+      "end": 150.7,
+      "text": "oi",
+      "confidence": 0.951
+    },
+    {
+      "start": 150.7,
+      "end": 150.72,
+      "text": "oi",
+      "confidence": 0.952
+    },
+    {
+      "start": 150.72,
+      "end": 150.74,
+      "text": "oi",
+      "confidence": 0.952
+    },
+    {
+      "start": 150.74,
+      "end": 150.76,
+      "text": "oi",
+      "confidence": 0.954
+    },
+    {
+      "start": 150.76,
+      "end": 150.78,
+      "text": "oi",
+      "confidence": 0.955
+    },
+    {
+      "start": 150.78,
+      "end": 150.8,
+      "text": "oi",
+      "confidence": 0.955
+    },
+    {
+      "start": 150.8,
+      "end": 150.82,
+      "text": "oi",
+      "confidence": 0.956
+    },
+    {
+      "start": 150.82,
+      "end": 150.84,
+      "text": "oi",
+      "confidence": 0.957
+    },
+    {
+      "start": 150.84,
+      "end": 151.08,
+      "text": "oi",
+      "confidence": 0.958
+    },
+    {
+      "start": 151.08,
+      "end": 151.1,
+      "text": "oi",
+      "confidence": 0.959
+    },
+    {
+      "start": 151.1,
+      "end": 151.12,
+      "text": "oi",
+      "confidence": 0.96
+    },
+    {
+      "start": 151.12,
+      "end": 151.14,
+      "text": "oi",
+      "confidence": 0.961
+    },
+    {
+      "start": 151.14,
+      "end": 151.16,
+      "text": "oi",
+      "confidence": 0.962
+    },
+    {
+      "start": 151.16,
+      "end": 151.18,
+      "text": "oi",
+      "confidence": 0.962
+    },
+    {
+      "start": 151.18,
+      "end": 151.2,
+      "text": "oi",
+      "confidence": 0.963
+    },
+    {
+      "start": 151.2,
+      "end": 151.22,
+      "text": "oi",
+      "confidence": 0.964
+    },
+    {
+      "start": 151.22,
+      "end": 151.72,
+      "text": "oi",
+      "confidence": 0.964
+    },
+    {
+      "start": 152.69,
+      "end": 153.36,
+      "text": "oi",
+      "confidence": 0.966
+    },
+    {
+      "start": 153.36,
+      "end": 153.94,
+      "text": "oi",
+      "confidence": 0.966
+    },
+    {
+      "start": 155.38,
+      "end": 156.5,
+      "text": "oi",
+      "confidence": 0.967
+    },
+    {
+      "start": 164.14,
+      "end": 166.23,
+      "text": "oi",
+      "confidence": 0.968
+    },
+    {
+      "start": 169.13,
+      "end": 170.0,
+      "text": "o",
+      "confidence": 0.937
+    }
+  ]
+}
