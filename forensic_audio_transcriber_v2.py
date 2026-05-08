@@ -164,8 +164,8 @@ def _loudness_norm(y: np.ndarray, target_db: float = -8) -> np.ndarray:
 
 
 def _dynamic_compress(y: np.ndarray, sr: int) -> np.ndarray:
-    threshold_db = -18
-    ratio = 4.0
+    threshold_db = -20
+    ratio = 2.5
     frame_len = int(sr * 0.02)
     hop = frame_len // 2
     n_frames = max(1, (len(y) - frame_len) // hop + 1)
@@ -279,7 +279,7 @@ def _whisper_spectral_boost_vad(y: np.ndarray, sr: int, vad_mask: np.ndarray) ->
             np.mean(vad_mask[max(0, c - hop_length//2):min(len(vad_mask), c + hop_length//2)])
             for c in frame_centers
         ])
-        speech_mask = (freqs >= 150) & (freqs <= 6000)
+        speech_mask = (freqs >= 150) & (freqs <= 8000)
         speech_energy = np.mean(magnitude[speech_mask, :], axis=0)
         valid = speech_energy > 0
         median_energy = np.median(speech_energy[valid]) if np.any(valid) else 1e-10
@@ -288,10 +288,11 @@ def _whisper_spectral_boost_vad(y: np.ndarray, sr: int, vad_mask: np.ndarray) ->
         has_voice = frame_vad > 0.3
         boost_frames = quiet & has_voice
         if np.any(boost_frames) and median_energy > 0:
-            frame_gain[boost_frames] = np.clip(median_energy / (speech_energy[boost_frames] + 1e-10), 1.0, 8.0)
+            frame_gain[boost_frames] = np.clip(median_energy / (speech_energy[boost_frames] + 1e-10), 1.0, 6.0)
         freq_gain = np.ones_like(freqs)
-        freq_gain[speech_mask] = 2.5
-        freq_gain[~speech_mask] = 0.05
+        freq_gain[speech_mask] = 2.0
+        freq_gain[(freqs < 150)] = 0.1
+        freq_gain[(freqs > 8000)] = 0.2
         return magnitude * freq_gain[:, np.newaxis] * frame_gain[np.newaxis, :] * np.exp(1j * phase)
 
     return _peak_norm(_process_stft_chunked(y, sr, _process))
@@ -361,12 +362,12 @@ def _preprocess_audio(audio_path: Path, output_dir: Path) -> Path:
     vad_mask = _compute_vad_mask(y, sr)
     y = _declip(y)
     y = _highpass(y, sr, 80)
-    y = nr.reduce_noise(y=y, sr=sr, stationary=False, prop_decrease=0.90,
-                        thresh_n_mult_nonstationary=1.5, sigmoid_slope_nonstationary=15, n_fft=2048)
-    y = nr.reduce_noise(y=y, sr=sr, stationary=True, prop_decrease=0.7,
-                        n_std_thresh_stationary=1.2, n_fft=2048)
+    y = nr.reduce_noise(y=y, sr=sr, stationary=True, prop_decrease=0.80,
+                        n_std_thresh_stationary=1.5, n_fft=2048)
+    y = nr.reduce_noise(y=y, sr=sr, stationary=False, prop_decrease=0.70,
+                        thresh_n_mult_nonstationary=2.0, sigmoid_slope_nonstationary=10, n_fft=2048)
     y = _whisper_spectral_boost_vad(y, sr, vad_mask)
-    y = _boost_quiet_segments_vad(y, sr, vad_mask, max_gain=10.0)
+    y = _boost_quiet_segments_vad(y, sr, vad_mask, max_gain=6.0)
     y = _dynamic_compress(y, sr)
     y = _loudness_norm(y, target_db=-6)
     y = _peak_norm(y)
