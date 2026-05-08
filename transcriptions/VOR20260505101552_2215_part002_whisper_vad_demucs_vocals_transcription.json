@@ -1,0 +1,12 @@
+{
+  "source_file": "VOR20260505101552_2215_part002_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:01:56,00:01:57": "Agradecimentos a todos os que participaram do programa.",
+    "00:25:10,00:25:11": "Atenção!",
+    "00:25:19,00:25:19": "Não há mais.",
+    "00:36:07,00:36:08": "Não!",
+    "00:50:14,00:50:14": "Sim!"
+  }
+}

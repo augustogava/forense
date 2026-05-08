@@ -1,0 +1,14 @@
+{
+  "source_file": "Antesswxobanheiro0605_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:02": "Atenção!",
+    "00:00:12,00:00:13": "Acesse o nosso site www.opusdei.pt",
+    "00:00:15,00:00:15": ".",
+    "00:00:53,00:01:12": "Acompanhe o processo de transcrição em português brasileiro.",
+    "00:08:53,00:08:53": "Acesse o nosso site www.opusdei.pt para mais informações.",
+    "00:10:08,00:10:10": "Acesse o nosso site www.opusdei.pt para mais informações.",
+    "00:10:25,00:10:26": "Não há dúvida."
+  }
+}

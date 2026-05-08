@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 """
-Forensic Audio Transcriber
+Forensic Audio Transcriber V2 — faster-whisper
 
-Transcrição de áudio forense usando Whisper (OpenAI).
-Detecta fala em português e gera JSON com timestamps por segmento.
+4-8x faster than openai-whisper via CTranslate2.
+Built-in Silero VAD and hallucination_silence_threshold.
+
+pip install faster-whisper
 """
 
 import argparse
@@ -14,7 +16,6 @@ import os
 import random
 import subprocess
 import sys
-import tempfile
 import time
 from pathlib import Path
 from typing import List, Optional
@@ -24,16 +25,13 @@ if sys.stdout.encoding != "utf-8":
 if sys.stderr.encoding != "utf-8":
     sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding="utf-8", errors="replace")
 
-import numpy as np
 import torch
-import whisper
+from faster_whisper import WhisperModel
 
 logging.basicConfig(level=logging.DEBUG, format="%(asctime)s - %(levelname)s - %(message)s")
 logger = logging.getLogger(__name__)
 
 SUPPORTED_EXTENSIONS = {".wav", ".mp3", ".m4a", ".aac", ".ogg", ".flac", ".wma", ".opus"}
-
-NEEDS_CONVERSION = {".mp3", ".m4a", ".aac", ".ogg", ".flac", ".wma", ".opus"}
 
 _ffmpeg_path: Optional[str] = None
 try:
@@ -55,28 +53,6 @@ def _fmt_time(seconds: float) -> str:
     m = int((seconds % 3600) // 60)
     s = int(seconds % 60)
     return f"{h:02d}:{m:02d}:{s:02d}"
-
-
-def _convert_to_wav(input_path: Path) -> Path:
-    if not _ffmpeg_path:
-        logger.error("ffmpeg not found, cannot convert audio")
-        sys.exit(1)
-
-    tmp_wav = Path(tempfile.gettempdir()) / f"whisper_{input_path.stem}.wav"
-    cmd = [
-        _ffmpeg_path, "-y",
-        "-i", str(input_path),
-        "-ar", "16000",
-        "-ac", "1",
-        "-c:a", "pcm_s16le",
-        str(tmp_wav),
-    ]
-    logger.debug(f"Converting to WAV 16kHz mono: {input_path.name}")
-    result = subprocess.run(cmd, capture_output=True, text=True)
-    if result.returncode != 0:
-        logger.error(f"ffmpeg conversion failed: {result.stderr.strip()}")
-        sys.exit(1)
-    return tmp_wav
 
 
 def collect_audio_files(input_path: Path) -> List[Path]:
@@ -126,14 +102,15 @@ _EXPLICIT_KEYWORDS = {
     "oral", "vaginal", "anal",
 }
 
-def _is_hallucination(seg: dict) -> bool:
-    text = seg.get("text", "").strip()
+
+def _is_hallucination(seg) -> bool:
+    text = seg.text.strip() if hasattr(seg, "text") else ""
     if not text:
         return True
 
-    no_speech = seg.get("no_speech_prob", 0.0)
-    logprob = seg.get("avg_logprob", 0.0)
-    compression = seg.get("compression_ratio", 1.0)
+    no_speech = getattr(seg, "no_speech_prob", 0.0)
+    logprob = getattr(seg, "avg_logprob", 0.0)
+    compression = getattr(seg, "compression_ratio", 1.0)
 
     if no_speech > 0.6 and logprob < -1.0:
         return True
@@ -153,87 +130,40 @@ def _flag_explicit(text: str) -> bool:
     return bool(words & _EXPLICIT_KEYWORDS)
 
 
-def _extract_speech_segments(
-    audio_np: np.ndarray,
-    sr: int,
-    vad_model,
-    get_speech_ts,
-) -> List[dict]:
-    audio_tensor = torch.from_numpy(audio_np).float()
-    timestamps = get_speech_ts(
-        audio_tensor,
-        vad_model,
-        sampling_rate=sr,
-        threshold=0.3,
-        min_speech_duration_ms=500,
-        min_silence_duration_ms=300,
-    )
-    vad_model.reset_states()
-
-    if not timestamps:
-        return []
-
-    merged = [timestamps[0].copy()]
-    merge_gap = int(sr * 1.5)
-    for ts in timestamps[1:]:
-        if ts["start"] - merged[-1]["end"] < merge_gap:
-            merged[-1]["end"] = ts["end"]
-        else:
-            merged.append(ts.copy())
-
-    return merged
-
-
 def transcribe_file(
-    model: whisper.Whisper,
+    model: WhisperModel,
     audio_path: Path,
     output_dir: Path,
     word_timestamps: bool = False,
     model_name: str = "large-v3",
-    vad_model=None,
-    get_speech_ts=None,
 ) -> Optional[Path]:
     t_start = time.time()
-    sr = 16000
     print(f"\n    Transcrevendo: {audio_path.name}")
-
-    wav_path = _convert_to_wav(audio_path)
-    try:
-        import wave as _wave
-        with _wave.open(str(wav_path), "rb") as wf:
-            audio_np = np.frombuffer(wf.readframes(wf.getnframes()), np.int16).astype(np.float32) / 32768.0
-    except Exception as e:
-        logger.error(f"Failed to load audio {audio_path.name}: {e}")
-        return None
-    finally:
-        wav_path.unlink(missing_ok=True)
 
     output_dir.mkdir(parents=True, exist_ok=True)
     json_path = output_dir / f"{audio_path.stem}_transcription.json"
 
-    if vad_model is not None and get_speech_ts is not None:
-        print("    [VAD] Detectando segmentos com fala...")
-        speech_segments = _extract_speech_segments(audio_np, sr, vad_model, get_speech_ts)
-        if not speech_segments:
-            print("    [VAD] Nenhuma fala detectada")
-            output_data = {
-                "source_file": audio_path.name,
-                "language": "pt",
-                "model": model_name,
-                "vad": "no_speech_detected",
-                "segments": {},
-            }
-            with open(json_path, "w", encoding="utf-8") as f:
-                json.dump(output_data, f, indent=2, ensure_ascii=False)
-            elapsed = time.time() - t_start
-            print(f"    Concluído em {elapsed:.0f}s — 0 segmentos (sem fala) -> {json_path.name}")
-            return json_path
-
-        total_speech = sum(s["end"] - s["start"] for s in speech_segments) / sr
-        total_audio = len(audio_np) / sr
-        print(f"    [VAD] {len(speech_segments)} segmentos com fala ({total_speech:.0f}s de {total_audio:.0f}s)")
-    else:
-        speech_segments = [{"start": 0, "end": len(audio_np)}]
+    try:
+        segments_gen, info = model.transcribe(
+            str(audio_path),
+            language="pt",
+            word_timestamps=True,
+            condition_on_previous_text=False,
+            no_speech_threshold=0.6,
+            compression_ratio_threshold=2.4,
+            temperature=0.0,
+            hallucination_silence_threshold=2.0,
+            vad_filter=True,
+            vad_parameters=dict(
+                threshold=0.3,
+                min_speech_duration_ms=500,
+                min_silence_duration_ms=300,
+            ),
+            initial_prompt=_FORENSIC_PROMPT,
+        )
+    except Exception as e:
+        logger.error(f"Transcription failed for {audio_path.name}: {e}")
+        return None
 
     segments_dict = {}
     explicit_segments = {}
@@ -241,61 +171,47 @@ def transcribe_file(
     prev_text = None
     repeat_count = 0
 
-    for chunk_idx, chunk in enumerate(speech_segments):
-        chunk_audio = audio_np[chunk["start"]:chunk["end"]]
-        offset_sec = chunk["start"] / sr
-
-        try:
-            result = model.transcribe(
-                chunk_audio,
-                language="pt",
-                word_timestamps=True,
-                verbose=False,
-                condition_on_previous_text=False,
-                compression_ratio_threshold=2.4,
-                no_speech_threshold=0.6,
-                temperature=0.0,
-                hallucination_silence_threshold=2.0,
-                initial_prompt=_FORENSIC_PROMPT,
-            )
-        except Exception as e:
-            logger.error(f"Transcription failed for chunk {chunk_idx} of {audio_path.name}: {e}")
+    for seg in segments_gen:
+        text = seg.text.strip()
+        if not text:
             continue
 
-        for seg in result.get("segments", []):
-            real_start = seg["start"] + offset_sec
-            real_end = seg["end"] + offset_sec
-            key = f"{_fmt_time(real_start)},{_fmt_time(real_end)}"
-            text = seg["text"].strip()
-            if not text:
-                continue
-            if _is_hallucination(seg):
-                logger.debug(f"Hallucination filtered (nsp={seg.get('no_speech_prob', 0):.2f} logp={seg.get('avg_logprob', 0):.2f} cr={seg.get('compression_ratio', 0):.2f}): '{text}'")
-                continue
-            if text == prev_text:
-                repeat_count += 1
-                if repeat_count >= 2:
-                    continue
-            else:
-                repeat_count = 0
-            prev_text = text
-            segments_dict[key] = text
+        if _is_hallucination(seg):
+            logger.debug(
+                f"Hallucination filtered (nsp={getattr(seg, 'no_speech_prob', 0):.2f} "
+                f"logp={getattr(seg, 'avg_logprob', 0):.2f} "
+                f"cr={getattr(seg, 'compression_ratio', 0):.2f}): '{text}'"
+            )
+            continue
 
-            if _flag_explicit(text):
-                explicit_segments[key] = text
+        if text == prev_text:
+            repeat_count += 1
+            if repeat_count >= 2:
+                continue
+        else:
+            repeat_count = 0
+        prev_text = text
 
-            if word_timestamps and seg.get("words"):
-                for w in seg["words"]:
-                    words_list.append({
-                        "start": round(w["start"] + offset_sec, 2),
-                        "end": round(w["end"] + offset_sec, 2),
-                        "text": w["word"].strip(),
-                    })
+        key = f"{_fmt_time(seg.start)},{_fmt_time(seg.end)}"
+        segments_dict[key] = text
+
+        if _flag_explicit(text):
+            explicit_segments[key] = text
+
+        if word_timestamps and seg.words:
+            for w in seg.words:
+                words_list.append({
+                    "start": round(w.start, 2),
+                    "end": round(w.end, 2),
+                    "text": w.word.strip(),
+                    "probability": round(w.probability, 3),
+                })
 
     output_data = {
         "source_file": audio_path.name,
-        "language": "pt",
+        "language": info.language,
         "model": model_name,
+        "duration": round(info.duration, 1),
         "segments": segments_dict,
     }
     if explicit_segments:
@@ -314,20 +230,23 @@ def transcribe_file(
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Forensic Audio Transcriber (Whisper)")
+    parser = argparse.ArgumentParser(description="Forensic Audio Transcriber V2 (faster-whisper)")
     parser.add_argument("--input", "-i", type=str, required=True,
                         help="Arquivo de áudio ou pasta com áudios")
     parser.add_argument("--output", "-o", type=str, default=None,
                         help="Diretório de saída para JSONs (padrão: transcriptions/)")
     parser.add_argument("--model", "-m", type=str, default="large-v3",
-                        choices=["tiny", "base", "small", "medium", "large", "large-v2", "large-v3"],
+                        choices=["tiny", "base", "small", "medium", "large-v2", "large-v3", "turbo"],
                         help="Modelo Whisper (padrão: large-v3)")
     parser.add_argument("--word-timestamps", action="store_true",
                         help="Incluir timestamps por palavra")
+    parser.add_argument("--compute-type", type=str, default="float16",
+                        choices=["float16", "float32", "int8", "int8_float16"],
+                        help="Tipo de computação (padrão: float16)")
     args = parser.parse_args()
 
     print("\n" + "=" * 60)
-    print("  Forensic Audio Transcriber")
+    print("  Forensic Audio Transcriber V2 (faster-whisper)")
     print("=" * 60)
 
     input_path = Path(args.input).resolve()
@@ -348,18 +267,14 @@ def main() -> int:
         print(f"    - {af.name}")
 
     if not _ffmpeg_path:
-        print("  AVISO: ffmpeg não encontrado. Formatos m4a/aac/wma podem falhar.")
+        print("  AVISO: ffmpeg não encontrado. Alguns formatos podem falhar.")
 
     device = "cuda" if torch.cuda.is_available() else "cpu"
+    compute_type = args.compute_type if device == "cuda" else "float32"
 
-    print(f"\n  Carregando Silero VAD...")
-    vad_model, vad_utils = torch.hub.load("snakers4/silero-vad", "silero_vad", trust_repo=True)
-    get_speech_ts = vad_utils[0]
-    print("  Silero VAD carregado")
-
-    print(f"\n  Carregando modelo Whisper '{args.model}' ({device})...")
+    print(f"\n  Carregando modelo faster-whisper '{args.model}' ({device}, {compute_type})...")
     t_load = time.time()
-    model = whisper.load_model(args.model, device=device)
+    model = WhisperModel(args.model, device=device, compute_type=compute_type)
     print(f"  Modelo carregado em {time.time() - t_load:.0f}s")
 
     t_total = time.time()
@@ -375,7 +290,7 @@ def main() -> int:
             continue
         print(f"\n  [{idx}/{len(audio_files)}] {af.name}")
         try:
-            result = transcribe_file(model, af, output_dir, args.word_timestamps, args.model, vad_model, get_speech_ts)
+            result = transcribe_file(model, af, output_dir, args.word_timestamps, args.model)
             if result:
                 success += 1
             else:

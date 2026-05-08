@@ -1,0 +1,27 @@
+{
+  "source_file": "Antesdormirquarto0505_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:02,00:00:03": ".",
+    "00:01:20,00:01:23": "Acompanhe o processo de produção em www.opusdei.pt",
+    "00:01:26,00:01:28": "Não há dúvidas, não há dúvidas.",
+    "00:01:34,00:01:38": "Oh, oh, ahhhh, ahhhh, ahhhh!",
+    "00:01:50,00:01:51": "Atenção!",
+    "00:02:03,00:02:03": ".",
+    "00:02:15,00:02:16": "É que é que é!",
+    "00:02:25,00:02:27": "Seja bem-vindo ao canal.",
+    "00:02:48,00:02:50": "Atenção!",
+    "00:03:08,00:03:13": "Acompanhe o processo de transcrição em português brasileiro.",
+    "00:04:48,00:04:49": "Não é que tem cor!",
+    "00:04:59,00:05:03": "Acompanhe o processo de transcrição em português.",
+    "00:06:04,00:06:05": ".",
+    "00:07:27,00:07:31": "Acompanhe o processo de educação em www.opusdei.pt",
+    "00:07:33,00:07:33": "Tchau!",
+    "00:07:42,00:07:45": "Por exemplo, ele está em casa com um pai.",
+    "00:08:55,00:08:56": "Não há dúvidas, não há dúvidas.",
+    "00:09:48,00:09:49": "Mas...",
+    "00:13:00,00:13:01": ".",
+    "00:14:19,00:14:19": "."
+  }
+}
