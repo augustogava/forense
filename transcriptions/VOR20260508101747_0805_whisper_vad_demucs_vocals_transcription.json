@@ -1,0 +1,134 @@
+{
+  "source_file": "VOR20260508101747_0805_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:01": "Não há problema.",
+    "00:01:32,00:01:32": "Não!",
+    "00:04:27,00:04:29": "O que vai acontecer se o senhor não for preso?",
+    "00:05:22,00:05:23": "TV.",
+    "00:08:00,00:08:01": "Atenção!",
+    "00:09:28,00:09:28": ".",
+    "00:15:15,00:15:16": "Não!",
+    "00:17:18,00:17:18": "Não!",
+    "00:25:53,00:25:53": ".",
+    "00:28:43,00:28:43": "Não há dúvida."
+  },
+  "words": [
+    {
+      "start": 0.55,
+      "end": 0.77,
+      "text": "Não"
+    },
+    {
+      "start": 0.77,
+      "end": 0.83,
+      "text": "há"
+    },
+    {
+      "start": 0.83,
+      "end": 1.15,
+      "text": "problema."
+    },
+    {
+      "start": 92.16,
+      "end": 92.7,
+      "text": "Não!"
+    },
+    {
+      "start": 267.49,
+      "end": 267.57,
+      "text": "O"
+    },
+    {
+      "start": 267.57,
+      "end": 267.63,
+      "text": "que"
+    },
+    {
+      "start": 267.63,
+      "end": 267.79,
+      "text": "vai"
+    },
+    {
+      "start": 267.79,
+      "end": 268.19,
+      "text": "acontecer"
+    },
+    {
+      "start": 268.19,
+      "end": 268.45,
+      "text": "se"
+    },
+    {
+      "start": 268.45,
+      "end": 268.59,
+      "text": "o"
+    },
+    {
+      "start": 268.59,
+      "end": 268.77,
+      "text": "senhor"
+    },
+    {
+      "start": 268.77,
+      "end": 268.87,
+      "text": "não"
+    },
+    {
+      "start": 268.87,
+      "end": 269.07,
+      "text": "for"
+    },
+    {
+      "start": 269.07,
+      "end": 269.21,
+      "text": "preso?"
+    },
+    {
+      "start": 322.85,
+      "end": 323.11,
+      "text": "TV."
+    },
+    {
+      "start": 480.61,
+      "end": 481.49,
+      "text": "Atenção!"
+    },
+    {
+      "start": 568.42,
+      "end": 568.58,
+      "text": "."
+    },
+    {
+      "start": 915.68,
+      "end": 916.0,
+      "text": "Não!"
+    },
+    {
+      "start": 1038.31,
+      "end": 1038.51,
+      "text": "Não!"
+    },
+    {
+      "start": 1553.28,
+      "end": 1553.44,
+      "text": "."
+    },
+    {
+      "start": 1723.39,
+      "end": 1723.71,
+      "text": "Não"
+    },
+    {
+      "start": 1723.71,
+      "end": 1723.71,
+      "text": "há"
+    },
+    {
+      "start": 1723.71,
+      "end": 1723.99,
+      "text": "dúvida."
+    }
+  ]
+}

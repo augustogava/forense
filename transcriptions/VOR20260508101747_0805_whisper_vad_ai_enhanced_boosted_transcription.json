@@ -1,0 +1,166 @@
+{
+  "source_file": "VOR20260508101747_0805_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:01:32,00:01:32": "Não!",
+    "00:04:27,00:04:27": "Obrigado.",
+    "00:09:27,00:09:28": "Amém.",
+    "00:10:32,00:10:34": "Não é possível.",
+    "00:10:42,00:10:43": "Obrigado.",
+    "00:10:49,00:10:51": "Agradecimentos a todos os participantes.",
+    "00:13:29,00:13:30": "Não se esqueça de deixar seu like e compartilhar o vídeo.",
+    "00:15:15,00:15:15": "Não!",
+    "00:17:18,00:17:18": ".",
+    "00:20:24,00:20:24": ".",
+    "00:23:00,00:23:00": "Não há.",
+    "00:27:18,00:27:18": "."
+  },
+  "words": [
+    {
+      "start": 92.26,
+      "end": 92.66,
+      "text": "Não!"
+    },
+    {
+      "start": 267.49,
+      "end": 267.93,
+      "text": "Obrigado."
+    },
+    {
+      "start": 567.78,
+      "end": 568.32,
+      "text": "Amém."
+    },
+    {
+      "start": 632.96,
+      "end": 634.86,
+      "text": "Não"
+    },
+    {
+      "start": 634.86,
+      "end": 634.86,
+      "text": "é"
+    },
+    {
+      "start": 634.86,
+      "end": 635.48,
+      "text": "possível."
+    },
+    {
+      "start": 642.24,
+      "end": 643.54,
+      "text": "Obrigado."
+    },
+    {
+      "start": 649.31,
+      "end": 651.75,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 651.75,
+      "end": 651.75,
+      "text": "a"
+    },
+    {
+      "start": 651.75,
+      "end": 651.75,
+      "text": "todos"
+    },
+    {
+      "start": 651.75,
+      "end": 651.75,
+      "text": "os"
+    },
+    {
+      "start": 651.75,
+      "end": 651.75,
+      "text": "participantes."
+    },
+    {
+      "start": 809.6,
+      "end": 809.7,
+      "text": "Não"
+    },
+    {
+      "start": 809.7,
+      "end": 810.0,
+      "text": "se"
+    },
+    {
+      "start": 810.0,
+      "end": 810.42,
+      "text": "esqueça"
+    },
+    {
+      "start": 810.42,
+      "end": 810.42,
+      "text": "de"
+    },
+    {
+      "start": 810.42,
+      "end": 810.42,
+      "text": "deixar"
+    },
+    {
+      "start": 810.42,
+      "end": 810.42,
+      "text": "seu"
+    },
+    {
+      "start": 810.42,
+      "end": 810.42,
+      "text": "like"
+    },
+    {
+      "start": 810.42,
+      "end": 810.42,
+      "text": "e"
+    },
+    {
+      "start": 810.42,
+      "end": 810.42,
+      "text": "compartilhar"
+    },
+    {
+      "start": 810.42,
+      "end": 810.42,
+      "text": "o"
+    },
+    {
+      "start": 810.42,
+      "end": 810.42,
+      "text": "vídeo."
+    },
+    {
+      "start": 915.68,
+      "end": 915.98,
+      "text": "Não!"
+    },
+    {
+      "start": 1038.47,
+      "end": 1038.63,
+      "text": "."
+    },
+    {
+      "start": 1224.29,
+      "end": 1224.41,
+      "text": "."
+    },
+    {
+      "start": 1380.23,
+      "end": 1380.39,
+      "text": "Não"
+    },
+    {
+      "start": 1380.39,
+      "end": 1380.61,
+      "text": "há."
+    },
+    {
+      "start": 1638.53,
+      "end": 1638.93,
+      "text": "."
+    }
+  ]
+}

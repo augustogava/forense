@@ -1,0 +1,37 @@
+{
+  "source_file": "VOR20260508104748_0805_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:22:02,00:22:03": ".",
+    "00:25:25,00:25:26": "Não.",
+    "00:26:42,00:26:43": "Valeu, santo pão!"
+  },
+  "words": [
+    {
+      "start": 1322.72,
+      "end": 1323.28,
+      "text": "."
+    },
+    {
+      "start": 1525.54,
+      "end": 1526.84,
+      "text": "Não."
+    },
+    {
+      "start": 1602.75,
+      "end": 1602.93,
+      "text": "Valeu,"
+    },
+    {
+      "start": 1602.93,
+      "end": 1603.09,
+      "text": "santo"
+    },
+    {
+      "start": 1603.09,
+      "end": 1603.27,
+      "text": "pão!"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "source_file": "VOR20260508111751_0805_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1153.0,
+  "segments": {
+    "00:00:10,00:00:11": "Música",
+    "00:00:42,00:00:43": "Música",
+    "00:04:08,00:04:09": "Não está tão cheio."
+  },
+  "words": [
+    {
+      "start": 10.23,
+      "end": 11.63,
+      "text": "Música",
+      "probability": 0.398
+    },
+    {
+      "start": 42.16,
+      "end": 43.56,
+      "text": "Música",
+      "probability": 0.535
+    },
+    {
+      "start": 248.52,
+      "end": 248.66,
+      "text": "Não",
+      "probability": 0.088
+    },
+    {
+      "start": 248.66,
+      "end": 248.94,
+      "text": "está",
+      "probability": 0.075
+    },
+    {
+      "start": 248.94,
+      "end": 249.3,
+      "text": "tão",
+      "probability": 0.201
+    },
+    {
+      "start": 249.3,
+      "end": 249.84,
+      "text": "cheio.",
+      "probability": 0.711
+    }
+  ]
+}

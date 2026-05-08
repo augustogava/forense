@@ -1,0 +1,96 @@
+{
+  "source_file": "VOR20260508101747_0805_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:12:28,00:13:30": "Eu quero que você fale sobre isso.",
+    "00:13:30,00:13:30": "Eu quero que você fale sobre isso."
+  },
+  "hallucinations_filtered": 3,
+  "words": [
+    {
+      "start": 748.27,
+      "end": 748.92,
+      "text": "Eu",
+      "confidence": 0.099
+    },
+    {
+      "start": 748.92,
+      "end": 749.46,
+      "text": "quero",
+      "confidence": 0.342
+    },
+    {
+      "start": 809.66,
+      "end": 809.68,
+      "text": "que",
+      "confidence": 0.422
+    },
+    {
+      "start": 809.68,
+      "end": 809.7,
+      "text": "você",
+      "confidence": 0.653
+    },
+    {
+      "start": 809.7,
+      "end": 809.92,
+      "text": "fale",
+      "confidence": 0.417
+    },
+    {
+      "start": 809.92,
+      "end": 809.98,
+      "text": "sobre",
+      "confidence": 0.832
+    },
+    {
+      "start": 809.98,
+      "end": 810.24,
+      "text": "isso.",
+      "confidence": 0.531
+    },
+    {
+      "start": 810.24,
+      "end": 810.26,
+      "text": "Eu",
+      "confidence": 0.128
+    },
+    {
+      "start": 810.26,
+      "end": 810.28,
+      "text": "quero",
+      "confidence": 0.554
+    },
+    {
+      "start": 810.28,
+      "end": 810.3,
+      "text": "que",
+      "confidence": 0.736
+    },
+    {
+      "start": 810.3,
+      "end": 810.32,
+      "text": "você",
+      "confidence": 0.765
+    },
+    {
+      "start": 810.32,
+      "end": 810.34,
+      "text": "fale",
+      "confidence": 0.87
+    },
+    {
+      "start": 810.34,
+      "end": 810.36,
+      "text": "sobre",
+      "confidence": 0.929
+    },
+    {
+      "start": 810.36,
+      "end": 810.38,
+      "text": "isso.",
+      "confidence": 0.915
+    }
+  ]
+}

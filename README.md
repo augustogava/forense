@@ -395,9 +395,10 @@ python forensic_audio_ai.py -i "audio_processed/Banho0705_whisper_vad.mp3" -o "t
 python forensic_audio_transcriber.py -i "to_ia_processed/" -m large-v3 --word-timestamps
 
 
-python forensic_audio_ai.py -i "to_ia/" -o "to_ia_processed/"
+python forensic_audio_processor.py -i "to_ia2/
+python forensic_audio_ai.py -i "to_ia2/" -o "to_ia_processed/"
 python forensic_audio_transcriber.py -i "to_transcript/
 
-python forensic_audio_transcriber.py -i to_transcript/ --word-timestamps
-python forensic_audio_transcriber_v2.py -i to_transcript/ -o transcriptions_v2 --word-timestamps
-python forensic_audio_transcriber_v3.py -i to_transcript -o transcriptions_v3 --word-timestamps
+python forensic_audio_transcriber.py -i to_transcript2/ --word-timestamps
+python forensic_audio_transcriber_v2.py -i to_transcript2/ -o transcriptions_v2 --word-timestamps
+python forensic_audio_transcriber_v3.py -i to_transcript2 -o transcriptions_v3 --word-timestamps

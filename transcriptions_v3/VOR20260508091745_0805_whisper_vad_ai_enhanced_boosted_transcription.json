@@ -1,0 +1,153 @@
+{
+  "source_file": "VOR20260508091745_0805_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:24:24,00:24:32": "Você não pode liberar de forma unilaterada a brinca com a rebuínda totalita,",
+    "00:24:33,00:24:35": "nem tem reciprocidade no movimento.",
+    "00:27:06,00:27:07": "Música",
+    "00:27:39,00:27:41": "Música",
+    "00:29:48,00:29:51": "Não me recebam"
+  },
+  "hallucinations_filtered": 4,
+  "words": [
+    {
+      "start": 1464.37,
+      "end": 1464.75,
+      "text": "Você",
+      "confidence": 0.732
+    },
+    {
+      "start": 1464.75,
+      "end": 1464.89,
+      "text": "não",
+      "confidence": 0.998
+    },
+    {
+      "start": 1464.89,
+      "end": 1465.17,
+      "text": "pode",
+      "confidence": 0.998
+    },
+    {
+      "start": 1465.17,
+      "end": 1465.79,
+      "text": "liberar",
+      "confidence": 0.974
+    },
+    {
+      "start": 1465.79,
+      "end": 1465.93,
+      "text": "de",
+      "confidence": 0.75
+    },
+    {
+      "start": 1465.93,
+      "end": 1466.31,
+      "text": "forma",
+      "confidence": 0.683
+    },
+    {
+      "start": 1466.31,
+      "end": 1468.65,
+      "text": "unilaterada",
+      "confidence": 0.594
+    },
+    {
+      "start": 1468.65,
+      "end": 1469.15,
+      "text": "a",
+      "confidence": 0.781
+    },
+    {
+      "start": 1469.15,
+      "end": 1469.69,
+      "text": "brinca",
+      "confidence": 0.683
+    },
+    {
+      "start": 1469.69,
+      "end": 1469.91,
+      "text": "com",
+      "confidence": 0.369
+    },
+    {
+      "start": 1469.91,
+      "end": 1470.11,
+      "text": "a",
+      "confidence": 0.666
+    },
+    {
+      "start": 1470.11,
+      "end": 1471.97,
+      "text": "rebuínda",
+      "confidence": 0.335
+    },
+    {
+      "start": 1471.97,
+      "end": 1472.57,
+      "text": "totalita,",
+      "confidence": 0.752
+    },
+    {
+      "start": 1473.25,
+      "end": 1473.39,
+      "text": "nem",
+      "confidence": 0.369
+    },
+    {
+      "start": 1473.39,
+      "end": 1473.71,
+      "text": "tem",
+      "confidence": 0.854
+    },
+    {
+      "start": 1473.71,
+      "end": 1474.65,
+      "text": "reciprocidade",
+      "confidence": 1.0
+    },
+    {
+      "start": 1474.65,
+      "end": 1475.07,
+      "text": "no",
+      "confidence": 0.936
+    },
+    {
+      "start": 1475.07,
+      "end": 1475.43,
+      "text": "movimento.",
+      "confidence": 0.993
+    },
+    {
+      "start": 1626.49,
+      "end": 1627.09,
+      "text": "Música",
+      "confidence": 0.338
+    },
+    {
+      "start": 1659.15,
+      "end": 1661.79,
+      "text": "Música",
+      "confidence": 0.356
+    },
+    {
+      "start": 1788.23,
+      "end": 1788.81,
+      "text": "Não",
+      "confidence": 0.167
+    },
+    {
+      "start": 1788.81,
+      "end": 1789.23,
+      "text": "me",
+      "confidence": 0.196
+    },
+    {
+      "start": 1789.23,
+      "end": 1791.47,
+      "text": "recebam",
+      "confidence": 0.742
+    }
+  ]
+}

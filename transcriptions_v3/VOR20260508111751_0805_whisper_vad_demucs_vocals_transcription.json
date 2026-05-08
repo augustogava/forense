@@ -1,0 +1,367 @@
+{
+  "source_file": "VOR20260508111751_0805_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:03:58,00:03:59": "Vem, seu policial!",
+    "00:04:08,00:04:09": "Vem, seu policial!",
+    "00:04:12,00:04:14": "Eu não quero ser feliz",
+    "00:04:14,00:04:16": "Na noite passada",
+    "00:04:16,00:04:17": "Eu quero ser feliz",
+    "00:04:18,00:04:19": "Eu deixo o interno",
+    "00:04:20,00:04:21": "Me virou da vez",
+    "00:04:21,00:04:22": "Me fez ver o caminho",
+    "00:04:22,00:04:25": "Seu meu amor, você",
+    "00:04:26,00:04:27": "A unha fez estrada",
+    "00:04:27,00:04:29": "Na minha porta",
+    "00:04:29,00:04:31": "Sua boca na minha boca",
+    "00:04:31,00:04:32": "Fez esforço",
+    "00:04:32,00:04:34": "Esqueço meu aniversário",
+    "00:04:34,00:04:36": "Vou dar o meu lugar"
+  },
+  "hallucinations_filtered": 3,
+  "words": [
+    {
+      "start": 238.21,
+      "end": 238.61,
+      "text": "Vem,",
+      "confidence": 0.331
+    },
+    {
+      "start": 238.71,
+      "end": 238.85,
+      "text": "seu",
+      "confidence": 0.651
+    },
+    {
+      "start": 238.85,
+      "end": 239.27,
+      "text": "policial!",
+      "confidence": 0.988
+    },
+    {
+      "start": 248.25,
+      "end": 248.61,
+      "text": "Vem,",
+      "confidence": 0.763
+    },
+    {
+      "start": 248.61,
+      "end": 248.93,
+      "text": "seu",
+      "confidence": 0.807
+    },
+    {
+      "start": 248.93,
+      "end": 249.19,
+      "text": "policial!",
+      "confidence": 0.995
+    },
+    {
+      "start": 252.84,
+      "end": 252.94,
+      "text": "Eu",
+      "confidence": 0.521
+    },
+    {
+      "start": 252.94,
+      "end": 253.14,
+      "text": "não",
+      "confidence": 0.816
+    },
+    {
+      "start": 253.14,
+      "end": 253.58,
+      "text": "quero",
+      "confidence": 0.979
+    },
+    {
+      "start": 253.58,
+      "end": 253.82,
+      "text": "ser",
+      "confidence": 0.573
+    },
+    {
+      "start": 253.82,
+      "end": 254.38,
+      "text": "feliz",
+      "confidence": 0.785
+    },
+    {
+      "start": 254.54,
+      "end": 255.16,
+      "text": "Na",
+      "confidence": 0.771
+    },
+    {
+      "start": 255.16,
+      "end": 255.54,
+      "text": "noite",
+      "confidence": 0.999
+    },
+    {
+      "start": 255.54,
+      "end": 256.25,
+      "text": "passada",
+      "confidence": 0.994
+    },
+    {
+      "start": 256.25,
+      "end": 256.78,
+      "text": "Eu",
+      "confidence": 0.891
+    },
+    {
+      "start": 256.78,
+      "end": 257.12,
+      "text": "quero",
+      "confidence": 0.962
+    },
+    {
+      "start": 257.12,
+      "end": 257.46,
+      "text": "ser",
+      "confidence": 0.97
+    },
+    {
+      "start": 257.46,
+      "end": 257.96,
+      "text": "feliz",
+      "confidence": 0.921
+    },
+    {
+      "start": 258.52,
+      "end": 258.74,
+      "text": "Eu",
+      "confidence": 0.484
+    },
+    {
+      "start": 258.74,
+      "end": 259.22,
+      "text": "deixo",
+      "confidence": 0.551
+    },
+    {
+      "start": 259.22,
+      "end": 259.24,
+      "text": "o",
+      "confidence": 0.582
+    },
+    {
+      "start": 259.24,
+      "end": 259.9,
+      "text": "interno",
+      "confidence": 0.308
+    },
+    {
+      "start": 260.06,
+      "end": 260.42,
+      "text": "Me",
+      "confidence": 0.664
+    },
+    {
+      "start": 260.42,
+      "end": 261.06,
+      "text": "virou",
+      "confidence": 0.625
+    },
+    {
+      "start": 261.06,
+      "end": 261.18,
+      "text": "da",
+      "confidence": 0.863
+    },
+    {
+      "start": 261.18,
+      "end": 261.54,
+      "text": "vez",
+      "confidence": 0.992
+    },
+    {
+      "start": 261.56,
+      "end": 261.84,
+      "text": "Me",
+      "confidence": 0.843
+    },
+    {
+      "start": 261.84,
+      "end": 262.14,
+      "text": "fez",
+      "confidence": 0.993
+    },
+    {
+      "start": 262.14,
+      "end": 262.3,
+      "text": "ver",
+      "confidence": 0.618
+    },
+    {
+      "start": 262.3,
+      "end": 262.54,
+      "text": "o",
+      "confidence": 0.237
+    },
+    {
+      "start": 262.54,
+      "end": 262.82,
+      "text": "caminho",
+      "confidence": 0.603
+    },
+    {
+      "start": 262.88,
+      "end": 263.62,
+      "text": "Seu",
+      "confidence": 0.469
+    },
+    {
+      "start": 263.62,
+      "end": 263.92,
+      "text": "meu",
+      "confidence": 0.417
+    },
+    {
+      "start": 263.92,
+      "end": 264.44,
+      "text": "amor,",
+      "confidence": 0.315
+    },
+    {
+      "start": 264.66,
+      "end": 265.0,
+      "text": "você",
+      "confidence": 0.357
+    },
+    {
+      "start": 266.18,
+      "end": 266.36,
+      "text": "A",
+      "confidence": 0.285
+    },
+    {
+      "start": 266.36,
+      "end": 266.86,
+      "text": "unha",
+      "confidence": 0.664
+    },
+    {
+      "start": 266.86,
+      "end": 267.18,
+      "text": "fez",
+      "confidence": 0.89
+    },
+    {
+      "start": 267.18,
+      "end": 267.93,
+      "text": "estrada",
+      "confidence": 0.973
+    },
+    {
+      "start": 267.93,
+      "end": 268.34,
+      "text": "Na",
+      "confidence": 0.966
+    },
+    {
+      "start": 268.34,
+      "end": 268.7,
+      "text": "minha",
+      "confidence": 0.997
+    },
+    {
+      "start": 268.7,
+      "end": 269.24,
+      "text": "porta",
+      "confidence": 0.419
+    },
+    {
+      "start": 269.72,
+      "end": 269.98,
+      "text": "Sua",
+      "confidence": 0.94
+    },
+    {
+      "start": 269.98,
+      "end": 270.26,
+      "text": "boca",
+      "confidence": 0.989
+    },
+    {
+      "start": 270.26,
+      "end": 270.5,
+      "text": "na",
+      "confidence": 0.909
+    },
+    {
+      "start": 270.5,
+      "end": 270.9,
+      "text": "minha",
+      "confidence": 1.0
+    },
+    {
+      "start": 270.9,
+      "end": 271.42,
+      "text": "boca",
+      "confidence": 0.997
+    },
+    {
+      "start": 271.42,
+      "end": 272.04,
+      "text": "Fez",
+      "confidence": 0.754
+    },
+    {
+      "start": 272.04,
+      "end": 272.68,
+      "text": "esforço",
+      "confidence": 0.721
+    },
+    {
+      "start": 272.7,
+      "end": 273.34,
+      "text": "Esqueço",
+      "confidence": 0.87
+    },
+    {
+      "start": 273.34,
+      "end": 273.52,
+      "text": "meu",
+      "confidence": 0.783
+    },
+    {
+      "start": 273.52,
+      "end": 274.72,
+      "text": "aniversário",
+      "confidence": 0.774
+    },
+    {
+      "start": 274.72,
+      "end": 275.06,
+      "text": "Vou",
+      "confidence": 0.389
+    },
+    {
+      "start": 275.06,
+      "end": 275.38,
+      "text": "dar",
+      "confidence": 0.986
+    },
+    {
+      "start": 275.38,
+      "end": 275.48,
+      "text": "o",
+      "confidence": 0.485
+    },
+    {
+      "start": 275.48,
+      "end": 275.78,
+      "text": "meu",
+      "confidence": 0.917
+    },
+    {
+      "start": 275.78,
+      "end": 276.26,
+      "text": "lugar",
+      "confidence": 0.072
+    }
+  ]
+}

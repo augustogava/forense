@@ -1,0 +1,371 @@
+{
+  "source_file": "VOR20260508091745_0805_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1800.0,
+  "segments": {
+    "00:24:22,00:24:24": "Ela tem que ser de mão dupla.",
+    "00:24:24,00:24:32": "Você não pode liberar de forma unilateral, abrindo as suas, reduzindo as suas tarifas,",
+    "00:24:32,00:24:35": "sem ter reciprocidade no movimento.",
+    "00:27:10,00:27:12": "Música",
+    "00:27:12,00:27:12": "Tchau.",
+    "00:28:56,00:28:56": "MÚSICA",
+    "00:28:57,00:29:51": "Não sei o que eu estou dizendo, mas eu não sei o que eu estou dizendo, não sei o que eu estou dizendo, não sei o que eu estou dizendo."
+  },
+  "words": [
+    {
+      "start": 1462.87,
+      "end": 1463.09,
+      "text": "Ela",
+      "probability": 0.366
+    },
+    {
+      "start": 1463.09,
+      "end": 1463.39,
+      "text": "tem",
+      "probability": 0.998
+    },
+    {
+      "start": 1463.39,
+      "end": 1463.49,
+      "text": "que",
+      "probability": 0.971
+    },
+    {
+      "start": 1463.49,
+      "end": 1463.65,
+      "text": "ser",
+      "probability": 0.998
+    },
+    {
+      "start": 1463.65,
+      "end": 1463.77,
+      "text": "de",
+      "probability": 0.997
+    },
+    {
+      "start": 1463.77,
+      "end": 1463.87,
+      "text": "mão",
+      "probability": 0.471
+    },
+    {
+      "start": 1463.87,
+      "end": 1464.25,
+      "text": "dupla.",
+      "probability": 1.0
+    },
+    {
+      "start": 1464.39,
+      "end": 1464.77,
+      "text": "Você",
+      "probability": 0.995
+    },
+    {
+      "start": 1464.77,
+      "end": 1464.93,
+      "text": "não",
+      "probability": 0.998
+    },
+    {
+      "start": 1464.93,
+      "end": 1465.15,
+      "text": "pode",
+      "probability": 0.998
+    },
+    {
+      "start": 1465.15,
+      "end": 1465.77,
+      "text": "liberar",
+      "probability": 0.9
+    },
+    {
+      "start": 1465.77,
+      "end": 1465.95,
+      "text": "de",
+      "probability": 0.975
+    },
+    {
+      "start": 1465.95,
+      "end": 1466.29,
+      "text": "forma",
+      "probability": 0.998
+    },
+    {
+      "start": 1466.29,
+      "end": 1468.31,
+      "text": "unilateral,",
+      "probability": 0.998
+    },
+    {
+      "start": 1468.71,
+      "end": 1469.53,
+      "text": "abrindo",
+      "probability": 0.899
+    },
+    {
+      "start": 1469.53,
+      "end": 1469.77,
+      "text": "as",
+      "probability": 0.951
+    },
+    {
+      "start": 1469.77,
+      "end": 1470.09,
+      "text": "suas,",
+      "probability": 1.0
+    },
+    {
+      "start": 1470.25,
+      "end": 1471.81,
+      "text": "reduzindo",
+      "probability": 0.998
+    },
+    {
+      "start": 1471.81,
+      "end": 1471.95,
+      "text": "as",
+      "probability": 0.999
+    },
+    {
+      "start": 1471.95,
+      "end": 1472.11,
+      "text": "suas",
+      "probability": 1.0
+    },
+    {
+      "start": 1472.11,
+      "end": 1472.71,
+      "text": "tarifas,",
+      "probability": 0.999
+    },
+    {
+      "start": 1472.75,
+      "end": 1473.35,
+      "text": "sem",
+      "probability": 0.992
+    },
+    {
+      "start": 1473.35,
+      "end": 1473.61,
+      "text": "ter",
+      "probability": 0.993
+    },
+    {
+      "start": 1473.61,
+      "end": 1474.67,
+      "text": "reciprocidade",
+      "probability": 0.891
+    },
+    {
+      "start": 1474.67,
+      "end": 1474.99,
+      "text": "no",
+      "probability": 0.745
+    },
+    {
+      "start": 1474.99,
+      "end": 1475.39,
+      "text": "movimento.",
+      "probability": 1.0
+    },
+    {
+      "start": 1630.69,
+      "end": 1632.09,
+      "text": "Música",
+      "probability": 0.461
+    },
+    {
+      "start": 1632.09,
+      "end": 1632.79,
+      "text": "Tchau.",
+      "probability": 0.502
+    },
+    {
+      "start": 1736.17,
+      "end": 1736.87,
+      "text": "MÚSICA",
+      "probability": 0.543
+    },
+    {
+      "start": 1737.59,
+      "end": 1737.99,
+      "text": "Não",
+      "probability": 0.077
+    },
+    {
+      "start": 1737.99,
+      "end": 1738.39,
+      "text": "sei",
+      "probability": 0.703
+    },
+    {
+      "start": 1738.39,
+      "end": 1738.73,
+      "text": "o",
+      "probability": 0.354
+    },
+    {
+      "start": 1738.73,
+      "end": 1739.19,
+      "text": "que",
+      "probability": 0.967
+    },
+    {
+      "start": 1739.19,
+      "end": 1739.43,
+      "text": "eu",
+      "probability": 0.167
+    },
+    {
+      "start": 1739.43,
+      "end": 1739.43,
+      "text": "estou",
+      "probability": 0.176
+    },
+    {
+      "start": 1739.43,
+      "end": 1739.81,
+      "text": "dizendo,",
+      "probability": 0.338
+    },
+    {
+      "start": 1739.91,
+      "end": 1741.45,
+      "text": "mas",
+      "probability": 0.464
+    },
+    {
+      "start": 1741.48,
+      "end": 1741.96,
+      "text": "eu",
+      "probability": 0.558
+    },
+    {
+      "start": 1741.96,
+      "end": 1742.4,
+      "text": "não",
+      "probability": 0.363
+    },
+    {
+      "start": 1742.4,
+      "end": 1743.1,
+      "text": "sei",
+      "probability": 0.922
+    },
+    {
+      "start": 1743.1,
+      "end": 1743.82,
+      "text": "o",
+      "probability": 0.303
+    },
+    {
+      "start": 1743.82,
+      "end": 1743.96,
+      "text": "que",
+      "probability": 0.991
+    },
+    {
+      "start": 1743.96,
+      "end": 1743.96,
+      "text": "eu",
+      "probability": 0.877
+    },
+    {
+      "start": 1743.96,
+      "end": 1743.96,
+      "text": "estou",
+      "probability": 0.884
+    },
+    {
+      "start": 1743.96,
+      "end": 1743.96,
+      "text": "dizendo,",
+      "probability": 0.809
+    },
+    {
+      "start": 1743.96,
+      "end": 1745.72,
+      "text": "não",
+      "probability": 0.41
+    },
+    {
+      "start": 1745.72,
+      "end": 1747.46,
+      "text": "sei",
+      "probability": 0.975
+    },
+    {
+      "start": 1776.36,
+      "end": 1776.58,
+      "text": "o",
+      "probability": 0.843
+    },
+    {
+      "start": 1776.58,
+      "end": 1776.96,
+      "text": "que",
+      "probability": 0.997
+    },
+    {
+      "start": 1776.96,
+      "end": 1777.26,
+      "text": "eu",
+      "probability": 0.935
+    },
+    {
+      "start": 1777.26,
+      "end": 1777.58,
+      "text": "estou",
+      "probability": 0.958
+    },
+    {
+      "start": 1777.58,
+      "end": 1777.94,
+      "text": "dizendo,",
+      "probability": 0.967
+    },
+    {
+      "start": 1778.06,
+      "end": 1778.6,
+      "text": "não",
+      "probability": 0.8
+    },
+    {
+      "start": 1778.6,
+      "end": 1779.5,
+      "text": "sei",
+      "probability": 0.995
+    },
+    {
+      "start": 1779.5,
+      "end": 1779.92,
+      "text": "o",
+      "probability": 0.914
+    },
+    {
+      "start": 1779.92,
+      "end": 1780.12,
+      "text": "que",
+      "probability": 0.999
+    },
+    {
+      "start": 1780.12,
+      "end": 1780.12,
+      "text": "eu",
+      "probability": 0.992
+    },
+    {
+      "start": 1780.12,
+      "end": 1780.58,
+      "text": "estou",
+      "probability": 0.984
+    },
+    {
+      "start": 1780.58,
+      "end": 1791.42,
+      "text": "dizendo.",
+      "probability": 0.997
+    }
+  ]
+}

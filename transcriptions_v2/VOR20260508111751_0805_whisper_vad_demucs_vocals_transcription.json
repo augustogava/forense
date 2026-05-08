@@ -1,0 +1,633 @@
+{
+  "source_file": "VOR20260508111751_0805_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1153.0,
+  "segments": {
+    "00:01:03,00:01:05": "Música",
+    "00:01:05,00:01:06": "Música",
+    "00:04:09,00:04:18": "O que é que você fez na noite passada, o que é que você fez?",
+    "00:04:18,00:04:24": "Meu beijão em pé com o vídeo da vez que fez meu cabelo ser o meu a você",
+    "00:04:25,00:04:32": "A unha fez estrada na minha boca, sua boca na minha boca fez esforço",
+    "00:04:32,00:04:49": "Esqueço o meu aniversário, o dado meu estou",
+    "00:04:52,00:04:55": "Fazendo bem com o que tem no meu coração",
+    "00:04:57,00:04:59": "Menina do olho na rua",
+    "00:05:00,00:05:03": "Eu sou o que me arrasta, o que me decora",
+    "00:05:03,00:05:09": "E vai não fazer mais nada, vou fazendo bem com o que tem no meu coração",
+    "00:05:11,00:05:13": "Menina do olho na rua"
+  },
+  "words": [
+    {
+      "start": 63.96,
+      "end": 65.36,
+      "text": "Música",
+      "probability": 0.436
+    },
+    {
+      "start": 65.58,
+      "end": 66.08,
+      "text": "Música",
+      "probability": 0.687
+    },
+    {
+      "start": 249.47,
+      "end": 250.19,
+      "text": "O",
+      "probability": 0.043
+    },
+    {
+      "start": 252.59,
+      "end": 253.31,
+      "text": "que",
+      "probability": 0.886
+    },
+    {
+      "start": 253.31,
+      "end": 253.57,
+      "text": "é",
+      "probability": 0.214
+    },
+    {
+      "start": 253.57,
+      "end": 253.65,
+      "text": "que",
+      "probability": 0.934
+    },
+    {
+      "start": 253.65,
+      "end": 253.91,
+      "text": "você",
+      "probability": 0.752
+    },
+    {
+      "start": 253.91,
+      "end": 254.45,
+      "text": "fez",
+      "probability": 0.985
+    },
+    {
+      "start": 254.45,
+      "end": 255.13,
+      "text": "na",
+      "probability": 0.371
+    },
+    {
+      "start": 255.13,
+      "end": 255.49,
+      "text": "noite",
+      "probability": 0.999
+    },
+    {
+      "start": 255.49,
+      "end": 256.49,
+      "text": "passada,",
+      "probability": 0.999
+    },
+    {
+      "start": 256.51,
+      "end": 256.81,
+      "text": "o",
+      "probability": 0.972
+    },
+    {
+      "start": 256.81,
+      "end": 256.97,
+      "text": "que",
+      "probability": 0.998
+    },
+    {
+      "start": 256.97,
+      "end": 257.15,
+      "text": "é",
+      "probability": 0.997
+    },
+    {
+      "start": 257.15,
+      "end": 257.23,
+      "text": "que",
+      "probability": 1.0
+    },
+    {
+      "start": 257.23,
+      "end": 257.43,
+      "text": "você",
+      "probability": 0.998
+    },
+    {
+      "start": 257.43,
+      "end": 258.11,
+      "text": "fez?",
+      "probability": 1.0
+    },
+    {
+      "start": 258.23,
+      "end": 258.73,
+      "text": "Meu",
+      "probability": 0.258
+    },
+    {
+      "start": 258.73,
+      "end": 259.31,
+      "text": "beijão",
+      "probability": 0.815
+    },
+    {
+      "start": 259.31,
+      "end": 259.45,
+      "text": "em",
+      "probability": 0.495
+    },
+    {
+      "start": 259.45,
+      "end": 259.71,
+      "text": "pé",
+      "probability": 0.841
+    },
+    {
+      "start": 259.71,
+      "end": 260.07,
+      "text": "com",
+      "probability": 0.409
+    },
+    {
+      "start": 260.07,
+      "end": 260.15,
+      "text": "o",
+      "probability": 0.212
+    },
+    {
+      "start": 260.15,
+      "end": 260.61,
+      "text": "vídeo",
+      "probability": 0.407
+    },
+    {
+      "start": 260.61,
+      "end": 261.13,
+      "text": "da",
+      "probability": 0.842
+    },
+    {
+      "start": 261.13,
+      "end": 261.49,
+      "text": "vez",
+      "probability": 0.897
+    },
+    {
+      "start": 261.49,
+      "end": 261.77,
+      "text": "que",
+      "probability": 0.856
+    },
+    {
+      "start": 261.77,
+      "end": 262.09,
+      "text": "fez",
+      "probability": 0.991
+    },
+    {
+      "start": 262.09,
+      "end": 262.39,
+      "text": "meu",
+      "probability": 0.801
+    },
+    {
+      "start": 262.39,
+      "end": 263.11,
+      "text": "cabelo",
+      "probability": 0.66
+    },
+    {
+      "start": 263.11,
+      "end": 263.51,
+      "text": "ser",
+      "probability": 0.762
+    },
+    {
+      "start": 263.51,
+      "end": 263.69,
+      "text": "o",
+      "probability": 0.786
+    },
+    {
+      "start": 263.69,
+      "end": 263.91,
+      "text": "meu",
+      "probability": 0.962
+    },
+    {
+      "start": 263.91,
+      "end": 264.35,
+      "text": "a",
+      "probability": 0.552
+    },
+    {
+      "start": 264.35,
+      "end": 264.79,
+      "text": "você",
+      "probability": 0.979
+    },
+    {
+      "start": 265.57,
+      "end": 266.29,
+      "text": "A",
+      "probability": 0.119
+    },
+    {
+      "start": 266.29,
+      "end": 266.81,
+      "text": "unha",
+      "probability": 0.938
+    },
+    {
+      "start": 266.81,
+      "end": 267.11,
+      "text": "fez",
+      "probability": 0.736
+    },
+    {
+      "start": 267.11,
+      "end": 268.03,
+      "text": "estrada",
+      "probability": 0.987
+    },
+    {
+      "start": 268.03,
+      "end": 268.37,
+      "text": "na",
+      "probability": 0.994
+    },
+    {
+      "start": 268.37,
+      "end": 268.73,
+      "text": "minha",
+      "probability": 0.998
+    },
+    {
+      "start": 268.73,
+      "end": 269.25,
+      "text": "boca,",
+      "probability": 0.277
+    },
+    {
+      "start": 269.49,
+      "end": 269.83,
+      "text": "sua",
+      "probability": 0.805
+    },
+    {
+      "start": 269.83,
+      "end": 270.17,
+      "text": "boca",
+      "probability": 0.983
+    },
+    {
+      "start": 270.17,
+      "end": 270.49,
+      "text": "na",
+      "probability": 0.965
+    },
+    {
+      "start": 270.49,
+      "end": 270.91,
+      "text": "minha",
+      "probability": 1.0
+    },
+    {
+      "start": 270.91,
+      "end": 271.37,
+      "text": "boca",
+      "probability": 0.999
+    },
+    {
+      "start": 271.37,
+      "end": 271.91,
+      "text": "fez",
+      "probability": 0.846
+    },
+    {
+      "start": 271.91,
+      "end": 272.65,
+      "text": "esforço",
+      "probability": 0.755
+    },
+    {
+      "start": 272.65,
+      "end": 273.41,
+      "text": "Esqueço",
+      "probability": 0.644
+    },
+    {
+      "start": 273.41,
+      "end": 273.43,
+      "text": "o",
+      "probability": 0.186
+    },
+    {
+      "start": 273.43,
+      "end": 273.63,
+      "text": "meu",
+      "probability": 0.998
+    },
+    {
+      "start": 273.63,
+      "end": 274.85,
+      "text": "aniversário,",
+      "probability": 0.955
+    },
+    {
+      "start": 274.85,
+      "end": 275.03,
+      "text": "o",
+      "probability": 0.344
+    },
+    {
+      "start": 275.03,
+      "end": 275.39,
+      "text": "dado",
+      "probability": 0.245
+    },
+    {
+      "start": 275.39,
+      "end": 275.79,
+      "text": "meu",
+      "probability": 0.157
+    },
+    {
+      "start": 289.26,
+      "end": 289.78,
+      "text": "estou",
+      "probability": 0.44
+    },
+    {
+      "start": 292.2,
+      "end": 292.84,
+      "text": "Fazendo",
+      "probability": 0.648
+    },
+    {
+      "start": 292.84,
+      "end": 293.12,
+      "text": "bem",
+      "probability": 0.579
+    },
+    {
+      "start": 293.12,
+      "end": 293.32,
+      "text": "com",
+      "probability": 0.718
+    },
+    {
+      "start": 293.32,
+      "end": 293.5,
+      "text": "o",
+      "probability": 0.341
+    },
+    {
+      "start": 293.5,
+      "end": 293.7,
+      "text": "que",
+      "probability": 0.364
+    },
+    {
+      "start": 293.7,
+      "end": 293.96,
+      "text": "tem",
+      "probability": 0.598
+    },
+    {
+      "start": 293.96,
+      "end": 294.32,
+      "text": "no",
+      "probability": 0.421
+    },
+    {
+      "start": 294.32,
+      "end": 294.7,
+      "text": "meu",
+      "probability": 0.254
+    },
+    {
+      "start": 294.7,
+      "end": 295.14,
+      "text": "coração",
+      "probability": 0.26
+    },
+    {
+      "start": 297.27,
+      "end": 297.91,
+      "text": "Menina",
+      "probability": 0.761
+    },
+    {
+      "start": 297.91,
+      "end": 298.13,
+      "text": "do",
+      "probability": 0.614
+    },
+    {
+      "start": 298.13,
+      "end": 298.49,
+      "text": "olho",
+      "probability": 0.597
+    },
+    {
+      "start": 298.49,
+      "end": 298.87,
+      "text": "na",
+      "probability": 0.349
+    },
+    {
+      "start": 298.87,
+      "end": 299.33,
+      "text": "rua",
+      "probability": 0.363
+    },
+    {
+      "start": 300.17,
+      "end": 300.49,
+      "text": "Eu",
+      "probability": 0.624
+    },
+    {
+      "start": 300.49,
+      "end": 301.01,
+      "text": "sou",
+      "probability": 0.701
+    },
+    {
+      "start": 301.01,
+      "end": 301.07,
+      "text": "o",
+      "probability": 0.268
+    },
+    {
+      "start": 301.07,
+      "end": 301.31,
+      "text": "que",
+      "probability": 0.152
+    },
+    {
+      "start": 301.31,
+      "end": 301.53,
+      "text": "me",
+      "probability": 0.67
+    },
+    {
+      "start": 301.53,
+      "end": 301.97,
+      "text": "arrasta,",
+      "probability": 0.624
+    },
+    {
+      "start": 302.05,
+      "end": 302.31,
+      "text": "o",
+      "probability": 0.622
+    },
+    {
+      "start": 302.86,
+      "end": 303.06,
+      "text": "que",
+      "probability": 0.972
+    },
+    {
+      "start": 303.06,
+      "end": 303.3,
+      "text": "me",
+      "probability": 0.917
+    },
+    {
+      "start": 303.3,
+      "end": 303.94,
+      "text": "decora",
+      "probability": 0.55
+    },
+    {
+      "start": 303.94,
+      "end": 304.38,
+      "text": "E",
+      "probability": 0.822
+    },
+    {
+      "start": 304.38,
+      "end": 304.72,
+      "text": "vai",
+      "probability": 0.467
+    },
+    {
+      "start": 304.72,
+      "end": 304.94,
+      "text": "não",
+      "probability": 0.253
+    },
+    {
+      "start": 304.94,
+      "end": 305.26,
+      "text": "fazer",
+      "probability": 0.411
+    },
+    {
+      "start": 305.26,
+      "end": 305.58,
+      "text": "mais",
+      "probability": 0.451
+    },
+    {
+      "start": 305.58,
+      "end": 305.88,
+      "text": "nada,",
+      "probability": 0.521
+    },
+    {
+      "start": 306.08,
+      "end": 306.24,
+      "text": "vou",
+      "probability": 0.438
+    },
+    {
+      "start": 306.24,
+      "end": 306.7,
+      "text": "fazendo",
+      "probability": 0.736
+    },
+    {
+      "start": 306.7,
+      "end": 307.16,
+      "text": "bem",
+      "probability": 0.98
+    },
+    {
+      "start": 307.16,
+      "end": 307.32,
+      "text": "com",
+      "probability": 0.93
+    },
+    {
+      "start": 307.32,
+      "end": 307.48,
+      "text": "o",
+      "probability": 0.988
+    },
+    {
+      "start": 307.48,
+      "end": 307.72,
+      "text": "que",
+      "probability": 0.952
+    },
+    {
+      "start": 307.72,
+      "end": 307.9,
+      "text": "tem",
+      "probability": 0.966
+    },
+    {
+      "start": 307.9,
+      "end": 308.34,
+      "text": "no",
+      "probability": 0.994
+    },
+    {
+      "start": 308.34,
+      "end": 308.58,
+      "text": "meu",
+      "probability": 0.999
+    },
+    {
+      "start": 308.58,
+      "end": 309.16,
+      "text": "coração",
+      "probability": 0.948
+    },
+    {
+      "start": 311.18,
+      "end": 311.82,
+      "text": "Menina",
+      "probability": 0.986
+    },
+    {
+      "start": 311.82,
+      "end": 312.1,
+      "text": "do",
+      "probability": 1.0
+    },
+    {
+      "start": 312.1,
+      "end": 312.48,
+      "text": "olho",
+      "probability": 1.0
+    },
+    {
+      "start": 312.48,
+      "end": 312.88,
+      "text": "na",
+      "probability": 0.999
+    },
+    {
+      "start": 312.88,
+      "end": 313.78,
+      "text": "rua",
+      "probability": 0.993
+    }
+  ]
+}

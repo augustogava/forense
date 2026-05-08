@@ -1,0 +1,243 @@
+{
+  "source_file": "VOR20260508111751_0805_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:01": "Agradecimentos",
+    "00:00:40,00:00:41": "Atenção!",
+    "00:01:26,00:01:27": "Atenção!",
+    "00:03:38,00:03:39": "Assédio.",
+    "00:03:57,00:03:57": "O que é isso? Policena?",
+    "00:03:58,00:03:59": "Não, não é tudo!",
+    "00:04:08,00:04:09": "Não se atrache!",
+    "00:04:50,00:04:51": "Simpsons.",
+    "00:05:03,00:05:05": "E vai lançar a beleza",
+    "00:05:05,00:05:07": "Eu vou fazer do bem",
+    "00:05:07,00:05:08": "De tempo",
+    "00:05:10,00:05:12": "Vem me dar um olho",
+    "00:05:15,00:05:16": "Quem tá gostando",
+    "00:05:16,00:05:18": "Só me manda um barulho",
+    "00:11:55,00:11:55": "Atenção!"
+  },
+  "explicit_segments": {
+    "00:03:38,00:03:39": "Assédio."
+  },
+  "explicit_count": 1,
+  "words": [
+    {
+      "start": 0.61,
+      "end": 1.29,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 40.74,
+      "end": 41.8,
+      "text": "Atenção!"
+    },
+    {
+      "start": 86.58,
+      "end": 87.98,
+      "text": "Atenção!"
+    },
+    {
+      "start": 218.37,
+      "end": 219.03,
+      "text": "Assédio."
+    },
+    {
+      "start": 237.06,
+      "end": 237.3,
+      "text": "O"
+    },
+    {
+      "start": 237.3,
+      "end": 237.3,
+      "text": "que"
+    },
+    {
+      "start": 237.3,
+      "end": 237.3,
+      "text": "é"
+    },
+    {
+      "start": 237.3,
+      "end": 237.3,
+      "text": "isso?"
+    },
+    {
+      "start": 237.46,
+      "end": 237.94,
+      "text": "Policena?"
+    },
+    {
+      "start": 238.1,
+      "end": 238.4,
+      "text": "Não,"
+    },
+    {
+      "start": 238.66,
+      "end": 238.68,
+      "text": "não"
+    },
+    {
+      "start": 238.68,
+      "end": 238.92,
+      "text": "é"
+    },
+    {
+      "start": 238.92,
+      "end": 239.02,
+      "text": "tudo!"
+    },
+    {
+      "start": 248.71,
+      "end": 248.87,
+      "text": "Não"
+    },
+    {
+      "start": 248.87,
+      "end": 248.89,
+      "text": "se"
+    },
+    {
+      "start": 248.89,
+      "end": 249.57,
+      "text": "atrache!"
+    },
+    {
+      "start": 290.53,
+      "end": 291.11,
+      "text": "Simpsons."
+    },
+    {
+      "start": 303.65,
+      "end": 304.33,
+      "text": "E"
+    },
+    {
+      "start": 304.33,
+      "end": 304.69,
+      "text": "vai"
+    },
+    {
+      "start": 304.69,
+      "end": 305.19,
+      "text": "lançar"
+    },
+    {
+      "start": 305.19,
+      "end": 305.21,
+      "text": "a"
+    },
+    {
+      "start": 305.21,
+      "end": 305.47,
+      "text": "beleza"
+    },
+    {
+      "start": 305.47,
+      "end": 306.05,
+      "text": "Eu"
+    },
+    {
+      "start": 306.05,
+      "end": 306.27,
+      "text": "vou"
+    },
+    {
+      "start": 306.27,
+      "end": 306.59,
+      "text": "fazer"
+    },
+    {
+      "start": 306.59,
+      "end": 306.85,
+      "text": "do"
+    },
+    {
+      "start": 306.85,
+      "end": 307.15,
+      "text": "bem"
+    },
+    {
+      "start": 307.15,
+      "end": 307.65,
+      "text": "De"
+    },
+    {
+      "start": 307.65,
+      "end": 308.21,
+      "text": "tempo"
+    },
+    {
+      "start": 310.87,
+      "end": 311.55,
+      "text": "Vem"
+    },
+    {
+      "start": 311.55,
+      "end": 311.71,
+      "text": "me"
+    },
+    {
+      "start": 311.71,
+      "end": 311.97,
+      "text": "dar"
+    },
+    {
+      "start": 311.97,
+      "end": 312.13,
+      "text": "um"
+    },
+    {
+      "start": 312.13,
+      "end": 312.63,
+      "text": "olho"
+    },
+    {
+      "start": 315.07,
+      "end": 315.75,
+      "text": "Quem"
+    },
+    {
+      "start": 315.75,
+      "end": 316.43,
+      "text": "tá"
+    },
+    {
+      "start": 316.43,
+      "end": 316.81,
+      "text": "gostando"
+    },
+    {
+      "start": 316.81,
+      "end": 316.97,
+      "text": "Só"
+    },
+    {
+      "start": 316.97,
+      "end": 317.11,
+      "text": "me"
+    },
+    {
+      "start": 317.11,
+      "end": 317.37,
+      "text": "manda"
+    },
+    {
+      "start": 317.37,
+      "end": 317.37,
+      "text": "um"
+    },
+    {
+      "start": 317.37,
+      "end": 318.25,
+      "text": "barulho"
+    },
+    {
+      "start": 715.14,
+      "end": 715.42,
+      "text": "Atenção!"
+    }
+  ]
+}

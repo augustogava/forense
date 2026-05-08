@@ -1,0 +1,652 @@
+{
+  "source_file": "VOR20260508091745_0805_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:01:36,00:01:36": "Não.",
+    "00:02:04,00:02:04": "Atenção!",
+    "00:03:48,00:03:49": ".",
+    "00:07:39,00:07:39": "Não há problema.",
+    "00:09:11,00:09:12": "Ação.",
+    "00:10:53,00:10:54": "Até mais!",
+    "00:12:08,00:12:09": "Obrigado.",
+    "00:13:58,00:13:59": "Atenção!",
+    "00:24:18,00:24:18": ".",
+    "00:24:22,00:24:24": "Ela tem que ser de mão dupla.",
+    "00:24:24,00:24:32": "Você não pode liberar de forma unilaterada, abrindo a rua, reduzindo as tarifas,",
+    "00:24:33,00:24:35": "quem tem reciprocidade no movimento.",
+    "00:24:52,00:24:53": "Obrigado.",
+    "00:25:00,00:25:01": "Música",
+    "00:25:46,00:25:47": "Não tem sexo!",
+    "00:25:48,00:25:50": "Não tem sexo!",
+    "00:26:19,00:26:21": "Apenas o que você quer.",
+    "00:26:22,00:26:25": "Você pode me dar um nome.",
+    "00:26:25,00:26:27": "E eu vou.",
+    "00:26:27,00:26:28": "Eu vou.",
+    "00:26:28,00:26:29": "Eu vou.",
+    "00:27:00,00:27:07": "Acompanhe o processo de tradução em português e em português.",
+    "00:27:24,00:27:27": "Eu vou colocar essa em minha mão",
+    "00:27:27,00:27:30": "Eu vou fazer o que eu quero fazer no fim de semana",
+    "00:27:59,00:28:09": "Apenas o que você quer dizer. Eu tenho um braço branco, amor. E eu odeio o nome.",
+    "00:29:02,00:29:05": "E aí",
+    "00:29:05,00:29:05": "Obrigado.",
+    "00:29:08,00:29:09": "Não se esqueça de deixar seu like e compartilhar o vídeo."
+  },
+  "words": [
+    {
+      "start": 96.03,
+      "end": 96.29,
+      "text": "Não."
+    },
+    {
+      "start": 124.29,
+      "end": 124.79,
+      "text": "Atenção!"
+    },
+    {
+      "start": 228.96,
+      "end": 229.28,
+      "text": "."
+    },
+    {
+      "start": 459.33,
+      "end": 459.41,
+      "text": "Não"
+    },
+    {
+      "start": 459.41,
+      "end": 459.79,
+      "text": "há"
+    },
+    {
+      "start": 459.79,
+      "end": 459.87,
+      "text": "problema."
+    },
+    {
+      "start": 551.46,
+      "end": 552.76,
+      "text": "Ação."
+    },
+    {
+      "start": 653.95,
+      "end": 654.23,
+      "text": "Até"
+    },
+    {
+      "start": 654.23,
+      "end": 654.49,
+      "text": "mais!"
+    },
+    {
+      "start": 728.9,
+      "end": 729.58,
+      "text": "Obrigado."
+    },
+    {
+      "start": 838.59,
+      "end": 839.31,
+      "text": "Atenção!"
+    },
+    {
+      "start": 1458.47,
+      "end": 1458.65,
+      "text": "."
+    },
+    {
+      "start": 1462.92,
+      "end": 1463.04,
+      "text": "Ela"
+    },
+    {
+      "start": 1463.04,
+      "end": 1463.4,
+      "text": "tem"
+    },
+    {
+      "start": 1463.4,
+      "end": 1463.48,
+      "text": "que"
+    },
+    {
+      "start": 1463.48,
+      "end": 1463.64,
+      "text": "ser"
+    },
+    {
+      "start": 1463.64,
+      "end": 1463.76,
+      "text": "de"
+    },
+    {
+      "start": 1463.76,
+      "end": 1463.88,
+      "text": "mão"
+    },
+    {
+      "start": 1463.88,
+      "end": 1464.28,
+      "text": "dupla."
+    },
+    {
+      "start": 1464.46,
+      "end": 1464.76,
+      "text": "Você"
+    },
+    {
+      "start": 1464.76,
+      "end": 1464.94,
+      "text": "não"
+    },
+    {
+      "start": 1464.94,
+      "end": 1465.16,
+      "text": "pode"
+    },
+    {
+      "start": 1465.16,
+      "end": 1465.8,
+      "text": "liberar"
+    },
+    {
+      "start": 1465.8,
+      "end": 1465.96,
+      "text": "de"
+    },
+    {
+      "start": 1465.96,
+      "end": 1466.22,
+      "text": "forma"
+    },
+    {
+      "start": 1466.22,
+      "end": 1468.7,
+      "text": "unilaterada,"
+    },
+    {
+      "start": 1468.72,
+      "end": 1469.54,
+      "text": "abrindo"
+    },
+    {
+      "start": 1469.54,
+      "end": 1469.8,
+      "text": "a"
+    },
+    {
+      "start": 1469.8,
+      "end": 1470.06,
+      "text": "rua,"
+    },
+    {
+      "start": 1470.2,
+      "end": 1471.8,
+      "text": "reduzindo"
+    },
+    {
+      "start": 1471.8,
+      "end": 1471.98,
+      "text": "as"
+    },
+    {
+      "start": 1471.98,
+      "end": 1472.7,
+      "text": "tarifas,"
+    },
+    {
+      "start": 1473.1,
+      "end": 1473.36,
+      "text": "quem"
+    },
+    {
+      "start": 1473.36,
+      "end": 1473.64,
+      "text": "tem"
+    },
+    {
+      "start": 1473.64,
+      "end": 1474.68,
+      "text": "reciprocidade"
+    },
+    {
+      "start": 1474.68,
+      "end": 1475.02,
+      "text": "no"
+    },
+    {
+      "start": 1475.02,
+      "end": 1475.4,
+      "text": "movimento."
+    },
+    {
+      "start": 1492.92,
+      "end": 1493.2,
+      "text": "Obrigado."
+    },
+    {
+      "start": 1500.18,
+      "end": 1501.58,
+      "text": "Música"
+    },
+    {
+      "start": 1546.4,
+      "end": 1546.54,
+      "text": "Não"
+    },
+    {
+      "start": 1546.54,
+      "end": 1546.98,
+      "text": "tem"
+    },
+    {
+      "start": 1546.98,
+      "end": 1547.7,
+      "text": "sexo!"
+    },
+    {
+      "start": 1548.48,
+      "end": 1549.16,
+      "text": "Não"
+    },
+    {
+      "start": 1549.16,
+      "end": 1550.14,
+      "text": "tem"
+    },
+    {
+      "start": 1550.14,
+      "end": 1550.84,
+      "text": "sexo!"
+    },
+    {
+      "start": 1579.59,
+      "end": 1580.03,
+      "text": "Apenas"
+    },
+    {
+      "start": 1580.03,
+      "end": 1580.27,
+      "text": "o"
+    },
+    {
+      "start": 1580.27,
+      "end": 1580.51,
+      "text": "que"
+    },
+    {
+      "start": 1580.51,
+      "end": 1580.79,
+      "text": "você"
+    },
+    {
+      "start": 1580.79,
+      "end": 1581.05,
+      "text": "quer."
+    },
+    {
+      "start": 1582.37,
+      "end": 1582.79,
+      "text": "Você"
+    },
+    {
+      "start": 1582.79,
+      "end": 1583.63,
+      "text": "pode"
+    },
+    {
+      "start": 1583.63,
+      "end": 1584.05,
+      "text": "me"
+    },
+    {
+      "start": 1584.05,
+      "end": 1584.47,
+      "text": "dar"
+    },
+    {
+      "start": 1584.47,
+      "end": 1584.73,
+      "text": "um"
+    },
+    {
+      "start": 1584.73,
+      "end": 1585.27,
+      "text": "nome."
+    },
+    {
+      "start": 1585.77,
+      "end": 1586.11,
+      "text": "E"
+    },
+    {
+      "start": 1586.11,
+      "end": 1586.33,
+      "text": "eu"
+    },
+    {
+      "start": 1586.33,
+      "end": 1587.05,
+      "text": "vou."
+    },
+    {
+      "start": 1587.17,
+      "end": 1587.95,
+      "text": "Eu"
+    },
+    {
+      "start": 1587.95,
+      "end": 1588.53,
+      "text": "vou."
+    },
+    {
+      "start": 1588.79,
+      "end": 1589.39,
+      "text": "Eu"
+    },
+    {
+      "start": 1589.39,
+      "end": 1589.77,
+      "text": "vou."
+    },
+    {
+      "start": 1620.67,
+      "end": 1621.89,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 1621.89,
+      "end": 1621.89,
+      "text": "o"
+    },
+    {
+      "start": 1621.89,
+      "end": 1622.09,
+      "text": "processo"
+    },
+    {
+      "start": 1622.09,
+      "end": 1622.09,
+      "text": "de"
+    },
+    {
+      "start": 1622.09,
+      "end": 1622.59,
+      "text": "tradução"
+    },
+    {
+      "start": 1622.59,
+      "end": 1623.07,
+      "text": "em"
+    },
+    {
+      "start": 1623.07,
+      "end": 1623.49,
+      "text": "português"
+    },
+    {
+      "start": 1623.49,
+      "end": 1624.15,
+      "text": "e"
+    },
+    {
+      "start": 1624.15,
+      "end": 1624.27,
+      "text": "em"
+    },
+    {
+      "start": 1624.27,
+      "end": 1627.69,
+      "text": "português."
+    },
+    {
+      "start": 1644.75,
+      "end": 1645.21,
+      "text": "Eu"
+    },
+    {
+      "start": 1645.21,
+      "end": 1645.39,
+      "text": "vou"
+    },
+    {
+      "start": 1645.39,
+      "end": 1645.69,
+      "text": "colocar"
+    },
+    {
+      "start": 1645.69,
+      "end": 1645.97,
+      "text": "essa"
+    },
+    {
+      "start": 1645.97,
+      "end": 1646.39,
+      "text": "em"
+    },
+    {
+      "start": 1646.39,
+      "end": 1646.91,
+      "text": "minha"
+    },
+    {
+      "start": 1646.91,
+      "end": 1647.37,
+      "text": "mão"
+    },
+    {
+      "start": 1647.37,
+      "end": 1647.71,
+      "text": "Eu"
+    },
+    {
+      "start": 1647.71,
+      "end": 1647.97,
+      "text": "vou"
+    },
+    {
+      "start": 1647.97,
+      "end": 1648.17,
+      "text": "fazer"
+    },
+    {
+      "start": 1648.17,
+      "end": 1648.29,
+      "text": "o"
+    },
+    {
+      "start": 1648.29,
+      "end": 1648.39,
+      "text": "que"
+    },
+    {
+      "start": 1648.39,
+      "end": 1648.53,
+      "text": "eu"
+    },
+    {
+      "start": 1648.53,
+      "end": 1648.59,
+      "text": "quero"
+    },
+    {
+      "start": 1648.59,
+      "end": 1649.09,
+      "text": "fazer"
+    },
+    {
+      "start": 1649.09,
+      "end": 1649.31,
+      "text": "no"
+    },
+    {
+      "start": 1649.31,
+      "end": 1649.45,
+      "text": "fim"
+    },
+    {
+      "start": 1649.45,
+      "end": 1649.81,
+      "text": "de"
+    },
+    {
+      "start": 1649.81,
+      "end": 1650.01,
+      "text": "semana"
+    },
+    {
+      "start": 1679.49,
+      "end": 1679.99,
+      "text": "Apenas"
+    },
+    {
+      "start": 1679.99,
+      "end": 1680.43,
+      "text": "o"
+    },
+    {
+      "start": 1680.43,
+      "end": 1680.79,
+      "text": "que"
+    },
+    {
+      "start": 1680.79,
+      "end": 1681.33,
+      "text": "você"
+    },
+    {
+      "start": 1681.33,
+      "end": 1683.45,
+      "text": "quer"
+    },
+    {
+      "start": 1683.45,
+      "end": 1684.25,
+      "text": "dizer."
+    },
+    {
+      "start": 1684.45,
+      "end": 1684.91,
+      "text": "Eu"
+    },
+    {
+      "start": 1684.91,
+      "end": 1685.51,
+      "text": "tenho"
+    },
+    {
+      "start": 1685.51,
+      "end": 1685.83,
+      "text": "um"
+    },
+    {
+      "start": 1685.83,
+      "end": 1686.21,
+      "text": "braço"
+    },
+    {
+      "start": 1686.21,
+      "end": 1686.45,
+      "text": "branco,"
+    },
+    {
+      "start": 1686.45,
+      "end": 1686.81,
+      "text": "amor."
+    },
+    {
+      "start": 1687.75,
+      "end": 1688.39,
+      "text": "E"
+    },
+    {
+      "start": 1688.39,
+      "end": 1688.81,
+      "text": "eu"
+    },
+    {
+      "start": 1688.81,
+      "end": 1689.25,
+      "text": "odeio"
+    },
+    {
+      "start": 1689.25,
+      "end": 1689.29,
+      "text": "o"
+    },
+    {
+      "start": 1689.29,
+      "end": 1689.55,
+      "text": "nome."
+    },
+    {
+      "start": 1742.46,
+      "end": 1743.86,
+      "text": "E"
+    },
+    {
+      "start": 1743.86,
+      "end": 1745.26,
+      "text": "aí"
+    },
+    {
+      "start": 1745.28,
+      "end": 1745.42,
+      "text": "Obrigado."
+    },
+    {
+      "start": 1748.45,
+      "end": 1748.65,
+      "text": "Não"
+    },
+    {
+      "start": 1748.65,
+      "end": 1748.67,
+      "text": "se"
+    },
+    {
+      "start": 1748.67,
+      "end": 1749.13,
+      "text": "esqueça"
+    },
+    {
+      "start": 1749.13,
+      "end": 1749.19,
+      "text": "de"
+    },
+    {
+      "start": 1749.19,
+      "end": 1749.19,
+      "text": "deixar"
+    },
+    {
+      "start": 1749.19,
+      "end": 1749.19,
+      "text": "seu"
+    },
+    {
+      "start": 1749.19,
+      "end": 1749.19,
+      "text": "like"
+    },
+    {
+      "start": 1749.19,
+      "end": 1749.19,
+      "text": "e"
+    },
+    {
+      "start": 1749.19,
+      "end": 1749.19,
+      "text": "compartilhar"
+    },
+    {
+      "start": 1749.19,
+      "end": 1749.19,
+      "text": "o"
+    },
+    {
+      "start": 1749.19,
+      "end": 1749.19,
+      "text": "vídeo."
+    }
+  ]
+}
