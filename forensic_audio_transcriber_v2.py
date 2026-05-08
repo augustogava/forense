@@ -12,7 +12,8 @@ pip install faster-whisper librosa soundfile noisereduce scipy
 
 --- TRANSCRIPTION PARAMETERS (model.transcribe) ---
   beam_size=10            : Higher beam = more accurate decoding (default 5, max ~10 useful)
-  temperature=0.0         : Deterministic output, prevents random hallucinations
+  temperature=[0.0,0.2,0.4] : Starts deterministic, retries with slight randomness if logprob threshold not met
+  log_prob_threshold=-1.5  : Accepts segments down to -1.5 avg_logprob (default -1.0 rejects noisy speech)
   no_speech_threshold=0.6 : Segments with no_speech_prob > 0.6 are discarded (Whisper default)
   compression_ratio_threshold=2.4 : Segments with high repetition ratio are discarded (Whisper default)
   hallucination_silence_threshold=1.0 : Words generated during >1s silence gaps are removed (lower = stricter)
@@ -543,7 +544,8 @@ def transcribe_file(
             condition_on_previous_text=False,
             no_speech_threshold=0.6,
             compression_ratio_threshold=2.4,
-            temperature=0.0,
+            temperature=[0.0, 0.2, 0.4],
+            log_prob_threshold=-1.5,
             hallucination_silence_threshold=1.0,
             vad_filter=True,
             vad_parameters=dict(

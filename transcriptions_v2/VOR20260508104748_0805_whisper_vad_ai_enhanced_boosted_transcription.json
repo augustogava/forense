@@ -1,0 +1,7 @@
+{
+  "source_file": "VOR20260508104748_0805_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1800.1,
+  "segments": {}
+}

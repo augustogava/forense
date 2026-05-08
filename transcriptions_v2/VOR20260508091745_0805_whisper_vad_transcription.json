@@ -1,0 +1,169 @@
+{
+  "source_file": "VOR20260508091745_0805_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1800.0,
+  "segments": {
+    "00:01:03,00:24:24": "Ela tem que ser de uma dúvida.",
+    "00:24:24,00:24:32": "Você não pode liberar de forma unilateral, abrindo as suas, reduzindo as suas tarifas,",
+    "00:24:32,00:24:35": "Sim, tem reciprocidade no movimento."
+  },
+  "words": [
+    {
+      "start": 63.33,
+      "end": 63.89,
+      "text": "Ela",
+      "probability": 0.078
+    },
+    {
+      "start": 1462.8,
+      "end": 1463.36,
+      "text": "tem",
+      "probability": 0.994
+    },
+    {
+      "start": 1463.36,
+      "end": 1463.5,
+      "text": "que",
+      "probability": 0.971
+    },
+    {
+      "start": 1463.5,
+      "end": 1463.64,
+      "text": "ser",
+      "probability": 0.998
+    },
+    {
+      "start": 1463.64,
+      "end": 1463.76,
+      "text": "de",
+      "probability": 0.972
+    },
+    {
+      "start": 1463.76,
+      "end": 1463.86,
+      "text": "uma",
+      "probability": 0.849
+    },
+    {
+      "start": 1463.86,
+      "end": 1464.22,
+      "text": "dúvida.",
+      "probability": 0.838
+    },
+    {
+      "start": 1464.36,
+      "end": 1464.78,
+      "text": "Você",
+      "probability": 0.994
+    },
+    {
+      "start": 1464.78,
+      "end": 1464.92,
+      "text": "não",
+      "probability": 0.999
+    },
+    {
+      "start": 1464.92,
+      "end": 1465.16,
+      "text": "pode",
+      "probability": 0.999
+    },
+    {
+      "start": 1465.16,
+      "end": 1465.78,
+      "text": "liberar",
+      "probability": 0.773
+    },
+    {
+      "start": 1465.78,
+      "end": 1465.96,
+      "text": "de",
+      "probability": 0.833
+    },
+    {
+      "start": 1465.96,
+      "end": 1466.24,
+      "text": "forma",
+      "probability": 0.985
+    },
+    {
+      "start": 1466.24,
+      "end": 1468.3,
+      "text": "unilateral,",
+      "probability": 0.97
+    },
+    {
+      "start": 1468.72,
+      "end": 1469.52,
+      "text": "abrindo",
+      "probability": 0.958
+    },
+    {
+      "start": 1469.52,
+      "end": 1469.8,
+      "text": "as",
+      "probability": 0.803
+    },
+    {
+      "start": 1469.8,
+      "end": 1470.1,
+      "text": "suas,",
+      "probability": 1.0
+    },
+    {
+      "start": 1470.16,
+      "end": 1471.8,
+      "text": "reduzindo",
+      "probability": 0.926
+    },
+    {
+      "start": 1471.8,
+      "end": 1471.94,
+      "text": "as",
+      "probability": 0.858
+    },
+    {
+      "start": 1471.94,
+      "end": 1472.14,
+      "text": "suas",
+      "probability": 0.999
+    },
+    {
+      "start": 1472.14,
+      "end": 1472.72,
+      "text": "tarifas,",
+      "probability": 0.987
+    },
+    {
+      "start": 1472.72,
+      "end": 1473.44,
+      "text": "Sim,",
+      "probability": 0.078
+    },
+    {
+      "start": 1473.44,
+      "end": 1473.72,
+      "text": "tem",
+      "probability": 0.694
+    },
+    {
+      "start": 1473.72,
+      "end": 1474.68,
+      "text": "reciprocidade",
+      "probability": 0.997
+    },
+    {
+      "start": 1474.68,
+      "end": 1475.0,
+      "text": "no",
+      "probability": 0.793
+    },
+    {
+      "start": 1475.0,
+      "end": 1475.36,
+      "text": "movimento.",
+      "probability": 0.995
+    }
+  ]
+}

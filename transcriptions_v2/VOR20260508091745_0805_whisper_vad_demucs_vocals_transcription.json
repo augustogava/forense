@@ -1,0 +1,150 @@
+{
+  "source_file": "VOR20260508091745_0805_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1800.0,
+  "segments": {
+    "00:04:39,00:24:35": "Você não pode liberar de forma unilateral, abrindo as suas, as suas, reduzindo as suas tarifas, sem ter reciprocidade no movimento.",
+    "00:24:44,00:24:45": "Tchau, tchau."
+  },
+  "words": [
+    {
+      "start": 279.67,
+      "end": 280.55,
+      "text": "Você",
+      "probability": 0.087
+    },
+    {
+      "start": 1462.06,
+      "end": 1462.3,
+      "text": "não",
+      "probability": 0.577
+    },
+    {
+      "start": 1462.3,
+      "end": 1463.32,
+      "text": "pode",
+      "probability": 0.472
+    },
+    {
+      "start": 1463.32,
+      "end": 1465.78,
+      "text": "liberar",
+      "probability": 0.696
+    },
+    {
+      "start": 1465.78,
+      "end": 1465.96,
+      "text": "de",
+      "probability": 0.514
+    },
+    {
+      "start": 1465.96,
+      "end": 1466.28,
+      "text": "forma",
+      "probability": 0.962
+    },
+    {
+      "start": 1466.28,
+      "end": 1468.32,
+      "text": "unilateral,",
+      "probability": 0.839
+    },
+    {
+      "start": 1468.54,
+      "end": 1469.52,
+      "text": "abrindo",
+      "probability": 0.997
+    },
+    {
+      "start": 1469.52,
+      "end": 1469.78,
+      "text": "as",
+      "probability": 0.691
+    },
+    {
+      "start": 1469.78,
+      "end": 1470.1,
+      "text": "suas,",
+      "probability": 0.996
+    },
+    {
+      "start": 1470.16,
+      "end": 1470.6,
+      "text": "as",
+      "probability": 0.307
+    },
+    {
+      "start": 1470.6,
+      "end": 1471.06,
+      "text": "suas,",
+      "probability": 0.999
+    },
+    {
+      "start": 1471.06,
+      "end": 1471.8,
+      "text": "reduzindo",
+      "probability": 0.623
+    },
+    {
+      "start": 1471.8,
+      "end": 1471.96,
+      "text": "as",
+      "probability": 0.804
+    },
+    {
+      "start": 1471.96,
+      "end": 1472.16,
+      "text": "suas",
+      "probability": 0.997
+    },
+    {
+      "start": 1472.16,
+      "end": 1472.7,
+      "text": "tarifas,",
+      "probability": 0.959
+    },
+    {
+      "start": 1472.82,
+      "end": 1473.36,
+      "text": "sem",
+      "probability": 0.924
+    },
+    {
+      "start": 1473.36,
+      "end": 1473.66,
+      "text": "ter",
+      "probability": 0.97
+    },
+    {
+      "start": 1473.66,
+      "end": 1474.66,
+      "text": "reciprocidade",
+      "probability": 0.994
+    },
+    {
+      "start": 1474.66,
+      "end": 1474.94,
+      "text": "no",
+      "probability": 0.392
+    },
+    {
+      "start": 1474.94,
+      "end": 1475.4,
+      "text": "movimento.",
+      "probability": 0.98
+    },
+    {
+      "start": 1484.12,
+      "end": 1484.98,
+      "text": "Tchau,",
+      "probability": 0.521
+    },
+    {
+      "start": 1485.0,
+      "end": 1485.84,
+      "text": "tchau.",
+      "probability": 0.958
+    }
+  ]
+}

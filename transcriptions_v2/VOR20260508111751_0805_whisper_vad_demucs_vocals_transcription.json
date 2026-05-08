@@ -1,0 +1,234 @@
+{
+  "source_file": "VOR20260508111751_0805_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1153.0,
+  "segments": {
+    "00:01:28,00:01:30": "Só você entende o canal, por favor?",
+    "00:01:30,00:01:30": "Sim, eu entendo o canal.",
+    "00:03:58,00:03:59": "Acorda!",
+    "00:04:08,00:04:09": "Desculpa, desculpa, desculpa.",
+    "00:05:04,00:05:07": "VIVA EM NOSSA DEMONSTRA, VIVA EM NOSSA DEMONSTRA",
+    "00:05:07,00:05:09": "E VIVA EM NOSSA DEMONSTRA",
+    "00:05:09,00:05:10": "E VIVA EM NOSSA DEMONSTRA",
+    "00:05:22,00:05:26": "Tchau, tchau."
+  },
+  "words": [
+    {
+      "start": 88.08,
+      "end": 88.56,
+      "text": "Só",
+      "probability": 0.017
+    },
+    {
+      "start": 88.56,
+      "end": 88.82,
+      "text": "você",
+      "probability": 0.62
+    },
+    {
+      "start": 88.82,
+      "end": 89.18,
+      "text": "entende",
+      "probability": 0.708
+    },
+    {
+      "start": 89.18,
+      "end": 89.24,
+      "text": "o",
+      "probability": 0.844
+    },
+    {
+      "start": 89.24,
+      "end": 89.46,
+      "text": "canal,",
+      "probability": 0.874
+    },
+    {
+      "start": 89.6,
+      "end": 89.76,
+      "text": "por",
+      "probability": 0.231
+    },
+    {
+      "start": 89.76,
+      "end": 90.02,
+      "text": "favor?",
+      "probability": 0.972
+    },
+    {
+      "start": 90.3,
+      "end": 90.34,
+      "text": "Sim,",
+      "probability": 0.031
+    },
+    {
+      "start": 90.4,
+      "end": 90.4,
+      "text": "eu",
+      "probability": 0.49
+    },
+    {
+      "start": 90.4,
+      "end": 90.44,
+      "text": "entendo",
+      "probability": 0.855
+    },
+    {
+      "start": 90.44,
+      "end": 90.46,
+      "text": "o",
+      "probability": 0.537
+    },
+    {
+      "start": 90.46,
+      "end": 90.46,
+      "text": "canal.",
+      "probability": 0.946
+    },
+    {
+      "start": 238.71,
+      "end": 239.19,
+      "text": "Acorda!",
+      "probability": 0.447
+    },
+    {
+      "start": 248.36,
+      "end": 248.84,
+      "text": "Desculpa,",
+      "probability": 0.667
+    },
+    {
+      "start": 248.92,
+      "end": 249.16,
+      "text": "desculpa,",
+      "probability": 0.952
+    },
+    {
+      "start": 249.16,
+      "end": 249.78,
+      "text": "desculpa.",
+      "probability": 0.984
+    },
+    {
+      "start": 304.46,
+      "end": 304.74,
+      "text": "VIVA",
+      "probability": 0.324
+    },
+    {
+      "start": 304.74,
+      "end": 304.82,
+      "text": "EM",
+      "probability": 0.32
+    },
+    {
+      "start": 304.82,
+      "end": 305.18,
+      "text": "NOSSA",
+      "probability": 0.676
+    },
+    {
+      "start": 305.18,
+      "end": 305.88,
+      "text": "DEMONSTRA,",
+      "probability": 0.646
+    },
+    {
+      "start": 305.9,
+      "end": 306.36,
+      "text": "VIVA",
+      "probability": 0.627
+    },
+    {
+      "start": 306.36,
+      "end": 306.48,
+      "text": "EM",
+      "probability": 0.267
+    },
+    {
+      "start": 306.48,
+      "end": 306.52,
+      "text": "NOSSA",
+      "probability": 0.857
+    },
+    {
+      "start": 306.52,
+      "end": 307.66,
+      "text": "DEMONSTRA",
+      "probability": 0.878
+    },
+    {
+      "start": 307.66,
+      "end": 307.7,
+      "text": "E",
+      "probability": 0.059
+    },
+    {
+      "start": 307.7,
+      "end": 308.04,
+      "text": "VIVA",
+      "probability": 0.632
+    },
+    {
+      "start": 308.04,
+      "end": 308.1,
+      "text": "EM",
+      "probability": 0.653
+    },
+    {
+      "start": 308.1,
+      "end": 308.72,
+      "text": "NOSSA",
+      "probability": 0.926
+    },
+    {
+      "start": 308.72,
+      "end": 309.12,
+      "text": "DEMONSTRA",
+      "probability": 0.965
+    },
+    {
+      "start": 309.12,
+      "end": 309.44,
+      "text": "E",
+      "probability": 0.294
+    },
+    {
+      "start": 309.44,
+      "end": 309.74,
+      "text": "VIVA",
+      "probability": 0.794
+    },
+    {
+      "start": 309.74,
+      "end": 309.74,
+      "text": "EM",
+      "probability": 0.919
+    },
+    {
+      "start": 309.74,
+      "end": 309.74,
+      "text": "NOSSA",
+      "probability": 0.99
+    },
+    {
+      "start": 309.74,
+      "end": 310.5,
+      "text": "DEMONSTRA",
+      "probability": 0.997
+    },
+    {
+      "start": 322.49,
+      "end": 323.89,
+      "text": "Tchau,",
+      "probability": 0.516
+    },
+    {
+      "start": 325.97,
+      "end": 326.33,
+      "text": "tchau.",
+      "probability": 0.958
+    }
+  ]
+}

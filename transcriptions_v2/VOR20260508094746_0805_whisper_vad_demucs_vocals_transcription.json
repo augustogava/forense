@@ -1,0 +1,183 @@
+{
+  "source_file": "VOR20260508094746_0805_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1800.0,
+  "segments": {
+    "00:00:35,00:00:39": "E hoje, ao meio-dia, esta grama pode ser sua!",
+    "00:04:17,00:04:17": "Não tem mais de trabalho.",
+    "00:04:18,00:04:20": "Não tem mais de trabalho.",
+    "00:04:21,00:04:22": "Estirei a minha filha.",
+    "00:04:30,00:04:32": "Estirei a minha filha."
+  },
+  "words": [
+    {
+      "start": 35.2,
+      "end": 35.96,
+      "text": "E",
+      "probability": 0.74
+    },
+    {
+      "start": 35.96,
+      "end": 36.44,
+      "text": "hoje,",
+      "probability": 0.994
+    },
+    {
+      "start": 36.6,
+      "end": 36.88,
+      "text": "ao",
+      "probability": 0.987
+    },
+    {
+      "start": 36.88,
+      "end": 37.18,
+      "text": "meio",
+      "probability": 0.996
+    },
+    {
+      "start": 37.18,
+      "end": 37.68,
+      "text": "-dia,",
+      "probability": 0.848
+    },
+    {
+      "start": 37.7,
+      "end": 38.08,
+      "text": "esta",
+      "probability": 0.371
+    },
+    {
+      "start": 38.08,
+      "end": 38.58,
+      "text": "grama",
+      "probability": 0.748
+    },
+    {
+      "start": 38.58,
+      "end": 38.86,
+      "text": "pode",
+      "probability": 0.96
+    },
+    {
+      "start": 38.86,
+      "end": 39.14,
+      "text": "ser",
+      "probability": 0.992
+    },
+    {
+      "start": 39.14,
+      "end": 39.58,
+      "text": "sua!",
+      "probability": 0.999
+    },
+    {
+      "start": 257.13,
+      "end": 257.13,
+      "text": "Não",
+      "probability": 0.03
+    },
+    {
+      "start": 257.13,
+      "end": 257.17,
+      "text": "tem",
+      "probability": 0.101
+    },
+    {
+      "start": 257.17,
+      "end": 257.31,
+      "text": "mais",
+      "probability": 0.246
+    },
+    {
+      "start": 257.31,
+      "end": 257.35,
+      "text": "de",
+      "probability": 0.212
+    },
+    {
+      "start": 257.35,
+      "end": 257.59,
+      "text": "trabalho.",
+      "probability": 0.286
+    },
+    {
+      "start": 258.41,
+      "end": 259.01,
+      "text": "Não",
+      "probability": 0.584
+    },
+    {
+      "start": 259.01,
+      "end": 259.61,
+      "text": "tem",
+      "probability": 0.946
+    },
+    {
+      "start": 259.61,
+      "end": 259.81,
+      "text": "mais",
+      "probability": 0.981
+    },
+    {
+      "start": 259.81,
+      "end": 259.85,
+      "text": "de",
+      "probability": 0.976
+    },
+    {
+      "start": 259.85,
+      "end": 260.09,
+      "text": "trabalho.",
+      "probability": 0.99
+    },
+    {
+      "start": 261.49,
+      "end": 262.09,
+      "text": "Estirei",
+      "probability": 0.438
+    },
+    {
+      "start": 262.09,
+      "end": 262.17,
+      "text": "a",
+      "probability": 0.264
+    },
+    {
+      "start": 262.17,
+      "end": 262.27,
+      "text": "minha",
+      "probability": 0.294
+    },
+    {
+      "start": 262.27,
+      "end": 262.65,
+      "text": "filha.",
+      "probability": 0.51
+    },
+    {
+      "start": 270.03,
+      "end": 270.63,
+      "text": "Estirei",
+      "probability": 0.662
+    },
+    {
+      "start": 270.69,
+      "end": 271.29,
+      "text": "a",
+      "probability": 0.79
+    },
+    {
+      "start": 271.29,
+      "end": 271.95,
+      "text": "minha",
+      "probability": 0.932
+    },
+    {
+      "start": 271.95,
+      "end": 272.19,
+      "text": "filha.",
+      "probability": 0.999
+    }
+  ]
+}
