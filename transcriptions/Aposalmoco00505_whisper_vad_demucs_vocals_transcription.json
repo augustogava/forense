@@ -1,0 +1,235 @@
+{
+  "source_file": "Aposalmoco00505_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:03:50,00:03:51": "Atenção!",
+    "00:09:00,00:09:00": "Não estou...",
+    "00:13:44,00:13:44": ".",
+    "00:20:36,00:20:37": "Não há muita coisa.",
+    "00:24:37,00:24:38": "Atenção!",
+    "00:54:23,00:54:24": "Não sei lá, não sei.",
+    "01:24:42,01:24:43": "Acompanhe o nosso canal no Facebook.",
+    "01:35:32,01:35:33": "Atenção!",
+    "01:35:38,01:35:42": "Atenção! O que eu estou dizendo é que a gente tem que fazer uma conversa em português.",
+    "01:37:53,01:37:56": "A CIDADE NO BRASIL",
+    "01:37:59,01:37:59": "."
+  },
+  "words": [
+    {
+      "start": 230.5,
+      "end": 231.58,
+      "text": "Atenção!"
+    },
+    {
+      "start": 540.26,
+      "end": 540.42,
+      "text": "Não"
+    },
+    {
+      "start": 540.42,
+      "end": 540.88,
+      "text": "estou..."
+    },
+    {
+      "start": 824.26,
+      "end": 824.52,
+      "text": "."
+    },
+    {
+      "start": 1236.55,
+      "end": 1236.81,
+      "text": "Não"
+    },
+    {
+      "start": 1236.81,
+      "end": 1236.99,
+      "text": "há"
+    },
+    {
+      "start": 1236.99,
+      "end": 1237.23,
+      "text": "muita"
+    },
+    {
+      "start": 1237.23,
+      "end": 1237.51,
+      "text": "coisa."
+    },
+    {
+      "start": 1477.25,
+      "end": 1478.65,
+      "text": "Atenção!"
+    },
+    {
+      "start": 3263.04,
+      "end": 3263.16,
+      "text": "Não"
+    },
+    {
+      "start": 3263.16,
+      "end": 3263.48,
+      "text": "sei"
+    },
+    {
+      "start": 3263.48,
+      "end": 3263.7,
+      "text": "lá,"
+    },
+    {
+      "start": 3263.84,
+      "end": 3264.16,
+      "text": "não"
+    },
+    {
+      "start": 3264.16,
+      "end": 3264.96,
+      "text": "sei."
+    },
+    {
+      "start": 5082.05,
+      "end": 5082.43,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 5082.43,
+      "end": 5082.43,
+      "text": "o"
+    },
+    {
+      "start": 5082.43,
+      "end": 5082.43,
+      "text": "nosso"
+    },
+    {
+      "start": 5082.43,
+      "end": 5082.79,
+      "text": "canal"
+    },
+    {
+      "start": 5082.79,
+      "end": 5083.21,
+      "text": "no"
+    },
+    {
+      "start": 5083.21,
+      "end": 5083.59,
+      "text": "Facebook."
+    },
+    {
+      "start": 5732.58,
+      "end": 5733.98,
+      "text": "Atenção!"
+    },
+    {
+      "start": 5738.02,
+      "end": 5738.6,
+      "text": "Atenção!"
+    },
+    {
+      "start": 5739.02,
+      "end": 5739.94,
+      "text": "O"
+    },
+    {
+      "start": 5739.94,
+      "end": 5740.02,
+      "text": "que"
+    },
+    {
+      "start": 5740.02,
+      "end": 5740.48,
+      "text": "eu"
+    },
+    {
+      "start": 5740.48,
+      "end": 5740.48,
+      "text": "estou"
+    },
+    {
+      "start": 5740.48,
+      "end": 5740.48,
+      "text": "dizendo"
+    },
+    {
+      "start": 5740.48,
+      "end": 5740.76,
+      "text": "é"
+    },
+    {
+      "start": 5740.76,
+      "end": 5740.76,
+      "text": "que"
+    },
+    {
+      "start": 5740.76,
+      "end": 5740.76,
+      "text": "a"
+    },
+    {
+      "start": 5740.76,
+      "end": 5740.76,
+      "text": "gente"
+    },
+    {
+      "start": 5740.76,
+      "end": 5740.76,
+      "text": "tem"
+    },
+    {
+      "start": 5740.76,
+      "end": 5740.76,
+      "text": "que"
+    },
+    {
+      "start": 5740.76,
+      "end": 5740.76,
+      "text": "fazer"
+    },
+    {
+      "start": 5740.76,
+      "end": 5740.76,
+      "text": "uma"
+    },
+    {
+      "start": 5740.76,
+      "end": 5741.44,
+      "text": "conversa"
+    },
+    {
+      "start": 5741.44,
+      "end": 5741.52,
+      "text": "em"
+    },
+    {
+      "start": 5741.52,
+      "end": 5742.5,
+      "text": "português."
+    },
+    {
+      "start": 5873.11,
+      "end": 5874.51,
+      "text": "A"
+    },
+    {
+      "start": 5874.51,
+      "end": 5875.91,
+      "text": "CIDADE"
+    },
+    {
+      "start": 5875.91,
+      "end": 5876.87,
+      "text": "NO"
+    },
+    {
+      "start": 5876.87,
+      "end": 5876.87,
+      "text": "BRASIL"
+    },
+    {
+      "start": 5879.07,
+      "end": 5879.33,
+      "text": "."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "source_file": "New_Recording_15_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "01:38:47,01:41:10": "Se for a minha idade."
+  },
+  "hallucinations_filtered": 1,
+  "words": [
+    {
+      "start": 5927.82,
+      "end": 5929.01,
+      "text": "Se",
+      "confidence": 0.159
+    },
+    {
+      "start": 6069.87,
+      "end": 6070.09,
+      "text": "for",
+      "confidence": 0.226
+    },
+    {
+      "start": 6070.09,
+      "end": 6070.23,
+      "text": "a",
+      "confidence": 0.191
+    },
+    {
+      "start": 6070.23,
+      "end": 6070.47,
+      "text": "minha",
+      "confidence": 0.415
+    },
+    {
+      "start": 6070.47,
+      "end": 6070.85,
+      "text": "idade.",
+      "confidence": 0.518
+    }
+  ]
+}

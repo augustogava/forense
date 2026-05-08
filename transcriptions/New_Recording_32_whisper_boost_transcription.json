@@ -1,0 +1,142 @@
+{
+  "source_file": "New_Recording_32_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:05:35,00:05:36": "Uma vez...",
+    "00:05:40,00:05:41": "Acompanhe!",
+    "00:07:45,00:07:46": "Se na roupa!",
+    "00:08:53,00:08:54": "O que é que é isso?",
+    "00:08:55,00:08:56": "O que é que é isso?",
+    "00:20:56,00:20:56": "Não maquiar.",
+    "00:25:05,00:25:07": "Obrigado.",
+    "00:29:50,00:29:50": "Não é pra tirar!"
+  },
+  "words": [
+    {
+      "start": 335.78,
+      "end": 335.88,
+      "text": "Uma"
+    },
+    {
+      "start": 335.88,
+      "end": 336.24,
+      "text": "vez..."
+    },
+    {
+      "start": 340.61,
+      "end": 341.05,
+      "text": "Acompanhe!"
+    },
+    {
+      "start": 465.67,
+      "end": 465.75,
+      "text": "Se"
+    },
+    {
+      "start": 465.75,
+      "end": 465.75,
+      "text": "na"
+    },
+    {
+      "start": 465.75,
+      "end": 466.17,
+      "text": "roupa!"
+    },
+    {
+      "start": 533.86,
+      "end": 533.86,
+      "text": "O"
+    },
+    {
+      "start": 533.86,
+      "end": 533.96,
+      "text": "que"
+    },
+    {
+      "start": 533.96,
+      "end": 534.0,
+      "text": "é"
+    },
+    {
+      "start": 534.0,
+      "end": 534.08,
+      "text": "que"
+    },
+    {
+      "start": 534.08,
+      "end": 534.1,
+      "text": "é"
+    },
+    {
+      "start": 534.1,
+      "end": 534.28,
+      "text": "isso?"
+    },
+    {
+      "start": 535.2,
+      "end": 535.56,
+      "text": "O"
+    },
+    {
+      "start": 535.56,
+      "end": 535.92,
+      "text": "que"
+    },
+    {
+      "start": 535.92,
+      "end": 536.04,
+      "text": "é"
+    },
+    {
+      "start": 536.04,
+      "end": 536.06,
+      "text": "que"
+    },
+    {
+      "start": 536.06,
+      "end": 536.32,
+      "text": "é"
+    },
+    {
+      "start": 536.32,
+      "end": 536.5,
+      "text": "isso?"
+    },
+    {
+      "start": 1256.03,
+      "end": 1256.33,
+      "text": "Não"
+    },
+    {
+      "start": 1256.33,
+      "end": 1256.77,
+      "text": "maquiar."
+    },
+    {
+      "start": 1505.93,
+      "end": 1507.33,
+      "text": "Obrigado."
+    },
+    {
+      "start": 1790.15,
+      "end": 1790.15,
+      "text": "Não"
+    },
+    {
+      "start": 1790.15,
+      "end": 1790.25,
+      "text": "é"
+    },
+    {
+      "start": 1790.25,
+      "end": 1790.33,
+      "text": "pra"
+    },
+    {
+      "start": 1790.33,
+      "end": 1790.61,
+      "text": "tirar!"
+    }
+  ]
+}

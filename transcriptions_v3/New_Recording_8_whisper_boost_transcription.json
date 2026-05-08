@@ -1,0 +1,490 @@
+{
+  "source_file": "New_Recording_8_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:06,00:00:06": "Tudo bem, filhão?",
+    "00:00:10,00:00:17": "Você está em casa?",
+    "00:05:46,00:05:47": "Já estou em casa, mas já estou saindo. Estou indo lá buscar o passaporte.",
+    "00:05:47,00:05:49": "Queria ver se tem algum vestido meu aí que serve em mim.",
+    "00:05:50,00:05:51": "Pode vir depois?",
+    "00:05:53,00:05:54": "Pode. Eu não lembro.",
+    "00:05:54,00:05:55": "Quando está o casamento?",
+    "00:05:55,00:05:57": "Sábado que vem.",
+    "00:06:00,00:06:02": "Mas eu não sei.",
+    "00:06:08,00:06:10": "Não sei.",
+    "00:06:11,00:06:11": "Não sei.",
+    "00:06:12,00:06:12": "que vem.",
+    "00:06:16,00:06:20": "Eu sei que tem alguns que estão aí,",
+    "00:06:20,00:06:21": "mas que não servem. Não adianta.",
+    "00:06:26,00:06:27": "Tá bom.",
+    "00:06:28,00:06:28": "Beijo.",
+    "00:06:28,00:06:29": "Tchau.",
+    "01:05:47,01:05:48": "E aí"
+  },
+  "hallucinations_filtered": 3,
+  "words": [
+    {
+      "start": 6.25,
+      "end": 6.35,
+      "text": "Tudo",
+      "confidence": 0.123
+    },
+    {
+      "start": 6.35,
+      "end": 6.51,
+      "text": "bem,",
+      "confidence": 0.958
+    },
+    {
+      "start": 6.59,
+      "end": 6.91,
+      "text": "filhão?",
+      "confidence": 0.788
+    },
+    {
+      "start": 10.53,
+      "end": 10.93,
+      "text": "Você",
+      "confidence": 0.224
+    },
+    {
+      "start": 17.02,
+      "end": 17.24,
+      "text": "está",
+      "confidence": 0.542
+    },
+    {
+      "start": 17.24,
+      "end": 17.34,
+      "text": "em",
+      "confidence": 0.979
+    },
+    {
+      "start": 17.34,
+      "end": 17.5,
+      "text": "casa?",
+      "confidence": 0.999
+    },
+    {
+      "start": 346.61,
+      "end": 346.77,
+      "text": "Já",
+      "confidence": 0.531
+    },
+    {
+      "start": 346.77,
+      "end": 346.89,
+      "text": "estou",
+      "confidence": 0.962
+    },
+    {
+      "start": 346.89,
+      "end": 346.93,
+      "text": "em",
+      "confidence": 0.973
+    },
+    {
+      "start": 346.93,
+      "end": 347.03,
+      "text": "casa,",
+      "confidence": 0.999
+    },
+    {
+      "start": 347.13,
+      "end": 347.37,
+      "text": "mas",
+      "confidence": 0.947
+    },
+    {
+      "start": 347.37,
+      "end": 347.43,
+      "text": "já",
+      "confidence": 0.869
+    },
+    {
+      "start": 347.43,
+      "end": 347.71,
+      "text": "estou",
+      "confidence": 0.969
+    },
+    {
+      "start": 347.71,
+      "end": 347.73,
+      "text": "saindo.",
+      "confidence": 0.99
+    },
+    {
+      "start": 347.73,
+      "end": 347.75,
+      "text": "Estou",
+      "confidence": 0.783
+    },
+    {
+      "start": 347.75,
+      "end": 347.77,
+      "text": "indo",
+      "confidence": 0.982
+    },
+    {
+      "start": 347.77,
+      "end": 347.79,
+      "text": "lá",
+      "confidence": 0.65
+    },
+    {
+      "start": 347.79,
+      "end": 347.81,
+      "text": "buscar",
+      "confidence": 0.914
+    },
+    {
+      "start": 347.81,
+      "end": 347.83,
+      "text": "o",
+      "confidence": 0.92
+    },
+    {
+      "start": 347.83,
+      "end": 347.85,
+      "text": "passaporte.",
+      "confidence": 0.993
+    },
+    {
+      "start": 347.85,
+      "end": 347.86,
+      "text": "Queria",
+      "confidence": 0.699
+    },
+    {
+      "start": 348.73,
+      "end": 348.75,
+      "text": "ver",
+      "confidence": 0.743
+    },
+    {
+      "start": 348.75,
+      "end": 348.77,
+      "text": "se",
+      "confidence": 0.984
+    },
+    {
+      "start": 348.77,
+      "end": 348.79,
+      "text": "tem",
+      "confidence": 0.908
+    },
+    {
+      "start": 348.79,
+      "end": 348.81,
+      "text": "algum",
+      "confidence": 0.962
+    },
+    {
+      "start": 348.81,
+      "end": 348.83,
+      "text": "vestido",
+      "confidence": 0.997
+    },
+    {
+      "start": 348.83,
+      "end": 348.85,
+      "text": "meu",
+      "confidence": 0.965
+    },
+    {
+      "start": 348.85,
+      "end": 348.87,
+      "text": "aí",
+      "confidence": 0.894
+    },
+    {
+      "start": 348.87,
+      "end": 348.95,
+      "text": "que",
+      "confidence": 0.699
+    },
+    {
+      "start": 348.95,
+      "end": 349.19,
+      "text": "serve",
+      "confidence": 0.9
+    },
+    {
+      "start": 349.19,
+      "end": 349.25,
+      "text": "em",
+      "confidence": 0.86
+    },
+    {
+      "start": 349.25,
+      "end": 349.53,
+      "text": "mim.",
+      "confidence": 0.997
+    },
+    {
+      "start": 350.53,
+      "end": 350.79,
+      "text": "Pode",
+      "confidence": 0.568
+    },
+    {
+      "start": 350.79,
+      "end": 351.01,
+      "text": "vir",
+      "confidence": 0.161
+    },
+    {
+      "start": 351.01,
+      "end": 351.35,
+      "text": "depois?",
+      "confidence": 0.69
+    },
+    {
+      "start": 353.75,
+      "end": 353.77,
+      "text": "Pode.",
+      "confidence": 0.948
+    },
+    {
+      "start": 353.81,
+      "end": 353.87,
+      "text": "Eu",
+      "confidence": 0.733
+    },
+    {
+      "start": 353.87,
+      "end": 354.13,
+      "text": "não",
+      "confidence": 0.992
+    },
+    {
+      "start": 354.13,
+      "end": 354.57,
+      "text": "lembro.",
+      "confidence": 0.751
+    },
+    {
+      "start": 354.63,
+      "end": 354.87,
+      "text": "Quando",
+      "confidence": 0.963
+    },
+    {
+      "start": 354.87,
+      "end": 354.89,
+      "text": "está",
+      "confidence": 0.401
+    },
+    {
+      "start": 354.89,
+      "end": 355.03,
+      "text": "o",
+      "confidence": 0.991
+    },
+    {
+      "start": 355.03,
+      "end": 355.45,
+      "text": "casamento?",
+      "confidence": 0.98
+    },
+    {
+      "start": 355.93,
+      "end": 356.29,
+      "text": "Sábado",
+      "confidence": 0.798
+    },
+    {
+      "start": 356.29,
+      "end": 356.73,
+      "text": "que",
+      "confidence": 0.992
+    },
+    {
+      "start": 356.73,
+      "end": 357.45,
+      "text": "vem.",
+      "confidence": 0.998
+    },
+    {
+      "start": 360.94,
+      "end": 361.49,
+      "text": "Mas",
+      "confidence": 0.784
+    },
+    {
+      "start": 361.49,
+      "end": 361.63,
+      "text": "eu",
+      "confidence": 0.849
+    },
+    {
+      "start": 361.63,
+      "end": 361.91,
+      "text": "não",
+      "confidence": 0.947
+    },
+    {
+      "start": 361.91,
+      "end": 362.31,
+      "text": "sei.",
+      "confidence": 0.196
+    },
+    {
+      "start": 368.99,
+      "end": 369.23,
+      "text": "Não",
+      "confidence": 0.209
+    },
+    {
+      "start": 369.23,
+      "end": 370.25,
+      "text": "sei.",
+      "confidence": 0.715
+    },
+    {
+      "start": 371.37,
+      "end": 371.81,
+      "text": "Não",
+      "confidence": 0.329
+    },
+    {
+      "start": 371.81,
+      "end": 371.95,
+      "text": "sei.",
+      "confidence": 0.856
+    },
+    {
+      "start": 372.29,
+      "end": 372.41,
+      "text": "que",
+      "confidence": 0.347
+    },
+    {
+      "start": 372.41,
+      "end": 372.73,
+      "text": "vem.",
+      "confidence": 0.995
+    },
+    {
+      "start": 376.04,
+      "end": 376.36,
+      "text": "Eu",
+      "confidence": 0.393
+    },
+    {
+      "start": 376.36,
+      "end": 377.94,
+      "text": "sei",
+      "confidence": 0.502
+    },
+    {
+      "start": 377.94,
+      "end": 379.36,
+      "text": "que",
+      "confidence": 0.995
+    },
+    {
+      "start": 379.36,
+      "end": 379.52,
+      "text": "tem",
+      "confidence": 0.996
+    },
+    {
+      "start": 379.52,
+      "end": 379.74,
+      "text": "alguns",
+      "confidence": 0.976
+    },
+    {
+      "start": 379.74,
+      "end": 379.9,
+      "text": "que",
+      "confidence": 0.958
+    },
+    {
+      "start": 379.9,
+      "end": 380.06,
+      "text": "estão",
+      "confidence": 0.817
+    },
+    {
+      "start": 380.06,
+      "end": 380.16,
+      "text": "aí,",
+      "confidence": 0.997
+    },
+    {
+      "start": 380.16,
+      "end": 380.34,
+      "text": "mas",
+      "confidence": 1.0
+    },
+    {
+      "start": 380.34,
+      "end": 380.44,
+      "text": "que",
+      "confidence": 0.981
+    },
+    {
+      "start": 380.44,
+      "end": 380.56,
+      "text": "não",
+      "confidence": 1.0
+    },
+    {
+      "start": 380.56,
+      "end": 381.0,
+      "text": "servem.",
+      "confidence": 0.79
+    },
+    {
+      "start": 381.06,
+      "end": 381.12,
+      "text": "Não",
+      "confidence": 0.956
+    },
+    {
+      "start": 381.12,
+      "end": 381.76,
+      "text": "adianta.",
+      "confidence": 1.0
+    },
+    {
+      "start": 386.64,
+      "end": 387.06,
+      "text": "Tá",
+      "confidence": 0.957
+    },
+    {
+      "start": 387.06,
+      "end": 387.4,
+      "text": "bom.",
+      "confidence": 0.999
+    },
+    {
+      "start": 388.24,
+      "end": 388.36,
+      "text": "Beijo.",
+      "confidence": 0.959
+    },
+    {
+      "start": 388.36,
+      "end": 389.2,
+      "text": "Tchau.",
+      "confidence": 0.921
+    },
+    {
+      "start": 3947.73,
+      "end": 3947.87,
+      "text": "E",
+      "confidence": 0.199
+    },
+    {
+      "start": 3947.87,
+      "end": 3948.01,
+      "text": "aí",
+      "confidence": 0.953
+    }
+  ]
+}

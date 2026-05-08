@@ -1,0 +1,7 @@
+{
+  "source_file": "Antesswxobanheiro0605_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {},
+  "hallucinations_filtered": 1
+}

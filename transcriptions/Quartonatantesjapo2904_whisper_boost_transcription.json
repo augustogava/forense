@@ -1,0 +1,47 @@
+{
+  "source_file": "Quartonatantesjapo2904_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:02,00:00:03": "Atenção!",
+    "00:08:04,00:08:05": "Agradecimentos a todos os participantes.",
+    "00:19:57,00:19:57": "Atenção!"
+  },
+  "words": [
+    {
+      "start": 2.05,
+      "end": 3.25,
+      "text": "Atenção!"
+    },
+    {
+      "start": 484.29,
+      "end": 484.51,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 484.51,
+      "end": 484.61,
+      "text": "a"
+    },
+    {
+      "start": 484.61,
+      "end": 484.97,
+      "text": "todos"
+    },
+    {
+      "start": 484.97,
+      "end": 485.17,
+      "text": "os"
+    },
+    {
+      "start": 485.17,
+      "end": 485.17,
+      "text": "participantes."
+    },
+    {
+      "start": 1197.03,
+      "end": 1197.31,
+      "text": "Atenção!"
+    }
+  ]
+}

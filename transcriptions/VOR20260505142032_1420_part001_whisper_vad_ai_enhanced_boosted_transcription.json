@@ -1,0 +1,426 @@
+{
+  "source_file": "VOR20260505142032_1420_part001_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:01:21,00:01:22": "Não há problema.",
+    "00:04:48,00:04:50": "O ato de violência não é um problema.",
+    "00:07:28,00:07:31": "Agradecimentos a todos os participantes.",
+    "00:10:06,00:10:06": "É isso aí.",
+    "00:10:30,00:10:30": ".",
+    "00:15:47,00:15:48": "Obrigado.",
+    "00:17:15,00:17:16": "Um abraço.",
+    "00:18:30,00:18:32": "Abre as portas.",
+    "00:19:04,00:19:05": "Amea.",
+    "00:24:19,00:24:20": "Atenção!",
+    "00:25:33,00:25:33": ".",
+    "00:26:10,00:26:11": "Obrigado.",
+    "00:28:34,00:28:35": "Novo avanço!",
+    "00:29:10,00:29:10": ".",
+    "00:36:35,00:36:35": "Atenção!",
+    "00:37:51,00:37:52": "Incluído no artigo.",
+    "00:42:06,00:42:07": "O meu tempo.",
+    "00:45:37,00:45:38": "Tomara!",
+    "00:54:17,00:54:18": "Atenção!",
+    "00:57:16,00:57:16": ".",
+    "00:59:14,00:59:14": "Não há problema.",
+    "01:02:38,01:02:39": "Aplausos.",
+    "01:04:17,01:04:18": "Apenas um.",
+    "01:06:14,01:06:15": "A...",
+    "01:07:04,01:07:05": "Acompanhe o programa em seus redes sociais.",
+    "01:09:36,01:09:36": "Fala.",
+    "01:11:02,01:11:02": "Atenção!",
+    "01:11:42,01:11:43": "Aprecie o nosso canal!",
+    "01:15:15,01:15:15": "Obrigado.",
+    "01:19:50,01:19:50": "Atenção!",
+    "01:21:04,01:21:05": "Atenção!",
+    "01:27:05,01:27:05": "Seja bem-vindo ao canal.",
+    "01:28:08,01:28:09": "Agradecimentos a todos os participantes."
+  },
+  "explicit_segments": {
+    "00:04:48,00:04:50": "O ato de violência não é um problema."
+  },
+  "explicit_count": 1,
+  "words": [
+    {
+      "start": 81.67,
+      "end": 81.83,
+      "text": "Não"
+    },
+    {
+      "start": 81.83,
+      "end": 81.91,
+      "text": "há"
+    },
+    {
+      "start": 81.91,
+      "end": 82.13,
+      "text": "problema."
+    },
+    {
+      "start": 288.51,
+      "end": 288.59,
+      "text": "O"
+    },
+    {
+      "start": 288.59,
+      "end": 288.89,
+      "text": "ato"
+    },
+    {
+      "start": 288.89,
+      "end": 289.27,
+      "text": "de"
+    },
+    {
+      "start": 289.27,
+      "end": 289.59,
+      "text": "violência"
+    },
+    {
+      "start": 289.59,
+      "end": 289.77,
+      "text": "não"
+    },
+    {
+      "start": 289.77,
+      "end": 289.89,
+      "text": "é"
+    },
+    {
+      "start": 289.89,
+      "end": 290.19,
+      "text": "um"
+    },
+    {
+      "start": 290.19,
+      "end": 290.19,
+      "text": "problema."
+    },
+    {
+      "start": 448.99,
+      "end": 449.41,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 449.41,
+      "end": 449.65,
+      "text": "a"
+    },
+    {
+      "start": 449.65,
+      "end": 450.35,
+      "text": "todos"
+    },
+    {
+      "start": 450.35,
+      "end": 450.57,
+      "text": "os"
+    },
+    {
+      "start": 450.57,
+      "end": 451.11,
+      "text": "participantes."
+    },
+    {
+      "start": 606.18,
+      "end": 606.34,
+      "text": "É"
+    },
+    {
+      "start": 606.34,
+      "end": 606.34,
+      "text": "isso"
+    },
+    {
+      "start": 606.34,
+      "end": 606.52,
+      "text": "aí."
+    },
+    {
+      "start": 630.56,
+      "end": 630.78,
+      "text": "."
+    },
+    {
+      "start": 947.71,
+      "end": 948.23,
+      "text": "Obrigado."
+    },
+    {
+      "start": 1035.75,
+      "end": 1035.93,
+      "text": "Um"
+    },
+    {
+      "start": 1035.93,
+      "end": 1036.43,
+      "text": "abraço."
+    },
+    {
+      "start": 1110.66,
+      "end": 1112.2,
+      "text": "Abre"
+    },
+    {
+      "start": 1112.2,
+      "end": 1112.26,
+      "text": "as"
+    },
+    {
+      "start": 1112.26,
+      "end": 1112.94,
+      "text": "portas."
+    },
+    {
+      "start": 1144.58,
+      "end": 1145.02,
+      "text": "Amea."
+    },
+    {
+      "start": 1459.55,
+      "end": 1460.31,
+      "text": "Atenção!"
+    },
+    {
+      "start": 1533.22,
+      "end": 1533.46,
+      "text": "."
+    },
+    {
+      "start": 1570.47,
+      "end": 1571.85,
+      "text": "Obrigado."
+    },
+    {
+      "start": 1714.85,
+      "end": 1714.99,
+      "text": "Novo"
+    },
+    {
+      "start": 1714.99,
+      "end": 1715.33,
+      "text": "avanço!"
+    },
+    {
+      "start": 1750.66,
+      "end": 1750.8,
+      "text": "."
+    },
+    {
+      "start": 2195.36,
+      "end": 2195.78,
+      "text": "Atenção!"
+    },
+    {
+      "start": 2271.87,
+      "end": 2272.29,
+      "text": "Incluído"
+    },
+    {
+      "start": 2272.29,
+      "end": 2272.37,
+      "text": "no"
+    },
+    {
+      "start": 2272.37,
+      "end": 2272.63,
+      "text": "artigo."
+    },
+    {
+      "start": 2526.95,
+      "end": 2527.05,
+      "text": "O"
+    },
+    {
+      "start": 2527.05,
+      "end": 2527.23,
+      "text": "meu"
+    },
+    {
+      "start": 2527.23,
+      "end": 2527.69,
+      "text": "tempo."
+    },
+    {
+      "start": 2737.86,
+      "end": 2738.26,
+      "text": "Tomara!"
+    },
+    {
+      "start": 3257.76,
+      "end": 3258.2,
+      "text": "Atenção!"
+    },
+    {
+      "start": 3436.29,
+      "end": 3436.61,
+      "text": "."
+    },
+    {
+      "start": 3554.34,
+      "end": 3554.44,
+      "text": "Não"
+    },
+    {
+      "start": 3554.44,
+      "end": 3554.5,
+      "text": "há"
+    },
+    {
+      "start": 3554.5,
+      "end": 3554.52,
+      "text": "problema."
+    },
+    {
+      "start": 3758.59,
+      "end": 3759.21,
+      "text": "Aplausos."
+    },
+    {
+      "start": 3857.38,
+      "end": 3857.96,
+      "text": "Apenas"
+    },
+    {
+      "start": 3857.96,
+      "end": 3858.18,
+      "text": "um."
+    },
+    {
+      "start": 3974.37,
+      "end": 3975.01,
+      "text": "A..."
+    },
+    {
+      "start": 4024.35,
+      "end": 4024.59,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 4024.59,
+      "end": 4024.67,
+      "text": "o"
+    },
+    {
+      "start": 4024.67,
+      "end": 4024.67,
+      "text": "programa"
+    },
+    {
+      "start": 4024.67,
+      "end": 4024.67,
+      "text": "em"
+    },
+    {
+      "start": 4024.67,
+      "end": 4024.91,
+      "text": "seus"
+    },
+    {
+      "start": 4024.91,
+      "end": 4025.21,
+      "text": "redes"
+    },
+    {
+      "start": 4025.21,
+      "end": 4025.21,
+      "text": "sociais."
+    },
+    {
+      "start": 4176.32,
+      "end": 4176.42,
+      "text": "Fala."
+    },
+    {
+      "start": 4262.63,
+      "end": 4262.99,
+      "text": "Atenção!"
+    },
+    {
+      "start": 4302.75,
+      "end": 4303.21,
+      "text": "Aprecie"
+    },
+    {
+      "start": 4303.21,
+      "end": 4303.39,
+      "text": "o"
+    },
+    {
+      "start": 4303.39,
+      "end": 4303.61,
+      "text": "nosso"
+    },
+    {
+      "start": 4303.61,
+      "end": 4303.75,
+      "text": "canal!"
+    },
+    {
+      "start": 4515.33,
+      "end": 4515.63,
+      "text": "Obrigado."
+    },
+    {
+      "start": 4790.21,
+      "end": 4790.67,
+      "text": "Atenção!"
+    },
+    {
+      "start": 4864.23,
+      "end": 4865.25,
+      "text": "Atenção!"
+    },
+    {
+      "start": 5225.44,
+      "end": 5225.56,
+      "text": "Seja"
+    },
+    {
+      "start": 5225.56,
+      "end": 5225.78,
+      "text": "bem"
+    },
+    {
+      "start": 5225.78,
+      "end": 5225.88,
+      "text": "-vindo"
+    },
+    {
+      "start": 5225.88,
+      "end": 5225.88,
+      "text": "ao"
+    },
+    {
+      "start": 5225.88,
+      "end": 5225.94,
+      "text": "canal."
+    },
+    {
+      "start": 5288.61,
+      "end": 5288.89,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 5288.89,
+      "end": 5289.07,
+      "text": "a"
+    },
+    {
+      "start": 5289.07,
+      "end": 5289.07,
+      "text": "todos"
+    },
+    {
+      "start": 5289.07,
+      "end": 5289.07,
+      "text": "os"
+    },
+    {
+      "start": 5289.07,
+      "end": 5289.09,
+      "text": "participantes."
+    }
+  ]
+}

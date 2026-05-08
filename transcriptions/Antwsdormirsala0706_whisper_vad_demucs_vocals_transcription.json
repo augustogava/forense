@@ -1,0 +1,336 @@
+{
+  "source_file": "Antwsdormirsala0706_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:00": "É isso.",
+    "00:00:04,00:00:04": ".",
+    "00:00:08,00:00:08": "Não!",
+    "00:00:18,00:00:18": "Obrigada.",
+    "00:01:14,00:01:15": "E...",
+    "00:03:50,00:03:50": "Não!",
+    "00:07:07,00:07:07": "Isso é bom.",
+    "00:07:08,00:07:09": "Tá ligado, Xang?",
+    "00:07:09,00:07:10": "Tá ligado.",
+    "00:07:11,00:07:11": "Tá ligado.",
+    "00:07:16,00:07:18": "Não é isso? Não é?",
+    "00:07:26,00:07:27": "Segue ali.",
+    "00:39:15,00:39:16": "Agradecimentos a todos os convidados.",
+    "00:43:00,00:43:01": "É, vou tirar o corpo da panela.",
+    "00:43:02,00:43:04": "Vou tirar o corpo da panela.",
+    "00:43:12,00:43:12": "Exame.",
+    "00:43:14,00:43:15": "Disse o senhor.",
+    "01:12:33,01:12:34": "Não há dúvidas.",
+    "01:13:50,01:13:50": "Atenção!",
+    "01:43:40,01:43:40": "Não há dúvidas.",
+    "01:43:45,01:43:45": "É?",
+    "01:45:57,01:46:02": "O que é que é o sexo?"
+  },
+  "words": [
+    {
+      "start": 0.29,
+      "end": 0.49,
+      "text": "É"
+    },
+    {
+      "start": 0.49,
+      "end": 0.71,
+      "text": "isso."
+    },
+    {
+      "start": 4.55,
+      "end": 4.87,
+      "text": "."
+    },
+    {
+      "start": 8.45,
+      "end": 8.71,
+      "text": "Não!"
+    },
+    {
+      "start": 18.4,
+      "end": 18.56,
+      "text": "Obrigada."
+    },
+    {
+      "start": 74.56,
+      "end": 75.32,
+      "text": "E..."
+    },
+    {
+      "start": 230.53,
+      "end": 230.73,
+      "text": "Não!"
+    },
+    {
+      "start": 427.07,
+      "end": 427.23,
+      "text": "Isso"
+    },
+    {
+      "start": 427.23,
+      "end": 427.29,
+      "text": "é"
+    },
+    {
+      "start": 427.29,
+      "end": 427.51,
+      "text": "bom."
+    },
+    {
+      "start": 428.41,
+      "end": 428.89,
+      "text": "Tá"
+    },
+    {
+      "start": 428.89,
+      "end": 429.29,
+      "text": "ligado,"
+    },
+    {
+      "start": 429.39,
+      "end": 429.61,
+      "text": "Xang?"
+    },
+    {
+      "start": 429.89,
+      "end": 430.37,
+      "text": "Tá"
+    },
+    {
+      "start": 430.37,
+      "end": 430.93,
+      "text": "ligado."
+    },
+    {
+      "start": 431.27,
+      "end": 431.61,
+      "text": "Tá"
+    },
+    {
+      "start": 431.61,
+      "end": 431.85,
+      "text": "ligado."
+    },
+    {
+      "start": 436.19,
+      "end": 436.35,
+      "text": "Não"
+    },
+    {
+      "start": 436.35,
+      "end": 436.49,
+      "text": "é"
+    },
+    {
+      "start": 436.49,
+      "end": 436.81,
+      "text": "isso?"
+    },
+    {
+      "start": 437.57,
+      "end": 438.21,
+      "text": "Não"
+    },
+    {
+      "start": 438.21,
+      "end": 438.53,
+      "text": "é?"
+    },
+    {
+      "start": 446.75,
+      "end": 446.95,
+      "text": "Segue"
+    },
+    {
+      "start": 446.95,
+      "end": 447.11,
+      "text": "ali."
+    },
+    {
+      "start": 2355.81,
+      "end": 2356.45,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 2356.45,
+      "end": 2356.45,
+      "text": "a"
+    },
+    {
+      "start": 2356.45,
+      "end": 2356.45,
+      "text": "todos"
+    },
+    {
+      "start": 2356.45,
+      "end": 2356.45,
+      "text": "os"
+    },
+    {
+      "start": 2356.45,
+      "end": 2356.63,
+      "text": "convidados."
+    },
+    {
+      "start": 2580.8,
+      "end": 2580.88,
+      "text": "É,"
+    },
+    {
+      "start": 2580.9,
+      "end": 2580.98,
+      "text": "vou"
+    },
+    {
+      "start": 2580.98,
+      "end": 2581.18,
+      "text": "tirar"
+    },
+    {
+      "start": 2581.18,
+      "end": 2581.32,
+      "text": "o"
+    },
+    {
+      "start": 2581.32,
+      "end": 2581.46,
+      "text": "corpo"
+    },
+    {
+      "start": 2581.46,
+      "end": 2581.68,
+      "text": "da"
+    },
+    {
+      "start": 2581.68,
+      "end": 2581.96,
+      "text": "panela."
+    },
+    {
+      "start": 2582.9,
+      "end": 2583.22,
+      "text": "Vou"
+    },
+    {
+      "start": 2583.22,
+      "end": 2583.54,
+      "text": "tirar"
+    },
+    {
+      "start": 2583.54,
+      "end": 2583.7,
+      "text": "o"
+    },
+    {
+      "start": 2583.7,
+      "end": 2583.86,
+      "text": "corpo"
+    },
+    {
+      "start": 2583.86,
+      "end": 2584.0,
+      "text": "da"
+    },
+    {
+      "start": 2584.0,
+      "end": 2584.34,
+      "text": "panela."
+    },
+    {
+      "start": 2592.0,
+      "end": 2592.36,
+      "text": "Exame."
+    },
+    {
+      "start": 2594.79,
+      "end": 2594.99,
+      "text": "Disse"
+    },
+    {
+      "start": 2594.99,
+      "end": 2595.11,
+      "text": "o"
+    },
+    {
+      "start": 2595.11,
+      "end": 2595.31,
+      "text": "senhor."
+    },
+    {
+      "start": 4353.38,
+      "end": 4353.74,
+      "text": "Não"
+    },
+    {
+      "start": 4353.74,
+      "end": 4353.8,
+      "text": "há"
+    },
+    {
+      "start": 4353.8,
+      "end": 4354.24,
+      "text": "dúvidas."
+    },
+    {
+      "start": 4430.47,
+      "end": 4430.69,
+      "text": "Atenção!"
+    },
+    {
+      "start": 6220.51,
+      "end": 6220.51,
+      "text": "Não"
+    },
+    {
+      "start": 6220.51,
+      "end": 6220.51,
+      "text": "há"
+    },
+    {
+      "start": 6220.51,
+      "end": 6220.97,
+      "text": "dúvidas."
+    },
+    {
+      "start": 6225.06,
+      "end": 6225.3,
+      "text": "É?"
+    },
+    {
+      "start": 6357.92,
+      "end": 6359.3,
+      "text": "O"
+    },
+    {
+      "start": 6359.3,
+      "end": 6359.38,
+      "text": "que"
+    },
+    {
+      "start": 6359.38,
+      "end": 6359.6,
+      "text": "é"
+    },
+    {
+      "start": 6359.6,
+      "end": 6359.62,
+      "text": "que"
+    },
+    {
+      "start": 6359.62,
+      "end": 6360.18,
+      "text": "é"
+    },
+    {
+      "start": 6360.18,
+      "end": 6360.88,
+      "text": "o"
+    },
+    {
+      "start": 6360.88,
+      "end": 6362.46,
+      "text": "sexo?"
+    }
+  ]
+}

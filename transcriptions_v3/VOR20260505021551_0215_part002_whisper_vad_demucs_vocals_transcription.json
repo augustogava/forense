@@ -1,0 +1,273 @@
+{
+  "source_file": "VOR20260505021551_0215_part002_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:17:40,00:17:41": "É isso.",
+    "00:17:41,00:17:42": "É isso.",
+    "00:17:43,00:17:44": "Eu vou se ver em casa.",
+    "00:19:06,00:19:07": "Como está o prato?",
+    "00:28:22,00:29:41": "Tem um porco.",
+    "00:29:41,00:30:19": "Tem que ter essa roupa então.",
+    "00:30:23,00:30:24": "Tira o chão e estira.",
+    "00:30:24,00:30:25": "Tira essa roupa.",
+    "00:32:03,00:32:04": "Que bonita.",
+    "00:32:05,00:32:30": "Quer aqui então?",
+    "00:32:30,00:33:15": "Vou botar a cor de você."
+  },
+  "hallucinations_filtered": 6,
+  "words": [
+    {
+      "start": 1060.61,
+      "end": 1060.65,
+      "text": "É",
+      "confidence": 0.271
+    },
+    {
+      "start": 1060.65,
+      "end": 1061.29,
+      "text": "isso.",
+      "confidence": 0.895
+    },
+    {
+      "start": 1061.65,
+      "end": 1061.75,
+      "text": "É",
+      "confidence": 0.868
+    },
+    {
+      "start": 1061.75,
+      "end": 1062.16,
+      "text": "isso.",
+      "confidence": 0.87
+    },
+    {
+      "start": 1063.53,
+      "end": 1063.55,
+      "text": "Eu",
+      "confidence": 0.768
+    },
+    {
+      "start": 1063.55,
+      "end": 1063.69,
+      "text": "vou",
+      "confidence": 0.853
+    },
+    {
+      "start": 1063.69,
+      "end": 1063.83,
+      "text": "se",
+      "confidence": 0.246
+    },
+    {
+      "start": 1063.83,
+      "end": 1063.97,
+      "text": "ver",
+      "confidence": 0.161
+    },
+    {
+      "start": 1063.97,
+      "end": 1064.15,
+      "text": "em",
+      "confidence": 0.381
+    },
+    {
+      "start": 1064.15,
+      "end": 1064.35,
+      "text": "casa.",
+      "confidence": 0.855
+    },
+    {
+      "start": 1146.43,
+      "end": 1146.63,
+      "text": "Como",
+      "confidence": 0.481
+    },
+    {
+      "start": 1146.63,
+      "end": 1146.89,
+      "text": "está",
+      "confidence": 0.648
+    },
+    {
+      "start": 1146.89,
+      "end": 1146.99,
+      "text": "o",
+      "confidence": 0.944
+    },
+    {
+      "start": 1146.99,
+      "end": 1147.31,
+      "text": "prato?",
+      "confidence": 0.402
+    },
+    {
+      "start": 1702.72,
+      "end": 1702.78,
+      "text": "Tem",
+      "confidence": 0.329
+    },
+    {
+      "start": 1780.46,
+      "end": 1780.66,
+      "text": "um",
+      "confidence": 0.956
+    },
+    {
+      "start": 1780.66,
+      "end": 1781.26,
+      "text": "porco.",
+      "confidence": 0.391
+    },
+    {
+      "start": 1781.64,
+      "end": 1781.74,
+      "text": "Tem",
+      "confidence": 0.154
+    },
+    {
+      "start": 1818.13,
+      "end": 1818.18,
+      "text": "que",
+      "confidence": 0.556
+    },
+    {
+      "start": 1818.18,
+      "end": 1818.36,
+      "text": "ter",
+      "confidence": 0.913
+    },
+    {
+      "start": 1818.36,
+      "end": 1818.44,
+      "text": "essa",
+      "confidence": 0.97
+    },
+    {
+      "start": 1818.44,
+      "end": 1818.76,
+      "text": "roupa",
+      "confidence": 0.981
+    },
+    {
+      "start": 1818.76,
+      "end": 1819.06,
+      "text": "então.",
+      "confidence": 0.45
+    },
+    {
+      "start": 1823.18,
+      "end": 1823.54,
+      "text": "Tira",
+      "confidence": 0.938
+    },
+    {
+      "start": 1823.54,
+      "end": 1823.64,
+      "text": "o",
+      "confidence": 0.565
+    },
+    {
+      "start": 1823.64,
+      "end": 1823.96,
+      "text": "chão",
+      "confidence": 0.387
+    },
+    {
+      "start": 1823.96,
+      "end": 1824.0,
+      "text": "e",
+      "confidence": 0.36
+    },
+    {
+      "start": 1824.0,
+      "end": 1824.34,
+      "text": "estira.",
+      "confidence": 0.725
+    },
+    {
+      "start": 1824.74,
+      "end": 1825.08,
+      "text": "Tira",
+      "confidence": 0.707
+    },
+    {
+      "start": 1825.08,
+      "end": 1825.34,
+      "text": "essa",
+      "confidence": 0.763
+    },
+    {
+      "start": 1825.34,
+      "end": 1825.7,
+      "text": "roupa.",
+      "confidence": 0.994
+    },
+    {
+      "start": 1923.51,
+      "end": 1923.67,
+      "text": "Que",
+      "confidence": 0.425
+    },
+    {
+      "start": 1923.67,
+      "end": 1924.27,
+      "text": "bonita.",
+      "confidence": 0.38
+    },
+    {
+      "start": 1925.45,
+      "end": 1925.68,
+      "text": "Quer",
+      "confidence": 0.401
+    },
+    {
+      "start": 1950.58,
+      "end": 1950.8,
+      "text": "aqui",
+      "confidence": 0.479
+    },
+    {
+      "start": 1950.8,
+      "end": 1950.9,
+      "text": "então?",
+      "confidence": 0.487
+    },
+    {
+      "start": 1950.9,
+      "end": 1951.76,
+      "text": "Vou",
+      "confidence": 0.429
+    },
+    {
+      "start": 1994.99,
+      "end": 1995.26,
+      "text": "botar",
+      "confidence": 0.837
+    },
+    {
+      "start": 1995.26,
+      "end": 1995.3,
+      "text": "a",
+      "confidence": 0.591
+    },
+    {
+      "start": 1995.3,
+      "end": 1995.44,
+      "text": "cor",
+      "confidence": 0.268
+    },
+    {
+      "start": 1995.44,
+      "end": 1995.56,
+      "text": "de",
+      "confidence": 0.963
+    },
+    {
+      "start": 1995.56,
+      "end": 1995.76,
+      "text": "você.",
+      "confidence": 0.621
+    }
+  ]
+}

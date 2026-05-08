@@ -1,0 +1,43 @@
+{
+  "source_file": "Antesdormirquarto0505_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:07:29,00:07:30": "A gente...",
+    "00:07:31,00:07:33": "A gente...",
+    "00:12:00,00:12:01": "o"
+  },
+  "hallucinations_filtered": 6,
+  "words": [
+    {
+      "start": 449.66,
+      "end": 450.02,
+      "text": "A",
+      "confidence": 0.563
+    },
+    {
+      "start": 450.02,
+      "end": 450.2,
+      "text": "gente...",
+      "confidence": 0.996
+    },
+    {
+      "start": 451.0,
+      "end": 452.53,
+      "text": "A",
+      "confidence": 0.86
+    },
+    {
+      "start": 452.89,
+      "end": 453.67,
+      "text": "gente...",
+      "confidence": 0.997
+    },
+    {
+      "start": 720.22,
+      "end": 721.32,
+      "text": "o",
+      "confidence": 0.309
+    }
+  ]
+}

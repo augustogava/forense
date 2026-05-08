@@ -1,0 +1,247 @@
+{
+  "source_file": "Quartotarde0605_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:52:06,00:52:07": "E aí",
+    "00:53:40,00:53:52": "E aí",
+    "01:00:12,01:00:15": "E aí ele falou para ela que tinha a vida.",
+    "01:00:15,01:00:17": "Aí eu disse, não, não.",
+    "01:00:31,01:00:32": "Eu disse, não, não.",
+    "01:00:32,01:00:33": "Eu disse, não, não.",
+    "01:00:35,01:00:36": "Aí eu disse, não, não.",
+    "01:00:36,01:00:38": "Aí eu disse, não, não.",
+    "01:05:12,01:05:12": "Obrigado."
+  },
+  "hallucinations_filtered": 3,
+  "words": [
+    {
+      "start": 3126.32,
+      "end": 3126.34,
+      "text": "E",
+      "confidence": 0.742
+    },
+    {
+      "start": 3126.34,
+      "end": 3127.12,
+      "text": "aí",
+      "confidence": 0.991
+    },
+    {
+      "start": 3220.96,
+      "end": 3221.04,
+      "text": "E",
+      "confidence": 0.894
+    },
+    {
+      "start": 3232.05,
+      "end": 3232.21,
+      "text": "aí",
+      "confidence": 0.996
+    },
+    {
+      "start": 3612.5,
+      "end": 3612.64,
+      "text": "E",
+      "confidence": 0.726
+    },
+    {
+      "start": 3612.64,
+      "end": 3612.78,
+      "text": "aí",
+      "confidence": 0.953
+    },
+    {
+      "start": 3612.78,
+      "end": 3612.96,
+      "text": "ele",
+      "confidence": 0.425
+    },
+    {
+      "start": 3612.96,
+      "end": 3613.22,
+      "text": "falou",
+      "confidence": 0.578
+    },
+    {
+      "start": 3613.22,
+      "end": 3613.58,
+      "text": "para",
+      "confidence": 0.527
+    },
+    {
+      "start": 3613.58,
+      "end": 3613.76,
+      "text": "ela",
+      "confidence": 0.793
+    },
+    {
+      "start": 3613.76,
+      "end": 3614.26,
+      "text": "que",
+      "confidence": 0.43
+    },
+    {
+      "start": 3614.67,
+      "end": 3615.44,
+      "text": "tinha",
+      "confidence": 0.861
+    },
+    {
+      "start": 3615.44,
+      "end": 3615.56,
+      "text": "a",
+      "confidence": 0.194
+    },
+    {
+      "start": 3615.56,
+      "end": 3615.8,
+      "text": "vida.",
+      "confidence": 0.75
+    },
+    {
+      "start": 3615.86,
+      "end": 3616.4,
+      "text": "Aí",
+      "confidence": 0.691
+    },
+    {
+      "start": 3616.4,
+      "end": 3616.5,
+      "text": "eu",
+      "confidence": 0.702
+    },
+    {
+      "start": 3616.5,
+      "end": 3616.68,
+      "text": "disse,",
+      "confidence": 0.193
+    },
+    {
+      "start": 3616.72,
+      "end": 3616.88,
+      "text": "não,",
+      "confidence": 0.79
+    },
+    {
+      "start": 3617.04,
+      "end": 3617.1,
+      "text": "não.",
+      "confidence": 0.905
+    },
+    {
+      "start": 3631.92,
+      "end": 3632.02,
+      "text": "Eu",
+      "confidence": 0.287
+    },
+    {
+      "start": 3632.02,
+      "end": 3632.18,
+      "text": "disse,",
+      "confidence": 0.889
+    },
+    {
+      "start": 3632.26,
+      "end": 3632.44,
+      "text": "não,",
+      "confidence": 0.791
+    },
+    {
+      "start": 3632.6,
+      "end": 3632.7,
+      "text": "não.",
+      "confidence": 0.989
+    },
+    {
+      "start": 3632.7,
+      "end": 3632.72,
+      "text": "Eu",
+      "confidence": 0.477
+    },
+    {
+      "start": 3632.72,
+      "end": 3632.74,
+      "text": "disse,",
+      "confidence": 0.964
+    },
+    {
+      "start": 3632.74,
+      "end": 3632.76,
+      "text": "não,",
+      "confidence": 0.97
+    },
+    {
+      "start": 3632.76,
+      "end": 3633.17,
+      "text": "não.",
+      "confidence": 0.998
+    },
+    {
+      "start": 3635.39,
+      "end": 3635.55,
+      "text": "Aí",
+      "confidence": 0.449
+    },
+    {
+      "start": 3635.55,
+      "end": 3635.69,
+      "text": "eu",
+      "confidence": 0.631
+    },
+    {
+      "start": 3635.69,
+      "end": 3635.89,
+      "text": "disse,",
+      "confidence": 0.843
+    },
+    {
+      "start": 3636.41,
+      "end": 3636.61,
+      "text": "não,",
+      "confidence": 0.967
+    },
+    {
+      "start": 3636.89,
+      "end": 3636.91,
+      "text": "não.",
+      "confidence": 0.999
+    },
+    {
+      "start": 3636.91,
+      "end": 3636.99,
+      "text": "Aí",
+      "confidence": 0.635
+    },
+    {
+      "start": 3636.99,
+      "end": 3637.25,
+      "text": "eu",
+      "confidence": 0.648
+    },
+    {
+      "start": 3637.25,
+      "end": 3637.41,
+      "text": "disse,",
+      "confidence": 0.979
+    },
+    {
+      "start": 3637.55,
+      "end": 3637.77,
+      "text": "não,",
+      "confidence": 0.986
+    },
+    {
+      "start": 3637.91,
+      "end": 3638.01,
+      "text": "não.",
+      "confidence": 0.999
+    },
+    {
+      "start": 3912.05,
+      "end": 3912.7,
+      "text": "Obrigado.",
+      "confidence": 0.535
+    }
+  ]
+}

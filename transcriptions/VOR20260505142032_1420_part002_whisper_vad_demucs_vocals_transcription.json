@@ -1,0 +1,136 @@
+{
+  "source_file": "VOR20260505142032_1420_part002_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:04:18,00:04:18": "Atenção!",
+    "00:05:34,00:05:34": ".",
+    "00:08:19,00:08:20": "Tchau, tchau.",
+    "00:25:19,00:25:20": "Não se esqueça de deixar seu like e compartilhar o vídeo.",
+    "00:28:40,00:28:42": "Atenção!",
+    "00:30:42,00:30:43": "AAAAAAAH!",
+    "00:33:27,00:33:27": "Obrigado.",
+    "00:37:06,00:37:06": "Não!",
+    "00:42:41,00:42:41": "Opa!",
+    "00:50:34,00:50:34": "Sim.",
+    "00:55:15,00:55:16": "Simplesmente.",
+    "01:00:01,01:00:01": "."
+  },
+  "words": [
+    {
+      "start": 258.56,
+      "end": 258.9,
+      "text": "Atenção!"
+    },
+    {
+      "start": 334.47,
+      "end": 334.71,
+      "text": "."
+    },
+    {
+      "start": 499.62,
+      "end": 499.8,
+      "text": "Tchau,"
+    },
+    {
+      "start": 499.8,
+      "end": 500.12,
+      "text": "tchau."
+    },
+    {
+      "start": 1519.91,
+      "end": 1520.09,
+      "text": "Não"
+    },
+    {
+      "start": 1520.09,
+      "end": 1520.13,
+      "text": "se"
+    },
+    {
+      "start": 1520.13,
+      "end": 1520.53,
+      "text": "esqueça"
+    },
+    {
+      "start": 1520.53,
+      "end": 1520.63,
+      "text": "de"
+    },
+    {
+      "start": 1520.63,
+      "end": 1520.63,
+      "text": "deixar"
+    },
+    {
+      "start": 1520.63,
+      "end": 1520.63,
+      "text": "seu"
+    },
+    {
+      "start": 1520.63,
+      "end": 1520.63,
+      "text": "like"
+    },
+    {
+      "start": 1520.63,
+      "end": 1520.63,
+      "text": "e"
+    },
+    {
+      "start": 1520.63,
+      "end": 1520.63,
+      "text": "compartilhar"
+    },
+    {
+      "start": 1520.63,
+      "end": 1520.63,
+      "text": "o"
+    },
+    {
+      "start": 1520.63,
+      "end": 1520.63,
+      "text": "vídeo."
+    },
+    {
+      "start": 1720.55,
+      "end": 1722.25,
+      "text": "Atenção!"
+    },
+    {
+      "start": 1842.47,
+      "end": 1843.01,
+      "text": "AAAAAAAH!"
+    },
+    {
+      "start": 2007.04,
+      "end": 2007.44,
+      "text": "Obrigado."
+    },
+    {
+      "start": 2226.72,
+      "end": 2226.88,
+      "text": "Não!"
+    },
+    {
+      "start": 2561.03,
+      "end": 2561.83,
+      "text": "Opa!"
+    },
+    {
+      "start": 3034.72,
+      "end": 3034.96,
+      "text": "Sim."
+    },
+    {
+      "start": 3315.49,
+      "end": 3316.05,
+      "text": "Simplesmente."
+    },
+    {
+      "start": 3601.31,
+      "end": 3601.57,
+      "text": "."
+    }
+  ]
+}

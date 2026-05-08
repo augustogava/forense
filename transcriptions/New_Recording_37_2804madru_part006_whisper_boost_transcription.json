@@ -1,0 +1,15 @@
+{
+  "source_file": "New_Recording_37_2804madru_part006_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:41:55,00:41:56": "Aplausos"
+  },
+  "words": [
+    {
+      "start": 2515.94,
+      "end": 2516.98,
+      "text": "Aplausos"
+    }
+  ]
+}

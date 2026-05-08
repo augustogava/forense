@@ -1,0 +1,60 @@
+{
+  "source_file": "Antwsdormirsala0706_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:07:19,00:07:27": "Vai lá na mãe, vai. Chega daí.",
+    "01:12:33,01:12:34": "Amém."
+  },
+  "hallucinations_filtered": 1,
+  "words": [
+    {
+      "start": 439.93,
+      "end": 440.59,
+      "text": "Vai",
+      "confidence": 0.066
+    },
+    {
+      "start": 445.58,
+      "end": 445.7,
+      "text": "lá",
+      "confidence": 0.57
+    },
+    {
+      "start": 445.7,
+      "end": 445.84,
+      "text": "na",
+      "confidence": 0.568
+    },
+    {
+      "start": 445.84,
+      "end": 445.96,
+      "text": "mãe,",
+      "confidence": 0.63
+    },
+    {
+      "start": 446.04,
+      "end": 446.18,
+      "text": "vai.",
+      "confidence": 0.923
+    },
+    {
+      "start": 446.3,
+      "end": 446.98,
+      "text": "Chega",
+      "confidence": 0.718
+    },
+    {
+      "start": 446.98,
+      "end": 447.16,
+      "text": "daí.",
+      "confidence": 0.796
+    },
+    {
+      "start": 4353.8,
+      "end": 4354.67,
+      "text": "Amém.",
+      "confidence": 0.582
+    }
+  ]
+}

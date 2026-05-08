@@ -1,0 +1,1087 @@
+{
+  "source_file": "Taquaaposbanho0205_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:02:39,00:02:43": "Meu papai.",
+    "00:02:47,00:02:48": "Meu papai.",
+    "00:02:51,00:02:52": "Olha meu papai.",
+    "00:02:53,00:02:53": "Olha meu nariz.",
+    "00:02:56,00:02:56": "Nariz.",
+    "00:02:59,00:02:59": "Meu nariz.",
+    "00:03:01,00:03:02": "Fala teu nariz.",
+    "00:03:03,00:03:04": "Fala teu nariz.",
+    "00:03:04,00:03:05": "Boca.",
+    "00:03:11,00:03:11": "Boca.",
+    "00:03:12,00:03:16": "Meu nariz.",
+    "00:03:40,00:04:27": "o que é isso?",
+    "00:04:29,00:04:30": "o que é isso?",
+    "00:22:45,00:24:19": "Cadê as suas roupas?",
+    "00:24:20,00:24:21": "Cadê as suas roupas?",
+    "00:24:24,00:24:25": "Você tem tia nesse cabelo?",
+    "00:24:26,00:24:27": "Tem tia nesse cabelo?",
+    "00:24:27,00:24:28": "Olha, tem tia.",
+    "00:24:30,00:24:31": "Tia.",
+    "00:24:33,00:24:34": "Olha quem está te chamando.",
+    "00:24:35,00:24:36": "Tia.",
+    "00:24:39,00:24:39": "Tia.",
+    "00:24:41,00:24:41": "o",
+    "00:24:48,00:24:48": "o",
+    "00:26:50,00:26:50": "Não?",
+    "00:41:12,00:41:13": "Cicadinha da vovó.",
+    "00:41:17,00:41:20": "Pega o nome da dica da cicada da vovó, vem com ela.",
+    "00:41:24,00:41:24": "Vai derrubando.",
+    "00:41:26,00:41:27": "Vai derrubando, tá me enganando.",
+    "00:41:29,00:41:29": "Vem cá.",
+    "00:41:31,00:41:31": "Aqui, ó.",
+    "00:42:05,00:42:05": "vem aqui",
+    "00:53:48,00:53:48": "não foi?",
+    "00:53:49,00:53:50": "você não quer nanar?",
+    "00:53:51,00:53:52": "você quer nanar ou não?",
+    "00:53:53,00:53:54": "não quer ir te ver nanar?",
+    "00:53:56,00:53:56": "vem aqui",
+    "00:53:57,00:53:59": "deixa eu te ver",
+    "00:53:59,00:56:07": "você não quer nanar?",
+    "00:57:26,00:57:26": "vai lá",
+    "00:57:26,00:57:27": "não quer nanar?",
+    "00:57:30,00:57:32": "você quer nanar?",
+    "00:57:36,00:57:36": "vem aqui",
+    "00:58:00,00:58:00": "abraça a mãe",
+    "00:58:01,00:58:02": "vamos chamar o Tudor",
+    "00:58:02,00:58:04": "Me durou, vai fazer uma tesona",
+    "00:58:06,00:58:08": "Me que rei, me que eu, me que eu",
+    "00:59:11,00:59:13": "Vamos, peraí, vou pôr o chinelo, vem cá",
+    "00:59:17,00:59:19": "Vem pôr o chinelo, vem",
+    "00:59:29,00:59:30": "Dá a patinha",
+    "00:59:36,00:59:47": "Vou pôr a patinha dela agora"
+  },
+  "hallucinations_filtered": 10,
+  "words": [
+    {
+      "start": 159.57,
+      "end": 160.25,
+      "text": "Meu",
+      "confidence": 0.166
+    },
+    {
+      "start": 161.61,
+      "end": 163.46,
+      "text": "papai.",
+      "confidence": 0.862
+    },
+    {
+      "start": 167.53,
+      "end": 167.89,
+      "text": "Meu",
+      "confidence": 0.64
+    },
+    {
+      "start": 167.89,
+      "end": 168.35,
+      "text": "papai.",
+      "confidence": 0.95
+    },
+    {
+      "start": 171.45,
+      "end": 171.59,
+      "text": "Olha",
+      "confidence": 0.221
+    },
+    {
+      "start": 171.59,
+      "end": 171.73,
+      "text": "meu",
+      "confidence": 0.447
+    },
+    {
+      "start": 171.73,
+      "end": 172.21,
+      "text": "papai.",
+      "confidence": 0.985
+    },
+    {
+      "start": 173.33,
+      "end": 173.57,
+      "text": "Olha",
+      "confidence": 0.314
+    },
+    {
+      "start": 173.57,
+      "end": 173.95,
+      "text": "meu",
+      "confidence": 0.368
+    },
+    {
+      "start": 173.95,
+      "end": 173.97,
+      "text": "nariz.",
+      "confidence": 0.987
+    },
+    {
+      "start": 176.05,
+      "end": 176.43,
+      "text": "Nariz.",
+      "confidence": 0.819
+    },
+    {
+      "start": 179.25,
+      "end": 179.53,
+      "text": "Meu",
+      "confidence": 0.855
+    },
+    {
+      "start": 179.53,
+      "end": 179.99,
+      "text": "nariz.",
+      "confidence": 0.992
+    },
+    {
+      "start": 181.65,
+      "end": 181.91,
+      "text": "Fala",
+      "confidence": 0.641
+    },
+    {
+      "start": 181.91,
+      "end": 182.03,
+      "text": "teu",
+      "confidence": 0.55
+    },
+    {
+      "start": 182.03,
+      "end": 182.49,
+      "text": "nariz.",
+      "confidence": 0.997
+    },
+    {
+      "start": 183.41,
+      "end": 183.67,
+      "text": "Fala",
+      "confidence": 0.96
+    },
+    {
+      "start": 183.67,
+      "end": 183.83,
+      "text": "teu",
+      "confidence": 0.976
+    },
+    {
+      "start": 183.83,
+      "end": 184.23,
+      "text": "nariz.",
+      "confidence": 0.999
+    },
+    {
+      "start": 184.89,
+      "end": 185.31,
+      "text": "Boca.",
+      "confidence": 0.975
+    },
+    {
+      "start": 191.64,
+      "end": 191.94,
+      "text": "Boca.",
+      "confidence": 0.987
+    },
+    {
+      "start": 192.3,
+      "end": 193.07,
+      "text": "Meu",
+      "confidence": 0.61
+    },
+    {
+      "start": 196.38,
+      "end": 196.54,
+      "text": "nariz.",
+      "confidence": 0.995
+    },
+    {
+      "start": 220.63,
+      "end": 220.99,
+      "text": "o",
+      "confidence": 0.131
+    },
+    {
+      "start": 267.28,
+      "end": 267.63,
+      "text": "que",
+      "confidence": 0.656
+    },
+    {
+      "start": 267.63,
+      "end": 267.77,
+      "text": "é",
+      "confidence": 0.656
+    },
+    {
+      "start": 267.77,
+      "end": 267.95,
+      "text": "isso?",
+      "confidence": 0.916
+    },
+    {
+      "start": 269.18,
+      "end": 269.4,
+      "text": "o",
+      "confidence": 0.297
+    },
+    {
+      "start": 269.4,
+      "end": 269.54,
+      "text": "que",
+      "confidence": 0.862
+    },
+    {
+      "start": 269.54,
+      "end": 269.86,
+      "text": "é",
+      "confidence": 0.902
+    },
+    {
+      "start": 269.86,
+      "end": 270.04,
+      "text": "isso?",
+      "confidence": 0.964
+    },
+    {
+      "start": 1365.84,
+      "end": 1366.51,
+      "text": "Cadê",
+      "confidence": 0.965
+    },
+    {
+      "start": 1458.54,
+      "end": 1458.6,
+      "text": "as",
+      "confidence": 0.966
+    },
+    {
+      "start": 1458.6,
+      "end": 1458.86,
+      "text": "suas",
+      "confidence": 0.96
+    },
+    {
+      "start": 1458.86,
+      "end": 1459.38,
+      "text": "roupas?",
+      "confidence": 0.998
+    },
+    {
+      "start": 1460.9,
+      "end": 1461.22,
+      "text": "Cadê",
+      "confidence": 0.989
+    },
+    {
+      "start": 1461.22,
+      "end": 1461.28,
+      "text": "as",
+      "confidence": 0.967
+    },
+    {
+      "start": 1461.28,
+      "end": 1461.58,
+      "text": "suas",
+      "confidence": 0.968
+    },
+    {
+      "start": 1461.58,
+      "end": 1461.94,
+      "text": "roupas?",
+      "confidence": 0.893
+    },
+    {
+      "start": 1464.03,
+      "end": 1464.17,
+      "text": "Você",
+      "confidence": 0.77
+    },
+    {
+      "start": 1464.17,
+      "end": 1464.27,
+      "text": "tem",
+      "confidence": 0.435
+    },
+    {
+      "start": 1464.27,
+      "end": 1464.51,
+      "text": "tia",
+      "confidence": 0.301
+    },
+    {
+      "start": 1464.51,
+      "end": 1464.59,
+      "text": "nesse",
+      "confidence": 0.328
+    },
+    {
+      "start": 1464.59,
+      "end": 1465.03,
+      "text": "cabelo?",
+      "confidence": 0.999
+    },
+    {
+      "start": 1466.13,
+      "end": 1466.29,
+      "text": "Tem",
+      "confidence": 0.375
+    },
+    {
+      "start": 1466.29,
+      "end": 1466.65,
+      "text": "tia",
+      "confidence": 0.952
+    },
+    {
+      "start": 1466.65,
+      "end": 1466.77,
+      "text": "nesse",
+      "confidence": 0.988
+    },
+    {
+      "start": 1466.77,
+      "end": 1467.1,
+      "text": "cabelo?",
+      "confidence": 0.998
+    },
+    {
+      "start": 1467.1,
+      "end": 1467.67,
+      "text": "Olha,",
+      "confidence": 0.153
+    },
+    {
+      "start": 1467.77,
+      "end": 1467.95,
+      "text": "tem",
+      "confidence": 0.396
+    },
+    {
+      "start": 1467.95,
+      "end": 1468.33,
+      "text": "tia.",
+      "confidence": 0.772
+    },
+    {
+      "start": 1470.07,
+      "end": 1471.83,
+      "text": "Tia.",
+      "confidence": 0.614
+    },
+    {
+      "start": 1473.49,
+      "end": 1473.59,
+      "text": "Olha",
+      "confidence": 0.905
+    },
+    {
+      "start": 1473.59,
+      "end": 1473.73,
+      "text": "quem",
+      "confidence": 0.958
+    },
+    {
+      "start": 1473.73,
+      "end": 1473.89,
+      "text": "está",
+      "confidence": 0.742
+    },
+    {
+      "start": 1473.89,
+      "end": 1473.99,
+      "text": "te",
+      "confidence": 0.992
+    },
+    {
+      "start": 1473.99,
+      "end": 1474.43,
+      "text": "chamando.",
+      "confidence": 0.995
+    },
+    {
+      "start": 1475.65,
+      "end": 1476.43,
+      "text": "Tia.",
+      "confidence": 0.824
+    },
+    {
+      "start": 1479.64,
+      "end": 1479.89,
+      "text": "Tia.",
+      "confidence": 0.393
+    },
+    {
+      "start": 1481.52,
+      "end": 1481.8,
+      "text": "o",
+      "confidence": 0.536
+    },
+    {
+      "start": 1488.38,
+      "end": 1488.82,
+      "text": "o",
+      "confidence": 0.905
+    },
+    {
+      "start": 1610.05,
+      "end": 1610.27,
+      "text": "Não?",
+      "confidence": 0.42
+    },
+    {
+      "start": 2472.18,
+      "end": 2472.76,
+      "text": "Cicadinha",
+      "confidence": 0.389
+    },
+    {
+      "start": 2472.76,
+      "end": 2472.9,
+      "text": "da",
+      "confidence": 0.736
+    },
+    {
+      "start": 2472.9,
+      "end": 2473.36,
+      "text": "vovó.",
+      "confidence": 0.977
+    },
+    {
+      "start": 2477.69,
+      "end": 2477.97,
+      "text": "Pega",
+      "confidence": 0.622
+    },
+    {
+      "start": 2477.97,
+      "end": 2478.05,
+      "text": "o",
+      "confidence": 0.557
+    },
+    {
+      "start": 2478.05,
+      "end": 2478.33,
+      "text": "nome",
+      "confidence": 0.699
+    },
+    {
+      "start": 2478.33,
+      "end": 2478.49,
+      "text": "da",
+      "confidence": 0.651
+    },
+    {
+      "start": 2478.49,
+      "end": 2478.75,
+      "text": "dica",
+      "confidence": 0.429
+    },
+    {
+      "start": 2478.75,
+      "end": 2478.91,
+      "text": "da",
+      "confidence": 0.821
+    },
+    {
+      "start": 2478.91,
+      "end": 2479.17,
+      "text": "cicada",
+      "confidence": 0.58
+    },
+    {
+      "start": 2479.17,
+      "end": 2479.27,
+      "text": "da",
+      "confidence": 0.978
+    },
+    {
+      "start": 2479.27,
+      "end": 2479.65,
+      "text": "vovó,",
+      "confidence": 0.994
+    },
+    {
+      "start": 2479.69,
+      "end": 2479.77,
+      "text": "vem",
+      "confidence": 0.662
+    },
+    {
+      "start": 2479.77,
+      "end": 2479.89,
+      "text": "com",
+      "confidence": 0.525
+    },
+    {
+      "start": 2479.89,
+      "end": 2480.07,
+      "text": "ela.",
+      "confidence": 0.451
+    },
+    {
+      "start": 2484.25,
+      "end": 2484.35,
+      "text": "Vai",
+      "confidence": 0.148
+    },
+    {
+      "start": 2484.35,
+      "end": 2484.97,
+      "text": "derrubando.",
+      "confidence": 0.616
+    },
+    {
+      "start": 2486.09,
+      "end": 2486.25,
+      "text": "Vai",
+      "confidence": 0.293
+    },
+    {
+      "start": 2486.25,
+      "end": 2486.69,
+      "text": "derrubando,",
+      "confidence": 0.979
+    },
+    {
+      "start": 2486.69,
+      "end": 2486.83,
+      "text": "tá",
+      "confidence": 0.405
+    },
+    {
+      "start": 2486.83,
+      "end": 2486.91,
+      "text": "me",
+      "confidence": 0.543
+    },
+    {
+      "start": 2486.91,
+      "end": 2487.23,
+      "text": "enganando.",
+      "confidence": 0.757
+    },
+    {
+      "start": 2489.61,
+      "end": 2489.85,
+      "text": "Vem",
+      "confidence": 0.976
+    },
+    {
+      "start": 2489.85,
+      "end": 2489.97,
+      "text": "cá.",
+      "confidence": 0.991
+    },
+    {
+      "start": 2491.21,
+      "end": 2491.39,
+      "text": "Aqui,",
+      "confidence": 0.179
+    },
+    {
+      "start": 2491.41,
+      "end": 2491.53,
+      "text": "ó.",
+      "confidence": 0.622
+    },
+    {
+      "start": 2525.1,
+      "end": 2525.59,
+      "text": "vem",
+      "confidence": 0.213
+    },
+    {
+      "start": 2525.59,
+      "end": 2525.89,
+      "text": "aqui",
+      "confidence": 0.983
+    },
+    {
+      "start": 3228.07,
+      "end": 3228.25,
+      "text": "não",
+      "confidence": 0.216
+    },
+    {
+      "start": 3228.25,
+      "end": 3228.53,
+      "text": "foi?",
+      "confidence": 0.516
+    },
+    {
+      "start": 3229.23,
+      "end": 3229.57,
+      "text": "você",
+      "confidence": 0.731
+    },
+    {
+      "start": 3229.57,
+      "end": 3229.71,
+      "text": "não",
+      "confidence": 0.302
+    },
+    {
+      "start": 3229.71,
+      "end": 3229.91,
+      "text": "quer",
+      "confidence": 0.75
+    },
+    {
+      "start": 3229.91,
+      "end": 3230.45,
+      "text": "nanar?",
+      "confidence": 0.47
+    },
+    {
+      "start": 3231.65,
+      "end": 3231.81,
+      "text": "você",
+      "confidence": 0.518
+    },
+    {
+      "start": 3231.81,
+      "end": 3231.97,
+      "text": "quer",
+      "confidence": 0.758
+    },
+    {
+      "start": 3231.97,
+      "end": 3232.39,
+      "text": "nanar",
+      "confidence": 0.987
+    },
+    {
+      "start": 3232.39,
+      "end": 3232.47,
+      "text": "ou",
+      "confidence": 0.457
+    },
+    {
+      "start": 3232.47,
+      "end": 3232.63,
+      "text": "não?",
+      "confidence": 0.995
+    },
+    {
+      "start": 3233.61,
+      "end": 3233.95,
+      "text": "não",
+      "confidence": 0.494
+    },
+    {
+      "start": 3233.95,
+      "end": 3234.09,
+      "text": "quer",
+      "confidence": 0.365
+    },
+    {
+      "start": 3234.09,
+      "end": 3234.27,
+      "text": "ir",
+      "confidence": 0.471
+    },
+    {
+      "start": 3234.27,
+      "end": 3234.37,
+      "text": "te",
+      "confidence": 0.22
+    },
+    {
+      "start": 3234.37,
+      "end": 3234.45,
+      "text": "ver",
+      "confidence": 0.45
+    },
+    {
+      "start": 3234.45,
+      "end": 3234.75,
+      "text": "nanar?",
+      "confidence": 0.953
+    },
+    {
+      "start": 3236.04,
+      "end": 3236.24,
+      "text": "vem",
+      "confidence": 0.303
+    },
+    {
+      "start": 3236.24,
+      "end": 3236.46,
+      "text": "aqui",
+      "confidence": 0.544
+    },
+    {
+      "start": 3237.97,
+      "end": 3238.47,
+      "text": "deixa",
+      "confidence": 0.234
+    },
+    {
+      "start": 3238.47,
+      "end": 3238.97,
+      "text": "eu",
+      "confidence": 0.76
+    },
+    {
+      "start": 3238.97,
+      "end": 3239.23,
+      "text": "te",
+      "confidence": 0.353
+    },
+    {
+      "start": 3239.23,
+      "end": 3239.35,
+      "text": "ver",
+      "confidence": 0.333
+    },
+    {
+      "start": 3239.37,
+      "end": 3240.73,
+      "text": "você",
+      "confidence": 0.324
+    },
+    {
+      "start": 3366.09,
+      "end": 3366.38,
+      "text": "não",
+      "confidence": 0.667
+    },
+    {
+      "start": 3366.38,
+      "end": 3366.66,
+      "text": "quer",
+      "confidence": 0.948
+    },
+    {
+      "start": 3366.66,
+      "end": 3367.12,
+      "text": "nanar?",
+      "confidence": 0.93
+    },
+    {
+      "start": 3446.33,
+      "end": 3446.53,
+      "text": "vai",
+      "confidence": 0.25
+    },
+    {
+      "start": 3446.53,
+      "end": 3446.69,
+      "text": "lá",
+      "confidence": 0.501
+    },
+    {
+      "start": 3446.87,
+      "end": 3447.49,
+      "text": "não",
+      "confidence": 0.267
+    },
+    {
+      "start": 3447.49,
+      "end": 3447.61,
+      "text": "quer",
+      "confidence": 0.517
+    },
+    {
+      "start": 3447.61,
+      "end": 3447.89,
+      "text": "nanar?",
+      "confidence": 0.916
+    },
+    {
+      "start": 3450.81,
+      "end": 3451.15,
+      "text": "você",
+      "confidence": 0.476
+    },
+    {
+      "start": 3451.85,
+      "end": 3452.07,
+      "text": "quer",
+      "confidence": 0.878
+    },
+    {
+      "start": 3452.07,
+      "end": 3452.53,
+      "text": "nanar?",
+      "confidence": 0.997
+    },
+    {
+      "start": 3456.15,
+      "end": 3456.17,
+      "text": "vem",
+      "confidence": 0.225
+    },
+    {
+      "start": 3456.17,
+      "end": 3456.75,
+      "text": "aqui",
+      "confidence": 0.648
+    },
+    {
+      "start": 3480.25,
+      "end": 3480.27,
+      "text": "abraça",
+      "confidence": 0.807
+    },
+    {
+      "start": 3480.27,
+      "end": 3480.29,
+      "text": "a",
+      "confidence": 0.322
+    },
+    {
+      "start": 3480.29,
+      "end": 3480.31,
+      "text": "mãe",
+      "confidence": 0.255
+    },
+    {
+      "start": 3481.69,
+      "end": 3481.71,
+      "text": "vamos",
+      "confidence": 0.184
+    },
+    {
+      "start": 3481.71,
+      "end": 3481.73,
+      "text": "chamar",
+      "confidence": 0.954
+    },
+    {
+      "start": 3481.73,
+      "end": 3481.75,
+      "text": "o",
+      "confidence": 0.99
+    },
+    {
+      "start": 3481.75,
+      "end": 3482.29,
+      "text": "Tudor",
+      "confidence": 0.64
+    },
+    {
+      "start": 3482.29,
+      "end": 3482.31,
+      "text": "Me",
+      "confidence": 0.031
+    },
+    {
+      "start": 3482.31,
+      "end": 3483.01,
+      "text": "durou,",
+      "confidence": 0.282
+    },
+    {
+      "start": 3483.03,
+      "end": 3483.65,
+      "text": "vai",
+      "confidence": 0.375
+    },
+    {
+      "start": 3483.65,
+      "end": 3483.89,
+      "text": "fazer",
+      "confidence": 0.905
+    },
+    {
+      "start": 3483.89,
+      "end": 3484.11,
+      "text": "uma",
+      "confidence": 0.827
+    },
+    {
+      "start": 3484.11,
+      "end": 3484.61,
+      "text": "tesona",
+      "confidence": 0.405
+    },
+    {
+      "start": 3486.52,
+      "end": 3486.64,
+      "text": "Me",
+      "confidence": 0.617
+    },
+    {
+      "start": 3486.64,
+      "end": 3486.72,
+      "text": "que",
+      "confidence": 0.314
+    },
+    {
+      "start": 3486.72,
+      "end": 3487.12,
+      "text": "rei,",
+      "confidence": 0.576
+    },
+    {
+      "start": 3487.18,
+      "end": 3487.32,
+      "text": "me",
+      "confidence": 0.972
+    },
+    {
+      "start": 3487.32,
+      "end": 3487.52,
+      "text": "que",
+      "confidence": 0.931
+    },
+    {
+      "start": 3487.52,
+      "end": 3487.62,
+      "text": "eu,",
+      "confidence": 0.427
+    },
+    {
+      "start": 3487.78,
+      "end": 3487.96,
+      "text": "me",
+      "confidence": 0.993
+    },
+    {
+      "start": 3487.96,
+      "end": 3488.14,
+      "text": "que",
+      "confidence": 0.99
+    },
+    {
+      "start": 3488.14,
+      "end": 3488.48,
+      "text": "eu",
+      "confidence": 0.442
+    },
+    {
+      "start": 3551.47,
+      "end": 3551.6,
+      "text": "Vamos,",
+      "confidence": 0.409
+    },
+    {
+      "start": 3551.7,
+      "end": 3552.04,
+      "text": "peraí,",
+      "confidence": 0.709
+    },
+    {
+      "start": 3552.08,
+      "end": 3552.16,
+      "text": "vou",
+      "confidence": 0.675
+    },
+    {
+      "start": 3552.16,
+      "end": 3552.32,
+      "text": "pôr",
+      "confidence": 0.934
+    },
+    {
+      "start": 3552.32,
+      "end": 3552.38,
+      "text": "o",
+      "confidence": 0.914
+    },
+    {
+      "start": 3552.38,
+      "end": 3552.66,
+      "text": "chinelo,",
+      "confidence": 0.979
+    },
+    {
+      "start": 3552.68,
+      "end": 3552.86,
+      "text": "vem",
+      "confidence": 0.825
+    },
+    {
+      "start": 3552.86,
+      "end": 3553.0,
+      "text": "cá",
+      "confidence": 0.978
+    },
+    {
+      "start": 3557.8,
+      "end": 3558.04,
+      "text": "Vem",
+      "confidence": 0.786
+    },
+    {
+      "start": 3558.04,
+      "end": 3558.24,
+      "text": "pôr",
+      "confidence": 0.978
+    },
+    {
+      "start": 3558.24,
+      "end": 3558.26,
+      "text": "o",
+      "confidence": 0.997
+    },
+    {
+      "start": 3558.26,
+      "end": 3558.64,
+      "text": "chinelo,",
+      "confidence": 0.997
+    },
+    {
+      "start": 3558.76,
+      "end": 3559.48,
+      "text": "vem",
+      "confidence": 0.85
+    },
+    {
+      "start": 3569.99,
+      "end": 3570.13,
+      "text": "Dá",
+      "confidence": 0.285
+    },
+    {
+      "start": 3570.13,
+      "end": 3570.25,
+      "text": "a",
+      "confidence": 0.801
+    },
+    {
+      "start": 3570.25,
+      "end": 3570.91,
+      "text": "patinha",
+      "confidence": 0.814
+    },
+    {
+      "start": 3576.83,
+      "end": 3576.91,
+      "text": "Vou",
+      "confidence": 0.712
+    },
+    {
+      "start": 3586.84,
+      "end": 3587.08,
+      "text": "pôr",
+      "confidence": 0.997
+    },
+    {
+      "start": 3587.08,
+      "end": 3587.1,
+      "text": "a",
+      "confidence": 0.997
+    },
+    {
+      "start": 3587.1,
+      "end": 3587.48,
+      "text": "patinha",
+      "confidence": 0.984
+    },
+    {
+      "start": 3587.48,
+      "end": 3587.68,
+      "text": "dela",
+      "confidence": 0.992
+    },
+    {
+      "start": 3587.68,
+      "end": 3587.9,
+      "text": "agora",
+      "confidence": 0.924
+    }
+  ]
+}

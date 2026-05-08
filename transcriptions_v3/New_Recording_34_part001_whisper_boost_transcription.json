@@ -1,0 +1,311 @@
+{
+  "source_file": "New_Recording_34_part001_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:16:22,00:16:22": "Nossa, rasgou.",
+    "00:16:23,00:16:23": "Vem aqui já.",
+    "00:16:23,00:16:25": "Não, não é que eu fico mais fofadinha.",
+    "00:16:27,00:16:27": "Cadê a Minnie?",
+    "00:16:27,00:16:28": "Nossa, aqui você vai levar uma escola pequenininha?",
+    "00:16:28,00:16:28": "Cadê?",
+    "00:16:28,00:16:30": "Pega a mão.",
+    "00:16:30,00:16:31": "Tá chamando?",
+    "00:16:31,00:16:31": "Vai pegar xixi lá no quarto, Minnie?",
+    "00:16:33,00:16:33": "Não, não vai lá pra xixi.",
+    "00:16:34,00:16:35": "Tá chamando?",
+    "00:16:35,00:16:35": "Tá chamando?",
+    "00:17:25,00:17:26": "Tchau."
+  },
+  "hallucinations_filtered": 3,
+  "words": [
+    {
+      "start": 982.33,
+      "end": 982.69,
+      "text": "Nossa,",
+      "confidence": 0.117
+    },
+    {
+      "start": 982.79,
+      "end": 982.95,
+      "text": "rasgou.",
+      "confidence": 0.513
+    },
+    {
+      "start": 983.05,
+      "end": 983.43,
+      "text": "Vem",
+      "confidence": 0.633
+    },
+    {
+      "start": 983.43,
+      "end": 983.51,
+      "text": "aqui",
+      "confidence": 0.312
+    },
+    {
+      "start": 983.51,
+      "end": 983.79,
+      "text": "já.",
+      "confidence": 0.584
+    },
+    {
+      "start": 983.83,
+      "end": 984.09,
+      "text": "Não,",
+      "confidence": 0.195
+    },
+    {
+      "start": 984.15,
+      "end": 984.27,
+      "text": "não",
+      "confidence": 0.421
+    },
+    {
+      "start": 984.27,
+      "end": 984.51,
+      "text": "é",
+      "confidence": 0.821
+    },
+    {
+      "start": 984.51,
+      "end": 984.55,
+      "text": "que",
+      "confidence": 0.573
+    },
+    {
+      "start": 984.55,
+      "end": 984.63,
+      "text": "eu",
+      "confidence": 0.266
+    },
+    {
+      "start": 984.63,
+      "end": 984.69,
+      "text": "fico",
+      "confidence": 0.353
+    },
+    {
+      "start": 984.69,
+      "end": 984.71,
+      "text": "mais",
+      "confidence": 0.352
+    },
+    {
+      "start": 984.71,
+      "end": 985.11,
+      "text": "fofadinha.",
+      "confidence": 0.346
+    },
+    {
+      "start": 987.21,
+      "end": 987.61,
+      "text": "Cadê",
+      "confidence": 0.709
+    },
+    {
+      "start": 987.61,
+      "end": 987.65,
+      "text": "a",
+      "confidence": 0.851
+    },
+    {
+      "start": 987.65,
+      "end": 987.83,
+      "text": "Minnie?",
+      "confidence": 0.182
+    },
+    {
+      "start": 987.83,
+      "end": 987.85,
+      "text": "Nossa,",
+      "confidence": 0.454
+    },
+    {
+      "start": 987.85,
+      "end": 987.87,
+      "text": "aqui",
+      "confidence": 0.79
+    },
+    {
+      "start": 987.87,
+      "end": 987.89,
+      "text": "você",
+      "confidence": 0.887
+    },
+    {
+      "start": 987.89,
+      "end": 987.91,
+      "text": "vai",
+      "confidence": 0.985
+    },
+    {
+      "start": 987.91,
+      "end": 987.93,
+      "text": "levar",
+      "confidence": 0.975
+    },
+    {
+      "start": 987.93,
+      "end": 987.95,
+      "text": "uma",
+      "confidence": 0.492
+    },
+    {
+      "start": 987.95,
+      "end": 988.01,
+      "text": "escola",
+      "confidence": 0.155
+    },
+    {
+      "start": 988.01,
+      "end": 988.36,
+      "text": "pequenininha?",
+      "confidence": 0.794
+    },
+    {
+      "start": 988.36,
+      "end": 988.38,
+      "text": "Cadê?",
+      "confidence": 0.971
+    },
+    {
+      "start": 988.85,
+      "end": 989.87,
+      "text": "Pega",
+      "confidence": 0.732
+    },
+    {
+      "start": 989.87,
+      "end": 989.95,
+      "text": "a",
+      "confidence": 0.62
+    },
+    {
+      "start": 989.95,
+      "end": 990.47,
+      "text": "mão.",
+      "confidence": 0.705
+    },
+    {
+      "start": 990.71,
+      "end": 990.97,
+      "text": "Tá",
+      "confidence": 0.26
+    },
+    {
+      "start": 990.97,
+      "end": 991.4,
+      "text": "chamando?",
+      "confidence": 0.505
+    },
+    {
+      "start": 991.4,
+      "end": 991.42,
+      "text": "Vai",
+      "confidence": 0.334
+    },
+    {
+      "start": 991.42,
+      "end": 991.44,
+      "text": "pegar",
+      "confidence": 0.97
+    },
+    {
+      "start": 991.44,
+      "end": 991.59,
+      "text": "xixi",
+      "confidence": 0.736
+    },
+    {
+      "start": 991.59,
+      "end": 991.61,
+      "text": "lá",
+      "confidence": 0.93
+    },
+    {
+      "start": 991.61,
+      "end": 991.63,
+      "text": "no",
+      "confidence": 0.978
+    },
+    {
+      "start": 991.63,
+      "end": 991.71,
+      "text": "quarto,",
+      "confidence": 0.986
+    },
+    {
+      "start": 991.71,
+      "end": 991.73,
+      "text": "Minnie?",
+      "confidence": 0.942
+    },
+    {
+      "start": 993.55,
+      "end": 993.79,
+      "text": "Não,",
+      "confidence": 0.184
+    },
+    {
+      "start": 993.83,
+      "end": 993.85,
+      "text": "não",
+      "confidence": 0.938
+    },
+    {
+      "start": 993.85,
+      "end": 993.87,
+      "text": "vai",
+      "confidence": 0.712
+    },
+    {
+      "start": 993.87,
+      "end": 993.89,
+      "text": "lá",
+      "confidence": 0.898
+    },
+    {
+      "start": 993.89,
+      "end": 993.91,
+      "text": "pra",
+      "confidence": 0.3
+    },
+    {
+      "start": 993.91,
+      "end": 993.93,
+      "text": "xixi.",
+      "confidence": 0.896
+    },
+    {
+      "start": 994.97,
+      "end": 995.11,
+      "text": "Tá",
+      "confidence": 0.213
+    },
+    {
+      "start": 995.11,
+      "end": 995.32,
+      "text": "chamando?",
+      "confidence": 0.546
+    },
+    {
+      "start": 995.32,
+      "end": 995.34,
+      "text": "Tá",
+      "confidence": 0.29
+    },
+    {
+      "start": 995.34,
+      "end": 995.37,
+      "text": "chamando?",
+      "confidence": 0.736
+    },
+    {
+      "start": 1045.77,
+      "end": 1046.53,
+      "text": "Tchau.",
+      "confidence": 0.321
+    }
+  ]
+}

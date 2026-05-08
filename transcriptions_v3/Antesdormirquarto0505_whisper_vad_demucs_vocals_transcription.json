@@ -1,0 +1,93 @@
+{
+  "source_file": "Antesdormirquarto0505_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:01:20,00:01:20": "O que vai acontecer?",
+    "00:02:24,00:02:26": "Que que é isso?",
+    "00:02:53,00:02:54": "Não é isso.",
+    "00:08:54,00:08:55": ".",
+    "00:08:55,00:08:55": "."
+  },
+  "hallucinations_filtered": 5,
+  "words": [
+    {
+      "start": 80.13,
+      "end": 80.19,
+      "text": "O",
+      "confidence": 0.418
+    },
+    {
+      "start": 80.19,
+      "end": 80.43,
+      "text": "que",
+      "confidence": 0.934
+    },
+    {
+      "start": 80.43,
+      "end": 80.53,
+      "text": "vai",
+      "confidence": 0.516
+    },
+    {
+      "start": 80.53,
+      "end": 80.83,
+      "text": "acontecer?",
+      "confidence": 0.906
+    },
+    {
+      "start": 144.81,
+      "end": 145.05,
+      "text": "Que",
+      "confidence": 0.828
+    },
+    {
+      "start": 145.05,
+      "end": 145.43,
+      "text": "que",
+      "confidence": 0.923
+    },
+    {
+      "start": 145.43,
+      "end": 145.77,
+      "text": "é",
+      "confidence": 0.863
+    },
+    {
+      "start": 145.77,
+      "end": 146.19,
+      "text": "isso?",
+      "confidence": 0.607
+    },
+    {
+      "start": 173.25,
+      "end": 173.57,
+      "text": "Não",
+      "confidence": 0.381
+    },
+    {
+      "start": 173.57,
+      "end": 173.83,
+      "text": "é",
+      "confidence": 0.35
+    },
+    {
+      "start": 173.83,
+      "end": 174.09,
+      "text": "isso.",
+      "confidence": 0.242
+    },
+    {
+      "start": 534.73,
+      "end": 535.35,
+      "text": ".",
+      "confidence": 0.935
+    },
+    {
+      "start": 535.35,
+      "end": 535.94,
+      "text": ".",
+      "confidence": 0.962
+    }
+  ]
+}

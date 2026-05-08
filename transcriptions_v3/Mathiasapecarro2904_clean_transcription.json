@@ -1,0 +1,197 @@
+{
+  "source_file": "Mathiasapecarro2904_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:03:07,00:03:07": "e aí",
+    "00:03:07,00:03:08": "e aí",
+    "00:11:24,00:11:26": "Sabe onde a gente tá indo? Pra casa da vovó.",
+    "00:11:27,00:11:28": "Pra casa da vovó?",
+    "00:11:29,00:11:38": "Tá, segura o micro.",
+    "00:11:38,00:11:38": "Já tá chegando.",
+    "00:11:50,00:11:52": "Meu, eu não consigo comer."
+  },
+  "hallucinations_filtered": 2,
+  "words": [
+    {
+      "start": 187.68,
+      "end": 187.7,
+      "text": "e",
+      "confidence": 0.146
+    },
+    {
+      "start": 187.7,
+      "end": 187.72,
+      "text": "aí",
+      "confidence": 0.815
+    },
+    {
+      "start": 187.72,
+      "end": 187.88,
+      "text": "e",
+      "confidence": 0.471
+    },
+    {
+      "start": 187.88,
+      "end": 188.14,
+      "text": "aí",
+      "confidence": 0.94
+    },
+    {
+      "start": 684.18,
+      "end": 684.24,
+      "text": "Sabe",
+      "confidence": 0.853
+    },
+    {
+      "start": 684.24,
+      "end": 684.38,
+      "text": "onde",
+      "confidence": 0.901
+    },
+    {
+      "start": 684.38,
+      "end": 684.48,
+      "text": "a",
+      "confidence": 0.955
+    },
+    {
+      "start": 684.48,
+      "end": 684.64,
+      "text": "gente",
+      "confidence": 1.0
+    },
+    {
+      "start": 684.64,
+      "end": 684.76,
+      "text": "tá",
+      "confidence": 0.511
+    },
+    {
+      "start": 684.76,
+      "end": 685.08,
+      "text": "indo?",
+      "confidence": 0.999
+    },
+    {
+      "start": 685.18,
+      "end": 685.36,
+      "text": "Pra",
+      "confidence": 0.508
+    },
+    {
+      "start": 685.36,
+      "end": 685.62,
+      "text": "casa",
+      "confidence": 0.984
+    },
+    {
+      "start": 685.62,
+      "end": 685.82,
+      "text": "da",
+      "confidence": 0.998
+    },
+    {
+      "start": 685.82,
+      "end": 686.34,
+      "text": "vovó.",
+      "confidence": 0.971
+    },
+    {
+      "start": 687.75,
+      "end": 687.85,
+      "text": "Pra",
+      "confidence": 0.969
+    },
+    {
+      "start": 687.85,
+      "end": 688.11,
+      "text": "casa",
+      "confidence": 0.995
+    },
+    {
+      "start": 688.11,
+      "end": 688.37,
+      "text": "da",
+      "confidence": 1.0
+    },
+    {
+      "start": 688.37,
+      "end": 688.81,
+      "text": "vovó?",
+      "confidence": 1.0
+    },
+    {
+      "start": 689.23,
+      "end": 689.49,
+      "text": "Tá,",
+      "confidence": 0.94
+    },
+    {
+      "start": 697.48,
+      "end": 697.78,
+      "text": "segura",
+      "confidence": 0.981
+    },
+    {
+      "start": 697.78,
+      "end": 697.84,
+      "text": "o",
+      "confidence": 0.873
+    },
+    {
+      "start": 697.84,
+      "end": 698.02,
+      "text": "micro.",
+      "confidence": 0.248
+    },
+    {
+      "start": 698.02,
+      "end": 698.26,
+      "text": "Já",
+      "confidence": 0.648
+    },
+    {
+      "start": 698.26,
+      "end": 698.42,
+      "text": "tá",
+      "confidence": 0.999
+    },
+    {
+      "start": 698.42,
+      "end": 698.96,
+      "text": "chegando.",
+      "confidence": 1.0
+    },
+    {
+      "start": 710.7,
+      "end": 710.94,
+      "text": "Meu,",
+      "confidence": 0.735
+    },
+    {
+      "start": 710.94,
+      "end": 711.18,
+      "text": "eu",
+      "confidence": 0.226
+    },
+    {
+      "start": 711.18,
+      "end": 711.34,
+      "text": "não",
+      "confidence": 0.459
+    },
+    {
+      "start": 711.34,
+      "end": 711.44,
+      "text": "consigo",
+      "confidence": 0.153
+    },
+    {
+      "start": 711.44,
+      "end": 712.06,
+      "text": "comer.",
+      "confidence": 0.548
+    }
+  ]
+}
