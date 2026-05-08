@@ -130,6 +130,18 @@ class ForensicAudioProcessor:
 
     # ========== MAIN PROCESSING ==========
 
+    def _get_expected_outputs(self, audio_path: Path) -> List[str]:
+        pipelines = self._get_active_pipelines()
+        return [f"{audio_path.stem}_{suffix}.mp3" for suffix, _, _ in pipelines]
+
+    def _is_already_processed(self, audio_path: Path) -> bool:
+        expected = self._get_expected_outputs(audio_path)
+        for fname in expected:
+            out = self.output_dir / fname
+            if not out.exists() or out.stat().st_size == 0:
+                return False
+        return True
+
     def process_all_audio(self, max_workers: int = MAX_WORKERS) -> Dict:
         if self.input_path.is_file():
             audio_files = [self.input_path]
@@ -140,14 +152,26 @@ class ForensicAudioProcessor:
             logger.warning("No audio files found")
             return {}
 
+        total = len(audio_files)
+        skipped = 0
         results = {}
-        for audio_path in audio_files:
+
+        for idx, audio_path in enumerate(audio_files, 1):
+            if self._is_already_processed(audio_path):
+                _tprint(f"  [{idx}/{total}] {audio_path.name} — já processado, pulando")
+                skipped += 1
+                continue
+
+            _tprint(f"\n  [{idx}/{total}] {audio_path.name}")
             try:
                 result = self.process_single_audio(audio_path, max_workers)
                 results[audio_path.name] = result
             except Exception as e:
                 logger.error(f"Error processing {audio_path.name}: {e}")
                 results[audio_path.name] = {"error": str(e)}
+
+        if skipped > 0:
+            _tprint(f"\n  Pulados (já processados): {skipped}/{total}")
 
         return results
 
@@ -160,6 +184,17 @@ class ForensicAudioProcessor:
             files.extend(self.input_path.glob(f"*{ext.upper()}"))
         return sorted(set(files))
 
+    def _get_active_pipelines(self):
+        return [
+            ("clean", "Redução de ruído limpa", self._pipeline_clean),
+            # ("vocal_enhanced", "Realce vocal + formantes", self._pipeline_vocal_enhanced),
+            #("whisper_boost", "Realce de sussurros", self._pipeline_whisper_boost),
+            # ("forensic_full", "Pipeline forense completa", self._pipeline_forensic_full),
+            ("whisper_vad", "Sussurros com VAD (sem artefatos)", self._pipeline_whisper_vad),
+            # ("forensic_full", "Pipeline forense completa", self._pipeline_forensic_full),
+            #("forensic_full", "Pipeline forense completa", self._pipeline_forensic_full),
+        ]
+
     def process_single_audio(self, audio_path: Path, max_workers: int = MAX_WORKERS) -> Dict:
         logger.debug(f"Loading audio: {audio_path.name}")
         y, sr = self._load_audio(audio_path)
@@ -169,15 +204,7 @@ class ForensicAudioProcessor:
         logger.debug(f"Audio loaded: {len(y)} samples, {sr}Hz, duration: {duration:.1f}s")
         _tprint(f"\n  Áudio carregado: {base_name} ({duration:.1f}s / {duration/60:.1f}min)")
 
-        pipelines = [
-            ("clean", "Redução de ruído limpa", self._pipeline_clean),
-            # ("vocal_enhanced", "Realce vocal + formantes", self._pipeline_vocal_enhanced),
-            #("whisper_boost", "Realce de sussurros", self._pipeline_whisper_boost),
-            # ("forensic_full", "Pipeline forense completa", self._pipeline_forensic_full),
-            ("whisper_vad", "Sussurros com VAD (sem artefatos)", self._pipeline_whisper_vad),
-            # ("forensic_full", "Pipeline forense completa", self._pipeline_forensic_full),
-            #("forensic_full", "Pipeline forense completa", self._pipeline_forensic_full),
-        ]
+        pipelines = self._get_active_pipelines()
 
         generated_files = []
         total = len(pipelines)
@@ -663,40 +690,14 @@ def main():
 
     args = parser.parse_args()
 
-    if args.input and args.output:
-        input_path = args.input
-        output_dir = args.output
-    else:
-        base_dir = Path(__file__).parent
+    base_dir = Path(__file__).parent
+    input_path = args.input or str(base_dir)
+    output_dir = args.output or str(base_dir / "audio_processed")
 
-        audio_files = []
-        for ext in ForensicAudioProcessor.SUPPORTED_EXTENSIONS:
-            audio_files.extend(base_dir.glob(f"*{ext}"))
-
-        if not audio_files:
-            print("Nenhum arquivo de áudio encontrado no diretório.")
-            return
-
-        print("\nArquivos de áudio disponíveis:")
-        for idx, f in enumerate(sorted(audio_files), 1):
-            print(f"  {idx}. {f.name}")
-
-        while True:
-            try:
-                choice = input("\nEscolha o número do arquivo (ou 'q' para sair): ").strip()
-                if choice.lower() == 'q':
-                    print("Cancelado.")
-                    return
-                choice_idx = int(choice) - 1
-                if 0 <= choice_idx < len(audio_files):
-                    input_path = str(sorted(audio_files)[choice_idx])
-                    break
-                else:
-                    print("Número inválido. Tente novamente.")
-            except ValueError:
-                print("Entrada inválida. Digite um número.")
-
-        output_dir = str(base_dir / "audio_processed")
+    inp = Path(input_path)
+    if not inp.exists():
+        print(f"Caminho não encontrado: {input_path}")
+        return
 
     print(f"\nProcessando: {input_path}")
     print(f"Saída: {output_dir}")
