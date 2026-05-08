@@ -1,0 +1,77 @@
+{
+  "source_file": "Mathiasapecarro2904_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 718.5,
+  "segments": {
+    "00:00:02,00:11:39": "Seja bem-vindo a um novo episódio do Desafio Rádio Disney."
+  },
+  "words": [
+    {
+      "start": 2.67,
+      "end": 4.95,
+      "text": "Seja",
+      "probability": 0.049
+    },
+    {
+      "start": 9.53,
+      "end": 9.53,
+      "text": "bem",
+      "probability": 0.093
+    },
+    {
+      "start": 21.02,
+      "end": 22.72,
+      "text": "-vindo",
+      "probability": 0.928
+    },
+    {
+      "start": 22.72,
+      "end": 22.96,
+      "text": "a",
+      "probability": 0.05
+    },
+    {
+      "start": 66.03,
+      "end": 67.47,
+      "text": "um",
+      "probability": 0.247
+    },
+    {
+      "start": 72.49,
+      "end": 74.97,
+      "text": "novo",
+      "probability": 0.803
+    },
+    {
+      "start": 684.22,
+      "end": 688.46,
+      "text": "episódio",
+      "probability": 0.045
+    },
+    {
+      "start": 697.74,
+      "end": 699.54,
+      "text": "do",
+      "probability": 0.207
+    },
+    {
+      "start": 699.54,
+      "end": 699.54,
+      "text": "Desafio",
+      "probability": 0.751
+    },
+    {
+      "start": 699.54,
+      "end": 699.54,
+      "text": "Rádio",
+      "probability": 0.772
+    },
+    {
+      "start": 699.54,
+      "end": 699.54,
+      "text": "Disney.",
+      "probability": 0.943
+    }
+  ]
+}

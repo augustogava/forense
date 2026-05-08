@@ -1,0 +1,257 @@
+{
+  "source_file": "Taquaantesbanho0205_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 653.6,
+  "segments": {
+    "00:00:47,00:00:47": "Como a da vovó.",
+    "00:00:59,00:01:00": "Vedooos.",
+    "00:01:28,00:01:31": "Peraí, deixa a mamãe guardar a fralda e a gente já vai brincar, tá bom?",
+    "00:01:31,00:01:36": "Essa fralda aqui é minha.",
+    "00:01:38,00:01:38": "Radical mesmo.",
+    "00:01:42,00:01:43": "Radical.",
+    "00:02:04,00:02:05": "Me deixou pelada, ô.",
+    "00:02:05,00:03:44": "Meu Deus do céu.",
+    "00:03:45,00:04:01": "Que eu chato."
+  },
+  "explicit_segments": {
+    "00:02:04,00:02:05": "Me deixou pelada, ô."
+  },
+  "explicit_count": 1,
+  "words": [
+    {
+      "start": 47.22,
+      "end": 47.34,
+      "text": "Como",
+      "probability": 0.043
+    },
+    {
+      "start": 47.34,
+      "end": 47.42,
+      "text": "a",
+      "probability": 0.885
+    },
+    {
+      "start": 47.42,
+      "end": 47.44,
+      "text": "da",
+      "probability": 0.989
+    },
+    {
+      "start": 47.44,
+      "end": 47.9,
+      "text": "vovó.",
+      "probability": 0.962
+    },
+    {
+      "start": 59.94,
+      "end": 60.38,
+      "text": "Vedooos.",
+      "probability": 0.189
+    },
+    {
+      "start": 88.74,
+      "end": 89.18,
+      "text": "Peraí,",
+      "probability": 0.779
+    },
+    {
+      "start": 89.2,
+      "end": 89.28,
+      "text": "deixa",
+      "probability": 0.98
+    },
+    {
+      "start": 89.28,
+      "end": 89.44,
+      "text": "a",
+      "probability": 0.744
+    },
+    {
+      "start": 89.44,
+      "end": 89.62,
+      "text": "mamãe",
+      "probability": 0.994
+    },
+    {
+      "start": 89.62,
+      "end": 89.86,
+      "text": "guardar",
+      "probability": 0.988
+    },
+    {
+      "start": 89.86,
+      "end": 89.92,
+      "text": "a",
+      "probability": 0.867
+    },
+    {
+      "start": 89.92,
+      "end": 90.52,
+      "text": "fralda",
+      "probability": 0.853
+    },
+    {
+      "start": 90.52,
+      "end": 90.56,
+      "text": "e",
+      "probability": 0.681
+    },
+    {
+      "start": 90.56,
+      "end": 90.64,
+      "text": "a",
+      "probability": 0.998
+    },
+    {
+      "start": 90.64,
+      "end": 90.72,
+      "text": "gente",
+      "probability": 0.986
+    },
+    {
+      "start": 90.72,
+      "end": 90.84,
+      "text": "já",
+      "probability": 0.792
+    },
+    {
+      "start": 90.84,
+      "end": 90.96,
+      "text": "vai",
+      "probability": 0.998
+    },
+    {
+      "start": 90.96,
+      "end": 91.28,
+      "text": "brincar,",
+      "probability": 0.983
+    },
+    {
+      "start": 91.3,
+      "end": 91.48,
+      "text": "tá",
+      "probability": 0.974
+    },
+    {
+      "start": 91.48,
+      "end": 91.64,
+      "text": "bom?",
+      "probability": 1.0
+    },
+    {
+      "start": 91.9,
+      "end": 92.24,
+      "text": "Essa",
+      "probability": 0.992
+    },
+    {
+      "start": 95.6,
+      "end": 95.9,
+      "text": "fralda",
+      "probability": 0.999
+    },
+    {
+      "start": 95.9,
+      "end": 96.1,
+      "text": "aqui",
+      "probability": 0.997
+    },
+    {
+      "start": 96.1,
+      "end": 96.2,
+      "text": "é",
+      "probability": 0.982
+    },
+    {
+      "start": 96.2,
+      "end": 96.44,
+      "text": "minha.",
+      "probability": 0.444
+    },
+    {
+      "start": 98.22,
+      "end": 98.66,
+      "text": "Radical",
+      "probability": 0.982
+    },
+    {
+      "start": 98.66,
+      "end": 98.88,
+      "text": "mesmo.",
+      "probability": 0.995
+    },
+    {
+      "start": 102.65,
+      "end": 103.09,
+      "text": "Radical.",
+      "probability": 0.951
+    },
+    {
+      "start": 124.3,
+      "end": 124.52,
+      "text": "Me",
+      "probability": 0.877
+    },
+    {
+      "start": 124.52,
+      "end": 124.9,
+      "text": "deixou",
+      "probability": 0.784
+    },
+    {
+      "start": 124.9,
+      "end": 125.48,
+      "text": "pelada,",
+      "probability": 0.984
+    },
+    {
+      "start": 125.48,
+      "end": 125.62,
+      "text": "ô.",
+      "probability": 0.677
+    },
+    {
+      "start": 125.94,
+      "end": 126.2,
+      "text": "Meu",
+      "probability": 0.885
+    },
+    {
+      "start": 223.76,
+      "end": 223.96,
+      "text": "Deus",
+      "probability": 0.957
+    },
+    {
+      "start": 223.96,
+      "end": 224.1,
+      "text": "do",
+      "probability": 1.0
+    },
+    {
+      "start": 224.1,
+      "end": 224.38,
+      "text": "céu.",
+      "probability": 0.993
+    },
+    {
+      "start": 225.36,
+      "end": 225.8,
+      "text": "Que",
+      "probability": 0.595
+    },
+    {
+      "start": 240.72,
+      "end": 241.12,
+      "text": "eu",
+      "probability": 0.58
+    },
+    {
+      "start": 241.12,
+      "end": 241.74,
+      "text": "chato.",
+      "probability": 0.784
+    }
+  ]
+}

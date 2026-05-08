@@ -1,0 +1,457 @@
+{
+  "source_file": "Quarto20305_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 2654.6,
+  "segments": {
+    "00:00:01,00:07:31": "Esse pijaminha que a mamãe pegou, você lembra dele?",
+    "00:07:33,00:07:34": "Lembra desse pijama?",
+    "00:07:35,00:07:38": "A escola quebrou?",
+    "00:07:56,00:07:57": "Peraí, você lembra dele?",
+    "00:07:57,00:08:04": "Ó, o vovô tá te esperando lá, você não vai descer?",
+    "00:08:04,00:08:06": "Vamos, a gente embora?",
+    "00:08:13,00:08:16": "E ele quebrou a escova dele, e a vó?",
+    "00:08:16,00:08:17": "Quebrou o quê?",
+    "00:08:25,00:08:27": "Quem é esse menino?",
+    "00:08:29,00:08:34": "Ó o Pequim, nossa, tá vermelho, hein? Deixa eu ver se ele tá com a nota aqui.",
+    "00:09:07,00:09:08": "Pronto!",
+    "00:09:08,00:09:09": "Pronto!",
+    "00:09:25,00:09:26": "Acrescente!",
+    "00:09:26,00:09:27": "Acrescente!",
+    "00:11:17,00:11:17": "Beleza?"
+  },
+  "words": [
+    {
+      "start": 1.88,
+      "end": 2.3,
+      "text": "Esse",
+      "probability": 0.284
+    },
+    {
+      "start": 449.08,
+      "end": 449.54,
+      "text": "pijaminha",
+      "probability": 0.91
+    },
+    {
+      "start": 449.54,
+      "end": 449.68,
+      "text": "que",
+      "probability": 0.973
+    },
+    {
+      "start": 449.68,
+      "end": 449.74,
+      "text": "a",
+      "probability": 0.965
+    },
+    {
+      "start": 449.74,
+      "end": 449.98,
+      "text": "mamãe",
+      "probability": 0.96
+    },
+    {
+      "start": 449.98,
+      "end": 450.38,
+      "text": "pegou,",
+      "probability": 0.996
+    },
+    {
+      "start": 450.4,
+      "end": 450.52,
+      "text": "você",
+      "probability": 0.861
+    },
+    {
+      "start": 450.52,
+      "end": 450.82,
+      "text": "lembra",
+      "probability": 0.986
+    },
+    {
+      "start": 450.82,
+      "end": 451.1,
+      "text": "dele?",
+      "probability": 0.983
+    },
+    {
+      "start": 453.51,
+      "end": 453.99,
+      "text": "Lembra",
+      "probability": 0.955
+    },
+    {
+      "start": 453.99,
+      "end": 454.17,
+      "text": "desse",
+      "probability": 0.959
+    },
+    {
+      "start": 454.17,
+      "end": 454.75,
+      "text": "pijama?",
+      "probability": 0.998
+    },
+    {
+      "start": 455.09,
+      "end": 455.39,
+      "text": "A",
+      "probability": 0.622
+    },
+    {
+      "start": 458.08,
+      "end": 458.34,
+      "text": "escola",
+      "probability": 0.969
+    },
+    {
+      "start": 458.34,
+      "end": 458.78,
+      "text": "quebrou?",
+      "probability": 0.902
+    },
+    {
+      "start": 476.36,
+      "end": 476.84,
+      "text": "Peraí,",
+      "probability": 0.867
+    },
+    {
+      "start": 476.86,
+      "end": 477.02,
+      "text": "você",
+      "probability": 0.617
+    },
+    {
+      "start": 477.02,
+      "end": 477.2,
+      "text": "lembra",
+      "probability": 0.521
+    },
+    {
+      "start": 477.2,
+      "end": 477.44,
+      "text": "dele?",
+      "probability": 0.294
+    },
+    {
+      "start": 477.64,
+      "end": 477.88,
+      "text": "Ó,",
+      "probability": 0.3
+    },
+    {
+      "start": 482.75,
+      "end": 482.81,
+      "text": "o",
+      "probability": 0.761
+    },
+    {
+      "start": 482.81,
+      "end": 483.03,
+      "text": "vovô",
+      "probability": 0.913
+    },
+    {
+      "start": 483.03,
+      "end": 483.11,
+      "text": "tá",
+      "probability": 0.694
+    },
+    {
+      "start": 483.11,
+      "end": 483.23,
+      "text": "te",
+      "probability": 0.985
+    },
+    {
+      "start": 483.23,
+      "end": 483.55,
+      "text": "esperando",
+      "probability": 0.997
+    },
+    {
+      "start": 483.55,
+      "end": 483.79,
+      "text": "lá,",
+      "probability": 0.998
+    },
+    {
+      "start": 483.89,
+      "end": 483.99,
+      "text": "você",
+      "probability": 0.958
+    },
+    {
+      "start": 483.99,
+      "end": 484.09,
+      "text": "não",
+      "probability": 0.9
+    },
+    {
+      "start": 484.09,
+      "end": 484.17,
+      "text": "vai",
+      "probability": 0.999
+    },
+    {
+      "start": 484.17,
+      "end": 484.47,
+      "text": "descer?",
+      "probability": 0.989
+    },
+    {
+      "start": 484.79,
+      "end": 485.27,
+      "text": "Vamos,",
+      "probability": 0.797
+    },
+    {
+      "start": 485.71,
+      "end": 485.89,
+      "text": "a",
+      "probability": 0.99
+    },
+    {
+      "start": 485.89,
+      "end": 486.01,
+      "text": "gente",
+      "probability": 1.0
+    },
+    {
+      "start": 486.01,
+      "end": 486.31,
+      "text": "embora?",
+      "probability": 0.219
+    },
+    {
+      "start": 493.42,
+      "end": 493.8,
+      "text": "E",
+      "probability": 0.632
+    },
+    {
+      "start": 493.8,
+      "end": 494.12,
+      "text": "ele",
+      "probability": 0.979
+    },
+    {
+      "start": 494.12,
+      "end": 494.52,
+      "text": "quebrou",
+      "probability": 0.988
+    },
+    {
+      "start": 494.52,
+      "end": 494.56,
+      "text": "a",
+      "probability": 0.991
+    },
+    {
+      "start": 494.56,
+      "end": 494.86,
+      "text": "escova",
+      "probability": 0.79
+    },
+    {
+      "start": 494.86,
+      "end": 495.2,
+      "text": "dele,",
+      "probability": 0.992
+    },
+    {
+      "start": 495.5,
+      "end": 495.76,
+      "text": "e",
+      "probability": 0.957
+    },
+    {
+      "start": 495.76,
+      "end": 495.9,
+      "text": "a",
+      "probability": 0.659
+    },
+    {
+      "start": 495.9,
+      "end": 496.26,
+      "text": "vó?",
+      "probability": 0.834
+    },
+    {
+      "start": 496.64,
+      "end": 497.12,
+      "text": "Quebrou",
+      "probability": 0.509
+    },
+    {
+      "start": 497.12,
+      "end": 497.3,
+      "text": "o",
+      "probability": 0.129
+    },
+    {
+      "start": 497.3,
+      "end": 497.3,
+      "text": "quê?",
+      "probability": 0.176
+    },
+    {
+      "start": 505.57,
+      "end": 506.05,
+      "text": "Quem",
+      "probability": 0.045
+    },
+    {
+      "start": 506.18,
+      "end": 506.66,
+      "text": "é",
+      "probability": 0.898
+    },
+    {
+      "start": 506.66,
+      "end": 506.8,
+      "text": "esse",
+      "probability": 0.844
+    },
+    {
+      "start": 506.8,
+      "end": 507.1,
+      "text": "menino?",
+      "probability": 0.526
+    },
+    {
+      "start": 509.28,
+      "end": 509.76,
+      "text": "Ó",
+      "probability": 0.041
+    },
+    {
+      "start": 509.76,
+      "end": 510.24,
+      "text": "o",
+      "probability": 0.568
+    },
+    {
+      "start": 511.16,
+      "end": 511.68,
+      "text": "Pequim,",
+      "probability": 0.742
+    },
+    {
+      "start": 511.82,
+      "end": 512.1,
+      "text": "nossa,",
+      "probability": 0.995
+    },
+    {
+      "start": 512.16,
+      "end": 512.28,
+      "text": "tá",
+      "probability": 0.95
+    },
+    {
+      "start": 512.28,
+      "end": 512.86,
+      "text": "vermelho,",
+      "probability": 0.999
+    },
+    {
+      "start": 512.88,
+      "end": 512.94,
+      "text": "hein?",
+      "probability": 0.91
+    },
+    {
+      "start": 512.96,
+      "end": 513.12,
+      "text": "Deixa",
+      "probability": 0.998
+    },
+    {
+      "start": 513.12,
+      "end": 513.18,
+      "text": "eu",
+      "probability": 0.999
+    },
+    {
+      "start": 513.18,
+      "end": 513.3,
+      "text": "ver",
+      "probability": 0.984
+    },
+    {
+      "start": 513.3,
+      "end": 513.38,
+      "text": "se",
+      "probability": 0.985
+    },
+    {
+      "start": 513.38,
+      "end": 513.44,
+      "text": "ele",
+      "probability": 0.28
+    },
+    {
+      "start": 513.44,
+      "end": 513.56,
+      "text": "tá",
+      "probability": 0.585
+    },
+    {
+      "start": 513.56,
+      "end": 513.66,
+      "text": "com",
+      "probability": 0.63
+    },
+    {
+      "start": 513.66,
+      "end": 513.72,
+      "text": "a",
+      "probability": 0.827
+    },
+    {
+      "start": 513.72,
+      "end": 513.84,
+      "text": "nota",
+      "probability": 0.553
+    },
+    {
+      "start": 513.84,
+      "end": 514.04,
+      "text": "aqui.",
+      "probability": 0.795
+    },
+    {
+      "start": 547.3,
+      "end": 548.26,
+      "text": "Pronto!",
+      "probability": 0.543
+    },
+    {
+      "start": 548.94,
+      "end": 549.46,
+      "text": "Pronto!",
+      "probability": 0.608
+    },
+    {
+      "start": 565.79,
+      "end": 566.75,
+      "text": "Acrescente!",
+      "probability": 0.379
+    },
+    {
+      "start": 566.75,
+      "end": 567.45,
+      "text": "Acrescente!",
+      "probability": 0.775
+    },
+    {
+      "start": 677.25,
+      "end": 677.49,
+      "text": "Beleza?",
+      "probability": 0.667
+    }
+  ]
+}

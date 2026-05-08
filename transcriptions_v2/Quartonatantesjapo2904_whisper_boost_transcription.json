@@ -1,0 +1,17 @@
+{
+  "source_file": "Quartonatantesjapo2904_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 2531.6,
+  "segments": {
+    "00:00:01,00:00:02": "Obrigado."
+  },
+  "words": [
+    {
+      "start": 1.62,
+      "end": 2.06,
+      "text": "Obrigado.",
+      "probability": 0.542
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "source_file": "Antwsdormirsala0706_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 6649.5,
+  "segments": {
+    "00:39:17,01:43:49": "O que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o"
+  },
+  "words": [
+    {
+      "start": 2357.51,
+      "end": 2357.59,
+      "text": "O",
+      "probability": 0.049
+    },
+    {
+      "start": 2580.95,
+      "end": 2581.05,
+      "text": "que",
+      "probability": 0.278
+    },
+    {
+      "start": 2581.05,
+      "end": 2581.13,
+      "text": "é",
+      "probability": 0.166
+    },
+    {
+      "start": 2581.13,
+      "end": 2581.21,
+      "text": "o",
+      "probability": 0.109
+    },
+    {
+      "start": 2581.21,
+      "end": 2581.33,
+      "text": "que",
+      "probability": 0.185
+    },
+    {
+      "start": 2581.33,
+      "end": 2581.33,
+      "text": "é",
+      "probability": 0.097
+    },
+    {
+      "start": 2581.33,
+      "end": 2581.33,
+      "text": "o",
+      "probability": 0.371
+    },
+    {
+      "start": 2581.33,
+      "end": 2581.41,
+      "text": "que",
+      "probability": 0.535
+    },
+    {
+      "start": 2581.41,
+      "end": 2581.65,
+      "text": "é",
+      "probability": 0.667
+    },
+    {
+      "start": 2581.65,
+      "end": 2581.97,
+      "text": "o",
+      "probability": 0.491
+    },
+    {
+      "start": 2581.97,
+      "end": 2582.05,
+      "text": "que",
+      "probability": 0.755
+    },
+    {
+      "start": 2582.05,
+      "end": 2582.05,
+      "text": "é",
+      "probability": 0.898
+    },
+    {
+      "start": 2582.05,
+      "end": 2582.05,
+      "text": "o",
+      "probability": 0.621
+    },
+    {
+      "start": 2582.05,
+      "end": 2583.41,
+      "text": "que",
+      "probability": 0.86
+    },
+    {
+      "start": 2583.41,
+      "end": 2583.55,
+      "text": "é",
+      "probability": 0.958
+    },
+    {
+      "start": 2583.55,
+      "end": 2584.35,
+      "text": "o",
+      "probability": 0.728
+    },
+    {
+      "start": 2584.35,
+      "end": 2584.43,
+      "text": "que",
+      "probability": 0.913
+    },
+    {
+      "start": 2584.43,
+      "end": 2584.43,
+      "text": "é",
+      "probability": 0.979
+    },
+    {
+      "start": 2584.43,
+      "end": 2584.45,
+      "text": "o",
+      "probability": 0.818
+    },
+    {
+      "start": 2584.45,
+      "end": 2584.59,
+      "text": "que",
+      "probability": 0.94
+    },
+    {
+      "start": 2584.59,
+      "end": 2584.59,
+      "text": "é",
+      "probability": 0.987
+    },
+    {
+      "start": 2584.59,
+      "end": 2584.85,
+      "text": "o",
+      "probability": 0.884
+    },
+    {
+      "start": 2591.19,
+      "end": 2591.19,
+      "text": "que",
+      "probability": 0.956
+    },
+    {
+      "start": 2591.19,
+      "end": 2591.19,
+      "text": "é",
+      "probability": 0.991
+    },
+    {
+      "start": 2591.19,
+      "end": 2591.19,
+      "text": "o",
+      "probability": 0.922
+    },
+    {
+      "start": 2591.19,
+      "end": 2591.19,
+      "text": "que",
+      "probability": 0.964
+    },
+    {
+      "start": 2591.19,
+      "end": 2591.19,
+      "text": "é",
+      "probability": 0.993
+    },
+    {
+      "start": 2591.19,
+      "end": 2591.29,
+      "text": "o",
+      "probability": 0.942
+    },
+    {
+      "start": 2591.29,
+      "end": 2591.35,
+      "text": "que",
+      "probability": 0.967
+    },
+    {
+      "start": 2591.35,
+      "end": 2591.35,
+      "text": "é",
+      "probability": 0.994
+    },
+    {
+      "start": 2591.35,
+      "end": 2591.35,
+      "text": "o",
+      "probability": 0.954
+    },
+    {
+      "start": 2591.35,
+      "end": 2591.91,
+      "text": "que",
+      "probability": 0.969
+    },
+    {
+      "start": 2591.91,
+      "end": 2591.95,
+      "text": "é",
+      "probability": 0.995
+    },
+    {
+      "start": 2591.95,
+      "end": 2591.95,
+      "text": "o",
+      "probability": 0.963
+    },
+    {
+      "start": 2591.95,
+      "end": 2591.95,
+      "text": "que",
+      "probability": 0.971
+    },
+    {
+      "start": 2591.95,
+      "end": 2592.03,
+      "text": "é",
+      "probability": 0.996
+    },
+    {
+      "start": 2592.03,
+      "end": 2592.39,
+      "text": "o",
+      "probability": 0.97
+    },
+    {
+      "start": 2592.39,
+      "end": 2592.39,
+      "text": "que",
+      "probability": 0.974
+    },
+    {
+      "start": 2592.39,
+      "end": 2592.39,
+      "text": "é",
+      "probability": 0.997
+    },
+    {
+      "start": 2592.39,
+      "end": 2592.55,
+      "text": "o",
+      "probability": 0.976
+    },
+    {
+      "start": 2592.55,
+      "end": 2592.55,
+      "text": "que",
+      "probability": 0.977
+    },
+    {
+      "start": 2592.55,
+      "end": 2592.91,
+      "text": "é",
+      "probability": 0.998
+    },
+    {
+      "start": 2594.16,
+      "end": 2594.54,
+      "text": "o",
+      "probability": 0.981
+    },
+    {
+      "start": 2594.54,
+      "end": 2594.82,
+      "text": "que",
+      "probability": 0.979
+    },
+    {
+      "start": 2594.82,
+      "end": 2594.82,
+      "text": "é",
+      "probability": 0.998
+    },
+    {
+      "start": 2594.82,
+      "end": 2595.14,
+      "text": "o",
+      "probability": 0.984
+    },
+    {
+      "start": 2595.14,
+      "end": 2595.14,
+      "text": "que",
+      "probability": 0.98
+    },
+    {
+      "start": 2595.14,
+      "end": 2595.64,
+      "text": "é",
+      "probability": 0.998
+    },
+    {
+      "start": 2595.64,
+      "end": 2596.46,
+      "text": "o",
+      "probability": 0.986
+    },
+    {
+      "start": 2596.46,
+      "end": 2597.86,
+      "text": "que",
+      "probability": 0.981
+    },
+    {
+      "start": 2597.86,
+      "end": 2598.08,
+      "text": "é",
+      "probability": 0.998
+    },
+    {
+      "start": 6223.71,
+      "end": 6229.27,
+      "text": "o",
+      "probability": 0.988
+    }
+  ]
+}

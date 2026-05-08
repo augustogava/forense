@@ -1,0 +1,47 @@
+{
+  "source_file": "New_Recording_15_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 8841.0,
+  "segments": {
+    "00:00:05,00:46:50": "Vamos lhe dar uma madeira, vem."
+  },
+  "words": [
+    {
+      "start": 5.11,
+      "end": 5.55,
+      "text": "Vamos",
+      "probability": 0.491
+    },
+    {
+      "start": 2809.13,
+      "end": 2809.43,
+      "text": "lhe",
+      "probability": 0.525
+    },
+    {
+      "start": 2809.43,
+      "end": 2809.49,
+      "text": "dar",
+      "probability": 0.998
+    },
+    {
+      "start": 2809.49,
+      "end": 2809.61,
+      "text": "uma",
+      "probability": 0.958
+    },
+    {
+      "start": 2809.61,
+      "end": 2810.13,
+      "text": "madeira,",
+      "probability": 0.979
+    },
+    {
+      "start": 2810.13,
+      "end": 2810.35,
+      "text": "vem.",
+      "probability": 0.231
+    }
+  ]
+}

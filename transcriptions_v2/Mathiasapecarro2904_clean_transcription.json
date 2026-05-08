@@ -1,0 +1,298 @@
+{
+  "source_file": "Mathiasapecarro2904_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 718.5,
+  "segments": {
+    "00:00:10,00:01:15": "Você ouviu o Desafio Rádio Disney.",
+    "00:01:15,00:11:02": "Me trancou aqui?",
+    "00:11:04,00:11:05": "Me trancou aqui?",
+    "00:11:05,00:11:06": "Oi, meu irmão!",
+    "00:11:07,00:11:11": "Oi, Felipe!",
+    "00:11:13,00:11:13": "Tudo bem?",
+    "00:11:15,00:11:18": "O seu Mickey veio passear?",
+    "00:11:20,00:11:21": "Oi, Mickey!",
+    "00:11:22,00:11:25": "Sabe onde a gente tá indo?",
+    "00:11:25,00:11:26": "Pra casa da vovó!",
+    "00:11:27,00:11:28": "Pra casa da vovó?",
+    "00:11:37,00:11:38": "Tá segurando. Ele já tá chegando."
+  },
+  "words": [
+    {
+      "start": 10.1,
+      "end": 10.86,
+      "text": "Você",
+      "probability": 0.053
+    },
+    {
+      "start": 72.91,
+      "end": 73.67,
+      "text": "ouviu",
+      "probability": 0.869
+    },
+    {
+      "start": 73.67,
+      "end": 73.67,
+      "text": "o",
+      "probability": 0.555
+    },
+    {
+      "start": 73.67,
+      "end": 74.37,
+      "text": "Desafio",
+      "probability": 0.777
+    },
+    {
+      "start": 74.37,
+      "end": 74.81,
+      "text": "Rádio",
+      "probability": 0.916
+    },
+    {
+      "start": 74.81,
+      "end": 75.23,
+      "text": "Disney.",
+      "probability": 0.978
+    },
+    {
+      "start": 75.55,
+      "end": 76.19,
+      "text": "Me",
+      "probability": 0.935
+    },
+    {
+      "start": 662.34,
+      "end": 662.72,
+      "text": "trancou",
+      "probability": 0.942
+    },
+    {
+      "start": 662.72,
+      "end": 662.88,
+      "text": "aqui?",
+      "probability": 0.996
+    },
+    {
+      "start": 664.1,
+      "end": 664.48,
+      "text": "Me",
+      "probability": 0.441
+    },
+    {
+      "start": 664.48,
+      "end": 665.02,
+      "text": "trancou",
+      "probability": 0.999
+    },
+    {
+      "start": 665.02,
+      "end": 665.2,
+      "text": "aqui?",
+      "probability": 0.999
+    },
+    {
+      "start": 665.4,
+      "end": 665.74,
+      "text": "Oi,",
+      "probability": 0.382
+    },
+    {
+      "start": 665.76,
+      "end": 665.88,
+      "text": "meu",
+      "probability": 0.845
+    },
+    {
+      "start": 666.16,
+      "end": 666.68,
+      "text": "irmão!",
+      "probability": 0.718
+    },
+    {
+      "start": 667.3,
+      "end": 667.9,
+      "text": "Oi,",
+      "probability": 0.136
+    },
+    {
+      "start": 671.39,
+      "end": 671.69,
+      "text": "Felipe!",
+      "probability": 0.352
+    },
+    {
+      "start": 673.07,
+      "end": 673.45,
+      "text": "Tudo",
+      "probability": 0.95
+    },
+    {
+      "start": 673.45,
+      "end": 673.83,
+      "text": "bem?",
+      "probability": 1.0
+    },
+    {
+      "start": 675.15,
+      "end": 675.91,
+      "text": "O",
+      "probability": 0.84
+    },
+    {
+      "start": 676.17,
+      "end": 676.43,
+      "text": "seu",
+      "probability": 0.982
+    },
+    {
+      "start": 676.43,
+      "end": 676.77,
+      "text": "Mickey",
+      "probability": 0.867
+    },
+    {
+      "start": 676.77,
+      "end": 677.19,
+      "text": "veio",
+      "probability": 0.997
+    },
+    {
+      "start": 677.19,
+      "end": 678.21,
+      "text": "passear?",
+      "probability": 1.0
+    },
+    {
+      "start": 680.26,
+      "end": 680.64,
+      "text": "Oi,",
+      "probability": 0.998
+    },
+    {
+      "start": 680.84,
+      "end": 681.12,
+      "text": "Mickey!",
+      "probability": 1.0
+    },
+    {
+      "start": 682.0,
+      "end": 682.76,
+      "text": "Sabe",
+      "probability": 0.994
+    },
+    {
+      "start": 684.23,
+      "end": 684.41,
+      "text": "onde",
+      "probability": 0.982
+    },
+    {
+      "start": 684.41,
+      "end": 684.51,
+      "text": "a",
+      "probability": 0.998
+    },
+    {
+      "start": 684.51,
+      "end": 684.61,
+      "text": "gente",
+      "probability": 1.0
+    },
+    {
+      "start": 684.61,
+      "end": 684.83,
+      "text": "tá",
+      "probability": 0.441
+    },
+    {
+      "start": 684.83,
+      "end": 685.05,
+      "text": "indo?",
+      "probability": 1.0
+    },
+    {
+      "start": 685.25,
+      "end": 685.39,
+      "text": "Pra",
+      "probability": 0.985
+    },
+    {
+      "start": 685.39,
+      "end": 685.63,
+      "text": "casa",
+      "probability": 0.986
+    },
+    {
+      "start": 685.63,
+      "end": 685.81,
+      "text": "da",
+      "probability": 1.0
+    },
+    {
+      "start": 685.81,
+      "end": 686.31,
+      "text": "vovó!",
+      "probability": 0.986
+    },
+    {
+      "start": 687.41,
+      "end": 687.85,
+      "text": "Pra",
+      "probability": 0.961
+    },
+    {
+      "start": 687.85,
+      "end": 688.11,
+      "text": "casa",
+      "probability": 0.994
+    },
+    {
+      "start": 688.11,
+      "end": 688.31,
+      "text": "da",
+      "probability": 1.0
+    },
+    {
+      "start": 688.31,
+      "end": 688.83,
+      "text": "vovó?",
+      "probability": 1.0
+    },
+    {
+      "start": 697.25,
+      "end": 697.57,
+      "text": "Tá",
+      "probability": 0.438
+    },
+    {
+      "start": 697.57,
+      "end": 697.89,
+      "text": "segurando.",
+      "probability": 0.642
+    },
+    {
+      "start": 697.99,
+      "end": 698.17,
+      "text": "Ele",
+      "probability": 0.262
+    },
+    {
+      "start": 698.17,
+      "end": 698.31,
+      "text": "já",
+      "probability": 0.999
+    },
+    {
+      "start": 698.31,
+      "end": 698.43,
+      "text": "tá",
+      "probability": 0.769
+    },
+    {
+      "start": 698.43,
+      "end": 698.97,
+      "text": "chegando.",
+      "probability": 0.997
+    }
+  ]
+}

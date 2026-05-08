@@ -1,0 +1,347 @@
+{
+  "source_file": "Banho0705_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 323.5,
+  "segments": {
+    "00:00:01,00:03:24": "Não se preocupe com o que for dito, não se preocupe com o que for dito, não se preocupe com o que for dito, não se preocupe com o que for dito, não se preocupe com o que for dito, não se preocupe com o que for dito, não se preocupe com o que for dito."
+  },
+  "words": [
+    {
+      "start": 1.52,
+      "end": 1.7,
+      "text": "Não",
+      "probability": 0.014
+    },
+    {
+      "start": 1.7,
+      "end": 1.94,
+      "text": "se",
+      "probability": 0.057
+    },
+    {
+      "start": 1.94,
+      "end": 2.24,
+      "text": "preocupe",
+      "probability": 0.749
+    },
+    {
+      "start": 2.24,
+      "end": 2.44,
+      "text": "com",
+      "probability": 0.253
+    },
+    {
+      "start": 2.44,
+      "end": 2.44,
+      "text": "o",
+      "probability": 0.235
+    },
+    {
+      "start": 2.44,
+      "end": 2.44,
+      "text": "que",
+      "probability": 0.199
+    },
+    {
+      "start": 2.44,
+      "end": 2.44,
+      "text": "for",
+      "probability": 0.031
+    },
+    {
+      "start": 2.44,
+      "end": 2.44,
+      "text": "dito,",
+      "probability": 0.487
+    },
+    {
+      "start": 2.44,
+      "end": 3.28,
+      "text": "não",
+      "probability": 0.125
+    },
+    {
+      "start": 3.28,
+      "end": 3.54,
+      "text": "se",
+      "probability": 0.238
+    },
+    {
+      "start": 3.54,
+      "end": 3.76,
+      "text": "preocupe",
+      "probability": 0.97
+    },
+    {
+      "start": 3.76,
+      "end": 3.96,
+      "text": "com",
+      "probability": 0.771
+    },
+    {
+      "start": 3.96,
+      "end": 3.96,
+      "text": "o",
+      "probability": 0.616
+    },
+    {
+      "start": 3.96,
+      "end": 3.96,
+      "text": "que",
+      "probability": 0.956
+    },
+    {
+      "start": 3.96,
+      "end": 4.18,
+      "text": "for",
+      "probability": 0.169
+    },
+    {
+      "start": 4.18,
+      "end": 4.28,
+      "text": "dito,",
+      "probability": 0.89
+    },
+    {
+      "start": 4.28,
+      "end": 5.24,
+      "text": "não",
+      "probability": 0.562
+    },
+    {
+      "start": 6.17,
+      "end": 6.17,
+      "text": "se",
+      "probability": 0.746
+    },
+    {
+      "start": 6.17,
+      "end": 6.31,
+      "text": "preocupe",
+      "probability": 0.99
+    },
+    {
+      "start": 6.31,
+      "end": 6.51,
+      "text": "com",
+      "probability": 0.911
+    },
+    {
+      "start": 6.51,
+      "end": 6.57,
+      "text": "o",
+      "probability": 0.946
+    },
+    {
+      "start": 6.57,
+      "end": 6.57,
+      "text": "que",
+      "probability": 0.991
+    },
+    {
+      "start": 6.57,
+      "end": 6.65,
+      "text": "for",
+      "probability": 0.952
+    },
+    {
+      "start": 6.65,
+      "end": 6.85,
+      "text": "dito,",
+      "probability": 0.979
+    },
+    {
+      "start": 6.91,
+      "end": 7.75,
+      "text": "não",
+      "probability": 0.789
+    },
+    {
+      "start": 12.87,
+      "end": 13.09,
+      "text": "se",
+      "probability": 0.878
+    },
+    {
+      "start": 13.09,
+      "end": 13.75,
+      "text": "preocupe",
+      "probability": 0.991
+    },
+    {
+      "start": 13.75,
+      "end": 13.79,
+      "text": "com",
+      "probability": 0.934
+    },
+    {
+      "start": 13.79,
+      "end": 13.79,
+      "text": "o",
+      "probability": 0.971
+    },
+    {
+      "start": 13.79,
+      "end": 13.85,
+      "text": "que",
+      "probability": 0.992
+    },
+    {
+      "start": 13.85,
+      "end": 13.85,
+      "text": "for",
+      "probability": 0.977
+    },
+    {
+      "start": 13.85,
+      "end": 14.01,
+      "text": "dito,",
+      "probability": 0.99
+    },
+    {
+      "start": 17.85,
+      "end": 18.21,
+      "text": "não",
+      "probability": 0.859
+    },
+    {
+      "start": 18.21,
+      "end": 18.43,
+      "text": "se",
+      "probability": 0.926
+    },
+    {
+      "start": 18.43,
+      "end": 18.49,
+      "text": "preocupe",
+      "probability": 0.993
+    },
+    {
+      "start": 18.49,
+      "end": 18.53,
+      "text": "com",
+      "probability": 0.956
+    },
+    {
+      "start": 18.53,
+      "end": 18.83,
+      "text": "o",
+      "probability": 0.98
+    },
+    {
+      "start": 18.83,
+      "end": 18.83,
+      "text": "que",
+      "probability": 0.992
+    },
+    {
+      "start": 18.83,
+      "end": 18.85,
+      "text": "for",
+      "probability": 0.982
+    },
+    {
+      "start": 18.85,
+      "end": 19.05,
+      "text": "dito,",
+      "probability": 0.994
+    },
+    {
+      "start": 19.05,
+      "end": 19.05,
+      "text": "não",
+      "probability": 0.904
+    },
+    {
+      "start": 19.05,
+      "end": 19.05,
+      "text": "se",
+      "probability": 0.95
+    },
+    {
+      "start": 19.05,
+      "end": 19.05,
+      "text": "preocupe",
+      "probability": 0.994
+    },
+    {
+      "start": 19.05,
+      "end": 19.05,
+      "text": "com",
+      "probability": 0.969
+    },
+    {
+      "start": 19.05,
+      "end": 19.27,
+      "text": "o",
+      "probability": 0.987
+    },
+    {
+      "start": 19.27,
+      "end": 19.47,
+      "text": "que",
+      "probability": 0.992
+    },
+    {
+      "start": 19.47,
+      "end": 19.47,
+      "text": "for",
+      "probability": 0.985
+    },
+    {
+      "start": 19.47,
+      "end": 20.05,
+      "text": "dito,",
+      "probability": 0.996
+    },
+    {
+      "start": 20.07,
+      "end": 20.37,
+      "text": "não",
+      "probability": 0.936
+    },
+    {
+      "start": 202.86,
+      "end": 202.94,
+      "text": "se",
+      "probability": 0.965
+    },
+    {
+      "start": 202.94,
+      "end": 204.36,
+      "text": "preocupe",
+      "probability": 0.995
+    },
+    {
+      "start": 204.36,
+      "end": 204.36,
+      "text": "com",
+      "probability": 0.977
+    },
+    {
+      "start": 204.36,
+      "end": 204.36,
+      "text": "o",
+      "probability": 0.989
+    },
+    {
+      "start": 204.36,
+      "end": 204.36,
+      "text": "que",
+      "probability": 0.993
+    },
+    {
+      "start": 204.36,
+      "end": 204.36,
+      "text": "for",
+      "probability": 0.986
+    },
+    {
+      "start": 204.36,
+      "end": 204.36,
+      "text": "dito.",
+      "probability": 0.997
+    }
+  ]
+}

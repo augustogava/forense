@@ -1,0 +1,73 @@
+{
+  "source_file": "Antesswxobanheiro0605_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 637.2,
+  "segments": {
+    "00:00:00,00:00:02": "O que é o sexo?",
+    "00:00:24,00:00:29": "O que é isso?",
+    "00:03:22,00:03:23": "Obrigado."
+  },
+  "words": [
+    {
+      "start": 0.34,
+      "end": 0.74,
+      "text": "O",
+      "probability": 0.038
+    },
+    {
+      "start": 0.74,
+      "end": 1.28,
+      "text": "que",
+      "probability": 0.613
+    },
+    {
+      "start": 1.28,
+      "end": 1.9,
+      "text": "é",
+      "probability": 0.279
+    },
+    {
+      "start": 1.9,
+      "end": 2.18,
+      "text": "o",
+      "probability": 0.076
+    },
+    {
+      "start": 2.18,
+      "end": 2.47,
+      "text": "sexo?",
+      "probability": 0.487
+    },
+    {
+      "start": 24.77,
+      "end": 26.17,
+      "text": "O",
+      "probability": 0.048
+    },
+    {
+      "start": 26.17,
+      "end": 27.57,
+      "text": "que",
+      "probability": 0.551
+    },
+    {
+      "start": 27.57,
+      "end": 27.83,
+      "text": "é",
+      "probability": 0.423
+    },
+    {
+      "start": 27.83,
+      "end": 29.77,
+      "text": "isso?",
+      "probability": 0.814
+    },
+    {
+      "start": 202.35,
+      "end": 203.75,
+      "text": "Obrigado.",
+      "probability": 0.537
+    }
+  ]
+}

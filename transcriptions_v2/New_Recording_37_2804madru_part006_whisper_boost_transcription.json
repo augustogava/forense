@@ -1,0 +1,35 @@
+{
+  "source_file": "New_Recording_37_2804madru_part006_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 5400.0,
+  "segments": {
+    "00:12:02,00:12:06": "Transcrição em português brasileiro."
+  },
+  "words": [
+    {
+      "start": 722.31,
+      "end": 723.39,
+      "text": "Transcrição",
+      "probability": 0.622
+    },
+    {
+      "start": 723.39,
+      "end": 723.63,
+      "text": "em",
+      "probability": 0.0
+    },
+    {
+      "start": 724.91,
+      "end": 725.79,
+      "text": "português",
+      "probability": 0.691
+    },
+    {
+      "start": 725.79,
+      "end": 726.03,
+      "text": "brasileiro.",
+      "probability": 0.481
+    }
+  ]
+}

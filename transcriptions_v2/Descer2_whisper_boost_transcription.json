@@ -1,0 +1,119 @@
+{
+  "source_file": "Descer2_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 382.9,
+  "segments": {
+    "00:00:00,00:00:58": "Não se esqueça de se inscrever no canal e ativar o sininho para receber notificações de novos vídeos."
+  },
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.88,
+      "text": "Não",
+      "probability": 0.017
+    },
+    {
+      "start": 0.88,
+      "end": 1.14,
+      "text": "se",
+      "probability": 0.319
+    },
+    {
+      "start": 1.14,
+      "end": 1.52,
+      "text": "esqueça",
+      "probability": 0.386
+    },
+    {
+      "start": 1.52,
+      "end": 1.72,
+      "text": "de",
+      "probability": 0.777
+    },
+    {
+      "start": 1.72,
+      "end": 2.28,
+      "text": "se",
+      "probability": 0.087
+    },
+    {
+      "start": 2.79,
+      "end": 11.81,
+      "text": "inscrever",
+      "probability": 0.974
+    },
+    {
+      "start": 12.9,
+      "end": 12.9,
+      "text": "no",
+      "probability": 0.755
+    },
+    {
+      "start": 12.9,
+      "end": 14.66,
+      "text": "canal",
+      "probability": 0.895
+    },
+    {
+      "start": 14.66,
+      "end": 16.04,
+      "text": "e",
+      "probability": 0.587
+    },
+    {
+      "start": 16.04,
+      "end": 16.28,
+      "text": "ativar",
+      "probability": 0.904
+    },
+    {
+      "start": 21.56,
+      "end": 21.76,
+      "text": "o",
+      "probability": 0.355
+    },
+    {
+      "start": 21.76,
+      "end": 22.72,
+      "text": "sininho",
+      "probability": 0.967
+    },
+    {
+      "start": 22.72,
+      "end": 23.6,
+      "text": "para",
+      "probability": 0.717
+    },
+    {
+      "start": 25.17,
+      "end": 25.37,
+      "text": "receber",
+      "probability": 0.953
+    },
+    {
+      "start": 25.37,
+      "end": 28.71,
+      "text": "notificações",
+      "probability": 0.956
+    },
+    {
+      "start": 30.28,
+      "end": 30.64,
+      "text": "de",
+      "probability": 0.907
+    },
+    {
+      "start": 57.13,
+      "end": 58.19,
+      "text": "novos",
+      "probability": 0.994
+    },
+    {
+      "start": 58.19,
+      "end": 58.55,
+      "text": "vídeos.",
+      "probability": 0.979
+    }
+  ]
+}
