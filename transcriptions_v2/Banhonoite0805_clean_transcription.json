@@ -1,0 +1,53 @@
+{
+  "source_file": "Banhonoite0805_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 808.8,
+  "segments": {
+    "00:00:07,00:00:13": "E agora, como é que eu volto?"
+  },
+  "words": [
+    {
+      "start": 7.19,
+      "end": 7.67,
+      "text": "E",
+      "probability": 0.513
+    },
+    {
+      "start": 12.24,
+      "end": 12.56,
+      "text": "agora,",
+      "probability": 0.989
+    },
+    {
+      "start": 12.62,
+      "end": 12.78,
+      "text": "como",
+      "probability": 0.751
+    },
+    {
+      "start": 12.78,
+      "end": 12.94,
+      "text": "é",
+      "probability": 0.997
+    },
+    {
+      "start": 12.94,
+      "end": 12.94,
+      "text": "que",
+      "probability": 0.981
+    },
+    {
+      "start": 12.94,
+      "end": 13.02,
+      "text": "eu",
+      "probability": 0.42
+    },
+    {
+      "start": 13.02,
+      "end": 13.36,
+      "text": "volto?",
+      "probability": 0.596
+    }
+  ]
+}

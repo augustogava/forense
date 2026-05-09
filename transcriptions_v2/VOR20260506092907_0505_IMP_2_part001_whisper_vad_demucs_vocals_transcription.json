@@ -1,0 +1,42 @@
+{
+  "source_file": "VOR20260506092907_0505_IMP_2_part001_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 5400.0,
+  "segments": {
+    "00:19:51,00:20:58": "3, 2, 1.",
+    "00:23:45,00:24:05": "Vamos lá."
+  },
+  "words": [
+    {
+      "start": 1191.94,
+      "end": 1193.34,
+      "text": "3,",
+      "probability": 0.027
+    },
+    {
+      "start": 1202.11,
+      "end": 1203.51,
+      "text": "2,",
+      "probability": 0.879
+    },
+    {
+      "start": 1256.93,
+      "end": 1258.15,
+      "text": "1.",
+      "probability": 0.998
+    },
+    {
+      "start": 1425.74,
+      "end": 1427.14,
+      "text": "Vamos",
+      "probability": 0.038
+    },
+    {
+      "start": 1444.42,
+      "end": 1445.82,
+      "text": "lá.",
+      "probability": 0.857
+    }
+  ]
+}

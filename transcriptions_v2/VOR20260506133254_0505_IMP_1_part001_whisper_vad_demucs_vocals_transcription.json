@@ -1,0 +1,359 @@
+{
+  "source_file": "VOR20260506133254_0505_IMP_1_part001_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 5400.0,
+  "segments": {
+    "01:11:46,01:11:51": "Tchau, gente.",
+    "01:13:16,01:13:17": "o que eu disse?",
+    "01:13:17,01:13:19": "eu disse",
+    "01:13:19,01:13:22": "que eu era",
+    "01:13:22,01:13:23": "cara",
+    "01:13:37,01:13:38": "não é?",
+    "01:13:38,01:13:40": "eu disse",
+    "01:13:40,01:13:45": "que eu era",
+    "01:13:45,01:13:45": "cara",
+    "01:13:46,01:13:47": "não é?",
+    "01:13:47,01:13:48": "eu disse",
+    "01:13:48,01:13:50": "que eu era",
+    "01:13:50,01:13:51": "que eu era",
+    "01:13:52,01:13:52": "não é?",
+    "01:13:52,01:13:53": "eu disse",
+    "01:13:53,01:13:53": "que eu era",
+    "01:13:53,01:13:54": "cara",
+    "01:13:54,01:13:56": "não é?",
+    "01:13:56,01:13:56": "eu disse",
+    "01:13:56,01:13:57": "que eu era",
+    "01:13:57,01:13:58": "não é?",
+    "01:14:00,01:14:00": "eu disse",
+    "01:19:29,01:19:30": "cara",
+    "01:19:35,01:19:42": "não é?",
+    "01:19:44,01:19:44": "cara"
+  },
+  "words": [
+    {
+      "start": 4306.68,
+      "end": 4308.08,
+      "text": "Tchau,",
+      "probability": 0.508
+    },
+    {
+      "start": 4309.61,
+      "end": 4311.01,
+      "text": "gente.",
+      "probability": 0.086
+    },
+    {
+      "start": 4396.5,
+      "end": 4396.64,
+      "text": "o",
+      "probability": 0.037
+    },
+    {
+      "start": 4396.64,
+      "end": 4396.78,
+      "text": "que",
+      "probability": 0.153
+    },
+    {
+      "start": 4396.78,
+      "end": 4397.08,
+      "text": "eu",
+      "probability": 0.094
+    },
+    {
+      "start": 4397.08,
+      "end": 4397.14,
+      "text": "disse?",
+      "probability": 0.055
+    },
+    {
+      "start": 4397.2,
+      "end": 4397.76,
+      "text": "eu",
+      "probability": 0.15
+    },
+    {
+      "start": 4399.42,
+      "end": 4399.66,
+      "text": "disse",
+      "probability": 0.933
+    },
+    {
+      "start": 4399.66,
+      "end": 4400.0,
+      "text": "que",
+      "probability": 0.117
+    },
+    {
+      "start": 4400.0,
+      "end": 4400.68,
+      "text": "eu",
+      "probability": 0.321
+    },
+    {
+      "start": 4402.83,
+      "end": 4402.97,
+      "text": "era",
+      "probability": 0.371
+    },
+    {
+      "start": 4402.97,
+      "end": 4403.79,
+      "text": "cara",
+      "probability": 0.092
+    },
+    {
+      "start": 4417.77,
+      "end": 4418.17,
+      "text": "não",
+      "probability": 0.017
+    },
+    {
+      "start": 4418.17,
+      "end": 4418.47,
+      "text": "é?",
+      "probability": 0.191
+    },
+    {
+      "start": 4418.67,
+      "end": 4419.23,
+      "text": "eu",
+      "probability": 0.587
+    },
+    {
+      "start": 4419.81,
+      "end": 4420.19,
+      "text": "disse",
+      "probability": 0.976
+    },
+    {
+      "start": 4420.19,
+      "end": 4420.21,
+      "text": "que",
+      "probability": 0.455
+    },
+    {
+      "start": 4420.21,
+      "end": 4420.97,
+      "text": "eu",
+      "probability": 0.809
+    },
+    {
+      "start": 4424.78,
+      "end": 4425.0,
+      "text": "era",
+      "probability": 0.952
+    },
+    {
+      "start": 4425.54,
+      "end": 4425.82,
+      "text": "cara",
+      "probability": 0.563
+    },
+    {
+      "start": 4426.39,
+      "end": 4426.71,
+      "text": "não",
+      "probability": 0.71
+    },
+    {
+      "start": 4426.71,
+      "end": 4427.11,
+      "text": "é?",
+      "probability": 0.887
+    },
+    {
+      "start": 4427.91,
+      "end": 4428.47,
+      "text": "eu",
+      "probability": 0.779
+    },
+    {
+      "start": 4428.47,
+      "end": 4428.81,
+      "text": "disse",
+      "probability": 0.99
+    },
+    {
+      "start": 4428.81,
+      "end": 4428.97,
+      "text": "que",
+      "probability": 0.84
+    },
+    {
+      "start": 4428.97,
+      "end": 4429.87,
+      "text": "eu",
+      "probability": 0.968
+    },
+    {
+      "start": 4430.29,
+      "end": 4430.47,
+      "text": "era",
+      "probability": 0.969
+    },
+    {
+      "start": 4430.47,
+      "end": 4430.59,
+      "text": "que",
+      "probability": 0.918
+    },
+    {
+      "start": 4430.59,
+      "end": 4430.69,
+      "text": "eu",
+      "probability": 0.953
+    },
+    {
+      "start": 4430.69,
+      "end": 4431.49,
+      "text": "era",
+      "probability": 0.974
+    },
+    {
+      "start": 4432.7,
+      "end": 4432.9,
+      "text": "cara",
+      "probability": 0.831
+    },
+    {
+      "start": 4432.9,
+      "end": 4432.9,
+      "text": "não",
+      "probability": 0.915
+    },
+    {
+      "start": 4432.9,
+      "end": 4432.92,
+      "text": "é?",
+      "probability": 0.982
+    },
+    {
+      "start": 4432.92,
+      "end": 4433.06,
+      "text": "eu",
+      "probability": 0.641
+    },
+    {
+      "start": 4433.06,
+      "end": 4433.06,
+      "text": "disse",
+      "probability": 0.98
+    },
+    {
+      "start": 4433.06,
+      "end": 4433.1,
+      "text": "que",
+      "probability": 0.937
+    },
+    {
+      "start": 4433.1,
+      "end": 4433.24,
+      "text": "eu",
+      "probability": 0.955
+    },
+    {
+      "start": 4433.24,
+      "end": 4433.82,
+      "text": "era",
+      "probability": 0.979
+    },
+    {
+      "start": 4433.82,
+      "end": 4434.74,
+      "text": "cara",
+      "probability": 0.873
+    },
+    {
+      "start": 4434.84,
+      "end": 4435.5,
+      "text": "não",
+      "probability": 0.883
+    },
+    {
+      "start": 4435.5,
+      "end": 4436.08,
+      "text": "é?",
+      "probability": 0.965
+    },
+    {
+      "start": 4436.08,
+      "end": 4436.08,
+      "text": "eu",
+      "probability": 0.42
+    },
+    {
+      "start": 4436.75,
+      "end": 4436.91,
+      "text": "disse",
+      "probability": 0.974
+    },
+    {
+      "start": 4436.91,
+      "end": 4437.09,
+      "text": "que",
+      "probability": 0.916
+    },
+    {
+      "start": 4437.09,
+      "end": 4437.33,
+      "text": "eu",
+      "probability": 0.959
+    },
+    {
+      "start": 4437.33,
+      "end": 4437.37,
+      "text": "era",
+      "probability": 0.985
+    },
+    {
+      "start": 4437.37,
+      "end": 4437.37,
+      "text": "não",
+      "probability": 0.886
+    },
+    {
+      "start": 4437.37,
+      "end": 4438.23,
+      "text": "é?",
+      "probability": 0.967
+    },
+    {
+      "start": 4440.25,
+      "end": 4440.33,
+      "text": "eu",
+      "probability": 0.532
+    },
+    {
+      "start": 4440.33,
+      "end": 4440.33,
+      "text": "disse",
+      "probability": 0.978
+    },
+    {
+      "start": 4769.88,
+      "end": 4770.82,
+      "text": "cara",
+      "probability": 0.885
+    },
+    {
+      "start": 4775.21,
+      "end": 4775.77,
+      "text": "não",
+      "probability": 0.907
+    },
+    {
+      "start": 4782.42,
+      "end": 4782.98,
+      "text": "é?",
+      "probability": 0.977
+    },
+    {
+      "start": 4784.28,
+      "end": 4784.52,
+      "text": "cara",
+      "probability": 0.001
+    }
+  ]
+}

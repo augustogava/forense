@@ -1,0 +1,144 @@
+{
+  "source_file": "Banhomanha0905_whisper_vad_ai_enhanced.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 453.5,
+  "segments": {
+    "00:00:54,00:00:57": "O que é isso?",
+    "00:00:58,00:00:58": "O que é isso?",
+    "00:00:58,00:01:39": "Não sei!",
+    "00:02:10,00:02:11": "Não sei!",
+    "00:02:12,00:02:26": "O que é isso?",
+    "00:02:30,00:02:34": "Não sei!",
+    "00:02:35,00:02:35": "Não sei!",
+    "00:02:57,00:02:58": "Obrigado."
+  },
+  "words": [
+    {
+      "start": 54.93,
+      "end": 55.53,
+      "text": "O",
+      "probability": 0.022
+    },
+    {
+      "start": 57.38,
+      "end": 57.5,
+      "text": "que",
+      "probability": 0.462
+    },
+    {
+      "start": 57.5,
+      "end": 57.68,
+      "text": "é",
+      "probability": 0.589
+    },
+    {
+      "start": 57.68,
+      "end": 57.78,
+      "text": "isso?",
+      "probability": 0.629
+    },
+    {
+      "start": 58.4,
+      "end": 58.7,
+      "text": "O",
+      "probability": 0.124
+    },
+    {
+      "start": 58.7,
+      "end": 58.7,
+      "text": "que",
+      "probability": 0.886
+    },
+    {
+      "start": 58.7,
+      "end": 58.7,
+      "text": "é",
+      "probability": 0.955
+    },
+    {
+      "start": 58.7,
+      "end": 58.7,
+      "text": "isso?",
+      "probability": 0.953
+    },
+    {
+      "start": 58.7,
+      "end": 58.94,
+      "text": "Não",
+      "probability": 0.034
+    },
+    {
+      "start": 99.14,
+      "end": 99.84,
+      "text": "sei!",
+      "probability": 0.128
+    },
+    {
+      "start": 130.53,
+      "end": 131.13,
+      "text": "Não",
+      "probability": 0.394
+    },
+    {
+      "start": 131.13,
+      "end": 131.59,
+      "text": "sei!",
+      "probability": 0.964
+    },
+    {
+      "start": 132.95,
+      "end": 133.55,
+      "text": "O",
+      "probability": 0.073
+    },
+    {
+      "start": 145.71,
+      "end": 146.17,
+      "text": "que",
+      "probability": 0.94
+    },
+    {
+      "start": 146.17,
+      "end": 146.17,
+      "text": "é",
+      "probability": 0.955
+    },
+    {
+      "start": 146.17,
+      "end": 146.41,
+      "text": "isso?",
+      "probability": 0.958
+    },
+    {
+      "start": 150.58,
+      "end": 151.18,
+      "text": "Não",
+      "probability": 0.411
+    },
+    {
+      "start": 154.09,
+      "end": 154.35,
+      "text": "sei!",
+      "probability": 0.992
+    },
+    {
+      "start": 155.15,
+      "end": 155.65,
+      "text": "Não",
+      "probability": 0.745
+    },
+    {
+      "start": 155.65,
+      "end": 155.93,
+      "text": "sei!",
+      "probability": 0.995
+    },
+    {
+      "start": 177.27,
+      "end": 178.61,
+      "text": "Obrigado.",
+      "probability": 0.539
+    }
+  ]
+}

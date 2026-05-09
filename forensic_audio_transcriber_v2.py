@@ -284,7 +284,7 @@ def _compute_vad_mask(y: np.ndarray, sr: int) -> np.ndarray:
         arith_mean = np.mean(spectrum) + 1e-10
         spectral_flatness[i] = geo_mean / arith_mean
     silence_rms = np.percentile(rms, 15)
-    rms_threshold = silence_rms * 3.0
+    rms_threshold = silence_rms * 2.0
     voice_score = np.zeros(n_frames)
     voice_score[rms > rms_threshold] += 1.0
     voice_score[zcr < 0.3] += 0.5
@@ -333,7 +333,7 @@ def _whisper_spectral_boost_vad(y: np.ndarray, sr: int, vad_mask: np.ndarray) ->
             frame_gain[boost_frames] = np.clip(median_energy / (speech_energy[boost_frames] + 1e-10), 1.0, 4.0)
         freq_gain = np.ones_like(freqs)
         freq_gain[speech_mask] = 1.5
-        freq_gain[(freqs < 150)] = 0.1
+        freq_gain[(freqs < 150)] = 0.3
         freq_gain[(freqs > 8000)] = 0.2
         return magnitude * freq_gain[:, np.newaxis] * frame_gain[np.newaxis, :] * np.exp(1j * phase)
 
@@ -404,10 +404,10 @@ def _preprocess_audio(audio_path: Path, output_dir: Path) -> Path:
     vad_mask = _compute_vad_mask(y, sr)
     y = _declip(y)
     y = _highpass(y, sr, 80)
-    y = nr.reduce_noise(y=y, sr=sr, stationary=True, prop_decrease=0.80,
-                        n_std_thresh_stationary=1.5, n_fft=2048)
-    y = nr.reduce_noise(y=y, sr=sr, stationary=False, prop_decrease=0.70,
-                        thresh_n_mult_nonstationary=2.0, sigmoid_slope_nonstationary=10, n_fft=2048)
+    y = nr.reduce_noise(y=y, sr=sr, stationary=True, prop_decrease=0.60,
+                        n_std_thresh_stationary=2.0, n_fft=2048)
+    y = nr.reduce_noise(y=y, sr=sr, stationary=False, prop_decrease=0.50,
+                        thresh_n_mult_nonstationary=3.0, sigmoid_slope_nonstationary=10, n_fft=2048)
     y = _whisper_spectral_boost_vad(y, sr, vad_mask)
     y = _boost_quiet_segments_vad(y, sr, vad_mask, max_gain=4.0)
     y = _dynamic_compress(y, sr)
@@ -435,11 +435,7 @@ _YOUTUBE_PATTERNS = [
 ]
 
 _GENERIC_HALLUCINATION_PATTERNS = [
-    re.compile(r"^m[úu]sica\.?$", re.IGNORECASE),
-    re.compile(r"^o que [ée] isso\??$", re.IGNORECASE),
     re.compile(r"dispon[íi]vel em portugu[eê]s", re.IGNORECASE),
-    re.compile(r"^e a[íi]\.?$", re.IGNORECASE),
-    re.compile(r"^aten[çc][ãa]o!?$", re.IGNORECASE),
     re.compile(r"^a cidade no brasil\.?$", re.IGNORECASE),
 ]
 
@@ -467,18 +463,51 @@ def _has_ngram_repetition(words: list, ngram_sizes=(2, 3, 4), min_repeats: int =
     return False
 
 
+def _has_sequential_numbers(text: str) -> bool:
+    numbers = re.findall(r'\d+', text)
+    if len(numbers) < 5:
+        return False
+    nums = [int(n) for n in numbers]
+    consecutive = 0
+    for i in range(1, len(nums)):
+        if nums[i] == nums[i-1] + 1:
+            consecutive += 1
+        else:
+            consecutive = 0
+        if consecutive >= 4:
+            return True
+    return False
+
+
+def _has_extended_char_repetition(text: str, min_repeat: int = 5) -> bool:
+    for match in re.finditer(r'(.)\1{' + str(min_repeat - 1) + r',}', text):
+        if match.group(1) not in (' ', '.', ','):
+            return True
+    return False
+
+
 def _is_hallucination(seg) -> bool:
     text = seg.text.strip() if hasattr(seg, "text") else ""
     if not text:
+        return True
+
+    seg_duration = getattr(seg, "end", 0) - getattr(seg, "start", 0)
+    if seg_duration > 120:
         return True
 
     no_speech = getattr(seg, "no_speech_prob", 0.0)
     logprob = getattr(seg, "avg_logprob", 0.0)
     compression = getattr(seg, "compression_ratio", 1.0)
 
-    if no_speech > 0.7 and logprob < -1.2:
+    if no_speech > 0.85 and logprob < -1.5:
         return True
-    if compression > 2.8 and logprob < -1.2:
+    if compression > 3.0 and logprob < -1.5:
+        return True
+
+    if _has_extended_char_repetition(text):
+        return True
+
+    if _has_sequential_numbers(text):
         return True
 
     text_lower = text.lower()
@@ -542,16 +571,16 @@ def transcribe_file(
             beam_size=10,
             word_timestamps=True,
             condition_on_previous_text=False,
-            no_speech_threshold=0.7,
-            compression_ratio_threshold=2.8,
+            no_speech_threshold=0.8,
+            compression_ratio_threshold=3.0,
             temperature=[0.0, 0.2, 0.4],
-            log_prob_threshold=-2.0,
-            hallucination_silence_threshold=1.5,
+            log_prob_threshold=-3.0,
+            hallucination_silence_threshold=2.0,
             vad_filter=True,
             vad_parameters=dict(
-                threshold=0.25,
-                min_speech_duration_ms=200,
-                min_silence_duration_ms=300,
+                threshold=0.20,
+                min_speech_duration_ms=150,
+                min_silence_duration_ms=200,
             ),
             initial_prompt=_FORENSIC_PROMPT,
         )

@@ -1,0 +1,179 @@
+{
+  "source_file": "VOR20260508063221_0805_part002_whisper_vad_ai_enhanced.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.0,
+  "segments": {
+    "00:22:27,00:22:29": "Ele já tem uma relíquia para você.",
+    "00:22:31,00:22:32": "Ele está insistindo.",
+    "00:22:32,00:22:34": "Ele não sei o que ele está dizendo.",
+    "00:22:35,00:22:45": "Ele não vai entender não.",
+    "00:23:35,00:23:36": "Tchau, tchau.",
+    "00:54:22,00:54:23": "NÃO!",
+    "00:59:24,00:59:25": "ASSUME!"
+  },
+  "words": [
+    {
+      "start": 1347.01,
+      "end": 1347.45,
+      "text": "Ele",
+      "probability": 0.046
+    },
+    {
+      "start": 1347.45,
+      "end": 1347.75,
+      "text": "já",
+      "probability": 0.66
+    },
+    {
+      "start": 1347.75,
+      "end": 1347.97,
+      "text": "tem",
+      "probability": 0.587
+    },
+    {
+      "start": 1347.97,
+      "end": 1348.27,
+      "text": "uma",
+      "probability": 0.859
+    },
+    {
+      "start": 1348.27,
+      "end": 1348.85,
+      "text": "relíquia",
+      "probability": 0.628
+    },
+    {
+      "start": 1348.85,
+      "end": 1349.27,
+      "text": "para",
+      "probability": 0.167
+    },
+    {
+      "start": 1349.27,
+      "end": 1349.43,
+      "text": "você.",
+      "probability": 0.965
+    },
+    {
+      "start": 1351.06,
+      "end": 1351.5,
+      "text": "Ele",
+      "probability": 0.333
+    },
+    {
+      "start": 1351.5,
+      "end": 1351.84,
+      "text": "está",
+      "probability": 0.316
+    },
+    {
+      "start": 1351.84,
+      "end": 1352.54,
+      "text": "insistindo.",
+      "probability": 0.609
+    },
+    {
+      "start": 1352.76,
+      "end": 1353.2,
+      "text": "Ele",
+      "probability": 0.434
+    },
+    {
+      "start": 1353.2,
+      "end": 1353.42,
+      "text": "não",
+      "probability": 0.193
+    },
+    {
+      "start": 1353.42,
+      "end": 1353.64,
+      "text": "sei",
+      "probability": 0.352
+    },
+    {
+      "start": 1353.64,
+      "end": 1353.78,
+      "text": "o",
+      "probability": 0.458
+    },
+    {
+      "start": 1353.78,
+      "end": 1353.92,
+      "text": "que",
+      "probability": 0.939
+    },
+    {
+      "start": 1353.92,
+      "end": 1354.16,
+      "text": "ele",
+      "probability": 0.396
+    },
+    {
+      "start": 1354.16,
+      "end": 1354.36,
+      "text": "está",
+      "probability": 0.936
+    },
+    {
+      "start": 1354.36,
+      "end": 1354.56,
+      "text": "dizendo.",
+      "probability": 0.558
+    },
+    {
+      "start": 1355.2,
+      "end": 1355.42,
+      "text": "Ele",
+      "probability": 0.62
+    },
+    {
+      "start": 1364.67,
+      "end": 1364.81,
+      "text": "não",
+      "probability": 0.921
+    },
+    {
+      "start": 1364.81,
+      "end": 1365.03,
+      "text": "vai",
+      "probability": 0.934
+    },
+    {
+      "start": 1365.03,
+      "end": 1365.39,
+      "text": "entender",
+      "probability": 0.21
+    },
+    {
+      "start": 1365.39,
+      "end": 1365.61,
+      "text": "não.",
+      "probability": 0.62
+    },
+    {
+      "start": 1415.98,
+      "end": 1416.5,
+      "text": "Tchau,",
+      "probability": 0.474
+    },
+    {
+      "start": 1416.5,
+      "end": 1416.62,
+      "text": "tchau.",
+      "probability": 0.976
+    },
+    {
+      "start": 3262.72,
+      "end": 3263.6,
+      "text": "NÃO!",
+      "probability": 0.619
+    },
+    {
+      "start": 3564.54,
+      "end": 3565.8,
+      "text": "ASSUME!",
+      "probability": 0.522
+    }
+  ]
+}

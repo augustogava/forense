@@ -1,0 +1,166 @@
+{
+  "source_file": "Banhonoite0805_whisper_vad_ai_enhanced.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 808.8,
+  "segments": {
+    "00:02:34,00:02:35": "O que você está vendo?",
+    "00:02:35,00:02:36": "Não sei.",
+    "00:02:37,00:02:37": "Não sei.",
+    "00:04:20,00:04:23": "O que você quer que eu faça?",
+    "00:04:23,00:04:30": "O que eu quero que você faça?",
+    "00:06:07,00:06:08": "Tchau, tchau."
+  },
+  "words": [
+    {
+      "start": 154.47,
+      "end": 154.47,
+      "text": "O",
+      "probability": 0.055
+    },
+    {
+      "start": 154.47,
+      "end": 154.59,
+      "text": "que",
+      "probability": 0.771
+    },
+    {
+      "start": 154.59,
+      "end": 154.89,
+      "text": "você",
+      "probability": 0.605
+    },
+    {
+      "start": 154.89,
+      "end": 155.19,
+      "text": "está",
+      "probability": 0.544
+    },
+    {
+      "start": 155.19,
+      "end": 155.37,
+      "text": "vendo?",
+      "probability": 0.254
+    },
+    {
+      "start": 155.65,
+      "end": 156.19,
+      "text": "Não",
+      "probability": 0.106
+    },
+    {
+      "start": 156.19,
+      "end": 156.59,
+      "text": "sei.",
+      "probability": 0.888
+    },
+    {
+      "start": 157.19,
+      "end": 157.31,
+      "text": "Não",
+      "probability": 0.221
+    },
+    {
+      "start": 157.31,
+      "end": 157.83,
+      "text": "sei.",
+      "probability": 0.866
+    },
+    {
+      "start": 260.43,
+      "end": 261.25,
+      "text": "O",
+      "probability": 0.052
+    },
+    {
+      "start": 261.25,
+      "end": 261.39,
+      "text": "que",
+      "probability": 0.594
+    },
+    {
+      "start": 261.64,
+      "end": 262.26,
+      "text": "você",
+      "probability": 0.127
+    },
+    {
+      "start": 262.26,
+      "end": 262.48,
+      "text": "quer",
+      "probability": 0.312
+    },
+    {
+      "start": 262.48,
+      "end": 262.48,
+      "text": "que",
+      "probability": 0.109
+    },
+    {
+      "start": 262.48,
+      "end": 262.48,
+      "text": "eu",
+      "probability": 0.889
+    },
+    {
+      "start": 262.48,
+      "end": 263.18,
+      "text": "faça?",
+      "probability": 0.951
+    },
+    {
+      "start": 263.72,
+      "end": 264.08,
+      "text": "O",
+      "probability": 0.155
+    },
+    {
+      "start": 268.31,
+      "end": 268.47,
+      "text": "que",
+      "probability": 0.913
+    },
+    {
+      "start": 268.47,
+      "end": 268.57,
+      "text": "eu",
+      "probability": 0.296
+    },
+    {
+      "start": 268.57,
+      "end": 268.97,
+      "text": "quero",
+      "probability": 0.906
+    },
+    {
+      "start": 268.97,
+      "end": 269.17,
+      "text": "que",
+      "probability": 0.564
+    },
+    {
+      "start": 269.17,
+      "end": 269.59,
+      "text": "você",
+      "probability": 0.917
+    },
+    {
+      "start": 269.59,
+      "end": 270.75,
+      "text": "faça?",
+      "probability": 0.997
+    },
+    {
+      "start": 367.4,
+      "end": 368.0,
+      "text": "Tchau,",
+      "probability": 0.344
+    },
+    {
+      "start": 368.0,
+      "end": 368.3,
+      "text": "tchau.",
+      "probability": 0.936
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "source_file": "Banhonoite0805_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 808.8,
+  "segments": {
+    "00:13:14,00:13:15": "Vamos lá, vamos lá, vamos lá."
+  },
+  "words": [
+    {
+      "start": 794.28,
+      "end": 794.56,
+      "text": "Vamos",
+      "probability": 0.02
+    },
+    {
+      "start": 794.56,
+      "end": 794.94,
+      "text": "lá,",
+      "probability": 0.201
+    },
+    {
+      "start": 795.26,
+      "end": 795.46,
+      "text": "vamos",
+      "probability": 0.663
+    },
+    {
+      "start": 795.46,
+      "end": 795.64,
+      "text": "lá,",
+      "probability": 0.125
+    },
+    {
+      "start": 795.8,
+      "end": 795.8,
+      "text": "vamos",
+      "probability": 0.981
+    },
+    {
+      "start": 795.8,
+      "end": 795.8,
+      "text": "lá.",
+      "probability": 0.976
+    }
+  ]
+}

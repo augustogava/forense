@@ -382,25 +382,24 @@ python forensic_audio_processor.py -i "to_analyse/audio_split/VOR20260506052907_
 python forensic_audio_processor.py -i "to_analyse/audio_split/VOR20260506052907_0505_IMP_3_part002.wav" -o "audio_processed/"
 python forensic_audio_processor.py -i "to_analyse/audio_split/VOR20260506052907_0505_IMP_3_part003.wav" -o "audio_processed/"
 
-0705
-python forensic_audio_processor.py -i "to_analyse/Banhonoite0805.m4a" -o "audio_processed/"
 
 ## Transcript
 python forensic_audio_transcriber.py -i "audio_processed/Descicarro_whisper_boost.mp3" -m large-v3 --word-timestamps
 python forensic_audio_transcriber.py -i "to_transcript/" -m large-v3 --word-timestamps
 
 ## IA
-python forensic_audio_ai.py -i "audio_processed/Banhonoite0805_whisper_vad.mp3" -o "to_ia_processed/"
+python forensic_audio_ai.py -i "audio_processed/VOR20260505021551_0215_part001_whisper_vad.mp3" -o "to_ia_processed/"
 python forensic_audio_ai.py -i "audio_processed/VOR20260505021551_0215_part002_whisper_vad.mp3" -o "to_ia_processed/"
 
 python forensic_audio_ai.py -i "audio_processed/Banho0705_whisper_vad.mp3" -o "to_ia_processed/"
 python forensic_audio_transcriber.py -i "to_ia_processed/" -m large-v3 --word-timestamps
 
 
-python forensic_audio_processor.py -i "to_ia2/
-python forensic_audio_ai.py -i "to_ia/" -o "to_ia_processed/"
+python forensic_audio_processor.py -i "toto_analyse/Banhomanha0905.m4a"
+
+python forensic_audio_ai.py -i "to_ia/Banhomanha0905_whisper_vad.mp3" -o "to_ia_processed/"
 python forensic_audio_transcriber.py -i "to_transcript/
 
 python forensic_audio_transcriber.py -i to_transcript2/ --word-timestamps
-python forensic_audio_transcriber_v2.py -i to_transcript2/ -o transcriptions_v2 --word-timestamps
+python forensic_audio_transcriber_v2.py -i to_transcript/ -o transcriptions_v2 --word-timestamps
 python forensic_audio_transcriber_v3.py -i to_transcript2 -o transcriptions_v3 --word-timestamps

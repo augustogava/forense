@@ -1,0 +1,203 @@
+{
+  "source_file": "Banhonoite0805_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 808.8,
+  "segments": {
+    "00:01:54,00:01:56": "Obrigado.",
+    "00:02:34,00:02:35": "Eu não entendo o que você está dizendo.",
+    "00:02:35,00:02:43": "Eu não entendo o que você está dizendo.",
+    "00:03:48,00:03:53": "O que é isso?",
+    "00:05:17,00:05:20": "O que é isso?",
+    "00:06:37,00:06:42": "Vamos lá.",
+    "00:12:40,00:12:56": "O que é isso?"
+  },
+  "words": [
+    {
+      "start": 114.97,
+      "end": 116.37,
+      "text": "Obrigado.",
+      "probability": 0.451
+    },
+    {
+      "start": 154.01,
+      "end": 154.03,
+      "text": "Eu",
+      "probability": 0.043
+    },
+    {
+      "start": 154.03,
+      "end": 154.23,
+      "text": "não",
+      "probability": 0.356
+    },
+    {
+      "start": 154.23,
+      "end": 154.49,
+      "text": "entendo",
+      "probability": 0.4
+    },
+    {
+      "start": 154.49,
+      "end": 154.49,
+      "text": "o",
+      "probability": 0.504
+    },
+    {
+      "start": 154.49,
+      "end": 154.67,
+      "text": "que",
+      "probability": 0.979
+    },
+    {
+      "start": 154.67,
+      "end": 154.81,
+      "text": "você",
+      "probability": 0.832
+    },
+    {
+      "start": 154.81,
+      "end": 155.17,
+      "text": "está",
+      "probability": 0.932
+    },
+    {
+      "start": 155.17,
+      "end": 155.39,
+      "text": "dizendo.",
+      "probability": 0.851
+    },
+    {
+      "start": 155.73,
+      "end": 156.25,
+      "text": "Eu",
+      "probability": 0.45
+    },
+    {
+      "start": 156.25,
+      "end": 156.51,
+      "text": "não",
+      "probability": 0.824
+    },
+    {
+      "start": 156.51,
+      "end": 156.63,
+      "text": "entendo",
+      "probability": 0.888
+    },
+    {
+      "start": 156.63,
+      "end": 157.07,
+      "text": "o",
+      "probability": 0.756
+    },
+    {
+      "start": 157.07,
+      "end": 157.63,
+      "text": "que",
+      "probability": 0.996
+    },
+    {
+      "start": 157.63,
+      "end": 158.53,
+      "text": "você",
+      "probability": 0.905
+    },
+    {
+      "start": 163.17,
+      "end": 163.53,
+      "text": "está",
+      "probability": 0.995
+    },
+    {
+      "start": 163.53,
+      "end": 163.53,
+      "text": "dizendo.",
+      "probability": 0.99
+    },
+    {
+      "start": 228.37,
+      "end": 229.77,
+      "text": "O",
+      "probability": 0.063
+    },
+    {
+      "start": 229.77,
+      "end": 231.17,
+      "text": "que",
+      "probability": 0.802
+    },
+    {
+      "start": 231.17,
+      "end": 231.35,
+      "text": "é",
+      "probability": 0.548
+    },
+    {
+      "start": 231.35,
+      "end": 233.33,
+      "text": "isso?",
+      "probability": 0.877
+    },
+    {
+      "start": 317.22,
+      "end": 318.62,
+      "text": "O",
+      "probability": 0.037
+    },
+    {
+      "start": 318.62,
+      "end": 318.62,
+      "text": "que",
+      "probability": 0.581
+    },
+    {
+      "start": 318.62,
+      "end": 319.86,
+      "text": "é",
+      "probability": 0.644
+    },
+    {
+      "start": 319.86,
+      "end": 320.1,
+      "text": "isso?",
+      "probability": 0.781
+    },
+    {
+      "start": 397.04,
+      "end": 398.44,
+      "text": "Vamos",
+      "probability": 0.021
+    },
+    {
+      "start": 401.13,
+      "end": 402.53,
+      "text": "lá.",
+      "probability": 0.894
+    },
+    {
+      "start": 760.31,
+      "end": 760.53,
+      "text": "O",
+      "probability": 0.034
+    },
+    {
+      "start": 760.85,
+      "end": 761.55,
+      "text": "que",
+      "probability": 0.4
+    },
+    {
+      "start": 761.55,
+      "end": 762.19,
+      "text": "é",
+      "probability": 0.471
+    },
+    {
+      "start": 764.43,
+      "end": 776.33,
+      "text": "isso?",
+      "probability": 0.704
+    }
+  ]
+}

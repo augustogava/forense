@@ -1,0 +1,72 @@
+{
+  "source_file": "VOR20260505101552_2215_part002_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 5400.0,
+  "segments": {
+    "00:00:00,00:00:00": "O que é o sexo?",
+    "00:00:00,00:01:56": "O que é o sexo?"
+  },
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.04,
+      "text": "O",
+      "probability": 0.047
+    },
+    {
+      "start": 0.04,
+      "end": 0.1,
+      "text": "que",
+      "probability": 0.553
+    },
+    {
+      "start": 0.1,
+      "end": 0.32,
+      "text": "é",
+      "probability": 0.523
+    },
+    {
+      "start": 0.32,
+      "end": 0.32,
+      "text": "o",
+      "probability": 0.099
+    },
+    {
+      "start": 0.32,
+      "end": 0.32,
+      "text": "sexo?",
+      "probability": 0.491
+    },
+    {
+      "start": 0.74,
+      "end": 1.06,
+      "text": "O",
+      "probability": 0.575
+    },
+    {
+      "start": 115.43,
+      "end": 115.45,
+      "text": "que",
+      "probability": 0.659
+    },
+    {
+      "start": 115.45,
+      "end": 115.57,
+      "text": "é",
+      "probability": 0.983
+    },
+    {
+      "start": 115.57,
+      "end": 115.83,
+      "text": "o",
+      "probability": 0.951
+    },
+    {
+      "start": 115.83,
+      "end": 116.25,
+      "text": "sexo?",
+      "probability": 0.998
+    }
+  ]
+}

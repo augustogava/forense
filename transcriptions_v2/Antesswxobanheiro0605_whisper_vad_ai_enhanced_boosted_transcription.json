@@ -1,0 +1,30 @@
+{
+  "source_file": "Antesswxobanheiro0605_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 637.2,
+  "segments": {
+    "00:00:48,00:00:50": "Obrigado.",
+    "00:02:26,00:02:28": "Boa noite."
+  },
+  "words": [
+    {
+      "start": 48.96,
+      "end": 50.36,
+      "text": "Obrigado.",
+      "probability": 0.498
+    },
+    {
+      "start": 146.4,
+      "end": 147.8,
+      "text": "Boa",
+      "probability": 0.51
+    },
+    {
+      "start": 148.12,
+      "end": 148.32,
+      "text": "noite.",
+      "probability": 0.749
+    }
+  ]
+}

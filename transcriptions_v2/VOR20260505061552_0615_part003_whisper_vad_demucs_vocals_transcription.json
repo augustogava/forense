@@ -1,0 +1,23 @@
+{
+  "source_file": "VOR20260505061552_0615_part003_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.0,
+  "segments": {
+    "00:04:06,00:04:14": "Vamos lá."
+  },
+  "words": [
+    {
+      "start": 246.58,
+      "end": 247.98,
+      "text": "Vamos",
+      "probability": 0.029
+    },
+    {
+      "start": 253.04,
+      "end": 254.44,
+      "text": "lá.",
+      "probability": 0.85
+    }
+  ]
+}

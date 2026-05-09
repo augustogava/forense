@@ -1,0 +1,174 @@
+{
+  "source_file": "New_Recording_32_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1936.0,
+  "segments": {
+    "00:08:55,00:08:56": "Quer tomar banho aqui?",
+    "00:27:15,00:27:17": "Vem cá, deixa eu secar você.",
+    "00:27:32,00:27:32": "Vem.",
+    "00:27:36,00:27:37": "Aspera aí.",
+    "00:28:36,00:28:37": "Guardou?",
+    "00:29:46,00:29:50": "Vem cá, não é pra tirar.",
+    "00:29:54,00:29:55": "Por que que você tirou?",
+    "00:30:11,00:30:12": "Obrigado."
+  },
+  "words": [
+    {
+      "start": 535.7,
+      "end": 535.96,
+      "text": "Quer",
+      "probability": 0.06
+    },
+    {
+      "start": 535.96,
+      "end": 536.18,
+      "text": "tomar",
+      "probability": 0.908
+    },
+    {
+      "start": 536.18,
+      "end": 536.44,
+      "text": "banho",
+      "probability": 0.977
+    },
+    {
+      "start": 536.44,
+      "end": 536.58,
+      "text": "aqui?",
+      "probability": 0.988
+    },
+    {
+      "start": 1635.71,
+      "end": 1636.19,
+      "text": "Vem",
+      "probability": 0.604
+    },
+    {
+      "start": 1636.19,
+      "end": 1636.31,
+      "text": "cá,",
+      "probability": 0.934
+    },
+    {
+      "start": 1636.41,
+      "end": 1636.65,
+      "text": "deixa",
+      "probability": 0.963
+    },
+    {
+      "start": 1636.65,
+      "end": 1636.73,
+      "text": "eu",
+      "probability": 0.951
+    },
+    {
+      "start": 1636.73,
+      "end": 1636.97,
+      "text": "secar",
+      "probability": 0.865
+    },
+    {
+      "start": 1636.97,
+      "end": 1637.13,
+      "text": "você.",
+      "probability": 0.773
+    },
+    {
+      "start": 1652.04,
+      "end": 1652.52,
+      "text": "Vem.",
+      "probability": 0.946
+    },
+    {
+      "start": 1656.75,
+      "end": 1657.23,
+      "text": "Aspera",
+      "probability": 0.301
+    },
+    {
+      "start": 1657.23,
+      "end": 1657.35,
+      "text": "aí.",
+      "probability": 0.698
+    },
+    {
+      "start": 1716.85,
+      "end": 1717.33,
+      "text": "Guardou?",
+      "probability": 0.563
+    },
+    {
+      "start": 1786.96,
+      "end": 1787.44,
+      "text": "Vem",
+      "probability": 0.58
+    },
+    {
+      "start": 1787.44,
+      "end": 1787.92,
+      "text": "cá,",
+      "probability": 0.89
+    },
+    {
+      "start": 1789.84,
+      "end": 1790.02,
+      "text": "não",
+      "probability": 0.998
+    },
+    {
+      "start": 1790.02,
+      "end": 1790.18,
+      "text": "é",
+      "probability": 0.993
+    },
+    {
+      "start": 1790.18,
+      "end": 1790.32,
+      "text": "pra",
+      "probability": 0.698
+    },
+    {
+      "start": 1790.32,
+      "end": 1790.62,
+      "text": "tirar.",
+      "probability": 0.982
+    },
+    {
+      "start": 1794.46,
+      "end": 1794.94,
+      "text": "Por",
+      "probability": 0.893
+    },
+    {
+      "start": 1794.94,
+      "end": 1795.1,
+      "text": "que",
+      "probability": 0.997
+    },
+    {
+      "start": 1795.1,
+      "end": 1795.22,
+      "text": "que",
+      "probability": 0.25
+    },
+    {
+      "start": 1795.22,
+      "end": 1795.26,
+      "text": "você",
+      "probability": 0.98
+    },
+    {
+      "start": 1795.26,
+      "end": 1795.6,
+      "text": "tirou?",
+      "probability": 1.0
+    },
+    {
+      "start": 1811.36,
+      "end": 1812.76,
+      "text": "Obrigado.",
+      "probability": 0.516
+    }
+  ]
+}
