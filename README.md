@@ -402,4 +402,7 @@ python forensic_audio_transcriber.py -i "to_transcript/
 
 python forensic_audio_transcriber.py -i to_transcript2/ --word-timestamps
 python forensic_audio_transcriber_v2.py -i to_transcript/ -o transcriptions_v2 --word-timestamps
+
+
+python forensic_audio_transcriber_v3.py -i to_transcript -o transcriptions_v3 --word-timestamps
 python forensic_audio_transcriber_v3.py -i to_transcript2 -o transcriptions_v3 --word-timestamps
