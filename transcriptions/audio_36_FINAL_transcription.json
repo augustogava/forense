@@ -1,0 +1,9 @@
+{
+  "source_file": "audio_36_FINAL.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:06,00:00:07": "lessness.",
+    "00:02:39,00:02:40": "amém"
+  }
+}
