@@ -1,0 +1,180 @@
+{
+  "source_file": "VOR20260508091745_0805_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1800.0,
+  "segments": {
+    "00:24:22,00:24:35": "Ela tem que ser de mão dupla. Você não pode liberar de forma unilateral, abrindo as suas, reduzindo as suas tarifas, sem ter em reciprocidade um movimento.",
+    "00:29:37,00:29:37": "Tchau."
+  },
+  "words": [
+    {
+      "start": 1462.54,
+      "end": 1463.02,
+      "text": "Ela",
+      "probability": 0.531
+    },
+    {
+      "start": 1463.02,
+      "end": 1463.38,
+      "text": "tem",
+      "probability": 0.998
+    },
+    {
+      "start": 1463.38,
+      "end": 1463.52,
+      "text": "que",
+      "probability": 0.977
+    },
+    {
+      "start": 1463.52,
+      "end": 1463.66,
+      "text": "ser",
+      "probability": 0.999
+    },
+    {
+      "start": 1463.66,
+      "end": 1463.76,
+      "text": "de",
+      "probability": 0.997
+    },
+    {
+      "start": 1463.76,
+      "end": 1463.88,
+      "text": "mão",
+      "probability": 0.84
+    },
+    {
+      "start": 1463.88,
+      "end": 1464.28,
+      "text": "dupla.",
+      "probability": 1.0
+    },
+    {
+      "start": 1464.38,
+      "end": 1464.78,
+      "text": "Você",
+      "probability": 0.995
+    },
+    {
+      "start": 1464.78,
+      "end": 1464.94,
+      "text": "não",
+      "probability": 0.999
+    },
+    {
+      "start": 1464.94,
+      "end": 1465.14,
+      "text": "pode",
+      "probability": 0.998
+    },
+    {
+      "start": 1465.14,
+      "end": 1465.78,
+      "text": "liberar",
+      "probability": 0.982
+    },
+    {
+      "start": 1465.78,
+      "end": 1465.94,
+      "text": "de",
+      "probability": 0.985
+    },
+    {
+      "start": 1465.94,
+      "end": 1466.26,
+      "text": "forma",
+      "probability": 0.998
+    },
+    {
+      "start": 1466.26,
+      "end": 1468.34,
+      "text": "unilateral,",
+      "probability": 0.998
+    },
+    {
+      "start": 1468.7,
+      "end": 1469.54,
+      "text": "abrindo",
+      "probability": 0.961
+    },
+    {
+      "start": 1469.54,
+      "end": 1469.76,
+      "text": "as",
+      "probability": 0.982
+    },
+    {
+      "start": 1469.76,
+      "end": 1470.1,
+      "text": "suas,",
+      "probability": 1.0
+    },
+    {
+      "start": 1470.2,
+      "end": 1471.8,
+      "text": "reduzindo",
+      "probability": 0.983
+    },
+    {
+      "start": 1471.8,
+      "end": 1471.94,
+      "text": "as",
+      "probability": 1.0
+    },
+    {
+      "start": 1471.94,
+      "end": 1472.1,
+      "text": "suas",
+      "probability": 1.0
+    },
+    {
+      "start": 1472.1,
+      "end": 1472.72,
+      "text": "tarifas,",
+      "probability": 0.999
+    },
+    {
+      "start": 1472.72,
+      "end": 1473.36,
+      "text": "sem",
+      "probability": 0.998
+    },
+    {
+      "start": 1473.36,
+      "end": 1473.62,
+      "text": "ter",
+      "probability": 0.997
+    },
+    {
+      "start": 1473.62,
+      "end": 1473.8,
+      "text": "em",
+      "probability": 0.898
+    },
+    {
+      "start": 1473.8,
+      "end": 1474.66,
+      "text": "reciprocidade",
+      "probability": 1.0
+    },
+    {
+      "start": 1474.66,
+      "end": 1475.02,
+      "text": "um",
+      "probability": 0.866
+    },
+    {
+      "start": 1475.02,
+      "end": 1475.52,
+      "text": "movimento.",
+      "probability": 1.0
+    },
+    {
+      "start": 1777.41,
+      "end": 1777.49,
+      "text": "Tchau.",
+      "probability": 0.562
+    }
+  ]
+}

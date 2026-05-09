@@ -1,0 +1,391 @@
+#!/usr/bin/env python3
+"""
+Forensic Audio Transcriber V3 — whisper-timestamped
+
+DTW-based word-level timestamps with per-word confidence scores.
+Built-in VAD preprocessing. Best hallucination detection at word level.
+
+pip install whisper-timestamped
+"""
+
+import argparse
+import io
+import json
+import logging
+import os
+import random
+import re
+import subprocess
+import sys
+import time
+from pathlib import Path
+from typing import List, Optional
+
+if sys.stdout.encoding != "utf-8":
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
+if sys.stderr.encoding != "utf-8":
+    sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding="utf-8", errors="replace")
+
+import numpy as np
+import torch
+import whisper_timestamped as whisper
+
+logging.basicConfig(level=logging.DEBUG, format="%(asctime)s - %(levelname)s - %(message)s")
+logger = logging.getLogger(__name__)
+
+SUPPORTED_EXTENSIONS = {".wav", ".mp3", ".m4a", ".aac", ".ogg", ".flac", ".wma", ".opus"}
+
+_ffmpeg_path: Optional[str] = None
+try:
+    import imageio_ffmpeg
+    _ffmpeg_path = imageio_ffmpeg.get_ffmpeg_exe()
+    os.environ["PATH"] = str(Path(_ffmpeg_path).parent) + os.pathsep + os.environ.get("PATH", "")
+except ImportError:
+    for candidate in ["ffmpeg", "ffmpeg.exe"]:
+        try:
+            subprocess.run([candidate, "-version"], capture_output=True, check=True)
+            _ffmpeg_path = candidate
+            break
+        except (FileNotFoundError, subprocess.CalledProcessError):
+            pass
+
+
+def _fmt_time(seconds: float) -> str:
+    h = int(seconds // 3600)
+    m = int((seconds % 3600) // 60)
+    s = int(seconds % 60)
+    return f"{h:02d}:{m:02d}:{s:02d}"
+
+
+def _load_audio(input_path: Path) -> np.ndarray:
+    import tempfile
+    import wave as _wave
+
+    if not _ffmpeg_path:
+        logger.error("ffmpeg not found, cannot convert audio")
+        sys.exit(1)
+
+    tmp_wav = Path(tempfile.gettempdir()) / f"whisper_{input_path.stem}.wav"
+    cmd = [
+        _ffmpeg_path, "-y",
+        "-i", str(input_path),
+        "-ar", "16000",
+        "-ac", "1",
+        "-c:a", "pcm_s16le",
+        str(tmp_wav),
+    ]
+    logger.debug(f"Converting to WAV 16kHz mono: {input_path.name}")
+    result = subprocess.run(cmd, capture_output=True, text=True)
+    if result.returncode != 0:
+        raise RuntimeError(f"ffmpeg failed: {result.stderr.strip()}")
+
+    try:
+        with _wave.open(str(tmp_wav), "rb") as wf:
+            audio_np = np.frombuffer(wf.readframes(wf.getnframes()), np.int16).astype(np.float32) / 32768.0
+    finally:
+        tmp_wav.unlink(missing_ok=True)
+    return audio_np
+
+
+def collect_audio_files(input_path: Path) -> List[Path]:
+    if input_path.is_file():
+        if input_path.suffix.lower() in SUPPORTED_EXTENSIONS:
+            return [input_path]
+        logger.error(f"Unsupported format: {input_path.suffix}")
+        return []
+
+    if input_path.is_dir():
+        files = []
+        for f in sorted(input_path.rglob("*")):
+            if f.is_file() and f.suffix.lower() in SUPPORTED_EXTENSIONS:
+                files.append(f)
+        return files
+
+    return []
+
+
+_FORENSIC_PROMPT = (
+    "Transcrição de conversa em português brasileiro. "
+    "Possível conteúdo explícito: sexo, abuso, estupro, violência, assédio. "
+    "Transcrever fielmente tudo que for dito, incluindo palavrões e termos sexuais."
+)
+
+_EXPLICIT_KEYWORDS = {
+    "sexo", "sexual", "transar", "transou", "transando",
+    "foder", "fuder", "fodeu", "fudeu", "fodendo", "fudendo",
+    "buceta", "boceta", "xereca", "xoxota", "ppk",
+    "pau", "pica", "rola", "cacete", "pinto",
+    "chupar", "chupou", "chupando", "mamar", "mamou", "mamando", "boquete",
+    "gozar", "gozou", "gozando", "goza", "enfia", "mete",
+    "porra", "caralho", "merda", "puta", "putaria",
+    "dedo", "dedos", "deda", "dedas", "dedou",
+    "cu", "bunda", "rabo",
+    "pelada", "pelado", "nua", "nu",
+    "estupro", "estupra", "estuprar", "estuprou", "estuprando",
+    "abuso", "abusar", "abusou", "abusando",
+    "assédio", "assediar", "assediou",
+    "molestar", "molestou", "molestando",
+    "violência", "violentar", "violentou",
+    "gemido", "gemendo", "gemer", "gemeu", "geme",
+    "tesão", "excitado", "excitada",
+    "masturba", "masturbar", "masturbou", "masturbando", "masturbação",
+    "penetrar", "penetrou", "penetração",
+    "ejacular", "ejaculou", "ejaculação",
+    "oral", "vaginal", "anal",
+}
+
+_WORD_CONFIDENCE_THRESHOLD = 0.3
+
+
+_YOUTUBE_PATTERNS = [
+    re.compile(r"legenda(s|do|gem)?\s+(por|e)\s+", re.IGNORECASE),
+    re.compile(r"transcri(ção|cão)\s+e\s+legenda", re.IGNORECASE),
+    re.compile(r"obrigad[ao]\s+por\s+assistir", re.IGNORECASE),
+    re.compile(r"inscreva-se\s+no\s+canal", re.IGNORECASE),
+    re.compile(r"ative\s+o\s+sininho", re.IGNORECASE),
+    re.compile(r"acesse\s+o\s+(nosso\s+)?site", re.IGNORECASE),
+    re.compile(r"www\.\w+\.\w+", re.IGNORECASE),
+]
+
+_PROMPT_FRAGMENTS = [
+    "transcrição de conversa em português",
+    "conteúdo explícito",
+    "transcrever fielmente",
+    "incluindo palavrões",
+    "acompanhe o processo de transcrição",
+    "acompanhe a conversa em português",
+]
+
+
+def _is_hallucination(seg: dict) -> bool:
+    text = seg.get("text", "").strip()
+    if not text:
+        return True
+
+    no_speech = seg.get("no_speech_prob", 0.0)
+    confidence = seg.get("confidence", 1.0)
+    compression = seg.get("compression_ratio", 1.0)
+    avg_logprob = seg.get("avg_logprob", 0.0)
+
+    if no_speech > 0.6 and avg_logprob < -1.0:
+        return True
+    if compression > 2.4 and avg_logprob < -1.0:
+        return True
+    if confidence < _WORD_CONFIDENCE_THRESHOLD:
+        return True
+
+    seg_words = seg.get("words", [])
+    if seg_words:
+        low_conf_count = sum(1 for w in seg_words if w.get("confidence", 1.0) < _WORD_CONFIDENCE_THRESHOLD)
+        if len(seg_words) > 0 and low_conf_count / len(seg_words) > 0.7:
+            return True
+
+    text_lower = text.lower()
+    for frag in _PROMPT_FRAGMENTS:
+        if frag in text_lower:
+            return True
+    for pat in _YOUTUBE_PATTERNS:
+        if pat.search(text):
+            return True
+
+    words = [w for w in text_lower.replace(",", " ").replace(".", " ").split() if w]
+    unique = set(words)
+    if len(words) >= 3 and len(unique) <= 2 and unique.issubset(_EXPLICIT_KEYWORDS):
+        return True
+    if len(words) >= 5:
+        from collections import Counter
+        counts = Counter(words)
+        most_common_count = counts.most_common(1)[0][1]
+        if most_common_count / len(words) > 0.6:
+            return True
+
+    return False
+
+
+def _flag_explicit(text: str) -> bool:
+    words = set(text.lower().replace(",", " ").replace(".", " ").split())
+    return bool(words & _EXPLICIT_KEYWORDS)
+
+
+def transcribe_file(
+    model,
+    audio_path: Path,
+    output_dir: Path,
+    word_timestamps: bool = False,
+    model_name: str = "large-v3",
+) -> Optional[Path]:
+    t_start = time.time()
+    print(f"\n    Transcrevendo: {audio_path.name}")
+
+    output_dir.mkdir(parents=True, exist_ok=True)
+    json_path = output_dir / f"{audio_path.stem}_transcription.json"
+
+    try:
+        audio = _load_audio(audio_path)
+    except Exception as e:
+        logger.error(f"Failed to load audio {audio_path.name}: {e}")
+        return None
+
+    try:
+        result = whisper.transcribe(
+            model,
+            audio,
+            language="pt",
+            verbose=False,
+            condition_on_previous_text=False,
+            compression_ratio_threshold=2.4,
+            no_speech_threshold=0.6,
+            temperature=0.0,
+            vad="silero",
+            initial_prompt=_FORENSIC_PROMPT,
+        )
+    except Exception as e:
+        logger.error(f"Transcription failed for {audio_path.name}: {e}")
+        return None
+
+    segments_dict = {}
+    explicit_segments = {}
+    words_list = []
+    prev_text = None
+    repeat_count = 0
+    hallu_count = 0
+
+    for seg in result.get("segments", []):
+        text = seg.get("text", "").strip()
+        if not text:
+            continue
+
+        if _is_hallucination(seg):
+            hallu_count += 1
+            logger.debug(
+                f"Hallucination filtered (nsp={seg.get('no_speech_prob', 0):.2f} "
+                f"conf={seg.get('confidence', 0):.2f} "
+                f"cr={seg.get('compression_ratio', 0):.2f}): '{text}'"
+            )
+            continue
+
+        if text == prev_text:
+            repeat_count += 1
+            if repeat_count >= 2:
+                continue
+        else:
+            repeat_count = 0
+        prev_text = text
+
+        key = f"{_fmt_time(seg['start'])},{_fmt_time(seg['end'])}"
+        segments_dict[key] = text
+
+        if _flag_explicit(text):
+            explicit_segments[key] = text
+
+        if word_timestamps and seg.get("words"):
+            for w in seg["words"]:
+                words_list.append({
+                    "start": round(w["start"], 2),
+                    "end": round(w["end"], 2),
+                    "text": w["text"].strip(),
+                    "confidence": round(w.get("confidence", 0.0), 3),
+                })
+
+    output_data = {
+        "source_file": audio_path.name,
+        "language": result.get("language", "pt"),
+        "model": model_name,
+        "segments": segments_dict,
+    }
+    if hallu_count > 0:
+        output_data["hallucinations_filtered"] = hallu_count
+    if explicit_segments:
+        output_data["explicit_segments"] = explicit_segments
+        output_data["explicit_count"] = len(explicit_segments)
+    if word_timestamps and words_list:
+        output_data["words"] = words_list
+
+    with open(json_path, "w", encoding="utf-8") as f:
+        json.dump(output_data, f, indent=2, ensure_ascii=False)
+
+    elapsed = time.time() - t_start
+    seg_count = len(segments_dict)
+    print(f"    Concluído em {elapsed:.0f}s — {seg_count} segmentos ({hallu_count} alucinações filtradas) -> {json_path.name}")
+    return json_path
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description="Forensic Audio Transcriber V3 (whisper-timestamped)")
+    parser.add_argument("--input", "-i", type=str, required=True,
+                        help="Arquivo de áudio ou pasta com áudios")
+    parser.add_argument("--output", "-o", type=str, default=None,
+                        help="Diretório de saída para JSONs (padrão: transcriptions/)")
+    parser.add_argument("--model", "-m", type=str, default="large-v3",
+                        choices=["tiny", "base", "small", "medium", "large", "large-v2", "large-v3"],
+                        help="Modelo Whisper (padrão: large-v3)")
+    parser.add_argument("--word-timestamps", action="store_true",
+                        help="Incluir timestamps e confidence por palavra")
+    args = parser.parse_args()
+
+    print("\n" + "=" * 60)
+    print("  Forensic Audio Transcriber V3 (whisper-timestamped)")
+    print("=" * 60)
+
+    input_path = Path(args.input).resolve()
+    if not input_path.exists():
+        print(f"  ERRO: Caminho não encontrado: {input_path}")
+        return 1
+
+    output_dir = Path(args.output).resolve() if args.output else Path.cwd() / "transcriptions"
+
+    audio_files = collect_audio_files(input_path)
+    if not audio_files:
+        print("  Nenhum arquivo de áudio encontrado.")
+        return 1
+
+    random.shuffle(audio_files)
+    print(f"\n  Arquivos encontrados: {len(audio_files)} (ordem aleatória)")
+    for af in audio_files:
+        print(f"    - {af.name}")
+
+    if not _ffmpeg_path:
+        print("  AVISO: ffmpeg não encontrado. Alguns formatos podem falhar.")
+
+    device = "cuda" if torch.cuda.is_available() else "cpu"
+
+    print(f"\n  Carregando modelo whisper-timestamped '{args.model}' ({device})...")
+    t_load = time.time()
+    model = whisper.load_model(args.model, device=device)
+    print(f"  Modelo carregado em {time.time() - t_load:.0f}s")
+
+    t_total = time.time()
+    success = 0
+    failed = 0
+    skipped = 0
+
+    for idx, af in enumerate(audio_files, 1):
+        json_out = output_dir / f"{af.stem}_transcription.json"
+        if json_out.exists() and json_out.stat().st_size > 0:
+            print(f"  [{idx}/{len(audio_files)}] {af.name} — já transcrito, pulando")
+            skipped += 1
+            continue
+        print(f"\n  [{idx}/{len(audio_files)}] {af.name}")
+        try:
+            result = transcribe_file(model, af, output_dir, args.word_timestamps, args.model)
+            if result:
+                success += 1
+            else:
+                failed += 1
+        except Exception as e:
+            logger.error(f"Unexpected error on {af.name}: {e}", exc_info=True)
+            print(f"    ERRO: {e}")
+            failed += 1
+
+    elapsed_total = time.time() - t_total
+    print(f"\n{'=' * 60}")
+    print(f"  Transcrição concluída em {elapsed_total:.0f}s")
+    print(f"  Sucesso: {success} | Falhas: {failed} | Pulados: {skipped}")
+    print(f"  Saída: {output_dir}")
+    print("=" * 60)
+
+    return 0 if failed == 0 else 1
+
+
+if __name__ == "__main__":
+    sys.exit(main())

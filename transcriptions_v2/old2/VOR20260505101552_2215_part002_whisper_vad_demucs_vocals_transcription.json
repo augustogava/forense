@@ -1,0 +1,119 @@
+{
+  "source_file": "VOR20260505101552_2215_part002_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 5400.0,
+  "segments": {
+    "00:00:00,00:00:00": "Não se esqueça de se inscrever no canal e ativar o sininho para receber notificações de novos vídeos."
+  },
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.16,
+      "text": "Não",
+      "probability": 0.011
+    },
+    {
+      "start": 0.16,
+      "end": 0.3,
+      "text": "se",
+      "probability": 0.029
+    },
+    {
+      "start": 0.3,
+      "end": 0.72,
+      "text": "esqueça",
+      "probability": 0.424
+    },
+    {
+      "start": 0.72,
+      "end": 0.92,
+      "text": "de",
+      "probability": 0.02
+    },
+    {
+      "start": 0.92,
+      "end": 0.92,
+      "text": "se",
+      "probability": 0.131
+    },
+    {
+      "start": 0.92,
+      "end": 0.92,
+      "text": "inscrever",
+      "probability": 0.977
+    },
+    {
+      "start": 0.92,
+      "end": 0.92,
+      "text": "no",
+      "probability": 0.476
+    },
+    {
+      "start": 0.92,
+      "end": 0.92,
+      "text": "canal",
+      "probability": 0.958
+    },
+    {
+      "start": 0.92,
+      "end": 0.92,
+      "text": "e",
+      "probability": 0.279
+    },
+    {
+      "start": 0.92,
+      "end": 0.92,
+      "text": "ativar",
+      "probability": 0.911
+    },
+    {
+      "start": 0.92,
+      "end": 0.92,
+      "text": "o",
+      "probability": 0.265
+    },
+    {
+      "start": 0.92,
+      "end": 0.92,
+      "text": "sininho",
+      "probability": 0.975
+    },
+    {
+      "start": 0.92,
+      "end": 0.92,
+      "text": "para",
+      "probability": 0.681
+    },
+    {
+      "start": 0.92,
+      "end": 0.92,
+      "text": "receber",
+      "probability": 0.977
+    },
+    {
+      "start": 0.92,
+      "end": 0.92,
+      "text": "notificações",
+      "probability": 0.945
+    },
+    {
+      "start": 0.92,
+      "end": 0.92,
+      "text": "de",
+      "probability": 0.877
+    },
+    {
+      "start": 0.92,
+      "end": 0.92,
+      "text": "novos",
+      "probability": 0.994
+    },
+    {
+      "start": 0.92,
+      "end": 0.92,
+      "text": "vídeos.",
+      "probability": 0.977
+    }
+  ]
+}

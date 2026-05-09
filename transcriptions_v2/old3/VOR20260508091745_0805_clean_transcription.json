@@ -1,0 +1,174 @@
+{
+  "source_file": "VOR20260508091745_0805_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1800.0,
+  "segments": {
+    "00:00:00,00:24:35": "Ela tem que ser de uma dupla. Você não pode liderar de forma unilateral, abrindo as suas, reduzindo as suas tarifas, sem ter reciprocidade no movimento.",
+    "00:27:29,00:27:30": "MÚSICA"
+  },
+  "words": [
+    {
+      "start": 0.7,
+      "end": 1.38,
+      "text": "Ela",
+      "probability": 0.499
+    },
+    {
+      "start": 1463.01,
+      "end": 1463.39,
+      "text": "tem",
+      "probability": 0.997
+    },
+    {
+      "start": 1463.39,
+      "end": 1463.53,
+      "text": "que",
+      "probability": 0.993
+    },
+    {
+      "start": 1463.53,
+      "end": 1463.67,
+      "text": "ser",
+      "probability": 0.741
+    },
+    {
+      "start": 1463.67,
+      "end": 1463.77,
+      "text": "de",
+      "probability": 0.63
+    },
+    {
+      "start": 1463.77,
+      "end": 1463.83,
+      "text": "uma",
+      "probability": 0.917
+    },
+    {
+      "start": 1463.83,
+      "end": 1464.27,
+      "text": "dupla.",
+      "probability": 0.998
+    },
+    {
+      "start": 1464.37,
+      "end": 1464.77,
+      "text": "Você",
+      "probability": 0.997
+    },
+    {
+      "start": 1464.77,
+      "end": 1464.93,
+      "text": "não",
+      "probability": 0.999
+    },
+    {
+      "start": 1464.93,
+      "end": 1465.15,
+      "text": "pode",
+      "probability": 0.999
+    },
+    {
+      "start": 1465.15,
+      "end": 1465.73,
+      "text": "liderar",
+      "probability": 0.778
+    },
+    {
+      "start": 1465.73,
+      "end": 1465.93,
+      "text": "de",
+      "probability": 0.982
+    },
+    {
+      "start": 1465.93,
+      "end": 1466.29,
+      "text": "forma",
+      "probability": 0.996
+    },
+    {
+      "start": 1466.29,
+      "end": 1468.31,
+      "text": "unilateral,",
+      "probability": 0.993
+    },
+    {
+      "start": 1468.71,
+      "end": 1469.53,
+      "text": "abrindo",
+      "probability": 0.91
+    },
+    {
+      "start": 1469.53,
+      "end": 1469.77,
+      "text": "as",
+      "probability": 0.813
+    },
+    {
+      "start": 1469.77,
+      "end": 1470.09,
+      "text": "suas,",
+      "probability": 1.0
+    },
+    {
+      "start": 1470.21,
+      "end": 1471.79,
+      "text": "reduzindo",
+      "probability": 0.983
+    },
+    {
+      "start": 1471.79,
+      "end": 1471.95,
+      "text": "as",
+      "probability": 0.964
+    },
+    {
+      "start": 1471.95,
+      "end": 1472.11,
+      "text": "suas",
+      "probability": 1.0
+    },
+    {
+      "start": 1472.11,
+      "end": 1472.75,
+      "text": "tarifas,",
+      "probability": 0.999
+    },
+    {
+      "start": 1472.75,
+      "end": 1473.37,
+      "text": "sem",
+      "probability": 0.993
+    },
+    {
+      "start": 1473.37,
+      "end": 1473.63,
+      "text": "ter",
+      "probability": 0.998
+    },
+    {
+      "start": 1473.63,
+      "end": 1474.69,
+      "text": "reciprocidade",
+      "probability": 0.982
+    },
+    {
+      "start": 1474.69,
+      "end": 1474.99,
+      "text": "no",
+      "probability": 0.884
+    },
+    {
+      "start": 1474.99,
+      "end": 1475.43,
+      "text": "movimento.",
+      "probability": 0.997
+    },
+    {
+      "start": 1649.54,
+      "end": 1650.94,
+      "text": "MÚSICA",
+      "probability": 0.533
+    }
+  ]
+}

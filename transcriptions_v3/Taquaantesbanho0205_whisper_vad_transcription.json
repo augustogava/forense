@@ -1,0 +1,433 @@
+{
+  "source_file": "Taquaantesbanho0205_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:01:26,00:01:27": "E aí",
+    "00:01:29,00:01:30": "E aí",
+    "00:01:49,00:01:50": "Eu não vou!",
+    "00:01:52,00:01:53": "Eu não vou!",
+    "00:02:04,00:02:06": "Me deixou pelada, maluca!",
+    "00:02:07,00:02:07": "Eu não posso!",
+    "00:02:08,00:02:09": "Não, não, não!",
+    "00:03:31,00:03:33": "A CIDADE NO BRASIL",
+    "00:03:43,00:03:44": "O meu Deus do céu!",
+    "00:03:44,00:03:45": "Ai, eu queria boquinha!",
+    "00:03:46,00:03:48": "Hum, meu Deus do céu!",
+    "00:03:49,00:03:50": "Não, não, não!",
+    "00:03:54,00:03:55": "Hum, hum, hum!",
+    "00:03:56,00:03:56": "Olha o Mickey!",
+    "00:03:57,00:03:59": "Achei o Mickey objeto!",
+    "00:04:32,00:04:32": "oi",
+    "00:04:32,00:04:33": "oi",
+    "00:04:58,00:04:58": ".",
+    "00:04:59,00:04:59": ".",
+    "00:05:36,00:05:37": "Ae!",
+    "00:05:39,00:05:40": "Ae!",
+    "00:06:31,00:06:32": "3, 2, 1...",
+    "00:07:32,00:07:33": "A gente tem que ir embora."
+  },
+  "hallucinations_filtered": 13,
+  "explicit_segments": {
+    "00:02:04,00:02:06": "Me deixou pelada, maluca!"
+  },
+  "explicit_count": 1,
+  "words": [
+    {
+      "start": 86.53,
+      "end": 87.17,
+      "text": "E",
+      "confidence": 0.125
+    },
+    {
+      "start": 87.17,
+      "end": 87.85,
+      "text": "aí",
+      "confidence": 0.891
+    },
+    {
+      "start": 89.61,
+      "end": 90.47,
+      "text": "E",
+      "confidence": 0.269
+    },
+    {
+      "start": 90.47,
+      "end": 90.83,
+      "text": "aí",
+      "confidence": 0.945
+    },
+    {
+      "start": 109.05,
+      "end": 109.73,
+      "text": "Eu",
+      "confidence": 0.511
+    },
+    {
+      "start": 109.73,
+      "end": 110.09,
+      "text": "não",
+      "confidence": 0.385
+    },
+    {
+      "start": 110.09,
+      "end": 110.37,
+      "text": "vou!",
+      "confidence": 0.178
+    },
+    {
+      "start": 112.41,
+      "end": 112.79,
+      "text": "Eu",
+      "confidence": 0.296
+    },
+    {
+      "start": 112.79,
+      "end": 112.83,
+      "text": "não",
+      "confidence": 0.461
+    },
+    {
+      "start": 112.83,
+      "end": 113.01,
+      "text": "vou!",
+      "confidence": 0.505
+    },
+    {
+      "start": 124.48,
+      "end": 124.58,
+      "text": "Me",
+      "confidence": 0.617
+    },
+    {
+      "start": 124.58,
+      "end": 124.88,
+      "text": "deixou",
+      "confidence": 0.744
+    },
+    {
+      "start": 124.88,
+      "end": 125.4,
+      "text": "pelada,",
+      "confidence": 0.91
+    },
+    {
+      "start": 125.5,
+      "end": 126.48,
+      "text": "maluca!",
+      "confidence": 0.637
+    },
+    {
+      "start": 127.0,
+      "end": 127.2,
+      "text": "Eu",
+      "confidence": 0.648
+    },
+    {
+      "start": 127.2,
+      "end": 127.42,
+      "text": "não",
+      "confidence": 0.628
+    },
+    {
+      "start": 127.42,
+      "end": 127.78,
+      "text": "posso!",
+      "confidence": 0.638
+    },
+    {
+      "start": 128.76,
+      "end": 129.02,
+      "text": "Não,",
+      "confidence": 0.317
+    },
+    {
+      "start": 129.02,
+      "end": 129.22,
+      "text": "não,",
+      "confidence": 0.958
+    },
+    {
+      "start": 129.34,
+      "end": 129.66,
+      "text": "não!",
+      "confidence": 0.962
+    },
+    {
+      "start": 211.47,
+      "end": 211.55,
+      "text": "A",
+      "confidence": 0.061
+    },
+    {
+      "start": 212.05,
+      "end": 213.31,
+      "text": "CIDADE",
+      "confidence": 0.32
+    },
+    {
+      "start": 213.31,
+      "end": 213.45,
+      "text": "NO",
+      "confidence": 0.971
+    },
+    {
+      "start": 213.45,
+      "end": 213.47,
+      "text": "BRASIL",
+      "confidence": 0.951
+    },
+    {
+      "start": 223.21,
+      "end": 223.23,
+      "text": "O",
+      "confidence": 0.048
+    },
+    {
+      "start": 223.23,
+      "end": 223.59,
+      "text": "meu",
+      "confidence": 0.168
+    },
+    {
+      "start": 223.59,
+      "end": 223.81,
+      "text": "Deus",
+      "confidence": 0.737
+    },
+    {
+      "start": 223.81,
+      "end": 224.03,
+      "text": "do",
+      "confidence": 0.974
+    },
+    {
+      "start": 224.03,
+      "end": 224.41,
+      "text": "céu!",
+      "confidence": 0.725
+    },
+    {
+      "start": 224.41,
+      "end": 225.37,
+      "text": "Ai,",
+      "confidence": 0.278
+    },
+    {
+      "start": 225.37,
+      "end": 225.39,
+      "text": "eu",
+      "confidence": 0.201
+    },
+    {
+      "start": 225.39,
+      "end": 225.41,
+      "text": "queria",
+      "confidence": 0.378
+    },
+    {
+      "start": 225.41,
+      "end": 225.65,
+      "text": "boquinha!",
+      "confidence": 0.559
+    },
+    {
+      "start": 226.89,
+      "end": 226.99,
+      "text": "Hum,",
+      "confidence": 0.47
+    },
+    {
+      "start": 226.99,
+      "end": 227.31,
+      "text": "meu",
+      "confidence": 0.949
+    },
+    {
+      "start": 227.31,
+      "end": 227.65,
+      "text": "Deus",
+      "confidence": 0.98
+    },
+    {
+      "start": 227.65,
+      "end": 227.89,
+      "text": "do",
+      "confidence": 0.994
+    },
+    {
+      "start": 227.89,
+      "end": 228.53,
+      "text": "céu!",
+      "confidence": 0.954
+    },
+    {
+      "start": 229.35,
+      "end": 229.37,
+      "text": "Não,",
+      "confidence": 0.653
+    },
+    {
+      "start": 229.37,
+      "end": 229.73,
+      "text": "não,",
+      "confidence": 0.31
+    },
+    {
+      "start": 229.73,
+      "end": 230.43,
+      "text": "não!",
+      "confidence": 0.716
+    },
+    {
+      "start": 234.33,
+      "end": 234.69,
+      "text": "Hum,",
+      "confidence": 0.196
+    },
+    {
+      "start": 234.77,
+      "end": 234.89,
+      "text": "hum,",
+      "confidence": 0.837
+    },
+    {
+      "start": 235.01,
+      "end": 235.05,
+      "text": "hum!",
+      "confidence": 0.95
+    },
+    {
+      "start": 236.35,
+      "end": 236.61,
+      "text": "Olha",
+      "confidence": 0.136
+    },
+    {
+      "start": 236.61,
+      "end": 236.83,
+      "text": "o",
+      "confidence": 0.393
+    },
+    {
+      "start": 236.83,
+      "end": 236.99,
+      "text": "Mickey!",
+      "confidence": 0.798
+    },
+    {
+      "start": 237.59,
+      "end": 237.91,
+      "text": "Achei",
+      "confidence": 0.443
+    },
+    {
+      "start": 237.91,
+      "end": 238.01,
+      "text": "o",
+      "confidence": 0.882
+    },
+    {
+      "start": 238.01,
+      "end": 238.35,
+      "text": "Mickey",
+      "confidence": 0.985
+    },
+    {
+      "start": 238.35,
+      "end": 239.19,
+      "text": "objeto!",
+      "confidence": 0.527
+    },
+    {
+      "start": 272.43,
+      "end": 272.86,
+      "text": "oi",
+      "confidence": 0.529
+    },
+    {
+      "start": 272.86,
+      "end": 273.63,
+      "text": "oi",
+      "confidence": 0.825
+    },
+    {
+      "start": 298.38,
+      "end": 298.79,
+      "text": ".",
+      "confidence": 0.554
+    },
+    {
+      "start": 299.19,
+      "end": 299.85,
+      "text": ".",
+      "confidence": 0.812
+    },
+    {
+      "start": 336.81,
+      "end": 337.73,
+      "text": "Ae!",
+      "confidence": 0.366
+    },
+    {
+      "start": 339.95,
+      "end": 340.37,
+      "text": "Ae!",
+      "confidence": 0.603
+    },
+    {
+      "start": 391.03,
+      "end": 391.73,
+      "text": "3,",
+      "confidence": 0.269
+    },
+    {
+      "start": 391.91,
+      "end": 392.31,
+      "text": "2,",
+      "confidence": 0.768
+    },
+    {
+      "start": 392.31,
+      "end": 392.51,
+      "text": "1...",
+      "confidence": 0.989
+    },
+    {
+      "start": 452.54,
+      "end": 453.84,
+      "text": "A",
+      "confidence": 0.108
+    },
+    {
+      "start": 453.84,
+      "end": 453.86,
+      "text": "gente",
+      "confidence": 0.267
+    },
+    {
+      "start": 453.86,
+      "end": 453.88,
+      "text": "tem",
+      "confidence": 0.676
+    },
+    {
+      "start": 453.88,
+      "end": 453.9,
+      "text": "que",
+      "confidence": 0.894
+    },
+    {
+      "start": 453.9,
+      "end": 453.92,
+      "text": "ir",
+      "confidence": 0.25
+    },
+    {
+      "start": 453.92,
+      "end": 453.94,
+      "text": "embora.",
+      "confidence": 0.205
+    }
+  ]
+}

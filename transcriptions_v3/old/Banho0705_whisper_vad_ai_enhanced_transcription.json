@@ -1,0 +1,111 @@
+{
+  "source_file": "Banho0705_whisper_vad_ai_enhanced.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:01:30,00:01:59": "A CIDADE NO BRASIL",
+    "00:02:29,00:02:29": "E aí",
+    "00:02:58,00:03:00": "E aí",
+    "00:03:43,00:03:58": "A CIDADE NO BRASIL",
+    "00:04:26,00:04:29": "A CIDADE NO BRASIL"
+  },
+  "hallucinations_filtered": 1,
+  "words": [
+    {
+      "start": 90.0,
+      "end": 91.14,
+      "text": "A",
+      "confidence": 0.131
+    },
+    {
+      "start": 91.14,
+      "end": 104.68,
+      "text": "CIDADE",
+      "confidence": 0.636
+    },
+    {
+      "start": 104.68,
+      "end": 105.44,
+      "text": "NO",
+      "confidence": 0.994
+    },
+    {
+      "start": 105.44,
+      "end": 119.9,
+      "text": "BRASIL",
+      "confidence": 0.932
+    },
+    {
+      "start": 149.54,
+      "end": 149.56,
+      "text": "E",
+      "confidence": 0.127
+    },
+    {
+      "start": 149.56,
+      "end": 149.98,
+      "text": "aí",
+      "confidence": 0.961
+    },
+    {
+      "start": 178.46,
+      "end": 179.98,
+      "text": "E",
+      "confidence": 0.127
+    },
+    {
+      "start": 179.98,
+      "end": 180.0,
+      "text": "aí",
+      "confidence": 0.885
+    },
+    {
+      "start": 223.92,
+      "end": 223.94,
+      "text": "A",
+      "confidence": 0.068
+    },
+    {
+      "start": 223.94,
+      "end": 224.7,
+      "text": "CIDADE",
+      "confidence": 0.409
+    },
+    {
+      "start": 224.7,
+      "end": 225.2,
+      "text": "NO",
+      "confidence": 0.988
+    },
+    {
+      "start": 225.2,
+      "end": 238.14,
+      "text": "BRASIL",
+      "confidence": 0.943
+    },
+    {
+      "start": 266.72,
+      "end": 266.92,
+      "text": "A",
+      "confidence": 0.114
+    },
+    {
+      "start": 266.92,
+      "end": 269.2,
+      "text": "CIDADE",
+      "confidence": 0.586
+    },
+    {
+      "start": 269.2,
+      "end": 269.28,
+      "text": "NO",
+      "confidence": 0.992
+    },
+    {
+      "start": 269.28,
+      "end": 269.86,
+      "text": "BRASIL",
+      "confidence": 0.921
+    }
+  ]
+}

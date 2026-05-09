@@ -1,0 +1,71 @@
+{
+  "source_file": "Buscar_Mathias_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 2778.6,
+  "segments": {
+    "00:45:33,00:45:35": "Não, eu posso não, eu posso não, eu vou deixar."
+  },
+  "words": [
+    {
+      "start": 2733.87,
+      "end": 2734.01,
+      "text": "Não,",
+      "probability": 0.326
+    },
+    {
+      "start": 2734.11,
+      "end": 2734.15,
+      "text": "eu",
+      "probability": 0.352
+    },
+    {
+      "start": 2734.15,
+      "end": 2734.31,
+      "text": "posso",
+      "probability": 0.396
+    },
+    {
+      "start": 2734.31,
+      "end": 2734.51,
+      "text": "não,",
+      "probability": 0.402
+    },
+    {
+      "start": 2734.63,
+      "end": 2734.69,
+      "text": "eu",
+      "probability": 0.907
+    },
+    {
+      "start": 2734.69,
+      "end": 2734.87,
+      "text": "posso",
+      "probability": 0.854
+    },
+    {
+      "start": 2734.87,
+      "end": 2735.01,
+      "text": "não,",
+      "probability": 0.98
+    },
+    {
+      "start": 2735.13,
+      "end": 2735.19,
+      "text": "eu",
+      "probability": 0.411
+    },
+    {
+      "start": 2735.19,
+      "end": 2735.25,
+      "text": "vou",
+      "probability": 0.449
+    },
+    {
+      "start": 2735.25,
+      "end": 2735.45,
+      "text": "deixar.",
+      "probability": 0.638
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "source_file": "VOR20260505101552_2215_part003_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:45,00:18:04": "Acompanhe o vídeo para aprender mais sobre o que é sexo e o que é violência.",
+    "00:59:50,00:59:51": "Obrigado."
+  },
+  "hallucinations_filtered": 1,
+  "explicit_segments": {
+    "00:00:45,00:18:04": "Acompanhe o vídeo para aprender mais sobre o que é sexo e o que é violência."
+  },
+  "explicit_count": 1,
+  "words": [
+    {
+      "start": 45.23,
+      "end": 46.67,
+      "text": "Acompanhe",
+      "confidence": 0.232
+    },
+    {
+      "start": 47.54,
+      "end": 47.84,
+      "text": "o",
+      "confidence": 0.254
+    },
+    {
+      "start": 113.49,
+      "end": 114.74,
+      "text": "vídeo",
+      "confidence": 0.12
+    },
+    {
+      "start": 154.83,
+      "end": 155.03,
+      "text": "para",
+      "confidence": 0.125
+    },
+    {
+      "start": 155.03,
+      "end": 155.05,
+      "text": "aprender",
+      "confidence": 0.303
+    },
+    {
+      "start": 155.05,
+      "end": 155.07,
+      "text": "mais",
+      "confidence": 0.489
+    },
+    {
+      "start": 155.07,
+      "end": 155.09,
+      "text": "sobre",
+      "confidence": 0.745
+    },
+    {
+      "start": 355.44,
+      "end": 356.79,
+      "text": "o",
+      "confidence": 0.227
+    },
+    {
+      "start": 358.98,
+      "end": 359.58,
+      "text": "que",
+      "confidence": 0.29
+    },
+    {
+      "start": 503.02,
+      "end": 504.53,
+      "text": "é",
+      "confidence": 0.53
+    },
+    {
+      "start": 611.53,
+      "end": 612.37,
+      "text": "sexo",
+      "confidence": 0.578
+    },
+    {
+      "start": 858.8,
+      "end": 861.3,
+      "text": "e",
+      "confidence": 0.314
+    },
+    {
+      "start": 882.29,
+      "end": 882.85,
+      "text": "o",
+      "confidence": 0.16
+    },
+    {
+      "start": 882.85,
+      "end": 882.87,
+      "text": "que",
+      "confidence": 0.9
+    },
+    {
+      "start": 884.81,
+      "end": 886.77,
+      "text": "é",
+      "confidence": 0.495
+    },
+    {
+      "start": 1083.6,
+      "end": 1084.16,
+      "text": "violência.",
+      "confidence": 0.843
+    },
+    {
+      "start": 3590.45,
+      "end": 3591.79,
+      "text": "Obrigado.",
+      "confidence": 0.768
+    }
+  ]
+}

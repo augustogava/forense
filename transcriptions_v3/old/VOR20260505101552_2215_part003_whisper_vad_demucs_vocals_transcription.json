@@ -1,0 +1,76 @@
+{
+  "source_file": "VOR20260505101552_2215_part003_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:02:34,00:21:58": "Não se esqueça de deixar seu like e compartilhar o vídeo."
+  },
+  "words": [
+    {
+      "start": 154.0,
+      "end": 154.1,
+      "text": "Não",
+      "confidence": 0.1
+    },
+    {
+      "start": 154.1,
+      "end": 154.42,
+      "text": "se",
+      "confidence": 0.212
+    },
+    {
+      "start": 154.42,
+      "end": 154.96,
+      "text": "esqueça",
+      "confidence": 0.466
+    },
+    {
+      "start": 154.96,
+      "end": 155.47,
+      "text": "de",
+      "confidence": 0.642
+    },
+    {
+      "start": 1317.71,
+      "end": 1318.19,
+      "text": "deixar",
+      "confidence": 0.258
+    },
+    {
+      "start": 1318.19,
+      "end": 1318.21,
+      "text": "seu",
+      "confidence": 0.455
+    },
+    {
+      "start": 1318.21,
+      "end": 1318.23,
+      "text": "like",
+      "confidence": 0.625
+    },
+    {
+      "start": 1318.23,
+      "end": 1318.25,
+      "text": "e",
+      "confidence": 0.309
+    },
+    {
+      "start": 1318.25,
+      "end": 1318.27,
+      "text": "compartilhar",
+      "confidence": 0.592
+    },
+    {
+      "start": 1318.27,
+      "end": 1318.29,
+      "text": "o",
+      "confidence": 0.234
+    },
+    {
+      "start": 1318.29,
+      "end": 1318.53,
+      "text": "vídeo.",
+      "confidence": 0.9
+    }
+  ]
+}

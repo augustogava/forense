@@ -1,0 +1,15 @@
+{
+  "source_file": "New_Recording_34_part003_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:17:15,00:17:15": "."
+  },
+  "words": [
+    {
+      "start": 1035.36,
+      "end": 1035.62,
+      "text": "."
+    }
+  ]
+}

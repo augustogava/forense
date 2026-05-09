@@ -1,0 +1,186 @@
+{
+  "source_file": "VOR20260508091745_0805_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:24:21,00:24:32": "A organização tem que ser de uma dupla. Você não pode liderar de forma unilateral, abrindo as suas... reduzindo as suas tarifas,",
+    "00:24:33,00:24:35": "sem ter reciprocidade no movimento.",
+    "00:25:08,00:25:08": "E aí"
+  },
+  "words": [
+    {
+      "start": 1461.33,
+      "end": 1461.35,
+      "text": "A",
+      "confidence": 0.051
+    },
+    {
+      "start": 1461.35,
+      "end": 1462.11,
+      "text": "organização",
+      "confidence": 0.344
+    },
+    {
+      "start": 1462.11,
+      "end": 1463.23,
+      "text": "tem",
+      "confidence": 0.557
+    },
+    {
+      "start": 1463.23,
+      "end": 1463.43,
+      "text": "que",
+      "confidence": 0.842
+    },
+    {
+      "start": 1463.43,
+      "end": 1463.59,
+      "text": "ser",
+      "confidence": 0.985
+    },
+    {
+      "start": 1463.59,
+      "end": 1463.69,
+      "text": "de",
+      "confidence": 0.974
+    },
+    {
+      "start": 1463.69,
+      "end": 1463.85,
+      "text": "uma",
+      "confidence": 0.8
+    },
+    {
+      "start": 1463.85,
+      "end": 1464.25,
+      "text": "dupla.",
+      "confidence": 0.999
+    },
+    {
+      "start": 1464.37,
+      "end": 1464.77,
+      "text": "Você",
+      "confidence": 0.63
+    },
+    {
+      "start": 1464.77,
+      "end": 1464.89,
+      "text": "não",
+      "confidence": 0.987
+    },
+    {
+      "start": 1464.89,
+      "end": 1465.17,
+      "text": "pode",
+      "confidence": 0.991
+    },
+    {
+      "start": 1465.17,
+      "end": 1465.75,
+      "text": "liderar",
+      "confidence": 0.791
+    },
+    {
+      "start": 1465.75,
+      "end": 1465.91,
+      "text": "de",
+      "confidence": 0.887
+    },
+    {
+      "start": 1465.91,
+      "end": 1466.37,
+      "text": "forma",
+      "confidence": 0.963
+    },
+    {
+      "start": 1466.37,
+      "end": 1468.25,
+      "text": "unilateral,",
+      "confidence": 0.992
+    },
+    {
+      "start": 1468.67,
+      "end": 1469.61,
+      "text": "abrindo",
+      "confidence": 0.774
+    },
+    {
+      "start": 1469.61,
+      "end": 1469.73,
+      "text": "as",
+      "confidence": 0.656
+    },
+    {
+      "start": 1469.73,
+      "end": 1470.19,
+      "text": "suas...",
+      "confidence": 0.974
+    },
+    {
+      "start": 1470.19,
+      "end": 1471.83,
+      "text": "reduzindo",
+      "confidence": 0.647
+    },
+    {
+      "start": 1471.83,
+      "end": 1471.95,
+      "text": "as",
+      "confidence": 0.964
+    },
+    {
+      "start": 1471.95,
+      "end": 1472.11,
+      "text": "suas",
+      "confidence": 0.99
+    },
+    {
+      "start": 1472.11,
+      "end": 1472.71,
+      "text": "tarifas,",
+      "confidence": 0.979
+    },
+    {
+      "start": 1473.07,
+      "end": 1473.41,
+      "text": "sem",
+      "confidence": 0.41
+    },
+    {
+      "start": 1473.41,
+      "end": 1473.69,
+      "text": "ter",
+      "confidence": 0.935
+    },
+    {
+      "start": 1473.69,
+      "end": 1474.65,
+      "text": "reciprocidade",
+      "confidence": 0.988
+    },
+    {
+      "start": 1474.65,
+      "end": 1475.05,
+      "text": "no",
+      "confidence": 0.706
+    },
+    {
+      "start": 1475.05,
+      "end": 1475.45,
+      "text": "movimento.",
+      "confidence": 0.995
+    },
+    {
+      "start": 1508.11,
+      "end": 1508.49,
+      "text": "E",
+      "confidence": 0.107
+    },
+    {
+      "start": 1508.49,
+      "end": 1508.99,
+      "text": "aí",
+      "confidence": 0.971
+    }
+  ]
+}

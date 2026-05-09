@@ -1,0 +1,112 @@
+{
+  "source_file": "Banho0705_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:01:29,00:01:30": "E aí",
+    "00:01:30,00:01:59": "A CIDADE NO BRASIL",
+    "00:02:29,00:02:30": "E aí",
+    "00:02:59,00:03:00": "E aí",
+    "00:03:41,00:03:59": "A CIDADE NO BRASIL",
+    "00:04:00,00:04:03": "E aí"
+  },
+  "hallucinations_filtered": 1,
+  "words": [
+    {
+      "start": 89.98,
+      "end": 90.0,
+      "text": "E",
+      "confidence": 0.193
+    },
+    {
+      "start": 90.0,
+      "end": 90.02,
+      "text": "aí",
+      "confidence": 0.898
+    },
+    {
+      "start": 90.02,
+      "end": 98.24,
+      "text": "A",
+      "confidence": 0.136
+    },
+    {
+      "start": 98.24,
+      "end": 107.2,
+      "text": "CIDADE",
+      "confidence": 0.63
+    },
+    {
+      "start": 107.2,
+      "end": 107.22,
+      "text": "NO",
+      "confidence": 0.994
+    },
+    {
+      "start": 107.22,
+      "end": 119.98,
+      "text": "BRASIL",
+      "confidence": 0.939
+    },
+    {
+      "start": 149.98,
+      "end": 150.0,
+      "text": "E",
+      "confidence": 0.131
+    },
+    {
+      "start": 150.0,
+      "end": 150.02,
+      "text": "aí",
+      "confidence": 0.957
+    },
+    {
+      "start": 179.36,
+      "end": 179.98,
+      "text": "E",
+      "confidence": 0.133
+    },
+    {
+      "start": 179.98,
+      "end": 180.0,
+      "text": "aí",
+      "confidence": 0.874
+    },
+    {
+      "start": 221.24,
+      "end": 221.26,
+      "text": "A",
+      "confidence": 0.089
+    },
+    {
+      "start": 221.26,
+      "end": 224.7,
+      "text": "CIDADE",
+      "confidence": 0.455
+    },
+    {
+      "start": 224.7,
+      "end": 225.12,
+      "text": "NO",
+      "confidence": 0.99
+    },
+    {
+      "start": 225.12,
+      "end": 239.54,
+      "text": "BRASIL",
+      "confidence": 0.934
+    },
+    {
+      "start": 240.0,
+      "end": 240.1,
+      "text": "E",
+      "confidence": 0.12
+    },
+    {
+      "start": 240.1,
+      "end": 243.72,
+      "text": "aí",
+      "confidence": 0.922
+    }
+  ]
+}

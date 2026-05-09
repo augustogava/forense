@@ -1,0 +1,399 @@
+{
+  "source_file": "VOR20260508111751_0805_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1153.0,
+  "segments": {
+    "00:01:22,00:01:23": "E aí, querida?",
+    "00:01:23,00:01:24": "E aí?",
+    "00:01:24,00:01:26": "E aí, querida?",
+    "00:01:26,00:01:27": "E aí, querida?",
+    "00:01:28,00:01:30": "Eu tô tendo um parado com o meu irmão.",
+    "00:01:30,00:01:54": "Eu quero um beijo.",
+    "00:01:55,00:03:58": "Olha, eu quero um beijo.",
+    "00:03:59,00:04:09": "Vamos fazer um beijo.",
+    "00:04:12,00:04:14": "Eu vou ter que ir.",
+    "00:04:14,00:04:17": "Mas eu tenho que pagar o meu crédito bem.",
+    "00:04:18,00:04:25": "Eu preciso de um beijo para ver se eu tenho que pagar o meu crédito bem."
+  },
+  "words": [
+    {
+      "start": 82.6,
+      "end": 82.6,
+      "text": "E",
+      "probability": 0.033
+    },
+    {
+      "start": 82.6,
+      "end": 83.0,
+      "text": "aí,",
+      "probability": 0.258
+    },
+    {
+      "start": 83.0,
+      "end": 83.42,
+      "text": "querida?",
+      "probability": 0.321
+    },
+    {
+      "start": 83.74,
+      "end": 83.94,
+      "text": "E",
+      "probability": 0.145
+    },
+    {
+      "start": 83.94,
+      "end": 84.16,
+      "text": "aí?",
+      "probability": 0.988
+    },
+    {
+      "start": 84.98,
+      "end": 85.38,
+      "text": "E",
+      "probability": 0.272
+    },
+    {
+      "start": 85.38,
+      "end": 85.7,
+      "text": "aí,",
+      "probability": 0.991
+    },
+    {
+      "start": 85.94,
+      "end": 86.5,
+      "text": "querida?",
+      "probability": 0.614
+    },
+    {
+      "start": 86.93,
+      "end": 87.57,
+      "text": "E",
+      "probability": 0.312
+    },
+    {
+      "start": 87.57,
+      "end": 87.69,
+      "text": "aí,",
+      "probability": 0.995
+    },
+    {
+      "start": 87.71,
+      "end": 87.97,
+      "text": "querida?",
+      "probability": 0.883
+    },
+    {
+      "start": 88.15,
+      "end": 88.61,
+      "text": "Eu",
+      "probability": 0.058
+    },
+    {
+      "start": 88.61,
+      "end": 88.77,
+      "text": "tô",
+      "probability": 0.098
+    },
+    {
+      "start": 88.77,
+      "end": 89.15,
+      "text": "tendo",
+      "probability": 0.58
+    },
+    {
+      "start": 89.15,
+      "end": 89.23,
+      "text": "um",
+      "probability": 0.425
+    },
+    {
+      "start": 89.23,
+      "end": 89.63,
+      "text": "parado",
+      "probability": 0.654
+    },
+    {
+      "start": 89.63,
+      "end": 89.83,
+      "text": "com",
+      "probability": 0.161
+    },
+    {
+      "start": 89.83,
+      "end": 89.97,
+      "text": "o",
+      "probability": 0.394
+    },
+    {
+      "start": 89.97,
+      "end": 90.21,
+      "text": "meu",
+      "probability": 0.598
+    },
+    {
+      "start": 90.21,
+      "end": 90.39,
+      "text": "irmão.",
+      "probability": 0.773
+    },
+    {
+      "start": 90.77,
+      "end": 91.33,
+      "text": "Eu",
+      "probability": 0.323
+    },
+    {
+      "start": 113.76,
+      "end": 113.96,
+      "text": "quero",
+      "probability": 0.35
+    },
+    {
+      "start": 113.96,
+      "end": 114.14,
+      "text": "um",
+      "probability": 0.691
+    },
+    {
+      "start": 114.14,
+      "end": 114.46,
+      "text": "beijo.",
+      "probability": 0.871
+    },
+    {
+      "start": 115.06,
+      "end": 115.7,
+      "text": "Olha,",
+      "probability": 0.165
+    },
+    {
+      "start": 237.7,
+      "end": 237.76,
+      "text": "eu",
+      "probability": 0.409
+    },
+    {
+      "start": 237.76,
+      "end": 237.96,
+      "text": "quero",
+      "probability": 0.5
+    },
+    {
+      "start": 237.96,
+      "end": 238.14,
+      "text": "um",
+      "probability": 0.807
+    },
+    {
+      "start": 238.14,
+      "end": 238.7,
+      "text": "beijo.",
+      "probability": 0.918
+    },
+    {
+      "start": 239.2,
+      "end": 239.84,
+      "text": "Vamos",
+      "probability": 0.241
+    },
+    {
+      "start": 248.64,
+      "end": 248.98,
+      "text": "fazer",
+      "probability": 0.261
+    },
+    {
+      "start": 248.98,
+      "end": 249.32,
+      "text": "um",
+      "probability": 0.607
+    },
+    {
+      "start": 249.32,
+      "end": 249.58,
+      "text": "beijo.",
+      "probability": 0.884
+    },
+    {
+      "start": 252.63,
+      "end": 252.95,
+      "text": "Eu",
+      "probability": 0.129
+    },
+    {
+      "start": 252.95,
+      "end": 253.17,
+      "text": "vou",
+      "probability": 0.262
+    },
+    {
+      "start": 253.17,
+      "end": 253.57,
+      "text": "ter",
+      "probability": 0.253
+    },
+    {
+      "start": 253.57,
+      "end": 253.91,
+      "text": "que",
+      "probability": 0.804
+    },
+    {
+      "start": 253.91,
+      "end": 254.13,
+      "text": "ir.",
+      "probability": 0.175
+    },
+    {
+      "start": 254.73,
+      "end": 255.15,
+      "text": "Mas",
+      "probability": 0.186
+    },
+    {
+      "start": 255.15,
+      "end": 255.47,
+      "text": "eu",
+      "probability": 0.646
+    },
+    {
+      "start": 255.47,
+      "end": 255.75,
+      "text": "tenho",
+      "probability": 0.23
+    },
+    {
+      "start": 255.75,
+      "end": 255.89,
+      "text": "que",
+      "probability": 0.832
+    },
+    {
+      "start": 255.89,
+      "end": 256.09,
+      "text": "pagar",
+      "probability": 0.156
+    },
+    {
+      "start": 256.09,
+      "end": 256.51,
+      "text": "o",
+      "probability": 0.39
+    },
+    {
+      "start": 256.51,
+      "end": 256.77,
+      "text": "meu",
+      "probability": 0.969
+    },
+    {
+      "start": 256.77,
+      "end": 257.41,
+      "text": "crédito",
+      "probability": 0.55
+    },
+    {
+      "start": 257.41,
+      "end": 257.99,
+      "text": "bem.",
+      "probability": 0.373
+    },
+    {
+      "start": 258.27,
+      "end": 258.67,
+      "text": "Eu",
+      "probability": 0.617
+    },
+    {
+      "start": 258.67,
+      "end": 259.09,
+      "text": "preciso",
+      "probability": 0.308
+    },
+    {
+      "start": 259.09,
+      "end": 259.53,
+      "text": "de",
+      "probability": 0.747
+    },
+    {
+      "start": 259.53,
+      "end": 259.93,
+      "text": "um",
+      "probability": 0.343
+    },
+    {
+      "start": 259.93,
+      "end": 260.57,
+      "text": "beijo",
+      "probability": 0.718
+    },
+    {
+      "start": 260.57,
+      "end": 261.19,
+      "text": "para",
+      "probability": 0.238
+    },
+    {
+      "start": 261.19,
+      "end": 261.45,
+      "text": "ver",
+      "probability": 0.559
+    },
+    {
+      "start": 261.45,
+      "end": 261.75,
+      "text": "se",
+      "probability": 0.906
+    },
+    {
+      "start": 261.75,
+      "end": 262.05,
+      "text": "eu",
+      "probability": 0.154
+    },
+    {
+      "start": 262.05,
+      "end": 262.31,
+      "text": "tenho",
+      "probability": 0.586
+    },
+    {
+      "start": 262.31,
+      "end": 262.61,
+      "text": "que",
+      "probability": 0.46
+    },
+    {
+      "start": 262.61,
+      "end": 262.79,
+      "text": "pagar",
+      "probability": 0.544
+    },
+    {
+      "start": 262.79,
+      "end": 263.29,
+      "text": "o",
+      "probability": 0.823
+    },
+    {
+      "start": 263.29,
+      "end": 263.75,
+      "text": "meu",
+      "probability": 0.455
+    },
+    {
+      "start": 263.75,
+      "end": 264.31,
+      "text": "crédito",
+      "probability": 0.996
+    },
+    {
+      "start": 264.31,
+      "end": 265.27,
+      "text": "bem.",
+      "probability": 0.472
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "source_file": "Descicarro_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 892.4,
+  "segments": {
+    "00:00:01,00:00:56": "Não, não, Matias, chutou ele. Não, filha, não, você vai cair, Matias? Vai cair daí.",
+    "00:00:56,00:09:47": "Pode colocar então? Eu vou ter que ficar aguardando.",
+    "00:09:48,00:10:03": "Não, Matias, você não quer mais?"
+  },
+  "words": [
+    {
+      "start": 1.07,
+      "end": 1.73,
+      "text": "Não,",
+      "probability": 0.648
+    },
+    {
+      "start": 1.73,
+      "end": 1.97,
+      "text": "não,",
+      "probability": 0.812
+    },
+    {
+      "start": 2.03,
+      "end": 2.77,
+      "text": "Matias,",
+      "probability": 0.851
+    },
+    {
+      "start": 5.73,
+      "end": 6.99,
+      "text": "chutou",
+      "probability": 0.699
+    },
+    {
+      "start": 6.99,
+      "end": 7.19,
+      "text": "ele.",
+      "probability": 0.981
+    },
+    {
+      "start": 10.5,
+      "end": 10.98,
+      "text": "Não,",
+      "probability": 0.976
+    },
+    {
+      "start": 11.0,
+      "end": 11.98,
+      "text": "filha,",
+      "probability": 0.548
+    },
+    {
+      "start": 12.0,
+      "end": 12.6,
+      "text": "não,",
+      "probability": 0.94
+    },
+    {
+      "start": 53.95,
+      "end": 54.13,
+      "text": "você",
+      "probability": 0.967
+    },
+    {
+      "start": 54.13,
+      "end": 54.25,
+      "text": "vai",
+      "probability": 0.992
+    },
+    {
+      "start": 54.25,
+      "end": 54.49,
+      "text": "cair,",
+      "probability": 1.0
+    },
+    {
+      "start": 54.49,
+      "end": 54.87,
+      "text": "Matias?",
+      "probability": 0.999
+    },
+    {
+      "start": 55.37,
+      "end": 55.85,
+      "text": "Vai",
+      "probability": 0.855
+    },
+    {
+      "start": 55.85,
+      "end": 56.11,
+      "text": "cair",
+      "probability": 0.957
+    },
+    {
+      "start": 56.11,
+      "end": 56.19,
+      "text": "daí.",
+      "probability": 0.955
+    },
+    {
+      "start": 56.63,
+      "end": 57.03,
+      "text": "Pode",
+      "probability": 0.273
+    },
+    {
+      "start": 585.96,
+      "end": 586.14,
+      "text": "colocar",
+      "probability": 0.149
+    },
+    {
+      "start": 586.14,
+      "end": 586.42,
+      "text": "então?",
+      "probability": 0.567
+    },
+    {
+      "start": 586.66,
+      "end": 587.06,
+      "text": "Eu",
+      "probability": 0.895
+    },
+    {
+      "start": 587.06,
+      "end": 587.18,
+      "text": "vou",
+      "probability": 0.947
+    },
+    {
+      "start": 587.18,
+      "end": 587.32,
+      "text": "ter",
+      "probability": 0.929
+    },
+    {
+      "start": 587.32,
+      "end": 587.42,
+      "text": "que",
+      "probability": 0.997
+    },
+    {
+      "start": 587.42,
+      "end": 587.5,
+      "text": "ficar",
+      "probability": 0.158
+    },
+    {
+      "start": 587.5,
+      "end": 587.96,
+      "text": "aguardando.",
+      "probability": 0.75
+    },
+    {
+      "start": 588.14,
+      "end": 588.62,
+      "text": "Não,",
+      "probability": 0.58
+    },
+    {
+      "start": 601.16,
+      "end": 601.88,
+      "text": "Matias,",
+      "probability": 0.992
+    },
+    {
+      "start": 602.12,
+      "end": 602.76,
+      "text": "você",
+      "probability": 0.886
+    },
+    {
+      "start": 603.21,
+      "end": 603.41,
+      "text": "não",
+      "probability": 1.0
+    },
+    {
+      "start": 603.41,
+      "end": 603.57,
+      "text": "quer",
+      "probability": 0.999
+    },
+    {
+      "start": 603.57,
+      "end": 603.75,
+      "text": "mais?",
+      "probability": 1.0
+    }
+  ]
+}

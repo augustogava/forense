@@ -1,0 +1,47 @@
+{
+  "source_file": "Banho0705_whisper_vad_ai_enhanced.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 323.5,
+  "segments": {
+    "00:00:02,00:00:05": "Legendas pela comunidade da Amara.org"
+  },
+  "words": [
+    {
+      "start": 2.77,
+      "end": 3.33,
+      "text": "Legendas",
+      "probability": 0.463
+    },
+    {
+      "start": 3.33,
+      "end": 3.33,
+      "text": "pela",
+      "probability": 0.116
+    },
+    {
+      "start": 3.33,
+      "end": 4.09,
+      "text": "comunidade",
+      "probability": 0.99
+    },
+    {
+      "start": 4.09,
+      "end": 4.09,
+      "text": "da",
+      "probability": 0.976
+    },
+    {
+      "start": 4.09,
+      "end": 5.07,
+      "text": "Amara",
+      "probability": 0.967
+    },
+    {
+      "start": 5.07,
+      "end": 5.27,
+      "text": ".org",
+      "probability": 0.999
+    }
+  ]
+}

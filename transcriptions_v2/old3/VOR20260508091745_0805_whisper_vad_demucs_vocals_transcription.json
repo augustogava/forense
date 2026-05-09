@@ -1,0 +1,205 @@
+{
+  "source_file": "VOR20260508091745_0805_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1800.0,
+  "segments": {
+    "00:24:22,00:24:35": "Mas tem que ser de uma dupla. Você não pode liberar de forma unilateral, abrindo as suas comunidades, as suas tarifas, sem ter reciprocidade no movimento.",
+    "00:27:29,00:27:31": "O que é isso?",
+    "00:29:02,00:29:03": "Tchau, tchau."
+  },
+  "words": [
+    {
+      "start": 1462.4,
+      "end": 1463.04,
+      "text": "Mas",
+      "probability": 0.023
+    },
+    {
+      "start": 1463.04,
+      "end": 1463.4,
+      "text": "tem",
+      "probability": 0.834
+    },
+    {
+      "start": 1463.4,
+      "end": 1463.52,
+      "text": "que",
+      "probability": 0.971
+    },
+    {
+      "start": 1463.52,
+      "end": 1463.66,
+      "text": "ser",
+      "probability": 0.99
+    },
+    {
+      "start": 1463.66,
+      "end": 1463.76,
+      "text": "de",
+      "probability": 0.915
+    },
+    {
+      "start": 1463.76,
+      "end": 1463.86,
+      "text": "uma",
+      "probability": 0.846
+    },
+    {
+      "start": 1463.86,
+      "end": 1464.26,
+      "text": "dupla.",
+      "probability": 0.88
+    },
+    {
+      "start": 1464.38,
+      "end": 1464.76,
+      "text": "Você",
+      "probability": 0.916
+    },
+    {
+      "start": 1464.76,
+      "end": 1464.92,
+      "text": "não",
+      "probability": 0.987
+    },
+    {
+      "start": 1464.92,
+      "end": 1465.16,
+      "text": "pode",
+      "probability": 0.995
+    },
+    {
+      "start": 1465.16,
+      "end": 1465.8,
+      "text": "liberar",
+      "probability": 0.844
+    },
+    {
+      "start": 1465.8,
+      "end": 1465.94,
+      "text": "de",
+      "probability": 0.587
+    },
+    {
+      "start": 1465.94,
+      "end": 1466.26,
+      "text": "forma",
+      "probability": 0.943
+    },
+    {
+      "start": 1466.26,
+      "end": 1468.36,
+      "text": "unilateral,",
+      "probability": 0.742
+    },
+    {
+      "start": 1468.76,
+      "end": 1469.54,
+      "text": "abrindo",
+      "probability": 0.998
+    },
+    {
+      "start": 1469.54,
+      "end": 1469.78,
+      "text": "as",
+      "probability": 0.897
+    },
+    {
+      "start": 1469.78,
+      "end": 1470.1,
+      "text": "suas",
+      "probability": 0.997
+    },
+    {
+      "start": 1470.1,
+      "end": 1471.94,
+      "text": "comunidades,",
+      "probability": 0.451
+    },
+    {
+      "start": 1471.96,
+      "end": 1472.12,
+      "text": "as",
+      "probability": 0.903
+    },
+    {
+      "start": 1472.12,
+      "end": 1472.18,
+      "text": "suas",
+      "probability": 0.827
+    },
+    {
+      "start": 1472.18,
+      "end": 1472.7,
+      "text": "tarifas,",
+      "probability": 0.769
+    },
+    {
+      "start": 1472.72,
+      "end": 1473.34,
+      "text": "sem",
+      "probability": 0.974
+    },
+    {
+      "start": 1473.34,
+      "end": 1473.66,
+      "text": "ter",
+      "probability": 0.912
+    },
+    {
+      "start": 1473.66,
+      "end": 1474.64,
+      "text": "reciprocidade",
+      "probability": 0.993
+    },
+    {
+      "start": 1474.64,
+      "end": 1474.96,
+      "text": "no",
+      "probability": 0.155
+    },
+    {
+      "start": 1474.96,
+      "end": 1475.38,
+      "text": "movimento.",
+      "probability": 0.6
+    },
+    {
+      "start": 1649.67,
+      "end": 1650.47,
+      "text": "O",
+      "probability": 0.049
+    },
+    {
+      "start": 1650.47,
+      "end": 1650.63,
+      "text": "que",
+      "probability": 0.564
+    },
+    {
+      "start": 1650.63,
+      "end": 1651.03,
+      "text": "é",
+      "probability": 0.5
+    },
+    {
+      "start": 1651.03,
+      "end": 1651.15,
+      "text": "isso?",
+      "probability": 0.761
+    },
+    {
+      "start": 1742.33,
+      "end": 1742.89,
+      "text": "Tchau,",
+      "probability": 0.485
+    },
+    {
+      "start": 1742.89,
+      "end": 1743.33,
+      "text": "tchau.",
+      "probability": 0.942
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "source_file": "VOR20260505142032_1420_part002_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:04:18,00:04:18": "acolhidos",
+    "00:05:34,00:05:36": "no",
+    "00:06:30,00:06:30": "antigo-sm musical",
+    "00:08:19,00:08:20": "oi, mãe",
+    "00:25:19,00:25:20": ",",
+    "00:28:40,00:28:44": "oi",
+    "00:29:23,00:29:24": "amor.",
+    "00:30:42,00:30:43": "ááá",
+    "00:33:27,00:33:31": "paintings",
+    "00:37:06,00:37:07": "e isso por mackles",
+    "00:39:53,00:39:54": "microfone",
+    "00:42:41,00:42:42": "cub hacemos?",
+    "00:43:53,00:43:53": "e bra...",
+    "00:44:16,00:44:17": "o",
+    "00:50:34,00:50:45": "청a, provavelmente, anti-ogenial, bourdeou, trançamento de foldsia, entanфunga, abuso, mortalomia,",
+    "00:55:15,00:55:34": "...",
+    "01:00:01,01:00:03": "f Här prova oito!"
+  },
+  "explicit_segments": {
+    "00:50:34,00:50:45": "청a, provavelmente, anti-ogenial, bourdeou, trançamento de foldsia, entanфunga, abuso, mortalomia,"
+  },
+  "explicit_count": 1
+}

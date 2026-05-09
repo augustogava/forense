@@ -1,0 +1,282 @@
+{
+  "source_file": "audio_toprocess_vocal_enhanced_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 4769.5,
+  "segments": {
+    "00:00:01,00:00:54": "A gente tem que controlar se é melhor que não fazer isso ou não fazer isso, galera, é isso aí, quero dizer.",
+    "00:01:38,00:02:16": "E olha, ó, a gente faz tudo, a gente faz tudo, a gente faz tudo, a gente faz tudo, a gente faz tudo."
+  },
+  "words": [
+    {
+      "start": 1.46,
+      "end": 1.56,
+      "text": "A",
+      "probability": 0.05
+    },
+    {
+      "start": 1.56,
+      "end": 3.78,
+      "text": "gente",
+      "probability": 0.676
+    },
+    {
+      "start": 45.57,
+      "end": 45.85,
+      "text": "tem",
+      "probability": 0.438
+    },
+    {
+      "start": 45.85,
+      "end": 45.87,
+      "text": "que",
+      "probability": 0.96
+    },
+    {
+      "start": 45.87,
+      "end": 46.47,
+      "text": "controlar",
+      "probability": 0.948
+    },
+    {
+      "start": 46.47,
+      "end": 46.87,
+      "text": "se",
+      "probability": 0.081
+    },
+    {
+      "start": 46.87,
+      "end": 47.11,
+      "text": "é",
+      "probability": 0.879
+    },
+    {
+      "start": 48.84,
+      "end": 49.08,
+      "text": "melhor",
+      "probability": 0.994
+    },
+    {
+      "start": 49.08,
+      "end": 49.36,
+      "text": "que",
+      "probability": 0.455
+    },
+    {
+      "start": 49.36,
+      "end": 49.48,
+      "text": "não",
+      "probability": 0.219
+    },
+    {
+      "start": 49.48,
+      "end": 49.72,
+      "text": "fazer",
+      "probability": 0.983
+    },
+    {
+      "start": 49.72,
+      "end": 50.04,
+      "text": "isso",
+      "probability": 0.968
+    },
+    {
+      "start": 50.04,
+      "end": 50.22,
+      "text": "ou",
+      "probability": 0.825
+    },
+    {
+      "start": 50.22,
+      "end": 50.34,
+      "text": "não",
+      "probability": 0.436
+    },
+    {
+      "start": 50.34,
+      "end": 50.5,
+      "text": "fazer",
+      "probability": 0.502
+    },
+    {
+      "start": 50.5,
+      "end": 50.62,
+      "text": "isso,",
+      "probability": 0.995
+    },
+    {
+      "start": 52.82,
+      "end": 53.02,
+      "text": "galera,",
+      "probability": 0.99
+    },
+    {
+      "start": 53.18,
+      "end": 53.3,
+      "text": "é",
+      "probability": 0.822
+    },
+    {
+      "start": 53.3,
+      "end": 53.4,
+      "text": "isso",
+      "probability": 0.996
+    },
+    {
+      "start": 53.4,
+      "end": 53.6,
+      "text": "aí,",
+      "probability": 0.94
+    },
+    {
+      "start": 53.68,
+      "end": 53.86,
+      "text": "quero",
+      "probability": 0.361
+    },
+    {
+      "start": 53.86,
+      "end": 54.02,
+      "text": "dizer.",
+      "probability": 0.918
+    },
+    {
+      "start": 98.7,
+      "end": 98.96,
+      "text": "E",
+      "probability": 0.297
+    },
+    {
+      "start": 98.96,
+      "end": 99.2,
+      "text": "olha,",
+      "probability": 0.762
+    },
+    {
+      "start": 99.34,
+      "end": 99.5,
+      "text": "ó,",
+      "probability": 0.46
+    },
+    {
+      "start": 104.18,
+      "end": 104.52,
+      "text": "a",
+      "probability": 0.596
+    },
+    {
+      "start": 104.52,
+      "end": 104.68,
+      "text": "gente",
+      "probability": 0.928
+    },
+    {
+      "start": 104.68,
+      "end": 105.12,
+      "text": "faz",
+      "probability": 0.154
+    },
+    {
+      "start": 105.12,
+      "end": 105.48,
+      "text": "tudo,",
+      "probability": 0.917
+    },
+    {
+      "start": 105.64,
+      "end": 105.78,
+      "text": "a",
+      "probability": 0.814
+    },
+    {
+      "start": 105.78,
+      "end": 106.26,
+      "text": "gente",
+      "probability": 1.0
+    },
+    {
+      "start": 112.72,
+      "end": 112.88,
+      "text": "faz",
+      "probability": 0.818
+    },
+    {
+      "start": 112.88,
+      "end": 113.06,
+      "text": "tudo,",
+      "probability": 0.611
+    },
+    {
+      "start": 113.24,
+      "end": 113.28,
+      "text": "a",
+      "probability": 0.487
+    },
+    {
+      "start": 113.28,
+      "end": 113.38,
+      "text": "gente",
+      "probability": 0.999
+    },
+    {
+      "start": 113.38,
+      "end": 113.48,
+      "text": "faz",
+      "probability": 0.864
+    },
+    {
+      "start": 113.48,
+      "end": 113.6,
+      "text": "tudo,",
+      "probability": 0.979
+    },
+    {
+      "start": 113.78,
+      "end": 113.86,
+      "text": "a",
+      "probability": 0.509
+    },
+    {
+      "start": 113.86,
+      "end": 114.12,
+      "text": "gente",
+      "probability": 0.999
+    },
+    {
+      "start": 116.84,
+      "end": 117.2,
+      "text": "faz",
+      "probability": 0.949
+    },
+    {
+      "start": 117.2,
+      "end": 117.4,
+      "text": "tudo,",
+      "probability": 0.996
+    },
+    {
+      "start": 117.42,
+      "end": 117.54,
+      "text": "a",
+      "probability": 0.692
+    },
+    {
+      "start": 117.54,
+      "end": 118.4,
+      "text": "gente",
+      "probability": 0.999
+    },
+    {
+      "start": 135.9,
+      "end": 136.12,
+      "text": "faz",
+      "probability": 0.977
+    },
+    {
+      "start": 136.12,
+      "end": 136.96,
+      "text": "tudo.",
+      "probability": 0.998
+    }
+  ]
+}

@@ -1,0 +1,1511 @@
+{
+  "source_file": "Quartonat0505_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:23:59,00:24:03": "Ah! Ah! Não vou conseguir isso!",
+    "00:24:10,00:24:11": "O autismo da coisa.",
+    "00:24:22,00:24:23": "Eu amo tudo do céu, né?",
+    "00:24:27,00:24:29": "Atenção, o que eu vou falar aqui é um...",
+    "00:24:34,00:24:35": "Acompanhe o vídeo no canal.",
+    "00:24:38,00:24:38": "Atenção!",
+    "00:32:30,00:32:30": "Não é.",
+    "00:39:17,00:39:19": "Já não morre!",
+    "00:46:13,00:46:17": "Atenção, o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que",
+    "00:49:04,00:49:06": "É, agora vai a entenda da nuvem.",
+    "00:49:06,00:49:10": "O estes que enchem com calma a alma das pessoas.",
+    "00:49:13,00:49:14": "Agradecimentos.",
+    "00:55:27,00:55:28": "Agradecimentos a todos os participantes.",
+    "00:57:44,00:57:46": "Atenção!",
+    "00:59:07,00:59:08": "Atenção!",
+    "00:59:23,00:59:25": "Seu acesso a um novo movimento.",
+    "01:04:24,01:04:24": "O que?",
+    "01:13:03,01:13:04": "Obrigado.",
+    "01:14:31,01:14:32": "Atenção, é tudo!",
+    "01:14:34,01:14:35": ".",
+    "01:21:51,01:21:51": "Atenção!",
+    "01:27:47,01:27:47": "Não!"
+  },
+  "words": [
+    {
+      "start": 1439.2,
+      "end": 1439.3,
+      "text": "Ah!"
+    },
+    {
+      "start": 1440.66,
+      "end": 1441.26,
+      "text": "Ah!"
+    },
+    {
+      "start": 1442.3,
+      "end": 1442.66,
+      "text": "Não"
+    },
+    {
+      "start": 1442.66,
+      "end": 1442.84,
+      "text": "vou"
+    },
+    {
+      "start": 1442.84,
+      "end": 1443.14,
+      "text": "conseguir"
+    },
+    {
+      "start": 1443.14,
+      "end": 1443.52,
+      "text": "isso!"
+    },
+    {
+      "start": 1450.79,
+      "end": 1450.79,
+      "text": "O"
+    },
+    {
+      "start": 1450.79,
+      "end": 1451.19,
+      "text": "autismo"
+    },
+    {
+      "start": 1451.19,
+      "end": 1451.35,
+      "text": "da"
+    },
+    {
+      "start": 1451.35,
+      "end": 1451.67,
+      "text": "coisa."
+    },
+    {
+      "start": 1462.05,
+      "end": 1462.17,
+      "text": "Eu"
+    },
+    {
+      "start": 1462.17,
+      "end": 1462.25,
+      "text": "amo"
+    },
+    {
+      "start": 1462.25,
+      "end": 1462.47,
+      "text": "tudo"
+    },
+    {
+      "start": 1462.47,
+      "end": 1462.67,
+      "text": "do"
+    },
+    {
+      "start": 1462.67,
+      "end": 1462.95,
+      "text": "céu,"
+    },
+    {
+      "start": 1462.99,
+      "end": 1463.15,
+      "text": "né?"
+    },
+    {
+      "start": 1467.04,
+      "end": 1467.52,
+      "text": "Atenção,"
+    },
+    {
+      "start": 1467.72,
+      "end": 1467.98,
+      "text": "o"
+    },
+    {
+      "start": 1467.98,
+      "end": 1468.12,
+      "text": "que"
+    },
+    {
+      "start": 1468.12,
+      "end": 1468.2,
+      "text": "eu"
+    },
+    {
+      "start": 1468.2,
+      "end": 1468.3,
+      "text": "vou"
+    },
+    {
+      "start": 1468.3,
+      "end": 1468.54,
+      "text": "falar"
+    },
+    {
+      "start": 1468.54,
+      "end": 1468.82,
+      "text": "aqui"
+    },
+    {
+      "start": 1468.82,
+      "end": 1468.96,
+      "text": "é"
+    },
+    {
+      "start": 1468.96,
+      "end": 1469.4,
+      "text": "um..."
+    },
+    {
+      "start": 1474.75,
+      "end": 1474.75,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 1474.75,
+      "end": 1474.87,
+      "text": "o"
+    },
+    {
+      "start": 1474.87,
+      "end": 1475.11,
+      "text": "vídeo"
+    },
+    {
+      "start": 1475.11,
+      "end": 1475.31,
+      "text": "no"
+    },
+    {
+      "start": 1475.31,
+      "end": 1475.59,
+      "text": "canal."
+    },
+    {
+      "start": 1478.08,
+      "end": 1478.24,
+      "text": "Atenção!"
+    },
+    {
+      "start": 1950.53,
+      "end": 1950.75,
+      "text": "Não"
+    },
+    {
+      "start": 1950.75,
+      "end": 1950.85,
+      "text": "é."
+    },
+    {
+      "start": 2357.86,
+      "end": 2358.54,
+      "text": "Já"
+    },
+    {
+      "start": 2358.54,
+      "end": 2358.78,
+      "text": "não"
+    },
+    {
+      "start": 2358.78,
+      "end": 2359.22,
+      "text": "morre!"
+    },
+    {
+      "start": 2773.57,
+      "end": 2773.89,
+      "text": "Atenção,"
+    },
+    {
+      "start": 2773.89,
+      "end": 2774.15,
+      "text": "o"
+    },
+    {
+      "start": 2774.15,
+      "end": 2774.23,
+      "text": "que"
+    },
+    {
+      "start": 2774.23,
+      "end": 2774.41,
+      "text": "eu"
+    },
+    {
+      "start": 2774.41,
+      "end": 2774.47,
+      "text": "estou"
+    },
+    {
+      "start": 2774.47,
+      "end": 2775.07,
+      "text": "dizendo"
+    },
+    {
+      "start": 2775.07,
+      "end": 2775.53,
+      "text": "é"
+    },
+    {
+      "start": 2775.53,
+      "end": 2776.27,
+      "text": "que"
+    },
+    {
+      "start": 2776.27,
+      "end": 2776.27,
+      "text": "o"
+    },
+    {
+      "start": 2776.27,
+      "end": 2776.65,
+      "text": "que"
+    },
+    {
+      "start": 2776.65,
+      "end": 2776.67,
+      "text": "eu"
+    },
+    {
+      "start": 2776.67,
+      "end": 2776.75,
+      "text": "estou"
+    },
+    {
+      "start": 2776.75,
+      "end": 2776.75,
+      "text": "dizendo"
+    },
+    {
+      "start": 2776.75,
+      "end": 2776.75,
+      "text": "é"
+    },
+    {
+      "start": 2776.75,
+      "end": 2776.75,
+      "text": "que"
+    },
+    {
+      "start": 2776.75,
+      "end": 2776.75,
+      "text": "o"
+    },
+    {
+      "start": 2776.75,
+      "end": 2776.75,
+      "text": "que"
+    },
+    {
+      "start": 2776.75,
+      "end": 2776.75,
+      "text": "eu"
+    },
+    {
+      "start": 2776.75,
+      "end": 2776.95,
+      "text": "estou"
+    },
+    {
+      "start": 2776.95,
+      "end": 2776.95,
+      "text": "dizendo"
+    },
+    {
+      "start": 2776.95,
+      "end": 2776.97,
+      "text": "é"
+    },
+    {
+      "start": 2776.97,
+      "end": 2776.97,
+      "text": "que"
+    },
+    {
+      "start": 2776.97,
+      "end": 2776.97,
+      "text": "o"
+    },
+    {
+      "start": 2776.97,
+      "end": 2776.97,
+      "text": "que"
+    },
+    {
+      "start": 2776.97,
+      "end": 2776.97,
+      "text": "eu"
+    },
+    {
+      "start": 2776.97,
+      "end": 2777.05,
+      "text": "estou"
+    },
+    {
+      "start": 2777.05,
+      "end": 2777.35,
+      "text": "dizendo"
+    },
+    {
+      "start": 2777.35,
+      "end": 2777.47,
+      "text": "é"
+    },
+    {
+      "start": 2777.47,
+      "end": 2777.47,
+      "text": "que"
+    },
+    {
+      "start": 2777.47,
+      "end": 2777.89,
+      "text": "o"
+    },
+    {
+      "start": 2777.89,
+      "end": 2777.89,
+      "text": "que"
+    },
+    {
+      "start": 2777.89,
+      "end": 2777.89,
+      "text": "eu"
+    },
+    {
+      "start": 2777.89,
+      "end": 2777.89,
+      "text": "estou"
+    },
+    {
+      "start": 2777.89,
+      "end": 2777.89,
+      "text": "dizendo"
+    },
+    {
+      "start": 2777.89,
+      "end": 2777.89,
+      "text": "é"
+    },
+    {
+      "start": 2777.89,
+      "end": 2777.89,
+      "text": "que"
+    },
+    {
+      "start": 2777.89,
+      "end": 2777.93,
+      "text": "o"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "eu"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "estou"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "dizendo"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "é"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "o"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "eu"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "estou"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "dizendo"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "é"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "o"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "eu"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "estou"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "dizendo"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "é"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "o"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "eu"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "estou"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "dizendo"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "é"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "o"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "eu"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "estou"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "dizendo"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "é"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "o"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "eu"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "estou"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "dizendo"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "é"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "o"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "eu"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "estou"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "dizendo"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "é"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "o"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "eu"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "estou"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "dizendo"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "é"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "o"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "eu"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "estou"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "dizendo"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "é"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "o"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "eu"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "estou"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "dizendo"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "é"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "o"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "eu"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "estou"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "dizendo"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "é"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "o"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "eu"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "estou"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "dizendo"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "é"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "o"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "eu"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "estou"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "dizendo"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "é"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "o"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "eu"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "estou"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "dizendo"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "é"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "o"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "eu"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "estou"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "dizendo"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "é"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "o"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "eu"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "estou"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "dizendo"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "é"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "o"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "eu"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "estou"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "dizendo"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "é"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "o"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "eu"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "estou"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "dizendo"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "é"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "o"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "eu"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "estou"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "dizendo"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "é"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "o"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "eu"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "estou"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "dizendo"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "é"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "o"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "eu"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "estou"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "dizendo"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "é"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "o"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "eu"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "estou"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "dizendo"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "é"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "o"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "eu"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "estou"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "dizendo"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "é"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "o"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "eu"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "estou"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "dizendo"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "é"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "o"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "eu"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "estou"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "dizendo"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "é"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "o"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "eu"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "estou"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "dizendo"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "é"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "o"
+    },
+    {
+      "start": 2777.93,
+      "end": 2777.93,
+      "text": "que"
+    },
+    {
+      "start": 2944.1,
+      "end": 2944.36,
+      "text": "É,"
+    },
+    {
+      "start": 2944.48,
+      "end": 2944.82,
+      "text": "agora"
+    },
+    {
+      "start": 2944.82,
+      "end": 2945.14,
+      "text": "vai"
+    },
+    {
+      "start": 2945.14,
+      "end": 2945.26,
+      "text": "a"
+    },
+    {
+      "start": 2945.26,
+      "end": 2945.76,
+      "text": "entenda"
+    },
+    {
+      "start": 2945.76,
+      "end": 2945.98,
+      "text": "da"
+    },
+    {
+      "start": 2945.98,
+      "end": 2946.44,
+      "text": "nuvem."
+    },
+    {
+      "start": 2946.58,
+      "end": 2946.96,
+      "text": "O"
+    },
+    {
+      "start": 2946.96,
+      "end": 2947.5,
+      "text": "estes"
+    },
+    {
+      "start": 2947.5,
+      "end": 2947.84,
+      "text": "que"
+    },
+    {
+      "start": 2947.84,
+      "end": 2948.4,
+      "text": "enchem"
+    },
+    {
+      "start": 2948.4,
+      "end": 2948.54,
+      "text": "com"
+    },
+    {
+      "start": 2948.54,
+      "end": 2949.22,
+      "text": "calma"
+    },
+    {
+      "start": 2949.22,
+      "end": 2949.32,
+      "text": "a"
+    },
+    {
+      "start": 2949.32,
+      "end": 2949.76,
+      "text": "alma"
+    },
+    {
+      "start": 2949.76,
+      "end": 2950.02,
+      "text": "das"
+    },
+    {
+      "start": 2950.02,
+      "end": 2950.42,
+      "text": "pessoas."
+    },
+    {
+      "start": 2953.47,
+      "end": 2954.21,
+      "text": "Agradecimentos."
+    },
+    {
+      "start": 3327.49,
+      "end": 3328.35,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 3328.35,
+      "end": 3328.35,
+      "text": "a"
+    },
+    {
+      "start": 3328.35,
+      "end": 3328.35,
+      "text": "todos"
+    },
+    {
+      "start": 3328.35,
+      "end": 3328.35,
+      "text": "os"
+    },
+    {
+      "start": 3328.35,
+      "end": 3328.71,
+      "text": "participantes."
+    },
+    {
+      "start": 3464.23,
+      "end": 3466.55,
+      "text": "Atenção!"
+    },
+    {
+      "start": 3547.27,
+      "end": 3548.23,
+      "text": "Atenção!"
+    },
+    {
+      "start": 3563.59,
+      "end": 3563.69,
+      "text": "Seu"
+    },
+    {
+      "start": 3563.69,
+      "end": 3563.99,
+      "text": "acesso"
+    },
+    {
+      "start": 3563.99,
+      "end": 3564.41,
+      "text": "a"
+    },
+    {
+      "start": 3564.41,
+      "end": 3564.55,
+      "text": "um"
+    },
+    {
+      "start": 3564.55,
+      "end": 3564.83,
+      "text": "novo"
+    },
+    {
+      "start": 3564.83,
+      "end": 3565.37,
+      "text": "movimento."
+    },
+    {
+      "start": 3864.32,
+      "end": 3864.44,
+      "text": "O"
+    },
+    {
+      "start": 3864.44,
+      "end": 3864.48,
+      "text": "que?"
+    },
+    {
+      "start": 4383.75,
+      "end": 4384.17,
+      "text": "Obrigado."
+    },
+    {
+      "start": 4471.59,
+      "end": 4472.09,
+      "text": "Atenção,"
+    },
+    {
+      "start": 4472.09,
+      "end": 4472.29,
+      "text": "é"
+    },
+    {
+      "start": 4472.29,
+      "end": 4472.45,
+      "text": "tudo!"
+    },
+    {
+      "start": 4474.85,
+      "end": 4475.05,
+      "text": "."
+    },
+    {
+      "start": 4911.39,
+      "end": 4911.81,
+      "text": "Atenção!"
+    },
+    {
+      "start": 5267.11,
+      "end": 5267.37,
+      "text": "Não!"
+    }
+  ]
+}

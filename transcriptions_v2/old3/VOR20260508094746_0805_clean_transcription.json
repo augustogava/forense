@@ -1,0 +1,1123 @@
+{
+  "source_file": "VOR20260508094746_0805_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1800.0,
+  "segments": {
+    "00:00:35,00:00:39": "Se hoje, ao meio-dia, essa grama pode ser sua.",
+    "00:00:40,00:00:42": "Não me chamei!",
+    "00:00:46,00:01:57": "Deixa na esquerda, meu piada é forte.",
+    "00:01:57,00:03:51": "Eu acho que você quer ouvir a música da minha produtora.",
+    "00:03:51,00:04:05": "Como que faz o vento do vento?",
+    "00:04:05,00:04:08": "Aqui na direita o que eu desejo?",
+    "00:04:08,00:04:10": "O aplaudido na sua pera?",
+    "00:04:16,00:05:23": "Vinheta de Trabalho, Vinheta de Trabalho, Vinheta de Trabalho, Vinheta de Trabalho, Vinheta de Trabalho, Vinheta de Trabalho, Vinheta de Trabalho.",
+    "00:06:45,00:07:29": "O nome completo, 12, 9, 8, 5, 6, 7, 8, 9, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 52, 53, 54, 55, 56, 57, 58, 59, 51, 52, 53, 56, 57, 58, 59, 51, 52, 53, 58, 59, 51, 52, 53, 59, 52, 53, 59, 52, 53, 59, 52, 53, 59, 52, 53, 59, 52, 53, 59, 52, 53, 59, 52, 53, 59, 52, 53, 59, 52, 53, 59, 52, 53, 59, 52, 53"
+  },
+  "words": [
+    {
+      "start": 35.44,
+      "end": 36.06,
+      "text": "Se",
+      "probability": 0.153
+    },
+    {
+      "start": 36.06,
+      "end": 36.4,
+      "text": "hoje,",
+      "probability": 0.929
+    },
+    {
+      "start": 36.64,
+      "end": 36.86,
+      "text": "ao",
+      "probability": 0.994
+    },
+    {
+      "start": 36.86,
+      "end": 37.24,
+      "text": "meio",
+      "probability": 0.997
+    },
+    {
+      "start": 37.24,
+      "end": 37.64,
+      "text": "-dia,",
+      "probability": 0.852
+    },
+    {
+      "start": 37.66,
+      "end": 38.06,
+      "text": "essa",
+      "probability": 0.815
+    },
+    {
+      "start": 38.06,
+      "end": 38.54,
+      "text": "grama",
+      "probability": 0.879
+    },
+    {
+      "start": 38.54,
+      "end": 38.8,
+      "text": "pode",
+      "probability": 0.686
+    },
+    {
+      "start": 38.8,
+      "end": 39.16,
+      "text": "ser",
+      "probability": 0.997
+    },
+    {
+      "start": 39.16,
+      "end": 39.56,
+      "text": "sua.",
+      "probability": 0.998
+    },
+    {
+      "start": 40.47,
+      "end": 41.03,
+      "text": "Não",
+      "probability": 0.497
+    },
+    {
+      "start": 41.03,
+      "end": 41.35,
+      "text": "me",
+      "probability": 0.876
+    },
+    {
+      "start": 41.35,
+      "end": 42.03,
+      "text": "chamei!",
+      "probability": 0.438
+    },
+    {
+      "start": 46.55,
+      "end": 46.86,
+      "text": "Deixa",
+      "probability": 0.161
+    },
+    {
+      "start": 115.43,
+      "end": 115.75,
+      "text": "na",
+      "probability": 0.062
+    },
+    {
+      "start": 115.75,
+      "end": 116.29,
+      "text": "esquerda,",
+      "probability": 0.761
+    },
+    {
+      "start": 116.29,
+      "end": 116.39,
+      "text": "meu",
+      "probability": 0.905
+    },
+    {
+      "start": 116.39,
+      "end": 116.79,
+      "text": "piada",
+      "probability": 0.615
+    },
+    {
+      "start": 116.79,
+      "end": 116.95,
+      "text": "é",
+      "probability": 0.22
+    },
+    {
+      "start": 116.95,
+      "end": 117.31,
+      "text": "forte.",
+      "probability": 0.747
+    },
+    {
+      "start": 117.73,
+      "end": 117.91,
+      "text": "Eu",
+      "probability": 0.784
+    },
+    {
+      "start": 228.25,
+      "end": 228.43,
+      "text": "acho",
+      "probability": 0.994
+    },
+    {
+      "start": 228.43,
+      "end": 228.53,
+      "text": "que",
+      "probability": 0.737
+    },
+    {
+      "start": 228.53,
+      "end": 228.75,
+      "text": "você",
+      "probability": 0.853
+    },
+    {
+      "start": 228.75,
+      "end": 228.95,
+      "text": "quer",
+      "probability": 0.917
+    },
+    {
+      "start": 228.95,
+      "end": 229.15,
+      "text": "ouvir",
+      "probability": 0.568
+    },
+    {
+      "start": 229.15,
+      "end": 229.37,
+      "text": "a",
+      "probability": 0.585
+    },
+    {
+      "start": 229.37,
+      "end": 229.75,
+      "text": "música",
+      "probability": 0.963
+    },
+    {
+      "start": 229.75,
+      "end": 230.17,
+      "text": "da",
+      "probability": 0.862
+    },
+    {
+      "start": 230.17,
+      "end": 230.65,
+      "text": "minha",
+      "probability": 0.238
+    },
+    {
+      "start": 230.65,
+      "end": 231.29,
+      "text": "produtora.",
+      "probability": 0.844
+    },
+    {
+      "start": 231.81,
+      "end": 232.13,
+      "text": "Como",
+      "probability": 0.039
+    },
+    {
+      "start": 243.94,
+      "end": 244.04,
+      "text": "que",
+      "probability": 0.196
+    },
+    {
+      "start": 244.04,
+      "end": 244.3,
+      "text": "faz",
+      "probability": 0.482
+    },
+    {
+      "start": 244.3,
+      "end": 244.4,
+      "text": "o",
+      "probability": 0.706
+    },
+    {
+      "start": 244.4,
+      "end": 244.68,
+      "text": "vento",
+      "probability": 0.948
+    },
+    {
+      "start": 244.68,
+      "end": 244.8,
+      "text": "do",
+      "probability": 0.25
+    },
+    {
+      "start": 244.8,
+      "end": 245.54,
+      "text": "vento?",
+      "probability": 0.656
+    },
+    {
+      "start": 245.64,
+      "end": 246.26,
+      "text": "Aqui",
+      "probability": 0.296
+    },
+    {
+      "start": 246.26,
+      "end": 246.52,
+      "text": "na",
+      "probability": 0.915
+    },
+    {
+      "start": 246.52,
+      "end": 247.0,
+      "text": "direita",
+      "probability": 0.88
+    },
+    {
+      "start": 247.0,
+      "end": 247.06,
+      "text": "o",
+      "probability": 0.481
+    },
+    {
+      "start": 247.06,
+      "end": 247.18,
+      "text": "que",
+      "probability": 0.425
+    },
+    {
+      "start": 247.18,
+      "end": 247.32,
+      "text": "eu",
+      "probability": 0.288
+    },
+    {
+      "start": 247.32,
+      "end": 248.02,
+      "text": "desejo?",
+      "probability": 0.677
+    },
+    {
+      "start": 248.24,
+      "end": 248.56,
+      "text": "O",
+      "probability": 0.37
+    },
+    {
+      "start": 248.56,
+      "end": 249.22,
+      "text": "aplaudido",
+      "probability": 0.703
+    },
+    {
+      "start": 249.22,
+      "end": 249.48,
+      "text": "na",
+      "probability": 0.688
+    },
+    {
+      "start": 249.48,
+      "end": 249.68,
+      "text": "sua",
+      "probability": 0.738
+    },
+    {
+      "start": 249.68,
+      "end": 250.06,
+      "text": "pera?",
+      "probability": 0.77
+    },
+    {
+      "start": 256.4,
+      "end": 257.2,
+      "text": "Vinheta",
+      "probability": 0.376
+    },
+    {
+      "start": 257.2,
+      "end": 257.34,
+      "text": "de",
+      "probability": 0.138
+    },
+    {
+      "start": 257.34,
+      "end": 257.76,
+      "text": "Trabalho,",
+      "probability": 0.647
+    },
+    {
+      "start": 257.82,
+      "end": 258.22,
+      "text": "Vinheta",
+      "probability": 0.721
+    },
+    {
+      "start": 258.22,
+      "end": 259.26,
+      "text": "de",
+      "probability": 0.868
+    },
+    {
+      "start": 259.26,
+      "end": 259.5,
+      "text": "Trabalho,",
+      "probability": 0.994
+    },
+    {
+      "start": 259.5,
+      "end": 259.62,
+      "text": "Vinheta",
+      "probability": 0.687
+    },
+    {
+      "start": 259.62,
+      "end": 259.86,
+      "text": "de",
+      "probability": 0.971
+    },
+    {
+      "start": 259.86,
+      "end": 260.18,
+      "text": "Trabalho,",
+      "probability": 0.997
+    },
+    {
+      "start": 260.48,
+      "end": 261.6,
+      "text": "Vinheta",
+      "probability": 0.796
+    },
+    {
+      "start": 261.6,
+      "end": 261.8,
+      "text": "de",
+      "probability": 0.967
+    },
+    {
+      "start": 261.8,
+      "end": 262.44,
+      "text": "Trabalho,",
+      "probability": 0.997
+    },
+    {
+      "start": 262.44,
+      "end": 262.84,
+      "text": "Vinheta",
+      "probability": 0.97
+    },
+    {
+      "start": 262.84,
+      "end": 263.08,
+      "text": "de",
+      "probability": 0.982
+    },
+    {
+      "start": 263.08,
+      "end": 263.08,
+      "text": "Trabalho,",
+      "probability": 0.997
+    },
+    {
+      "start": 263.08,
+      "end": 265.54,
+      "text": "Vinheta",
+      "probability": 0.982
+    },
+    {
+      "start": 274.3,
+      "end": 275.0,
+      "text": "de",
+      "probability": 0.99
+    },
+    {
+      "start": 275.0,
+      "end": 276.12,
+      "text": "Trabalho,",
+      "probability": 0.997
+    },
+    {
+      "start": 276.12,
+      "end": 277.36,
+      "text": "Vinheta",
+      "probability": 0.986
+    },
+    {
+      "start": 308.76,
+      "end": 308.78,
+      "text": "de",
+      "probability": 0.993
+    },
+    {
+      "start": 317.93,
+      "end": 323.01,
+      "text": "Trabalho.",
+      "probability": 0.998
+    },
+    {
+      "start": 405.18,
+      "end": 405.18,
+      "text": "O",
+      "probability": 0.041
+    },
+    {
+      "start": 405.18,
+      "end": 405.32,
+      "text": "nome",
+      "probability": 0.876
+    },
+    {
+      "start": 405.32,
+      "end": 405.72,
+      "text": "completo,",
+      "probability": 0.984
+    },
+    {
+      "start": 405.98,
+      "end": 406.54,
+      "text": "12,",
+      "probability": 0.323
+    },
+    {
+      "start": 406.7,
+      "end": 407.12,
+      "text": "9,",
+      "probability": 0.564
+    },
+    {
+      "start": 407.44,
+      "end": 408.56,
+      "text": "8,",
+      "probability": 0.757
+    },
+    {
+      "start": 409.0,
+      "end": 409.72,
+      "text": "5,",
+      "probability": 0.502
+    },
+    {
+      "start": 410.04,
+      "end": 410.42,
+      "text": "6,",
+      "probability": 0.683
+    },
+    {
+      "start": 411.08,
+      "end": 411.08,
+      "text": "7,",
+      "probability": 0.919
+    },
+    {
+      "start": 412.24,
+      "end": 412.6,
+      "text": "8,",
+      "probability": 0.976
+    },
+    {
+      "start": 412.76,
+      "end": 413.08,
+      "text": "9,",
+      "probability": 0.936
+    },
+    {
+      "start": 413.08,
+      "end": 413.08,
+      "text": "9,",
+      "probability": 0.724
+    },
+    {
+      "start": 413.08,
+      "end": 413.08,
+      "text": "10,",
+      "probability": 0.695
+    },
+    {
+      "start": 413.08,
+      "end": 413.08,
+      "text": "11,",
+      "probability": 0.935
+    },
+    {
+      "start": 413.08,
+      "end": 413.08,
+      "text": "12,",
+      "probability": 0.922
+    },
+    {
+      "start": 413.08,
+      "end": 413.08,
+      "text": "13,",
+      "probability": 0.886
+    },
+    {
+      "start": 413.08,
+      "end": 413.14,
+      "text": "14,",
+      "probability": 0.968
+    },
+    {
+      "start": 413.4,
+      "end": 413.6,
+      "text": "15,",
+      "probability": 0.915
+    },
+    {
+      "start": 413.6,
+      "end": 413.6,
+      "text": "16,",
+      "probability": 0.978
+    },
+    {
+      "start": 413.6,
+      "end": 413.6,
+      "text": "17,",
+      "probability": 0.985
+    },
+    {
+      "start": 413.6,
+      "end": 413.6,
+      "text": "18,",
+      "probability": 0.994
+    },
+    {
+      "start": 413.98,
+      "end": 413.98,
+      "text": "19,",
+      "probability": 0.944
+    },
+    {
+      "start": 414.12,
+      "end": 414.12,
+      "text": "20,",
+      "probability": 0.974
+    },
+    {
+      "start": 414.12,
+      "end": 414.12,
+      "text": "21,",
+      "probability": 0.876
+    },
+    {
+      "start": 414.12,
+      "end": 414.12,
+      "text": "22,",
+      "probability": 0.866
+    },
+    {
+      "start": 414.12,
+      "end": 414.12,
+      "text": "23,",
+      "probability": 0.974
+    },
+    {
+      "start": 414.12,
+      "end": 414.12,
+      "text": "24,",
+      "probability": 0.957
+    },
+    {
+      "start": 414.12,
+      "end": 414.12,
+      "text": "25,",
+      "probability": 0.953
+    },
+    {
+      "start": 414.12,
+      "end": 414.12,
+      "text": "26,",
+      "probability": 0.96
+    },
+    {
+      "start": 414.32,
+      "end": 414.54,
+      "text": "27,",
+      "probability": 0.969
+    },
+    {
+      "start": 415.14,
+      "end": 415.14,
+      "text": "28,",
+      "probability": 0.969
+    },
+    {
+      "start": 415.54,
+      "end": 415.54,
+      "text": "29,",
+      "probability": 0.862
+    },
+    {
+      "start": 415.64,
+      "end": 415.74,
+      "text": "30,",
+      "probability": 0.962
+    },
+    {
+      "start": 415.76,
+      "end": 415.84,
+      "text": "31,",
+      "probability": 0.852
+    },
+    {
+      "start": 416.4,
+      "end": 416.64,
+      "text": "32,",
+      "probability": 0.946
+    },
+    {
+      "start": 417.18,
+      "end": 417.44,
+      "text": "33,",
+      "probability": 0.871
+    },
+    {
+      "start": 419.88,
+      "end": 419.9,
+      "text": "34,",
+      "probability": 0.893
+    },
+    {
+      "start": 419.9,
+      "end": 419.9,
+      "text": "35,",
+      "probability": 0.944
+    },
+    {
+      "start": 419.9,
+      "end": 419.9,
+      "text": "36,",
+      "probability": 0.845
+    },
+    {
+      "start": 419.9,
+      "end": 419.9,
+      "text": "37,",
+      "probability": 0.842
+    },
+    {
+      "start": 419.9,
+      "end": 419.9,
+      "text": "38,",
+      "probability": 0.929
+    },
+    {
+      "start": 419.9,
+      "end": 419.9,
+      "text": "39,",
+      "probability": 0.69
+    },
+    {
+      "start": 419.9,
+      "end": 420.3,
+      "text": "40,",
+      "probability": 0.951
+    },
+    {
+      "start": 420.3,
+      "end": 420.3,
+      "text": "40,",
+      "probability": 0.381
+    },
+    {
+      "start": 420.3,
+      "end": 420.3,
+      "text": "41,",
+      "probability": 0.896
+    },
+    {
+      "start": 420.34,
+      "end": 420.34,
+      "text": "42,",
+      "probability": 0.939
+    },
+    {
+      "start": 420.38,
+      "end": 420.38,
+      "text": "43,",
+      "probability": 0.718
+    },
+    {
+      "start": 420.38,
+      "end": 420.38,
+      "text": "44,",
+      "probability": 0.65
+    },
+    {
+      "start": 420.38,
+      "end": 420.38,
+      "text": "45,",
+      "probability": 0.823
+    },
+    {
+      "start": 420.38,
+      "end": 420.38,
+      "text": "46,",
+      "probability": 0.53
+    },
+    {
+      "start": 420.38,
+      "end": 420.38,
+      "text": "47,",
+      "probability": 0.861
+    },
+    {
+      "start": 420.38,
+      "end": 420.38,
+      "text": "48,",
+      "probability": 0.725
+    },
+    {
+      "start": 420.38,
+      "end": 420.38,
+      "text": "49,",
+      "probability": 0.753
+    },
+    {
+      "start": 420.38,
+      "end": 420.38,
+      "text": "50,",
+      "probability": 0.683
+    },
+    {
+      "start": 420.44,
+      "end": 420.44,
+      "text": "51,",
+      "probability": 0.916
+    },
+    {
+      "start": 420.44,
+      "end": 420.44,
+      "text": "52,",
+      "probability": 0.909
+    },
+    {
+      "start": 420.44,
+      "end": 420.44,
+      "text": "53,",
+      "probability": 0.74
+    },
+    {
+      "start": 420.44,
+      "end": 420.44,
+      "text": "52,",
+      "probability": 0.245
+    },
+    {
+      "start": 420.44,
+      "end": 420.44,
+      "text": "53,",
+      "probability": 0.74
+    },
+    {
+      "start": 420.44,
+      "end": 420.44,
+      "text": "54,",
+      "probability": 0.644
+    },
+    {
+      "start": 420.44,
+      "end": 420.44,
+      "text": "55,",
+      "probability": 0.597
+    },
+    {
+      "start": 420.44,
+      "end": 420.44,
+      "text": "56,",
+      "probability": 0.622
+    },
+    {
+      "start": 420.44,
+      "end": 420.44,
+      "text": "57,",
+      "probability": 0.874
+    },
+    {
+      "start": 420.44,
+      "end": 420.44,
+      "text": "58,",
+      "probability": 0.826
+    },
+    {
+      "start": 420.44,
+      "end": 420.44,
+      "text": "59,",
+      "probability": 0.608
+    },
+    {
+      "start": 420.44,
+      "end": 420.44,
+      "text": "51,",
+      "probability": 0.289
+    },
+    {
+      "start": 423.9,
+      "end": 425.04,
+      "text": "52,",
+      "probability": 0.748
+    },
+    {
+      "start": 425.04,
+      "end": 425.16,
+      "text": "53,",
+      "probability": 0.83
+    },
+    {
+      "start": 425.16,
+      "end": 425.36,
+      "text": "56,",
+      "probability": 0.258
+    },
+    {
+      "start": 425.36,
+      "end": 425.52,
+      "text": "57,",
+      "probability": 0.564
+    },
+    {
+      "start": 425.52,
+      "end": 425.52,
+      "text": "58,",
+      "probability": 0.7
+    },
+    {
+      "start": 425.52,
+      "end": 425.52,
+      "text": "59,",
+      "probability": 0.746
+    },
+    {
+      "start": 425.52,
+      "end": 425.52,
+      "text": "51,",
+      "probability": 0.431
+    },
+    {
+      "start": 425.52,
+      "end": 425.52,
+      "text": "52,",
+      "probability": 0.707
+    },
+    {
+      "start": 425.52,
+      "end": 425.52,
+      "text": "53,",
+      "probability": 0.756
+    },
+    {
+      "start": 425.52,
+      "end": 425.56,
+      "text": "58,",
+      "probability": 0.184
+    },
+    {
+      "start": 425.56,
+      "end": 425.8,
+      "text": "59,",
+      "probability": 0.757
+    },
+    {
+      "start": 425.8,
+      "end": 426.74,
+      "text": "51,",
+      "probability": 0.398
+    },
+    {
+      "start": 426.74,
+      "end": 428.34,
+      "text": "52,",
+      "probability": 0.622
+    },
+    {
+      "start": 428.75,
+      "end": 429.01,
+      "text": "53,",
+      "probability": 0.796
+    },
+    {
+      "start": 429.01,
+      "end": 429.01,
+      "text": "59,",
+      "probability": 0.412
+    },
+    {
+      "start": 429.01,
+      "end": 429.01,
+      "text": "52,",
+      "probability": 0.416
+    },
+    {
+      "start": 429.01,
+      "end": 429.13,
+      "text": "53,",
+      "probability": 0.685
+    },
+    {
+      "start": 429.13,
+      "end": 429.27,
+      "text": "59,",
+      "probability": 0.421
+    },
+    {
+      "start": 429.27,
+      "end": 429.27,
+      "text": "52,",
+      "probability": 0.416
+    },
+    {
+      "start": 429.27,
+      "end": 429.27,
+      "text": "53,",
+      "probability": 0.798
+    },
+    {
+      "start": 429.27,
+      "end": 429.43,
+      "text": "59,",
+      "probability": 0.379
+    },
+    {
+      "start": 429.43,
+      "end": 429.43,
+      "text": "52,",
+      "probability": 0.429
+    },
+    {
+      "start": 429.43,
+      "end": 429.43,
+      "text": "53,",
+      "probability": 0.867
+    },
+    {
+      "start": 429.43,
+      "end": 429.43,
+      "text": "59,",
+      "probability": 0.37
+    },
+    {
+      "start": 429.43,
+      "end": 429.43,
+      "text": "52,",
+      "probability": 0.439
+    },
+    {
+      "start": 429.43,
+      "end": 429.43,
+      "text": "53,",
+      "probability": 0.91
+    },
+    {
+      "start": 429.43,
+      "end": 429.47,
+      "text": "59,",
+      "probability": 0.367
+    },
+    {
+      "start": 429.53,
+      "end": 429.65,
+      "text": "52,",
+      "probability": 0.447
+    },
+    {
+      "start": 429.65,
+      "end": 429.65,
+      "text": "53,",
+      "probability": 0.929
+    },
+    {
+      "start": 429.65,
+      "end": 429.65,
+      "text": "59,",
+      "probability": 0.404
+    },
+    {
+      "start": 429.65,
+      "end": 429.65,
+      "text": "52,",
+      "probability": 0.462
+    },
+    {
+      "start": 429.65,
+      "end": 429.65,
+      "text": "53,",
+      "probability": 0.939
+    },
+    {
+      "start": 429.65,
+      "end": 429.65,
+      "text": "59,",
+      "probability": 0.472
+    },
+    {
+      "start": 429.65,
+      "end": 429.65,
+      "text": "52,",
+      "probability": 0.47
+    },
+    {
+      "start": 429.65,
+      "end": 429.65,
+      "text": "53,",
+      "probability": 0.947
+    },
+    {
+      "start": 429.65,
+      "end": 429.65,
+      "text": "59,",
+      "probability": 0.516
+    },
+    {
+      "start": 429.65,
+      "end": 429.65,
+      "text": "52,",
+      "probability": 0.486
+    },
+    {
+      "start": 429.65,
+      "end": 429.65,
+      "text": "53,",
+      "probability": 0.953
+    },
+    {
+      "start": 429.65,
+      "end": 429.65,
+      "text": "59,",
+      "probability": 0.565
+    },
+    {
+      "start": 429.65,
+      "end": 430.67,
+      "text": "52,",
+      "probability": 0.505
+    },
+    {
+      "start": 430.73,
+      "end": 431.49,
+      "text": "53,",
+      "probability": 0.955
+    },
+    {
+      "start": 431.49,
+      "end": 432.49,
+      "text": "59,",
+      "probability": 0.6
+    },
+    {
+      "start": 432.49,
+      "end": 432.49,
+      "text": "52,",
+      "probability": 0.524
+    },
+    {
+      "start": 444.46,
+      "end": 446.22,
+      "text": "53,",
+      "probability": 0.956
+    },
+    {
+      "start": 446.22,
+      "end": 446.22,
+      "text": "59,",
+      "probability": 0.622
+    },
+    {
+      "start": 447.7,
+      "end": 448.66,
+      "text": "52,",
+      "probability": 0.534
+    },
+    {
+      "start": 449.58,
+      "end": 449.58,
+      "text": "53",
+      "probability": 0.961
+    }
+  ]
+}

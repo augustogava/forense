@@ -1,0 +1,49 @@
+{
+  "source_file": "VOR20260508094746_0805_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1800.0,
+  "segments": {
+    "00:04:15,00:04:17": "Música",
+    "00:04:17,00:04:19": "Música",
+    "00:06:32,00:07:00": "O que é isso?"
+  },
+  "words": [
+    {
+      "start": 255.89,
+      "end": 257.29,
+      "text": "Música",
+      "probability": 0.496
+    },
+    {
+      "start": 257.9,
+      "end": 259.64,
+      "text": "Música",
+      "probability": 0.667
+    },
+    {
+      "start": 392.56,
+      "end": 392.96,
+      "text": "O",
+      "probability": 0.031
+    },
+    {
+      "start": 392.96,
+      "end": 395.46,
+      "text": "que",
+      "probability": 0.396
+    },
+    {
+      "start": 395.46,
+      "end": 414.18,
+      "text": "é",
+      "probability": 0.622
+    },
+    {
+      "start": 414.76,
+      "end": 420.88,
+      "text": "isso?",
+      "probability": 0.708
+    }
+  ]
+}

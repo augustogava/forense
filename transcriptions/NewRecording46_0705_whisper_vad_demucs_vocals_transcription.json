@@ -1,0 +1,157 @@
+{
+  "source_file": "NewRecording46_0705_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:08,00:00:09": "Obrigado.",
+    "00:00:22,00:00:24": "Obrigado.",
+    "00:00:31,00:00:40": "Sim, eu não vou fazer isso.",
+    "00:00:41,00:00:44": "Eu não sei o que eu vou fazer.",
+    "00:01:13,00:01:13": "Abre!",
+    "00:01:21,00:01:22": "Atenção!",
+    "00:01:30,00:01:32": "Atenção!",
+    "00:01:39,00:01:40": "Obrigado.",
+    "00:01:44,00:01:45": "Abre o celular!",
+    "00:01:49,00:01:49": "Abre!",
+    "00:01:59,00:02:00": "Hummm!",
+    "00:02:03,00:02:04": ".",
+    "00:29:07,00:29:08": "Atenção!"
+  },
+  "words": [
+    {
+      "start": 8.02,
+      "end": 9.42,
+      "text": "Obrigado."
+    },
+    {
+      "start": 22.87,
+      "end": 24.27,
+      "text": "Obrigado."
+    },
+    {
+      "start": 31.33,
+      "end": 31.79,
+      "text": "Sim,"
+    },
+    {
+      "start": 31.91,
+      "end": 32.97,
+      "text": "eu"
+    },
+    {
+      "start": 32.97,
+      "end": 35.19,
+      "text": "não"
+    },
+    {
+      "start": 35.19,
+      "end": 40.27,
+      "text": "vou"
+    },
+    {
+      "start": 40.27,
+      "end": 40.59,
+      "text": "fazer"
+    },
+    {
+      "start": 40.59,
+      "end": 40.87,
+      "text": "isso."
+    },
+    {
+      "start": 41.13,
+      "end": 41.83,
+      "text": "Eu"
+    },
+    {
+      "start": 41.83,
+      "end": 42.61,
+      "text": "não"
+    },
+    {
+      "start": 42.61,
+      "end": 42.91,
+      "text": "sei"
+    },
+    {
+      "start": 42.91,
+      "end": 43.19,
+      "text": "o"
+    },
+    {
+      "start": 43.19,
+      "end": 43.65,
+      "text": "que"
+    },
+    {
+      "start": 43.65,
+      "end": 43.87,
+      "text": "eu"
+    },
+    {
+      "start": 43.87,
+      "end": 44.45,
+      "text": "vou"
+    },
+    {
+      "start": 44.45,
+      "end": 44.67,
+      "text": "fazer."
+    },
+    {
+      "start": 73.57,
+      "end": 73.97,
+      "text": "Abre!"
+    },
+    {
+      "start": 81.51,
+      "end": 82.39,
+      "text": "Atenção!"
+    },
+    {
+      "start": 90.27,
+      "end": 92.73,
+      "text": "Atenção!"
+    },
+    {
+      "start": 99.91,
+      "end": 100.09,
+      "text": "Obrigado."
+    },
+    {
+      "start": 104.55,
+      "end": 105.65,
+      "text": "Abre"
+    },
+    {
+      "start": 105.65,
+      "end": 105.65,
+      "text": "o"
+    },
+    {
+      "start": 105.65,
+      "end": 105.97,
+      "text": "celular!"
+    },
+    {
+      "start": 109.06,
+      "end": 109.46,
+      "text": "Abre!"
+    },
+    {
+      "start": 119.11,
+      "end": 120.37,
+      "text": "Hummm!"
+    },
+    {
+      "start": 123.97,
+      "end": 124.15,
+      "text": "."
+    },
+    {
+      "start": 1747.01,
+      "end": 1748.87,
+      "text": "Atenção!"
+    }
+  ]
+}

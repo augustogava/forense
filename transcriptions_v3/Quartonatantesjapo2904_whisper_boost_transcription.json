@@ -1,0 +1,7 @@
+{
+  "source_file": "Quartonatantesjapo2904_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {},
+  "hallucinations_filtered": 1
+}

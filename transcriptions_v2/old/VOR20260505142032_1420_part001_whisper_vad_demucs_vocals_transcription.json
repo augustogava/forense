@@ -1,0 +1,47 @@
+{
+  "source_file": "VOR20260505142032_1420_part001_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 5400.0,
+  "segments": {
+    "00:00:13,00:00:15": "Transcrição e Legendas por Quintena Coelho"
+  },
+  "words": [
+    {
+      "start": 13.36,
+      "end": 14.2,
+      "text": "Transcrição",
+      "probability": 0.642
+    },
+    {
+      "start": 14.2,
+      "end": 14.2,
+      "text": "e",
+      "probability": 0.999
+    },
+    {
+      "start": 14.2,
+      "end": 14.2,
+      "text": "Legendas",
+      "probability": 0.997
+    },
+    {
+      "start": 14.2,
+      "end": 14.6,
+      "text": "por",
+      "probability": 0.367
+    },
+    {
+      "start": 14.6,
+      "end": 15.36,
+      "text": "Quintena",
+      "probability": 0.826
+    },
+    {
+      "start": 15.36,
+      "end": 15.38,
+      "text": "Coelho",
+      "probability": 0.967
+    }
+  ]
+}

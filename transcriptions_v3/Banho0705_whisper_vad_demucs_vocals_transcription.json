@@ -1,0 +1,86 @@
+{
+  "source_file": "Banho0705_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:02:58,00:03:00": "E aí",
+    "00:03:29,00:03:30": "E aí",
+    "00:03:56,00:03:58": "A CIDADE NO BRASIL",
+    "00:04:26,00:04:28": "A CIDADE NO BRASIL"
+  },
+  "hallucinations_filtered": 1,
+  "words": [
+    {
+      "start": 178.16,
+      "end": 179.98,
+      "text": "E",
+      "confidence": 0.102
+    },
+    {
+      "start": 179.98,
+      "end": 180.0,
+      "text": "aí",
+      "confidence": 0.89
+    },
+    {
+      "start": 209.98,
+      "end": 210.0,
+      "text": "E",
+      "confidence": 0.168
+    },
+    {
+      "start": 210.0,
+      "end": 210.02,
+      "text": "aí",
+      "confidence": 0.937
+    },
+    {
+      "start": 236.04,
+      "end": 236.06,
+      "text": "A",
+      "confidence": 0.062
+    },
+    {
+      "start": 236.06,
+      "end": 236.96,
+      "text": "CIDADE",
+      "confidence": 0.402
+    },
+    {
+      "start": 236.96,
+      "end": 237.1,
+      "text": "NO",
+      "confidence": 0.983
+    },
+    {
+      "start": 237.1,
+      "end": 238.16,
+      "text": "BRASIL",
+      "confidence": 0.953
+    },
+    {
+      "start": 266.7,
+      "end": 266.92,
+      "text": "A",
+      "confidence": 0.105
+    },
+    {
+      "start": 266.92,
+      "end": 267.76,
+      "text": "CIDADE",
+      "confidence": 0.577
+    },
+    {
+      "start": 267.76,
+      "end": 267.78,
+      "text": "NO",
+      "confidence": 0.992
+    },
+    {
+      "start": 267.78,
+      "end": 268.94,
+      "text": "BRASIL",
+      "confidence": 0.924
+    }
+  ]
+}

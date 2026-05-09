@@ -1,0 +1,21 @@
+{
+  "source_file": "Quartotarde0605_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:20,00:00:23": "Legenda por Sônia Ruberti",
+    "00:07:32,00:07:34": "Transcrição e Legendas Pedro Negri",
+    "00:24:43,00:24:45": "Transcrição e Legendas Pedro Ribeiro Carta",
+    "00:48:22,00:48:52": "Acesse o nosso site www.opusdei.pt",
+    "00:56:03,00:56:04": "costsum2",
+    "00:59:22,00:59:24": "Transcrição de flama no ar.",
+    "00:59:31,00:59:33": "Assim você não vai ser abjuvado.",
+    "00:59:37,00:59:45": "www.cdc.gov.br",
+    "00:59:50,00:59:52": "Assunto huevo e espadas",
+    "01:00:02,01:00:32": "Transcrição e Legendas ETC FILMES",
+    "01:00:32,01:00:42": "Acompanhe a conversa em português brasileiro.",
+    "01:00:45,01:00:46": "Trazar...",
+    "01:01:58,01:02:03": "Cláudia Borges",
+    "01:05:03,01:05:05": "Era um menaka, ué."
+  }
+}

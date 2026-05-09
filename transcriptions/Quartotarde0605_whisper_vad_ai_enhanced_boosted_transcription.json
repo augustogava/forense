@@ -1,0 +1,458 @@
+{
+  "source_file": "Quartotarde0605_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:19,00:00:22": "Atenção, o que recebemos já é definitivo.",
+    "00:01:24,00:01:25": ".",
+    "00:04:44,00:04:44": "E...",
+    "00:17:30,00:17:31": "Obrigado.",
+    "00:21:33,00:21:33": "Bom, até agora.",
+    "00:22:03,00:22:04": "Agradecimentos a todos os participantes.",
+    "00:33:09,00:33:09": ".",
+    "00:38:57,00:38:57": ".",
+    "00:56:05,00:56:06": "não falo nada do Elen.",
+    "00:56:09,00:56:12": "É só deus, ó. Dá um beitinho de cocô?",
+    "00:56:18,00:56:18": "Obrigada.",
+    "00:56:30,00:56:30": "Atenção!",
+    "00:56:33,00:56:34": "Obrigada.",
+    "00:58:17,00:58:18": ".",
+    "00:58:34,00:58:36": "Comente se você gostou.",
+    "01:00:02,01:00:09": "Se você quiser, você pode escrever o texto em uma medida, por exemplo, o texto desse avô,",
+    "01:00:09,01:00:11": "ou o texto desse amigo dela.",
+    "01:00:12,01:00:13": "E aí ele compara na...",
+    "01:00:14,01:00:15": "...de alguém.",
+    "01:00:16,01:00:17": "Aí a gente muda o nome.",
+    "01:00:41,01:00:43": "Obrigada.",
+    "01:00:52,01:00:53": "Acompanhe o programa.",
+    "01:05:03,01:05:04": "Não existe!",
+    "01:05:57,01:05:57": "Aplausos."
+  },
+  "words": [
+    {
+      "start": 19.55,
+      "end": 19.71,
+      "text": "Atenção,"
+    },
+    {
+      "start": 19.71,
+      "end": 19.91,
+      "text": "o"
+    },
+    {
+      "start": 19.91,
+      "end": 20.21,
+      "text": "que"
+    },
+    {
+      "start": 20.21,
+      "end": 20.85,
+      "text": "recebemos"
+    },
+    {
+      "start": 20.85,
+      "end": 21.15,
+      "text": "já"
+    },
+    {
+      "start": 21.15,
+      "end": 21.21,
+      "text": "é"
+    },
+    {
+      "start": 21.21,
+      "end": 22.09,
+      "text": "definitivo."
+    },
+    {
+      "start": 84.93,
+      "end": 85.31,
+      "text": "."
+    },
+    {
+      "start": 284.26,
+      "end": 284.62,
+      "text": "E..."
+    },
+    {
+      "start": 1050.73,
+      "end": 1051.75,
+      "text": "Obrigado."
+    },
+    {
+      "start": 1293.31,
+      "end": 1293.51,
+      "text": "Bom,"
+    },
+    {
+      "start": 1293.51,
+      "end": 1293.63,
+      "text": "até"
+    },
+    {
+      "start": 1293.63,
+      "end": 1293.97,
+      "text": "agora."
+    },
+    {
+      "start": 1323.71,
+      "end": 1324.97,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 1324.97,
+      "end": 1324.97,
+      "text": "a"
+    },
+    {
+      "start": 1324.97,
+      "end": 1324.97,
+      "text": "todos"
+    },
+    {
+      "start": 1324.97,
+      "end": 1324.97,
+      "text": "os"
+    },
+    {
+      "start": 1324.97,
+      "end": 1324.97,
+      "text": "participantes."
+    },
+    {
+      "start": 1989.2,
+      "end": 1989.54,
+      "text": "."
+    },
+    {
+      "start": 2337.54,
+      "end": 2337.8,
+      "text": "."
+    },
+    {
+      "start": 3365.45,
+      "end": 3365.57,
+      "text": "não"
+    },
+    {
+      "start": 3365.57,
+      "end": 3365.71,
+      "text": "falo"
+    },
+    {
+      "start": 3365.71,
+      "end": 3365.85,
+      "text": "nada"
+    },
+    {
+      "start": 3365.85,
+      "end": 3366.05,
+      "text": "do"
+    },
+    {
+      "start": 3366.05,
+      "end": 3366.19,
+      "text": "Elen."
+    },
+    {
+      "start": 3369.79,
+      "end": 3370.01,
+      "text": "É"
+    },
+    {
+      "start": 3370.01,
+      "end": 3370.09,
+      "text": "só"
+    },
+    {
+      "start": 3370.09,
+      "end": 3370.29,
+      "text": "deus,"
+    },
+    {
+      "start": 3370.45,
+      "end": 3370.57,
+      "text": "ó."
+    },
+    {
+      "start": 3370.65,
+      "end": 3370.91,
+      "text": "Dá"
+    },
+    {
+      "start": 3370.91,
+      "end": 3371.05,
+      "text": "um"
+    },
+    {
+      "start": 3371.05,
+      "end": 3371.55,
+      "text": "beitinho"
+    },
+    {
+      "start": 3371.55,
+      "end": 3371.71,
+      "text": "de"
+    },
+    {
+      "start": 3371.71,
+      "end": 3372.23,
+      "text": "cocô?"
+    },
+    {
+      "start": 3378.59,
+      "end": 3378.99,
+      "text": "Obrigada."
+    },
+    {
+      "start": 3390.24,
+      "end": 3390.9,
+      "text": "Atenção!"
+    },
+    {
+      "start": 3393.54,
+      "end": 3394.84,
+      "text": "Obrigada."
+    },
+    {
+      "start": 3497.6,
+      "end": 3498.0,
+      "text": "."
+    },
+    {
+      "start": 3514.98,
+      "end": 3515.32,
+      "text": "Comente"
+    },
+    {
+      "start": 3515.32,
+      "end": 3515.6,
+      "text": "se"
+    },
+    {
+      "start": 3515.6,
+      "end": 3515.82,
+      "text": "você"
+    },
+    {
+      "start": 3515.82,
+      "end": 3516.14,
+      "text": "gostou."
+    },
+    {
+      "start": 3602.15,
+      "end": 3602.19,
+      "text": "Se"
+    },
+    {
+      "start": 3602.19,
+      "end": 3602.31,
+      "text": "você"
+    },
+    {
+      "start": 3602.31,
+      "end": 3602.41,
+      "text": "quiser,"
+    },
+    {
+      "start": 3602.41,
+      "end": 3602.65,
+      "text": "você"
+    },
+    {
+      "start": 3602.65,
+      "end": 3603.05,
+      "text": "pode"
+    },
+    {
+      "start": 3603.05,
+      "end": 3603.69,
+      "text": "escrever"
+    },
+    {
+      "start": 3603.69,
+      "end": 3604.71,
+      "text": "o"
+    },
+    {
+      "start": 3604.71,
+      "end": 3604.87,
+      "text": "texto"
+    },
+    {
+      "start": 3604.87,
+      "end": 3605.39,
+      "text": "em"
+    },
+    {
+      "start": 3605.39,
+      "end": 3605.57,
+      "text": "uma"
+    },
+    {
+      "start": 3605.57,
+      "end": 3606.05,
+      "text": "medida,"
+    },
+    {
+      "start": 3606.27,
+      "end": 3606.47,
+      "text": "por"
+    },
+    {
+      "start": 3606.47,
+      "end": 3606.67,
+      "text": "exemplo,"
+    },
+    {
+      "start": 3607.69,
+      "end": 3607.83,
+      "text": "o"
+    },
+    {
+      "start": 3607.83,
+      "end": 3608.25,
+      "text": "texto"
+    },
+    {
+      "start": 3608.25,
+      "end": 3608.53,
+      "text": "desse"
+    },
+    {
+      "start": 3608.53,
+      "end": 3609.31,
+      "text": "avô,"
+    },
+    {
+      "start": 3609.47,
+      "end": 3609.93,
+      "text": "ou"
+    },
+    {
+      "start": 3609.93,
+      "end": 3610.11,
+      "text": "o"
+    },
+    {
+      "start": 3610.11,
+      "end": 3610.35,
+      "text": "texto"
+    },
+    {
+      "start": 3610.35,
+      "end": 3610.65,
+      "text": "desse"
+    },
+    {
+      "start": 3610.65,
+      "end": 3610.95,
+      "text": "amigo"
+    },
+    {
+      "start": 3610.95,
+      "end": 3611.45,
+      "text": "dela."
+    },
+    {
+      "start": 3612.05,
+      "end": 3612.57,
+      "text": "E"
+    },
+    {
+      "start": 3612.57,
+      "end": 3612.79,
+      "text": "aí"
+    },
+    {
+      "start": 3612.79,
+      "end": 3613.01,
+      "text": "ele"
+    },
+    {
+      "start": 3613.01,
+      "end": 3613.47,
+      "text": "compara"
+    },
+    {
+      "start": 3613.47,
+      "end": 3613.89,
+      "text": "na..."
+    },
+    {
+      "start": 3614.65,
+      "end": 3615.17,
+      "text": "...de"
+    },
+    {
+      "start": 3615.17,
+      "end": 3615.59,
+      "text": "alguém."
+    },
+    {
+      "start": 3616.01,
+      "end": 3616.41,
+      "text": "Aí"
+    },
+    {
+      "start": 3616.41,
+      "end": 3616.49,
+      "text": "a"
+    },
+    {
+      "start": 3616.49,
+      "end": 3616.63,
+      "text": "gente"
+    },
+    {
+      "start": 3616.63,
+      "end": 3617.05,
+      "text": "muda"
+    },
+    {
+      "start": 3617.05,
+      "end": 3617.19,
+      "text": "o"
+    },
+    {
+      "start": 3617.19,
+      "end": 3617.37,
+      "text": "nome."
+    },
+    {
+      "start": 3641.61,
+      "end": 3643.01,
+      "text": "Obrigada."
+    },
+    {
+      "start": 3652.71,
+      "end": 3653.05,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 3653.05,
+      "end": 3653.19,
+      "text": "o"
+    },
+    {
+      "start": 3653.19,
+      "end": 3653.49,
+      "text": "programa."
+    },
+    {
+      "start": 3903.75,
+      "end": 3903.91,
+      "text": "Não"
+    },
+    {
+      "start": 3903.91,
+      "end": 3904.15,
+      "text": "existe!"
+    },
+    {
+      "start": 3957.31,
+      "end": 3957.89,
+      "text": "Aplausos."
+    }
+  ]
+}

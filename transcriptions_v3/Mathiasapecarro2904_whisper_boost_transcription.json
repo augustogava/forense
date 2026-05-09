@@ -1,0 +1,666 @@
+{
+  "source_file": "Mathiasapecarro2904_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:01:30,00:01:31": "Agradecer meu clima!",
+    "00:01:33,00:01:35": "A partir do dia 5 de maio, toda terça,",
+    "00:01:35,00:01:49": "e quando eu ouvir esse som,",
+    "00:01:50,00:02:01": "a TV é a TV Disney.",
+    "00:02:07,00:02:09": "A TV Disney 529.",
+    "00:02:10,00:02:13": "Nesse frio, tem gente precisando de você.",
+    "00:02:13,00:02:15": "Participe na campanha do agasalho.",
+    "00:02:15,00:02:18": "No ideafix ou em outros pontos de arrecadação.",
+    "00:03:02,00:03:05": "Você aprende na prática com projetos reais e vivências",
+    "00:03:05,00:03:08": "que preparam você para o mercado de trabalho desde o início.",
+    "00:03:08,00:03:09": "E o resultado aparece.",
+    "00:11:16,00:11:18": "O seu Mickey veio passear?",
+    "00:11:20,00:11:21": "Oi, Mickey!",
+    "00:11:23,00:11:25": "Sabe onde a gente está indo?",
+    "00:11:25,00:11:26": "Para a casa da vovó!",
+    "00:11:27,00:11:28": "Para a casa da vovó?",
+    "00:11:37,00:11:38": "Tá, segura o Mickey.",
+    "00:11:38,00:11:38": "Já está chegando.",
+    "00:11:50,00:11:50": "Meu Deus!",
+    "00:11:50,00:11:51": "Não come!"
+  },
+  "hallucinations_filtered": 1,
+  "words": [
+    {
+      "start": 90.41,
+      "end": 90.83,
+      "text": "Agradecer",
+      "confidence": 0.358
+    },
+    {
+      "start": 90.83,
+      "end": 91.01,
+      "text": "meu",
+      "confidence": 0.541
+    },
+    {
+      "start": 91.01,
+      "end": 91.79,
+      "text": "clima!",
+      "confidence": 0.931
+    },
+    {
+      "start": 93.13,
+      "end": 93.25,
+      "text": "A",
+      "confidence": 0.999
+    },
+    {
+      "start": 93.25,
+      "end": 93.45,
+      "text": "partir",
+      "confidence": 1.0
+    },
+    {
+      "start": 93.45,
+      "end": 93.75,
+      "text": "do",
+      "confidence": 0.97
+    },
+    {
+      "start": 93.75,
+      "end": 93.87,
+      "text": "dia",
+      "confidence": 0.977
+    },
+    {
+      "start": 93.87,
+      "end": 94.11,
+      "text": "5",
+      "confidence": 0.308
+    },
+    {
+      "start": 94.11,
+      "end": 94.29,
+      "text": "de",
+      "confidence": 0.999
+    },
+    {
+      "start": 94.29,
+      "end": 94.69,
+      "text": "maio,",
+      "confidence": 0.978
+    },
+    {
+      "start": 94.71,
+      "end": 94.97,
+      "text": "toda",
+      "confidence": 0.582
+    },
+    {
+      "start": 94.97,
+      "end": 95.43,
+      "text": "terça,",
+      "confidence": 0.995
+    },
+    {
+      "start": 95.43,
+      "end": 95.95,
+      "text": "e",
+      "confidence": 0.296
+    },
+    {
+      "start": 108.46,
+      "end": 108.88,
+      "text": "quando",
+      "confidence": 0.96
+    },
+    {
+      "start": 108.88,
+      "end": 109.14,
+      "text": "eu",
+      "confidence": 0.454
+    },
+    {
+      "start": 109.14,
+      "end": 109.38,
+      "text": "ouvir",
+      "confidence": 0.896
+    },
+    {
+      "start": 109.38,
+      "end": 109.52,
+      "text": "esse",
+      "confidence": 0.548
+    },
+    {
+      "start": 109.52,
+      "end": 109.76,
+      "text": "som,",
+      "confidence": 0.46
+    },
+    {
+      "start": 110.6,
+      "end": 110.72,
+      "text": "a",
+      "confidence": 0.708
+    },
+    {
+      "start": 117.74,
+      "end": 118.01,
+      "text": "TV",
+      "confidence": 0.968
+    },
+    {
+      "start": 118.01,
+      "end": 118.23,
+      "text": "é",
+      "confidence": 0.603
+    },
+    {
+      "start": 118.23,
+      "end": 118.53,
+      "text": "a",
+      "confidence": 0.398
+    },
+    {
+      "start": 118.53,
+      "end": 118.99,
+      "text": "TV",
+      "confidence": 0.361
+    },
+    {
+      "start": 120.95,
+      "end": 121.51,
+      "text": "Disney.",
+      "confidence": 0.367
+    },
+    {
+      "start": 127.93,
+      "end": 127.95,
+      "text": "A",
+      "confidence": 0.584
+    },
+    {
+      "start": 127.95,
+      "end": 128.33,
+      "text": "TV",
+      "confidence": 0.722
+    },
+    {
+      "start": 128.33,
+      "end": 128.75,
+      "text": "Disney",
+      "confidence": 0.984
+    },
+    {
+      "start": 128.75,
+      "end": 129.65,
+      "text": "529.",
+      "confidence": 0.668
+    },
+    {
+      "start": 130.37,
+      "end": 130.51,
+      "text": "Nesse",
+      "confidence": 0.919
+    },
+    {
+      "start": 131.04,
+      "end": 131.44,
+      "text": "frio,",
+      "confidence": 0.725
+    },
+    {
+      "start": 131.48,
+      "end": 131.82,
+      "text": "tem",
+      "confidence": 0.846
+    },
+    {
+      "start": 131.82,
+      "end": 132.18,
+      "text": "gente",
+      "confidence": 1.0
+    },
+    {
+      "start": 132.18,
+      "end": 132.78,
+      "text": "precisando",
+      "confidence": 0.998
+    },
+    {
+      "start": 132.78,
+      "end": 132.9,
+      "text": "de",
+      "confidence": 0.999
+    },
+    {
+      "start": 132.9,
+      "end": 133.16,
+      "text": "você.",
+      "confidence": 1.0
+    },
+    {
+      "start": 133.7,
+      "end": 134.14,
+      "text": "Participe",
+      "confidence": 0.99
+    },
+    {
+      "start": 134.14,
+      "end": 134.28,
+      "text": "na",
+      "confidence": 0.507
+    },
+    {
+      "start": 134.28,
+      "end": 134.7,
+      "text": "campanha",
+      "confidence": 0.95
+    },
+    {
+      "start": 134.7,
+      "end": 134.8,
+      "text": "do",
+      "confidence": 0.571
+    },
+    {
+      "start": 134.8,
+      "end": 135.24,
+      "text": "agasalho.",
+      "confidence": 0.773
+    },
+    {
+      "start": 135.52,
+      "end": 135.66,
+      "text": "No",
+      "confidence": 0.414
+    },
+    {
+      "start": 135.66,
+      "end": 136.3,
+      "text": "ideafix",
+      "confidence": 0.376
+    },
+    {
+      "start": 136.3,
+      "end": 136.62,
+      "text": "ou",
+      "confidence": 0.548
+    },
+    {
+      "start": 136.62,
+      "end": 136.82,
+      "text": "em",
+      "confidence": 0.942
+    },
+    {
+      "start": 136.82,
+      "end": 137.1,
+      "text": "outros",
+      "confidence": 0.501
+    },
+    {
+      "start": 137.1,
+      "end": 137.38,
+      "text": "pontos",
+      "confidence": 0.971
+    },
+    {
+      "start": 137.38,
+      "end": 137.58,
+      "text": "de",
+      "confidence": 0.997
+    },
+    {
+      "start": 137.58,
+      "end": 138.14,
+      "text": "arrecadação.",
+      "confidence": 0.889
+    },
+    {
+      "start": 182.99,
+      "end": 183.04,
+      "text": "Você",
+      "confidence": 0.995
+    },
+    {
+      "start": 183.04,
+      "end": 183.44,
+      "text": "aprende",
+      "confidence": 1.0
+    },
+    {
+      "start": 183.44,
+      "end": 183.54,
+      "text": "na",
+      "confidence": 0.998
+    },
+    {
+      "start": 183.54,
+      "end": 183.94,
+      "text": "prática",
+      "confidence": 0.999
+    },
+    {
+      "start": 183.94,
+      "end": 184.12,
+      "text": "com",
+      "confidence": 0.565
+    },
+    {
+      "start": 184.12,
+      "end": 184.52,
+      "text": "projetos",
+      "confidence": 0.974
+    },
+    {
+      "start": 184.52,
+      "end": 184.66,
+      "text": "reais",
+      "confidence": 0.998
+    },
+    {
+      "start": 184.66,
+      "end": 184.96,
+      "text": "e",
+      "confidence": 0.843
+    },
+    {
+      "start": 184.96,
+      "end": 185.34,
+      "text": "vivências",
+      "confidence": 0.993
+    },
+    {
+      "start": 185.34,
+      "end": 185.58,
+      "text": "que",
+      "confidence": 0.965
+    },
+    {
+      "start": 185.58,
+      "end": 186.08,
+      "text": "preparam",
+      "confidence": 0.992
+    },
+    {
+      "start": 186.08,
+      "end": 186.36,
+      "text": "você",
+      "confidence": 0.998
+    },
+    {
+      "start": 186.36,
+      "end": 186.78,
+      "text": "para",
+      "confidence": 0.999
+    },
+    {
+      "start": 186.78,
+      "end": 186.92,
+      "text": "o",
+      "confidence": 0.959
+    },
+    {
+      "start": 186.92,
+      "end": 187.22,
+      "text": "mercado",
+      "confidence": 1.0
+    },
+    {
+      "start": 187.22,
+      "end": 187.42,
+      "text": "de",
+      "confidence": 1.0
+    },
+    {
+      "start": 187.42,
+      "end": 187.76,
+      "text": "trabalho",
+      "confidence": 0.994
+    },
+    {
+      "start": 187.76,
+      "end": 188.04,
+      "text": "desde",
+      "confidence": 0.977
+    },
+    {
+      "start": 188.04,
+      "end": 188.3,
+      "text": "o",
+      "confidence": 1.0
+    },
+    {
+      "start": 188.3,
+      "end": 188.38,
+      "text": "início.",
+      "confidence": 0.998
+    },
+    {
+      "start": 188.38,
+      "end": 188.94,
+      "text": "E",
+      "confidence": 0.991
+    },
+    {
+      "start": 188.94,
+      "end": 189.06,
+      "text": "o",
+      "confidence": 0.992
+    },
+    {
+      "start": 189.06,
+      "end": 189.48,
+      "text": "resultado",
+      "confidence": 1.0
+    },
+    {
+      "start": 189.48,
+      "end": 189.88,
+      "text": "aparece.",
+      "confidence": 0.683
+    },
+    {
+      "start": 676.13,
+      "end": 676.15,
+      "text": "O",
+      "confidence": 0.203
+    },
+    {
+      "start": 676.15,
+      "end": 676.37,
+      "text": "seu",
+      "confidence": 0.83
+    },
+    {
+      "start": 676.37,
+      "end": 676.81,
+      "text": "Mickey",
+      "confidence": 0.863
+    },
+    {
+      "start": 676.81,
+      "end": 677.19,
+      "text": "veio",
+      "confidence": 0.837
+    },
+    {
+      "start": 677.19,
+      "end": 678.27,
+      "text": "passear?",
+      "confidence": 0.944
+    },
+    {
+      "start": 680.53,
+      "end": 680.73,
+      "text": "Oi,",
+      "confidence": 0.999
+    },
+    {
+      "start": 680.81,
+      "end": 681.13,
+      "text": "Mickey!",
+      "confidence": 0.998
+    },
+    {
+      "start": 683.91,
+      "end": 684.25,
+      "text": "Sabe",
+      "confidence": 0.999
+    },
+    {
+      "start": 684.25,
+      "end": 684.37,
+      "text": "onde",
+      "confidence": 0.988
+    },
+    {
+      "start": 684.37,
+      "end": 684.51,
+      "text": "a",
+      "confidence": 0.998
+    },
+    {
+      "start": 684.51,
+      "end": 684.65,
+      "text": "gente",
+      "confidence": 1.0
+    },
+    {
+      "start": 684.65,
+      "end": 684.79,
+      "text": "está",
+      "confidence": 0.606
+    },
+    {
+      "start": 684.79,
+      "end": 685.09,
+      "text": "indo?",
+      "confidence": 1.0
+    },
+    {
+      "start": 685.35,
+      "end": 685.37,
+      "text": "Para",
+      "confidence": 0.788
+    },
+    {
+      "start": 685.37,
+      "end": 685.47,
+      "text": "a",
+      "confidence": 0.98
+    },
+    {
+      "start": 685.47,
+      "end": 685.63,
+      "text": "casa",
+      "confidence": 0.975
+    },
+    {
+      "start": 685.63,
+      "end": 685.81,
+      "text": "da",
+      "confidence": 0.997
+    },
+    {
+      "start": 685.81,
+      "end": 686.35,
+      "text": "vovó!",
+      "confidence": 0.962
+    },
+    {
+      "start": 687.7,
+      "end": 687.9,
+      "text": "Para",
+      "confidence": 0.966
+    },
+    {
+      "start": 687.9,
+      "end": 687.98,
+      "text": "a",
+      "confidence": 1.0
+    },
+    {
+      "start": 687.98,
+      "end": 688.14,
+      "text": "casa",
+      "confidence": 0.999
+    },
+    {
+      "start": 688.14,
+      "end": 688.36,
+      "text": "da",
+      "confidence": 1.0
+    },
+    {
+      "start": 688.36,
+      "end": 688.78,
+      "text": "vovó?",
+      "confidence": 1.0
+    },
+    {
+      "start": 697.33,
+      "end": 697.41,
+      "text": "Tá,",
+      "confidence": 0.448
+    },
+    {
+      "start": 697.49,
+      "end": 697.81,
+      "text": "segura",
+      "confidence": 0.959
+    },
+    {
+      "start": 697.81,
+      "end": 697.85,
+      "text": "o",
+      "confidence": 0.977
+    },
+    {
+      "start": 697.85,
+      "end": 698.01,
+      "text": "Mickey.",
+      "confidence": 0.993
+    },
+    {
+      "start": 698.19,
+      "end": 698.29,
+      "text": "Já",
+      "confidence": 0.516
+    },
+    {
+      "start": 698.29,
+      "end": 698.41,
+      "text": "está",
+      "confidence": 0.995
+    },
+    {
+      "start": 698.41,
+      "end": 698.95,
+      "text": "chegando.",
+      "confidence": 0.999
+    },
+    {
+      "start": 710.25,
+      "end": 710.67,
+      "text": "Meu",
+      "confidence": 0.517
+    },
+    {
+      "start": 710.67,
+      "end": 710.87,
+      "text": "Deus!",
+      "confidence": 0.965
+    },
+    {
+      "start": 710.87,
+      "end": 711.39,
+      "text": "Não",
+      "confidence": 0.202
+    },
+    {
+      "start": 711.39,
+      "end": 711.89,
+      "text": "come!",
+      "confidence": 0.925
+    }
+  ]
+}

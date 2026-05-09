@@ -1,0 +1,15 @@
+{
+  "source_file": "VOR20260508101747_0805_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:00": "Não!"
+  },
+  "words": [
+    {
+      "start": 0.55,
+      "end": 0.75,
+      "text": "Não!"
+    }
+  ]
+}

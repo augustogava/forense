@@ -1,0 +1,18 @@
+{
+  "source_file": "VOR20260505101552_2215_part002_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:00": "nos vídeos.",
+    "00:01:55,00:01:57": "Cartema!",
+    "00:10:14,00:10:24": "What the fuck؟",
+    "00:25:10,00:25:12": "assédio, assédio",
+    "00:25:19,00:25:20": "aaargh!",
+    "00:36:07,00:36:10": "도xa",
+    "00:50:14,00:50:14": "Música de encerramento"
+  },
+  "explicit_segments": {
+    "00:25:10,00:25:12": "assédio, assédio"
+  },
+  "explicit_count": 1
+}

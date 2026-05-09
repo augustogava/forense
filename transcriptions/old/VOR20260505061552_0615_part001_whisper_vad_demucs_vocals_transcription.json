@@ -1,0 +1,38 @@
+{
+  "source_file": "VOR20260505061552_0615_part001_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:01": "dedos, dedos, dedos,",
+    "00:08:35,00:08:38": "dedos, dedos, dedos, dedos,",
+    "00:12:20,00:12:20": "dedos,",
+    "00:13:47,00:13:47": "dedos,",
+    "00:19:41,00:19:43": "goza, dedos,",
+    "00:22:13,00:22:14": "dedos,",
+    "00:29:28,00:29:29": "dedos, dedos, dedos,",
+    "00:29:44,00:29:44": "dedos, dedos, dedos,",
+    "00:44:11,00:44:13": "dedos, dedos, dedos, dedos,",
+    "00:46:49,00:46:51": "dedos, dedos, dedos, dedos,",
+    "00:49:21,00:49:22": "dedos, dedos, dedos,",
+    "01:10:13,01:10:14": "dedos, dedos, dedos,",
+    "01:25:59,01:26:00": "igual, meu Deus.",
+    "01:29:53,01:29:54": "Não pode dizer muito isso, né?",
+    "01:29:57,01:29:58": "dedos,"
+  },
+  "explicit_segments": {
+    "00:00:00,00:00:01": "dedos, dedos, dedos,",
+    "00:08:35,00:08:38": "dedos, dedos, dedos, dedos,",
+    "00:12:20,00:12:20": "dedos,",
+    "00:13:47,00:13:47": "dedos,",
+    "00:19:41,00:19:43": "goza, dedos,",
+    "00:22:13,00:22:14": "dedos,",
+    "00:29:28,00:29:29": "dedos, dedos, dedos,",
+    "00:29:44,00:29:44": "dedos, dedos, dedos,",
+    "00:44:11,00:44:13": "dedos, dedos, dedos, dedos,",
+    "00:46:49,00:46:51": "dedos, dedos, dedos, dedos,",
+    "00:49:21,00:49:22": "dedos, dedos, dedos,",
+    "01:10:13,01:10:14": "dedos, dedos, dedos,",
+    "01:29:57,01:29:58": "dedos,"
+  },
+  "explicit_count": 13
+}

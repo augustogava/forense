@@ -1,0 +1,186 @@
+{
+  "source_file": "VOR20260508091745_0805_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:04:02,00:24:35": "A organização tem que ser de mão dupla. Você não pode liberar de forma unilateral, abrindo as suas, reduzindo as suas tarifas, sem ter em reciprocidade um movimento.",
+    "00:25:25,00:25:26": "Música"
+  },
+  "hallucinations_filtered": 1,
+  "words": [
+    {
+      "start": 242.41,
+      "end": 244.27,
+      "text": "A",
+      "confidence": 0.084
+    },
+    {
+      "start": 259.83,
+      "end": 260.82,
+      "text": "organização",
+      "confidence": 0.39
+    },
+    {
+      "start": 1462.11,
+      "end": 1463.25,
+      "text": "tem",
+      "confidence": 0.623
+    },
+    {
+      "start": 1463.25,
+      "end": 1463.45,
+      "text": "que",
+      "confidence": 0.854
+    },
+    {
+      "start": 1463.45,
+      "end": 1463.61,
+      "text": "ser",
+      "confidence": 0.99
+    },
+    {
+      "start": 1463.61,
+      "end": 1463.71,
+      "text": "de",
+      "confidence": 0.982
+    },
+    {
+      "start": 1463.71,
+      "end": 1463.87,
+      "text": "mão",
+      "confidence": 0.666
+    },
+    {
+      "start": 1463.87,
+      "end": 1464.23,
+      "text": "dupla.",
+      "confidence": 1.0
+    },
+    {
+      "start": 1464.37,
+      "end": 1464.77,
+      "text": "Você",
+      "confidence": 0.685
+    },
+    {
+      "start": 1464.77,
+      "end": 1464.89,
+      "text": "não",
+      "confidence": 0.993
+    },
+    {
+      "start": 1464.89,
+      "end": 1465.15,
+      "text": "pode",
+      "confidence": 0.986
+    },
+    {
+      "start": 1465.15,
+      "end": 1465.77,
+      "text": "liberar",
+      "confidence": 0.833
+    },
+    {
+      "start": 1465.77,
+      "end": 1465.91,
+      "text": "de",
+      "confidence": 0.917
+    },
+    {
+      "start": 1465.91,
+      "end": 1466.37,
+      "text": "forma",
+      "confidence": 0.983
+    },
+    {
+      "start": 1466.37,
+      "end": 1468.29,
+      "text": "unilateral,",
+      "confidence": 0.989
+    },
+    {
+      "start": 1468.65,
+      "end": 1469.59,
+      "text": "abrindo",
+      "confidence": 0.885
+    },
+    {
+      "start": 1469.59,
+      "end": 1469.71,
+      "text": "as",
+      "confidence": 0.669
+    },
+    {
+      "start": 1469.71,
+      "end": 1470.05,
+      "text": "suas,",
+      "confidence": 0.994
+    },
+    {
+      "start": 1470.25,
+      "end": 1471.81,
+      "text": "reduzindo",
+      "confidence": 0.95
+    },
+    {
+      "start": 1471.81,
+      "end": 1471.93,
+      "text": "as",
+      "confidence": 0.986
+    },
+    {
+      "start": 1471.93,
+      "end": 1472.11,
+      "text": "suas",
+      "confidence": 0.997
+    },
+    {
+      "start": 1472.11,
+      "end": 1472.73,
+      "text": "tarifas,",
+      "confidence": 0.993
+    },
+    {
+      "start": 1472.75,
+      "end": 1473.35,
+      "text": "sem",
+      "confidence": 0.934
+    },
+    {
+      "start": 1473.35,
+      "end": 1473.59,
+      "text": "ter",
+      "confidence": 0.988
+    },
+    {
+      "start": 1473.59,
+      "end": 1473.79,
+      "text": "em",
+      "confidence": 0.89
+    },
+    {
+      "start": 1473.79,
+      "end": 1474.65,
+      "text": "reciprocidade",
+      "confidence": 0.999
+    },
+    {
+      "start": 1474.65,
+      "end": 1474.97,
+      "text": "um",
+      "confidence": 0.904
+    },
+    {
+      "start": 1474.97,
+      "end": 1475.47,
+      "text": "movimento.",
+      "confidence": 0.997
+    },
+    {
+      "start": 1525.23,
+      "end": 1526.39,
+      "text": "Música",
+      "confidence": 0.489
+    }
+  ]
+}

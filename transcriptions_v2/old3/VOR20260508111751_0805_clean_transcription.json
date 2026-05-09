@@ -1,0 +1,164 @@
+{
+  "source_file": "VOR20260508111751_0805_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1153.0,
+  "segments": {
+    "00:01:14,00:01:30": "Eu não entendo o canal, professora.",
+    "00:01:30,00:03:34": "Eu não entendo o canal, professora.",
+    "00:04:25,00:04:27": "O que é isso?",
+    "00:05:13,00:05:27": "É pra mim, é pra mim, é pra mim"
+  },
+  "words": [
+    {
+      "start": 74.44,
+      "end": 74.78,
+      "text": "Eu",
+      "probability": 0.073
+    },
+    {
+      "start": 74.78,
+      "end": 74.9,
+      "text": "não",
+      "probability": 0.269
+    },
+    {
+      "start": 74.9,
+      "end": 76.5,
+      "text": "entendo",
+      "probability": 0.562
+    },
+    {
+      "start": 89.14,
+      "end": 89.26,
+      "text": "o",
+      "probability": 0.565
+    },
+    {
+      "start": 89.26,
+      "end": 89.52,
+      "text": "canal,",
+      "probability": 0.695
+    },
+    {
+      "start": 89.64,
+      "end": 90.1,
+      "text": "professora.",
+      "probability": 0.57
+    },
+    {
+      "start": 90.52,
+      "end": 90.52,
+      "text": "Eu",
+      "probability": 0.126
+    },
+    {
+      "start": 90.52,
+      "end": 90.52,
+      "text": "não",
+      "probability": 0.471
+    },
+    {
+      "start": 210.42,
+      "end": 211.2,
+      "text": "entendo",
+      "probability": 0.958
+    },
+    {
+      "start": 211.2,
+      "end": 212.42,
+      "text": "o",
+      "probability": 0.674
+    },
+    {
+      "start": 213.09,
+      "end": 214.95,
+      "text": "canal,",
+      "probability": 0.896
+    },
+    {
+      "start": 214.95,
+      "end": 214.95,
+      "text": "professora.",
+      "probability": 0.997
+    },
+    {
+      "start": 265.31,
+      "end": 266.23,
+      "text": "O",
+      "probability": 0.055
+    },
+    {
+      "start": 266.23,
+      "end": 266.69,
+      "text": "que",
+      "probability": 0.369
+    },
+    {
+      "start": 266.69,
+      "end": 266.77,
+      "text": "é",
+      "probability": 0.72
+    },
+    {
+      "start": 266.77,
+      "end": 267.37,
+      "text": "isso?",
+      "probability": 0.56
+    },
+    {
+      "start": 313.1,
+      "end": 313.2,
+      "text": "É",
+      "probability": 0.084
+    },
+    {
+      "start": 313.2,
+      "end": 313.88,
+      "text": "pra",
+      "probability": 0.072
+    },
+    {
+      "start": 317.56,
+      "end": 317.92,
+      "text": "mim,",
+      "probability": 0.32
+    },
+    {
+      "start": 318.02,
+      "end": 318.26,
+      "text": "é",
+      "probability": 0.635
+    },
+    {
+      "start": 318.26,
+      "end": 318.4,
+      "text": "pra",
+      "probability": 0.736
+    },
+    {
+      "start": 318.4,
+      "end": 318.86,
+      "text": "mim,",
+      "probability": 0.936
+    },
+    {
+      "start": 318.86,
+      "end": 318.86,
+      "text": "é",
+      "probability": 0.674
+    },
+    {
+      "start": 318.86,
+      "end": 318.86,
+      "text": "pra",
+      "probability": 0.911
+    },
+    {
+      "start": 325.58,
+      "end": 327.52,
+      "text": "mim",
+      "probability": 0.987
+    }
+  ]
+}

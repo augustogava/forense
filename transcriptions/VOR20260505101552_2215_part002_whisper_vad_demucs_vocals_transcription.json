@@ -3,16 +3,10 @@
   "language": "pt",
   "model": "large-v3",
   "segments": {
-    "00:00:00,00:00:00": "nos vídeos.",
-    "00:01:55,00:01:57": "Cartema!",
-    "00:10:14,00:10:24": "What the fuck؟",
-    "00:25:10,00:25:12": "assédio, assédio",
-    "00:25:19,00:25:20": "aaargh!",
-    "00:36:07,00:36:10": "도xa",
-    "00:50:14,00:50:14": "Música de encerramento"
-  },
-  "explicit_segments": {
-    "00:25:10,00:25:12": "assédio, assédio"
-  },
-  "explicit_count": 1
+    "00:01:56,00:01:57": "Agradecimentos a todos os que participaram do programa.",
+    "00:25:10,00:25:11": "Atenção!",
+    "00:25:19,00:25:19": "Não há mais.",
+    "00:36:07,00:36:08": "Não!",
+    "00:50:14,00:50:14": "Sim!"
+  }
 }

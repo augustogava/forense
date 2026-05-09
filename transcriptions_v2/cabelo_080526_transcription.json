@@ -1,0 +1,91 @@
+{
+  "source_file": "cabelo_080526.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 657.1,
+  "segments": {
+    "00:00:56,00:00:57": "Não, eu fiz o rock.",
+    "00:02:46,00:03:31": "Tchau, tchau.",
+    "00:10:45,00:10:47": "O que é que é isso?"
+  },
+  "words": [
+    {
+      "start": 56.88,
+      "end": 57.32,
+      "text": "Não,",
+      "probability": 0.027
+    },
+    {
+      "start": 57.32,
+      "end": 57.42,
+      "text": "eu",
+      "probability": 0.534
+    },
+    {
+      "start": 57.42,
+      "end": 57.6,
+      "text": "fiz",
+      "probability": 0.599
+    },
+    {
+      "start": 57.6,
+      "end": 57.66,
+      "text": "o",
+      "probability": 0.328
+    },
+    {
+      "start": 57.66,
+      "end": 57.92,
+      "text": "rock.",
+      "probability": 0.575
+    },
+    {
+      "start": 166.02,
+      "end": 167.42,
+      "text": "Tchau,",
+      "probability": 0.167
+    },
+    {
+      "start": 211.03,
+      "end": 211.35,
+      "text": "tchau.",
+      "probability": 0.901
+    },
+    {
+      "start": 645.87,
+      "end": 646.15,
+      "text": "O",
+      "probability": 0.043
+    },
+    {
+      "start": 646.15,
+      "end": 646.45,
+      "text": "que",
+      "probability": 0.498
+    },
+    {
+      "start": 646.45,
+      "end": 646.81,
+      "text": "é",
+      "probability": 0.666
+    },
+    {
+      "start": 646.81,
+      "end": 646.89,
+      "text": "que",
+      "probability": 0.278
+    },
+    {
+      "start": 646.89,
+      "end": 647.09,
+      "text": "é",
+      "probability": 0.25
+    },
+    {
+      "start": 647.09,
+      "end": 647.33,
+      "text": "isso?",
+      "probability": 0.59
+    }
+  ]
+}

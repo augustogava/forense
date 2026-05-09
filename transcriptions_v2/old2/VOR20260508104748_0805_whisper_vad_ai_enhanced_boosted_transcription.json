@@ -1,0 +1,182 @@
+{
+  "source_file": "VOR20260508104748_0805_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1800.1,
+  "segments": {
+    "00:27:23,00:27:25": "Música",
+    "00:27:25,00:27:26": "Música",
+    "00:28:53,00:28:57": "A CIDADE NO BRASIL",
+    "00:29:43,00:29:59": "A luta do rei do rei, o rei do rei, o rei do rei, o rei do rei, o rei do rei."
+  },
+  "words": [
+    {
+      "start": 1643.82,
+      "end": 1645.22,
+      "text": "Música",
+      "probability": 0.064
+    },
+    {
+      "start": 1645.22,
+      "end": 1646.44,
+      "text": "Música",
+      "probability": 0.657
+    },
+    {
+      "start": 1733.39,
+      "end": 1734.79,
+      "text": "A",
+      "probability": 0.038
+    },
+    {
+      "start": 1735.01,
+      "end": 1736.41,
+      "text": "CIDADE",
+      "probability": 0.66
+    },
+    {
+      "start": 1737.4,
+      "end": 1737.72,
+      "text": "NO",
+      "probability": 0.977
+    },
+    {
+      "start": 1737.72,
+      "end": 1737.8,
+      "text": "BRASIL",
+      "probability": 0.942
+    },
+    {
+      "start": 1783.57,
+      "end": 1783.69,
+      "text": "A",
+      "probability": 0.07
+    },
+    {
+      "start": 1783.69,
+      "end": 1784.15,
+      "text": "luta",
+      "probability": 0.543
+    },
+    {
+      "start": 1784.15,
+      "end": 1784.41,
+      "text": "do",
+      "probability": 0.544
+    },
+    {
+      "start": 1784.41,
+      "end": 1784.85,
+      "text": "rei",
+      "probability": 0.517
+    },
+    {
+      "start": 1784.85,
+      "end": 1784.91,
+      "text": "do",
+      "probability": 0.112
+    },
+    {
+      "start": 1784.91,
+      "end": 1785.67,
+      "text": "rei,",
+      "probability": 0.598
+    },
+    {
+      "start": 1785.69,
+      "end": 1785.97,
+      "text": "o",
+      "probability": 0.086
+    },
+    {
+      "start": 1785.97,
+      "end": 1785.97,
+      "text": "rei",
+      "probability": 0.96
+    },
+    {
+      "start": 1785.97,
+      "end": 1785.97,
+      "text": "do",
+      "probability": 0.526
+    },
+    {
+      "start": 1785.97,
+      "end": 1786.31,
+      "text": "rei,",
+      "probability": 0.998
+    },
+    {
+      "start": 1786.31,
+      "end": 1786.45,
+      "text": "o",
+      "probability": 0.738
+    },
+    {
+      "start": 1786.45,
+      "end": 1786.83,
+      "text": "rei",
+      "probability": 0.995
+    },
+    {
+      "start": 1786.83,
+      "end": 1787.03,
+      "text": "do",
+      "probability": 0.931
+    },
+    {
+      "start": 1787.03,
+      "end": 1787.33,
+      "text": "rei,",
+      "probability": 1.0
+    },
+    {
+      "start": 1787.37,
+      "end": 1787.65,
+      "text": "o",
+      "probability": 0.961
+    },
+    {
+      "start": 1787.65,
+      "end": 1787.95,
+      "text": "rei",
+      "probability": 1.0
+    },
+    {
+      "start": 1787.95,
+      "end": 1788.27,
+      "text": "do",
+      "probability": 0.955
+    },
+    {
+      "start": 1788.27,
+      "end": 1788.87,
+      "text": "rei,",
+      "probability": 1.0
+    },
+    {
+      "start": 1788.87,
+      "end": 1789.11,
+      "text": "o",
+      "probability": 0.946
+    },
+    {
+      "start": 1790.71,
+      "end": 1798.37,
+      "text": "rei",
+      "probability": 1.0
+    },
+    {
+      "start": 1798.37,
+      "end": 1798.53,
+      "text": "do",
+      "probability": 0.968
+    },
+    {
+      "start": 1798.53,
+      "end": 1799.31,
+      "text": "rei.",
+      "probability": 1.0
+    }
+  ]
+}

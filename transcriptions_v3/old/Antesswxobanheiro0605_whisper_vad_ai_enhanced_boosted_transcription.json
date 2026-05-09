@@ -1,0 +1,162 @@
+{
+  "source_file": "Antesswxobanheiro0605_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:32": "Acompanhe o vídeo para aprender mais sobre o que é sexo e o que é violência.",
+    "00:03:56,00:04:00": "O que é isso?",
+    "00:04:43,00:04:45": "E aí",
+    "00:04:52,00:05:09": "E aí"
+  },
+  "hallucinations_filtered": 1,
+  "explicit_segments": {
+    "00:00:00,00:00:32": "Acompanhe o vídeo para aprender mais sobre o que é sexo e o que é violência."
+  },
+  "explicit_count": 1,
+  "words": [
+    {
+      "start": 0.21,
+      "end": 2.07,
+      "text": "Acompanhe",
+      "confidence": 0.213
+    },
+    {
+      "start": 2.07,
+      "end": 2.29,
+      "text": "o",
+      "confidence": 0.271
+    },
+    {
+      "start": 2.29,
+      "end": 2.51,
+      "text": "vídeo",
+      "confidence": 0.087
+    },
+    {
+      "start": 2.51,
+      "end": 3.09,
+      "text": "para",
+      "confidence": 0.135
+    },
+    {
+      "start": 3.09,
+      "end": 3.11,
+      "text": "aprender",
+      "confidence": 0.255
+    },
+    {
+      "start": 4.17,
+      "end": 5.95,
+      "text": "mais",
+      "confidence": 0.41
+    },
+    {
+      "start": 5.95,
+      "end": 5.97,
+      "text": "sobre",
+      "confidence": 0.764
+    },
+    {
+      "start": 5.97,
+      "end": 6.33,
+      "text": "o",
+      "confidence": 0.222
+    },
+    {
+      "start": 6.33,
+      "end": 6.63,
+      "text": "que",
+      "confidence": 0.272
+    },
+    {
+      "start": 6.63,
+      "end": 7.03,
+      "text": "é",
+      "confidence": 0.453
+    },
+    {
+      "start": 7.03,
+      "end": 7.27,
+      "text": "sexo",
+      "confidence": 0.573
+    },
+    {
+      "start": 7.27,
+      "end": 7.63,
+      "text": "e",
+      "confidence": 0.291
+    },
+    {
+      "start": 7.63,
+      "end": 8.09,
+      "text": "o",
+      "confidence": 0.212
+    },
+    {
+      "start": 8.09,
+      "end": 9.01,
+      "text": "que",
+      "confidence": 0.897
+    },
+    {
+      "start": 9.01,
+      "end": 9.03,
+      "text": "é",
+      "confidence": 0.512
+    },
+    {
+      "start": 22.93,
+      "end": 32.05,
+      "text": "violência.",
+      "confidence": 0.859
+    },
+    {
+      "start": 236.54,
+      "end": 239.46,
+      "text": "O",
+      "confidence": 0.056
+    },
+    {
+      "start": 239.46,
+      "end": 239.92,
+      "text": "que",
+      "confidence": 0.515
+    },
+    {
+      "start": 239.92,
+      "end": 240.02,
+      "text": "é",
+      "confidence": 0.468
+    },
+    {
+      "start": 240.02,
+      "end": 240.12,
+      "text": "isso?",
+      "confidence": 0.748
+    },
+    {
+      "start": 283.76,
+      "end": 285.6,
+      "text": "E",
+      "confidence": 0.2
+    },
+    {
+      "start": 285.6,
+      "end": 285.86,
+      "text": "aí",
+      "confidence": 0.978
+    },
+    {
+      "start": 292.0,
+      "end": 293.71,
+      "text": "E",
+      "confidence": 0.994
+    },
+    {
+      "start": 309.36,
+      "end": 309.92,
+      "text": "aí",
+      "confidence": 1.0
+    }
+  ]
+}

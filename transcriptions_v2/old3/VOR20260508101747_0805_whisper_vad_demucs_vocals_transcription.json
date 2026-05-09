@@ -1,0 +1,17 @@
+{
+  "source_file": "VOR20260508101747_0805_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1800.1,
+  "segments": {
+    "00:19:25,00:19:27": "MÚSICA"
+  },
+  "words": [
+    {
+      "start": 1165.72,
+      "end": 1167.12,
+      "text": "MÚSICA",
+      "probability": 0.534
+    }
+  ]
+}

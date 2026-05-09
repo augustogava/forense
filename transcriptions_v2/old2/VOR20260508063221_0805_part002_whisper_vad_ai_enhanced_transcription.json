@@ -1,0 +1,35 @@
+{
+  "source_file": "VOR20260508063221_0805_part002_whisper_vad_ai_enhanced.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.0,
+  "segments": {
+    "00:22:33,00:22:34": "Atenção, é um caminhão."
+  },
+  "words": [
+    {
+      "start": 1353.65,
+      "end": 1353.97,
+      "text": "Atenção,",
+      "probability": 0.383
+    },
+    {
+      "start": 1353.97,
+      "end": 1353.97,
+      "text": "é",
+      "probability": 0.04
+    },
+    {
+      "start": 1353.97,
+      "end": 1354.09,
+      "text": "um",
+      "probability": 0.379
+    },
+    {
+      "start": 1354.09,
+      "end": 1354.77,
+      "text": "caminhão.",
+      "probability": 0.678
+    }
+  ]
+}

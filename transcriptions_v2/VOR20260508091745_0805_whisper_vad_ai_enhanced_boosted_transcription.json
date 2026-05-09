@@ -1,0 +1,116 @@
+{
+  "source_file": "VOR20260508091745_0805_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1800.0,
+  "segments": {
+    "00:28:22,00:28:23": "Tchau.",
+    "00:28:25,00:28:28": "O que é que você está fazendo?",
+    "00:28:30,00:28:35": "O que é que você está fazendo?",
+    "00:29:47,00:29:49": "Tchau, tchau."
+  },
+  "words": [
+    {
+      "start": 1702.44,
+      "end": 1703.84,
+      "text": "Tchau.",
+      "probability": 0.551
+    },
+    {
+      "start": 1705.88,
+      "end": 1706.08,
+      "text": "O",
+      "probability": 0.048
+    },
+    {
+      "start": 1706.08,
+      "end": 1706.24,
+      "text": "que",
+      "probability": 0.707
+    },
+    {
+      "start": 1706.24,
+      "end": 1706.34,
+      "text": "é",
+      "probability": 0.301
+    },
+    {
+      "start": 1706.34,
+      "end": 1706.52,
+      "text": "que",
+      "probability": 0.194
+    },
+    {
+      "start": 1706.52,
+      "end": 1706.68,
+      "text": "você",
+      "probability": 0.213
+    },
+    {
+      "start": 1708.05,
+      "end": 1708.31,
+      "text": "está",
+      "probability": 0.511
+    },
+    {
+      "start": 1708.31,
+      "end": 1708.69,
+      "text": "fazendo?",
+      "probability": 0.637
+    },
+    {
+      "start": 1710.79,
+      "end": 1711.31,
+      "text": "O",
+      "probability": 0.161
+    },
+    {
+      "start": 1713.97,
+      "end": 1714.49,
+      "text": "que",
+      "probability": 0.916
+    },
+    {
+      "start": 1714.49,
+      "end": 1714.67,
+      "text": "é",
+      "probability": 0.886
+    },
+    {
+      "start": 1714.67,
+      "end": 1714.67,
+      "text": "que",
+      "probability": 0.994
+    },
+    {
+      "start": 1714.67,
+      "end": 1715.13,
+      "text": "você",
+      "probability": 0.966
+    },
+    {
+      "start": 1715.13,
+      "end": 1715.35,
+      "text": "está",
+      "probability": 0.992
+    },
+    {
+      "start": 1715.35,
+      "end": 1715.73,
+      "text": "fazendo?",
+      "probability": 0.998
+    },
+    {
+      "start": 1787.15,
+      "end": 1788.55,
+      "text": "Tchau,",
+      "probability": 0.519
+    },
+    {
+      "start": 1788.55,
+      "end": 1789.95,
+      "text": "tchau.",
+      "probability": 0.936
+    }
+  ]
+}

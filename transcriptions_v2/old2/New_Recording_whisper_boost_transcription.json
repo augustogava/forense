@@ -1,0 +1,944 @@
+{
+  "source_file": "New_Recording_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 857.0,
+  "segments": {
+    "00:03:26,00:03:39": "Com milhões de toneladas da consultoria Safras e Mercado, por causa da redução do rendimento esperado para a segunda safra.",
+    "00:03:39,00:04:25": "Um plano de desenvolvimento para acelerar avanços em inteligência artificial em toda a economia industrial.",
+    "00:04:26,00:04:29": "O projeto faz parte de um novo ciclo de planejamento estratégico do país.",
+    "00:04:30,00:04:45": "A estratégia reflete a visão do governo de Xi Jinping em criar as chamadas Novas Forças Produtores e Inovação Industrial.",
+    "00:04:45,00:04:57": "A meta é reduzir a dependência de tecnologias estrangeiras e aumentar a autossuficiência tecnológica do país.",
+    "00:04:57,00:05:03": "Ao mesmo tempo, a aposta em tecnologia surge em meio a desafios econômicos estruturais,",
+    "00:05:03,00:05:09": "como o envelhecimento da população, a crise do setor imobiliário e o crescimento mais lento do continente.",
+    "00:05:29,00:08:24": "Tem cem reais de gasolina?",
+    "00:08:24,00:08:25": "Comum?",
+    "00:08:25,00:08:25": "Sim, cara.",
+    "00:08:26,00:08:26": "Sim.",
+    "00:08:26,00:11:37": "E vai nesta sexta-feira ganhar uma moeda mágica.",
+    "00:11:38,00:11:39": "Vai ter que pegar.",
+    "00:11:40,00:11:40": "Uma moeda mágica.",
+    "00:11:40,00:11:43": "Vai colocar a mão ali no balcão e vai retirar.",
+    "00:11:43,00:11:44": "Vale 200 mil."
+  },
+  "words": [
+    {
+      "start": 206.74,
+      "end": 206.88,
+      "text": "Com",
+      "probability": 0.007
+    },
+    {
+      "start": 206.88,
+      "end": 206.88,
+      "text": "milhões",
+      "probability": 0.216
+    },
+    {
+      "start": 206.88,
+      "end": 207.28,
+      "text": "de",
+      "probability": 0.999
+    },
+    {
+      "start": 207.28,
+      "end": 207.96,
+      "text": "toneladas",
+      "probability": 1.0
+    },
+    {
+      "start": 207.96,
+      "end": 208.24,
+      "text": "da",
+      "probability": 0.033
+    },
+    {
+      "start": 214.09,
+      "end": 214.93,
+      "text": "consultoria",
+      "probability": 0.979
+    },
+    {
+      "start": 214.93,
+      "end": 215.49,
+      "text": "Safras",
+      "probability": 0.797
+    },
+    {
+      "start": 215.49,
+      "end": 215.57,
+      "text": "e",
+      "probability": 0.901
+    },
+    {
+      "start": 215.57,
+      "end": 215.99,
+      "text": "Mercado,",
+      "probability": 0.942
+    },
+    {
+      "start": 216.47,
+      "end": 216.59,
+      "text": "por",
+      "probability": 0.507
+    },
+    {
+      "start": 216.59,
+      "end": 216.75,
+      "text": "causa",
+      "probability": 1.0
+    },
+    {
+      "start": 216.75,
+      "end": 216.97,
+      "text": "da",
+      "probability": 1.0
+    },
+    {
+      "start": 216.97,
+      "end": 217.55,
+      "text": "redução",
+      "probability": 1.0
+    },
+    {
+      "start": 217.55,
+      "end": 217.75,
+      "text": "do",
+      "probability": 1.0
+    },
+    {
+      "start": 217.75,
+      "end": 218.19,
+      "text": "rendimento",
+      "probability": 0.999
+    },
+    {
+      "start": 218.19,
+      "end": 218.77,
+      "text": "esperado",
+      "probability": 0.998
+    },
+    {
+      "start": 218.77,
+      "end": 218.95,
+      "text": "para",
+      "probability": 0.997
+    },
+    {
+      "start": 218.95,
+      "end": 219.03,
+      "text": "a",
+      "probability": 0.998
+    },
+    {
+      "start": 219.03,
+      "end": 219.31,
+      "text": "segunda",
+      "probability": 0.984
+    },
+    {
+      "start": 219.31,
+      "end": 219.77,
+      "text": "safra.",
+      "probability": 0.889
+    },
+    {
+      "start": 219.83,
+      "end": 219.93,
+      "text": "Um",
+      "probability": 0.788
+    },
+    {
+      "start": 259.29,
+      "end": 259.45,
+      "text": "plano",
+      "probability": 0.73
+    },
+    {
+      "start": 259.45,
+      "end": 259.67,
+      "text": "de",
+      "probability": 1.0
+    },
+    {
+      "start": 259.67,
+      "end": 260.63,
+      "text": "desenvolvimento",
+      "probability": 1.0
+    },
+    {
+      "start": 260.63,
+      "end": 260.91,
+      "text": "para",
+      "probability": 0.994
+    },
+    {
+      "start": 261.04,
+      "end": 261.58,
+      "text": "acelerar",
+      "probability": 0.862
+    },
+    {
+      "start": 261.58,
+      "end": 262.08,
+      "text": "avanços",
+      "probability": 0.998
+    },
+    {
+      "start": 262.08,
+      "end": 262.24,
+      "text": "em",
+      "probability": 0.746
+    },
+    {
+      "start": 263.78,
+      "end": 264.22,
+      "text": "inteligência",
+      "probability": 1.0
+    },
+    {
+      "start": 264.22,
+      "end": 264.54,
+      "text": "artificial",
+      "probability": 1.0
+    },
+    {
+      "start": 264.54,
+      "end": 264.94,
+      "text": "em",
+      "probability": 0.966
+    },
+    {
+      "start": 264.94,
+      "end": 265.08,
+      "text": "toda",
+      "probability": 0.999
+    },
+    {
+      "start": 265.08,
+      "end": 265.18,
+      "text": "a",
+      "probability": 0.98
+    },
+    {
+      "start": 265.18,
+      "end": 265.54,
+      "text": "economia",
+      "probability": 0.998
+    },
+    {
+      "start": 265.54,
+      "end": 265.86,
+      "text": "industrial.",
+      "probability": 1.0
+    },
+    {
+      "start": 266.14,
+      "end": 266.22,
+      "text": "O",
+      "probability": 0.259
+    },
+    {
+      "start": 266.22,
+      "end": 266.54,
+      "text": "projeto",
+      "probability": 0.997
+    },
+    {
+      "start": 266.54,
+      "end": 266.78,
+      "text": "faz",
+      "probability": 0.849
+    },
+    {
+      "start": 266.78,
+      "end": 267.14,
+      "text": "parte",
+      "probability": 0.999
+    },
+    {
+      "start": 267.14,
+      "end": 267.28,
+      "text": "de",
+      "probability": 0.668
+    },
+    {
+      "start": 267.28,
+      "end": 267.38,
+      "text": "um",
+      "probability": 0.99
+    },
+    {
+      "start": 267.38,
+      "end": 267.62,
+      "text": "novo",
+      "probability": 1.0
+    },
+    {
+      "start": 267.62,
+      "end": 268.06,
+      "text": "ciclo",
+      "probability": 0.992
+    },
+    {
+      "start": 268.06,
+      "end": 268.16,
+      "text": "de",
+      "probability": 1.0
+    },
+    {
+      "start": 268.25,
+      "end": 268.77,
+      "text": "planejamento",
+      "probability": 1.0
+    },
+    {
+      "start": 268.77,
+      "end": 269.49,
+      "text": "estratégico",
+      "probability": 1.0
+    },
+    {
+      "start": 269.49,
+      "end": 269.59,
+      "text": "do",
+      "probability": 1.0
+    },
+    {
+      "start": 269.59,
+      "end": 269.83,
+      "text": "país.",
+      "probability": 0.999
+    },
+    {
+      "start": 270.01,
+      "end": 270.17,
+      "text": "A",
+      "probability": 0.356
+    },
+    {
+      "start": 275.2,
+      "end": 275.92,
+      "text": "estratégia",
+      "probability": 0.978
+    },
+    {
+      "start": 275.92,
+      "end": 276.4,
+      "text": "reflete",
+      "probability": 0.997
+    },
+    {
+      "start": 276.4,
+      "end": 276.46,
+      "text": "a",
+      "probability": 1.0
+    },
+    {
+      "start": 276.46,
+      "end": 276.8,
+      "text": "visão",
+      "probability": 0.999
+    },
+    {
+      "start": 276.8,
+      "end": 276.98,
+      "text": "do",
+      "probability": 0.998
+    },
+    {
+      "start": 276.98,
+      "end": 277.34,
+      "text": "governo",
+      "probability": 0.999
+    },
+    {
+      "start": 277.34,
+      "end": 277.6,
+      "text": "de",
+      "probability": 0.976
+    },
+    {
+      "start": 277.6,
+      "end": 277.82,
+      "text": "Xi",
+      "probability": 0.662
+    },
+    {
+      "start": 277.82,
+      "end": 278.1,
+      "text": "Jinping",
+      "probability": 0.999
+    },
+    {
+      "start": 278.1,
+      "end": 278.46,
+      "text": "em",
+      "probability": 0.929
+    },
+    {
+      "start": 278.62,
+      "end": 279.0,
+      "text": "criar",
+      "probability": 1.0
+    },
+    {
+      "start": 279.0,
+      "end": 279.18,
+      "text": "as",
+      "probability": 0.997
+    },
+    {
+      "start": 279.18,
+      "end": 279.64,
+      "text": "chamadas",
+      "probability": 0.997
+    },
+    {
+      "start": 279.64,
+      "end": 280.36,
+      "text": "Novas",
+      "probability": 0.722
+    },
+    {
+      "start": 280.36,
+      "end": 280.8,
+      "text": "Forças",
+      "probability": 0.957
+    },
+    {
+      "start": 283.96,
+      "end": 284.66,
+      "text": "Produtores",
+      "probability": 0.981
+    },
+    {
+      "start": 284.66,
+      "end": 284.84,
+      "text": "e",
+      "probability": 0.894
+    },
+    {
+      "start": 284.84,
+      "end": 285.44,
+      "text": "Inovação",
+      "probability": 0.996
+    },
+    {
+      "start": 285.44,
+      "end": 285.78,
+      "text": "Industrial.",
+      "probability": 1.0
+    },
+    {
+      "start": 285.78,
+      "end": 286.24,
+      "text": "A",
+      "probability": 0.167
+    },
+    {
+      "start": 286.24,
+      "end": 286.5,
+      "text": "meta",
+      "probability": 0.96
+    },
+    {
+      "start": 286.5,
+      "end": 286.64,
+      "text": "é",
+      "probability": 1.0
+    },
+    {
+      "start": 286.64,
+      "end": 287.14,
+      "text": "reduzir",
+      "probability": 0.999
+    },
+    {
+      "start": 287.14,
+      "end": 287.22,
+      "text": "a",
+      "probability": 0.998
+    },
+    {
+      "start": 287.22,
+      "end": 287.76,
+      "text": "dependência",
+      "probability": 1.0
+    },
+    {
+      "start": 287.76,
+      "end": 287.92,
+      "text": "de",
+      "probability": 0.987
+    },
+    {
+      "start": 287.92,
+      "end": 288.56,
+      "text": "tecnologias",
+      "probability": 1.0
+    },
+    {
+      "start": 288.56,
+      "end": 289.28,
+      "text": "estrangeiras",
+      "probability": 0.999
+    },
+    {
+      "start": 289.28,
+      "end": 289.56,
+      "text": "e",
+      "probability": 0.934
+    },
+    {
+      "start": 289.56,
+      "end": 289.8,
+      "text": "aumentar",
+      "probability": 0.997
+    },
+    {
+      "start": 295.05,
+      "end": 295.57,
+      "text": "a",
+      "probability": 1.0
+    },
+    {
+      "start": 295.57,
+      "end": 296.49,
+      "text": "autossuficiência",
+      "probability": 1.0
+    },
+    {
+      "start": 296.56,
+      "end": 297.24,
+      "text": "tecnológica",
+      "probability": 1.0
+    },
+    {
+      "start": 297.24,
+      "end": 297.36,
+      "text": "do",
+      "probability": 0.999
+    },
+    {
+      "start": 297.36,
+      "end": 297.58,
+      "text": "país.",
+      "probability": 0.999
+    },
+    {
+      "start": 297.82,
+      "end": 298.12,
+      "text": "Ao",
+      "probability": 0.999
+    },
+    {
+      "start": 298.12,
+      "end": 298.32,
+      "text": "mesmo",
+      "probability": 1.0
+    },
+    {
+      "start": 298.32,
+      "end": 298.68,
+      "text": "tempo,",
+      "probability": 1.0
+    },
+    {
+      "start": 298.9,
+      "end": 299.02,
+      "text": "a",
+      "probability": 0.999
+    },
+    {
+      "start": 299.02,
+      "end": 299.58,
+      "text": "aposta",
+      "probability": 0.974
+    },
+    {
+      "start": 299.58,
+      "end": 299.76,
+      "text": "em",
+      "probability": 0.65
+    },
+    {
+      "start": 299.76,
+      "end": 300.22,
+      "text": "tecnologia",
+      "probability": 1.0
+    },
+    {
+      "start": 300.22,
+      "end": 301.02,
+      "text": "surge",
+      "probability": 0.999
+    },
+    {
+      "start": 301.02,
+      "end": 301.28,
+      "text": "em",
+      "probability": 0.993
+    },
+    {
+      "start": 301.28,
+      "end": 301.46,
+      "text": "meio",
+      "probability": 0.997
+    },
+    {
+      "start": 301.46,
+      "end": 301.6,
+      "text": "a",
+      "probability": 0.998
+    },
+    {
+      "start": 301.6,
+      "end": 302.04,
+      "text": "desafios",
+      "probability": 0.987
+    },
+    {
+      "start": 302.04,
+      "end": 302.58,
+      "text": "econômicos",
+      "probability": 0.974
+    },
+    {
+      "start": 302.58,
+      "end": 303.52,
+      "text": "estruturais,",
+      "probability": 0.981
+    },
+    {
+      "start": 303.52,
+      "end": 303.8,
+      "text": "como",
+      "probability": 0.999
+    },
+    {
+      "start": 303.8,
+      "end": 303.92,
+      "text": "o",
+      "probability": 0.998
+    },
+    {
+      "start": 303.92,
+      "end": 304.62,
+      "text": "envelhecimento",
+      "probability": 0.948
+    },
+    {
+      "start": 304.62,
+      "end": 305.0,
+      "text": "da",
+      "probability": 1.0
+    },
+    {
+      "start": 305.0,
+      "end": 305.68,
+      "text": "população,",
+      "probability": 0.999
+    },
+    {
+      "start": 305.7,
+      "end": 305.82,
+      "text": "a",
+      "probability": 1.0
+    },
+    {
+      "start": 305.82,
+      "end": 306.24,
+      "text": "crise",
+      "probability": 1.0
+    },
+    {
+      "start": 306.24,
+      "end": 306.5,
+      "text": "do",
+      "probability": 0.996
+    },
+    {
+      "start": 306.5,
+      "end": 306.86,
+      "text": "setor",
+      "probability": 1.0
+    },
+    {
+      "start": 306.86,
+      "end": 307.5,
+      "text": "imobiliário",
+      "probability": 1.0
+    },
+    {
+      "start": 307.5,
+      "end": 307.76,
+      "text": "e",
+      "probability": 0.946
+    },
+    {
+      "start": 307.76,
+      "end": 307.78,
+      "text": "o",
+      "probability": 1.0
+    },
+    {
+      "start": 307.78,
+      "end": 308.28,
+      "text": "crescimento",
+      "probability": 1.0
+    },
+    {
+      "start": 308.28,
+      "end": 308.58,
+      "text": "mais",
+      "probability": 1.0
+    },
+    {
+      "start": 308.58,
+      "end": 309.1,
+      "text": "lento",
+      "probability": 0.959
+    },
+    {
+      "start": 309.1,
+      "end": 309.24,
+      "text": "do",
+      "probability": 0.999
+    },
+    {
+      "start": 309.24,
+      "end": 309.6,
+      "text": "continente.",
+      "probability": 0.626
+    },
+    {
+      "start": 329.08,
+      "end": 329.66,
+      "text": "Tem",
+      "probability": 0.344
+    },
+    {
+      "start": 503.67,
+      "end": 503.89,
+      "text": "cem",
+      "probability": 0.683
+    },
+    {
+      "start": 503.89,
+      "end": 504.05,
+      "text": "reais",
+      "probability": 1.0
+    },
+    {
+      "start": 504.05,
+      "end": 504.17,
+      "text": "de",
+      "probability": 0.682
+    },
+    {
+      "start": 504.17,
+      "end": 504.41,
+      "text": "gasolina?",
+      "probability": 1.0
+    },
+    {
+      "start": 504.91,
+      "end": 505.49,
+      "text": "Comum?",
+      "probability": 0.61
+    },
+    {
+      "start": 505.53,
+      "end": 505.69,
+      "text": "Sim,",
+      "probability": 0.879
+    },
+    {
+      "start": 505.77,
+      "end": 505.87,
+      "text": "cara.",
+      "probability": 0.26
+    },
+    {
+      "start": 506.05,
+      "end": 506.33,
+      "text": "Sim.",
+      "probability": 0.49
+    },
+    {
+      "start": 506.65,
+      "end": 506.97,
+      "text": "E",
+      "probability": 0.917
+    },
+    {
+      "start": 694.52,
+      "end": 694.76,
+      "text": "vai",
+      "probability": 1.0
+    },
+    {
+      "start": 694.76,
+      "end": 695.1,
+      "text": "nesta",
+      "probability": 0.858
+    },
+    {
+      "start": 695.1,
+      "end": 695.82,
+      "text": "sexta",
+      "probability": 1.0
+    },
+    {
+      "start": 695.82,
+      "end": 696.18,
+      "text": "-feira",
+      "probability": 1.0
+    },
+    {
+      "start": 696.18,
+      "end": 696.46,
+      "text": "ganhar",
+      "probability": 1.0
+    },
+    {
+      "start": 696.46,
+      "end": 696.82,
+      "text": "uma",
+      "probability": 1.0
+    },
+    {
+      "start": 696.82,
+      "end": 697.28,
+      "text": "moeda",
+      "probability": 0.999
+    },
+    {
+      "start": 697.28,
+      "end": 697.86,
+      "text": "mágica.",
+      "probability": 0.992
+    },
+    {
+      "start": 698.85,
+      "end": 699.35,
+      "text": "Vai",
+      "probability": 0.959
+    },
+    {
+      "start": 699.35,
+      "end": 699.65,
+      "text": "ter",
+      "probability": 0.988
+    },
+    {
+      "start": 699.65,
+      "end": 699.81,
+      "text": "que",
+      "probability": 1.0
+    },
+    {
+      "start": 699.81,
+      "end": 699.99,
+      "text": "pegar.",
+      "probability": 0.981
+    },
+    {
+      "start": 700.11,
+      "end": 700.11,
+      "text": "Uma",
+      "probability": 0.708
+    },
+    {
+      "start": 700.11,
+      "end": 700.43,
+      "text": "moeda",
+      "probability": 1.0
+    },
+    {
+      "start": 700.43,
+      "end": 700.77,
+      "text": "mágica.",
+      "probability": 1.0
+    },
+    {
+      "start": 700.77,
+      "end": 701.15,
+      "text": "Vai",
+      "probability": 0.218
+    },
+    {
+      "start": 701.15,
+      "end": 701.15,
+      "text": "colocar",
+      "probability": 0.951
+    },
+    {
+      "start": 701.15,
+      "end": 701.19,
+      "text": "a",
+      "probability": 0.995
+    },
+    {
+      "start": 701.19,
+      "end": 701.69,
+      "text": "mão",
+      "probability": 1.0
+    },
+    {
+      "start": 701.69,
+      "end": 701.93,
+      "text": "ali",
+      "probability": 0.989
+    },
+    {
+      "start": 701.93,
+      "end": 702.11,
+      "text": "no",
+      "probability": 0.983
+    },
+    {
+      "start": 702.11,
+      "end": 702.47,
+      "text": "balcão",
+      "probability": 0.756
+    },
+    {
+      "start": 702.47,
+      "end": 702.55,
+      "text": "e",
+      "probability": 0.973
+    },
+    {
+      "start": 702.55,
+      "end": 702.75,
+      "text": "vai",
+      "probability": 1.0
+    },
+    {
+      "start": 702.75,
+      "end": 703.31,
+      "text": "retirar.",
+      "probability": 0.995
+    },
+    {
+      "start": 703.37,
+      "end": 703.69,
+      "text": "Vale",
+      "probability": 0.733
+    },
+    {
+      "start": 703.69,
+      "end": 704.01,
+      "text": "200",
+      "probability": 0.629
+    },
+    {
+      "start": 704.01,
+      "end": 704.45,
+      "text": "mil.",
+      "probability": 0.406
+    }
+  ]
+}

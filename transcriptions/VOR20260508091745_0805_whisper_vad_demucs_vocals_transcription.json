@@ -1,0 +1,179 @@
+{
+  "source_file": "VOR20260508091745_0805_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:00": ".",
+    "00:04:02,00:04:03": ".",
+    "00:24:20,00:24:35": "A transcrição tem que ser de uma dupla. Você não pode liberar de forma unilateral, abrindo as suas, reduzindo as suas tarifas, sem ter reciprocidade no movimento.",
+    "00:24:46,00:24:47": "E aí",
+    "00:25:00,00:25:01": "E aí"
+  },
+  "words": [
+    {
+      "start": 0.03,
+      "end": 0.37,
+      "text": "."
+    },
+    {
+      "start": 242.88,
+      "end": 243.34,
+      "text": "."
+    },
+    {
+      "start": 1460.99,
+      "end": 1461.63,
+      "text": "A"
+    },
+    {
+      "start": 1461.63,
+      "end": 1462.27,
+      "text": "transcrição"
+    },
+    {
+      "start": 1462.27,
+      "end": 1463.17,
+      "text": "tem"
+    },
+    {
+      "start": 1463.17,
+      "end": 1463.49,
+      "text": "que"
+    },
+    {
+      "start": 1463.49,
+      "end": 1463.65,
+      "text": "ser"
+    },
+    {
+      "start": 1463.65,
+      "end": 1463.77,
+      "text": "de"
+    },
+    {
+      "start": 1463.77,
+      "end": 1463.81,
+      "text": "uma"
+    },
+    {
+      "start": 1463.81,
+      "end": 1464.29,
+      "text": "dupla."
+    },
+    {
+      "start": 1464.39,
+      "end": 1464.77,
+      "text": "Você"
+    },
+    {
+      "start": 1464.77,
+      "end": 1464.93,
+      "text": "não"
+    },
+    {
+      "start": 1464.93,
+      "end": 1465.15,
+      "text": "pode"
+    },
+    {
+      "start": 1465.15,
+      "end": 1465.77,
+      "text": "liberar"
+    },
+    {
+      "start": 1465.77,
+      "end": 1465.93,
+      "text": "de"
+    },
+    {
+      "start": 1465.93,
+      "end": 1466.29,
+      "text": "forma"
+    },
+    {
+      "start": 1466.29,
+      "end": 1468.39,
+      "text": "unilateral,"
+    },
+    {
+      "start": 1468.71,
+      "end": 1469.53,
+      "text": "abrindo"
+    },
+    {
+      "start": 1469.53,
+      "end": 1469.77,
+      "text": "as"
+    },
+    {
+      "start": 1469.77,
+      "end": 1470.09,
+      "text": "suas,"
+    },
+    {
+      "start": 1470.23,
+      "end": 1471.83,
+      "text": "reduzindo"
+    },
+    {
+      "start": 1471.83,
+      "end": 1471.95,
+      "text": "as"
+    },
+    {
+      "start": 1471.95,
+      "end": 1472.13,
+      "text": "suas"
+    },
+    {
+      "start": 1472.13,
+      "end": 1472.75,
+      "text": "tarifas,"
+    },
+    {
+      "start": 1472.77,
+      "end": 1473.35,
+      "text": "sem"
+    },
+    {
+      "start": 1473.35,
+      "end": 1473.61,
+      "text": "ter"
+    },
+    {
+      "start": 1473.61,
+      "end": 1474.69,
+      "text": "reciprocidade"
+    },
+    {
+      "start": 1474.69,
+      "end": 1475.01,
+      "text": "no"
+    },
+    {
+      "start": 1475.01,
+      "end": 1475.41,
+      "text": "movimento."
+    },
+    {
+      "start": 1486.55,
+      "end": 1487.09,
+      "text": "E"
+    },
+    {
+      "start": 1487.09,
+      "end": 1487.99,
+      "text": "aí"
+    },
+    {
+      "start": 1500.65,
+      "end": 1500.83,
+      "text": "E"
+    },
+    {
+      "start": 1500.83,
+      "end": 1501.21,
+      "text": "aí"
+    }
+  ]
+}

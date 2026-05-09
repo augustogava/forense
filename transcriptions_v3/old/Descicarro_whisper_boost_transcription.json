@@ -1,0 +1,350 @@
+{
+  "source_file": "Descicarro_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:02": "Não, não, Matias!",
+    "00:00:06,00:00:07": "Chutou ele!",
+    "00:00:10,00:00:10": "Não!",
+    "00:00:53,00:00:54": "Não, você vai cair, Matias.",
+    "00:00:55,00:00:56": "Vai cair daí.",
+    "00:01:26,00:01:26": "Perfeito.",
+    "00:09:50,00:09:50": "E aí",
+    "00:09:51,00:09:52": "E aí",
+    "00:13:07,00:13:07": "Não.",
+    "00:13:08,00:13:08": "Tem uma outra?",
+    "00:13:09,00:13:09": "A você não...",
+    "00:13:11,00:13:14": "Hã?",
+    "00:13:16,00:13:16": "Tem o quê?",
+    "00:13:18,00:13:18": "Por quê?",
+    "00:13:23,00:13:23": "Não.",
+    "00:13:26,00:13:26": "Não.",
+    "00:13:30,00:13:31": "Ah, beleza.",
+    "00:13:31,00:13:32": "Eu estava louco.",
+    "00:13:32,00:13:33": "Não sei, não lembro.",
+    "00:13:33,00:13:35": "Já foi?",
+    "00:13:43,00:13:44": "O que é isso?",
+    "00:13:44,00:13:44": "O que é isso?"
+  },
+  "hallucinations_filtered": 3,
+  "words": [
+    {
+      "start": 0.94,
+      "end": 1.5,
+      "text": "Não,",
+      "confidence": 0.339
+    },
+    {
+      "start": 1.68,
+      "end": 1.92,
+      "text": "não,",
+      "confidence": 0.948
+    },
+    {
+      "start": 2.04,
+      "end": 2.74,
+      "text": "Matias!",
+      "confidence": 0.805
+    },
+    {
+      "start": 6.22,
+      "end": 6.93,
+      "text": "Chutou",
+      "confidence": 0.599
+    },
+    {
+      "start": 6.93,
+      "end": 7.27,
+      "text": "ele!",
+      "confidence": 0.981
+    },
+    {
+      "start": 10.64,
+      "end": 10.92,
+      "text": "Não!",
+      "confidence": 0.989
+    },
+    {
+      "start": 53.74,
+      "end": 53.76,
+      "text": "Não,",
+      "confidence": 0.145
+    },
+    {
+      "start": 53.86,
+      "end": 54.1,
+      "text": "você",
+      "confidence": 0.813
+    },
+    {
+      "start": 54.1,
+      "end": 54.24,
+      "text": "vai",
+      "confidence": 0.983
+    },
+    {
+      "start": 54.24,
+      "end": 54.46,
+      "text": "cair,",
+      "confidence": 0.993
+    },
+    {
+      "start": 54.52,
+      "end": 54.84,
+      "text": "Matias.",
+      "confidence": 0.923
+    },
+    {
+      "start": 55.72,
+      "end": 55.84,
+      "text": "Vai",
+      "confidence": 0.758
+    },
+    {
+      "start": 55.84,
+      "end": 56.1,
+      "text": "cair",
+      "confidence": 0.998
+    },
+    {
+      "start": 56.1,
+      "end": 56.22,
+      "text": "daí.",
+      "confidence": 0.811
+    },
+    {
+      "start": 86.25,
+      "end": 86.89,
+      "text": "Perfeito.",
+      "confidence": 0.782
+    },
+    {
+      "start": 590.75,
+      "end": 590.77,
+      "text": "E",
+      "confidence": 0.461
+    },
+    {
+      "start": 590.77,
+      "end": 590.79,
+      "text": "aí",
+      "confidence": 0.968
+    },
+    {
+      "start": 591.19,
+      "end": 591.21,
+      "text": "E",
+      "confidence": 0.879
+    },
+    {
+      "start": 591.21,
+      "end": 592.11,
+      "text": "aí",
+      "confidence": 0.992
+    },
+    {
+      "start": 787.53,
+      "end": 787.83,
+      "text": "Não.",
+      "confidence": 0.466
+    },
+    {
+      "start": 788.45,
+      "end": 788.47,
+      "text": "Tem",
+      "confidence": 0.315
+    },
+    {
+      "start": 788.47,
+      "end": 788.63,
+      "text": "uma",
+      "confidence": 0.631
+    },
+    {
+      "start": 788.63,
+      "end": 788.77,
+      "text": "outra?",
+      "confidence": 0.464
+    },
+    {
+      "start": 789.09,
+      "end": 789.17,
+      "text": "A",
+      "confidence": 0.521
+    },
+    {
+      "start": 789.17,
+      "end": 789.45,
+      "text": "você",
+      "confidence": 0.699
+    },
+    {
+      "start": 789.45,
+      "end": 789.95,
+      "text": "não...",
+      "confidence": 0.986
+    },
+    {
+      "start": 791.84,
+      "end": 794.06,
+      "text": "Hã?",
+      "confidence": 0.846
+    },
+    {
+      "start": 796.28,
+      "end": 796.4,
+      "text": "Tem",
+      "confidence": 0.995
+    },
+    {
+      "start": 796.4,
+      "end": 796.5,
+      "text": "o",
+      "confidence": 0.998
+    },
+    {
+      "start": 796.5,
+      "end": 796.62,
+      "text": "quê?",
+      "confidence": 0.901
+    },
+    {
+      "start": 798.3,
+      "end": 798.44,
+      "text": "Por",
+      "confidence": 0.991
+    },
+    {
+      "start": 798.44,
+      "end": 798.62,
+      "text": "quê?",
+      "confidence": 0.979
+    },
+    {
+      "start": 803.18,
+      "end": 803.46,
+      "text": "Não.",
+      "confidence": 1.0
+    },
+    {
+      "start": 806.0,
+      "end": 806.34,
+      "text": "Não.",
+      "confidence": 1.0
+    },
+    {
+      "start": 810.97,
+      "end": 811.17,
+      "text": "Ah,",
+      "confidence": 0.619
+    },
+    {
+      "start": 811.25,
+      "end": 811.53,
+      "text": "beleza.",
+      "confidence": 0.429
+    },
+    {
+      "start": 811.61,
+      "end": 812.05,
+      "text": "Eu",
+      "confidence": 0.256
+    },
+    {
+      "start": 812.05,
+      "end": 812.51,
+      "text": "estava",
+      "confidence": 0.433
+    },
+    {
+      "start": 812.51,
+      "end": 812.95,
+      "text": "louco.",
+      "confidence": 0.982
+    },
+    {
+      "start": 812.95,
+      "end": 813.29,
+      "text": "Não",
+      "confidence": 0.774
+    },
+    {
+      "start": 813.29,
+      "end": 813.47,
+      "text": "sei,",
+      "confidence": 0.998
+    },
+    {
+      "start": 813.53,
+      "end": 813.69,
+      "text": "não",
+      "confidence": 0.997
+    },
+    {
+      "start": 813.69,
+      "end": 813.96,
+      "text": "lembro.",
+      "confidence": 0.995
+    },
+    {
+      "start": 813.96,
+      "end": 815.31,
+      "text": "Já",
+      "confidence": 0.265
+    },
+    {
+      "start": 815.31,
+      "end": 815.57,
+      "text": "foi?",
+      "confidence": 1.0
+    },
+    {
+      "start": 823.77,
+      "end": 823.79,
+      "text": "O",
+      "confidence": 0.16
+    },
+    {
+      "start": 823.79,
+      "end": 823.99,
+      "text": "que",
+      "confidence": 0.873
+    },
+    {
+      "start": 823.99,
+      "end": 824.13,
+      "text": "é",
+      "confidence": 0.625
+    },
+    {
+      "start": 824.13,
+      "end": 824.23,
+      "text": "isso?",
+      "confidence": 0.903
+    },
+    {
+      "start": 824.23,
+      "end": 824.25,
+      "text": "O",
+      "confidence": 0.315
+    },
+    {
+      "start": 824.25,
+      "end": 824.27,
+      "text": "que",
+      "confidence": 0.946
+    },
+    {
+      "start": 824.27,
+      "end": 824.29,
+      "text": "é",
+      "confidence": 0.892
+    },
+    {
+      "start": 824.29,
+      "end": 824.35,
+      "text": "isso?",
+      "confidence": 0.97
+    }
+  ]
+}

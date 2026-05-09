@@ -1,0 +1,27 @@
+{
+  "source_file": "Descer2_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:09": "o que você faz? você vai cair? você vai cair, Matias?",
+    "00:00:10,00:00:12": "vamos brincar, vem, você nem mexer",
+    "00:00:18,00:00:20": "Porra cheia deнесa",
+    "00:00:21,00:00:23": "Sim. Mas vamos lá, vamos golpear um dois dos seus lá",
+    "00:00:23,00:00:38": "Tá ai no meio",
+    "00:00:29,00:00:32": "e despeto, bém.",
+    "00:00:57,00:00:58": "foi demais",
+    "00:02:06,00:02:08": "É isso aí?",
+    "00:02:08,00:02:09": "humuhuh",
+    "00:02:09,00:02:09": "嬰",
+    "00:02:21,00:02:23": "Vou aí, operators.",
+    "00:02:23,00:02:24": "Levanta.",
+    "00:02:24,00:02:25": "Levanta.",
+    "00:02:35,00:02:37": "Desce daqui.",
+    "00:02:44,00:02:45": "na mão, velho e velhinho.",
+    "00:02:51,00:02:51": "É louco"
+  },
+  "explicit_segments": {
+    "00:00:18,00:00:20": "Porra cheia deнесa"
+  },
+  "explicit_count": 1
+}

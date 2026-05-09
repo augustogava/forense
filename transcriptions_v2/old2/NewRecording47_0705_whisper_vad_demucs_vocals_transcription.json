@@ -1,0 +1,1553 @@
+{
+  "source_file": "NewRecording47_0705_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 5097.3,
+  "segments": {
+    "00:01:28,00:06:40": "Você tá sujinho, de piscina, é melhor aguentar. Deixa eu me aguentar.",
+    "00:06:41,00:13:07": "Oi Matias, não vai ficar vendo filme?",
+    "00:13:07,00:13:15": "Vou dar banho em você, então. Você quer tomar banho com o papai?",
+    "00:13:16,00:13:17": "O que você prefere?",
+    "00:13:18,00:13:20": "Vamos lá encher a banheira?",
+    "00:13:23,00:13:24": "Vamos lá encher a banheira.",
+    "00:13:24,00:13:26": "É como um banho com o papai, você escolhe.",
+    "00:13:26,00:13:33": "Vamos encher a banheira, vamos lá então.",
+    "00:13:39,00:13:41": "Não tem essa, você tá lá na piscina, tem que tomar banho.",
+    "00:13:41,00:13:45": "Você tá na escola, na piscina, não tem essa.",
+    "00:13:45,00:13:46": "Vai numa banheira assim...",
+    "00:13:47,00:13:51": "Não funciona assim, então não vamos no Panamá.",
+    "00:13:51,00:13:53": "Eu vou pra uma banheira pra dormir.",
+    "00:13:56,00:13:59": "No caso, você ir lá naquela banheira feita de cabeça.",
+    "00:13:59,00:14:01": "Posso jogar uma feita de cabeça assim?",
+    "00:14:01,00:14:01": "Tchum!",
+    "00:14:03,00:14:03": "Tchum!",
+    "00:14:06,00:14:07": "Não!",
+    "00:15:15,00:21:49": "Quer me ajudar?",
+    "00:21:49,00:21:54": "Se você quer assistir os mínimos do Panamá.",
+    "00:21:54,00:21:56": "O que você fez aí?",
+    "00:21:57,00:21:58": "Você quer assistir os meninos aqui?",
+    "00:21:58,00:21:59": "Ai!",
+    "00:21:59,00:22:00": "Qual que é a mais dada?",
+    "00:22:00,00:22:01": "Eu vou em um colar.",
+    "00:22:12,00:22:13": "O que você quer então?",
+    "00:35:17,00:35:18": "Ele tomou TNT também?",
+    "00:41:56,00:41:57": "Chegou a camiseta da Luísa.",
+    "00:41:57,00:41:59": "Você sabe da TVC que eu vou pegar?",
+    "00:42:07,00:42:07": "Ah, mesmo?",
+    "00:42:08,00:42:08": "Eu não lembro.",
+    "00:42:09,00:42:10": "Eu não sabe, não.",
+    "00:42:10,00:42:16": "Eu tenho que ver se eu gostei.",
+    "00:42:16,00:42:17": "Se vai servir.",
+    "00:42:22,00:42:23": "Se embrulhar, hein?",
+    "00:42:23,00:42:32": "Mas vai pegar amanhã que horas?",
+    "00:44:27,00:44:28": "Foi tudo?",
+    "01:18:10,01:18:11": "E a Lara?",
+    "01:18:26,01:18:26": "E a Luna?",
+    "01:18:26,01:18:27": "Como ela tá?",
+    "01:18:27,01:19:37": "Me liga quando você chegar então.",
+    "01:19:37,01:20:24": "Então, no final de vídeo, eu vou fazer a limpeza aqui.",
+    "01:20:26,01:20:30": "Então, eu vou fazer a limpeza do dente e a limpeza do chácara de cada um."
+  },
+  "words": [
+    {
+      "start": 88.04,
+      "end": 88.4,
+      "text": "Você",
+      "probability": 0.144
+    },
+    {
+      "start": 362.42,
+      "end": 362.52,
+      "text": "tá",
+      "probability": 0.478
+    },
+    {
+      "start": 362.52,
+      "end": 363.22,
+      "text": "sujinho,",
+      "probability": 0.859
+    },
+    {
+      "start": 363.24,
+      "end": 363.36,
+      "text": "de",
+      "probability": 0.789
+    },
+    {
+      "start": 363.36,
+      "end": 363.96,
+      "text": "piscina,",
+      "probability": 0.979
+    },
+    {
+      "start": 364.0,
+      "end": 364.58,
+      "text": "é",
+      "probability": 0.415
+    },
+    {
+      "start": 398.14,
+      "end": 398.42,
+      "text": "melhor",
+      "probability": 0.971
+    },
+    {
+      "start": 398.42,
+      "end": 398.88,
+      "text": "aguentar.",
+      "probability": 0.662
+    },
+    {
+      "start": 399.34,
+      "end": 399.7,
+      "text": "Deixa",
+      "probability": 0.767
+    },
+    {
+      "start": 399.7,
+      "end": 399.84,
+      "text": "eu",
+      "probability": 0.581
+    },
+    {
+      "start": 399.84,
+      "end": 399.96,
+      "text": "me",
+      "probability": 0.668
+    },
+    {
+      "start": 399.96,
+      "end": 400.4,
+      "text": "aguentar.",
+      "probability": 0.816
+    },
+    {
+      "start": 401.06,
+      "end": 401.42,
+      "text": "Oi",
+      "probability": 0.401
+    },
+    {
+      "start": 786.35,
+      "end": 786.71,
+      "text": "Matias,",
+      "probability": 0.747
+    },
+    {
+      "start": 786.77,
+      "end": 786.85,
+      "text": "não",
+      "probability": 0.928
+    },
+    {
+      "start": 786.85,
+      "end": 786.99,
+      "text": "vai",
+      "probability": 0.959
+    },
+    {
+      "start": 786.99,
+      "end": 787.15,
+      "text": "ficar",
+      "probability": 0.912
+    },
+    {
+      "start": 787.15,
+      "end": 787.39,
+      "text": "vendo",
+      "probability": 0.628
+    },
+    {
+      "start": 787.39,
+      "end": 787.63,
+      "text": "filme?",
+      "probability": 0.454
+    },
+    {
+      "start": 787.97,
+      "end": 788.19,
+      "text": "Vou",
+      "probability": 0.259
+    },
+    {
+      "start": 793.76,
+      "end": 793.82,
+      "text": "dar",
+      "probability": 0.766
+    },
+    {
+      "start": 793.82,
+      "end": 794.06,
+      "text": "banho",
+      "probability": 0.89
+    },
+    {
+      "start": 794.06,
+      "end": 794.1,
+      "text": "em",
+      "probability": 0.862
+    },
+    {
+      "start": 794.1,
+      "end": 794.32,
+      "text": "você,",
+      "probability": 0.995
+    },
+    {
+      "start": 794.42,
+      "end": 794.6,
+      "text": "então.",
+      "probability": 0.644
+    },
+    {
+      "start": 794.62,
+      "end": 794.76,
+      "text": "Você",
+      "probability": 0.958
+    },
+    {
+      "start": 794.76,
+      "end": 794.92,
+      "text": "quer",
+      "probability": 0.997
+    },
+    {
+      "start": 794.92,
+      "end": 795.06,
+      "text": "tomar",
+      "probability": 0.925
+    },
+    {
+      "start": 795.06,
+      "end": 795.22,
+      "text": "banho",
+      "probability": 0.994
+    },
+    {
+      "start": 795.22,
+      "end": 795.3,
+      "text": "com",
+      "probability": 0.821
+    },
+    {
+      "start": 795.3,
+      "end": 795.34,
+      "text": "o",
+      "probability": 0.968
+    },
+    {
+      "start": 795.34,
+      "end": 795.56,
+      "text": "papai?",
+      "probability": 0.969
+    },
+    {
+      "start": 796.08,
+      "end": 796.44,
+      "text": "O",
+      "probability": 0.917
+    },
+    {
+      "start": 797.11,
+      "end": 797.21,
+      "text": "que",
+      "probability": 0.986
+    },
+    {
+      "start": 797.21,
+      "end": 797.35,
+      "text": "você",
+      "probability": 0.855
+    },
+    {
+      "start": 797.35,
+      "end": 797.75,
+      "text": "prefere?",
+      "probability": 0.999
+    },
+    {
+      "start": 798.87,
+      "end": 799.23,
+      "text": "Vamos",
+      "probability": 0.965
+    },
+    {
+      "start": 799.23,
+      "end": 799.37,
+      "text": "lá",
+      "probability": 0.971
+    },
+    {
+      "start": 799.37,
+      "end": 799.57,
+      "text": "encher",
+      "probability": 0.82
+    },
+    {
+      "start": 799.57,
+      "end": 799.67,
+      "text": "a",
+      "probability": 0.994
+    },
+    {
+      "start": 799.67,
+      "end": 800.03,
+      "text": "banheira?",
+      "probability": 0.999
+    },
+    {
+      "start": 803.16,
+      "end": 803.52,
+      "text": "Vamos",
+      "probability": 0.988
+    },
+    {
+      "start": 803.52,
+      "end": 803.7,
+      "text": "lá",
+      "probability": 0.95
+    },
+    {
+      "start": 803.7,
+      "end": 803.86,
+      "text": "encher",
+      "probability": 0.981
+    },
+    {
+      "start": 803.86,
+      "end": 803.94,
+      "text": "a",
+      "probability": 0.999
+    },
+    {
+      "start": 803.94,
+      "end": 804.22,
+      "text": "banheira.",
+      "probability": 0.999
+    },
+    {
+      "start": 804.62,
+      "end": 804.92,
+      "text": "É",
+      "probability": 0.837
+    },
+    {
+      "start": 804.92,
+      "end": 805.14,
+      "text": "como",
+      "probability": 0.661
+    },
+    {
+      "start": 805.14,
+      "end": 805.24,
+      "text": "um",
+      "probability": 0.28
+    },
+    {
+      "start": 805.24,
+      "end": 805.38,
+      "text": "banho",
+      "probability": 0.629
+    },
+    {
+      "start": 805.38,
+      "end": 805.5,
+      "text": "com",
+      "probability": 0.954
+    },
+    {
+      "start": 805.5,
+      "end": 805.56,
+      "text": "o",
+      "probability": 0.975
+    },
+    {
+      "start": 805.56,
+      "end": 805.82,
+      "text": "papai,",
+      "probability": 0.983
+    },
+    {
+      "start": 805.82,
+      "end": 805.94,
+      "text": "você",
+      "probability": 0.976
+    },
+    {
+      "start": 805.94,
+      "end": 806.44,
+      "text": "escolhe.",
+      "probability": 1.0
+    },
+    {
+      "start": 806.68,
+      "end": 807.04,
+      "text": "Vamos",
+      "probability": 0.708
+    },
+    {
+      "start": 808.0,
+      "end": 810.64,
+      "text": "encher",
+      "probability": 0.619
+    },
+    {
+      "start": 812.72,
+      "end": 812.78,
+      "text": "a",
+      "probability": 0.95
+    },
+    {
+      "start": 812.78,
+      "end": 813.1,
+      "text": "banheira,",
+      "probability": 0.999
+    },
+    {
+      "start": 813.14,
+      "end": 813.26,
+      "text": "vamos",
+      "probability": 0.97
+    },
+    {
+      "start": 813.26,
+      "end": 813.44,
+      "text": "lá",
+      "probability": 1.0
+    },
+    {
+      "start": 813.44,
+      "end": 813.64,
+      "text": "então.",
+      "probability": 0.828
+    },
+    {
+      "start": 819.08,
+      "end": 819.44,
+      "text": "Não",
+      "probability": 0.678
+    },
+    {
+      "start": 819.44,
+      "end": 819.62,
+      "text": "tem",
+      "probability": 0.977
+    },
+    {
+      "start": 819.62,
+      "end": 819.9,
+      "text": "essa,",
+      "probability": 0.314
+    },
+    {
+      "start": 819.92,
+      "end": 820.04,
+      "text": "você",
+      "probability": 0.6
+    },
+    {
+      "start": 820.04,
+      "end": 820.18,
+      "text": "tá",
+      "probability": 0.731
+    },
+    {
+      "start": 820.18,
+      "end": 820.26,
+      "text": "lá",
+      "probability": 0.994
+    },
+    {
+      "start": 820.26,
+      "end": 820.38,
+      "text": "na",
+      "probability": 0.998
+    },
+    {
+      "start": 820.38,
+      "end": 820.76,
+      "text": "piscina,",
+      "probability": 1.0
+    },
+    {
+      "start": 820.76,
+      "end": 820.88,
+      "text": "tem",
+      "probability": 0.854
+    },
+    {
+      "start": 820.88,
+      "end": 820.98,
+      "text": "que",
+      "probability": 0.996
+    },
+    {
+      "start": 820.98,
+      "end": 821.08,
+      "text": "tomar",
+      "probability": 0.998
+    },
+    {
+      "start": 821.08,
+      "end": 821.32,
+      "text": "banho.",
+      "probability": 0.96
+    },
+    {
+      "start": 821.86,
+      "end": 822.22,
+      "text": "Você",
+      "probability": 0.288
+    },
+    {
+      "start": 822.76,
+      "end": 822.86,
+      "text": "tá",
+      "probability": 0.686
+    },
+    {
+      "start": 822.86,
+      "end": 822.96,
+      "text": "na",
+      "probability": 0.798
+    },
+    {
+      "start": 822.96,
+      "end": 823.28,
+      "text": "escola,",
+      "probability": 0.906
+    },
+    {
+      "start": 823.36,
+      "end": 823.54,
+      "text": "na",
+      "probability": 0.771
+    },
+    {
+      "start": 823.54,
+      "end": 823.9,
+      "text": "piscina,",
+      "probability": 0.999
+    },
+    {
+      "start": 823.94,
+      "end": 824.58,
+      "text": "não",
+      "probability": 0.995
+    },
+    {
+      "start": 824.58,
+      "end": 824.82,
+      "text": "tem",
+      "probability": 0.99
+    },
+    {
+      "start": 824.82,
+      "end": 825.16,
+      "text": "essa.",
+      "probability": 0.999
+    },
+    {
+      "start": 825.16,
+      "end": 825.64,
+      "text": "Vai",
+      "probability": 0.101
+    },
+    {
+      "start": 825.64,
+      "end": 825.88,
+      "text": "numa",
+      "probability": 0.061
+    },
+    {
+      "start": 825.88,
+      "end": 826.38,
+      "text": "banheira",
+      "probability": 0.654
+    },
+    {
+      "start": 826.38,
+      "end": 826.48,
+      "text": "assim...",
+      "probability": 0.161
+    },
+    {
+      "start": 827.16,
+      "end": 827.4,
+      "text": "Não",
+      "probability": 0.188
+    },
+    {
+      "start": 829.64,
+      "end": 830.04,
+      "text": "funciona",
+      "probability": 0.577
+    },
+    {
+      "start": 830.04,
+      "end": 830.44,
+      "text": "assim,",
+      "probability": 0.4
+    },
+    {
+      "start": 830.46,
+      "end": 830.62,
+      "text": "então",
+      "probability": 0.222
+    },
+    {
+      "start": 830.62,
+      "end": 830.74,
+      "text": "não",
+      "probability": 0.59
+    },
+    {
+      "start": 830.74,
+      "end": 830.92,
+      "text": "vamos",
+      "probability": 0.208
+    },
+    {
+      "start": 830.92,
+      "end": 831.06,
+      "text": "no",
+      "probability": 0.172
+    },
+    {
+      "start": 831.06,
+      "end": 831.42,
+      "text": "Panamá.",
+      "probability": 0.729
+    },
+    {
+      "start": 831.68,
+      "end": 831.96,
+      "text": "Eu",
+      "probability": 0.153
+    },
+    {
+      "start": 832.6,
+      "end": 832.7,
+      "text": "vou",
+      "probability": 0.389
+    },
+    {
+      "start": 832.7,
+      "end": 832.82,
+      "text": "pra",
+      "probability": 0.194
+    },
+    {
+      "start": 832.82,
+      "end": 832.88,
+      "text": "uma",
+      "probability": 0.491
+    },
+    {
+      "start": 832.88,
+      "end": 833.02,
+      "text": "banheira",
+      "probability": 0.78
+    },
+    {
+      "start": 833.02,
+      "end": 833.14,
+      "text": "pra",
+      "probability": 0.912
+    },
+    {
+      "start": 833.14,
+      "end": 833.34,
+      "text": "dormir.",
+      "probability": 0.985
+    },
+    {
+      "start": 836.84,
+      "end": 837.32,
+      "text": "No",
+      "probability": 0.375
+    },
+    {
+      "start": 837.32,
+      "end": 837.52,
+      "text": "caso,",
+      "probability": 0.982
+    },
+    {
+      "start": 837.6,
+      "end": 837.9,
+      "text": "você",
+      "probability": 0.867
+    },
+    {
+      "start": 837.9,
+      "end": 838.0,
+      "text": "ir",
+      "probability": 0.185
+    },
+    {
+      "start": 838.0,
+      "end": 838.12,
+      "text": "lá",
+      "probability": 0.542
+    },
+    {
+      "start": 838.12,
+      "end": 838.32,
+      "text": "naquela",
+      "probability": 0.877
+    },
+    {
+      "start": 838.32,
+      "end": 838.72,
+      "text": "banheira",
+      "probability": 0.993
+    },
+    {
+      "start": 838.72,
+      "end": 838.96,
+      "text": "feita",
+      "probability": 0.525
+    },
+    {
+      "start": 838.96,
+      "end": 839.1,
+      "text": "de",
+      "probability": 0.99
+    },
+    {
+      "start": 839.1,
+      "end": 839.56,
+      "text": "cabeça.",
+      "probability": 0.967
+    },
+    {
+      "start": 839.82,
+      "end": 840.3,
+      "text": "Posso",
+      "probability": 0.7
+    },
+    {
+      "start": 840.3,
+      "end": 840.5,
+      "text": "jogar",
+      "probability": 0.784
+    },
+    {
+      "start": 840.5,
+      "end": 840.66,
+      "text": "uma",
+      "probability": 0.131
+    },
+    {
+      "start": 840.66,
+      "end": 840.76,
+      "text": "feita",
+      "probability": 0.706
+    },
+    {
+      "start": 840.79,
+      "end": 840.95,
+      "text": "de",
+      "probability": 0.987
+    },
+    {
+      "start": 840.95,
+      "end": 841.25,
+      "text": "cabeça",
+      "probability": 0.999
+    },
+    {
+      "start": 841.25,
+      "end": 841.53,
+      "text": "assim?",
+      "probability": 0.799
+    },
+    {
+      "start": 841.73,
+      "end": 841.95,
+      "text": "Tchum!",
+      "probability": 0.635
+    },
+    {
+      "start": 843.27,
+      "end": 843.75,
+      "text": "Tchum!",
+      "probability": 0.885
+    },
+    {
+      "start": 846.57,
+      "end": 847.05,
+      "text": "Não!",
+      "probability": 0.934
+    },
+    {
+      "start": 915.83,
+      "end": 916.31,
+      "text": "Quer",
+      "probability": 0.326
+    },
+    {
+      "start": 1308.56,
+      "end": 1309.04,
+      "text": "me",
+      "probability": 0.998
+    },
+    {
+      "start": 1309.04,
+      "end": 1309.24,
+      "text": "ajudar?",
+      "probability": 1.0
+    },
+    {
+      "start": 1309.6,
+      "end": 1309.84,
+      "text": "Se",
+      "probability": 0.529
+    },
+    {
+      "start": 1311.92,
+      "end": 1312.26,
+      "text": "você",
+      "probability": 0.99
+    },
+    {
+      "start": 1312.26,
+      "end": 1312.38,
+      "text": "quer",
+      "probability": 0.887
+    },
+    {
+      "start": 1312.38,
+      "end": 1312.68,
+      "text": "assistir",
+      "probability": 0.996
+    },
+    {
+      "start": 1312.68,
+      "end": 1313.06,
+      "text": "os",
+      "probability": 0.443
+    },
+    {
+      "start": 1313.06,
+      "end": 1313.7,
+      "text": "mínimos",
+      "probability": 0.662
+    },
+    {
+      "start": 1313.7,
+      "end": 1313.84,
+      "text": "do",
+      "probability": 0.42
+    },
+    {
+      "start": 1313.84,
+      "end": 1314.14,
+      "text": "Panamá.",
+      "probability": 0.946
+    },
+    {
+      "start": 1314.14,
+      "end": 1314.8,
+      "text": "O",
+      "probability": 0.146
+    },
+    {
+      "start": 1315.06,
+      "end": 1315.56,
+      "text": "que",
+      "probability": 0.948
+    },
+    {
+      "start": 1315.56,
+      "end": 1315.76,
+      "text": "você",
+      "probability": 0.638
+    },
+    {
+      "start": 1315.76,
+      "end": 1315.98,
+      "text": "fez",
+      "probability": 0.358
+    },
+    {
+      "start": 1315.98,
+      "end": 1316.2,
+      "text": "aí?",
+      "probability": 0.782
+    },
+    {
+      "start": 1317.01,
+      "end": 1317.33,
+      "text": "Você",
+      "probability": 0.724
+    },
+    {
+      "start": 1317.33,
+      "end": 1317.45,
+      "text": "quer",
+      "probability": 0.975
+    },
+    {
+      "start": 1317.45,
+      "end": 1317.77,
+      "text": "assistir",
+      "probability": 0.997
+    },
+    {
+      "start": 1317.77,
+      "end": 1317.97,
+      "text": "os",
+      "probability": 0.883
+    },
+    {
+      "start": 1317.97,
+      "end": 1318.23,
+      "text": "meninos",
+      "probability": 0.941
+    },
+    {
+      "start": 1318.23,
+      "end": 1318.43,
+      "text": "aqui?",
+      "probability": 0.864
+    },
+    {
+      "start": 1318.81,
+      "end": 1319.05,
+      "text": "Ai!",
+      "probability": 0.528
+    },
+    {
+      "start": 1319.35,
+      "end": 1319.75,
+      "text": "Qual",
+      "probability": 0.635
+    },
+    {
+      "start": 1319.75,
+      "end": 1319.85,
+      "text": "que",
+      "probability": 0.562
+    },
+    {
+      "start": 1319.85,
+      "end": 1319.93,
+      "text": "é",
+      "probability": 0.567
+    },
+    {
+      "start": 1319.93,
+      "end": 1319.99,
+      "text": "a",
+      "probability": 0.452
+    },
+    {
+      "start": 1319.99,
+      "end": 1320.05,
+      "text": "mais",
+      "probability": 0.651
+    },
+    {
+      "start": 1320.05,
+      "end": 1320.27,
+      "text": "dada?",
+      "probability": 0.626
+    },
+    {
+      "start": 1320.41,
+      "end": 1320.45,
+      "text": "Eu",
+      "probability": 0.861
+    },
+    {
+      "start": 1320.45,
+      "end": 1320.53,
+      "text": "vou",
+      "probability": 0.869
+    },
+    {
+      "start": 1320.53,
+      "end": 1320.63,
+      "text": "em",
+      "probability": 0.654
+    },
+    {
+      "start": 1320.63,
+      "end": 1320.73,
+      "text": "um",
+      "probability": 0.543
+    },
+    {
+      "start": 1320.73,
+      "end": 1321.15,
+      "text": "colar.",
+      "probability": 0.503
+    },
+    {
+      "start": 1332.64,
+      "end": 1333.04,
+      "text": "O",
+      "probability": 0.908
+    },
+    {
+      "start": 1333.04,
+      "end": 1333.12,
+      "text": "que",
+      "probability": 0.996
+    },
+    {
+      "start": 1333.12,
+      "end": 1333.38,
+      "text": "você",
+      "probability": 0.7
+    },
+    {
+      "start": 1333.38,
+      "end": 1333.56,
+      "text": "quer",
+      "probability": 0.998
+    },
+    {
+      "start": 1333.56,
+      "end": 1333.76,
+      "text": "então?",
+      "probability": 0.738
+    },
+    {
+      "start": 2117.19,
+      "end": 2117.59,
+      "text": "Ele",
+      "probability": 0.639
+    },
+    {
+      "start": 2117.59,
+      "end": 2117.97,
+      "text": "tomou",
+      "probability": 0.863
+    },
+    {
+      "start": 2117.97,
+      "end": 2118.29,
+      "text": "TNT",
+      "probability": 0.297
+    },
+    {
+      "start": 2118.29,
+      "end": 2118.59,
+      "text": "também?",
+      "probability": 0.611
+    },
+    {
+      "start": 2516.18,
+      "end": 2516.58,
+      "text": "Chegou",
+      "probability": 0.998
+    },
+    {
+      "start": 2516.58,
+      "end": 2516.66,
+      "text": "a",
+      "probability": 0.999
+    },
+    {
+      "start": 2516.66,
+      "end": 2517.1,
+      "text": "camiseta",
+      "probability": 0.998
+    },
+    {
+      "start": 2517.1,
+      "end": 2517.26,
+      "text": "da",
+      "probability": 0.999
+    },
+    {
+      "start": 2517.26,
+      "end": 2517.84,
+      "text": "Luísa.",
+      "probability": 0.851
+    },
+    {
+      "start": 2517.94,
+      "end": 2518.1,
+      "text": "Você",
+      "probability": 0.76
+    },
+    {
+      "start": 2518.1,
+      "end": 2518.42,
+      "text": "sabe",
+      "probability": 0.789
+    },
+    {
+      "start": 2518.42,
+      "end": 2518.6,
+      "text": "da",
+      "probability": 0.743
+    },
+    {
+      "start": 2518.6,
+      "end": 2519.0,
+      "text": "TVC",
+      "probability": 0.514
+    },
+    {
+      "start": 2519.0,
+      "end": 2519.14,
+      "text": "que",
+      "probability": 0.661
+    },
+    {
+      "start": 2519.14,
+      "end": 2519.18,
+      "text": "eu",
+      "probability": 0.954
+    },
+    {
+      "start": 2519.18,
+      "end": 2519.28,
+      "text": "vou",
+      "probability": 0.427
+    },
+    {
+      "start": 2519.28,
+      "end": 2519.42,
+      "text": "pegar?",
+      "probability": 0.998
+    },
+    {
+      "start": 2527.25,
+      "end": 2527.63,
+      "text": "Ah,",
+      "probability": 0.218
+    },
+    {
+      "start": 2527.69,
+      "end": 2527.99,
+      "text": "mesmo?",
+      "probability": 0.785
+    },
+    {
+      "start": 2528.17,
+      "end": 2528.47,
+      "text": "Eu",
+      "probability": 0.222
+    },
+    {
+      "start": 2528.47,
+      "end": 2528.59,
+      "text": "não",
+      "probability": 0.44
+    },
+    {
+      "start": 2528.59,
+      "end": 2528.79,
+      "text": "lembro.",
+      "probability": 0.761
+    },
+    {
+      "start": 2529.13,
+      "end": 2529.45,
+      "text": "Eu",
+      "probability": 0.453
+    },
+    {
+      "start": 2529.83,
+      "end": 2529.89,
+      "text": "não",
+      "probability": 0.533
+    },
+    {
+      "start": 2529.89,
+      "end": 2530.13,
+      "text": "sabe,",
+      "probability": 0.216
+    },
+    {
+      "start": 2530.21,
+      "end": 2530.33,
+      "text": "não.",
+      "probability": 0.437
+    },
+    {
+      "start": 2530.59,
+      "end": 2530.99,
+      "text": "Eu",
+      "probability": 0.909
+    },
+    {
+      "start": 2530.99,
+      "end": 2531.21,
+      "text": "tenho",
+      "probability": 0.644
+    },
+    {
+      "start": 2535.82,
+      "end": 2536.0,
+      "text": "que",
+      "probability": 0.998
+    },
+    {
+      "start": 2536.0,
+      "end": 2536.16,
+      "text": "ver",
+      "probability": 0.937
+    },
+    {
+      "start": 2536.16,
+      "end": 2536.28,
+      "text": "se",
+      "probability": 0.865
+    },
+    {
+      "start": 2536.28,
+      "end": 2536.34,
+      "text": "eu",
+      "probability": 0.855
+    },
+    {
+      "start": 2536.34,
+      "end": 2536.8,
+      "text": "gostei.",
+      "probability": 0.93
+    },
+    {
+      "start": 2536.84,
+      "end": 2536.94,
+      "text": "Se",
+      "probability": 0.979
+    },
+    {
+      "start": 2536.94,
+      "end": 2537.04,
+      "text": "vai",
+      "probability": 0.461
+    },
+    {
+      "start": 2537.04,
+      "end": 2537.3,
+      "text": "servir.",
+      "probability": 0.99
+    },
+    {
+      "start": 2542.61,
+      "end": 2543.01,
+      "text": "Se",
+      "probability": 0.73
+    },
+    {
+      "start": 2543.01,
+      "end": 2543.41,
+      "text": "embrulhar,",
+      "probability": 0.944
+    },
+    {
+      "start": 2543.43,
+      "end": 2543.59,
+      "text": "hein?",
+      "probability": 0.362
+    },
+    {
+      "start": 2543.97,
+      "end": 2544.23,
+      "text": "Mas",
+      "probability": 0.973
+    },
+    {
+      "start": 2552.1,
+      "end": 2552.22,
+      "text": "vai",
+      "probability": 0.963
+    },
+    {
+      "start": 2552.22,
+      "end": 2552.44,
+      "text": "pegar",
+      "probability": 0.947
+    },
+    {
+      "start": 2552.44,
+      "end": 2552.68,
+      "text": "amanhã",
+      "probability": 0.867
+    },
+    {
+      "start": 2552.68,
+      "end": 2552.82,
+      "text": "que",
+      "probability": 0.614
+    },
+    {
+      "start": 2552.82,
+      "end": 2552.96,
+      "text": "horas?",
+      "probability": 0.994
+    },
+    {
+      "start": 2667.64,
+      "end": 2668.04,
+      "text": "Foi",
+      "probability": 0.398
+    },
+    {
+      "start": 2668.04,
+      "end": 2668.3,
+      "text": "tudo?",
+      "probability": 0.905
+    },
+    {
+      "start": 4690.39,
+      "end": 4690.79,
+      "text": "E",
+      "probability": 0.923
+    },
+    {
+      "start": 4690.79,
+      "end": 4690.87,
+      "text": "a",
+      "probability": 0.995
+    },
+    {
+      "start": 4690.87,
+      "end": 4691.13,
+      "text": "Lara?",
+      "probability": 0.842
+    },
+    {
+      "start": 4706.04,
+      "end": 4706.44,
+      "text": "E",
+      "probability": 0.999
+    },
+    {
+      "start": 4706.44,
+      "end": 4706.54,
+      "text": "a",
+      "probability": 0.997
+    },
+    {
+      "start": 4706.54,
+      "end": 4706.72,
+      "text": "Luna?",
+      "probability": 0.995
+    },
+    {
+      "start": 4706.8,
+      "end": 4706.96,
+      "text": "Como",
+      "probability": 0.995
+    },
+    {
+      "start": 4706.96,
+      "end": 4707.1,
+      "text": "ela",
+      "probability": 0.895
+    },
+    {
+      "start": 4707.1,
+      "end": 4707.24,
+      "text": "tá?",
+      "probability": 0.626
+    },
+    {
+      "start": 4707.72,
+      "end": 4708.12,
+      "text": "Me",
+      "probability": 0.946
+    },
+    {
+      "start": 4776.09,
+      "end": 4776.37,
+      "text": "liga",
+      "probability": 0.961
+    },
+    {
+      "start": 4776.37,
+      "end": 4776.47,
+      "text": "quando",
+      "probability": 0.939
+    },
+    {
+      "start": 4776.47,
+      "end": 4776.65,
+      "text": "você",
+      "probability": 0.998
+    },
+    {
+      "start": 4776.65,
+      "end": 4776.91,
+      "text": "chegar",
+      "probability": 1.0
+    },
+    {
+      "start": 4776.91,
+      "end": 4777.09,
+      "text": "então.",
+      "probability": 0.725
+    },
+    {
+      "start": 4777.09,
+      "end": 4777.23,
+      "text": "Então,",
+      "probability": 0.111
+    },
+    {
+      "start": 4777.23,
+      "end": 4777.27,
+      "text": "no",
+      "probability": 0.24
+    },
+    {
+      "start": 4777.27,
+      "end": 4777.45,
+      "text": "final",
+      "probability": 0.184
+    },
+    {
+      "start": 4777.45,
+      "end": 4777.63,
+      "text": "de",
+      "probability": 0.507
+    },
+    {
+      "start": 4777.63,
+      "end": 4777.91,
+      "text": "vídeo,",
+      "probability": 0.983
+    },
+    {
+      "start": 4777.95,
+      "end": 4778.19,
+      "text": "eu",
+      "probability": 0.454
+    },
+    {
+      "start": 4778.19,
+      "end": 4778.47,
+      "text": "vou",
+      "probability": 0.953
+    },
+    {
+      "start": 4823.43,
+      "end": 4823.69,
+      "text": "fazer",
+      "probability": 0.981
+    },
+    {
+      "start": 4823.69,
+      "end": 4823.77,
+      "text": "a",
+      "probability": 0.611
+    },
+    {
+      "start": 4823.77,
+      "end": 4824.15,
+      "text": "limpeza",
+      "probability": 0.716
+    },
+    {
+      "start": 4824.15,
+      "end": 4824.45,
+      "text": "aqui.",
+      "probability": 0.62
+    },
+    {
+      "start": 4826.63,
+      "end": 4827.09,
+      "text": "Então,",
+      "probability": 0.654
+    },
+    {
+      "start": 4827.09,
+      "end": 4827.21,
+      "text": "eu",
+      "probability": 0.771
+    },
+    {
+      "start": 4827.21,
+      "end": 4827.23,
+      "text": "vou",
+      "probability": 0.844
+    },
+    {
+      "start": 4827.23,
+      "end": 4827.39,
+      "text": "fazer",
+      "probability": 0.998
+    },
+    {
+      "start": 4827.39,
+      "end": 4827.49,
+      "text": "a",
+      "probability": 0.998
+    },
+    {
+      "start": 4827.49,
+      "end": 4827.85,
+      "text": "limpeza",
+      "probability": 1.0
+    },
+    {
+      "start": 4827.85,
+      "end": 4827.97,
+      "text": "do",
+      "probability": 0.856
+    },
+    {
+      "start": 4827.97,
+      "end": 4828.39,
+      "text": "dente",
+      "probability": 0.891
+    },
+    {
+      "start": 4828.39,
+      "end": 4828.79,
+      "text": "e",
+      "probability": 0.78
+    },
+    {
+      "start": 4828.79,
+      "end": 4829.15,
+      "text": "a",
+      "probability": 0.991
+    },
+    {
+      "start": 4829.15,
+      "end": 4829.43,
+      "text": "limpeza",
+      "probability": 0.999
+    },
+    {
+      "start": 4829.43,
+      "end": 4829.51,
+      "text": "do",
+      "probability": 0.553
+    },
+    {
+      "start": 4829.51,
+      "end": 4829.97,
+      "text": "chácara",
+      "probability": 0.658
+    },
+    {
+      "start": 4829.97,
+      "end": 4830.05,
+      "text": "de",
+      "probability": 0.985
+    },
+    {
+      "start": 4830.05,
+      "end": 4830.25,
+      "text": "cada",
+      "probability": 1.0
+    },
+    {
+      "start": 4830.25,
+      "end": 4830.53,
+      "text": "um.",
+      "probability": 0.935
+    }
+  ]
+}

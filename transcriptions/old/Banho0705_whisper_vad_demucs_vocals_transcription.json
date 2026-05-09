@@ -1,0 +1,12 @@
+{
+  "source_file": "Banho0705_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:04": "subject yeah,ошartea, opulência, opulência controlada, opulência, jogue, répitura JAVRE know 아이�**** magic I pode dep Marthas logo voed HD1 e FX s Better9 Shaq çokusing thank you, QuackROAD. and V. Newman tá The more operar caralho, recusa. Magie e Step,"
+  },
+  "explicit_segments": {
+    "00:00:00,00:00:04": "subject yeah,ошartea, opulência, opulência controlada, opulência, jogue, répitura JAVRE know 아이�**** magic I pode dep Marthas logo voed HD1 e FX s Better9 Shaq çokusing thank you, QuackROAD. and V. Newman tá The more operar caralho, recusa. Magie e Step,"
+  },
+  "explicit_count": 1
+}

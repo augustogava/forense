@@ -3,13 +3,96 @@
   "language": "pt",
   "model": "large-v3",
   "segments": {
-    "00:00:56,00:00:57": "e gozo.",
-    "00:01:04,00:01:06": "de xavi, malteu, buceta.",
-    "00:03:49,00:03:52": "E wykonai tudo",
-    "00:38:31,00:38:49": "chuta, chuta, meu bebê, meu bebê, como está, como está, está tudo aqui, está tudo aqui, é fantástico"
+    "00:00:56,00:00:56": ".",
+    "00:01:04,00:01:05": "A gente já ouviu, e eu gostei.",
+    "00:03:49,00:03:50": "Obrigada.",
+    "00:38:43,00:38:49": "A todos aqui, a todos aqui, é fantasma."
   },
-  "explicit_segments": {
-    "00:01:04,00:01:06": "de xavi, malteu, buceta."
-  },
-  "explicit_count": 1
+  "words": [
+    {
+      "start": 56.45,
+      "end": 56.71,
+      "text": "."
+    },
+    {
+      "start": 64.1,
+      "end": 64.1,
+      "text": "A"
+    },
+    {
+      "start": 64.1,
+      "end": 64.18,
+      "text": "gente"
+    },
+    {
+      "start": 64.18,
+      "end": 64.28,
+      "text": "já"
+    },
+    {
+      "start": 64.28,
+      "end": 64.68,
+      "text": "ouviu,"
+    },
+    {
+      "start": 64.68,
+      "end": 65.02,
+      "text": "e"
+    },
+    {
+      "start": 65.02,
+      "end": 65.32,
+      "text": "eu"
+    },
+    {
+      "start": 65.32,
+      "end": 65.92,
+      "text": "gostei."
+    },
+    {
+      "start": 229.7,
+      "end": 230.08,
+      "text": "Obrigada."
+    },
+    {
+      "start": 2323.37,
+      "end": 2324.15,
+      "text": "A"
+    },
+    {
+      "start": 2324.15,
+      "end": 2324.53,
+      "text": "todos"
+    },
+    {
+      "start": 2324.53,
+      "end": 2325.09,
+      "text": "aqui,"
+    },
+    {
+      "start": 2325.35,
+      "end": 2325.99,
+      "text": "a"
+    },
+    {
+      "start": 2325.99,
+      "end": 2326.43,
+      "text": "todos"
+    },
+    {
+      "start": 2326.43,
+      "end": 2327.13,
+      "text": "aqui,"
+    },
+    {
+      "start": 2327.23,
+      "end": 2327.91,
+      "text": "é"
+    },
+    {
+      "start": 2327.91,
+      "end": 2329.21,
+      "text": "fantasma."
+    }
+  ]
 }

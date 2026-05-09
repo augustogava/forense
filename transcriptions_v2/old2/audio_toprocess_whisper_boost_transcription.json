@@ -1,0 +1,610 @@
+{
+  "source_file": "audio_toprocess_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 4769.5,
+  "segments": {
+    "00:00:10,00:00:20": "É uma coisa que eu não sei, mas é uma coisa que eu não sei.",
+    "00:00:47,00:00:52": "É melhor não fazer isso, que a autoridade aqui agora mostrou que não funciona.",
+    "00:00:52,00:00:54": "Galera, é isso aí. Espero que vocês tenham gostado.",
+    "00:00:55,00:01:02": "A gente viu toda a produção de petróleo, toda essa fábrica que é a plataforma.",
+    "00:01:02,00:01:06": "Mãe, a gente está praticamente dentro de uma cidade.",
+    "00:01:07,00:01:09": "Mais de 150 pessoas que trabalham aqui.",
+    "00:01:10,00:01:12": "A gente está com 24 horas.",
+    "00:01:12,00:01:15": "Inclusive, nós ficamos 14 dias dentro da plataforma.",
+    "00:01:37,00:01:39": "Tem hora já?",
+    "00:01:39,00:01:45": "Vai de carrinho?",
+    "00:01:49,00:01:53": "É de carrinho, Matias?",
+    "00:02:54,00:03:19": "Hum, vamos ver a natação."
+  },
+  "words": [
+    {
+      "start": 10.66,
+      "end": 11.1,
+      "text": "É",
+      "probability": 0.038
+    },
+    {
+      "start": 11.1,
+      "end": 11.5,
+      "text": "uma",
+      "probability": 0.072
+    },
+    {
+      "start": 11.5,
+      "end": 12.76,
+      "text": "coisa",
+      "probability": 0.715
+    },
+    {
+      "start": 18.36,
+      "end": 18.62,
+      "text": "que",
+      "probability": 0.833
+    },
+    {
+      "start": 18.62,
+      "end": 18.84,
+      "text": "eu",
+      "probability": 0.418
+    },
+    {
+      "start": 18.84,
+      "end": 19.0,
+      "text": "não",
+      "probability": 0.727
+    },
+    {
+      "start": 19.0,
+      "end": 19.26,
+      "text": "sei,",
+      "probability": 0.711
+    },
+    {
+      "start": 19.32,
+      "end": 19.5,
+      "text": "mas",
+      "probability": 0.365
+    },
+    {
+      "start": 19.5,
+      "end": 19.66,
+      "text": "é",
+      "probability": 0.563
+    },
+    {
+      "start": 19.66,
+      "end": 19.68,
+      "text": "uma",
+      "probability": 0.145
+    },
+    {
+      "start": 19.68,
+      "end": 19.84,
+      "text": "coisa",
+      "probability": 0.559
+    },
+    {
+      "start": 19.84,
+      "end": 20.34,
+      "text": "que",
+      "probability": 0.812
+    },
+    {
+      "start": 20.34,
+      "end": 20.54,
+      "text": "eu",
+      "probability": 0.831
+    },
+    {
+      "start": 20.54,
+      "end": 20.54,
+      "text": "não",
+      "probability": 0.672
+    },
+    {
+      "start": 20.54,
+      "end": 20.54,
+      "text": "sei.",
+      "probability": 0.945
+    },
+    {
+      "start": 47.77,
+      "end": 48.31,
+      "text": "É",
+      "probability": 0.186
+    },
+    {
+      "start": 48.31,
+      "end": 48.65,
+      "text": "melhor",
+      "probability": 0.734
+    },
+    {
+      "start": 48.65,
+      "end": 48.91,
+      "text": "não",
+      "probability": 0.924
+    },
+    {
+      "start": 48.91,
+      "end": 49.53,
+      "text": "fazer",
+      "probability": 0.541
+    },
+    {
+      "start": 49.53,
+      "end": 50.05,
+      "text": "isso,",
+      "probability": 0.977
+    },
+    {
+      "start": 50.07,
+      "end": 50.21,
+      "text": "que",
+      "probability": 0.213
+    },
+    {
+      "start": 50.21,
+      "end": 50.23,
+      "text": "a",
+      "probability": 0.719
+    },
+    {
+      "start": 50.23,
+      "end": 50.59,
+      "text": "autoridade",
+      "probability": 0.988
+    },
+    {
+      "start": 50.59,
+      "end": 50.87,
+      "text": "aqui",
+      "probability": 0.77
+    },
+    {
+      "start": 50.87,
+      "end": 51.03,
+      "text": "agora",
+      "probability": 0.875
+    },
+    {
+      "start": 51.03,
+      "end": 51.53,
+      "text": "mostrou",
+      "probability": 0.98
+    },
+    {
+      "start": 51.53,
+      "end": 51.65,
+      "text": "que",
+      "probability": 0.767
+    },
+    {
+      "start": 51.65,
+      "end": 51.81,
+      "text": "não",
+      "probability": 0.365
+    },
+    {
+      "start": 51.81,
+      "end": 52.17,
+      "text": "funciona.",
+      "probability": 0.984
+    },
+    {
+      "start": 52.65,
+      "end": 53.19,
+      "text": "Galera,",
+      "probability": 0.872
+    },
+    {
+      "start": 53.19,
+      "end": 53.29,
+      "text": "é",
+      "probability": 0.87
+    },
+    {
+      "start": 53.29,
+      "end": 53.41,
+      "text": "isso",
+      "probability": 0.998
+    },
+    {
+      "start": 53.41,
+      "end": 53.57,
+      "text": "aí.",
+      "probability": 0.934
+    },
+    {
+      "start": 53.69,
+      "end": 53.87,
+      "text": "Espero",
+      "probability": 0.892
+    },
+    {
+      "start": 53.87,
+      "end": 53.97,
+      "text": "que",
+      "probability": 0.982
+    },
+    {
+      "start": 53.97,
+      "end": 54.07,
+      "text": "vocês",
+      "probability": 0.931
+    },
+    {
+      "start": 54.07,
+      "end": 54.23,
+      "text": "tenham",
+      "probability": 0.999
+    },
+    {
+      "start": 54.23,
+      "end": 54.55,
+      "text": "gostado.",
+      "probability": 0.954
+    },
+    {
+      "start": 55.39,
+      "end": 55.59,
+      "text": "A",
+      "probability": 0.329
+    },
+    {
+      "start": 55.59,
+      "end": 56.55,
+      "text": "gente",
+      "probability": 0.947
+    },
+    {
+      "start": 56.55,
+      "end": 59.17,
+      "text": "viu",
+      "probability": 0.828
+    },
+    {
+      "start": 59.56,
+      "end": 59.86,
+      "text": "toda",
+      "probability": 0.997
+    },
+    {
+      "start": 59.86,
+      "end": 59.98,
+      "text": "a",
+      "probability": 0.994
+    },
+    {
+      "start": 59.98,
+      "end": 60.28,
+      "text": "produção",
+      "probability": 0.907
+    },
+    {
+      "start": 60.28,
+      "end": 60.62,
+      "text": "de",
+      "probability": 0.825
+    },
+    {
+      "start": 60.62,
+      "end": 61.08,
+      "text": "petróleo,",
+      "probability": 0.988
+    },
+    {
+      "start": 61.12,
+      "end": 61.26,
+      "text": "toda",
+      "probability": 0.991
+    },
+    {
+      "start": 61.26,
+      "end": 61.46,
+      "text": "essa",
+      "probability": 0.994
+    },
+    {
+      "start": 61.46,
+      "end": 62.16,
+      "text": "fábrica",
+      "probability": 0.98
+    },
+    {
+      "start": 62.16,
+      "end": 62.36,
+      "text": "que",
+      "probability": 0.389
+    },
+    {
+      "start": 62.36,
+      "end": 62.36,
+      "text": "é",
+      "probability": 0.917
+    },
+    {
+      "start": 62.36,
+      "end": 62.4,
+      "text": "a",
+      "probability": 0.931
+    },
+    {
+      "start": 62.4,
+      "end": 62.68,
+      "text": "plataforma.",
+      "probability": 0.963
+    },
+    {
+      "start": 62.92,
+      "end": 63.24,
+      "text": "Mãe,",
+      "probability": 0.751
+    },
+    {
+      "start": 63.24,
+      "end": 63.86,
+      "text": "a",
+      "probability": 0.999
+    },
+    {
+      "start": 63.86,
+      "end": 64.08,
+      "text": "gente",
+      "probability": 1.0
+    },
+    {
+      "start": 64.08,
+      "end": 64.2,
+      "text": "está",
+      "probability": 0.799
+    },
+    {
+      "start": 64.2,
+      "end": 64.5,
+      "text": "praticamente",
+      "probability": 0.999
+    },
+    {
+      "start": 64.5,
+      "end": 64.9,
+      "text": "dentro",
+      "probability": 0.682
+    },
+    {
+      "start": 64.9,
+      "end": 65.32,
+      "text": "de",
+      "probability": 0.745
+    },
+    {
+      "start": 65.32,
+      "end": 65.52,
+      "text": "uma",
+      "probability": 0.174
+    },
+    {
+      "start": 65.52,
+      "end": 66.08,
+      "text": "cidade.",
+      "probability": 0.879
+    },
+    {
+      "start": 67.04,
+      "end": 67.6,
+      "text": "Mais",
+      "probability": 0.07
+    },
+    {
+      "start": 67.6,
+      "end": 67.7,
+      "text": "de",
+      "probability": 0.985
+    },
+    {
+      "start": 67.7,
+      "end": 68.18,
+      "text": "150",
+      "probability": 0.294
+    },
+    {
+      "start": 68.18,
+      "end": 68.96,
+      "text": "pessoas",
+      "probability": 1.0
+    },
+    {
+      "start": 68.96,
+      "end": 69.14,
+      "text": "que",
+      "probability": 0.808
+    },
+    {
+      "start": 69.14,
+      "end": 69.62,
+      "text": "trabalham",
+      "probability": 1.0
+    },
+    {
+      "start": 69.62,
+      "end": 69.82,
+      "text": "aqui.",
+      "probability": 0.974
+    },
+    {
+      "start": 70.2,
+      "end": 70.48,
+      "text": "A",
+      "probability": 0.371
+    },
+    {
+      "start": 70.48,
+      "end": 70.62,
+      "text": "gente",
+      "probability": 0.938
+    },
+    {
+      "start": 70.62,
+      "end": 71.02,
+      "text": "está",
+      "probability": 0.77
+    },
+    {
+      "start": 71.02,
+      "end": 71.58,
+      "text": "com",
+      "probability": 0.476
+    },
+    {
+      "start": 71.58,
+      "end": 71.88,
+      "text": "24",
+      "probability": 0.979
+    },
+    {
+      "start": 71.88,
+      "end": 72.46,
+      "text": "horas.",
+      "probability": 0.999
+    },
+    {
+      "start": 72.6,
+      "end": 72.84,
+      "text": "Inclusive,",
+      "probability": 0.521
+    },
+    {
+      "start": 72.86,
+      "end": 73.0,
+      "text": "nós",
+      "probability": 0.126
+    },
+    {
+      "start": 73.0,
+      "end": 73.24,
+      "text": "ficamos",
+      "probability": 0.771
+    },
+    {
+      "start": 73.24,
+      "end": 73.74,
+      "text": "14",
+      "probability": 0.446
+    },
+    {
+      "start": 73.74,
+      "end": 74.44,
+      "text": "dias",
+      "probability": 1.0
+    },
+    {
+      "start": 74.44,
+      "end": 74.68,
+      "text": "dentro",
+      "probability": 0.996
+    },
+    {
+      "start": 74.68,
+      "end": 74.82,
+      "text": "da",
+      "probability": 1.0
+    },
+    {
+      "start": 74.82,
+      "end": 75.1,
+      "text": "plataforma.",
+      "probability": 0.999
+    },
+    {
+      "start": 97.21,
+      "end": 98.15,
+      "text": "Tem",
+      "probability": 0.127
+    },
+    {
+      "start": 98.15,
+      "end": 99.09,
+      "text": "hora",
+      "probability": 0.6
+    },
+    {
+      "start": 99.09,
+      "end": 99.33,
+      "text": "já?",
+      "probability": 0.91
+    },
+    {
+      "start": 99.63,
+      "end": 100.11,
+      "text": "Vai",
+      "probability": 0.368
+    },
+    {
+      "start": 102.38,
+      "end": 104.72,
+      "text": "de",
+      "probability": 0.885
+    },
+    {
+      "start": 104.72,
+      "end": 105.42,
+      "text": "carrinho?",
+      "probability": 0.825
+    },
+    {
+      "start": 109.17,
+      "end": 109.64,
+      "text": "É",
+      "probability": 0.097
+    },
+    {
+      "start": 109.64,
+      "end": 110.1,
+      "text": "de",
+      "probability": 0.911
+    },
+    {
+      "start": 110.1,
+      "end": 112.78,
+      "text": "carrinho,",
+      "probability": 0.998
+    },
+    {
+      "start": 113.05,
+      "end": 113.35,
+      "text": "Matias?",
+      "probability": 0.673
+    },
+    {
+      "start": 174.14,
+      "end": 175.18,
+      "text": "Hum,",
+      "probability": 0.134
+    },
+    {
+      "start": 196.98,
+      "end": 197.5,
+      "text": "vamos",
+      "probability": 0.427
+    },
+    {
+      "start": 197.5,
+      "end": 198.5,
+      "text": "ver",
+      "probability": 0.673
+    },
+    {
+      "start": 198.5,
+      "end": 198.56,
+      "text": "a",
+      "probability": 0.771
+    },
+    {
+      "start": 198.56,
+      "end": 199.08,
+      "text": "natação.",
+      "probability": 0.99
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "source_file": "Quartoantwsdormir0305_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 492.5,
+  "segments": {
+    "00:03:10,00:03:11": "Não tem que chorar.",
+    "00:03:11,00:03:12": "Não tem que chorar."
+  },
+  "words": [
+    {
+      "start": 190.19,
+      "end": 190.45,
+      "text": "Não",
+      "probability": 0.048
+    },
+    {
+      "start": 190.45,
+      "end": 190.61,
+      "text": "tem",
+      "probability": 0.896
+    },
+    {
+      "start": 190.61,
+      "end": 190.69,
+      "text": "que",
+      "probability": 0.478
+    },
+    {
+      "start": 190.69,
+      "end": 191.05,
+      "text": "chorar.",
+      "probability": 0.76
+    },
+    {
+      "start": 191.31,
+      "end": 191.79,
+      "text": "Não",
+      "probability": 0.133
+    },
+    {
+      "start": 192.18,
+      "end": 192.66,
+      "text": "tem",
+      "probability": 0.681
+    },
+    {
+      "start": 192.66,
+      "end": 192.82,
+      "text": "que",
+      "probability": 0.52
+    },
+    {
+      "start": 192.82,
+      "end": 192.9,
+      "text": "chorar.",
+      "probability": 0.956
+    }
+  ]
+}

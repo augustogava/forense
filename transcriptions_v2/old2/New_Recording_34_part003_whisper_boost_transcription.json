@@ -1,0 +1,29 @@
+{
+  "source_file": "New_Recording_34_part003_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.0,
+  "segments": {
+    "00:00:09,00:00:11": "Legenda Adriana Zanotto"
+  },
+  "words": [
+    {
+      "start": 9.65,
+      "end": 10.43,
+      "text": "Legenda",
+      "probability": 0.498
+    },
+    {
+      "start": 10.43,
+      "end": 10.77,
+      "text": "Adriana",
+      "probability": 0.596
+    },
+    {
+      "start": 10.77,
+      "end": 11.25,
+      "text": "Zanotto",
+      "probability": 0.999
+    }
+  ]
+}

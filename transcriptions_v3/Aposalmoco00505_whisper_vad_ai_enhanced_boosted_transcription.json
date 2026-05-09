@@ -1,0 +1,111 @@
+{
+  "source_file": "Aposalmoco00505_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:12:27,00:12:27": "Não sei.",
+    "00:12:27,00:12:31": "Não sei.",
+    "00:26:23,00:26:24": "Eu não sei o que eu vou fazer.",
+    "00:31:44,00:31:45": "E aí",
+    "00:31:45,00:31:45": "E aí"
+  },
+  "hallucinations_filtered": 3,
+  "words": [
+    {
+      "start": 747.06,
+      "end": 747.18,
+      "text": "Não",
+      "confidence": 0.217
+    },
+    {
+      "start": 747.18,
+      "end": 747.31,
+      "text": "sei.",
+      "confidence": 0.545
+    },
+    {
+      "start": 747.31,
+      "end": 748.15,
+      "text": "Não",
+      "confidence": 0.246
+    },
+    {
+      "start": 751.61,
+      "end": 751.71,
+      "text": "sei.",
+      "confidence": 0.854
+    },
+    {
+      "start": 1583.12,
+      "end": 1583.97,
+      "text": "Eu",
+      "confidence": 0.082
+    },
+    {
+      "start": 1583.97,
+      "end": 1583.99,
+      "text": "não",
+      "confidence": 0.149
+    },
+    {
+      "start": 1583.99,
+      "end": 1584.01,
+      "text": "sei",
+      "confidence": 0.213
+    },
+    {
+      "start": 1584.01,
+      "end": 1584.03,
+      "text": "o",
+      "confidence": 0.337
+    },
+    {
+      "start": 1584.03,
+      "end": 1584.05,
+      "text": "que",
+      "confidence": 0.962
+    },
+    {
+      "start": 1584.05,
+      "end": 1584.07,
+      "text": "eu",
+      "confidence": 0.401
+    },
+    {
+      "start": 1584.07,
+      "end": 1584.09,
+      "text": "vou",
+      "confidence": 0.506
+    },
+    {
+      "start": 1584.09,
+      "end": 1584.11,
+      "text": "fazer.",
+      "confidence": 0.614
+    },
+    {
+      "start": 1904.92,
+      "end": 1904.94,
+      "text": "E",
+      "confidence": 0.682
+    },
+    {
+      "start": 1904.94,
+      "end": 1905.06,
+      "text": "aí",
+      "confidence": 0.996
+    },
+    {
+      "start": 1905.06,
+      "end": 1905.08,
+      "text": "E",
+      "confidence": 0.738
+    },
+    {
+      "start": 1905.08,
+      "end": 1905.1,
+      "text": "aí",
+      "confidence": 0.998
+    }
+  ]
+}

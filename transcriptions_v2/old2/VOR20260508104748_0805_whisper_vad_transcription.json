@@ -1,0 +1,99 @@
+{
+  "source_file": "VOR20260508104748_0805_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1800.1,
+  "segments": {
+    "00:27:07,00:27:08": "Música",
+    "00:27:21,00:27:22": "O que é isso?",
+    "00:27:34,00:27:36": "Meia preta de tórax e pincel!",
+    "00:29:19,00:29:21": "Tchau.",
+    "00:29:51,00:29:53": "E aí"
+  },
+  "words": [
+    {
+      "start": 1627.19,
+      "end": 1628.59,
+      "text": "Música",
+      "probability": 0.444
+    },
+    {
+      "start": 1641.47,
+      "end": 1641.97,
+      "text": "O",
+      "probability": 0.029
+    },
+    {
+      "start": 1641.97,
+      "end": 1642.29,
+      "text": "que",
+      "probability": 0.228
+    },
+    {
+      "start": 1642.29,
+      "end": 1642.29,
+      "text": "é",
+      "probability": 0.398
+    },
+    {
+      "start": 1642.29,
+      "end": 1642.47,
+      "text": "isso?",
+      "probability": 0.221
+    },
+    {
+      "start": 1654.78,
+      "end": 1655.12,
+      "text": "Meia",
+      "probability": 0.323
+    },
+    {
+      "start": 1655.12,
+      "end": 1655.4,
+      "text": "preta",
+      "probability": 0.39
+    },
+    {
+      "start": 1655.4,
+      "end": 1655.5,
+      "text": "de",
+      "probability": 0.449
+    },
+    {
+      "start": 1655.5,
+      "end": 1655.84,
+      "text": "tórax",
+      "probability": 0.501
+    },
+    {
+      "start": 1655.84,
+      "end": 1656.1,
+      "text": "e",
+      "probability": 0.184
+    },
+    {
+      "start": 1656.1,
+      "end": 1656.36,
+      "text": "pincel!",
+      "probability": 0.57
+    },
+    {
+      "start": 1759.74,
+      "end": 1761.14,
+      "text": "Tchau.",
+      "probability": 0.493
+    },
+    {
+      "start": 1791.88,
+      "end": 1793.28,
+      "text": "E",
+      "probability": 0.186
+    },
+    {
+      "start": 1793.28,
+      "end": 1793.3,
+      "text": "aí",
+      "probability": 0.967
+    }
+  ]
+}

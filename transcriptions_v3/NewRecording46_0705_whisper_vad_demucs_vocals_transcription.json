@@ -1,0 +1,23 @@
+{
+  "source_file": "NewRecording46_0705_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:42:46,00:42:46": "E aí"
+  },
+  "hallucinations_filtered": 1,
+  "words": [
+    {
+      "start": 2566.28,
+      "end": 2566.62,
+      "text": "E",
+      "confidence": 0.22
+    },
+    {
+      "start": 2566.62,
+      "end": 2566.66,
+      "text": "aí",
+      "confidence": 0.954
+    }
+  ]
+}

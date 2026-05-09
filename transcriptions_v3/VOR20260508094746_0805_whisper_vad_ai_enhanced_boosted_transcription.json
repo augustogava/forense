@@ -1,0 +1,2976 @@
+{
+  "source_file": "VOR20260508094746_0805_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:01:00,00:01:01": "Música",
+    "00:02:00,00:02:01": "Eu não sei o que eu estou fazendo, mas eu estou me sentindo bem.",
+    "00:02:54,00:02:56": "Eu não vou conseguir mais!",
+    "00:03:05,00:03:06": "Eu não vou conseguir mais!",
+    "00:03:32,00:04:06": "A minha vida é uma música, a minha vida é uma música, a minha vida é uma música, a minha vida é uma música, a minha vida é uma música, a minha vida é uma música, a minha vida é uma música, a minha vida é uma música, a minha vida é uma música, a minha vida é uma música, a minha vida é uma música, a minha vida é uma música, a minha vida é uma música, a minha vida é uma música, a minha vida é uma música, a minha vida é uma música, a minha vida é uma música, a minha vida é uma música, a minha vida é uma música, a minha vida é uma música, a minha vida é uma música, a minha vida é uma música, a minha vida é uma música, a minha vida é uma música, a minha vida é uma música, a minha vida é uma música, a minha vida é uma música, a minha vida é uma música, a minha vida é uma música, a minha vida é uma música, a minha vida é uma música, a minha vida é uma música",
+    "00:04:06,00:04:07": "Eu te admiro e desejo",
+    "00:04:08,00:04:09": "Do aplaudido atrasar",
+    "00:04:10,00:04:11": "O fim de mim e o meu",
+    "00:04:12,00:04:14": "Eu estou de salto a vale",
+    "00:04:14,00:04:15": "O meu entorno",
+    "00:04:16,00:04:18": "Mauro Cureñas é só uma coisa",
+    "00:04:18,00:04:20": "Mas quando você nada só mora mais",
+    "00:04:20,00:04:22": "Respirei e me vi a",
+    "00:04:29,00:04:33": "A gente se prendendo a todos",
+    "00:04:33,00:04:35": "Não tem nada pra ser",
+    "00:05:45,00:05:52": "E numa hora que eu te beijei, foi melhor que eu imaginei, que eu solgasse o meu peito",
+    "00:05:55,00:06:02": "E numa hora que eu te beijei, foi melhor que eu imaginei, que eu solgasse o meu peito",
+    "00:06:02,00:06:11": "a ti, que eu fosse sempre a tua amante.",
+    "00:06:23,00:06:25": "Vem, é carambolitano ou o que foi?",
+    "00:06:25,00:06:25": "Vem!",
+    "00:06:25,00:06:27": "Óbvio que o Michel Transé",
+    "00:06:29,00:06:30": "Quando é que é só?",
+    "00:06:30,00:06:32": "Tem arena",
+    "00:06:32,00:06:35": "Eu concordo que é na hora que eu dou o meu tropeio",
+    "00:06:35,00:06:37": "Tem resultado também",
+    "00:06:37,00:06:38": "Não é geralzinho",
+    "00:06:38,00:06:40": "Eu acho que o Cidadão é praia",
+    "00:06:40,00:06:41": "Nós vamos ver",
+    "00:06:43,00:06:44": "Então galera, os que estão aí",
+    "00:06:44,00:06:45": "Manda as vangas em completo",
+    "00:06:45,00:07:18": "A gente é o 9, 9, 9, 8, 5, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 52, 53, 54, 55, 56, 57, 58, 59, 51, 52, 53, 56, 57, 58, 59, 51, 52, 53, 59, 52, 53, 59, 52, 53, 59, 52, 53, 59, 52, 53, 59, 52, 53, 59, 52, 53, 59, 52, 53, 59, 52, 53, 59, 52, 53, 59, 52, 53, 59, 52, 53",
+    "00:12:51,00:12:52": "Obrigado."
+  },
+  "hallucinations_filtered": 7,
+  "words": [
+    {
+      "start": 60.66,
+      "end": 61.68,
+      "text": "Música",
+      "confidence": 0.383
+    },
+    {
+      "start": 120.7,
+      "end": 121.6,
+      "text": "Eu",
+      "confidence": 0.074
+    },
+    {
+      "start": 121.6,
+      "end": 121.62,
+      "text": "não",
+      "confidence": 0.13
+    },
+    {
+      "start": 121.62,
+      "end": 121.72,
+      "text": "sei",
+      "confidence": 0.232
+    },
+    {
+      "start": 121.72,
+      "end": 121.74,
+      "text": "o",
+      "confidence": 0.353
+    },
+    {
+      "start": 121.74,
+      "end": 121.76,
+      "text": "que",
+      "confidence": 0.978
+    },
+    {
+      "start": 121.76,
+      "end": 121.78,
+      "text": "eu",
+      "confidence": 0.275
+    },
+    {
+      "start": 121.78,
+      "end": 121.8,
+      "text": "estou",
+      "confidence": 0.496
+    },
+    {
+      "start": 121.8,
+      "end": 121.82,
+      "text": "fazendo,",
+      "confidence": 0.345
+    },
+    {
+      "start": 121.82,
+      "end": 121.84,
+      "text": "mas",
+      "confidence": 0.355
+    },
+    {
+      "start": 121.84,
+      "end": 121.86,
+      "text": "eu",
+      "confidence": 0.55
+    },
+    {
+      "start": 121.86,
+      "end": 121.88,
+      "text": "estou",
+      "confidence": 0.581
+    },
+    {
+      "start": 121.88,
+      "end": 121.9,
+      "text": "me",
+      "confidence": 0.189
+    },
+    {
+      "start": 121.9,
+      "end": 121.92,
+      "text": "sentindo",
+      "confidence": 0.359
+    },
+    {
+      "start": 121.92,
+      "end": 121.94,
+      "text": "bem.",
+      "confidence": 0.368
+    },
+    {
+      "start": 174.77,
+      "end": 175.36,
+      "text": "Eu",
+      "confidence": 0.342
+    },
+    {
+      "start": 175.36,
+      "end": 175.48,
+      "text": "não",
+      "confidence": 0.889
+    },
+    {
+      "start": 175.48,
+      "end": 175.62,
+      "text": "vou",
+      "confidence": 0.397
+    },
+    {
+      "start": 175.62,
+      "end": 175.92,
+      "text": "conseguir",
+      "confidence": 0.974
+    },
+    {
+      "start": 175.92,
+      "end": 176.22,
+      "text": "mais!",
+      "confidence": 0.967
+    },
+    {
+      "start": 185.49,
+      "end": 186.05,
+      "text": "Eu",
+      "confidence": 0.099
+    },
+    {
+      "start": 186.05,
+      "end": 186.15,
+      "text": "não",
+      "confidence": 0.727
+    },
+    {
+      "start": 186.15,
+      "end": 186.25,
+      "text": "vou",
+      "confidence": 0.595
+    },
+    {
+      "start": 186.25,
+      "end": 186.37,
+      "text": "conseguir",
+      "confidence": 0.985
+    },
+    {
+      "start": 186.37,
+      "end": 186.81,
+      "text": "mais!",
+      "confidence": 0.949
+    },
+    {
+      "start": 212.85,
+      "end": 213.47,
+      "text": "A",
+      "confidence": 0.098
+    },
+    {
+      "start": 213.47,
+      "end": 213.69,
+      "text": "minha",
+      "confidence": 0.601
+    },
+    {
+      "start": 213.69,
+      "end": 214.19,
+      "text": "vida",
+      "confidence": 0.239
+    },
+    {
+      "start": 214.19,
+      "end": 214.49,
+      "text": "é",
+      "confidence": 0.296
+    },
+    {
+      "start": 214.49,
+      "end": 214.51,
+      "text": "uma",
+      "confidence": 0.361
+    },
+    {
+      "start": 214.51,
+      "end": 214.79,
+      "text": "música,",
+      "confidence": 0.061
+    },
+    {
+      "start": 215.05,
+      "end": 215.23,
+      "text": "a",
+      "confidence": 0.418
+    },
+    {
+      "start": 215.23,
+      "end": 215.33,
+      "text": "minha",
+      "confidence": 0.991
+    },
+    {
+      "start": 215.33,
+      "end": 215.59,
+      "text": "vida",
+      "confidence": 0.852
+    },
+    {
+      "start": 215.59,
+      "end": 215.87,
+      "text": "é",
+      "confidence": 0.861
+    },
+    {
+      "start": 215.87,
+      "end": 215.89,
+      "text": "uma",
+      "confidence": 0.77
+    },
+    {
+      "start": 215.89,
+      "end": 215.97,
+      "text": "música,",
+      "confidence": 0.981
+    },
+    {
+      "start": 216.95,
+      "end": 217.31,
+      "text": "a",
+      "confidence": 0.578
+    },
+    {
+      "start": 217.31,
+      "end": 217.51,
+      "text": "minha",
+      "confidence": 0.986
+    },
+    {
+      "start": 217.51,
+      "end": 217.71,
+      "text": "vida",
+      "confidence": 0.98
+    },
+    {
+      "start": 217.71,
+      "end": 217.77,
+      "text": "é",
+      "confidence": 0.991
+    },
+    {
+      "start": 217.77,
+      "end": 217.91,
+      "text": "uma",
+      "confidence": 0.981
+    },
+    {
+      "start": 217.91,
+      "end": 218.73,
+      "text": "música,",
+      "confidence": 0.997
+    },
+    {
+      "start": 219.05,
+      "end": 219.23,
+      "text": "a",
+      "confidence": 0.695
+    },
+    {
+      "start": 219.23,
+      "end": 219.41,
+      "text": "minha",
+      "confidence": 0.983
+    },
+    {
+      "start": 219.41,
+      "end": 219.69,
+      "text": "vida",
+      "confidence": 0.967
+    },
+    {
+      "start": 219.69,
+      "end": 219.71,
+      "text": "é",
+      "confidence": 0.993
+    },
+    {
+      "start": 219.71,
+      "end": 219.87,
+      "text": "uma",
+      "confidence": 0.979
+    },
+    {
+      "start": 219.87,
+      "end": 220.11,
+      "text": "música,",
+      "confidence": 0.998
+    },
+    {
+      "start": 220.11,
+      "end": 220.13,
+      "text": "a",
+      "confidence": 0.844
+    },
+    {
+      "start": 220.13,
+      "end": 220.15,
+      "text": "minha",
+      "confidence": 0.995
+    },
+    {
+      "start": 220.15,
+      "end": 220.17,
+      "text": "vida",
+      "confidence": 0.988
+    },
+    {
+      "start": 220.17,
+      "end": 220.19,
+      "text": "é",
+      "confidence": 0.991
+    },
+    {
+      "start": 220.19,
+      "end": 220.21,
+      "text": "uma",
+      "confidence": 0.969
+    },
+    {
+      "start": 220.21,
+      "end": 220.23,
+      "text": "música,",
+      "confidence": 0.998
+    },
+    {
+      "start": 220.23,
+      "end": 220.25,
+      "text": "a",
+      "confidence": 0.808
+    },
+    {
+      "start": 220.25,
+      "end": 220.27,
+      "text": "minha",
+      "confidence": 0.993
+    },
+    {
+      "start": 220.27,
+      "end": 220.29,
+      "text": "vida",
+      "confidence": 0.986
+    },
+    {
+      "start": 220.29,
+      "end": 220.31,
+      "text": "é",
+      "confidence": 0.986
+    },
+    {
+      "start": 220.31,
+      "end": 220.33,
+      "text": "uma",
+      "confidence": 0.946
+    },
+    {
+      "start": 220.33,
+      "end": 220.35,
+      "text": "música,",
+      "confidence": 0.998
+    },
+    {
+      "start": 220.35,
+      "end": 220.37,
+      "text": "a",
+      "confidence": 0.782
+    },
+    {
+      "start": 220.37,
+      "end": 220.39,
+      "text": "minha",
+      "confidence": 0.992
+    },
+    {
+      "start": 220.39,
+      "end": 220.57,
+      "text": "vida",
+      "confidence": 0.982
+    },
+    {
+      "start": 220.57,
+      "end": 220.85,
+      "text": "é",
+      "confidence": 0.982
+    },
+    {
+      "start": 220.85,
+      "end": 221.25,
+      "text": "uma",
+      "confidence": 0.934
+    },
+    {
+      "start": 221.25,
+      "end": 221.27,
+      "text": "música,",
+      "confidence": 0.998
+    },
+    {
+      "start": 221.27,
+      "end": 221.29,
+      "text": "a",
+      "confidence": 0.775
+    },
+    {
+      "start": 221.29,
+      "end": 221.31,
+      "text": "minha",
+      "confidence": 0.993
+    },
+    {
+      "start": 221.31,
+      "end": 221.33,
+      "text": "vida",
+      "confidence": 0.979
+    },
+    {
+      "start": 221.33,
+      "end": 221.35,
+      "text": "é",
+      "confidence": 0.977
+    },
+    {
+      "start": 221.35,
+      "end": 221.37,
+      "text": "uma",
+      "confidence": 0.938
+    },
+    {
+      "start": 221.37,
+      "end": 221.97,
+      "text": "música,",
+      "confidence": 0.998
+    },
+    {
+      "start": 221.97,
+      "end": 221.99,
+      "text": "a",
+      "confidence": 0.775
+    },
+    {
+      "start": 221.99,
+      "end": 222.01,
+      "text": "minha",
+      "confidence": 0.993
+    },
+    {
+      "start": 222.01,
+      "end": 222.03,
+      "text": "vida",
+      "confidence": 0.974
+    },
+    {
+      "start": 222.03,
+      "end": 222.05,
+      "text": "é",
+      "confidence": 0.974
+    },
+    {
+      "start": 222.05,
+      "end": 222.07,
+      "text": "uma",
+      "confidence": 0.946
+    },
+    {
+      "start": 222.07,
+      "end": 222.09,
+      "text": "música,",
+      "confidence": 0.998
+    },
+    {
+      "start": 222.09,
+      "end": 222.27,
+      "text": "a",
+      "confidence": 0.773
+    },
+    {
+      "start": 222.27,
+      "end": 222.29,
+      "text": "minha",
+      "confidence": 0.993
+    },
+    {
+      "start": 222.29,
+      "end": 222.31,
+      "text": "vida",
+      "confidence": 0.966
+    },
+    {
+      "start": 222.31,
+      "end": 222.33,
+      "text": "é",
+      "confidence": 0.972
+    },
+    {
+      "start": 222.33,
+      "end": 222.35,
+      "text": "uma",
+      "confidence": 0.953
+    },
+    {
+      "start": 222.35,
+      "end": 222.37,
+      "text": "música,",
+      "confidence": 0.998
+    },
+    {
+      "start": 222.37,
+      "end": 222.49,
+      "text": "a",
+      "confidence": 0.776
+    },
+    {
+      "start": 222.49,
+      "end": 222.51,
+      "text": "minha",
+      "confidence": 0.993
+    },
+    {
+      "start": 222.51,
+      "end": 222.69,
+      "text": "vida",
+      "confidence": 0.96
+    },
+    {
+      "start": 222.69,
+      "end": 222.71,
+      "text": "é",
+      "confidence": 0.972
+    },
+    {
+      "start": 222.71,
+      "end": 222.73,
+      "text": "uma",
+      "confidence": 0.96
+    },
+    {
+      "start": 222.73,
+      "end": 222.75,
+      "text": "música,",
+      "confidence": 0.999
+    },
+    {
+      "start": 222.75,
+      "end": 222.77,
+      "text": "a",
+      "confidence": 0.783
+    },
+    {
+      "start": 222.77,
+      "end": 222.79,
+      "text": "minha",
+      "confidence": 0.993
+    },
+    {
+      "start": 222.79,
+      "end": 222.81,
+      "text": "vida",
+      "confidence": 0.955
+    },
+    {
+      "start": 222.81,
+      "end": 222.83,
+      "text": "é",
+      "confidence": 0.973
+    },
+    {
+      "start": 222.83,
+      "end": 222.85,
+      "text": "uma",
+      "confidence": 0.965
+    },
+    {
+      "start": 222.85,
+      "end": 222.87,
+      "text": "música,",
+      "confidence": 0.999
+    },
+    {
+      "start": 222.87,
+      "end": 222.89,
+      "text": "a",
+      "confidence": 0.797
+    },
+    {
+      "start": 222.89,
+      "end": 222.91,
+      "text": "minha",
+      "confidence": 0.993
+    },
+    {
+      "start": 222.91,
+      "end": 222.93,
+      "text": "vida",
+      "confidence": 0.952
+    },
+    {
+      "start": 222.93,
+      "end": 222.95,
+      "text": "é",
+      "confidence": 0.974
+    },
+    {
+      "start": 222.95,
+      "end": 222.97,
+      "text": "uma",
+      "confidence": 0.968
+    },
+    {
+      "start": 222.97,
+      "end": 222.99,
+      "text": "música,",
+      "confidence": 0.999
+    },
+    {
+      "start": 222.99,
+      "end": 223.01,
+      "text": "a",
+      "confidence": 0.815
+    },
+    {
+      "start": 223.01,
+      "end": 223.03,
+      "text": "minha",
+      "confidence": 0.993
+    },
+    {
+      "start": 223.03,
+      "end": 223.05,
+      "text": "vida",
+      "confidence": 0.953
+    },
+    {
+      "start": 223.05,
+      "end": 223.07,
+      "text": "é",
+      "confidence": 0.975
+    },
+    {
+      "start": 223.07,
+      "end": 223.09,
+      "text": "uma",
+      "confidence": 0.971
+    },
+    {
+      "start": 223.09,
+      "end": 223.11,
+      "text": "música,",
+      "confidence": 0.999
+    },
+    {
+      "start": 223.11,
+      "end": 223.13,
+      "text": "a",
+      "confidence": 0.829
+    },
+    {
+      "start": 223.13,
+      "end": 223.15,
+      "text": "minha",
+      "confidence": 0.993
+    },
+    {
+      "start": 223.15,
+      "end": 223.17,
+      "text": "vida",
+      "confidence": 0.952
+    },
+    {
+      "start": 223.17,
+      "end": 223.19,
+      "text": "é",
+      "confidence": 0.976
+    },
+    {
+      "start": 223.19,
+      "end": 223.45,
+      "text": "uma",
+      "confidence": 0.974
+    },
+    {
+      "start": 223.45,
+      "end": 223.47,
+      "text": "música,",
+      "confidence": 0.999
+    },
+    {
+      "start": 223.47,
+      "end": 223.49,
+      "text": "a",
+      "confidence": 0.846
+    },
+    {
+      "start": 223.49,
+      "end": 223.51,
+      "text": "minha",
+      "confidence": 0.994
+    },
+    {
+      "start": 223.51,
+      "end": 223.53,
+      "text": "vida",
+      "confidence": 0.953
+    },
+    {
+      "start": 223.53,
+      "end": 223.55,
+      "text": "é",
+      "confidence": 0.977
+    },
+    {
+      "start": 223.55,
+      "end": 223.57,
+      "text": "uma",
+      "confidence": 0.975
+    },
+    {
+      "start": 223.57,
+      "end": 223.59,
+      "text": "música,",
+      "confidence": 0.999
+    },
+    {
+      "start": 223.59,
+      "end": 223.61,
+      "text": "a",
+      "confidence": 0.861
+    },
+    {
+      "start": 223.61,
+      "end": 223.63,
+      "text": "minha",
+      "confidence": 0.994
+    },
+    {
+      "start": 223.63,
+      "end": 223.65,
+      "text": "vida",
+      "confidence": 0.955
+    },
+    {
+      "start": 223.65,
+      "end": 223.67,
+      "text": "é",
+      "confidence": 0.979
+    },
+    {
+      "start": 223.67,
+      "end": 223.69,
+      "text": "uma",
+      "confidence": 0.977
+    },
+    {
+      "start": 223.69,
+      "end": 223.71,
+      "text": "música,",
+      "confidence": 0.999
+    },
+    {
+      "start": 223.71,
+      "end": 223.73,
+      "text": "a",
+      "confidence": 0.872
+    },
+    {
+      "start": 223.73,
+      "end": 223.75,
+      "text": "minha",
+      "confidence": 0.994
+    },
+    {
+      "start": 223.75,
+      "end": 223.77,
+      "text": "vida",
+      "confidence": 0.958
+    },
+    {
+      "start": 223.77,
+      "end": 223.79,
+      "text": "é",
+      "confidence": 0.98
+    },
+    {
+      "start": 223.79,
+      "end": 223.81,
+      "text": "uma",
+      "confidence": 0.977
+    },
+    {
+      "start": 223.81,
+      "end": 223.83,
+      "text": "música,",
+      "confidence": 0.999
+    },
+    {
+      "start": 223.83,
+      "end": 223.85,
+      "text": "a",
+      "confidence": 0.883
+    },
+    {
+      "start": 223.85,
+      "end": 223.87,
+      "text": "minha",
+      "confidence": 0.995
+    },
+    {
+      "start": 223.87,
+      "end": 223.89,
+      "text": "vida",
+      "confidence": 0.959
+    },
+    {
+      "start": 223.89,
+      "end": 223.91,
+      "text": "é",
+      "confidence": 0.981
+    },
+    {
+      "start": 223.91,
+      "end": 223.93,
+      "text": "uma",
+      "confidence": 0.979
+    },
+    {
+      "start": 223.93,
+      "end": 223.95,
+      "text": "música,",
+      "confidence": 0.999
+    },
+    {
+      "start": 223.95,
+      "end": 223.97,
+      "text": "a",
+      "confidence": 0.892
+    },
+    {
+      "start": 223.97,
+      "end": 223.99,
+      "text": "minha",
+      "confidence": 0.995
+    },
+    {
+      "start": 223.99,
+      "end": 224.01,
+      "text": "vida",
+      "confidence": 0.962
+    },
+    {
+      "start": 224.01,
+      "end": 224.03,
+      "text": "é",
+      "confidence": 0.982
+    },
+    {
+      "start": 224.03,
+      "end": 224.05,
+      "text": "uma",
+      "confidence": 0.98
+    },
+    {
+      "start": 224.05,
+      "end": 224.07,
+      "text": "música,",
+      "confidence": 0.999
+    },
+    {
+      "start": 224.07,
+      "end": 224.09,
+      "text": "a",
+      "confidence": 0.896
+    },
+    {
+      "start": 224.09,
+      "end": 224.11,
+      "text": "minha",
+      "confidence": 0.995
+    },
+    {
+      "start": 224.11,
+      "end": 224.13,
+      "text": "vida",
+      "confidence": 0.964
+    },
+    {
+      "start": 224.13,
+      "end": 224.15,
+      "text": "é",
+      "confidence": 0.984
+    },
+    {
+      "start": 224.15,
+      "end": 224.17,
+      "text": "uma",
+      "confidence": 0.98
+    },
+    {
+      "start": 224.17,
+      "end": 224.19,
+      "text": "música,",
+      "confidence": 0.999
+    },
+    {
+      "start": 224.19,
+      "end": 224.21,
+      "text": "a",
+      "confidence": 0.902
+    },
+    {
+      "start": 224.21,
+      "end": 224.23,
+      "text": "minha",
+      "confidence": 0.995
+    },
+    {
+      "start": 224.23,
+      "end": 224.25,
+      "text": "vida",
+      "confidence": 0.966
+    },
+    {
+      "start": 224.25,
+      "end": 224.27,
+      "text": "é",
+      "confidence": 0.985
+    },
+    {
+      "start": 224.27,
+      "end": 224.29,
+      "text": "uma",
+      "confidence": 0.981
+    },
+    {
+      "start": 224.29,
+      "end": 224.31,
+      "text": "música,",
+      "confidence": 0.999
+    },
+    {
+      "start": 224.31,
+      "end": 224.33,
+      "text": "a",
+      "confidence": 0.907
+    },
+    {
+      "start": 224.33,
+      "end": 224.35,
+      "text": "minha",
+      "confidence": 0.996
+    },
+    {
+      "start": 224.35,
+      "end": 224.37,
+      "text": "vida",
+      "confidence": 0.967
+    },
+    {
+      "start": 224.37,
+      "end": 224.39,
+      "text": "é",
+      "confidence": 0.986
+    },
+    {
+      "start": 224.39,
+      "end": 224.41,
+      "text": "uma",
+      "confidence": 0.981
+    },
+    {
+      "start": 224.41,
+      "end": 224.43,
+      "text": "música,",
+      "confidence": 0.999
+    },
+    {
+      "start": 224.43,
+      "end": 224.45,
+      "text": "a",
+      "confidence": 0.911
+    },
+    {
+      "start": 224.45,
+      "end": 224.47,
+      "text": "minha",
+      "confidence": 0.996
+    },
+    {
+      "start": 224.47,
+      "end": 224.49,
+      "text": "vida",
+      "confidence": 0.969
+    },
+    {
+      "start": 224.49,
+      "end": 224.51,
+      "text": "é",
+      "confidence": 0.987
+    },
+    {
+      "start": 224.51,
+      "end": 224.53,
+      "text": "uma",
+      "confidence": 0.981
+    },
+    {
+      "start": 224.53,
+      "end": 224.55,
+      "text": "música,",
+      "confidence": 0.999
+    },
+    {
+      "start": 224.55,
+      "end": 224.57,
+      "text": "a",
+      "confidence": 0.914
+    },
+    {
+      "start": 224.57,
+      "end": 224.59,
+      "text": "minha",
+      "confidence": 0.996
+    },
+    {
+      "start": 224.59,
+      "end": 224.61,
+      "text": "vida",
+      "confidence": 0.971
+    },
+    {
+      "start": 224.61,
+      "end": 224.65,
+      "text": "é",
+      "confidence": 0.988
+    },
+    {
+      "start": 224.65,
+      "end": 224.83,
+      "text": "uma",
+      "confidence": 0.982
+    },
+    {
+      "start": 224.83,
+      "end": 224.93,
+      "text": "música,",
+      "confidence": 0.999
+    },
+    {
+      "start": 224.93,
+      "end": 224.95,
+      "text": "a",
+      "confidence": 0.918
+    },
+    {
+      "start": 224.95,
+      "end": 224.97,
+      "text": "minha",
+      "confidence": 0.996
+    },
+    {
+      "start": 224.97,
+      "end": 225.09,
+      "text": "vida",
+      "confidence": 0.973
+    },
+    {
+      "start": 225.09,
+      "end": 225.33,
+      "text": "é",
+      "confidence": 0.988
+    },
+    {
+      "start": 225.33,
+      "end": 225.75,
+      "text": "uma",
+      "confidence": 0.982
+    },
+    {
+      "start": 225.75,
+      "end": 225.95,
+      "text": "música,",
+      "confidence": 0.999
+    },
+    {
+      "start": 226.75,
+      "end": 226.99,
+      "text": "a",
+      "confidence": 0.921
+    },
+    {
+      "start": 226.99,
+      "end": 227.25,
+      "text": "minha",
+      "confidence": 0.996
+    },
+    {
+      "start": 227.25,
+      "end": 227.45,
+      "text": "vida",
+      "confidence": 0.974
+    },
+    {
+      "start": 227.45,
+      "end": 227.47,
+      "text": "é",
+      "confidence": 0.989
+    },
+    {
+      "start": 227.47,
+      "end": 227.75,
+      "text": "uma",
+      "confidence": 0.982
+    },
+    {
+      "start": 227.75,
+      "end": 227.77,
+      "text": "música,",
+      "confidence": 0.999
+    },
+    {
+      "start": 229.91,
+      "end": 230.25,
+      "text": "a",
+      "confidence": 0.924
+    },
+    {
+      "start": 230.25,
+      "end": 230.49,
+      "text": "minha",
+      "confidence": 0.996
+    },
+    {
+      "start": 230.49,
+      "end": 230.65,
+      "text": "vida",
+      "confidence": 0.975
+    },
+    {
+      "start": 230.65,
+      "end": 230.89,
+      "text": "é",
+      "confidence": 0.99
+    },
+    {
+      "start": 230.89,
+      "end": 230.91,
+      "text": "uma",
+      "confidence": 0.982
+    },
+    {
+      "start": 230.91,
+      "end": 231.07,
+      "text": "música,",
+      "confidence": 0.999
+    },
+    {
+      "start": 231.19,
+      "end": 232.03,
+      "text": "a",
+      "confidence": 0.926
+    },
+    {
+      "start": 232.03,
+      "end": 232.43,
+      "text": "minha",
+      "confidence": 0.996
+    },
+    {
+      "start": 232.43,
+      "end": 232.73,
+      "text": "vida",
+      "confidence": 0.976
+    },
+    {
+      "start": 232.73,
+      "end": 232.95,
+      "text": "é",
+      "confidence": 0.99
+    },
+    {
+      "start": 232.95,
+      "end": 234.13,
+      "text": "uma",
+      "confidence": 0.982
+    },
+    {
+      "start": 234.13,
+      "end": 235.37,
+      "text": "música,",
+      "confidence": 0.999
+    },
+    {
+      "start": 235.49,
+      "end": 236.08,
+      "text": "a",
+      "confidence": 0.928
+    },
+    {
+      "start": 239.25,
+      "end": 240.83,
+      "text": "minha",
+      "confidence": 0.997
+    },
+    {
+      "start": 240.83,
+      "end": 241.57,
+      "text": "vida",
+      "confidence": 0.977
+    },
+    {
+      "start": 241.57,
+      "end": 241.59,
+      "text": "é",
+      "confidence": 0.991
+    },
+    {
+      "start": 241.59,
+      "end": 241.69,
+      "text": "uma",
+      "confidence": 0.983
+    },
+    {
+      "start": 241.69,
+      "end": 241.71,
+      "text": "música,",
+      "confidence": 0.999
+    },
+    {
+      "start": 241.71,
+      "end": 241.89,
+      "text": "a",
+      "confidence": 0.932
+    },
+    {
+      "start": 241.89,
+      "end": 242.47,
+      "text": "minha",
+      "confidence": 0.997
+    },
+    {
+      "start": 242.47,
+      "end": 243.99,
+      "text": "vida",
+      "confidence": 0.978
+    },
+    {
+      "start": 243.99,
+      "end": 244.01,
+      "text": "é",
+      "confidence": 0.991
+    },
+    {
+      "start": 244.01,
+      "end": 244.59,
+      "text": "uma",
+      "confidence": 0.983
+    },
+    {
+      "start": 244.59,
+      "end": 244.91,
+      "text": "música,",
+      "confidence": 0.999
+    },
+    {
+      "start": 245.39,
+      "end": 245.93,
+      "text": "a",
+      "confidence": 0.932
+    },
+    {
+      "start": 245.93,
+      "end": 245.95,
+      "text": "minha",
+      "confidence": 0.997
+    },
+    {
+      "start": 245.95,
+      "end": 245.97,
+      "text": "vida",
+      "confidence": 0.98
+    },
+    {
+      "start": 245.97,
+      "end": 245.99,
+      "text": "é",
+      "confidence": 0.992
+    },
+    {
+      "start": 245.99,
+      "end": 246.01,
+      "text": "uma",
+      "confidence": 0.982
+    },
+    {
+      "start": 246.01,
+      "end": 246.03,
+      "text": "música",
+      "confidence": 0.999
+    },
+    {
+      "start": 246.03,
+      "end": 246.09,
+      "text": "Eu",
+      "confidence": 0.095
+    },
+    {
+      "start": 246.09,
+      "end": 246.25,
+      "text": "te",
+      "confidence": 0.132
+    },
+    {
+      "start": 246.25,
+      "end": 246.93,
+      "text": "admiro",
+      "confidence": 0.958
+    },
+    {
+      "start": 246.93,
+      "end": 247.09,
+      "text": "e",
+      "confidence": 0.848
+    },
+    {
+      "start": 247.09,
+      "end": 247.99,
+      "text": "desejo",
+      "confidence": 0.898
+    },
+    {
+      "start": 248.51,
+      "end": 248.55,
+      "text": "Do",
+      "confidence": 0.358
+    },
+    {
+      "start": 248.55,
+      "end": 249.21,
+      "text": "aplaudido",
+      "confidence": 0.618
+    },
+    {
+      "start": 249.21,
+      "end": 249.91,
+      "text": "atrasar",
+      "confidence": 0.265
+    },
+    {
+      "start": 250.01,
+      "end": 250.41,
+      "text": "O",
+      "confidence": 0.268
+    },
+    {
+      "start": 250.41,
+      "end": 250.75,
+      "text": "fim",
+      "confidence": 0.617
+    },
+    {
+      "start": 250.75,
+      "end": 250.91,
+      "text": "de",
+      "confidence": 0.888
+    },
+    {
+      "start": 250.91,
+      "end": 251.19,
+      "text": "mim",
+      "confidence": 0.479
+    },
+    {
+      "start": 251.19,
+      "end": 251.49,
+      "text": "e",
+      "confidence": 0.426
+    },
+    {
+      "start": 251.49,
+      "end": 251.67,
+      "text": "o",
+      "confidence": 0.961
+    },
+    {
+      "start": 251.67,
+      "end": 251.83,
+      "text": "meu",
+      "confidence": 0.774
+    },
+    {
+      "start": 252.79,
+      "end": 253.09,
+      "text": "Eu",
+      "confidence": 0.757
+    },
+    {
+      "start": 253.09,
+      "end": 253.79,
+      "text": "estou",
+      "confidence": 0.638
+    },
+    {
+      "start": 253.79,
+      "end": 253.97,
+      "text": "de",
+      "confidence": 0.831
+    },
+    {
+      "start": 253.97,
+      "end": 254.23,
+      "text": "salto",
+      "confidence": 0.666
+    },
+    {
+      "start": 254.23,
+      "end": 254.47,
+      "text": "a",
+      "confidence": 0.325
+    },
+    {
+      "start": 254.47,
+      "end": 254.65,
+      "text": "vale",
+      "confidence": 0.239
+    },
+    {
+      "start": 254.65,
+      "end": 254.83,
+      "text": "O",
+      "confidence": 0.288
+    },
+    {
+      "start": 254.83,
+      "end": 255.07,
+      "text": "meu",
+      "confidence": 0.5
+    },
+    {
+      "start": 255.07,
+      "end": 255.59,
+      "text": "entorno",
+      "confidence": 0.254
+    },
+    {
+      "start": 256.25,
+      "end": 256.57,
+      "text": "Mauro",
+      "confidence": 0.82
+    },
+    {
+      "start": 256.57,
+      "end": 257.11,
+      "text": "Cureñas",
+      "confidence": 0.294
+    },
+    {
+      "start": 257.11,
+      "end": 257.25,
+      "text": "é",
+      "confidence": 0.808
+    },
+    {
+      "start": 257.25,
+      "end": 257.55,
+      "text": "só",
+      "confidence": 0.625
+    },
+    {
+      "start": 257.55,
+      "end": 257.71,
+      "text": "uma",
+      "confidence": 0.152
+    },
+    {
+      "start": 257.71,
+      "end": 258.17,
+      "text": "coisa",
+      "confidence": 0.226
+    },
+    {
+      "start": 258.89,
+      "end": 259.07,
+      "text": "Mas",
+      "confidence": 0.818
+    },
+    {
+      "start": 259.07,
+      "end": 259.31,
+      "text": "quando",
+      "confidence": 0.699
+    },
+    {
+      "start": 259.31,
+      "end": 259.53,
+      "text": "você",
+      "confidence": 0.242
+    },
+    {
+      "start": 259.53,
+      "end": 259.77,
+      "text": "nada",
+      "confidence": 0.233
+    },
+    {
+      "start": 259.77,
+      "end": 259.97,
+      "text": "só",
+      "confidence": 0.103
+    },
+    {
+      "start": 259.97,
+      "end": 260.31,
+      "text": "mora",
+      "confidence": 0.414
+    },
+    {
+      "start": 260.31,
+      "end": 260.81,
+      "text": "mais",
+      "confidence": 0.414
+    },
+    {
+      "start": 260.87,
+      "end": 262.01,
+      "text": "Respirei",
+      "confidence": 0.525
+    },
+    {
+      "start": 262.01,
+      "end": 262.17,
+      "text": "e",
+      "confidence": 0.42
+    },
+    {
+      "start": 262.17,
+      "end": 262.35,
+      "text": "me",
+      "confidence": 0.81
+    },
+    {
+      "start": 262.35,
+      "end": 262.57,
+      "text": "vi",
+      "confidence": 0.521
+    },
+    {
+      "start": 262.57,
+      "end": 262.81,
+      "text": "a",
+      "confidence": 0.137
+    },
+    {
+      "start": 269.51,
+      "end": 269.75,
+      "text": "A",
+      "confidence": 0.54
+    },
+    {
+      "start": 269.75,
+      "end": 271.79,
+      "text": "gente",
+      "confidence": 0.986
+    },
+    {
+      "start": 271.79,
+      "end": 272.15,
+      "text": "se",
+      "confidence": 0.35
+    },
+    {
+      "start": 272.15,
+      "end": 272.89,
+      "text": "prendendo",
+      "confidence": 0.913
+    },
+    {
+      "start": 272.89,
+      "end": 273.09,
+      "text": "a",
+      "confidence": 0.838
+    },
+    {
+      "start": 273.09,
+      "end": 273.47,
+      "text": "todos",
+      "confidence": 0.158
+    },
+    {
+      "start": 273.53,
+      "end": 274.37,
+      "text": "Não",
+      "confidence": 0.696
+    },
+    {
+      "start": 274.37,
+      "end": 274.59,
+      "text": "tem",
+      "confidence": 0.387
+    },
+    {
+      "start": 274.59,
+      "end": 274.97,
+      "text": "nada",
+      "confidence": 0.81
+    },
+    {
+      "start": 274.97,
+      "end": 275.29,
+      "text": "pra",
+      "confidence": 0.429
+    },
+    {
+      "start": 275.29,
+      "end": 275.59,
+      "text": "ser",
+      "confidence": 0.356
+    },
+    {
+      "start": 345.15,
+      "end": 345.47,
+      "text": "E",
+      "confidence": 0.158
+    },
+    {
+      "start": 345.47,
+      "end": 346.39,
+      "text": "numa",
+      "confidence": 0.492
+    },
+    {
+      "start": 346.39,
+      "end": 346.91,
+      "text": "hora",
+      "confidence": 0.997
+    },
+    {
+      "start": 346.91,
+      "end": 347.11,
+      "text": "que",
+      "confidence": 0.924
+    },
+    {
+      "start": 347.11,
+      "end": 347.19,
+      "text": "eu",
+      "confidence": 0.97
+    },
+    {
+      "start": 347.19,
+      "end": 347.33,
+      "text": "te",
+      "confidence": 0.773
+    },
+    {
+      "start": 347.33,
+      "end": 348.47,
+      "text": "beijei,",
+      "confidence": 0.536
+    },
+    {
+      "start": 348.53,
+      "end": 348.87,
+      "text": "foi",
+      "confidence": 0.911
+    },
+    {
+      "start": 348.87,
+      "end": 349.27,
+      "text": "melhor",
+      "confidence": 0.969
+    },
+    {
+      "start": 349.27,
+      "end": 349.47,
+      "text": "que",
+      "confidence": 0.899
+    },
+    {
+      "start": 349.47,
+      "end": 349.61,
+      "text": "eu",
+      "confidence": 0.958
+    },
+    {
+      "start": 349.61,
+      "end": 350.99,
+      "text": "imaginei,",
+      "confidence": 0.996
+    },
+    {
+      "start": 351.01,
+      "end": 351.41,
+      "text": "que",
+      "confidence": 0.345
+    },
+    {
+      "start": 351.41,
+      "end": 351.57,
+      "text": "eu",
+      "confidence": 0.923
+    },
+    {
+      "start": 351.57,
+      "end": 352.01,
+      "text": "solgasse",
+      "confidence": 0.392
+    },
+    {
+      "start": 352.01,
+      "end": 352.15,
+      "text": "o",
+      "confidence": 0.491
+    },
+    {
+      "start": 352.15,
+      "end": 352.37,
+      "text": "meu",
+      "confidence": 0.764
+    },
+    {
+      "start": 352.37,
+      "end": 352.6,
+      "text": "peito",
+      "confidence": 0.713
+    },
+    {
+      "start": 355.91,
+      "end": 356.61,
+      "text": "E",
+      "confidence": 0.982
+    },
+    {
+      "start": 356.61,
+      "end": 356.83,
+      "text": "numa",
+      "confidence": 0.995
+    },
+    {
+      "start": 356.83,
+      "end": 357.17,
+      "text": "hora",
+      "confidence": 1.0
+    },
+    {
+      "start": 357.17,
+      "end": 357.39,
+      "text": "que",
+      "confidence": 1.0
+    },
+    {
+      "start": 357.39,
+      "end": 357.51,
+      "text": "eu",
+      "confidence": 1.0
+    },
+    {
+      "start": 357.51,
+      "end": 357.83,
+      "text": "te",
+      "confidence": 0.998
+    },
+    {
+      "start": 357.83,
+      "end": 358.85,
+      "text": "beijei,",
+      "confidence": 0.997
+    },
+    {
+      "start": 358.89,
+      "end": 359.23,
+      "text": "foi",
+      "confidence": 0.999
+    },
+    {
+      "start": 359.23,
+      "end": 359.53,
+      "text": "melhor",
+      "confidence": 0.999
+    },
+    {
+      "start": 359.53,
+      "end": 359.75,
+      "text": "que",
+      "confidence": 1.0
+    },
+    {
+      "start": 359.75,
+      "end": 359.91,
+      "text": "eu",
+      "confidence": 1.0
+    },
+    {
+      "start": 359.91,
+      "end": 361.37,
+      "text": "imaginei,",
+      "confidence": 0.968
+    },
+    {
+      "start": 361.45,
+      "end": 361.65,
+      "text": "que",
+      "confidence": 0.998
+    },
+    {
+      "start": 361.65,
+      "end": 361.87,
+      "text": "eu",
+      "confidence": 0.999
+    },
+    {
+      "start": 361.87,
+      "end": 362.29,
+      "text": "solgasse",
+      "confidence": 0.992
+    },
+    {
+      "start": 362.29,
+      "end": 362.39,
+      "text": "o",
+      "confidence": 0.997
+    },
+    {
+      "start": 362.39,
+      "end": 362.55,
+      "text": "meu",
+      "confidence": 0.999
+    },
+    {
+      "start": 362.55,
+      "end": 362.77,
+      "text": "peito",
+      "confidence": 0.999
+    },
+    {
+      "start": 362.77,
+      "end": 363.37,
+      "text": "a",
+      "confidence": 0.974
+    },
+    {
+      "start": 363.37,
+      "end": 363.73,
+      "text": "ti,",
+      "confidence": 1.0
+    },
+    {
+      "start": 363.87,
+      "end": 364.72,
+      "text": "que",
+      "confidence": 0.996
+    },
+    {
+      "start": 369.27,
+      "end": 369.51,
+      "text": "eu",
+      "confidence": 0.989
+    },
+    {
+      "start": 369.51,
+      "end": 369.65,
+      "text": "fosse",
+      "confidence": 0.974
+    },
+    {
+      "start": 369.65,
+      "end": 369.91,
+      "text": "sempre",
+      "confidence": 0.99
+    },
+    {
+      "start": 369.91,
+      "end": 369.99,
+      "text": "a",
+      "confidence": 0.998
+    },
+    {
+      "start": 369.99,
+      "end": 370.29,
+      "text": "tua",
+      "confidence": 0.999
+    },
+    {
+      "start": 370.29,
+      "end": 371.37,
+      "text": "amante.",
+      "confidence": 0.999
+    },
+    {
+      "start": 383.71,
+      "end": 383.99,
+      "text": "Vem,",
+      "confidence": 0.413
+    },
+    {
+      "start": 384.01,
+      "end": 384.13,
+      "text": "é",
+      "confidence": 0.55
+    },
+    {
+      "start": 384.13,
+      "end": 384.77,
+      "text": "carambolitano",
+      "confidence": 0.407
+    },
+    {
+      "start": 384.77,
+      "end": 384.93,
+      "text": "ou",
+      "confidence": 0.515
+    },
+    {
+      "start": 384.93,
+      "end": 385.01,
+      "text": "o",
+      "confidence": 0.32
+    },
+    {
+      "start": 385.01,
+      "end": 385.11,
+      "text": "que",
+      "confidence": 0.772
+    },
+    {
+      "start": 385.11,
+      "end": 385.29,
+      "text": "foi?",
+      "confidence": 0.623
+    },
+    {
+      "start": 385.51,
+      "end": 385.72,
+      "text": "Vem!",
+      "confidence": 0.825
+    },
+    {
+      "start": 385.72,
+      "end": 386.47,
+      "text": "Óbvio",
+      "confidence": 0.53
+    },
+    {
+      "start": 386.47,
+      "end": 386.55,
+      "text": "que",
+      "confidence": 0.912
+    },
+    {
+      "start": 386.55,
+      "end": 386.73,
+      "text": "o",
+      "confidence": 0.266
+    },
+    {
+      "start": 386.73,
+      "end": 386.79,
+      "text": "Michel",
+      "confidence": 0.177
+    },
+    {
+      "start": 386.79,
+      "end": 387.37,
+      "text": "Transé",
+      "confidence": 0.256
+    },
+    {
+      "start": 389.61,
+      "end": 389.63,
+      "text": "Quando",
+      "confidence": 0.525
+    },
+    {
+      "start": 389.63,
+      "end": 389.81,
+      "text": "é",
+      "confidence": 0.966
+    },
+    {
+      "start": 389.81,
+      "end": 389.93,
+      "text": "que",
+      "confidence": 0.996
+    },
+    {
+      "start": 389.93,
+      "end": 390.05,
+      "text": "é",
+      "confidence": 0.798
+    },
+    {
+      "start": 390.05,
+      "end": 390.19,
+      "text": "só?",
+      "confidence": 0.885
+    },
+    {
+      "start": 390.19,
+      "end": 390.47,
+      "text": "Tem",
+      "confidence": 0.138
+    },
+    {
+      "start": 390.47,
+      "end": 392.45,
+      "text": "arena",
+      "confidence": 0.778
+    },
+    {
+      "start": 392.85,
+      "end": 393.09,
+      "text": "Eu",
+      "confidence": 0.389
+    },
+    {
+      "start": 393.09,
+      "end": 393.63,
+      "text": "concordo",
+      "confidence": 0.334
+    },
+    {
+      "start": 393.63,
+      "end": 393.73,
+      "text": "que",
+      "confidence": 0.306
+    },
+    {
+      "start": 393.73,
+      "end": 393.87,
+      "text": "é",
+      "confidence": 0.256
+    },
+    {
+      "start": 393.87,
+      "end": 393.99,
+      "text": "na",
+      "confidence": 0.374
+    },
+    {
+      "start": 393.99,
+      "end": 394.25,
+      "text": "hora",
+      "confidence": 0.613
+    },
+    {
+      "start": 394.25,
+      "end": 394.99,
+      "text": "que",
+      "confidence": 0.403
+    },
+    {
+      "start": 394.99,
+      "end": 395.13,
+      "text": "eu",
+      "confidence": 0.577
+    },
+    {
+      "start": 395.13,
+      "end": 395.25,
+      "text": "dou",
+      "confidence": 0.147
+    },
+    {
+      "start": 395.25,
+      "end": 395.31,
+      "text": "o",
+      "confidence": 0.671
+    },
+    {
+      "start": 395.31,
+      "end": 395.41,
+      "text": "meu",
+      "confidence": 0.693
+    },
+    {
+      "start": 395.41,
+      "end": 395.87,
+      "text": "tropeio",
+      "confidence": 0.783
+    },
+    {
+      "start": 395.87,
+      "end": 396.31,
+      "text": "Tem",
+      "confidence": 0.91
+    },
+    {
+      "start": 396.31,
+      "end": 396.81,
+      "text": "resultado",
+      "confidence": 0.986
+    },
+    {
+      "start": 396.81,
+      "end": 397.15,
+      "text": "também",
+      "confidence": 0.988
+    },
+    {
+      "start": 397.21,
+      "end": 397.43,
+      "text": "Não",
+      "confidence": 0.439
+    },
+    {
+      "start": 397.43,
+      "end": 397.51,
+      "text": "é",
+      "confidence": 0.308
+    },
+    {
+      "start": 397.51,
+      "end": 398.07,
+      "text": "geralzinho",
+      "confidence": 0.792
+    },
+    {
+      "start": 398.17,
+      "end": 398.53,
+      "text": "Eu",
+      "confidence": 0.215
+    },
+    {
+      "start": 398.53,
+      "end": 398.89,
+      "text": "acho",
+      "confidence": 0.381
+    },
+    {
+      "start": 398.89,
+      "end": 399.05,
+      "text": "que",
+      "confidence": 0.376
+    },
+    {
+      "start": 399.05,
+      "end": 399.09,
+      "text": "o",
+      "confidence": 0.824
+    },
+    {
+      "start": 399.09,
+      "end": 399.37,
+      "text": "Cidadão",
+      "confidence": 0.687
+    },
+    {
+      "start": 399.37,
+      "end": 399.51,
+      "text": "é",
+      "confidence": 0.515
+    },
+    {
+      "start": 399.51,
+      "end": 400.51,
+      "text": "praia",
+      "confidence": 0.569
+    },
+    {
+      "start": 400.87,
+      "end": 400.97,
+      "text": "Nós",
+      "confidence": 0.556
+    },
+    {
+      "start": 400.97,
+      "end": 401.23,
+      "text": "vamos",
+      "confidence": 0.968
+    },
+    {
+      "start": 401.23,
+      "end": 401.37,
+      "text": "ver",
+      "confidence": 0.259
+    },
+    {
+      "start": 403.23,
+      "end": 403.55,
+      "text": "Então",
+      "confidence": 0.392
+    },
+    {
+      "start": 403.55,
+      "end": 404.01,
+      "text": "galera,",
+      "confidence": 0.288
+    },
+    {
+      "start": 404.19,
+      "end": 404.27,
+      "text": "os",
+      "confidence": 0.847
+    },
+    {
+      "start": 404.27,
+      "end": 404.35,
+      "text": "que",
+      "confidence": 0.705
+    },
+    {
+      "start": 404.35,
+      "end": 404.47,
+      "text": "estão",
+      "confidence": 0.997
+    },
+    {
+      "start": 404.47,
+      "end": 404.66,
+      "text": "aí",
+      "confidence": 0.998
+    },
+    {
+      "start": 404.66,
+      "end": 405.03,
+      "text": "Manda",
+      "confidence": 0.704
+    },
+    {
+      "start": 405.03,
+      "end": 405.15,
+      "text": "as",
+      "confidence": 0.207
+    },
+    {
+      "start": 405.15,
+      "end": 405.41,
+      "text": "vangas",
+      "confidence": 0.374
+    },
+    {
+      "start": 405.41,
+      "end": 405.43,
+      "text": "em",
+      "confidence": 0.507
+    },
+    {
+      "start": 405.43,
+      "end": 405.69,
+      "text": "completo",
+      "confidence": 0.267
+    },
+    {
+      "start": 405.89,
+      "end": 406.31,
+      "text": "A",
+      "confidence": 0.068
+    },
+    {
+      "start": 406.31,
+      "end": 406.61,
+      "text": "gente",
+      "confidence": 0.042
+    },
+    {
+      "start": 406.61,
+      "end": 406.87,
+      "text": "é",
+      "confidence": 0.225
+    },
+    {
+      "start": 406.87,
+      "end": 407.05,
+      "text": "o",
+      "confidence": 0.295
+    },
+    {
+      "start": 407.05,
+      "end": 407.33,
+      "text": "9,",
+      "confidence": 0.14
+    },
+    {
+      "start": 407.45,
+      "end": 408.01,
+      "text": "9,",
+      "confidence": 0.523
+    },
+    {
+      "start": 408.13,
+      "end": 408.71,
+      "text": "9,",
+      "confidence": 0.928
+    },
+    {
+      "start": 409.07,
+      "end": 409.29,
+      "text": "8,",
+      "confidence": 0.659
+    },
+    {
+      "start": 409.49,
+      "end": 409.87,
+      "text": "5,",
+      "confidence": 0.804
+    },
+    {
+      "start": 409.97,
+      "end": 410.45,
+      "text": "0,",
+      "confidence": 0.961
+    },
+    {
+      "start": 410.55,
+      "end": 410.79,
+      "text": "1,",
+      "confidence": 0.318
+    },
+    {
+      "start": 410.93,
+      "end": 411.11,
+      "text": "2,",
+      "confidence": 0.925
+    },
+    {
+      "start": 411.19,
+      "end": 411.27,
+      "text": "3,",
+      "confidence": 0.888
+    },
+    {
+      "start": 411.45,
+      "end": 411.55,
+      "text": "4,",
+      "confidence": 0.947
+    },
+    {
+      "start": 411.61,
+      "end": 411.83,
+      "text": "5,",
+      "confidence": 0.889
+    },
+    {
+      "start": 412.07,
+      "end": 412.09,
+      "text": "6,",
+      "confidence": 0.91
+    },
+    {
+      "start": 412.11,
+      "end": 412.33,
+      "text": "7,",
+      "confidence": 0.938
+    },
+    {
+      "start": 412.39,
+      "end": 412.71,
+      "text": "8,",
+      "confidence": 0.976
+    },
+    {
+      "start": 412.77,
+      "end": 412.95,
+      "text": "9,",
+      "confidence": 0.942
+    },
+    {
+      "start": 412.95,
+      "end": 412.97,
+      "text": "10,",
+      "confidence": 0.716
+    },
+    {
+      "start": 413.03,
+      "end": 413.05,
+      "text": "11,",
+      "confidence": 0.927
+    },
+    {
+      "start": 413.05,
+      "end": 413.07,
+      "text": "12,",
+      "confidence": 0.932
+    },
+    {
+      "start": 413.07,
+      "end": 413.09,
+      "text": "13,",
+      "confidence": 0.986
+    },
+    {
+      "start": 413.09,
+      "end": 413.11,
+      "text": "14,",
+      "confidence": 0.982
+    },
+    {
+      "start": 413.59,
+      "end": 413.61,
+      "text": "15,",
+      "confidence": 0.972
+    },
+    {
+      "start": 414.07,
+      "end": 414.17,
+      "text": "16,",
+      "confidence": 0.977
+    },
+    {
+      "start": 414.17,
+      "end": 414.19,
+      "text": "17,",
+      "confidence": 0.961
+    },
+    {
+      "start": 414.19,
+      "end": 414.23,
+      "text": "18,",
+      "confidence": 0.989
+    },
+    {
+      "start": 414.23,
+      "end": 414.25,
+      "text": "19,",
+      "confidence": 0.958
+    },
+    {
+      "start": 414.25,
+      "end": 414.27,
+      "text": "20,",
+      "confidence": 0.983
+    },
+    {
+      "start": 414.27,
+      "end": 414.29,
+      "text": "21,",
+      "confidence": 0.916
+    },
+    {
+      "start": 414.65,
+      "end": 414.67,
+      "text": "22,",
+      "confidence": 0.777
+    },
+    {
+      "start": 414.73,
+      "end": 414.75,
+      "text": "23,",
+      "confidence": 0.962
+    },
+    {
+      "start": 414.77,
+      "end": 414.79,
+      "text": "24,",
+      "confidence": 0.962
+    },
+    {
+      "start": 415.03,
+      "end": 415.07,
+      "text": "25,",
+      "confidence": 0.913
+    },
+    {
+      "start": 415.27,
+      "end": 415.29,
+      "text": "26,",
+      "confidence": 0.957
+    },
+    {
+      "start": 415.29,
+      "end": 415.31,
+      "text": "27,",
+      "confidence": 0.964
+    },
+    {
+      "start": 415.31,
+      "end": 415.33,
+      "text": "28,",
+      "confidence": 0.97
+    },
+    {
+      "start": 415.33,
+      "end": 415.35,
+      "text": "29,",
+      "confidence": 0.829
+    },
+    {
+      "start": 415.35,
+      "end": 415.37,
+      "text": "30,",
+      "confidence": 0.916
+    },
+    {
+      "start": 415.57,
+      "end": 416.05,
+      "text": "31,",
+      "confidence": 0.894
+    },
+    {
+      "start": 416.29,
+      "end": 416.65,
+      "text": "32,",
+      "confidence": 0.927
+    },
+    {
+      "start": 417.19,
+      "end": 417.35,
+      "text": "33,",
+      "confidence": 0.783
+    },
+    {
+      "start": 417.55,
+      "end": 418.53,
+      "text": "34,",
+      "confidence": 0.868
+    },
+    {
+      "start": 418.67,
+      "end": 419.49,
+      "text": "35,",
+      "confidence": 0.943
+    },
+    {
+      "start": 419.65,
+      "end": 419.67,
+      "text": "36,",
+      "confidence": 0.822
+    },
+    {
+      "start": 419.67,
+      "end": 419.69,
+      "text": "37,",
+      "confidence": 0.844
+    },
+    {
+      "start": 419.69,
+      "end": 419.71,
+      "text": "38,",
+      "confidence": 0.902
+    },
+    {
+      "start": 419.71,
+      "end": 420.51,
+      "text": "39,",
+      "confidence": 0.642
+    },
+    {
+      "start": 420.51,
+      "end": 420.53,
+      "text": "40,",
+      "confidence": 0.938
+    },
+    {
+      "start": 420.83,
+      "end": 420.95,
+      "text": "41,",
+      "confidence": 0.574
+    },
+    {
+      "start": 423.92,
+      "end": 425.09,
+      "text": "42,",
+      "confidence": 0.964
+    },
+    {
+      "start": 425.09,
+      "end": 425.19,
+      "text": "43,",
+      "confidence": 0.681
+    },
+    {
+      "start": 425.19,
+      "end": 425.59,
+      "text": "44,",
+      "confidence": 0.648
+    },
+    {
+      "start": 425.59,
+      "end": 426.07,
+      "text": "45,",
+      "confidence": 0.807
+    },
+    {
+      "start": 426.07,
+      "end": 426.19,
+      "text": "46,",
+      "confidence": 0.484
+    },
+    {
+      "start": 426.19,
+      "end": 426.49,
+      "text": "47,",
+      "confidence": 0.815
+    },
+    {
+      "start": 426.49,
+      "end": 426.73,
+      "text": "48,",
+      "confidence": 0.533
+    },
+    {
+      "start": 426.73,
+      "end": 426.75,
+      "text": "49,",
+      "confidence": 0.772
+    },
+    {
+      "start": 426.75,
+      "end": 427.37,
+      "text": "50,",
+      "confidence": 0.43
+    },
+    {
+      "start": 427.37,
+      "end": 427.83,
+      "text": "51,",
+      "confidence": 0.905
+    },
+    {
+      "start": 427.83,
+      "end": 428.97,
+      "text": "52,",
+      "confidence": 0.862
+    },
+    {
+      "start": 428.97,
+      "end": 429.11,
+      "text": "53,",
+      "confidence": 0.607
+    },
+    {
+      "start": 429.11,
+      "end": 429.13,
+      "text": "52,",
+      "confidence": 0.295
+    },
+    {
+      "start": 429.13,
+      "end": 429.19,
+      "text": "53,",
+      "confidence": 0.631
+    },
+    {
+      "start": 429.19,
+      "end": 429.21,
+      "text": "54,",
+      "confidence": 0.531
+    },
+    {
+      "start": 429.21,
+      "end": 429.99,
+      "text": "55,",
+      "confidence": 0.368
+    },
+    {
+      "start": 429.99,
+      "end": 430.01,
+      "text": "56,",
+      "confidence": 0.508
+    },
+    {
+      "start": 430.01,
+      "end": 430.03,
+      "text": "57,",
+      "confidence": 0.863
+    },
+    {
+      "start": 430.03,
+      "end": 430.05,
+      "text": "58,",
+      "confidence": 0.84
+    },
+    {
+      "start": 430.19,
+      "end": 430.91,
+      "text": "59,",
+      "confidence": 0.644
+    },
+    {
+      "start": 430.91,
+      "end": 430.93,
+      "text": "51,",
+      "confidence": 0.374
+    },
+    {
+      "start": 431.07,
+      "end": 431.39,
+      "text": "52,",
+      "confidence": 0.773
+    },
+    {
+      "start": 431.49,
+      "end": 431.51,
+      "text": "53,",
+      "confidence": 0.748
+    },
+    {
+      "start": 431.51,
+      "end": 431.53,
+      "text": "56,",
+      "confidence": 0.246
+    },
+    {
+      "start": 431.53,
+      "end": 431.95,
+      "text": "57,",
+      "confidence": 0.633
+    },
+    {
+      "start": 432.15,
+      "end": 432.43,
+      "text": "58,",
+      "confidence": 0.531
+    },
+    {
+      "start": 432.43,
+      "end": 434.09,
+      "text": "59,",
+      "confidence": 0.802
+    },
+    {
+      "start": 434.09,
+      "end": 434.11,
+      "text": "51,",
+      "confidence": 0.387
+    },
+    {
+      "start": 434.37,
+      "end": 434.61,
+      "text": "52,",
+      "confidence": 0.749
+    },
+    {
+      "start": 434.69,
+      "end": 434.71,
+      "text": "53,",
+      "confidence": 0.709
+    },
+    {
+      "start": 434.75,
+      "end": 434.83,
+      "text": "59,",
+      "confidence": 0.294
+    },
+    {
+      "start": 435.19,
+      "end": 435.21,
+      "text": "52,",
+      "confidence": 0.455
+    },
+    {
+      "start": 435.23,
+      "end": 435.53,
+      "text": "53,",
+      "confidence": 0.509
+    },
+    {
+      "start": 435.53,
+      "end": 435.55,
+      "text": "59,",
+      "confidence": 0.374
+    },
+    {
+      "start": 435.55,
+      "end": 435.57,
+      "text": "52,",
+      "confidence": 0.447
+    },
+    {
+      "start": 435.57,
+      "end": 435.89,
+      "text": "53,",
+      "confidence": 0.62
+    },
+    {
+      "start": 435.89,
+      "end": 435.91,
+      "text": "59,",
+      "confidence": 0.39
+    },
+    {
+      "start": 435.91,
+      "end": 435.93,
+      "text": "52,",
+      "confidence": 0.462
+    },
+    {
+      "start": 435.93,
+      "end": 435.95,
+      "text": "53,",
+      "confidence": 0.725
+    },
+    {
+      "start": 435.95,
+      "end": 435.97,
+      "text": "59,",
+      "confidence": 0.417
+    },
+    {
+      "start": 435.97,
+      "end": 435.99,
+      "text": "52,",
+      "confidence": 0.48
+    },
+    {
+      "start": 435.99,
+      "end": 436.01,
+      "text": "53,",
+      "confidence": 0.795
+    },
+    {
+      "start": 436.01,
+      "end": 436.03,
+      "text": "59,",
+      "confidence": 0.449
+    },
+    {
+      "start": 436.03,
+      "end": 436.05,
+      "text": "52,",
+      "confidence": 0.495
+    },
+    {
+      "start": 436.05,
+      "end": 436.07,
+      "text": "53,",
+      "confidence": 0.843
+    },
+    {
+      "start": 436.07,
+      "end": 436.09,
+      "text": "59,",
+      "confidence": 0.503
+    },
+    {
+      "start": 436.09,
+      "end": 436.11,
+      "text": "52,",
+      "confidence": 0.52
+    },
+    {
+      "start": 436.11,
+      "end": 436.13,
+      "text": "53,",
+      "confidence": 0.872
+    },
+    {
+      "start": 436.13,
+      "end": 436.15,
+      "text": "59,",
+      "confidence": 0.601
+    },
+    {
+      "start": 436.15,
+      "end": 436.17,
+      "text": "52,",
+      "confidence": 0.542
+    },
+    {
+      "start": 436.17,
+      "end": 436.19,
+      "text": "53,",
+      "confidence": 0.894
+    },
+    {
+      "start": 436.19,
+      "end": 436.21,
+      "text": "59,",
+      "confidence": 0.652
+    },
+    {
+      "start": 436.21,
+      "end": 436.23,
+      "text": "52,",
+      "confidence": 0.561
+    },
+    {
+      "start": 436.23,
+      "end": 436.25,
+      "text": "53,",
+      "confidence": 0.906
+    },
+    {
+      "start": 436.25,
+      "end": 436.27,
+      "text": "59,",
+      "confidence": 0.689
+    },
+    {
+      "start": 436.27,
+      "end": 436.29,
+      "text": "52,",
+      "confidence": 0.6
+    },
+    {
+      "start": 436.29,
+      "end": 436.31,
+      "text": "53,",
+      "confidence": 0.914
+    },
+    {
+      "start": 436.31,
+      "end": 436.33,
+      "text": "59,",
+      "confidence": 0.724
+    },
+    {
+      "start": 436.33,
+      "end": 436.35,
+      "text": "52,",
+      "confidence": 0.615
+    },
+    {
+      "start": 436.35,
+      "end": 436.55,
+      "text": "53,",
+      "confidence": 0.917
+    },
+    {
+      "start": 436.55,
+      "end": 436.57,
+      "text": "59,",
+      "confidence": 0.759
+    },
+    {
+      "start": 436.61,
+      "end": 436.87,
+      "text": "52,",
+      "confidence": 0.619
+    },
+    {
+      "start": 438.9,
+      "end": 438.92,
+      "text": "53",
+      "confidence": 0.926
+    },
+    {
+      "start": 771.3,
+      "end": 772.34,
+      "text": "Obrigado.",
+      "confidence": 0.502
+    }
+  ]
+}

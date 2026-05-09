@@ -1,0 +1,18 @@
+{
+  "source_file": "VOR20260506092907_0505_IMP_2_part001_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:52,00:00:53": "Atenção!",
+    "00:06:22,00:06:23": "Acompanhe o programa em seus redes sociais.",
+    "00:11:06,00:11:06": "Agradecimentos a todos os participantes.",
+    "00:22:07,00:22:07": ".",
+    "00:24:49,00:24:50": ".",
+    "00:54:24,00:54:25": "Atenção!",
+    "01:03:59,01:03:59": "Seguindo.",
+    "01:15:49,01:15:49": "Obrigado.",
+    "01:18:36,01:18:36": ".",
+    "01:26:30,01:26:31": "Não há problema.",
+    "01:28:06,01:28:06": "."
+  }
+}

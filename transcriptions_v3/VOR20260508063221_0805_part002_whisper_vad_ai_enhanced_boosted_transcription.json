@@ -1,0 +1,24 @@
+{
+  "source_file": "VOR20260508063221_0805_part002_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:56:40,00:56:41": "Ah!",
+    "00:57:15,00:57:15": "Ah!"
+  },
+  "hallucinations_filtered": 2,
+  "words": [
+    {
+      "start": 3400.82,
+      "end": 3401.24,
+      "text": "Ah!",
+      "confidence": 0.963
+    },
+    {
+      "start": 3435.13,
+      "end": 3435.25,
+      "text": "Ah!",
+      "confidence": 0.661
+    }
+  ]
+}

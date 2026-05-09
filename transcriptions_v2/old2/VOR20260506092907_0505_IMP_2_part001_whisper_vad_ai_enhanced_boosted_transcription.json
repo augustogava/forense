@@ -1,0 +1,17 @@
+{
+  "source_file": "VOR20260506092907_0505_IMP_2_part001_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 5400.0,
+  "segments": {
+    "01:03:58,01:03:59": "Iniciativa."
+  },
+  "words": [
+    {
+      "start": 3838.99,
+      "end": 3839.75,
+      "text": "Iniciativa.",
+      "probability": 0.512
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "source_file": "VOR20260505061552_0615_part002_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "01:04:11,01:06:24": "E aí",
+    "01:10:00,01:10:01": "E aí"
+  },
+  "hallucinations_filtered": 1,
+  "words": [
+    {
+      "start": 3851.26,
+      "end": 3852.56,
+      "text": "E",
+      "confidence": 0.11
+    },
+    {
+      "start": 3984.41,
+      "end": 3984.79,
+      "text": "aí",
+      "confidence": 0.971
+    },
+    {
+      "start": 4200.38,
+      "end": 4200.4,
+      "text": "E",
+      "confidence": 0.975
+    },
+    {
+      "start": 4200.4,
+      "end": 4201.66,
+      "text": "aí",
+      "confidence": 1.0
+    }
+  ]
+}

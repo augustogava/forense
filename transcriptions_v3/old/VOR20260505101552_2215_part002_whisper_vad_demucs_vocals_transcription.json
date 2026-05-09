@@ -1,0 +1,58 @@
+{
+  "source_file": "VOR20260505101552_2215_part002_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "01:23:13,01:23:13": "Acompanhe o processo de transcrição em português brasileiro."
+  },
+  "words": [
+    {
+      "start": 4993.07,
+      "end": 4993.09,
+      "text": "Acompanhe",
+      "confidence": 0.236
+    },
+    {
+      "start": 4993.09,
+      "end": 4993.11,
+      "text": "o",
+      "confidence": 0.24
+    },
+    {
+      "start": 4993.11,
+      "end": 4993.13,
+      "text": "processo",
+      "confidence": 0.12
+    },
+    {
+      "start": 4993.13,
+      "end": 4993.15,
+      "text": "de",
+      "confidence": 0.282
+    },
+    {
+      "start": 4993.15,
+      "end": 4993.17,
+      "text": "transcrição",
+      "confidence": 0.359
+    },
+    {
+      "start": 4993.17,
+      "end": 4993.19,
+      "text": "em",
+      "confidence": 0.314
+    },
+    {
+      "start": 4993.19,
+      "end": 4993.21,
+      "text": "português",
+      "confidence": 0.645
+    },
+    {
+      "start": 4993.21,
+      "end": 4993.23,
+      "text": "brasileiro.",
+      "confidence": 0.533
+    }
+  ]
+}

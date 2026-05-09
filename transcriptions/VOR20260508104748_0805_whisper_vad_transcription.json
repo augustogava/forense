@@ -1,0 +1,15 @@
+{
+  "source_file": "VOR20260508104748_0805_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:25:54,00:25:56": "Atenção!"
+  },
+  "words": [
+    {
+      "start": 1554.27,
+      "end": 1556.49,
+      "text": "Atenção!"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "source_file": "New_Recording_15_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:19:52,00:19:52": ".",
+    "00:46:46,00:46:47": "Deixa eu me lhe dar uma madeira, vem.",
+    "00:46:47,00:46:48": "O quê?",
+    "00:46:48,00:46:50": "Deixa eu me lhe dar uma madeira, vem.",
+    "01:22:11,01:22:11": "Não há dúvida.",
+    "01:23:10,01:23:10": ".",
+    "01:41:09,01:41:10": "Acompanhe o programa em todos os lugares.",
+    "02:07:18,02:07:18": ".",
+    "02:13:59,02:13:59": "."
+  },
+  "words": [
+    {
+      "start": 1192.07,
+      "end": 1192.41,
+      "text": "."
+    },
+    {
+      "start": 2806.27,
+      "end": 2806.27,
+      "text": "Deixa"
+    },
+    {
+      "start": 2806.27,
+      "end": 2806.35,
+      "text": "eu"
+    },
+    {
+      "start": 2806.35,
+      "end": 2806.45,
+      "text": "me"
+    },
+    {
+      "start": 2806.45,
+      "end": 2806.73,
+      "text": "lhe"
+    },
+    {
+      "start": 2806.73,
+      "end": 2806.79,
+      "text": "dar"
+    },
+    {
+      "start": 2806.79,
+      "end": 2806.89,
+      "text": "uma"
+    },
+    {
+      "start": 2806.89,
+      "end": 2807.37,
+      "text": "madeira,"
+    },
+    {
+      "start": 2807.37,
+      "end": 2807.69,
+      "text": "vem."
+    },
+    {
+      "start": 2807.83,
+      "end": 2808.13,
+      "text": "O"
+    },
+    {
+      "start": 2808.13,
+      "end": 2808.29,
+      "text": "quê?"
+    },
+    {
+      "start": 2808.67,
+      "end": 2808.99,
+      "text": "Deixa"
+    },
+    {
+      "start": 2808.99,
+      "end": 2809.09,
+      "text": "eu"
+    },
+    {
+      "start": 2809.09,
+      "end": 2809.21,
+      "text": "me"
+    },
+    {
+      "start": 2809.21,
+      "end": 2809.41,
+      "text": "lhe"
+    },
+    {
+      "start": 2809.41,
+      "end": 2809.49,
+      "text": "dar"
+    },
+    {
+      "start": 2809.49,
+      "end": 2809.59,
+      "text": "uma"
+    },
+    {
+      "start": 2809.59,
+      "end": 2810.13,
+      "text": "madeira,"
+    },
+    {
+      "start": 2810.13,
+      "end": 2810.35,
+      "text": "vem."
+    },
+    {
+      "start": 4931.17,
+      "end": 4931.45,
+      "text": "Não"
+    },
+    {
+      "start": 4931.45,
+      "end": 4931.45,
+      "text": "há"
+    },
+    {
+      "start": 4931.45,
+      "end": 4931.45,
+      "text": "dúvida."
+    },
+    {
+      "start": 4990.37,
+      "end": 4990.65,
+      "text": "."
+    },
+    {
+      "start": 6069.95,
+      "end": 6070.27,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 6070.27,
+      "end": 6070.39,
+      "text": "o"
+    },
+    {
+      "start": 6070.39,
+      "end": 6070.45,
+      "text": "programa"
+    },
+    {
+      "start": 6070.45,
+      "end": 6070.45,
+      "text": "em"
+    },
+    {
+      "start": 6070.45,
+      "end": 6070.69,
+      "text": "todos"
+    },
+    {
+      "start": 6070.69,
+      "end": 6070.81,
+      "text": "os"
+    },
+    {
+      "start": 6070.81,
+      "end": 6070.81,
+      "text": "lugares."
+    },
+    {
+      "start": 7638.56,
+      "end": 7638.8,
+      "text": "."
+    },
+    {
+      "start": 8039.75,
+      "end": 8039.95,
+      "text": "."
+    }
+  ]
+}

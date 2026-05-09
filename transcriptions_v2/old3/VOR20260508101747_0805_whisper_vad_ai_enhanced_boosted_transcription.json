@@ -1,0 +1,35 @@
+{
+  "source_file": "VOR20260508101747_0805_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1800.1,
+  "segments": {
+    "00:00:00,00:23:04": "Disponível em português brasileiro."
+  },
+  "words": [
+    {
+      "start": 0.0,
+      "end": 1.04,
+      "text": "Disponível",
+      "probability": 0.439
+    },
+    {
+      "start": 1.04,
+      "end": 1.32,
+      "text": "em",
+      "probability": 0.019
+    },
+    {
+      "start": 501.29,
+      "end": 509.73,
+      "text": "português",
+      "probability": 0.68
+    },
+    {
+      "start": 1378.62,
+      "end": 1384.0,
+      "text": "brasileiro.",
+      "probability": 0.494
+    }
+  ]
+}

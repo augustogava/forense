@@ -1,0 +1,7 @@
+{
+  "source_file": "VOR20260506092907_0505_IMP_2_part001_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 5400.0,
+  "segments": {}
+}

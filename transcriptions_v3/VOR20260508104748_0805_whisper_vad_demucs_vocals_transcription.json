@@ -1,0 +1,156 @@
+{
+  "source_file": "VOR20260508104748_0805_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:10:20,00:14:27": "Você pode fazer isso com o seu corpo, com a sua mente.",
+    "00:14:27,00:22:05": "Você pode fazer isso com o seu corpo, com a sua mente."
+  },
+  "hallucinations_filtered": 2,
+  "words": [
+    {
+      "start": 620.07,
+      "end": 620.09,
+      "text": "Você",
+      "confidence": 0.165
+    },
+    {
+      "start": 620.09,
+      "end": 620.88,
+      "text": "pode",
+      "confidence": 0.588
+    },
+    {
+      "start": 833.61,
+      "end": 833.95,
+      "text": "fazer",
+      "confidence": 0.351
+    },
+    {
+      "start": 833.95,
+      "end": 834.25,
+      "text": "isso",
+      "confidence": 0.849
+    },
+    {
+      "start": 834.25,
+      "end": 834.27,
+      "text": "com",
+      "confidence": 0.779
+    },
+    {
+      "start": 834.27,
+      "end": 834.57,
+      "text": "o",
+      "confidence": 0.365
+    },
+    {
+      "start": 834.57,
+      "end": 834.59,
+      "text": "seu",
+      "confidence": 0.948
+    },
+    {
+      "start": 834.59,
+      "end": 835.31,
+      "text": "corpo,",
+      "confidence": 0.831
+    },
+    {
+      "start": 835.57,
+      "end": 835.89,
+      "text": "com",
+      "confidence": 0.926
+    },
+    {
+      "start": 867.05,
+      "end": 867.26,
+      "text": "a",
+      "confidence": 0.939
+    },
+    {
+      "start": 867.26,
+      "end": 867.3,
+      "text": "sua",
+      "confidence": 0.996
+    },
+    {
+      "start": 867.3,
+      "end": 867.56,
+      "text": "mente.",
+      "confidence": 0.98
+    },
+    {
+      "start": 867.56,
+      "end": 867.58,
+      "text": "Você",
+      "confidence": 0.336
+    },
+    {
+      "start": 867.58,
+      "end": 867.6,
+      "text": "pode",
+      "confidence": 0.872
+    },
+    {
+      "start": 937.84,
+      "end": 939.06,
+      "text": "fazer",
+      "confidence": 0.92
+    },
+    {
+      "start": 1323.11,
+      "end": 1323.59,
+      "text": "isso",
+      "confidence": 0.994
+    },
+    {
+      "start": 1323.59,
+      "end": 1323.91,
+      "text": "com",
+      "confidence": 0.979
+    },
+    {
+      "start": 1323.91,
+      "end": 1324.13,
+      "text": "o",
+      "confidence": 0.749
+    },
+    {
+      "start": 1324.13,
+      "end": 1324.15,
+      "text": "seu",
+      "confidence": 0.999
+    },
+    {
+      "start": 1324.15,
+      "end": 1324.23,
+      "text": "corpo,",
+      "confidence": 0.995
+    },
+    {
+      "start": 1324.95,
+      "end": 1324.97,
+      "text": "com",
+      "confidence": 0.992
+    },
+    {
+      "start": 1324.97,
+      "end": 1324.99,
+      "text": "a",
+      "confidence": 0.985
+    },
+    {
+      "start": 1324.99,
+      "end": 1325.01,
+      "text": "sua",
+      "confidence": 0.999
+    },
+    {
+      "start": 1325.01,
+      "end": 1325.03,
+      "text": "mente.",
+      "confidence": 0.989
+    }
+  ]
+}

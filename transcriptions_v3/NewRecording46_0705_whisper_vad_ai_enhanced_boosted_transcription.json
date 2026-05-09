@@ -1,0 +1,162 @@
+{
+  "source_file": "NewRecording46_0705_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:01:31,00:01:31": "E aí",
+    "00:01:32,00:01:33": "E aí",
+    "00:04:27,00:04:30": "A CIDADE NO BRASIL",
+    "00:06:54,00:07:00": "A CIDADE NO BRASIL",
+    "00:09:31,00:09:35": "O que é isso?",
+    "00:12:23,00:12:37": "A CIDADE NO BRASIL",
+    "00:29:16,00:29:17": "E aí",
+    "00:41:23,00:41:23": "E aí"
+  },
+  "hallucinations_filtered": 4,
+  "words": [
+    {
+      "start": 91.05,
+      "end": 91.39,
+      "text": "E",
+      "confidence": 0.695
+    },
+    {
+      "start": 91.39,
+      "end": 91.41,
+      "text": "aí",
+      "confidence": 0.995
+    },
+    {
+      "start": 92.63,
+      "end": 92.67,
+      "text": "E",
+      "confidence": 0.942
+    },
+    {
+      "start": 92.67,
+      "end": 93.87,
+      "text": "aí",
+      "confidence": 0.997
+    },
+    {
+      "start": 267.58,
+      "end": 268.38,
+      "text": "A",
+      "confidence": 0.095
+    },
+    {
+      "start": 268.38,
+      "end": 268.6,
+      "text": "CIDADE",
+      "confidence": 0.394
+    },
+    {
+      "start": 268.6,
+      "end": 268.62,
+      "text": "NO",
+      "confidence": 0.988
+    },
+    {
+      "start": 268.62,
+      "end": 270.68,
+      "text": "BRASIL",
+      "confidence": 0.942
+    },
+    {
+      "start": 414.76,
+      "end": 414.78,
+      "text": "A",
+      "confidence": 0.136
+    },
+    {
+      "start": 414.78,
+      "end": 416.54,
+      "text": "CIDADE",
+      "confidence": 0.449
+    },
+    {
+      "start": 416.54,
+      "end": 416.94,
+      "text": "NO",
+      "confidence": 0.991
+    },
+    {
+      "start": 416.94,
+      "end": 420.54,
+      "text": "BRASIL",
+      "confidence": 0.938
+    },
+    {
+      "start": 571.22,
+      "end": 572.85,
+      "text": "O",
+      "confidence": 0.086
+    },
+    {
+      "start": 573.7,
+      "end": 574.14,
+      "text": "que",
+      "confidence": 0.631
+    },
+    {
+      "start": 574.14,
+      "end": 574.24,
+      "text": "é",
+      "confidence": 0.592
+    },
+    {
+      "start": 574.24,
+      "end": 575.94,
+      "text": "isso?",
+      "confidence": 0.824
+    },
+    {
+      "start": 743.12,
+      "end": 743.14,
+      "text": "A",
+      "confidence": 0.111
+    },
+    {
+      "start": 743.14,
+      "end": 743.7,
+      "text": "CIDADE",
+      "confidence": 0.468
+    },
+    {
+      "start": 743.7,
+      "end": 744.48,
+      "text": "NO",
+      "confidence": 0.99
+    },
+    {
+      "start": 744.48,
+      "end": 757.52,
+      "text": "BRASIL",
+      "confidence": 0.951
+    },
+    {
+      "start": 1756.34,
+      "end": 1757.46,
+      "text": "E",
+      "confidence": 0.199
+    },
+    {
+      "start": 1757.46,
+      "end": 1757.48,
+      "text": "aí",
+      "confidence": 0.957
+    },
+    {
+      "start": 2483.88,
+      "end": 2483.9,
+      "text": "E",
+      "confidence": 0.881
+    },
+    {
+      "start": 2483.9,
+      "end": 2483.96,
+      "text": "aí",
+      "confidence": 1.0
+    }
+  ]
+}

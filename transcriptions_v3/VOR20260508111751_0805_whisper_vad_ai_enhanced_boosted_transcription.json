@@ -1,0 +1,73 @@
+{
+  "source_file": "VOR20260508111751_0805_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:03:57,00:03:57": "Ficou de pena?",
+    "00:04:09,00:04:09": "Que isso aí?",
+    "00:05:06,00:05:09": "A CIDADE NO BRASIL"
+  },
+  "hallucinations_filtered": 5,
+  "words": [
+    {
+      "start": 237.04,
+      "end": 237.44,
+      "text": "Ficou",
+      "confidence": 0.369
+    },
+    {
+      "start": 237.44,
+      "end": 237.62,
+      "text": "de",
+      "confidence": 0.518
+    },
+    {
+      "start": 237.62,
+      "end": 237.9,
+      "text": "pena?",
+      "confidence": 0.58
+    },
+    {
+      "start": 249.19,
+      "end": 249.58,
+      "text": "Que",
+      "confidence": 0.203
+    },
+    {
+      "start": 249.58,
+      "end": 249.7,
+      "text": "isso",
+      "confidence": 0.4
+    },
+    {
+      "start": 249.7,
+      "end": 249.82,
+      "text": "aí?",
+      "confidence": 0.655
+    },
+    {
+      "start": 306.34,
+      "end": 306.88,
+      "text": "A",
+      "confidence": 0.097
+    },
+    {
+      "start": 306.88,
+      "end": 308.34,
+      "text": "CIDADE",
+      "confidence": 0.44
+    },
+    {
+      "start": 308.34,
+      "end": 308.36,
+      "text": "NO",
+      "confidence": 0.985
+    },
+    {
+      "start": 308.36,
+      "end": 309.5,
+      "text": "BRASIL",
+      "confidence": 0.97
+    }
+  ]
+}

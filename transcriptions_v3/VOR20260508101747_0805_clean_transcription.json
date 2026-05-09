@@ -1,0 +1,542 @@
+{
+  "source_file": "VOR20260508101747_0805_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:30,00:00:58": "A CIDADE NO BRASIL",
+    "00:01:29,00:01:30": "E aí",
+    "00:01:59,00:02:00": "E aí",
+    "00:02:00,00:02:29": "A CIDADE NO BRASIL",
+    "00:02:59,00:03:00": "E aí",
+    "00:03:29,00:03:30": "E aí",
+    "00:05:13,00:05:26": "A CIDADE NO BRASIL",
+    "00:05:55,00:05:58": "A CIDADE NO BRASIL",
+    "00:09:58,00:09:58": "E aí",
+    "00:10:29,00:10:30": "E aí",
+    "00:10:30,00:10:57": "A CIDADE NO BRASIL",
+    "00:11:29,00:11:30": "E aí",
+    "00:11:59,00:12:00": "E aí",
+    "00:15:00,00:15:26": "A CIDADE NO BRASIL",
+    "00:16:29,00:16:30": "E aí",
+    "00:16:52,00:16:59": "A CIDADE NO BRASIL",
+    "00:17:57,00:18:00": "E aí",
+    "00:18:29,00:18:30": "E aí",
+    "00:18:30,00:18:59": "A CIDADE NO BRASIL",
+    "00:19:30,00:19:59": "A CIDADE NO BRASIL",
+    "00:25:29,00:25:30": "E aí",
+    "00:25:43,00:25:59": "A CIDADE NO BRASIL",
+    "00:26:00,00:26:29": "A CIDADE NO BRASIL",
+    "00:27:29,00:27:30": "E aí",
+    "00:27:30,00:27:58": "A CIDADE NO BRASIL",
+    "00:28:29,00:28:30": "E aí",
+    "00:29:28,00:29:30": "O que é isso?",
+    "00:29:30,00:29:59": "A CIDADE NO BRASIL"
+  },
+  "hallucinations_filtered": 2,
+  "words": [
+    {
+      "start": 30.0,
+      "end": 30.3,
+      "text": "A",
+      "confidence": 0.179
+    },
+    {
+      "start": 30.3,
+      "end": 43.86,
+      "text": "CIDADE",
+      "confidence": 0.59
+    },
+    {
+      "start": 43.86,
+      "end": 44.8,
+      "text": "NO",
+      "confidence": 0.993
+    },
+    {
+      "start": 44.8,
+      "end": 58.72,
+      "text": "BRASIL",
+      "confidence": 0.942
+    },
+    {
+      "start": 89.98,
+      "end": 90.0,
+      "text": "E",
+      "confidence": 0.289
+    },
+    {
+      "start": 90.0,
+      "end": 90.02,
+      "text": "aí",
+      "confidence": 0.968
+    },
+    {
+      "start": 119.98,
+      "end": 120.0,
+      "text": "E",
+      "confidence": 0.187
+    },
+    {
+      "start": 120.0,
+      "end": 120.02,
+      "text": "aí",
+      "confidence": 0.874
+    },
+    {
+      "start": 120.02,
+      "end": 126.2,
+      "text": "A",
+      "confidence": 0.166
+    },
+    {
+      "start": 126.2,
+      "end": 149.92,
+      "text": "CIDADE",
+      "confidence": 0.585
+    },
+    {
+      "start": 149.92,
+      "end": 149.94,
+      "text": "NO",
+      "confidence": 0.991
+    },
+    {
+      "start": 149.94,
+      "end": 149.96,
+      "text": "BRASIL",
+      "confidence": 0.949
+    },
+    {
+      "start": 179.98,
+      "end": 180.0,
+      "text": "E",
+      "confidence": 0.221
+    },
+    {
+      "start": 180.0,
+      "end": 180.02,
+      "text": "aí",
+      "confidence": 0.922
+    },
+    {
+      "start": 209.98,
+      "end": 210.0,
+      "text": "E",
+      "confidence": 0.239
+    },
+    {
+      "start": 210.0,
+      "end": 210.02,
+      "text": "aí",
+      "confidence": 0.958
+    },
+    {
+      "start": 313.3,
+      "end": 313.32,
+      "text": "A",
+      "confidence": 0.095
+    },
+    {
+      "start": 313.32,
+      "end": 313.46,
+      "text": "CIDADE",
+      "confidence": 0.41
+    },
+    {
+      "start": 313.46,
+      "end": 313.72,
+      "text": "NO",
+      "confidence": 0.982
+    },
+    {
+      "start": 313.72,
+      "end": 326.42,
+      "text": "BRASIL",
+      "confidence": 0.949
+    },
+    {
+      "start": 355.98,
+      "end": 356.14,
+      "text": "A",
+      "confidence": 0.204
+    },
+    {
+      "start": 356.14,
+      "end": 357.16,
+      "text": "CIDADE",
+      "confidence": 0.555
+    },
+    {
+      "start": 357.16,
+      "end": 357.18,
+      "text": "NO",
+      "confidence": 0.992
+    },
+    {
+      "start": 357.18,
+      "end": 358.04,
+      "text": "BRASIL",
+      "confidence": 0.943
+    },
+    {
+      "start": 598.46,
+      "end": 598.48,
+      "text": "E",
+      "confidence": 0.151
+    },
+    {
+      "start": 598.48,
+      "end": 598.82,
+      "text": "aí",
+      "confidence": 0.844
+    },
+    {
+      "start": 629.62,
+      "end": 629.98,
+      "text": "E",
+      "confidence": 0.398
+    },
+    {
+      "start": 629.98,
+      "end": 630.0,
+      "text": "aí",
+      "confidence": 0.948
+    },
+    {
+      "start": 630.0,
+      "end": 633.22,
+      "text": "A",
+      "confidence": 0.197
+    },
+    {
+      "start": 633.22,
+      "end": 643.16,
+      "text": "CIDADE",
+      "confidence": 0.695
+    },
+    {
+      "start": 643.16,
+      "end": 643.46,
+      "text": "NO",
+      "confidence": 0.993
+    },
+    {
+      "start": 643.46,
+      "end": 657.76,
+      "text": "BRASIL",
+      "confidence": 0.936
+    },
+    {
+      "start": 689.98,
+      "end": 690.0,
+      "text": "E",
+      "confidence": 0.377
+    },
+    {
+      "start": 690.0,
+      "end": 690.02,
+      "text": "aí",
+      "confidence": 0.972
+    },
+    {
+      "start": 719.98,
+      "end": 720.0,
+      "text": "E",
+      "confidence": 0.368
+    },
+    {
+      "start": 720.0,
+      "end": 720.02,
+      "text": "aí",
+      "confidence": 0.932
+    },
+    {
+      "start": 900.0,
+      "end": 900.06,
+      "text": "A",
+      "confidence": 0.157
+    },
+    {
+      "start": 900.06,
+      "end": 901.12,
+      "text": "CIDADE",
+      "confidence": 0.455
+    },
+    {
+      "start": 901.12,
+      "end": 901.66,
+      "text": "NO",
+      "confidence": 0.988
+    },
+    {
+      "start": 901.66,
+      "end": 926.24,
+      "text": "BRASIL",
+      "confidence": 0.936
+    },
+    {
+      "start": 989.98,
+      "end": 990.0,
+      "text": "E",
+      "confidence": 0.167
+    },
+    {
+      "start": 990.0,
+      "end": 990.02,
+      "text": "aí",
+      "confidence": 0.863
+    },
+    {
+      "start": 1012.34,
+      "end": 1012.36,
+      "text": "A",
+      "confidence": 0.121
+    },
+    {
+      "start": 1012.36,
+      "end": 1012.92,
+      "text": "CIDADE",
+      "confidence": 0.374
+    },
+    {
+      "start": 1012.92,
+      "end": 1013.34,
+      "text": "NO",
+      "confidence": 0.986
+    },
+    {
+      "start": 1013.34,
+      "end": 1019.64,
+      "text": "BRASIL",
+      "confidence": 0.94
+    },
+    {
+      "start": 1077.92,
+      "end": 1079.98,
+      "text": "E",
+      "confidence": 0.237
+    },
+    {
+      "start": 1079.98,
+      "end": 1080.0,
+      "text": "aí",
+      "confidence": 0.862
+    },
+    {
+      "start": 1109.98,
+      "end": 1110.0,
+      "text": "E",
+      "confidence": 0.246
+    },
+    {
+      "start": 1110.0,
+      "end": 1110.02,
+      "text": "aí",
+      "confidence": 0.868
+    },
+    {
+      "start": 1110.02,
+      "end": 1110.52,
+      "text": "A",
+      "confidence": 0.183
+    },
+    {
+      "start": 1110.52,
+      "end": 1119.18,
+      "text": "CIDADE",
+      "confidence": 0.581
+    },
+    {
+      "start": 1119.18,
+      "end": 1121.48,
+      "text": "NO",
+      "confidence": 0.987
+    },
+    {
+      "start": 1121.48,
+      "end": 1139.9,
+      "text": "BRASIL",
+      "confidence": 0.948
+    },
+    {
+      "start": 1170.0,
+      "end": 1170.88,
+      "text": "A",
+      "confidence": 0.146
+    },
+    {
+      "start": 1170.88,
+      "end": 1172.4,
+      "text": "CIDADE",
+      "confidence": 0.513
+    },
+    {
+      "start": 1172.4,
+      "end": 1172.84,
+      "text": "NO",
+      "confidence": 0.989
+    },
+    {
+      "start": 1172.84,
+      "end": 1199.86,
+      "text": "BRASIL",
+      "confidence": 0.935
+    },
+    {
+      "start": 1529.42,
+      "end": 1529.98,
+      "text": "E",
+      "confidence": 0.235
+    },
+    {
+      "start": 1529.98,
+      "end": 1530.0,
+      "text": "aí",
+      "confidence": 0.916
+    },
+    {
+      "start": 1543.62,
+      "end": 1543.64,
+      "text": "A",
+      "confidence": 0.205
+    },
+    {
+      "start": 1543.64,
+      "end": 1547.66,
+      "text": "CIDADE",
+      "confidence": 0.652
+    },
+    {
+      "start": 1547.66,
+      "end": 1547.68,
+      "text": "NO",
+      "confidence": 0.991
+    },
+    {
+      "start": 1547.68,
+      "end": 1559.34,
+      "text": "BRASIL",
+      "confidence": 0.937
+    },
+    {
+      "start": 1560.0,
+      "end": 1560.02,
+      "text": "A",
+      "confidence": 0.138
+    },
+    {
+      "start": 1560.02,
+      "end": 1563.24,
+      "text": "CIDADE",
+      "confidence": 0.371
+    },
+    {
+      "start": 1563.24,
+      "end": 1573.1,
+      "text": "NO",
+      "confidence": 0.982
+    },
+    {
+      "start": 1573.1,
+      "end": 1589.52,
+      "text": "BRASIL",
+      "confidence": 0.954
+    },
+    {
+      "start": 1649.98,
+      "end": 1650.0,
+      "text": "E",
+      "confidence": 0.229
+    },
+    {
+      "start": 1650.0,
+      "end": 1650.02,
+      "text": "aí",
+      "confidence": 0.9
+    },
+    {
+      "start": 1650.02,
+      "end": 1650.42,
+      "text": "A",
+      "confidence": 0.21
+    },
+    {
+      "start": 1650.42,
+      "end": 1651.76,
+      "text": "CIDADE",
+      "confidence": 0.645
+    },
+    {
+      "start": 1651.76,
+      "end": 1651.78,
+      "text": "NO",
+      "confidence": 0.992
+    },
+    {
+      "start": 1651.78,
+      "end": 1678.66,
+      "text": "BRASIL",
+      "confidence": 0.945
+    },
+    {
+      "start": 1709.98,
+      "end": 1710.0,
+      "text": "E",
+      "confidence": 0.221
+    },
+    {
+      "start": 1710.0,
+      "end": 1710.02,
+      "text": "aí",
+      "confidence": 0.938
+    },
+    {
+      "start": 1768.56,
+      "end": 1769.98,
+      "text": "O",
+      "confidence": 0.093
+    },
+    {
+      "start": 1769.98,
+      "end": 1770.0,
+      "text": "que",
+      "confidence": 0.294
+    },
+    {
+      "start": 1770.0,
+      "end": 1770.02,
+      "text": "é",
+      "confidence": 0.602
+    },
+    {
+      "start": 1770.02,
+      "end": 1770.04,
+      "text": "isso?",
+      "confidence": 0.707
+    },
+    {
+      "start": 1770.04,
+      "end": 1772.68,
+      "text": "A",
+      "confidence": 0.222
+    },
+    {
+      "start": 1772.68,
+      "end": 1783.92,
+      "text": "CIDADE",
+      "confidence": 0.623
+    },
+    {
+      "start": 1783.92,
+      "end": 1784.02,
+      "text": "NO",
+      "confidence": 0.992
+    },
+    {
+      "start": 1784.02,
+      "end": 1799.98,
+      "text": "BRASIL",
+      "confidence": 0.942
+    }
+  ]
+}

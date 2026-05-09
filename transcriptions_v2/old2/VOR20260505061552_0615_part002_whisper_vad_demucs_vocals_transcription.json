@@ -1,0 +1,85 @@
+{
+  "source_file": "VOR20260505061552_0615_part002_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 5400.0,
+  "segments": {
+    "00:00:33,00:00:34": "Você vai chorar bem.",
+    "00:00:34,00:00:54": "Eu vou chorar bem.",
+    "00:00:54,00:01:40": "Eu vou chorar bem."
+  },
+  "words": [
+    {
+      "start": 33.71,
+      "end": 33.83,
+      "text": "Você",
+      "probability": 0.029
+    },
+    {
+      "start": 33.83,
+      "end": 33.89,
+      "text": "vai",
+      "probability": 0.694
+    },
+    {
+      "start": 33.89,
+      "end": 34.51,
+      "text": "chorar",
+      "probability": 0.924
+    },
+    {
+      "start": 34.51,
+      "end": 34.73,
+      "text": "bem.",
+      "probability": 0.134
+    },
+    {
+      "start": 34.85,
+      "end": 35.21,
+      "text": "Eu",
+      "probability": 0.774
+    },
+    {
+      "start": 53.74,
+      "end": 53.74,
+      "text": "vou",
+      "probability": 0.704
+    },
+    {
+      "start": 53.74,
+      "end": 54.14,
+      "text": "chorar",
+      "probability": 0.945
+    },
+    {
+      "start": 54.14,
+      "end": 54.4,
+      "text": "bem.",
+      "probability": 0.92
+    },
+    {
+      "start": 54.58,
+      "end": 55.18,
+      "text": "Eu",
+      "probability": 0.873
+    },
+    {
+      "start": 99.47,
+      "end": 99.67,
+      "text": "vou",
+      "probability": 0.829
+    },
+    {
+      "start": 99.67,
+      "end": 100.25,
+      "text": "chorar",
+      "probability": 0.993
+    },
+    {
+      "start": 100.25,
+      "end": 100.25,
+      "text": "bem.",
+      "probability": 0.91
+    }
+  ]
+}
