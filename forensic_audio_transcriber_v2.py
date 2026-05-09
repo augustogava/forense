@@ -8,20 +8,20 @@ Integrated audio preprocessing (noise reduction, VAD-gated spectral boost).
 
 pip install faster-whisper librosa soundfile noisereduce scipy
 
-== TUNING GUIDE (optimized for noisy background + low volume + short words) ==
+== TUNING GUIDE (balanced: capture quiet speech while filtering hallucinations) ==
 
 --- TRANSCRIPTION PARAMETERS (model.transcribe) ---
   beam_size=10            : Higher beam = more accurate decoding (default 5, max ~10 useful)
   temperature=[0.0,0.2,0.4] : Starts deterministic, retries with slight randomness if logprob threshold not met
-  log_prob_threshold=-1.5  : Accepts segments down to -1.5 avg_logprob (default -1.0 rejects noisy speech)
-  no_speech_threshold=0.6 : Segments with no_speech_prob > 0.6 are discarded (Whisper default)
-  compression_ratio_threshold=2.4 : Segments with high repetition ratio are discarded (Whisper default)
-  hallucination_silence_threshold=1.0 : Words generated during >1s silence gaps are removed (lower = stricter)
+  log_prob_threshold=-2.0  : Accepts segments down to -2.0 avg_logprob (relaxed to capture noisy/quiet speech)
+  no_speech_threshold=0.7 : Segments with no_speech_prob > 0.7 are discarded (relaxed from 0.6)
+  compression_ratio_threshold=2.8 : Segments with high repetition ratio are discarded (relaxed from 2.4)
+  hallucination_silence_threshold=1.5 : Words generated during >1.5s silence gaps are removed (relaxed from 1.0)
   condition_on_previous_text=False : Prevents error propagation between segments
 
 --- VAD PARAMETERS (Silero VAD inside faster-whisper) ---
-  vad threshold=0.35      : Speech detection confidence (0=everything, 1=only loud speech). 0.35 = slightly strict to reduce false positives
-  min_speech_duration_ms=250 : Minimum speech duration to keep. 250ms catches short words ("sim","nao","tchau")
+  vad threshold=0.25      : Speech detection confidence (0=everything, 1=only loud speech). 0.25 = sensitive to catch quiet speech
+  min_speech_duration_ms=200 : Minimum speech duration to keep. 200ms catches very short words ("sim","é","hm")
   min_silence_duration_ms=300 : Minimum silence to split segments. 300ms keeps natural pauses together
 
 --- AUDIO PREPROCESSING PIPELINE (applied before transcription) ---
@@ -37,16 +37,16 @@ pip install faster-whisper librosa soundfile noisereduce scipy
        sigmoid_slope=10     : Soft transition noise/speech (avoids abrupt cuts on short words)
   6. _whisper_spectral_boost_vad : Frequency-domain boost, only where VAD detected voice
        speech_band=150-8000Hz : Covers full Whisper mel range including sibilants (s,f,ch,x)
-       speech_gain=2.0x     : Moderate boost to speech frequencies
+       speech_gain=1.5x     : Gentle boost to speech frequencies (reduced from 2.0 to avoid artifacts)
        sub_150Hz_gain=0.1   : Strong cut below speech range
        above_8kHz_gain=0.2  : Mild cut above Whisper's useful range
-       frame_boost_max=6.0x : Max boost for quiet voiced frames
+       frame_boost_max=4.0x : Max boost for quiet voiced frames (reduced from 6.0 to avoid distortion)
   7. _boost_quiet_segments_vad : Time-domain gain, only where VAD detected voice
-       max_gain=6.0x (15.6dB) : Enough to lift quiet speech without amplifying artifacts
+       max_gain=4.0x (12dB) : Conservative lift for quiet speech (reduced from 6.0 to prevent artifact cascade)
   8. _dynamic_compress       : Reduces dynamic range so quiet and loud are closer
        threshold=-20dB      : Starts compressing at -20dB
        ratio=2.5:1          : Gentle compression, preserves natural emphasis of short words
-  9. _loudness_norm(-6dB)   : Normalizes overall loudness to -6dB RMS
+  9. _loudness_norm(-8dB)   : Normalizes overall loudness to -8dB RMS (reduced from -6 to avoid over-amplification)
   10. _peak_norm(0.99)      : Prevents clipping, normalizes peak to 0.99
 """
 
@@ -330,9 +330,9 @@ def _whisper_spectral_boost_vad(y: np.ndarray, sr: int, vad_mask: np.ndarray) ->
         has_voice = frame_vad > 0.3
         boost_frames = quiet & has_voice
         if np.any(boost_frames) and median_energy > 0:
-            frame_gain[boost_frames] = np.clip(median_energy / (speech_energy[boost_frames] + 1e-10), 1.0, 6.0)
+            frame_gain[boost_frames] = np.clip(median_energy / (speech_energy[boost_frames] + 1e-10), 1.0, 4.0)
         freq_gain = np.ones_like(freqs)
-        freq_gain[speech_mask] = 2.0
+        freq_gain[speech_mask] = 1.5
         freq_gain[(freqs < 150)] = 0.1
         freq_gain[(freqs > 8000)] = 0.2
         return magnitude * freq_gain[:, np.newaxis] * frame_gain[np.newaxis, :] * np.exp(1j * phase)
@@ -409,9 +409,9 @@ def _preprocess_audio(audio_path: Path, output_dir: Path) -> Path:
     y = nr.reduce_noise(y=y, sr=sr, stationary=False, prop_decrease=0.70,
                         thresh_n_mult_nonstationary=2.0, sigmoid_slope_nonstationary=10, n_fft=2048)
     y = _whisper_spectral_boost_vad(y, sr, vad_mask)
-    y = _boost_quiet_segments_vad(y, sr, vad_mask, max_gain=6.0)
+    y = _boost_quiet_segments_vad(y, sr, vad_mask, max_gain=4.0)
     y = _dynamic_compress(y, sr)
-    y = _loudness_norm(y, target_db=-6)
+    y = _loudness_norm(y, target_db=-8)
     y = _peak_norm(y)
 
     output_dir.mkdir(parents=True, exist_ok=True)
@@ -454,7 +454,7 @@ _PROMPT_FRAGMENTS = [
 ]
 
 
-def _has_ngram_repetition(words: list, ngram_sizes=(2, 3, 4), min_repeats: int = 3) -> bool:
+def _has_ngram_repetition(words: list, ngram_sizes=(2, 3, 4), min_repeats: int = 4) -> bool:
     for n in ngram_sizes:
         if len(words) < n * min_repeats:
             continue
@@ -462,7 +462,7 @@ def _has_ngram_repetition(words: list, ngram_sizes=(2, 3, 4), min_repeats: int =
         from collections import Counter
         counts = Counter(ngrams)
         most_common_ng, count = counts.most_common(1)[0]
-        if count >= min_repeats and (count * n) / len(words) > 0.4:
+        if count >= min_repeats and (count * n) / len(words) > 0.5:
             return True
     return False
 
@@ -476,9 +476,9 @@ def _is_hallucination(seg) -> bool:
     logprob = getattr(seg, "avg_logprob", 0.0)
     compression = getattr(seg, "compression_ratio", 1.0)
 
-    if no_speech > 0.6 and logprob < -1.0:
+    if no_speech > 0.7 and logprob < -1.2:
         return True
-    if compression > 2.4 and logprob < -1.0:
+    if compression > 2.8 and logprob < -1.2:
         return True
 
     text_lower = text.lower()
@@ -494,16 +494,16 @@ def _is_hallucination(seg) -> bool:
 
     words = [w for w in text_lower.replace(",", " ").replace(".", " ").split() if w]
     unique = set(words)
-    if len(words) >= 3 and len(unique) <= 2 and unique.issubset(_EXPLICIT_KEYWORDS):
+    if len(words) >= 4 and len(unique) <= 2 and unique.issubset(_EXPLICIT_KEYWORDS):
         return True
-    if len(words) >= 5:
+    if len(words) >= 6:
         from collections import Counter
         counts = Counter(words)
         most_common_count = counts.most_common(1)[0][1]
-        if most_common_count / len(words) > 0.6:
+        if most_common_count / len(words) > 0.7:
             return True
 
-    if len(words) >= 6 and _has_ngram_repetition(words):
+    if len(words) >= 8 and _has_ngram_repetition(words):
         return True
 
     return False
@@ -542,15 +542,15 @@ def transcribe_file(
             beam_size=10,
             word_timestamps=True,
             condition_on_previous_text=False,
-            no_speech_threshold=0.6,
-            compression_ratio_threshold=2.4,
+            no_speech_threshold=0.7,
+            compression_ratio_threshold=2.8,
             temperature=[0.0, 0.2, 0.4],
-            log_prob_threshold=-1.5,
-            hallucination_silence_threshold=1.0,
+            log_prob_threshold=-2.0,
+            hallucination_silence_threshold=1.5,
             vad_filter=True,
             vad_parameters=dict(
-                threshold=0.35,
-                min_speech_duration_ms=250,
+                threshold=0.25,
+                min_speech_duration_ms=200,
                 min_silence_duration_ms=300,
             ),
             initial_prompt=_FORENSIC_PROMPT,
