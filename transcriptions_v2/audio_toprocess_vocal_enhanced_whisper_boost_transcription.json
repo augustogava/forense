@@ -1,0 +1,283 @@
+{
+  "source_file": "audio_toprocess_vocal_enhanced_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 4769.5,
+  "segments": {
+    "00:00:00,00:00:02": "O que é o sexo?",
+    "00:00:02,00:00:04": "O que é o sexo?",
+    "00:01:21,00:01:36": "A gente tem que ter um pouco de luz.",
+    "00:01:38,00:01:39": "É legal, né?",
+    "00:01:39,00:01:46": "A gente vai ter um pouco de luz.",
+    "00:01:47,00:01:54": "A gente vai ter um pouco de luz.",
+    "00:03:23,00:03:27": "o rei",
+    "00:03:27,00:03:29": "o rei",
+    "01:18:44,01:18:56": "Tchau, tchau."
+  },
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.0,
+      "text": "O",
+      "probability": 0.037
+    },
+    {
+      "start": 0.0,
+      "end": 0.84,
+      "text": "que",
+      "probability": 0.488
+    },
+    {
+      "start": 1.64,
+      "end": 1.86,
+      "text": "é",
+      "probability": 0.248
+    },
+    {
+      "start": 1.86,
+      "end": 1.88,
+      "text": "o",
+      "probability": 0.061
+    },
+    {
+      "start": 1.88,
+      "end": 2.4,
+      "text": "sexo?",
+      "probability": 0.494
+    },
+    {
+      "start": 2.64,
+      "end": 2.64,
+      "text": "O",
+      "probability": 0.35
+    },
+    {
+      "start": 2.64,
+      "end": 3.28,
+      "text": "que",
+      "probability": 0.604
+    },
+    {
+      "start": 3.28,
+      "end": 3.84,
+      "text": "é",
+      "probability": 0.881
+    },
+    {
+      "start": 3.84,
+      "end": 3.92,
+      "text": "o",
+      "probability": 0.925
+    },
+    {
+      "start": 3.92,
+      "end": 4.52,
+      "text": "sexo?",
+      "probability": 0.998
+    },
+    {
+      "start": 81.49,
+      "end": 81.99,
+      "text": "A",
+      "probability": 0.025
+    },
+    {
+      "start": 94.88,
+      "end": 95.08,
+      "text": "gente",
+      "probability": 0.254
+    },
+    {
+      "start": 95.08,
+      "end": 95.4,
+      "text": "tem",
+      "probability": 0.116
+    },
+    {
+      "start": 95.4,
+      "end": 95.54,
+      "text": "que",
+      "probability": 0.479
+    },
+    {
+      "start": 95.54,
+      "end": 95.74,
+      "text": "ter",
+      "probability": 0.246
+    },
+    {
+      "start": 95.74,
+      "end": 95.8,
+      "text": "um",
+      "probability": 0.138
+    },
+    {
+      "start": 95.8,
+      "end": 95.8,
+      "text": "pouco",
+      "probability": 0.127
+    },
+    {
+      "start": 95.8,
+      "end": 95.94,
+      "text": "de",
+      "probability": 0.946
+    },
+    {
+      "start": 95.94,
+      "end": 96.34,
+      "text": "luz.",
+      "probability": 0.846
+    },
+    {
+      "start": 98.38,
+      "end": 98.84,
+      "text": "É",
+      "probability": 0.118
+    },
+    {
+      "start": 98.84,
+      "end": 99.16,
+      "text": "legal,",
+      "probability": 0.195
+    },
+    {
+      "start": 99.3,
+      "end": 99.4,
+      "text": "né?",
+      "probability": 0.433
+    },
+    {
+      "start": 99.58,
+      "end": 100.04,
+      "text": "A",
+      "probability": 0.392
+    },
+    {
+      "start": 104.43,
+      "end": 104.65,
+      "text": "gente",
+      "probability": 0.99
+    },
+    {
+      "start": 104.65,
+      "end": 104.99,
+      "text": "vai",
+      "probability": 0.109
+    },
+    {
+      "start": 104.99,
+      "end": 105.29,
+      "text": "ter",
+      "probability": 0.296
+    },
+    {
+      "start": 105.29,
+      "end": 105.57,
+      "text": "um",
+      "probability": 0.259
+    },
+    {
+      "start": 105.57,
+      "end": 105.57,
+      "text": "pouco",
+      "probability": 0.881
+    },
+    {
+      "start": 105.57,
+      "end": 106.03,
+      "text": "de",
+      "probability": 0.94
+    },
+    {
+      "start": 106.03,
+      "end": 106.11,
+      "text": "luz.",
+      "probability": 0.807
+    },
+    {
+      "start": 107.22,
+      "end": 107.38,
+      "text": "A",
+      "probability": 0.247
+    },
+    {
+      "start": 107.38,
+      "end": 108.58,
+      "text": "gente",
+      "probability": 0.998
+    },
+    {
+      "start": 112.65,
+      "end": 112.87,
+      "text": "vai",
+      "probability": 0.928
+    },
+    {
+      "start": 112.87,
+      "end": 112.99,
+      "text": "ter",
+      "probability": 0.953
+    },
+    {
+      "start": 112.99,
+      "end": 113.41,
+      "text": "um",
+      "probability": 0.745
+    },
+    {
+      "start": 113.41,
+      "end": 113.43,
+      "text": "pouco",
+      "probability": 0.988
+    },
+    {
+      "start": 113.43,
+      "end": 114.11,
+      "text": "de",
+      "probability": 0.995
+    },
+    {
+      "start": 114.11,
+      "end": 114.41,
+      "text": "luz.",
+      "probability": 0.991
+    },
+    {
+      "start": 203.62,
+      "end": 203.7,
+      "text": "o",
+      "probability": 0.044
+    },
+    {
+      "start": 207.28,
+      "end": 207.88,
+      "text": "rei",
+      "probability": 0.437
+    },
+    {
+      "start": 207.88,
+      "end": 208.3,
+      "text": "o",
+      "probability": 0.01
+    },
+    {
+      "start": 208.3,
+      "end": 209.0,
+      "text": "rei",
+      "probability": 0.738
+    },
+    {
+      "start": 4724.96,
+      "end": 4726.36,
+      "text": "Tchau,",
+      "probability": 0.515
+    },
+    {
+      "start": 4735.38,
+      "end": 4736.52,
+      "text": "tchau.",
+      "probability": 0.831
+    }
+  ]
+}
