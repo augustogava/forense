@@ -1,0 +1,77 @@
+{
+  "source_file": "Banhonoite0805_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 808.8,
+  "segments": {
+    "00:10:36,00:10:36": "E aí",
+    "00:11:16,00:11:17": "Vamos lá.",
+    "00:11:18,00:11:19": "Obrigado.",
+    "00:11:50,00:11:50": "Obrigado.",
+    "00:13:16,00:13:18": "Vamos lá.",
+    "00:13:18,00:13:20": "Tchau, tchau."
+  },
+  "hallucinations_filtered": 2,
+  "words": [
+    {
+      "start": 636.25,
+      "end": 636.27,
+      "text": "E",
+      "confidence": 0.257
+    },
+    {
+      "start": 636.27,
+      "end": 636.29,
+      "text": "aí",
+      "confidence": 0.949
+    },
+    {
+      "start": 676.16,
+      "end": 677.4,
+      "text": "Vamos",
+      "confidence": 0.069
+    },
+    {
+      "start": 677.4,
+      "end": 677.42,
+      "text": "lá.",
+      "confidence": 0.906
+    },
+    {
+      "start": 678.54,
+      "end": 679.02,
+      "text": "Obrigado.",
+      "confidence": 0.315
+    },
+    {
+      "start": 710.52,
+      "end": 710.54,
+      "text": "Obrigado.",
+      "confidence": 0.318
+    },
+    {
+      "start": 796.57,
+      "end": 796.59,
+      "text": "Vamos",
+      "confidence": 0.038
+    },
+    {
+      "start": 796.59,
+      "end": 798.89,
+      "text": "lá.",
+      "confidence": 0.891
+    },
+    {
+      "start": 798.91,
+      "end": 799.51,
+      "text": "Tchau,",
+      "confidence": 0.176
+    },
+    {
+      "start": 800.11,
+      "end": 800.31,
+      "text": "tchau.",
+      "confidence": 0.925
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+{
+  "source_file": "VOR20260508094746_0805_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1800.0,
+  "segments": {
+    "00:06:29,00:06:31": "Eu não sei o que eu estou fazendo, eu não sei o que eu estou fazendo.",
+    "00:06:31,00:06:50": "Sem arena, mas gostando dessa segunda hora aqui do Metro Play, teve resultados também na finalzinha, e a gente vai ver aqui uma F-Lag, a mão de onça, e agora só a segunda, com os amantes que estão aí, manda a mão de completo, a gente é 9, 11, 8, 9, 8, 5, 0, entendeu?",
+    "00:06:57,00:06:59": "Metroplane, metropolitana."
+  },
+  "hallucinations_filtered": 9,
+  "words": [
+    {
+      "start": 389.54,
+      "end": 389.62,
+      "text": "Eu",
+      "confidence": 0.038
+    },
+    {
+      "start": 389.62,
+      "end": 389.76,
+      "text": "não",
+      "confidence": 0.204
+    },
+    {
+      "start": 389.76,
+      "end": 389.9,
+      "text": "sei",
+      "confidence": 0.156
+    },
+    {
+      "start": 389.9,
+      "end": 389.96,
+      "text": "o",
+      "confidence": 0.438
+    },
+    {
+      "start": 389.96,
+      "end": 390.24,
+      "text": "que",
+      "confidence": 0.966
+    },
+    {
+      "start": 390.24,
+      "end": 390.36,
+      "text": "eu",
+      "confidence": 0.195
+    },
+    {
+      "start": 390.36,
+      "end": 390.38,
+      "text": "estou",
+      "confidence": 0.41
+    },
+    {
+      "start": 390.38,
+      "end": 390.4,
+      "text": "fazendo,",
+      "confidence": 0.441
+    },
+    {
+      "start": 390.4,
+      "end": 390.72,
+      "text": "eu",
+      "confidence": 0.392
+    },
+    {
+      "start": 390.72,
+      "end": 390.74,
+      "text": "não",
+      "confidence": 0.749
+    },
+    {
+      "start": 390.74,
+      "end": 390.76,
+      "text": "sei",
+      "confidence": 0.896
+    },
+    {
+      "start": 390.76,
+      "end": 390.78,
+      "text": "o",
+      "confidence": 0.721
+    },
+    {
+      "start": 390.78,
+      "end": 390.8,
+      "text": "que",
+      "confidence": 0.992
+    },
+    {
+      "start": 390.8,
+      "end": 390.82,
+      "text": "eu",
+      "confidence": 0.899
+    },
+    {
+      "start": 390.82,
+      "end": 390.84,
+      "text": "estou",
+      "confidence": 0.961
+    },
+    {
+      "start": 390.84,
+      "end": 391.1,
+      "text": "fazendo.",
+      "confidence": 0.551
+    },
+    {
+      "start": 391.64,
+      "end": 392.2,
+      "text": "Sem",
+      "confidence": 0.004
+    },
+    {
+      "start": 392.2,
+      "end": 392.66,
+      "text": "arena,",
+      "confidence": 0.469
+    },
+    {
+      "start": 392.86,
+      "end": 393.16,
+      "text": "mas",
+      "confidence": 0.192
+    },
+    {
+      "start": 393.16,
+      "end": 393.92,
+      "text": "gostando",
+      "confidence": 0.097
+    },
+    {
+      "start": 393.92,
+      "end": 394.28,
+      "text": "dessa",
+      "confidence": 0.876
+    },
+    {
+      "start": 394.28,
+      "end": 394.62,
+      "text": "segunda",
+      "confidence": 0.865
+    },
+    {
+      "start": 394.62,
+      "end": 394.88,
+      "text": "hora",
+      "confidence": 0.967
+    },
+    {
+      "start": 394.88,
+      "end": 395.04,
+      "text": "aqui",
+      "confidence": 0.765
+    },
+    {
+      "start": 395.04,
+      "end": 395.2,
+      "text": "do",
+      "confidence": 0.81
+    },
+    {
+      "start": 395.2,
+      "end": 395.4,
+      "text": "Metro",
+      "confidence": 0.001
+    },
+    {
+      "start": 395.4,
+      "end": 395.74,
+      "text": "Play,",
+      "confidence": 0.032
+    },
+    {
+      "start": 395.88,
+      "end": 396.46,
+      "text": "teve",
+      "confidence": 0.37
+    },
+    {
+      "start": 396.46,
+      "end": 396.84,
+      "text": "resultados",
+      "confidence": 0.702
+    },
+    {
+      "start": 396.84,
+      "end": 397.16,
+      "text": "também",
+      "confidence": 0.134
+    },
+    {
+      "start": 397.16,
+      "end": 397.42,
+      "text": "na",
+      "confidence": 0.043
+    },
+    {
+      "start": 397.42,
+      "end": 398.18,
+      "text": "finalzinha,",
+      "confidence": 0.84
+    },
+    {
+      "start": 398.26,
+      "end": 398.62,
+      "text": "e",
+      "confidence": 0.421
+    },
+    {
+      "start": 398.62,
+      "end": 398.94,
+      "text": "a",
+      "confidence": 0.153
+    },
+    {
+      "start": 398.94,
+      "end": 399.08,
+      "text": "gente",
+      "confidence": 0.519
+    },
+    {
+      "start": 399.08,
+      "end": 399.24,
+      "text": "vai",
+      "confidence": 0.339
+    },
+    {
+      "start": 399.24,
+      "end": 399.44,
+      "text": "ver",
+      "confidence": 0.419
+    },
+    {
+      "start": 399.44,
+      "end": 399.56,
+      "text": "aqui",
+      "confidence": 0.886
+    },
+    {
+      "start": 399.56,
+      "end": 399.72,
+      "text": "uma",
+      "confidence": 0.853
+    },
+    {
+      "start": 399.72,
+      "end": 400.46,
+      "text": "F-Lag,",
+      "confidence": 0.305
+    },
+    {
+      "start": 400.6,
+      "end": 400.94,
+      "text": "a",
+      "confidence": 0.325
+    },
+    {
+      "start": 400.94,
+      "end": 401.16,
+      "text": "mão",
+      "confidence": 0.181
+    },
+    {
+      "start": 401.16,
+      "end": 401.32,
+      "text": "de",
+      "confidence": 0.958
+    },
+    {
+      "start": 401.32,
+      "end": 401.72,
+      "text": "onça,",
+      "confidence": 0.333
+    },
+    {
+      "start": 401.82,
+      "end": 402.06,
+      "text": "e",
+      "confidence": 0.345
+    },
+    {
+      "start": 402.06,
+      "end": 402.4,
+      "text": "agora",
+      "confidence": 0.118
+    },
+    {
+      "start": 402.4,
+      "end": 402.66,
+      "text": "só",
+      "confidence": 0.17
+    },
+    {
+      "start": 402.66,
+      "end": 402.82,
+      "text": "a",
+      "confidence": 0.178
+    },
+    {
+      "start": 402.82,
+      "end": 403.06,
+      "text": "segunda,",
+      "confidence": 0.612
+    },
+    {
+      "start": 403.48,
+      "end": 403.76,
+      "text": "com",
+      "confidence": 0.501
+    },
+    {
+      "start": 403.76,
+      "end": 403.98,
+      "text": "os",
+      "confidence": 0.501
+    },
+    {
+      "start": 403.98,
+      "end": 404.18,
+      "text": "amantes",
+      "confidence": 0.247
+    },
+    {
+      "start": 404.18,
+      "end": 404.36,
+      "text": "que",
+      "confidence": 0.997
+    },
+    {
+      "start": 404.36,
+      "end": 404.5,
+      "text": "estão",
+      "confidence": 0.997
+    },
+    {
+      "start": 404.5,
+      "end": 404.7,
+      "text": "aí,",
+      "confidence": 0.995
+    },
+    {
+      "start": 404.78,
+      "end": 405.1,
+      "text": "manda",
+      "confidence": 0.896
+    },
+    {
+      "start": 405.1,
+      "end": 405.12,
+      "text": "a",
+      "confidence": 0.301
+    },
+    {
+      "start": 405.12,
+      "end": 405.28,
+      "text": "mão",
+      "confidence": 0.865
+    },
+    {
+      "start": 405.28,
+      "end": 405.4,
+      "text": "de",
+      "confidence": 0.949
+    },
+    {
+      "start": 405.4,
+      "end": 405.72,
+      "text": "completo,",
+      "confidence": 0.875
+    },
+    {
+      "start": 405.9,
+      "end": 406.34,
+      "text": "a",
+      "confidence": 0.243
+    },
+    {
+      "start": 406.34,
+      "end": 406.62,
+      "text": "gente",
+      "confidence": 0.881
+    },
+    {
+      "start": 406.62,
+      "end": 406.8,
+      "text": "é",
+      "confidence": 0.531
+    },
+    {
+      "start": 406.8,
+      "end": 407.28,
+      "text": "9,",
+      "confidence": 0.439
+    },
+    {
+      "start": 407.46,
+      "end": 408.02,
+      "text": "11,",
+      "confidence": 0.383
+    },
+    {
+      "start": 408.14,
+      "end": 408.5,
+      "text": "8,",
+      "confidence": 0.498
+    },
+    {
+      "start": 408.58,
+      "end": 408.92,
+      "text": "9,",
+      "confidence": 0.938
+    },
+    {
+      "start": 409.06,
+      "end": 409.3,
+      "text": "8,",
+      "confidence": 0.979
+    },
+    {
+      "start": 409.44,
+      "end": 409.94,
+      "text": "5,",
+      "confidence": 0.986
+    },
+    {
+      "start": 409.96,
+      "end": 410.48,
+      "text": "0,",
+      "confidence": 0.938
+    },
+    {
+      "start": 410.58,
+      "end": 410.78,
+      "text": "entendeu?",
+      "confidence": 0.541
+    },
+    {
+      "start": 417.9,
+      "end": 418.86,
+      "text": "Metroplane,",
+      "confidence": 0.22
+    },
+    {
+      "start": 418.92,
+      "end": 419.74,
+      "text": "metropolitana.",
+      "confidence": 0.751
+    }
+  ]
+}

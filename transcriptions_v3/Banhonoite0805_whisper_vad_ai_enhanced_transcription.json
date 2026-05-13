@@ -1,0 +1,131 @@
+{
+  "source_file": "Banhonoite0805_whisper_vad_ai_enhanced.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 808.8,
+  "segments": {
+    "00:03:48,00:03:51": "O que é isso?",
+    "00:03:51,00:03:52": "O que é isso?",
+    "00:11:13,00:11:13": "Vamos lá.",
+    "00:11:40,00:11:41": "O que é isso?",
+    "00:12:42,00:12:43": "O que é isso?",
+    "00:13:13,00:13:14": "Obrigado."
+  },
+  "hallucinations_filtered": 8,
+  "words": [
+    {
+      "start": 228.93,
+      "end": 230.65,
+      "text": "O",
+      "confidence": 0.104
+    },
+    {
+      "start": 230.65,
+      "end": 231.23,
+      "text": "que",
+      "confidence": 0.713
+    },
+    {
+      "start": 231.23,
+      "end": 231.39,
+      "text": "é",
+      "confidence": 0.4
+    },
+    {
+      "start": 231.39,
+      "end": 231.49,
+      "text": "isso?",
+      "confidence": 0.729
+    },
+    {
+      "start": 231.49,
+      "end": 231.91,
+      "text": "O",
+      "confidence": 0.023
+    },
+    {
+      "start": 231.91,
+      "end": 232.21,
+      "text": "que",
+      "confidence": 0.719
+    },
+    {
+      "start": 232.21,
+      "end": 232.43,
+      "text": "é",
+      "confidence": 0.551
+    },
+    {
+      "start": 232.43,
+      "end": 232.59,
+      "text": "isso?",
+      "confidence": 0.781
+    },
+    {
+      "start": 673.09,
+      "end": 673.11,
+      "text": "Vamos",
+      "confidence": 0.079
+    },
+    {
+      "start": 673.11,
+      "end": 673.13,
+      "text": "lá.",
+      "confidence": 0.758
+    },
+    {
+      "start": 700.19,
+      "end": 700.79,
+      "text": "O",
+      "confidence": 0.044
+    },
+    {
+      "start": 700.79,
+      "end": 701.29,
+      "text": "que",
+      "confidence": 0.525
+    },
+    {
+      "start": 701.29,
+      "end": 701.47,
+      "text": "é",
+      "confidence": 0.647
+    },
+    {
+      "start": 701.47,
+      "end": 701.67,
+      "text": "isso?",
+      "confidence": 0.8
+    },
+    {
+      "start": 762.03,
+      "end": 763.57,
+      "text": "O",
+      "confidence": 0.063
+    },
+    {
+      "start": 763.57,
+      "end": 763.59,
+      "text": "que",
+      "confidence": 0.421
+    },
+    {
+      "start": 763.59,
+      "end": 763.61,
+      "text": "é",
+      "confidence": 0.65
+    },
+    {
+      "start": 763.61,
+      "end": 763.63,
+      "text": "isso?",
+      "confidence": 0.84
+    },
+    {
+      "start": 793.65,
+      "end": 794.13,
+      "text": "Obrigado.",
+      "confidence": 0.528
+    }
+  ]
+}

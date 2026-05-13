@@ -1,0 +1,1206 @@
+{
+  "source_file": "VOR20260508063221_0805_part002_whisper_vad_ai_enhanced.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:06:57,00:06:57": ".",
+    "00:08:54,00:08:54": "Oi!",
+    "00:20:18,00:20:19": "Controle.",
+    "00:21:13,00:21:13": "Atenção!",
+    "00:21:50,00:21:51": "Valeu!",
+    "00:22:27,00:22:29": "Atenção, irmãs e irmãs.",
+    "00:22:33,00:22:34": "Não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o que não tem o",
+    "00:26:24,00:26:26": "Atenção!",
+    "00:27:41,00:27:42": "Aplausos.",
+    "00:44:47,00:44:47": ".",
+    "00:53:43,00:53:44": "Tchau!",
+    "00:59:24,00:59:25": "."
+  },
+  "words": [
+    {
+      "start": 417.7,
+      "end": 417.82,
+      "text": "."
+    },
+    {
+      "start": 534.69,
+      "end": 534.89,
+      "text": "Oi!"
+    },
+    {
+      "start": 1218.47,
+      "end": 1219.05,
+      "text": "Controle."
+    },
+    {
+      "start": 1273.15,
+      "end": 1273.49,
+      "text": "Atenção!"
+    },
+    {
+      "start": 1310.95,
+      "end": 1311.17,
+      "text": "Valeu!"
+    },
+    {
+      "start": 1347.75,
+      "end": 1348.07,
+      "text": "Atenção,"
+    },
+    {
+      "start": 1348.07,
+      "end": 1348.37,
+      "text": "irmãs"
+    },
+    {
+      "start": 1348.37,
+      "end": 1348.45,
+      "text": "e"
+    },
+    {
+      "start": 1348.45,
+      "end": 1349.25,
+      "text": "irmãs."
+    },
+    {
+      "start": 1353.63,
+      "end": 1353.77,
+      "text": "Não"
+    },
+    {
+      "start": 1353.77,
+      "end": 1354.09,
+      "text": "tem"
+    },
+    {
+      "start": 1354.09,
+      "end": 1354.19,
+      "text": "o"
+    },
+    {
+      "start": 1354.19,
+      "end": 1354.29,
+      "text": "que"
+    },
+    {
+      "start": 1354.29,
+      "end": 1354.47,
+      "text": "não"
+    },
+    {
+      "start": 1354.47,
+      "end": 1354.67,
+      "text": "tem"
+    },
+    {
+      "start": 1354.67,
+      "end": 1354.71,
+      "text": "o"
+    },
+    {
+      "start": 1354.71,
+      "end": 1354.71,
+      "text": "que"
+    },
+    {
+      "start": 1354.71,
+      "end": 1354.71,
+      "text": "não"
+    },
+    {
+      "start": 1354.71,
+      "end": 1354.73,
+      "text": "tem"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "o"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "que"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "não"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "tem"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "o"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "que"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "não"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "tem"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "o"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "que"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "não"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "tem"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "o"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "que"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "não"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "tem"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "o"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "que"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "não"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "tem"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "o"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "que"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "não"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "tem"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "o"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "que"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "não"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "tem"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "o"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "que"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "não"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "tem"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "o"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "que"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "não"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "tem"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "o"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "que"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "não"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "tem"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "o"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "que"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "não"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "tem"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "o"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "que"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "não"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "tem"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "o"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "que"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "não"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "tem"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "o"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "que"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "não"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "tem"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "o"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "que"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "não"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "tem"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "o"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "que"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "não"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "tem"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "o"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "que"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "não"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "tem"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "o"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "que"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.73,
+      "text": "não"
+    },
+    {
+      "start": 1354.73,
+      "end": 1354.75,
+      "text": "tem"
+    },
+    {
+      "start": 1354.75,
+      "end": 1354.75,
+      "text": "o"
+    },
+    {
+      "start": 1354.75,
+      "end": 1354.75,
+      "text": "que"
+    },
+    {
+      "start": 1354.75,
+      "end": 1354.75,
+      "text": "não"
+    },
+    {
+      "start": 1354.75,
+      "end": 1354.75,
+      "text": "tem"
+    },
+    {
+      "start": 1354.75,
+      "end": 1354.75,
+      "text": "o"
+    },
+    {
+      "start": 1354.75,
+      "end": 1354.75,
+      "text": "que"
+    },
+    {
+      "start": 1354.75,
+      "end": 1354.75,
+      "text": "não"
+    },
+    {
+      "start": 1354.75,
+      "end": 1354.75,
+      "text": "tem"
+    },
+    {
+      "start": 1354.75,
+      "end": 1354.75,
+      "text": "o"
+    },
+    {
+      "start": 1354.75,
+      "end": 1354.75,
+      "text": "que"
+    },
+    {
+      "start": 1354.75,
+      "end": 1354.75,
+      "text": "não"
+    },
+    {
+      "start": 1354.75,
+      "end": 1354.75,
+      "text": "tem"
+    },
+    {
+      "start": 1354.75,
+      "end": 1354.75,
+      "text": "o"
+    },
+    {
+      "start": 1354.75,
+      "end": 1354.75,
+      "text": "que"
+    },
+    {
+      "start": 1354.75,
+      "end": 1354.75,
+      "text": "não"
+    },
+    {
+      "start": 1354.75,
+      "end": 1354.75,
+      "text": "tem"
+    },
+    {
+      "start": 1354.75,
+      "end": 1354.75,
+      "text": "o"
+    },
+    {
+      "start": 1354.75,
+      "end": 1354.75,
+      "text": "que"
+    },
+    {
+      "start": 1354.75,
+      "end": 1354.75,
+      "text": "não"
+    },
+    {
+      "start": 1354.75,
+      "end": 1354.83,
+      "text": "tem"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "o"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "que"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "não"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "tem"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "o"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "que"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "não"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "tem"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "o"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "que"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "não"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "tem"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "o"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "que"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "não"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "tem"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "o"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "que"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "não"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "tem"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "o"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "que"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "não"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "tem"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "o"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "que"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "não"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "tem"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "o"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "que"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "não"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "tem"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "o"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "que"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "não"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "tem"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "o"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "que"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "não"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "tem"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "o"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "que"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.83,
+      "text": "não"
+    },
+    {
+      "start": 1354.83,
+      "end": 1354.89,
+      "text": "tem"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "o"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "que"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "não"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "tem"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "o"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "que"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "não"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "tem"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "o"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "que"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "não"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "tem"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "o"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "que"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "não"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "tem"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "o"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "que"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "não"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "tem"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "o"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "que"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "não"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "tem"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "o"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "que"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "não"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "tem"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "o"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "que"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "não"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "tem"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "o"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "que"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "não"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "tem"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "o"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "que"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "não"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "tem"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "o"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "que"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "não"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "tem"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "o"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "que"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "não"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "tem"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "o"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "que"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "não"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "tem"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "o"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "que"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "não"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "tem"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "o"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "que"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "não"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "tem"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "o"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "que"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "não"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "tem"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "o"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "que"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "não"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "tem"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "o"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "que"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "não"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "tem"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "o"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.89,
+      "text": "que"
+    },
+    {
+      "start": 1354.89,
+      "end": 1354.97,
+      "text": "não"
+    },
+    {
+      "start": 1354.97,
+      "end": 1354.97,
+      "text": "tem"
+    },
+    {
+      "start": 1354.97,
+      "end": 1354.97,
+      "text": "o"
+    },
+    {
+      "start": 1584.74,
+      "end": 1586.18,
+      "text": "Atenção!"
+    },
+    {
+      "start": 1661.99,
+      "end": 1662.45,
+      "text": "Aplausos."
+    },
+    {
+      "start": 2687.49,
+      "end": 2687.63,
+      "text": "."
+    },
+    {
+      "start": 3223.91,
+      "end": 3224.07,
+      "text": "Tchau!"
+    },
+    {
+      "start": 3564.83,
+      "end": 3565.11,
+      "text": "."
+    }
+  ]
+}

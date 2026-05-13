@@ -1,0 +1,1081 @@
+{
+  "source_file": "NewRecording46_0705_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:02": "Acompanhe o programa em seus redes sociais.",
+    "00:00:05,00:00:07": "Aplausos",
+    "00:00:31,00:00:31": "Sim.",
+    "00:00:55,00:00:56": "Atenção!",
+    "00:04:37,00:04:38": "Não há dúvida que a gente vai ter que fazer isso.",
+    "00:05:03,00:05:05": "Aplausos",
+    "00:05:31,00:05:32": "Não há.",
+    "00:07:56,00:07:57": "Isso.",
+    "00:10:04,00:10:06": "Atenção!",
+    "00:10:49,00:10:51": "Apenas o que você quer.",
+    "00:11:26,00:11:27": "Amém.",
+    "00:11:39,00:11:54": "Apenas o que for dito, o que for dito, o que for dito, o que for dito, o que for dito, o que for dito, o que for dito, o que for dito, o que for dito, o que for dito, o que for dito, o que for dito, o que for dito, o que for dito, o que for dito, o que for dito, o que for dito, o que for dito, o que for dito, o que for dito, o que for dito, o que for dito, o que for dito, o que for dito, o que for dito, o que for dito, o que for dito, o que for dito, o que for dito, o que for dito, o que for dito, o que for dito, o que for dito, o que for dito, o que for dito, o que for dito, o que for d",
+    "00:12:30,00:12:47": "Apenas o que for dito, não é o que é.",
+    "00:12:57,00:12:59": "Acompanhe o processo.",
+    "00:13:10,00:13:10": "E aí",
+    "00:13:30,00:13:32": "Atenção!",
+    "00:13:35,00:13:35": "E aí",
+    "00:29:10,00:29:12": "Obrigado.",
+    "00:29:25,00:29:26": ".",
+    "00:29:28,00:29:28": ".",
+    "00:43:01,00:43:02": "Não é possível falar isso aqui.",
+    "00:45:00,00:45:01": "Visão alta."
+  },
+  "words": [
+    {
+      "start": 0.13,
+      "end": 0.61,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 0.61,
+      "end": 0.73,
+      "text": "o"
+    },
+    {
+      "start": 0.73,
+      "end": 0.85,
+      "text": "programa"
+    },
+    {
+      "start": 0.85,
+      "end": 0.85,
+      "text": "em"
+    },
+    {
+      "start": 0.85,
+      "end": 1.55,
+      "text": "seus"
+    },
+    {
+      "start": 1.55,
+      "end": 2.25,
+      "text": "redes"
+    },
+    {
+      "start": 2.25,
+      "end": 2.27,
+      "text": "sociais."
+    },
+    {
+      "start": 5.99,
+      "end": 7.35,
+      "text": "Aplausos"
+    },
+    {
+      "start": 31.59,
+      "end": 31.99,
+      "text": "Sim."
+    },
+    {
+      "start": 55.36,
+      "end": 56.26,
+      "text": "Atenção!"
+    },
+    {
+      "start": 277.35,
+      "end": 277.53,
+      "text": "Não"
+    },
+    {
+      "start": 277.53,
+      "end": 277.59,
+      "text": "há"
+    },
+    {
+      "start": 277.59,
+      "end": 277.59,
+      "text": "dúvida"
+    },
+    {
+      "start": 277.59,
+      "end": 277.91,
+      "text": "que"
+    },
+    {
+      "start": 277.91,
+      "end": 278.09,
+      "text": "a"
+    },
+    {
+      "start": 278.09,
+      "end": 278.15,
+      "text": "gente"
+    },
+    {
+      "start": 278.15,
+      "end": 278.37,
+      "text": "vai"
+    },
+    {
+      "start": 278.37,
+      "end": 278.61,
+      "text": "ter"
+    },
+    {
+      "start": 278.61,
+      "end": 278.63,
+      "text": "que"
+    },
+    {
+      "start": 278.63,
+      "end": 278.63,
+      "text": "fazer"
+    },
+    {
+      "start": 278.63,
+      "end": 278.77,
+      "text": "isso."
+    },
+    {
+      "start": 303.78,
+      "end": 305.3,
+      "text": "Aplausos"
+    },
+    {
+      "start": 331.97,
+      "end": 332.21,
+      "text": "Não"
+    },
+    {
+      "start": 332.21,
+      "end": 332.23,
+      "text": "há."
+    },
+    {
+      "start": 476.9,
+      "end": 477.24,
+      "text": "Isso."
+    },
+    {
+      "start": 604.93,
+      "end": 606.31,
+      "text": "Atenção!"
+    },
+    {
+      "start": 649.53,
+      "end": 650.13,
+      "text": "Apenas"
+    },
+    {
+      "start": 650.13,
+      "end": 650.73,
+      "text": "o"
+    },
+    {
+      "start": 650.73,
+      "end": 650.77,
+      "text": "que"
+    },
+    {
+      "start": 650.77,
+      "end": 651.43,
+      "text": "você"
+    },
+    {
+      "start": 651.43,
+      "end": 651.97,
+      "text": "quer."
+    },
+    {
+      "start": 686.63,
+      "end": 687.39,
+      "text": "Amém."
+    },
+    {
+      "start": 699.3,
+      "end": 699.82,
+      "text": "Apenas"
+    },
+    {
+      "start": 699.82,
+      "end": 699.82,
+      "text": "o"
+    },
+    {
+      "start": 699.82,
+      "end": 699.94,
+      "text": "que"
+    },
+    {
+      "start": 699.94,
+      "end": 699.96,
+      "text": "for"
+    },
+    {
+      "start": 699.96,
+      "end": 702.46,
+      "text": "dito,"
+    },
+    {
+      "start": 703.4,
+      "end": 704.16,
+      "text": "o"
+    },
+    {
+      "start": 704.16,
+      "end": 705.02,
+      "text": "que"
+    },
+    {
+      "start": 705.02,
+      "end": 705.32,
+      "text": "for"
+    },
+    {
+      "start": 705.32,
+      "end": 705.46,
+      "text": "dito,"
+    },
+    {
+      "start": 705.46,
+      "end": 706.04,
+      "text": "o"
+    },
+    {
+      "start": 706.04,
+      "end": 707.12,
+      "text": "que"
+    },
+    {
+      "start": 707.12,
+      "end": 707.24,
+      "text": "for"
+    },
+    {
+      "start": 707.24,
+      "end": 707.24,
+      "text": "dito,"
+    },
+    {
+      "start": 707.6,
+      "end": 707.78,
+      "text": "o"
+    },
+    {
+      "start": 707.78,
+      "end": 707.78,
+      "text": "que"
+    },
+    {
+      "start": 707.78,
+      "end": 707.78,
+      "text": "for"
+    },
+    {
+      "start": 707.78,
+      "end": 707.78,
+      "text": "dito,"
+    },
+    {
+      "start": 707.78,
+      "end": 708.26,
+      "text": "o"
+    },
+    {
+      "start": 708.26,
+      "end": 708.28,
+      "text": "que"
+    },
+    {
+      "start": 708.28,
+      "end": 708.3,
+      "text": "for"
+    },
+    {
+      "start": 708.3,
+      "end": 708.3,
+      "text": "dito,"
+    },
+    {
+      "start": 708.3,
+      "end": 708.74,
+      "text": "o"
+    },
+    {
+      "start": 708.74,
+      "end": 709.0,
+      "text": "que"
+    },
+    {
+      "start": 709.0,
+      "end": 709.0,
+      "text": "for"
+    },
+    {
+      "start": 709.0,
+      "end": 709.0,
+      "text": "dito,"
+    },
+    {
+      "start": 709.0,
+      "end": 709.18,
+      "text": "o"
+    },
+    {
+      "start": 709.18,
+      "end": 709.74,
+      "text": "que"
+    },
+    {
+      "start": 709.74,
+      "end": 709.74,
+      "text": "for"
+    },
+    {
+      "start": 709.74,
+      "end": 709.8,
+      "text": "dito,"
+    },
+    {
+      "start": 709.8,
+      "end": 709.8,
+      "text": "o"
+    },
+    {
+      "start": 709.8,
+      "end": 709.8,
+      "text": "que"
+    },
+    {
+      "start": 709.8,
+      "end": 709.8,
+      "text": "for"
+    },
+    {
+      "start": 709.8,
+      "end": 709.8,
+      "text": "dito,"
+    },
+    {
+      "start": 709.8,
+      "end": 709.8,
+      "text": "o"
+    },
+    {
+      "start": 709.8,
+      "end": 709.8,
+      "text": "que"
+    },
+    {
+      "start": 709.8,
+      "end": 709.8,
+      "text": "for"
+    },
+    {
+      "start": 709.8,
+      "end": 710.08,
+      "text": "dito,"
+    },
+    {
+      "start": 710.08,
+      "end": 710.08,
+      "text": "o"
+    },
+    {
+      "start": 710.08,
+      "end": 710.08,
+      "text": "que"
+    },
+    {
+      "start": 710.08,
+      "end": 710.08,
+      "text": "for"
+    },
+    {
+      "start": 710.08,
+      "end": 710.24,
+      "text": "dito,"
+    },
+    {
+      "start": 710.3,
+      "end": 710.3,
+      "text": "o"
+    },
+    {
+      "start": 710.3,
+      "end": 710.3,
+      "text": "que"
+    },
+    {
+      "start": 710.3,
+      "end": 710.3,
+      "text": "for"
+    },
+    {
+      "start": 710.3,
+      "end": 710.3,
+      "text": "dito,"
+    },
+    {
+      "start": 710.34,
+      "end": 710.42,
+      "text": "o"
+    },
+    {
+      "start": 710.42,
+      "end": 710.42,
+      "text": "que"
+    },
+    {
+      "start": 710.42,
+      "end": 710.42,
+      "text": "for"
+    },
+    {
+      "start": 710.42,
+      "end": 710.48,
+      "text": "dito,"
+    },
+    {
+      "start": 710.48,
+      "end": 710.48,
+      "text": "o"
+    },
+    {
+      "start": 710.48,
+      "end": 710.48,
+      "text": "que"
+    },
+    {
+      "start": 710.48,
+      "end": 710.48,
+      "text": "for"
+    },
+    {
+      "start": 710.48,
+      "end": 710.9,
+      "text": "dito,"
+    },
+    {
+      "start": 710.9,
+      "end": 710.9,
+      "text": "o"
+    },
+    {
+      "start": 710.9,
+      "end": 710.98,
+      "text": "que"
+    },
+    {
+      "start": 710.98,
+      "end": 711.18,
+      "text": "for"
+    },
+    {
+      "start": 711.18,
+      "end": 711.38,
+      "text": "dito,"
+    },
+    {
+      "start": 711.38,
+      "end": 711.38,
+      "text": "o"
+    },
+    {
+      "start": 711.38,
+      "end": 711.38,
+      "text": "que"
+    },
+    {
+      "start": 711.38,
+      "end": 711.38,
+      "text": "for"
+    },
+    {
+      "start": 711.38,
+      "end": 711.38,
+      "text": "dito,"
+    },
+    {
+      "start": 711.38,
+      "end": 711.38,
+      "text": "o"
+    },
+    {
+      "start": 711.38,
+      "end": 711.42,
+      "text": "que"
+    },
+    {
+      "start": 711.42,
+      "end": 711.96,
+      "text": "for"
+    },
+    {
+      "start": 711.96,
+      "end": 712.1,
+      "text": "dito,"
+    },
+    {
+      "start": 712.1,
+      "end": 712.2,
+      "text": "o"
+    },
+    {
+      "start": 712.2,
+      "end": 712.32,
+      "text": "que"
+    },
+    {
+      "start": 712.32,
+      "end": 712.64,
+      "text": "for"
+    },
+    {
+      "start": 712.64,
+      "end": 712.64,
+      "text": "dito,"
+    },
+    {
+      "start": 712.78,
+      "end": 713.12,
+      "text": "o"
+    },
+    {
+      "start": 713.12,
+      "end": 713.86,
+      "text": "que"
+    },
+    {
+      "start": 713.86,
+      "end": 713.86,
+      "text": "for"
+    },
+    {
+      "start": 713.86,
+      "end": 714.22,
+      "text": "dito,"
+    },
+    {
+      "start": 714.22,
+      "end": 714.58,
+      "text": "o"
+    },
+    {
+      "start": 714.58,
+      "end": 714.58,
+      "text": "que"
+    },
+    {
+      "start": 714.58,
+      "end": 714.58,
+      "text": "for"
+    },
+    {
+      "start": 714.58,
+      "end": 714.58,
+      "text": "dito,"
+    },
+    {
+      "start": 714.58,
+      "end": 714.58,
+      "text": "o"
+    },
+    {
+      "start": 714.58,
+      "end": 714.58,
+      "text": "que"
+    },
+    {
+      "start": 714.58,
+      "end": 714.58,
+      "text": "for"
+    },
+    {
+      "start": 714.58,
+      "end": 714.58,
+      "text": "dito,"
+    },
+    {
+      "start": 714.58,
+      "end": 714.58,
+      "text": "o"
+    },
+    {
+      "start": 714.58,
+      "end": 714.58,
+      "text": "que"
+    },
+    {
+      "start": 714.58,
+      "end": 714.58,
+      "text": "for"
+    },
+    {
+      "start": 714.58,
+      "end": 714.58,
+      "text": "dito,"
+    },
+    {
+      "start": 714.58,
+      "end": 714.58,
+      "text": "o"
+    },
+    {
+      "start": 714.58,
+      "end": 714.58,
+      "text": "que"
+    },
+    {
+      "start": 714.58,
+      "end": 714.58,
+      "text": "for"
+    },
+    {
+      "start": 714.58,
+      "end": 714.58,
+      "text": "dito,"
+    },
+    {
+      "start": 714.58,
+      "end": 714.58,
+      "text": "o"
+    },
+    {
+      "start": 714.58,
+      "end": 714.6,
+      "text": "que"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "for"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "dito,"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "o"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "que"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "for"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "dito,"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "o"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "que"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "for"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "dito,"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "o"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "que"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "for"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "dito,"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "o"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "que"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "for"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "dito,"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "o"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "que"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "for"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "dito,"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "o"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "que"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "for"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "dito,"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "o"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "que"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "for"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "dito,"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "o"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "que"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "for"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "dito,"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "o"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "que"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "for"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "dito,"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "o"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "que"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "for"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "dito,"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "o"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "que"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "for"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "dito,"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "o"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "que"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "for"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "dito,"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "o"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "que"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "for"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "dito,"
+    },
+    {
+      "start": 714.6,
+      "end": 714.6,
+      "text": "o"
+    },
+    {
+      "start": 714.6,
+      "end": 714.62,
+      "text": "que"
+    },
+    {
+      "start": 714.62,
+      "end": 714.62,
+      "text": "for"
+    },
+    {
+      "start": 714.62,
+      "end": 714.62,
+      "text": "d"
+    },
+    {
+      "start": 750.51,
+      "end": 751.87,
+      "text": "Apenas"
+    },
+    {
+      "start": 751.87,
+      "end": 752.51,
+      "text": "o"
+    },
+    {
+      "start": 752.51,
+      "end": 752.79,
+      "text": "que"
+    },
+    {
+      "start": 752.79,
+      "end": 752.81,
+      "text": "for"
+    },
+    {
+      "start": 752.81,
+      "end": 763.09,
+      "text": "dito,"
+    },
+    {
+      "start": 764.39,
+      "end": 765.11,
+      "text": "não"
+    },
+    {
+      "start": 765.11,
+      "end": 765.69,
+      "text": "é"
+    },
+    {
+      "start": 765.69,
+      "end": 766.05,
+      "text": "o"
+    },
+    {
+      "start": 766.05,
+      "end": 766.23,
+      "text": "que"
+    },
+    {
+      "start": 766.23,
+      "end": 767.19,
+      "text": "é."
+    },
+    {
+      "start": 777.51,
+      "end": 778.55,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 778.55,
+      "end": 778.65,
+      "text": "o"
+    },
+    {
+      "start": 778.65,
+      "end": 779.19,
+      "text": "processo."
+    },
+    {
+      "start": 790.02,
+      "end": 790.26,
+      "text": "E"
+    },
+    {
+      "start": 790.26,
+      "end": 790.28,
+      "text": "aí"
+    },
+    {
+      "start": 810.53,
+      "end": 812.29,
+      "text": "Atenção!"
+    },
+    {
+      "start": 815.81,
+      "end": 815.93,
+      "text": "E"
+    },
+    {
+      "start": 815.93,
+      "end": 815.93,
+      "text": "aí"
+    },
+    {
+      "start": 1750.61,
+      "end": 1752.01,
+      "text": "Obrigado."
+    },
+    {
+      "start": 1765.83,
+      "end": 1766.05,
+      "text": "."
+    },
+    {
+      "start": 1768.29,
+      "end": 1768.59,
+      "text": "."
+    },
+    {
+      "start": 2581.79,
+      "end": 2581.89,
+      "text": "Não"
+    },
+    {
+      "start": 2581.89,
+      "end": 2582.13,
+      "text": "é"
+    },
+    {
+      "start": 2582.13,
+      "end": 2582.13,
+      "text": "possível"
+    },
+    {
+      "start": 2582.13,
+      "end": 2582.13,
+      "text": "falar"
+    },
+    {
+      "start": 2582.13,
+      "end": 2582.37,
+      "text": "isso"
+    },
+    {
+      "start": 2582.37,
+      "end": 2582.45,
+      "text": "aqui."
+    },
+    {
+      "start": 2700.8,
+      "end": 2701.06,
+      "text": "Visão"
+    },
+    {
+      "start": 2701.06,
+      "end": 2701.26,
+      "text": "alta."
+    }
+  ]
+}

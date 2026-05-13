@@ -1,0 +1,61 @@
+{
+  "source_file": "Antesswxobanheiro0605_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 637.2,
+  "segments": {
+    "00:02:02,00:02:02": "O que é isso?",
+    "00:02:58,00:03:01": "O que é isso?"
+  },
+  "hallucinations_filtered": 8,
+  "words": [
+    {
+      "start": 122.78,
+      "end": 122.8,
+      "text": "O",
+      "confidence": 0.045
+    },
+    {
+      "start": 122.8,
+      "end": 122.82,
+      "text": "que",
+      "confidence": 0.594
+    },
+    {
+      "start": 122.82,
+      "end": 122.84,
+      "text": "é",
+      "confidence": 0.685
+    },
+    {
+      "start": 122.84,
+      "end": 122.86,
+      "text": "isso?",
+      "confidence": 0.907
+    },
+    {
+      "start": 178.82,
+      "end": 178.9,
+      "text": "O",
+      "confidence": 0.034
+    },
+    {
+      "start": 178.9,
+      "end": 180.62,
+      "text": "que",
+      "confidence": 0.542
+    },
+    {
+      "start": 180.62,
+      "end": 180.76,
+      "text": "é",
+      "confidence": 0.682
+    },
+    {
+      "start": 180.76,
+      "end": 181.78,
+      "text": "isso?",
+      "confidence": 0.89
+    }
+  ]
+}

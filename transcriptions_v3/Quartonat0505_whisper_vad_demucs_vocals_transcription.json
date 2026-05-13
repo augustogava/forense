@@ -1,0 +1,153 @@
+{
+  "source_file": "Quartonat0505_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 5288.6,
+  "segments": {
+    "00:17:32,00:17:33": "O que é isso?",
+    "00:18:36,00:18:36": "O que é isso?",
+    "00:24:08,00:24:23": "É ótimo o meu colo e é ótimo o seu, né?",
+    "01:13:04,01:13:05": "O que é isso?"
+  },
+  "hallucinations_filtered": 5,
+  "words": [
+    {
+      "start": 1052.23,
+      "end": 1052.73,
+      "text": "O",
+      "confidence": 0.054
+    },
+    {
+      "start": 1052.73,
+      "end": 1053.25,
+      "text": "que",
+      "confidence": 0.432
+    },
+    {
+      "start": 1053.25,
+      "end": 1053.57,
+      "text": "é",
+      "confidence": 0.671
+    },
+    {
+      "start": 1053.57,
+      "end": 1053.59,
+      "text": "isso?",
+      "confidence": 0.887
+    },
+    {
+      "start": 1116.65,
+      "end": 1116.67,
+      "text": "O",
+      "confidence": 0.045
+    },
+    {
+      "start": 1116.67,
+      "end": 1116.69,
+      "text": "que",
+      "confidence": 0.588
+    },
+    {
+      "start": 1116.69,
+      "end": 1116.71,
+      "text": "é",
+      "confidence": 0.506
+    },
+    {
+      "start": 1116.71,
+      "end": 1116.73,
+      "text": "isso?",
+      "confidence": 0.755
+    },
+    {
+      "start": 1448.71,
+      "end": 1449.31,
+      "text": "É",
+      "confidence": 0.104
+    },
+    {
+      "start": 1450.51,
+      "end": 1451.14,
+      "text": "ótimo",
+      "confidence": 0.051
+    },
+    {
+      "start": 1451.14,
+      "end": 1451.24,
+      "text": "o",
+      "confidence": 0.231
+    },
+    {
+      "start": 1451.24,
+      "end": 1451.4,
+      "text": "meu",
+      "confidence": 0.61
+    },
+    {
+      "start": 1451.4,
+      "end": 1451.88,
+      "text": "colo",
+      "confidence": 0.689
+    },
+    {
+      "start": 1451.88,
+      "end": 1452.12,
+      "text": "e",
+      "confidence": 0.207
+    },
+    {
+      "start": 1452.12,
+      "end": 1452.69,
+      "text": "é",
+      "confidence": 0.848
+    },
+    {
+      "start": 1462.04,
+      "end": 1462.52,
+      "text": "ótimo",
+      "confidence": 0.996
+    },
+    {
+      "start": 1462.52,
+      "end": 1462.6,
+      "text": "o",
+      "confidence": 0.821
+    },
+    {
+      "start": 1462.6,
+      "end": 1462.78,
+      "text": "seu,",
+      "confidence": 0.577
+    },
+    {
+      "start": 1462.98,
+      "end": 1463.24,
+      "text": "né?",
+      "confidence": 0.727
+    },
+    {
+      "start": 4384.95,
+      "end": 4384.97,
+      "text": "O",
+      "confidence": 0.077
+    },
+    {
+      "start": 4384.97,
+      "end": 4384.98,
+      "text": "que",
+      "confidence": 0.535
+    },
+    {
+      "start": 4384.99,
+      "end": 4385.01,
+      "text": "é",
+      "confidence": 0.351
+    },
+    {
+      "start": 4385.01,
+      "end": 4385.03,
+      "text": "isso?",
+      "confidence": 0.744
+    }
+  ]
+}

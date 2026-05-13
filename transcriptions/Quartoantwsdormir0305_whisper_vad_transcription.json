@@ -1,0 +1,33 @@
+{
+  "source_file": "Quartoantwsdormir0305_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:01,00:00:02": "Atenção!",
+    "00:02:00,00:02:01": "Júlia!",
+    "00:04:42,00:04:43": "Atenção!",
+    "00:08:07,00:08:07": "."
+  },
+  "words": [
+    {
+      "start": 1.92,
+      "end": 2.3,
+      "text": "Atenção!"
+    },
+    {
+      "start": 120.8,
+      "end": 121.14,
+      "text": "Júlia!"
+    },
+    {
+      "start": 282.43,
+      "end": 283.41,
+      "text": "Atenção!"
+    },
+    {
+      "start": 487.71,
+      "end": 487.93,
+      "text": "."
+    }
+  ]
+}

@@ -1,0 +1,1043 @@
+{
+  "source_file": "0905quartonat_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:01,00:00:02": "Eu já fiz essa notícia com o Tomás.",
+    "00:55:14,00:55:16": "Eu bebi banho, não consegui tomar banho.",
+    "00:55:16,00:55:17": "Cadê o Tomás?",
+    "00:55:17,00:55:17": "Onde é o banheiro?",
+    "00:55:43,00:55:46": "Vou pedir para ele ligar a banheira para me dar banho.",
+    "00:55:46,00:55:48": "Se não, eu vou estar dormindo na cama.",
+    "00:55:48,00:55:50": "Vou pedir para ele ligar, que eu dou banho rapidinho.",
+    "00:55:51,00:55:53": "Deixa eu descer, meu. Eu dou banho depois.",
+    "00:55:56,00:55:57": "Vai deixar de ver depois.",
+    "00:55:58,00:55:59": "Como?",
+    "00:55:59,00:55:59": "Já está aqui?",
+    "00:55:59,00:56:01": "Já ia lhe recordar.",
+    "00:56:03,00:56:04": "Mas está com ele.",
+    "00:56:05,00:56:05": "Não?",
+    "00:56:06,00:56:06": "Não.",
+    "00:56:06,00:56:09": "Tá bom, então vamos lá no troca.",
+    "00:56:13,00:56:16": "Tá tudo bem, a vó já arrumou as mesas.",
+    "00:56:16,00:56:18": "A vó fez dois bolos.",
+    "00:56:25,00:56:29": "Eu sou só a avó da família, com dois amigos do pai e só.",
+    "00:56:30,00:56:32": "Ela que chama Letícia, Felipe, né?",
+    "00:56:32,00:56:34": "Eu não, eu gosto tanto, só a gente.",
+    "00:56:36,00:56:37": "Achei que não fosse muito bom.",
+    "00:56:55,00:57:04": "Acompanhe a transmissão em português.",
+    "01:00:36,01:00:37": "Porto.",
+    "01:00:43,01:00:46": "Seja bem-vindo!",
+    "01:00:50,01:00:51": "Não é o mesmo?",
+    "01:00:56,01:01:04": "A gente fez a alimentação, pegou as brincadeiras, aí a gente comeu, e fomos.",
+    "01:01:08,01:01:09": "Médicos.",
+    "01:01:17,01:01:20": "Ela voltou.",
+    "01:01:23,01:01:23": "Não tô aqui não.",
+    "01:01:23,01:01:24": "Não voltou.",
+    "01:01:27,01:01:27": "Tchau!",
+    "01:01:31,01:01:32": "A rota sozinha é lógica.",
+    "01:01:37,01:01:37": "O que é o que?",
+    "01:01:39,01:01:40": "É uma linda voz, né?",
+    "01:01:40,01:01:41": "É uma linda voz.",
+    "01:01:41,01:01:42": "É uma linda voz.",
+    "01:01:44,01:01:45": "A gente está aqui.",
+    "01:02:11,01:02:12": "Faz tempo?"
+  },
+  "words": [
+    {
+      "start": 1.22,
+      "end": 1.3,
+      "text": "Eu"
+    },
+    {
+      "start": 1.3,
+      "end": 1.62,
+      "text": "já"
+    },
+    {
+      "start": 1.62,
+      "end": 1.8,
+      "text": "fiz"
+    },
+    {
+      "start": 1.8,
+      "end": 2.02,
+      "text": "essa"
+    },
+    {
+      "start": 2.02,
+      "end": 2.4,
+      "text": "notícia"
+    },
+    {
+      "start": 2.4,
+      "end": 2.56,
+      "text": "com"
+    },
+    {
+      "start": 2.56,
+      "end": 2.66,
+      "text": "o"
+    },
+    {
+      "start": 2.66,
+      "end": 2.98,
+      "text": "Tomás."
+    },
+    {
+      "start": 3314.37,
+      "end": 3314.37,
+      "text": "Eu"
+    },
+    {
+      "start": 3314.37,
+      "end": 3314.49,
+      "text": "bebi"
+    },
+    {
+      "start": 3314.49,
+      "end": 3314.99,
+      "text": "banho,"
+    },
+    {
+      "start": 3314.99,
+      "end": 3315.75,
+      "text": "não"
+    },
+    {
+      "start": 3315.75,
+      "end": 3316.11,
+      "text": "consegui"
+    },
+    {
+      "start": 3316.11,
+      "end": 3316.21,
+      "text": "tomar"
+    },
+    {
+      "start": 3316.21,
+      "end": 3316.67,
+      "text": "banho."
+    },
+    {
+      "start": 3316.67,
+      "end": 3316.89,
+      "text": "Cadê"
+    },
+    {
+      "start": 3316.89,
+      "end": 3316.91,
+      "text": "o"
+    },
+    {
+      "start": 3316.91,
+      "end": 3317.17,
+      "text": "Tomás?"
+    },
+    {
+      "start": 3317.17,
+      "end": 3317.33,
+      "text": "Onde"
+    },
+    {
+      "start": 3317.33,
+      "end": 3317.41,
+      "text": "é"
+    },
+    {
+      "start": 3317.41,
+      "end": 3317.49,
+      "text": "o"
+    },
+    {
+      "start": 3317.49,
+      "end": 3317.73,
+      "text": "banheiro?"
+    },
+    {
+      "start": 3343.92,
+      "end": 3344.24,
+      "text": "Vou"
+    },
+    {
+      "start": 3344.24,
+      "end": 3344.46,
+      "text": "pedir"
+    },
+    {
+      "start": 3344.46,
+      "end": 3344.62,
+      "text": "para"
+    },
+    {
+      "start": 3344.62,
+      "end": 3344.78,
+      "text": "ele"
+    },
+    {
+      "start": 3344.78,
+      "end": 3345.06,
+      "text": "ligar"
+    },
+    {
+      "start": 3345.06,
+      "end": 3345.08,
+      "text": "a"
+    },
+    {
+      "start": 3345.08,
+      "end": 3345.54,
+      "text": "banheira"
+    },
+    {
+      "start": 3345.54,
+      "end": 3345.62,
+      "text": "para"
+    },
+    {
+      "start": 3345.62,
+      "end": 3345.76,
+      "text": "me"
+    },
+    {
+      "start": 3345.76,
+      "end": 3345.88,
+      "text": "dar"
+    },
+    {
+      "start": 3345.88,
+      "end": 3346.12,
+      "text": "banho."
+    },
+    {
+      "start": 3346.78,
+      "end": 3347.1,
+      "text": "Se"
+    },
+    {
+      "start": 3347.1,
+      "end": 3347.3,
+      "text": "não,"
+    },
+    {
+      "start": 3347.4,
+      "end": 3347.46,
+      "text": "eu"
+    },
+    {
+      "start": 3347.46,
+      "end": 3347.52,
+      "text": "vou"
+    },
+    {
+      "start": 3347.52,
+      "end": 3347.52,
+      "text": "estar"
+    },
+    {
+      "start": 3347.52,
+      "end": 3347.82,
+      "text": "dormindo"
+    },
+    {
+      "start": 3347.82,
+      "end": 3347.94,
+      "text": "na"
+    },
+    {
+      "start": 3347.94,
+      "end": 3348.2,
+      "text": "cama."
+    },
+    {
+      "start": 3348.88,
+      "end": 3349.2,
+      "text": "Vou"
+    },
+    {
+      "start": 3349.2,
+      "end": 3349.42,
+      "text": "pedir"
+    },
+    {
+      "start": 3349.42,
+      "end": 3349.52,
+      "text": "para"
+    },
+    {
+      "start": 3349.52,
+      "end": 3349.64,
+      "text": "ele"
+    },
+    {
+      "start": 3349.64,
+      "end": 3349.92,
+      "text": "ligar,"
+    },
+    {
+      "start": 3350.0,
+      "end": 3350.0,
+      "text": "que"
+    },
+    {
+      "start": 3350.0,
+      "end": 3350.06,
+      "text": "eu"
+    },
+    {
+      "start": 3350.06,
+      "end": 3350.12,
+      "text": "dou"
+    },
+    {
+      "start": 3350.12,
+      "end": 3350.3,
+      "text": "banho"
+    },
+    {
+      "start": 3350.3,
+      "end": 3350.72,
+      "text": "rapidinho."
+    },
+    {
+      "start": 3351.88,
+      "end": 3352.2,
+      "text": "Deixa"
+    },
+    {
+      "start": 3352.2,
+      "end": 3352.26,
+      "text": "eu"
+    },
+    {
+      "start": 3352.26,
+      "end": 3352.6,
+      "text": "descer,"
+    },
+    {
+      "start": 3352.6,
+      "end": 3352.72,
+      "text": "meu."
+    },
+    {
+      "start": 3352.8,
+      "end": 3352.88,
+      "text": "Eu"
+    },
+    {
+      "start": 3352.88,
+      "end": 3352.92,
+      "text": "dou"
+    },
+    {
+      "start": 3352.92,
+      "end": 3353.1,
+      "text": "banho"
+    },
+    {
+      "start": 3353.1,
+      "end": 3353.26,
+      "text": "depois."
+    },
+    {
+      "start": 3356.6,
+      "end": 3356.98,
+      "text": "Vai"
+    },
+    {
+      "start": 3356.98,
+      "end": 3357.28,
+      "text": "deixar"
+    },
+    {
+      "start": 3357.28,
+      "end": 3357.44,
+      "text": "de"
+    },
+    {
+      "start": 3357.44,
+      "end": 3357.64,
+      "text": "ver"
+    },
+    {
+      "start": 3357.64,
+      "end": 3357.88,
+      "text": "depois."
+    },
+    {
+      "start": 3358.56,
+      "end": 3359.04,
+      "text": "Como?"
+    },
+    {
+      "start": 3359.08,
+      "end": 3359.34,
+      "text": "Já"
+    },
+    {
+      "start": 3359.34,
+      "end": 3359.54,
+      "text": "está"
+    },
+    {
+      "start": 3359.54,
+      "end": 3359.72,
+      "text": "aqui?"
+    },
+    {
+      "start": 3359.96,
+      "end": 3360.38,
+      "text": "Já"
+    },
+    {
+      "start": 3360.38,
+      "end": 3360.56,
+      "text": "ia"
+    },
+    {
+      "start": 3360.56,
+      "end": 3360.74,
+      "text": "lhe"
+    },
+    {
+      "start": 3360.74,
+      "end": 3361.28,
+      "text": "recordar."
+    },
+    {
+      "start": 3363.14,
+      "end": 3363.28,
+      "text": "Mas"
+    },
+    {
+      "start": 3363.28,
+      "end": 3363.42,
+      "text": "está"
+    },
+    {
+      "start": 3363.42,
+      "end": 3363.72,
+      "text": "com"
+    },
+    {
+      "start": 3363.72,
+      "end": 3364.04,
+      "text": "ele."
+    },
+    {
+      "start": 3365.18,
+      "end": 3365.68,
+      "text": "Não?"
+    },
+    {
+      "start": 3366.14,
+      "end": 3366.46,
+      "text": "Não."
+    },
+    {
+      "start": 3366.98,
+      "end": 3367.48,
+      "text": "Tá"
+    },
+    {
+      "start": 3367.48,
+      "end": 3367.7,
+      "text": "bom,"
+    },
+    {
+      "start": 3367.74,
+      "end": 3367.92,
+      "text": "então"
+    },
+    {
+      "start": 3367.92,
+      "end": 3368.2,
+      "text": "vamos"
+    },
+    {
+      "start": 3368.2,
+      "end": 3368.84,
+      "text": "lá"
+    },
+    {
+      "start": 3368.84,
+      "end": 3368.98,
+      "text": "no"
+    },
+    {
+      "start": 3368.98,
+      "end": 3369.3,
+      "text": "troca."
+    },
+    {
+      "start": 3373.47,
+      "end": 3373.79,
+      "text": "Tá"
+    },
+    {
+      "start": 3373.79,
+      "end": 3374.79,
+      "text": "tudo"
+    },
+    {
+      "start": 3374.79,
+      "end": 3375.11,
+      "text": "bem,"
+    },
+    {
+      "start": 3375.19,
+      "end": 3375.49,
+      "text": "a"
+    },
+    {
+      "start": 3375.49,
+      "end": 3375.73,
+      "text": "vó"
+    },
+    {
+      "start": 3375.73,
+      "end": 3375.79,
+      "text": "já"
+    },
+    {
+      "start": 3375.79,
+      "end": 3376.09,
+      "text": "arrumou"
+    },
+    {
+      "start": 3376.09,
+      "end": 3376.17,
+      "text": "as"
+    },
+    {
+      "start": 3376.17,
+      "end": 3376.73,
+      "text": "mesas."
+    },
+    {
+      "start": 3376.99,
+      "end": 3377.51,
+      "text": "A"
+    },
+    {
+      "start": 3377.51,
+      "end": 3377.71,
+      "text": "vó"
+    },
+    {
+      "start": 3377.71,
+      "end": 3377.83,
+      "text": "fez"
+    },
+    {
+      "start": 3377.83,
+      "end": 3378.09,
+      "text": "dois"
+    },
+    {
+      "start": 3378.09,
+      "end": 3378.65,
+      "text": "bolos."
+    },
+    {
+      "start": 3385.6,
+      "end": 3385.64,
+      "text": "Eu"
+    },
+    {
+      "start": 3385.64,
+      "end": 3385.8,
+      "text": "sou"
+    },
+    {
+      "start": 3385.8,
+      "end": 3386.04,
+      "text": "só"
+    },
+    {
+      "start": 3386.04,
+      "end": 3386.24,
+      "text": "a"
+    },
+    {
+      "start": 3386.24,
+      "end": 3386.32,
+      "text": "avó"
+    },
+    {
+      "start": 3386.32,
+      "end": 3386.36,
+      "text": "da"
+    },
+    {
+      "start": 3386.36,
+      "end": 3386.82,
+      "text": "família,"
+    },
+    {
+      "start": 3387.22,
+      "end": 3387.56,
+      "text": "com"
+    },
+    {
+      "start": 3387.56,
+      "end": 3387.82,
+      "text": "dois"
+    },
+    {
+      "start": 3387.82,
+      "end": 3388.16,
+      "text": "amigos"
+    },
+    {
+      "start": 3388.16,
+      "end": 3388.36,
+      "text": "do"
+    },
+    {
+      "start": 3388.36,
+      "end": 3388.6,
+      "text": "pai"
+    },
+    {
+      "start": 3388.6,
+      "end": 3388.8,
+      "text": "e"
+    },
+    {
+      "start": 3388.8,
+      "end": 3389.0,
+      "text": "só."
+    },
+    {
+      "start": 3390.32,
+      "end": 3390.72,
+      "text": "Ela"
+    },
+    {
+      "start": 3390.72,
+      "end": 3390.88,
+      "text": "que"
+    },
+    {
+      "start": 3390.88,
+      "end": 3391.38,
+      "text": "chama"
+    },
+    {
+      "start": 3391.38,
+      "end": 3391.94,
+      "text": "Letícia,"
+    },
+    {
+      "start": 3391.94,
+      "end": 3392.32,
+      "text": "Felipe,"
+    },
+    {
+      "start": 3392.68,
+      "end": 3392.76,
+      "text": "né?"
+    },
+    {
+      "start": 3392.92,
+      "end": 3393.28,
+      "text": "Eu"
+    },
+    {
+      "start": 3393.28,
+      "end": 3393.5,
+      "text": "não,"
+    },
+    {
+      "start": 3393.58,
+      "end": 3393.64,
+      "text": "eu"
+    },
+    {
+      "start": 3393.64,
+      "end": 3393.78,
+      "text": "gosto"
+    },
+    {
+      "start": 3393.78,
+      "end": 3394.08,
+      "text": "tanto,"
+    },
+    {
+      "start": 3394.16,
+      "end": 3394.32,
+      "text": "só"
+    },
+    {
+      "start": 3394.32,
+      "end": 3394.38,
+      "text": "a"
+    },
+    {
+      "start": 3394.38,
+      "end": 3394.64,
+      "text": "gente."
+    },
+    {
+      "start": 3396.58,
+      "end": 3396.78,
+      "text": "Achei"
+    },
+    {
+      "start": 3396.78,
+      "end": 3396.8,
+      "text": "que"
+    },
+    {
+      "start": 3396.8,
+      "end": 3396.92,
+      "text": "não"
+    },
+    {
+      "start": 3396.92,
+      "end": 3397.16,
+      "text": "fosse"
+    },
+    {
+      "start": 3397.16,
+      "end": 3397.42,
+      "text": "muito"
+    },
+    {
+      "start": 3397.42,
+      "end": 3397.78,
+      "text": "bom."
+    },
+    {
+      "start": 3415.65,
+      "end": 3415.99,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 3415.99,
+      "end": 3416.13,
+      "text": "a"
+    },
+    {
+      "start": 3416.13,
+      "end": 3418.01,
+      "text": "transmissão"
+    },
+    {
+      "start": 3418.01,
+      "end": 3419.51,
+      "text": "em"
+    },
+    {
+      "start": 3419.51,
+      "end": 3424.01,
+      "text": "português."
+    },
+    {
+      "start": 3636.99,
+      "end": 3637.21,
+      "text": "Porto."
+    },
+    {
+      "start": 3643.84,
+      "end": 3644.58,
+      "text": "Seja"
+    },
+    {
+      "start": 3644.58,
+      "end": 3644.94,
+      "text": "bem"
+    },
+    {
+      "start": 3644.94,
+      "end": 3646.32,
+      "text": "-vindo!"
+    },
+    {
+      "start": 3650.98,
+      "end": 3651.16,
+      "text": "Não"
+    },
+    {
+      "start": 3651.16,
+      "end": 3651.16,
+      "text": "é"
+    },
+    {
+      "start": 3651.16,
+      "end": 3651.22,
+      "text": "o"
+    },
+    {
+      "start": 3651.22,
+      "end": 3651.48,
+      "text": "mesmo?"
+    },
+    {
+      "start": 3656.92,
+      "end": 3657.06,
+      "text": "A"
+    },
+    {
+      "start": 3657.06,
+      "end": 3657.06,
+      "text": "gente"
+    },
+    {
+      "start": 3657.06,
+      "end": 3657.06,
+      "text": "fez"
+    },
+    {
+      "start": 3657.06,
+      "end": 3657.06,
+      "text": "a"
+    },
+    {
+      "start": 3657.06,
+      "end": 3657.72,
+      "text": "alimentação,"
+    },
+    {
+      "start": 3657.78,
+      "end": 3658.62,
+      "text": "pegou"
+    },
+    {
+      "start": 3658.62,
+      "end": 3658.8,
+      "text": "as"
+    },
+    {
+      "start": 3658.8,
+      "end": 3659.74,
+      "text": "brincadeiras,"
+    },
+    {
+      "start": 3659.78,
+      "end": 3660.8,
+      "text": "aí"
+    },
+    {
+      "start": 3660.8,
+      "end": 3660.98,
+      "text": "a"
+    },
+    {
+      "start": 3660.98,
+      "end": 3661.36,
+      "text": "gente"
+    },
+    {
+      "start": 3661.36,
+      "end": 3662.1,
+      "text": "comeu,"
+    },
+    {
+      "start": 3662.1,
+      "end": 3663.22,
+      "text": "e"
+    },
+    {
+      "start": 3663.22,
+      "end": 3664.38,
+      "text": "fomos."
+    },
+    {
+      "start": 3668.83,
+      "end": 3669.17,
+      "text": "Médicos."
+    },
+    {
+      "start": 3677.95,
+      "end": 3680.11,
+      "text": "Ela"
+    },
+    {
+      "start": 3680.11,
+      "end": 3680.75,
+      "text": "voltou."
+    },
+    {
+      "start": 3683.14,
+      "end": 3683.34,
+      "text": "Não"
+    },
+    {
+      "start": 3683.34,
+      "end": 3683.34,
+      "text": "tô"
+    },
+    {
+      "start": 3683.34,
+      "end": 3683.54,
+      "text": "aqui"
+    },
+    {
+      "start": 3683.54,
+      "end": 3683.76,
+      "text": "não."
+    },
+    {
+      "start": 3683.94,
+      "end": 3684.28,
+      "text": "Não"
+    },
+    {
+      "start": 3684.28,
+      "end": 3684.88,
+      "text": "voltou."
+    },
+    {
+      "start": 3687.46,
+      "end": 3687.66,
+      "text": "Tchau!"
+    },
+    {
+      "start": 3691.75,
+      "end": 3691.83,
+      "text": "A"
+    },
+    {
+      "start": 3691.83,
+      "end": 3692.03,
+      "text": "rota"
+    },
+    {
+      "start": 3692.03,
+      "end": 3692.61,
+      "text": "sozinha"
+    },
+    {
+      "start": 3692.61,
+      "end": 3692.69,
+      "text": "é"
+    },
+    {
+      "start": 3692.69,
+      "end": 3692.91,
+      "text": "lógica."
+    },
+    {
+      "start": 3697.03,
+      "end": 3697.15,
+      "text": "O"
+    },
+    {
+      "start": 3697.15,
+      "end": 3697.29,
+      "text": "que"
+    },
+    {
+      "start": 3697.29,
+      "end": 3697.53,
+      "text": "é"
+    },
+    {
+      "start": 3697.53,
+      "end": 3697.77,
+      "text": "o"
+    },
+    {
+      "start": 3697.77,
+      "end": 3697.77,
+      "text": "que?"
+    },
+    {
+      "start": 3699.03,
+      "end": 3699.39,
+      "text": "É"
+    },
+    {
+      "start": 3699.39,
+      "end": 3699.57,
+      "text": "uma"
+    },
+    {
+      "start": 3699.57,
+      "end": 3699.89,
+      "text": "linda"
+    },
+    {
+      "start": 3699.89,
+      "end": 3700.21,
+      "text": "voz,"
+    },
+    {
+      "start": 3700.25,
+      "end": 3700.43,
+      "text": "né?"
+    },
+    {
+      "start": 3700.57,
+      "end": 3700.89,
+      "text": "É"
+    },
+    {
+      "start": 3700.89,
+      "end": 3701.05,
+      "text": "uma"
+    },
+    {
+      "start": 3701.05,
+      "end": 3701.19,
+      "text": "linda"
+    },
+    {
+      "start": 3701.19,
+      "end": 3701.49,
+      "text": "voz."
+    },
+    {
+      "start": 3701.49,
+      "end": 3701.77,
+      "text": "É"
+    },
+    {
+      "start": 3701.77,
+      "end": 3701.91,
+      "text": "uma"
+    },
+    {
+      "start": 3701.91,
+      "end": 3701.99,
+      "text": "linda"
+    },
+    {
+      "start": 3701.99,
+      "end": 3702.09,
+      "text": "voz."
+    },
+    {
+      "start": 3704.48,
+      "end": 3704.58,
+      "text": "A"
+    },
+    {
+      "start": 3704.58,
+      "end": 3704.62,
+      "text": "gente"
+    },
+    {
+      "start": 3704.62,
+      "end": 3704.84,
+      "text": "está"
+    },
+    {
+      "start": 3704.84,
+      "end": 3705.12,
+      "text": "aqui."
+    },
+    {
+      "start": 3731.78,
+      "end": 3731.88,
+      "text": "Faz"
+    },
+    {
+      "start": 3731.88,
+      "end": 3732.24,
+      "text": "tempo?"
+    }
+  ]
+}

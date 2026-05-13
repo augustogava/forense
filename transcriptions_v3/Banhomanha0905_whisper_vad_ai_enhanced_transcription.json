@@ -1,0 +1,80 @@
+{
+  "source_file": "Banhomanha0905_whisper_vad_ai_enhanced.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 453.5,
+  "segments": {
+    "00:05:11,00:05:13": "Obrigado.",
+    "00:06:14,00:06:14": "O que é que eu vou fazer?",
+    "00:06:45,00:06:45": "Obrigado."
+  },
+  "hallucinations_filtered": 15,
+  "words": [
+    {
+      "start": 311.55,
+      "end": 313.31,
+      "text": "Obrigado.",
+      "confidence": 0.48
+    },
+    {
+      "start": 374.75,
+      "end": 374.87,
+      "text": "O",
+      "confidence": 0.055
+    },
+    {
+      "start": 374.87,
+      "end": 374.89,
+      "text": "que",
+      "confidence": 0.716
+    },
+    {
+      "start": 374.89,
+      "end": 374.91,
+      "text": "é",
+      "confidence": 0.729
+    },
+    {
+      "start": 374.91,
+      "end": 374.93,
+      "text": "que",
+      "confidence": 0.116
+    },
+    {
+      "start": 374.93,
+      "end": 374.95,
+      "text": "eu",
+      "confidence": 0.239
+    },
+    {
+      "start": 374.95,
+      "end": 374.97,
+      "text": "vou",
+      "confidence": 0.88
+    },
+    {
+      "start": 374.97,
+      "end": 374.99,
+      "text": "fazer?",
+      "confidence": 0.924
+    },
+    {
+      "start": 405.06,
+      "end": 405.08,
+      "text": "Boa",
+      "confidence": 0.197
+    },
+    {
+      "start": 405.08,
+      "end": 405.1,
+      "text": "noite.",
+      "confidence": 0.908
+    },
+    {
+      "start": 405.1,
+      "end": 405.68,
+      "text": "Obrigado.",
+      "confidence": 0.455
+    }
+  ]
+}

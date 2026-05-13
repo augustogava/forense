@@ -1,0 +1,79 @@
+{
+  "source_file": "New_Recording_8_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 4881.2,
+  "segments": {
+    "00:06:22,00:06:26": "Amanhã agora eu vou lá no coiso, tá bom?",
+    "00:06:26,00:06:27": "Tá bom."
+  },
+  "hallucinations_filtered": 4,
+  "words": [
+    {
+      "start": 382.33,
+      "end": 382.87,
+      "text": "Amanhã",
+      "confidence": 0.319
+    },
+    {
+      "start": 385.2,
+      "end": 385.34,
+      "text": "agora",
+      "confidence": 0.363
+    },
+    {
+      "start": 385.34,
+      "end": 385.48,
+      "text": "eu",
+      "confidence": 0.722
+    },
+    {
+      "start": 385.48,
+      "end": 385.54,
+      "text": "vou",
+      "confidence": 0.694
+    },
+    {
+      "start": 385.54,
+      "end": 385.76,
+      "text": "lá",
+      "confidence": 0.038
+    },
+    {
+      "start": 385.76,
+      "end": 385.98,
+      "text": "no",
+      "confidence": 0.76
+    },
+    {
+      "start": 385.98,
+      "end": 386.36,
+      "text": "coiso,",
+      "confidence": 0.718
+    },
+    {
+      "start": 386.4,
+      "end": 386.52,
+      "text": "tá",
+      "confidence": 0.566
+    },
+    {
+      "start": 386.52,
+      "end": 386.72,
+      "text": "bom?",
+      "confidence": 0.989
+    },
+    {
+      "start": 386.72,
+      "end": 387.04,
+      "text": "Tá",
+      "confidence": 0.23
+    },
+    {
+      "start": 387.04,
+      "end": 387.32,
+      "text": "bom.",
+      "confidence": 0.428
+    }
+  ]
+}

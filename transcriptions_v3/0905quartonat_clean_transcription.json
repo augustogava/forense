@@ -1,0 +1,226 @@
+{
+  "source_file": "0905quartonat_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3786.9,
+  "segments": {
+    "00:56:23,00:56:29": "Mas acho que eu só gostei da família, e desde o meu resultado, é isso aí.",
+    "00:56:57,00:56:59": "Não, acho que só a Carol.",
+    "00:57:01,00:57:03": "Eu vou fechar.",
+    "01:00:50,01:00:51": "Não, eu não entendi nada.",
+    "01:00:55,01:00:57": "Eu quero fazer uma apresentação."
+  },
+  "hallucinations_filtered": 53,
+  "words": [
+    {
+      "start": 3383.39,
+      "end": 3384.31,
+      "text": "Mas",
+      "confidence": 0.086
+    },
+    {
+      "start": 3385.31,
+      "end": 3385.67,
+      "text": "acho",
+      "confidence": 0.272
+    },
+    {
+      "start": 3385.67,
+      "end": 3385.73,
+      "text": "que",
+      "confidence": 0.651
+    },
+    {
+      "start": 3385.73,
+      "end": 3385.83,
+      "text": "eu",
+      "confidence": 0.195
+    },
+    {
+      "start": 3385.83,
+      "end": 3386.09,
+      "text": "só",
+      "confidence": 0.243
+    },
+    {
+      "start": 3386.09,
+      "end": 3386.47,
+      "text": "gostei",
+      "confidence": 0.611
+    },
+    {
+      "start": 3386.47,
+      "end": 3386.61,
+      "text": "da",
+      "confidence": 0.988
+    },
+    {
+      "start": 3386.61,
+      "end": 3386.85,
+      "text": "família,",
+      "confidence": 0.702
+    },
+    {
+      "start": 3387.21,
+      "end": 3387.45,
+      "text": "e",
+      "confidence": 0.051
+    },
+    {
+      "start": 3387.45,
+      "end": 3387.83,
+      "text": "desde",
+      "confidence": 0.07
+    },
+    {
+      "start": 3387.83,
+      "end": 3387.97,
+      "text": "o",
+      "confidence": 0.163
+    },
+    {
+      "start": 3387.97,
+      "end": 3388.13,
+      "text": "meu",
+      "confidence": 0.556
+    },
+    {
+      "start": 3388.13,
+      "end": 3388.39,
+      "text": "resultado,",
+      "confidence": 0.621
+    },
+    {
+      "start": 3388.73,
+      "end": 3388.81,
+      "text": "é",
+      "confidence": 0.165
+    },
+    {
+      "start": 3388.81,
+      "end": 3388.97,
+      "text": "isso",
+      "confidence": 0.095
+    },
+    {
+      "start": 3388.97,
+      "end": 3389.11,
+      "text": "aí.",
+      "confidence": 0.755
+    },
+    {
+      "start": 3417.97,
+      "end": 3418.29,
+      "text": "Não,",
+      "confidence": 0.384
+    },
+    {
+      "start": 3418.43,
+      "end": 3418.65,
+      "text": "acho",
+      "confidence": 0.747
+    },
+    {
+      "start": 3418.65,
+      "end": 3418.73,
+      "text": "que",
+      "confidence": 0.983
+    },
+    {
+      "start": 3418.73,
+      "end": 3418.91,
+      "text": "só",
+      "confidence": 0.379
+    },
+    {
+      "start": 3418.91,
+      "end": 3419.05,
+      "text": "a",
+      "confidence": 0.432
+    },
+    {
+      "start": 3419.05,
+      "end": 3419.31,
+      "text": "Carol.",
+      "confidence": 0.141
+    },
+    {
+      "start": 3421.25,
+      "end": 3422.1,
+      "text": "Eu",
+      "confidence": 0.026
+    },
+    {
+      "start": 3423.0,
+      "end": 3423.2,
+      "text": "vou",
+      "confidence": 0.632
+    },
+    {
+      "start": 3423.2,
+      "end": 3423.6,
+      "text": "fechar.",
+      "confidence": 0.577
+    },
+    {
+      "start": 3650.61,
+      "end": 3651.02,
+      "text": "Não,",
+      "confidence": 0.48
+    },
+    {
+      "start": 3651.2,
+      "end": 3651.36,
+      "text": "eu",
+      "confidence": 0.084
+    },
+    {
+      "start": 3651.36,
+      "end": 3651.52,
+      "text": "não",
+      "confidence": 0.791
+    },
+    {
+      "start": 3651.52,
+      "end": 3651.58,
+      "text": "entendi",
+      "confidence": 0.149
+    },
+    {
+      "start": 3651.58,
+      "end": 3651.82,
+      "text": "nada.",
+      "confidence": 0.657
+    },
+    {
+      "start": 3655.2,
+      "end": 3655.86,
+      "text": "Eu",
+      "confidence": 0.123
+    },
+    {
+      "start": 3655.86,
+      "end": 3656.18,
+      "text": "quero",
+      "confidence": 0.956
+    },
+    {
+      "start": 3656.18,
+      "end": 3656.52,
+      "text": "fazer",
+      "confidence": 0.014
+    },
+    {
+      "start": 3656.52,
+      "end": 3656.96,
+      "text": "uma",
+      "confidence": 0.514
+    },
+    {
+      "start": 3656.96,
+      "end": 3657.5,
+      "text": "apresentação.",
+      "confidence": 0.821
+    }
+  ]
+}

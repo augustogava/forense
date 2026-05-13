@@ -1,0 +1,24 @@
+{
+  "source_file": "VOR20260508063221_0805_part002_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.0,
+  "segments": {
+    "00:54:56,00:54:57": "E aí"
+  },
+  "hallucinations_filtered": 1,
+  "words": [
+    {
+      "start": 3296.75,
+      "end": 3297.25,
+      "text": "E",
+      "confidence": 0.114
+    },
+    {
+      "start": 3297.25,
+      "end": 3297.91,
+      "text": "aí",
+      "confidence": 0.924
+    }
+  ]
+}

@@ -1,0 +1,1152 @@
+{
+  "source_file": "New_Recording_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:40,00:00:40": "Tchau.",
+    "00:01:44,00:01:44": "Obrigada.",
+    "00:03:05,00:03:06": "Acompanhe o programa.",
+    "00:03:13,00:03:17": "Acompanhe as notícias nacionais e internacionais para você seguir seu dia bem informado.",
+    "00:03:22,00:03:31": "A produção deve chegar em 141,71 milhões de toneladas após um corte de 1 milhão de toneladas na projeção.",
+    "00:03:31,00:03:41": "Esse novo número divulgado no relatório da consultoria Safras e Mercado é por causa da redução do rendimento esperado para a segunda safra, a chamada Safrinha.",
+    "00:03:41,00:03:47": "A queda reflete uma projeção menor de produtividade média da Safrinha, que resulte pela maior parte...",
+    "00:04:23,00:04:25": "O uso de inteligência artificial em toda a economia industrial.",
+    "00:04:26,00:04:29": "O projeto faz parte de um novo ciclo de planejamento estratégico do país",
+    "00:04:29,00:04:34": "e trata o domínio de tecnologias avançadas como uma prioridade de segurança nacional.",
+    "00:04:35,00:04:41": "A estratégia reflete a visão do governo de Xi Jinping de criar as chamadas novas forças produtivas,",
+    "00:04:41,00:04:45": "com foco em áreas como IA, semicondutores e inovação industrial.",
+    "00:04:46,00:04:49": "A meta é reduzir a dependência de tecnologias estrangeiras,",
+    "00:04:49,00:04:54": "especialmente diante das restrições de exportação impostas pelos Estados Unidos",
+    "00:04:54,00:04:57": "e aumentar a autossuficiência tecnológica do país.",
+    "00:04:57,00:05:03": "Ao mesmo tempo, a aposta em tecnologia surge em meio a desafios econômicos estruturais",
+    "00:05:03,00:05:07": "como o envelhecimento da população, a crise do setor imobiliário",
+    "00:05:07,00:05:09": "e o crescimento mais lento do consumo.",
+    "00:08:17,00:08:18": "Não se cria um entorno.",
+    "00:08:23,00:08:25": "100 reais gasolina? Como um? Sim.",
+    "00:11:35,00:11:37": "Apenas ganhar uma moeda a mais.",
+    "00:11:39,00:11:41": "A moeda mágica é essa moeda.",
+    "00:13:57,00:13:57": "Fielmente."
+  },
+  "words": [
+    {
+      "start": 40.3,
+      "end": 40.76,
+      "text": "Tchau."
+    },
+    {
+      "start": 104.51,
+      "end": 104.77,
+      "text": "Obrigada."
+    },
+    {
+      "start": 185.83,
+      "end": 186.15,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 186.15,
+      "end": 186.27,
+      "text": "o"
+    },
+    {
+      "start": 186.27,
+      "end": 186.47,
+      "text": "programa."
+    },
+    {
+      "start": 193.67,
+      "end": 193.85,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 193.85,
+      "end": 193.85,
+      "text": "as"
+    },
+    {
+      "start": 193.85,
+      "end": 194.07,
+      "text": "notícias"
+    },
+    {
+      "start": 194.07,
+      "end": 194.77,
+      "text": "nacionais"
+    },
+    {
+      "start": 194.77,
+      "end": 194.85,
+      "text": "e"
+    },
+    {
+      "start": 194.85,
+      "end": 195.61,
+      "text": "internacionais"
+    },
+    {
+      "start": 195.61,
+      "end": 195.77,
+      "text": "para"
+    },
+    {
+      "start": 195.77,
+      "end": 195.99,
+      "text": "você"
+    },
+    {
+      "start": 195.99,
+      "end": 196.31,
+      "text": "seguir"
+    },
+    {
+      "start": 196.31,
+      "end": 196.49,
+      "text": "seu"
+    },
+    {
+      "start": 196.49,
+      "end": 196.69,
+      "text": "dia"
+    },
+    {
+      "start": 196.69,
+      "end": 196.89,
+      "text": "bem"
+    },
+    {
+      "start": 196.89,
+      "end": 197.55,
+      "text": "informado."
+    },
+    {
+      "start": 202.11,
+      "end": 202.97,
+      "text": "A"
+    },
+    {
+      "start": 202.97,
+      "end": 203.39,
+      "text": "produção"
+    },
+    {
+      "start": 203.39,
+      "end": 204.01,
+      "text": "deve"
+    },
+    {
+      "start": 204.01,
+      "end": 204.29,
+      "text": "chegar"
+    },
+    {
+      "start": 204.29,
+      "end": 204.53,
+      "text": "em"
+    },
+    {
+      "start": 204.53,
+      "end": 205.47,
+      "text": "141"
+    },
+    {
+      "start": 205.47,
+      "end": 206.25,
+      "text": ",71"
+    },
+    {
+      "start": 206.25,
+      "end": 206.91,
+      "text": "milhões"
+    },
+    {
+      "start": 206.91,
+      "end": 207.27,
+      "text": "de"
+    },
+    {
+      "start": 207.27,
+      "end": 207.95,
+      "text": "toneladas"
+    },
+    {
+      "start": 207.95,
+      "end": 208.55,
+      "text": "após"
+    },
+    {
+      "start": 208.55,
+      "end": 208.59,
+      "text": "um"
+    },
+    {
+      "start": 208.59,
+      "end": 209.11,
+      "text": "corte"
+    },
+    {
+      "start": 209.11,
+      "end": 209.13,
+      "text": "de"
+    },
+    {
+      "start": 209.13,
+      "end": 209.69,
+      "text": "1"
+    },
+    {
+      "start": 209.69,
+      "end": 210.35,
+      "text": "milhão"
+    },
+    {
+      "start": 210.35,
+      "end": 210.43,
+      "text": "de"
+    },
+    {
+      "start": 210.43,
+      "end": 211.05,
+      "text": "toneladas"
+    },
+    {
+      "start": 211.05,
+      "end": 211.21,
+      "text": "na"
+    },
+    {
+      "start": 211.21,
+      "end": 211.73,
+      "text": "projeção."
+    },
+    {
+      "start": 211.83,
+      "end": 212.13,
+      "text": "Esse"
+    },
+    {
+      "start": 212.13,
+      "end": 212.43,
+      "text": "novo"
+    },
+    {
+      "start": 212.43,
+      "end": 212.85,
+      "text": "número"
+    },
+    {
+      "start": 212.85,
+      "end": 213.47,
+      "text": "divulgado"
+    },
+    {
+      "start": 213.47,
+      "end": 213.63,
+      "text": "no"
+    },
+    {
+      "start": 213.63,
+      "end": 214.17,
+      "text": "relatório"
+    },
+    {
+      "start": 214.17,
+      "end": 214.35,
+      "text": "da"
+    },
+    {
+      "start": 214.35,
+      "end": 214.95,
+      "text": "consultoria"
+    },
+    {
+      "start": 214.95,
+      "end": 215.51,
+      "text": "Safras"
+    },
+    {
+      "start": 215.51,
+      "end": 215.55,
+      "text": "e"
+    },
+    {
+      "start": 215.55,
+      "end": 216.11,
+      "text": "Mercado"
+    },
+    {
+      "start": 216.11,
+      "end": 216.29,
+      "text": "é"
+    },
+    {
+      "start": 216.29,
+      "end": 216.45,
+      "text": "por"
+    },
+    {
+      "start": 216.45,
+      "end": 216.75,
+      "text": "causa"
+    },
+    {
+      "start": 216.75,
+      "end": 216.97,
+      "text": "da"
+    },
+    {
+      "start": 216.97,
+      "end": 217.55,
+      "text": "redução"
+    },
+    {
+      "start": 217.55,
+      "end": 217.71,
+      "text": "do"
+    },
+    {
+      "start": 217.71,
+      "end": 218.19,
+      "text": "rendimento"
+    },
+    {
+      "start": 218.19,
+      "end": 218.79,
+      "text": "esperado"
+    },
+    {
+      "start": 218.79,
+      "end": 218.95,
+      "text": "para"
+    },
+    {
+      "start": 218.95,
+      "end": 219.03,
+      "text": "a"
+    },
+    {
+      "start": 219.03,
+      "end": 219.31,
+      "text": "segunda"
+    },
+    {
+      "start": 219.31,
+      "end": 219.89,
+      "text": "safra,"
+    },
+    {
+      "start": 219.89,
+      "end": 220.07,
+      "text": "a"
+    },
+    {
+      "start": 220.07,
+      "end": 220.57,
+      "text": "chamada"
+    },
+    {
+      "start": 220.57,
+      "end": 221.17,
+      "text": "Safrinha."
+    },
+    {
+      "start": 221.31,
+      "end": 221.47,
+      "text": "A"
+    },
+    {
+      "start": 221.47,
+      "end": 221.77,
+      "text": "queda"
+    },
+    {
+      "start": 221.77,
+      "end": 222.41,
+      "text": "reflete"
+    },
+    {
+      "start": 222.41,
+      "end": 222.45,
+      "text": "uma"
+    },
+    {
+      "start": 222.45,
+      "end": 222.99,
+      "text": "projeção"
+    },
+    {
+      "start": 222.99,
+      "end": 223.29,
+      "text": "menor"
+    },
+    {
+      "start": 223.29,
+      "end": 223.67,
+      "text": "de"
+    },
+    {
+      "start": 223.67,
+      "end": 224.23,
+      "text": "produtividade"
+    },
+    {
+      "start": 224.23,
+      "end": 224.73,
+      "text": "média"
+    },
+    {
+      "start": 224.73,
+      "end": 225.07,
+      "text": "da"
+    },
+    {
+      "start": 225.07,
+      "end": 225.65,
+      "text": "Safrinha,"
+    },
+    {
+      "start": 225.69,
+      "end": 225.89,
+      "text": "que"
+    },
+    {
+      "start": 225.89,
+      "end": 226.51,
+      "text": "resulte"
+    },
+    {
+      "start": 226.51,
+      "end": 226.65,
+      "text": "pela"
+    },
+    {
+      "start": 226.65,
+      "end": 226.99,
+      "text": "maior"
+    },
+    {
+      "start": 226.99,
+      "end": 227.35,
+      "text": "parte..."
+    },
+    {
+      "start": 263.33,
+      "end": 263.33,
+      "text": "O"
+    },
+    {
+      "start": 263.33,
+      "end": 263.41,
+      "text": "uso"
+    },
+    {
+      "start": 263.41,
+      "end": 263.71,
+      "text": "de"
+    },
+    {
+      "start": 263.71,
+      "end": 264.21,
+      "text": "inteligência"
+    },
+    {
+      "start": 264.21,
+      "end": 264.51,
+      "text": "artificial"
+    },
+    {
+      "start": 264.51,
+      "end": 264.93,
+      "text": "em"
+    },
+    {
+      "start": 264.93,
+      "end": 265.09,
+      "text": "toda"
+    },
+    {
+      "start": 265.09,
+      "end": 265.17,
+      "text": "a"
+    },
+    {
+      "start": 265.17,
+      "end": 265.53,
+      "text": "economia"
+    },
+    {
+      "start": 265.53,
+      "end": 265.87,
+      "text": "industrial."
+    },
+    {
+      "start": 266.13,
+      "end": 266.25,
+      "text": "O"
+    },
+    {
+      "start": 266.25,
+      "end": 266.51,
+      "text": "projeto"
+    },
+    {
+      "start": 266.51,
+      "end": 266.79,
+      "text": "faz"
+    },
+    {
+      "start": 266.79,
+      "end": 267.15,
+      "text": "parte"
+    },
+    {
+      "start": 267.15,
+      "end": 267.29,
+      "text": "de"
+    },
+    {
+      "start": 267.29,
+      "end": 267.37,
+      "text": "um"
+    },
+    {
+      "start": 267.37,
+      "end": 267.61,
+      "text": "novo"
+    },
+    {
+      "start": 267.61,
+      "end": 268.13,
+      "text": "ciclo"
+    },
+    {
+      "start": 268.13,
+      "end": 268.25,
+      "text": "de"
+    },
+    {
+      "start": 268.25,
+      "end": 268.77,
+      "text": "planejamento"
+    },
+    {
+      "start": 268.77,
+      "end": 269.49,
+      "text": "estratégico"
+    },
+    {
+      "start": 269.49,
+      "end": 269.61,
+      "text": "do"
+    },
+    {
+      "start": 269.61,
+      "end": 269.83,
+      "text": "país"
+    },
+    {
+      "start": 269.83,
+      "end": 270.17,
+      "text": "e"
+    },
+    {
+      "start": 270.17,
+      "end": 270.49,
+      "text": "trata"
+    },
+    {
+      "start": 270.49,
+      "end": 270.73,
+      "text": "o"
+    },
+    {
+      "start": 270.73,
+      "end": 271.11,
+      "text": "domínio"
+    },
+    {
+      "start": 271.11,
+      "end": 271.29,
+      "text": "de"
+    },
+    {
+      "start": 271.29,
+      "end": 271.93,
+      "text": "tecnologias"
+    },
+    {
+      "start": 271.93,
+      "end": 272.61,
+      "text": "avançadas"
+    },
+    {
+      "start": 272.61,
+      "end": 272.95,
+      "text": "como"
+    },
+    {
+      "start": 272.95,
+      "end": 273.09,
+      "text": "uma"
+    },
+    {
+      "start": 273.09,
+      "end": 273.87,
+      "text": "prioridade"
+    },
+    {
+      "start": 273.87,
+      "end": 274.11,
+      "text": "de"
+    },
+    {
+      "start": 274.11,
+      "end": 274.35,
+      "text": "segurança"
+    },
+    {
+      "start": 274.35,
+      "end": 274.81,
+      "text": "nacional."
+    },
+    {
+      "start": 275.17,
+      "end": 275.33,
+      "text": "A"
+    },
+    {
+      "start": 275.33,
+      "end": 275.93,
+      "text": "estratégia"
+    },
+    {
+      "start": 275.93,
+      "end": 276.41,
+      "text": "reflete"
+    },
+    {
+      "start": 276.41,
+      "end": 276.47,
+      "text": "a"
+    },
+    {
+      "start": 276.47,
+      "end": 276.77,
+      "text": "visão"
+    },
+    {
+      "start": 276.77,
+      "end": 276.97,
+      "text": "do"
+    },
+    {
+      "start": 276.97,
+      "end": 277.33,
+      "text": "governo"
+    },
+    {
+      "start": 277.33,
+      "end": 277.61,
+      "text": "de"
+    },
+    {
+      "start": 277.61,
+      "end": 277.83,
+      "text": "Xi"
+    },
+    {
+      "start": 277.83,
+      "end": 278.07,
+      "text": "Jinping"
+    },
+    {
+      "start": 278.07,
+      "end": 278.57,
+      "text": "de"
+    },
+    {
+      "start": 278.57,
+      "end": 278.93,
+      "text": "criar"
+    },
+    {
+      "start": 278.93,
+      "end": 279.19,
+      "text": "as"
+    },
+    {
+      "start": 279.19,
+      "end": 279.61,
+      "text": "chamadas"
+    },
+    {
+      "start": 279.61,
+      "end": 280.35,
+      "text": "novas"
+    },
+    {
+      "start": 280.35,
+      "end": 280.79,
+      "text": "forças"
+    },
+    {
+      "start": 280.79,
+      "end": 281.57,
+      "text": "produtivas,"
+    },
+    {
+      "start": 281.67,
+      "end": 281.95,
+      "text": "com"
+    },
+    {
+      "start": 281.95,
+      "end": 282.49,
+      "text": "foco"
+    },
+    {
+      "start": 282.49,
+      "end": 282.61,
+      "text": "em"
+    },
+    {
+      "start": 282.61,
+      "end": 282.87,
+      "text": "áreas"
+    },
+    {
+      "start": 282.87,
+      "end": 283.21,
+      "text": "como"
+    },
+    {
+      "start": 283.21,
+      "end": 283.51,
+      "text": "IA,"
+    },
+    {
+      "start": 283.65,
+      "end": 284.69,
+      "text": "semicondutores"
+    },
+    {
+      "start": 284.69,
+      "end": 284.87,
+      "text": "e"
+    },
+    {
+      "start": 284.87,
+      "end": 285.43,
+      "text": "inovação"
+    },
+    {
+      "start": 285.43,
+      "end": 285.83,
+      "text": "industrial."
+    },
+    {
+      "start": 286.09,
+      "end": 286.29,
+      "text": "A"
+    },
+    {
+      "start": 286.29,
+      "end": 286.53,
+      "text": "meta"
+    },
+    {
+      "start": 286.53,
+      "end": 286.67,
+      "text": "é"
+    },
+    {
+      "start": 286.67,
+      "end": 287.13,
+      "text": "reduzir"
+    },
+    {
+      "start": 287.13,
+      "end": 287.23,
+      "text": "a"
+    },
+    {
+      "start": 287.23,
+      "end": 287.71,
+      "text": "dependência"
+    },
+    {
+      "start": 287.71,
+      "end": 287.91,
+      "text": "de"
+    },
+    {
+      "start": 287.91,
+      "end": 288.55,
+      "text": "tecnologias"
+    },
+    {
+      "start": 288.55,
+      "end": 289.27,
+      "text": "estrangeiras,"
+    },
+    {
+      "start": 289.27,
+      "end": 290.01,
+      "text": "especialmente"
+    },
+    {
+      "start": 290.01,
+      "end": 290.85,
+      "text": "diante"
+    },
+    {
+      "start": 290.85,
+      "end": 290.99,
+      "text": "das"
+    },
+    {
+      "start": 290.99,
+      "end": 291.75,
+      "text": "restrições"
+    },
+    {
+      "start": 291.75,
+      "end": 291.97,
+      "text": "de"
+    },
+    {
+      "start": 291.97,
+      "end": 292.69,
+      "text": "exportação"
+    },
+    {
+      "start": 292.69,
+      "end": 293.53,
+      "text": "impostas"
+    },
+    {
+      "start": 293.53,
+      "end": 293.73,
+      "text": "pelos"
+    },
+    {
+      "start": 293.73,
+      "end": 294.07,
+      "text": "Estados"
+    },
+    {
+      "start": 294.07,
+      "end": 294.45,
+      "text": "Unidos"
+    },
+    {
+      "start": 294.45,
+      "end": 294.85,
+      "text": "e"
+    },
+    {
+      "start": 294.85,
+      "end": 295.13,
+      "text": "aumentar"
+    },
+    {
+      "start": 295.13,
+      "end": 295.57,
+      "text": "a"
+    },
+    {
+      "start": 295.57,
+      "end": 296.51,
+      "text": "autossuficiência"
+    },
+    {
+      "start": 296.51,
+      "end": 297.23,
+      "text": "tecnológica"
+    },
+    {
+      "start": 297.23,
+      "end": 297.35,
+      "text": "do"
+    },
+    {
+      "start": 297.35,
+      "end": 297.59,
+      "text": "país."
+    },
+    {
+      "start": 297.79,
+      "end": 298.11,
+      "text": "Ao"
+    },
+    {
+      "start": 298.11,
+      "end": 298.33,
+      "text": "mesmo"
+    },
+    {
+      "start": 298.33,
+      "end": 298.77,
+      "text": "tempo,"
+    },
+    {
+      "start": 298.91,
+      "end": 299.01,
+      "text": "a"
+    },
+    {
+      "start": 299.01,
+      "end": 299.61,
+      "text": "aposta"
+    },
+    {
+      "start": 299.61,
+      "end": 299.73,
+      "text": "em"
+    },
+    {
+      "start": 299.73,
+      "end": 300.21,
+      "text": "tecnologia"
+    },
+    {
+      "start": 300.21,
+      "end": 300.99,
+      "text": "surge"
+    },
+    {
+      "start": 300.99,
+      "end": 301.27,
+      "text": "em"
+    },
+    {
+      "start": 301.27,
+      "end": 301.45,
+      "text": "meio"
+    },
+    {
+      "start": 301.45,
+      "end": 301.59,
+      "text": "a"
+    },
+    {
+      "start": 301.59,
+      "end": 302.05,
+      "text": "desafios"
+    },
+    {
+      "start": 302.05,
+      "end": 302.57,
+      "text": "econômicos"
+    },
+    {
+      "start": 302.57,
+      "end": 303.41,
+      "text": "estruturais"
+    },
+    {
+      "start": 303.41,
+      "end": 303.79,
+      "text": "como"
+    },
+    {
+      "start": 303.79,
+      "end": 303.91,
+      "text": "o"
+    },
+    {
+      "start": 303.91,
+      "end": 304.63,
+      "text": "envelhecimento"
+    },
+    {
+      "start": 304.63,
+      "end": 304.99,
+      "text": "da"
+    },
+    {
+      "start": 304.99,
+      "end": 305.69,
+      "text": "população,"
+    },
+    {
+      "start": 305.69,
+      "end": 305.83,
+      "text": "a"
+    },
+    {
+      "start": 305.83,
+      "end": 306.23,
+      "text": "crise"
+    },
+    {
+      "start": 306.23,
+      "end": 306.51,
+      "text": "do"
+    },
+    {
+      "start": 306.51,
+      "end": 306.87,
+      "text": "setor"
+    },
+    {
+      "start": 306.87,
+      "end": 307.51,
+      "text": "imobiliário"
+    },
+    {
+      "start": 307.51,
+      "end": 307.69,
+      "text": "e"
+    },
+    {
+      "start": 307.69,
+      "end": 307.79,
+      "text": "o"
+    },
+    {
+      "start": 307.79,
+      "end": 308.31,
+      "text": "crescimento"
+    },
+    {
+      "start": 308.31,
+      "end": 308.59,
+      "text": "mais"
+    },
+    {
+      "start": 308.59,
+      "end": 309.13,
+      "text": "lento"
+    },
+    {
+      "start": 309.13,
+      "end": 309.23,
+      "text": "do"
+    },
+    {
+      "start": 309.23,
+      "end": 309.39,
+      "text": "consumo."
+    },
+    {
+      "start": 497.83,
+      "end": 498.15,
+      "text": "Não"
+    },
+    {
+      "start": 498.15,
+      "end": 498.33,
+      "text": "se"
+    },
+    {
+      "start": 498.33,
+      "end": 498.55,
+      "text": "cria"
+    },
+    {
+      "start": 498.55,
+      "end": 498.61,
+      "text": "um"
+    },
+    {
+      "start": 498.61,
+      "end": 498.91,
+      "text": "entorno."
+    },
+    {
+      "start": 503.94,
+      "end": 504.02,
+      "text": "100"
+    },
+    {
+      "start": 504.02,
+      "end": 504.08,
+      "text": "reais"
+    },
+    {
+      "start": 504.08,
+      "end": 504.5,
+      "text": "gasolina?"
+    },
+    {
+      "start": 505.16,
+      "end": 505.36,
+      "text": "Como"
+    },
+    {
+      "start": 505.36,
+      "end": 505.52,
+      "text": "um?"
+    },
+    {
+      "start": 505.54,
+      "end": 505.72,
+      "text": "Sim."
+    },
+    {
+      "start": 695.84,
+      "end": 696.28,
+      "text": "Apenas"
+    },
+    {
+      "start": 696.28,
+      "end": 696.42,
+      "text": "ganhar"
+    },
+    {
+      "start": 696.42,
+      "end": 696.82,
+      "text": "uma"
+    },
+    {
+      "start": 696.82,
+      "end": 697.3,
+      "text": "moeda"
+    },
+    {
+      "start": 697.3,
+      "end": 697.34,
+      "text": "a"
+    },
+    {
+      "start": 697.34,
+      "end": 697.56,
+      "text": "mais."
+    },
+    {
+      "start": 699.84,
+      "end": 700.12,
+      "text": "A"
+    },
+    {
+      "start": 700.12,
+      "end": 700.46,
+      "text": "moeda"
+    },
+    {
+      "start": 700.46,
+      "end": 700.84,
+      "text": "mágica"
+    },
+    {
+      "start": 700.84,
+      "end": 700.84,
+      "text": "é"
+    },
+    {
+      "start": 700.84,
+      "end": 701.04,
+      "text": "essa"
+    },
+    {
+      "start": 701.04,
+      "end": 701.44,
+      "text": "moeda."
+    },
+    {
+      "start": 837.15,
+      "end": 837.47,
+      "text": "Fielmente."
+    }
+  ]
+}

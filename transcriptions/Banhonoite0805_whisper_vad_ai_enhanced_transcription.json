@@ -1,0 +1,252 @@
+{
+  "source_file": "Banhonoite0805_whisper_vad_ai_enhanced.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:02:25,00:02:27": "A imagem do som do cachorro.",
+    "00:02:46,00:02:46": "Atenção!",
+    "00:02:53,00:02:54": "Atenção!",
+    "00:03:07,00:03:09": "Desviar de reforço.",
+    "00:03:20,00:03:21": "Não.",
+    "00:03:21,00:03:22": "Não.",
+    "00:03:27,00:03:32": "O que é que é isso?",
+    "00:03:38,00:03:39": "E aí",
+    "00:03:50,00:03:51": "O que é isso?",
+    "00:03:59,00:03:59": ".",
+    "00:04:11,00:04:15": "Não se esqueça de deixar seu like e se inscrever no canal.",
+    "00:04:19,00:04:20": "O que é isso?",
+    "00:04:20,00:04:21": "O que é isso?"
+  },
+  "words": [
+    {
+      "start": 145.38,
+      "end": 145.52,
+      "text": "A"
+    },
+    {
+      "start": 145.52,
+      "end": 145.52,
+      "text": "imagem"
+    },
+    {
+      "start": 145.52,
+      "end": 145.88,
+      "text": "do"
+    },
+    {
+      "start": 145.88,
+      "end": 146.16,
+      "text": "som"
+    },
+    {
+      "start": 146.16,
+      "end": 146.38,
+      "text": "do"
+    },
+    {
+      "start": 146.38,
+      "end": 147.78,
+      "text": "cachorro."
+    },
+    {
+      "start": 166.26,
+      "end": 166.74,
+      "text": "Atenção!"
+    },
+    {
+      "start": 173.13,
+      "end": 174.53,
+      "text": "Atenção!"
+    },
+    {
+      "start": 187.87,
+      "end": 188.07,
+      "text": "Desviar"
+    },
+    {
+      "start": 188.07,
+      "end": 188.35,
+      "text": "de"
+    },
+    {
+      "start": 188.35,
+      "end": 189.13,
+      "text": "reforço."
+    },
+    {
+      "start": 200.8,
+      "end": 201.24,
+      "text": "Não."
+    },
+    {
+      "start": 201.62,
+      "end": 202.28,
+      "text": "Não."
+    },
+    {
+      "start": 207.11,
+      "end": 207.45,
+      "text": "O"
+    },
+    {
+      "start": 207.45,
+      "end": 208.19,
+      "text": "que"
+    },
+    {
+      "start": 208.19,
+      "end": 210.13,
+      "text": "é"
+    },
+    {
+      "start": 210.13,
+      "end": 210.25,
+      "text": "que"
+    },
+    {
+      "start": 210.25,
+      "end": 210.57,
+      "text": "é"
+    },
+    {
+      "start": 210.57,
+      "end": 212.49,
+      "text": "isso?"
+    },
+    {
+      "start": 218.57,
+      "end": 218.79,
+      "text": "E"
+    },
+    {
+      "start": 218.79,
+      "end": 219.17,
+      "text": "aí"
+    },
+    {
+      "start": 230.23,
+      "end": 230.79,
+      "text": "O"
+    },
+    {
+      "start": 230.79,
+      "end": 231.17,
+      "text": "que"
+    },
+    {
+      "start": 231.17,
+      "end": 231.31,
+      "text": "é"
+    },
+    {
+      "start": 231.31,
+      "end": 231.51,
+      "text": "isso?"
+    },
+    {
+      "start": 239.07,
+      "end": 239.19,
+      "text": "."
+    },
+    {
+      "start": 251.91,
+      "end": 252.25,
+      "text": "Não"
+    },
+    {
+      "start": 252.25,
+      "end": 252.73,
+      "text": "se"
+    },
+    {
+      "start": 252.73,
+      "end": 252.99,
+      "text": "esqueça"
+    },
+    {
+      "start": 252.99,
+      "end": 253.09,
+      "text": "de"
+    },
+    {
+      "start": 253.09,
+      "end": 253.33,
+      "text": "deixar"
+    },
+    {
+      "start": 253.33,
+      "end": 253.91,
+      "text": "seu"
+    },
+    {
+      "start": 253.91,
+      "end": 253.91,
+      "text": "like"
+    },
+    {
+      "start": 253.91,
+      "end": 253.91,
+      "text": "e"
+    },
+    {
+      "start": 253.91,
+      "end": 253.97,
+      "text": "se"
+    },
+    {
+      "start": 253.97,
+      "end": 254.83,
+      "text": "inscrever"
+    },
+    {
+      "start": 254.83,
+      "end": 255.05,
+      "text": "no"
+    },
+    {
+      "start": 255.05,
+      "end": 255.57,
+      "text": "canal."
+    },
+    {
+      "start": 259.4,
+      "end": 259.78,
+      "text": "O"
+    },
+    {
+      "start": 259.78,
+      "end": 259.94,
+      "text": "que"
+    },
+    {
+      "start": 259.94,
+      "end": 260.38,
+      "text": "é"
+    },
+    {
+      "start": 260.38,
+      "end": 260.58,
+      "text": "isso?"
+    },
+    {
+      "start": 260.68,
+      "end": 261.2,
+      "text": "O"
+    },
+    {
+      "start": 261.2,
+      "end": 261.52,
+      "text": "que"
+    },
+    {
+      "start": 261.52,
+      "end": 261.52,
+      "text": "é"
+    },
+    {
+      "start": 261.52,
+      "end": 261.8,
+      "text": "isso?"
+    }
+  ]
+}

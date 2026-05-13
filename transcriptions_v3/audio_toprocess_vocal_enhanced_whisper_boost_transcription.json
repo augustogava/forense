@@ -1,0 +1,634 @@
+{
+  "source_file": "audio_toprocess_vocal_enhanced_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 4769.5,
+  "segments": {
+    "00:00:30,00:00:36": "E posso fazer a parada com o cabral, com o motor, com o ferro, com o sinal, com o motor.",
+    "00:00:53,00:00:54": "Espero que vocês tenham gostado.",
+    "00:00:57,00:01:05": "A gente tem toda a condição de petróleo, toda essa fábrica que é a Porta Palma, mas a gente agora tem que deixar de brincar.",
+    "00:01:15,00:01:17": "Muitas pessoas morrem.",
+    "00:02:01,00:02:05": "É uma área mais utilizada ainda que é a das escadas, porque se o próprio cadarinho",
+    "00:02:35,00:02:35": "E aí, ó, foi.",
+    "00:03:10,00:03:12": "só que também tem uma mesa de pingue-pongue",
+    "00:03:14,00:03:16": "inclusive, a gente também usa um prato",
+    "00:03:32,00:03:38": "O que é isso?",
+    "00:03:41,00:03:41": "O que é isso?",
+    "00:05:13,00:05:15": "Elas são alimentadas com gás natural"
+  },
+  "hallucinations_filtered": 81,
+  "words": [
+    {
+      "start": 30.3,
+      "end": 31.32,
+      "text": "E",
+      "confidence": 0.089
+    },
+    {
+      "start": 31.32,
+      "end": 31.58,
+      "text": "posso",
+      "confidence": 0.744
+    },
+    {
+      "start": 31.58,
+      "end": 31.88,
+      "text": "fazer",
+      "confidence": 0.988
+    },
+    {
+      "start": 31.88,
+      "end": 32.0,
+      "text": "a",
+      "confidence": 0.429
+    },
+    {
+      "start": 32.0,
+      "end": 32.32,
+      "text": "parada",
+      "confidence": 0.804
+    },
+    {
+      "start": 32.32,
+      "end": 32.4,
+      "text": "com",
+      "confidence": 0.151
+    },
+    {
+      "start": 32.4,
+      "end": 32.5,
+      "text": "o",
+      "confidence": 0.86
+    },
+    {
+      "start": 32.5,
+      "end": 32.98,
+      "text": "cabral,",
+      "confidence": 0.112
+    },
+    {
+      "start": 33.08,
+      "end": 33.54,
+      "text": "com",
+      "confidence": 0.293
+    },
+    {
+      "start": 33.54,
+      "end": 33.64,
+      "text": "o",
+      "confidence": 0.687
+    },
+    {
+      "start": 33.64,
+      "end": 33.86,
+      "text": "motor,",
+      "confidence": 0.036
+    },
+    {
+      "start": 34.12,
+      "end": 34.48,
+      "text": "com",
+      "confidence": 0.425
+    },
+    {
+      "start": 34.48,
+      "end": 34.68,
+      "text": "o",
+      "confidence": 0.513
+    },
+    {
+      "start": 34.68,
+      "end": 34.92,
+      "text": "ferro,",
+      "confidence": 0.377
+    },
+    {
+      "start": 35.0,
+      "end": 35.14,
+      "text": "com",
+      "confidence": 0.905
+    },
+    {
+      "start": 35.14,
+      "end": 35.22,
+      "text": "o",
+      "confidence": 0.635
+    },
+    {
+      "start": 35.22,
+      "end": 35.3,
+      "text": "sinal,",
+      "confidence": 0.202
+    },
+    {
+      "start": 35.48,
+      "end": 35.74,
+      "text": "com",
+      "confidence": 0.424
+    },
+    {
+      "start": 35.74,
+      "end": 36.06,
+      "text": "o",
+      "confidence": 0.835
+    },
+    {
+      "start": 36.06,
+      "end": 36.18,
+      "text": "motor.",
+      "confidence": 0.249
+    },
+    {
+      "start": 53.58,
+      "end": 53.78,
+      "text": "Espero",
+      "confidence": 0.119
+    },
+    {
+      "start": 53.78,
+      "end": 53.96,
+      "text": "que",
+      "confidence": 0.798
+    },
+    {
+      "start": 53.96,
+      "end": 54.1,
+      "text": "vocês",
+      "confidence": 0.977
+    },
+    {
+      "start": 54.1,
+      "end": 54.34,
+      "text": "tenham",
+      "confidence": 0.999
+    },
+    {
+      "start": 54.34,
+      "end": 54.74,
+      "text": "gostado.",
+      "confidence": 0.82
+    },
+    {
+      "start": 57.54,
+      "end": 58.94,
+      "text": "A",
+      "confidence": 0.156
+    },
+    {
+      "start": 58.94,
+      "end": 59.42,
+      "text": "gente",
+      "confidence": 0.503
+    },
+    {
+      "start": 59.42,
+      "end": 59.7,
+      "text": "tem",
+      "confidence": 0.074
+    },
+    {
+      "start": 59.7,
+      "end": 59.86,
+      "text": "toda",
+      "confidence": 0.318
+    },
+    {
+      "start": 59.86,
+      "end": 59.96,
+      "text": "a",
+      "confidence": 0.624
+    },
+    {
+      "start": 59.96,
+      "end": 60.42,
+      "text": "condição",
+      "confidence": 0.968
+    },
+    {
+      "start": 60.42,
+      "end": 60.66,
+      "text": "de",
+      "confidence": 0.703
+    },
+    {
+      "start": 60.66,
+      "end": 61.06,
+      "text": "petróleo,",
+      "confidence": 0.432
+    },
+    {
+      "start": 61.12,
+      "end": 61.32,
+      "text": "toda",
+      "confidence": 0.869
+    },
+    {
+      "start": 61.32,
+      "end": 61.48,
+      "text": "essa",
+      "confidence": 0.837
+    },
+    {
+      "start": 61.48,
+      "end": 62.16,
+      "text": "fábrica",
+      "confidence": 0.542
+    },
+    {
+      "start": 62.16,
+      "end": 62.18,
+      "text": "que",
+      "confidence": 0.253
+    },
+    {
+      "start": 62.18,
+      "end": 62.3,
+      "text": "é",
+      "confidence": 0.563
+    },
+    {
+      "start": 62.3,
+      "end": 62.42,
+      "text": "a",
+      "confidence": 0.48
+    },
+    {
+      "start": 62.42,
+      "end": 62.62,
+      "text": "Porta",
+      "confidence": 0.508
+    },
+    {
+      "start": 62.62,
+      "end": 62.96,
+      "text": "Palma,",
+      "confidence": 0.465
+    },
+    {
+      "start": 63.02,
+      "end": 63.22,
+      "text": "mas",
+      "confidence": 0.692
+    },
+    {
+      "start": 63.22,
+      "end": 63.82,
+      "text": "a",
+      "confidence": 0.291
+    },
+    {
+      "start": 63.82,
+      "end": 64.12,
+      "text": "gente",
+      "confidence": 0.911
+    },
+    {
+      "start": 64.12,
+      "end": 64.3,
+      "text": "agora",
+      "confidence": 0.092
+    },
+    {
+      "start": 64.3,
+      "end": 64.54,
+      "text": "tem",
+      "confidence": 0.803
+    },
+    {
+      "start": 64.54,
+      "end": 64.68,
+      "text": "que",
+      "confidence": 0.589
+    },
+    {
+      "start": 64.68,
+      "end": 65.0,
+      "text": "deixar",
+      "confidence": 0.018
+    },
+    {
+      "start": 65.0,
+      "end": 65.26,
+      "text": "de",
+      "confidence": 0.522
+    },
+    {
+      "start": 65.26,
+      "end": 65.68,
+      "text": "brincar.",
+      "confidence": 0.318
+    },
+    {
+      "start": 75.34,
+      "end": 76.22,
+      "text": "Muitas",
+      "confidence": 0.251
+    },
+    {
+      "start": 76.22,
+      "end": 76.46,
+      "text": "pessoas",
+      "confidence": 0.994
+    },
+    {
+      "start": 76.46,
+      "end": 77.04,
+      "text": "morrem.",
+      "confidence": 0.581
+    },
+    {
+      "start": 121.76,
+      "end": 121.78,
+      "text": "É",
+      "confidence": 0.035
+    },
+    {
+      "start": 121.78,
+      "end": 121.94,
+      "text": "uma",
+      "confidence": 0.325
+    },
+    {
+      "start": 121.94,
+      "end": 122.04,
+      "text": "área",
+      "confidence": 0.134
+    },
+    {
+      "start": 122.04,
+      "end": 122.28,
+      "text": "mais",
+      "confidence": 0.827
+    },
+    {
+      "start": 122.28,
+      "end": 123.06,
+      "text": "utilizada",
+      "confidence": 0.398
+    },
+    {
+      "start": 123.06,
+      "end": 123.24,
+      "text": "ainda",
+      "confidence": 0.926
+    },
+    {
+      "start": 123.24,
+      "end": 123.4,
+      "text": "que",
+      "confidence": 0.696
+    },
+    {
+      "start": 123.4,
+      "end": 123.46,
+      "text": "é",
+      "confidence": 0.595
+    },
+    {
+      "start": 123.46,
+      "end": 123.52,
+      "text": "a",
+      "confidence": 0.685
+    },
+    {
+      "start": 123.52,
+      "end": 123.66,
+      "text": "das",
+      "confidence": 0.989
+    },
+    {
+      "start": 123.66,
+      "end": 124.24,
+      "text": "escadas,",
+      "confidence": 0.637
+    },
+    {
+      "start": 124.36,
+      "end": 124.92,
+      "text": "porque",
+      "confidence": 0.307
+    },
+    {
+      "start": 124.92,
+      "end": 125.14,
+      "text": "se",
+      "confidence": 0.699
+    },
+    {
+      "start": 125.14,
+      "end": 125.24,
+      "text": "o",
+      "confidence": 0.792
+    },
+    {
+      "start": 125.24,
+      "end": 125.42,
+      "text": "próprio",
+      "confidence": 0.757
+    },
+    {
+      "start": 125.42,
+      "end": 125.86,
+      "text": "cadarinho",
+      "confidence": 0.32
+    },
+    {
+      "start": 155.06,
+      "end": 155.64,
+      "text": "E",
+      "confidence": 0.072
+    },
+    {
+      "start": 155.64,
+      "end": 155.66,
+      "text": "aí,",
+      "confidence": 0.399
+    },
+    {
+      "start": 155.66,
+      "end": 155.68,
+      "text": "ó,",
+      "confidence": 0.655
+    },
+    {
+      "start": 155.84,
+      "end": 155.86,
+      "text": "foi.",
+      "confidence": 0.669
+    },
+    {
+      "start": 190.08,
+      "end": 190.42,
+      "text": "só",
+      "confidence": 0.032
+    },
+    {
+      "start": 190.42,
+      "end": 190.68,
+      "text": "que",
+      "confidence": 0.672
+    },
+    {
+      "start": 190.68,
+      "end": 190.9,
+      "text": "também",
+      "confidence": 0.657
+    },
+    {
+      "start": 190.9,
+      "end": 191.08,
+      "text": "tem",
+      "confidence": 0.98
+    },
+    {
+      "start": 191.08,
+      "end": 191.2,
+      "text": "uma",
+      "confidence": 0.781
+    },
+    {
+      "start": 191.2,
+      "end": 191.44,
+      "text": "mesa",
+      "confidence": 0.049
+    },
+    {
+      "start": 191.44,
+      "end": 191.58,
+      "text": "de",
+      "confidence": 0.951
+    },
+    {
+      "start": 191.58,
+      "end": 192.26,
+      "text": "pingue-pongue",
+      "confidence": 0.262
+    },
+    {
+      "start": 194.16,
+      "end": 194.56,
+      "text": "inclusive,",
+      "confidence": 0.155
+    },
+    {
+      "start": 194.64,
+      "end": 194.94,
+      "text": "a",
+      "confidence": 0.598
+    },
+    {
+      "start": 194.94,
+      "end": 195.16,
+      "text": "gente",
+      "confidence": 0.875
+    },
+    {
+      "start": 195.16,
+      "end": 195.38,
+      "text": "também",
+      "confidence": 0.917
+    },
+    {
+      "start": 195.38,
+      "end": 195.72,
+      "text": "usa",
+      "confidence": 0.891
+    },
+    {
+      "start": 195.72,
+      "end": 195.88,
+      "text": "um",
+      "confidence": 0.879
+    },
+    {
+      "start": 195.88,
+      "end": 196.24,
+      "text": "prato",
+      "confidence": 0.37
+    },
+    {
+      "start": 212.02,
+      "end": 212.4,
+      "text": "O",
+      "confidence": 0.017
+    },
+    {
+      "start": 212.4,
+      "end": 212.7,
+      "text": "que",
+      "confidence": 0.609
+    },
+    {
+      "start": 212.7,
+      "end": 216.94,
+      "text": "é",
+      "confidence": 0.633
+    },
+    {
+      "start": 216.94,
+      "end": 218.74,
+      "text": "isso?",
+      "confidence": 0.804
+    },
+    {
+      "start": 221.16,
+      "end": 221.18,
+      "text": "O",
+      "confidence": 0.057
+    },
+    {
+      "start": 221.18,
+      "end": 221.46,
+      "text": "que",
+      "confidence": 0.347
+    },
+    {
+      "start": 221.46,
+      "end": 221.52,
+      "text": "é",
+      "confidence": 0.352
+    },
+    {
+      "start": 221.52,
+      "end": 221.54,
+      "text": "isso?",
+      "confidence": 0.903
+    },
+    {
+      "start": 313.34,
+      "end": 313.88,
+      "text": "Elas",
+      "confidence": 0.121
+    },
+    {
+      "start": 313.88,
+      "end": 313.98,
+      "text": "são",
+      "confidence": 0.799
+    },
+    {
+      "start": 313.98,
+      "end": 314.46,
+      "text": "alimentadas",
+      "confidence": 0.228
+    },
+    {
+      "start": 314.46,
+      "end": 314.64,
+      "text": "com",
+      "confidence": 0.379
+    },
+    {
+      "start": 314.64,
+      "end": 314.98,
+      "text": "gás",
+      "confidence": 0.761
+    },
+    {
+      "start": 314.98,
+      "end": 315.38,
+      "text": "natural",
+      "confidence": 0.979
+    }
+  ]
+}

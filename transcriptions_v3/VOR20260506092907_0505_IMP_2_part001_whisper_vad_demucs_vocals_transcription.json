@@ -1,0 +1,47 @@
+{
+  "source_file": "VOR20260506092907_0505_IMP_2_part001_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 5400.0,
+  "segments": {
+    "00:00:00,00:00:01": "Eu acho que é isso, né?"
+  },
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.08,
+      "text": "Eu",
+      "confidence": 0.265
+    },
+    {
+      "start": 0.08,
+      "end": 0.38,
+      "text": "acho",
+      "confidence": 0.417
+    },
+    {
+      "start": 0.38,
+      "end": 0.52,
+      "text": "que",
+      "confidence": 0.935
+    },
+    {
+      "start": 0.52,
+      "end": 0.64,
+      "text": "é",
+      "confidence": 0.575
+    },
+    {
+      "start": 0.64,
+      "end": 0.82,
+      "text": "isso,",
+      "confidence": 0.311
+    },
+    {
+      "start": 0.92,
+      "end": 1.1,
+      "text": "né?",
+      "confidence": 0.98
+    }
+  ]
+}

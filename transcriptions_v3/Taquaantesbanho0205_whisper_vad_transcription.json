@@ -1,0 +1,8 @@
+{
+  "source_file": "Taquaantesbanho0205_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 653.6,
+  "segments": {},
+  "hallucinations_filtered": 39
+}

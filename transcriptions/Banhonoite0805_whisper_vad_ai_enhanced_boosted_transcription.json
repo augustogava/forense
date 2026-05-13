@@ -1,0 +1,21 @@
+{
+  "source_file": "Banhonoite0805_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:21,00:00:21": "Atenção!",
+    "00:00:27,00:00:27": "."
+  },
+  "words": [
+    {
+      "start": 21.12,
+      "end": 21.78,
+      "text": "Atenção!"
+    },
+    {
+      "start": 27.2,
+      "end": 27.54,
+      "text": "."
+    }
+  ]
+}

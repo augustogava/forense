@@ -1,0 +1,21 @@
+{
+  "source_file": "VOR20260508063221_0805_part002_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:44,00:00:45": ".",
+    "00:06:20,00:06:21": "."
+  },
+  "words": [
+    {
+      "start": 44.96,
+      "end": 45.2,
+      "text": "."
+    },
+    {
+      "start": 380.8,
+      "end": 381.08,
+      "text": "."
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "source_file": "Descer2_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 382.9,
+  "segments": {
+    "00:00:00,00:00:33": "Não se esqueça de se inscrever no canal e ativar o sininho para receber notificações de novos vídeos.",
+    "00:01:08,00:01:10": "Tchau, tchau.",
+    "00:02:53,00:02:53": "O que é isso?"
+  },
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.82,
+      "text": "Não",
+      "confidence": 0.037
+    },
+    {
+      "start": 0.82,
+      "end": 1.12,
+      "text": "se",
+      "confidence": 0.276
+    },
+    {
+      "start": 1.12,
+      "end": 1.5,
+      "text": "esqueça",
+      "confidence": 0.083
+    },
+    {
+      "start": 1.5,
+      "end": 1.7,
+      "text": "de",
+      "confidence": 0.561
+    },
+    {
+      "start": 1.7,
+      "end": 1.72,
+      "text": "se",
+      "confidence": 0.09
+    },
+    {
+      "start": 1.72,
+      "end": 1.74,
+      "text": "inscrever",
+      "confidence": 0.919
+    },
+    {
+      "start": 1.74,
+      "end": 1.76,
+      "text": "no",
+      "confidence": 0.653
+    },
+    {
+      "start": 1.76,
+      "end": 2.26,
+      "text": "canal",
+      "confidence": 0.85
+    },
+    {
+      "start": 2.26,
+      "end": 3.12,
+      "text": "e",
+      "confidence": 0.318
+    },
+    {
+      "start": 3.12,
+      "end": 7.41,
+      "text": "ativar",
+      "confidence": 0.792
+    },
+    {
+      "start": 11.6,
+      "end": 11.82,
+      "text": "o",
+      "confidence": 0.322
+    },
+    {
+      "start": 11.82,
+      "end": 16.21,
+      "text": "sininho",
+      "confidence": 0.95
+    },
+    {
+      "start": 19.16,
+      "end": 19.6,
+      "text": "para",
+      "confidence": 0.534
+    },
+    {
+      "start": 19.6,
+      "end": 19.62,
+      "text": "receber",
+      "confidence": 0.939
+    },
+    {
+      "start": 24.94,
+      "end": 28.24,
+      "text": "notificações",
+      "confidence": 0.934
+    },
+    {
+      "start": 30.21,
+      "end": 30.49,
+      "text": "de",
+      "confidence": 0.135
+    },
+    {
+      "start": 30.49,
+      "end": 32.29,
+      "text": "novos",
+      "confidence": 0.991
+    },
+    {
+      "start": 32.29,
+      "end": 33.15,
+      "text": "vídeos.",
+      "confidence": 0.909
+    },
+    {
+      "start": 68.86,
+      "end": 69.42,
+      "text": "Tchau,",
+      "confidence": 0.184
+    },
+    {
+      "start": 70.1,
+      "end": 70.2,
+      "text": "tchau.",
+      "confidence": 0.898
+    },
+    {
+      "start": 173.14,
+      "end": 173.16,
+      "text": "O",
+      "confidence": 0.02
+    },
+    {
+      "start": 173.16,
+      "end": 173.17,
+      "text": "que",
+      "confidence": 0.388
+    },
+    {
+      "start": 173.18,
+      "end": 173.2,
+      "text": "é",
+      "confidence": 0.494
+    },
+    {
+      "start": 173.2,
+      "end": 173.22,
+      "text": "isso?",
+      "confidence": 0.865
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "source_file": "0905quartonat_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3786.9,
+  "segments": {
+    "01:00:54,01:00:57": "É que eu não sei o que eu tenho que fazer."
+  },
+  "hallucinations_filtered": 57,
+  "words": [
+    {
+      "start": 3654.91,
+      "end": 3655.81,
+      "text": "É",
+      "confidence": 0.305
+    },
+    {
+      "start": 3655.81,
+      "end": 3655.99,
+      "text": "que",
+      "confidence": 0.124
+    },
+    {
+      "start": 3655.99,
+      "end": 3656.17,
+      "text": "eu",
+      "confidence": 0.677
+    },
+    {
+      "start": 3656.17,
+      "end": 3656.25,
+      "text": "não",
+      "confidence": 0.455
+    },
+    {
+      "start": 3656.25,
+      "end": 3656.41,
+      "text": "sei",
+      "confidence": 0.487
+    },
+    {
+      "start": 3656.41,
+      "end": 3656.71,
+      "text": "o",
+      "confidence": 0.142
+    },
+    {
+      "start": 3656.71,
+      "end": 3656.87,
+      "text": "que",
+      "confidence": 0.991
+    },
+    {
+      "start": 3656.87,
+      "end": 3656.93,
+      "text": "eu",
+      "confidence": 0.4
+    },
+    {
+      "start": 3656.93,
+      "end": 3657.07,
+      "text": "tenho",
+      "confidence": 0.584
+    },
+    {
+      "start": 3657.07,
+      "end": 3657.19,
+      "text": "que",
+      "confidence": 0.733
+    },
+    {
+      "start": 3657.19,
+      "end": 3657.49,
+      "text": "fazer.",
+      "confidence": 0.675
+    }
+  ]
+}

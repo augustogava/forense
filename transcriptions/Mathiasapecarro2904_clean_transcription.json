@@ -1,0 +1,338 @@
+{
+  "source_file": "Mathiasapecarro2904_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:05,00:00:16": "Acompanhe a transmissão em português brasileiro.",
+    "00:01:04,00:01:15": "Acompanhe o programa em seus redes sociais.",
+    "00:02:14,00:02:16": "Acompanhe a campanha do Agasalho, do LibiaFix e do It.",
+    "00:03:19,00:03:19": "Incrível, assim.",
+    "00:09:22,00:09:23": "Xuxa!",
+    "00:10:49,00:10:51": "A gente vai chegando, meu amor. Olha quem chegou!",
+    "00:11:03,00:11:04": "E aí",
+    "00:11:04,00:11:04": "E aí",
+    "00:11:16,00:11:18": "O Mickey veio passear.",
+    "00:11:20,00:11:21": "Oi, Niki!",
+    "00:11:24,00:11:26": "Sabe onde a gente tá indo? Pra casa da vovó.",
+    "00:11:27,00:11:28": "Pra casa da vovó?",
+    "00:11:37,00:11:38": "Já está chegando.",
+    "00:11:50,00:11:51": "Obrigada."
+  },
+  "words": [
+    {
+      "start": 5.28,
+      "end": 6.68,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 6.68,
+      "end": 6.78,
+      "text": "a"
+    },
+    {
+      "start": 6.78,
+      "end": 11.64,
+      "text": "transmissão"
+    },
+    {
+      "start": 11.64,
+      "end": 11.74,
+      "text": "em"
+    },
+    {
+      "start": 11.74,
+      "end": 16.1,
+      "text": "português"
+    },
+    {
+      "start": 16.1,
+      "end": 16.1,
+      "text": "brasileiro."
+    },
+    {
+      "start": 64.87,
+      "end": 65.43,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 65.43,
+      "end": 71.13,
+      "text": "o"
+    },
+    {
+      "start": 71.13,
+      "end": 72.31,
+      "text": "programa"
+    },
+    {
+      "start": 72.31,
+      "end": 72.41,
+      "text": "em"
+    },
+    {
+      "start": 72.41,
+      "end": 72.43,
+      "text": "seus"
+    },
+    {
+      "start": 72.43,
+      "end": 73.77,
+      "text": "redes"
+    },
+    {
+      "start": 73.77,
+      "end": 75.71,
+      "text": "sociais."
+    },
+    {
+      "start": 134.05,
+      "end": 134.67,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 134.67,
+      "end": 134.73,
+      "text": "a"
+    },
+    {
+      "start": 134.73,
+      "end": 134.79,
+      "text": "campanha"
+    },
+    {
+      "start": 134.79,
+      "end": 134.79,
+      "text": "do"
+    },
+    {
+      "start": 134.79,
+      "end": 135.31,
+      "text": "Agasalho,"
+    },
+    {
+      "start": 135.31,
+      "end": 135.63,
+      "text": "do"
+    },
+    {
+      "start": 135.63,
+      "end": 136.39,
+      "text": "LibiaFix"
+    },
+    {
+      "start": 136.39,
+      "end": 136.45,
+      "text": "e"
+    },
+    {
+      "start": 136.45,
+      "end": 136.73,
+      "text": "do"
+    },
+    {
+      "start": 136.73,
+      "end": 136.89,
+      "text": "It."
+    },
+    {
+      "start": 199.11,
+      "end": 199.35,
+      "text": "Incrível,"
+    },
+    {
+      "start": 199.35,
+      "end": 199.51,
+      "text": "assim."
+    },
+    {
+      "start": 562.85,
+      "end": 563.29,
+      "text": "Xuxa!"
+    },
+    {
+      "start": 649.41,
+      "end": 649.41,
+      "text": "A"
+    },
+    {
+      "start": 649.41,
+      "end": 649.41,
+      "text": "gente"
+    },
+    {
+      "start": 649.41,
+      "end": 649.41,
+      "text": "vai"
+    },
+    {
+      "start": 649.41,
+      "end": 649.83,
+      "text": "chegando,"
+    },
+    {
+      "start": 649.83,
+      "end": 650.01,
+      "text": "meu"
+    },
+    {
+      "start": 650.01,
+      "end": 650.35,
+      "text": "amor."
+    },
+    {
+      "start": 650.51,
+      "end": 650.75,
+      "text": "Olha"
+    },
+    {
+      "start": 650.75,
+      "end": 651.03,
+      "text": "quem"
+    },
+    {
+      "start": 651.03,
+      "end": 651.33,
+      "text": "chegou!"
+    },
+    {
+      "start": 663.7,
+      "end": 664.38,
+      "text": "E"
+    },
+    {
+      "start": 664.38,
+      "end": 664.38,
+      "text": "aí"
+    },
+    {
+      "start": 664.38,
+      "end": 664.52,
+      "text": "E"
+    },
+    {
+      "start": 664.52,
+      "end": 664.78,
+      "text": "aí"
+    },
+    {
+      "start": 676.51,
+      "end": 676.65,
+      "text": "O"
+    },
+    {
+      "start": 676.65,
+      "end": 676.75,
+      "text": "Mickey"
+    },
+    {
+      "start": 676.75,
+      "end": 677.27,
+      "text": "veio"
+    },
+    {
+      "start": 677.27,
+      "end": 678.17,
+      "text": "passear."
+    },
+    {
+      "start": 680.61,
+      "end": 680.85,
+      "text": "Oi,"
+    },
+    {
+      "start": 680.87,
+      "end": 681.29,
+      "text": "Niki!"
+    },
+    {
+      "start": 684.13,
+      "end": 684.25,
+      "text": "Sabe"
+    },
+    {
+      "start": 684.25,
+      "end": 684.39,
+      "text": "onde"
+    },
+    {
+      "start": 684.39,
+      "end": 684.49,
+      "text": "a"
+    },
+    {
+      "start": 684.49,
+      "end": 684.61,
+      "text": "gente"
+    },
+    {
+      "start": 684.61,
+      "end": 684.81,
+      "text": "tá"
+    },
+    {
+      "start": 684.81,
+      "end": 685.03,
+      "text": "indo?"
+    },
+    {
+      "start": 685.23,
+      "end": 685.39,
+      "text": "Pra"
+    },
+    {
+      "start": 685.39,
+      "end": 685.63,
+      "text": "casa"
+    },
+    {
+      "start": 685.63,
+      "end": 685.81,
+      "text": "da"
+    },
+    {
+      "start": 685.81,
+      "end": 686.41,
+      "text": "vovó."
+    },
+    {
+      "start": 687.47,
+      "end": 687.87,
+      "text": "Pra"
+    },
+    {
+      "start": 687.87,
+      "end": 688.09,
+      "text": "casa"
+    },
+    {
+      "start": 688.09,
+      "end": 688.31,
+      "text": "da"
+    },
+    {
+      "start": 688.31,
+      "end": 688.85,
+      "text": "vovó?"
+    },
+    {
+      "start": 697.79,
+      "end": 698.25,
+      "text": "Já"
+    },
+    {
+      "start": 698.25,
+      "end": 698.43,
+      "text": "está"
+    },
+    {
+      "start": 698.43,
+      "end": 698.99,
+      "text": "chegando."
+    },
+    {
+      "start": 710.98,
+      "end": 711.8,
+      "text": "Obrigada."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "source_file": "Banhomanha0905_whisper_vad_ai_enhanced.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:04:42,00:04:42": "Não tem dor.",
+    "00:05:45,00:05:45": "É tudo."
+  },
+  "words": [
+    {
+      "start": 282.21,
+      "end": 282.31,
+      "text": "Não"
+    },
+    {
+      "start": 282.31,
+      "end": 282.57,
+      "text": "tem"
+    },
+    {
+      "start": 282.57,
+      "end": 282.75,
+      "text": "dor."
+    },
+    {
+      "start": 345.63,
+      "end": 345.71,
+      "text": "É"
+    },
+    {
+      "start": 345.71,
+      "end": 345.89,
+      "text": "tudo."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "source_file": "VOR20260505101552_2215_part003_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:21:57,00:21:58": "AAAAAAAH!"
+  },
+  "words": [
+    {
+      "start": 1317.99,
+      "end": 1318.33,
+      "text": "AAAAAAAH!"
+    }
+  ]
+}

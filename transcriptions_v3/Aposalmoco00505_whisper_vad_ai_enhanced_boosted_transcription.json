@@ -1,0 +1,107 @@
+{
+  "source_file": "Aposalmoco00505_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 5967.2,
+  "segments": {
+    "00:34:23,00:34:24": "O que é isso?",
+    "00:35:01,00:35:04": "O que é isso?",
+    "00:35:04,00:35:06": "Obrigado.",
+    "00:35:35,00:35:35": "Obrigado.",
+    "01:36:36,01:36:36": "Tchau, tchau.",
+    "01:38:50,01:38:50": "É isso aí."
+  },
+  "hallucinations_filtered": 9,
+  "words": [
+    {
+      "start": 2063.57,
+      "end": 2063.59,
+      "text": "O",
+      "confidence": 0.069
+    },
+    {
+      "start": 2063.59,
+      "end": 2064.07,
+      "text": "que",
+      "confidence": 0.708
+    },
+    {
+      "start": 2064.07,
+      "end": 2064.15,
+      "text": "é",
+      "confidence": 0.639
+    },
+    {
+      "start": 2064.15,
+      "end": 2064.41,
+      "text": "isso?",
+      "confidence": 0.923
+    },
+    {
+      "start": 2101.91,
+      "end": 2101.93,
+      "text": "O",
+      "confidence": 0.063
+    },
+    {
+      "start": 2101.93,
+      "end": 2102.25,
+      "text": "que",
+      "confidence": 0.599
+    },
+    {
+      "start": 2102.25,
+      "end": 2102.31,
+      "text": "é",
+      "confidence": 0.619
+    },
+    {
+      "start": 2102.31,
+      "end": 2104.45,
+      "text": "isso?",
+      "confidence": 0.882
+    },
+    {
+      "start": 2104.61,
+      "end": 2106.19,
+      "text": "Obrigado.",
+      "confidence": 0.488
+    },
+    {
+      "start": 2135.11,
+      "end": 2135.71,
+      "text": "Obrigado.",
+      "confidence": 0.377
+    },
+    {
+      "start": 5796.42,
+      "end": 5796.44,
+      "text": "Tchau,",
+      "confidence": 0.14
+    },
+    {
+      "start": 5796.44,
+      "end": 5796.46,
+      "text": "tchau.",
+      "confidence": 0.654
+    },
+    {
+      "start": 5930.36,
+      "end": 5930.38,
+      "text": "É",
+      "confidence": 0.234
+    },
+    {
+      "start": 5930.38,
+      "end": 5930.58,
+      "text": "isso",
+      "confidence": 0.954
+    },
+    {
+      "start": 5930.58,
+      "end": 5930.78,
+      "text": "aí.",
+      "confidence": 0.821
+    }
+  ]
+}

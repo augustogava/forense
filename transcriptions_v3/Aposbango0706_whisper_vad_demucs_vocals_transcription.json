@@ -1,0 +1,374 @@
+{
+  "source_file": "Aposbango0706_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1773.2,
+  "segments": {
+    "00:04:02,00:04:08": "Aí eu vou te passar as suas contas, né, e eu vou ter que aguardar.",
+    "00:04:08,00:04:10": "E aí você maneja.",
+    "00:04:43,00:04:45": "A gente consegue juntar aqui, né?",
+    "00:04:52,00:04:55": "Vai dar mais,",
+    "00:05:12,00:05:12": "Sim.",
+    "00:06:43,00:06:49": "E acho que saiu uns mil, um milhão, não sei se é um milhão, não sei se é um milhão,",
+    "00:07:37,00:07:37": "Eu não entendo nada.",
+    "00:08:08,00:08:33": "Você já quer ir?",
+    "00:25:19,00:26:32": "Tchau, tchau."
+  },
+  "hallucinations_filtered": 84,
+  "words": [
+    {
+      "start": 242.54,
+      "end": 242.58,
+      "text": "Aí",
+      "confidence": 0.762
+    },
+    {
+      "start": 242.58,
+      "end": 242.7,
+      "text": "eu",
+      "confidence": 0.975
+    },
+    {
+      "start": 242.7,
+      "end": 242.84,
+      "text": "vou",
+      "confidence": 0.999
+    },
+    {
+      "start": 242.84,
+      "end": 242.98,
+      "text": "te",
+      "confidence": 0.995
+    },
+    {
+      "start": 242.98,
+      "end": 243.22,
+      "text": "passar",
+      "confidence": 0.986
+    },
+    {
+      "start": 243.22,
+      "end": 243.54,
+      "text": "as",
+      "confidence": 0.569
+    },
+    {
+      "start": 243.54,
+      "end": 243.92,
+      "text": "suas",
+      "confidence": 0.966
+    },
+    {
+      "start": 243.92,
+      "end": 245.3,
+      "text": "contas,",
+      "confidence": 0.934
+    },
+    {
+      "start": 245.3,
+      "end": 245.66,
+      "text": "né,",
+      "confidence": 0.57
+    },
+    {
+      "start": 245.78,
+      "end": 246.96,
+      "text": "e",
+      "confidence": 0.78
+    },
+    {
+      "start": 246.96,
+      "end": 247.28,
+      "text": "eu",
+      "confidence": 0.546
+    },
+    {
+      "start": 247.28,
+      "end": 247.38,
+      "text": "vou",
+      "confidence": 0.879
+    },
+    {
+      "start": 247.38,
+      "end": 247.54,
+      "text": "ter",
+      "confidence": 0.011
+    },
+    {
+      "start": 247.54,
+      "end": 247.68,
+      "text": "que",
+      "confidence": 0.976
+    },
+    {
+      "start": 247.68,
+      "end": 248.36,
+      "text": "aguardar.",
+      "confidence": 0.392
+    },
+    {
+      "start": 248.58,
+      "end": 249.04,
+      "text": "E",
+      "confidence": 0.738
+    },
+    {
+      "start": 249.04,
+      "end": 249.26,
+      "text": "aí",
+      "confidence": 0.971
+    },
+    {
+      "start": 249.26,
+      "end": 249.46,
+      "text": "você",
+      "confidence": 0.943
+    },
+    {
+      "start": 249.46,
+      "end": 250.04,
+      "text": "maneja.",
+      "confidence": 0.949
+    },
+    {
+      "start": 283.9,
+      "end": 283.94,
+      "text": "A",
+      "confidence": 0.154
+    },
+    {
+      "start": 283.94,
+      "end": 284.12,
+      "text": "gente",
+      "confidence": 0.945
+    },
+    {
+      "start": 284.12,
+      "end": 284.54,
+      "text": "consegue",
+      "confidence": 0.789
+    },
+    {
+      "start": 284.54,
+      "end": 285.0,
+      "text": "juntar",
+      "confidence": 0.898
+    },
+    {
+      "start": 285.0,
+      "end": 285.26,
+      "text": "aqui,",
+      "confidence": 0.118
+    },
+    {
+      "start": 285.32,
+      "end": 285.68,
+      "text": "né?",
+      "confidence": 0.643
+    },
+    {
+      "start": 292.8,
+      "end": 293.71,
+      "text": "Vai",
+      "confidence": 0.569
+    },
+    {
+      "start": 295.17,
+      "end": 295.43,
+      "text": "dar",
+      "confidence": 0.922
+    },
+    {
+      "start": 295.43,
+      "end": 295.67,
+      "text": "mais,",
+      "confidence": 0.126
+    },
+    {
+      "start": 312.3,
+      "end": 312.72,
+      "text": "Sim.",
+      "confidence": 0.338
+    },
+    {
+      "start": 403.34,
+      "end": 403.36,
+      "text": "E",
+      "confidence": 0.037
+    },
+    {
+      "start": 403.36,
+      "end": 403.6,
+      "text": "acho",
+      "confidence": 0.255
+    },
+    {
+      "start": 403.6,
+      "end": 403.78,
+      "text": "que",
+      "confidence": 0.987
+    },
+    {
+      "start": 403.78,
+      "end": 404.16,
+      "text": "saiu",
+      "confidence": 0.873
+    },
+    {
+      "start": 404.16,
+      "end": 404.22,
+      "text": "uns",
+      "confidence": 0.806
+    },
+    {
+      "start": 404.22,
+      "end": 404.5,
+      "text": "mil,",
+      "confidence": 0.091
+    },
+    {
+      "start": 404.6,
+      "end": 405.28,
+      "text": "um",
+      "confidence": 0.107
+    },
+    {
+      "start": 405.28,
+      "end": 405.8,
+      "text": "milhão,",
+      "confidence": 0.219
+    },
+    {
+      "start": 405.84,
+      "end": 406.02,
+      "text": "não",
+      "confidence": 0.122
+    },
+    {
+      "start": 406.02,
+      "end": 406.44,
+      "text": "sei",
+      "confidence": 0.789
+    },
+    {
+      "start": 406.44,
+      "end": 406.82,
+      "text": "se",
+      "confidence": 0.776
+    },
+    {
+      "start": 406.82,
+      "end": 406.84,
+      "text": "é",
+      "confidence": 0.153
+    },
+    {
+      "start": 406.84,
+      "end": 406.86,
+      "text": "um",
+      "confidence": 0.091
+    },
+    {
+      "start": 406.86,
+      "end": 406.88,
+      "text": "milhão,",
+      "confidence": 0.652
+    },
+    {
+      "start": 406.88,
+      "end": 407.2,
+      "text": "não",
+      "confidence": 0.282
+    },
+    {
+      "start": 407.2,
+      "end": 407.8,
+      "text": "sei",
+      "confidence": 0.978
+    },
+    {
+      "start": 407.8,
+      "end": 408.54,
+      "text": "se",
+      "confidence": 0.507
+    },
+    {
+      "start": 408.54,
+      "end": 408.78,
+      "text": "é",
+      "confidence": 0.706
+    },
+    {
+      "start": 408.78,
+      "end": 409.1,
+      "text": "um",
+      "confidence": 0.506
+    },
+    {
+      "start": 409.1,
+      "end": 409.36,
+      "text": "milhão,",
+      "confidence": 0.814
+    },
+    {
+      "start": 457.3,
+      "end": 457.32,
+      "text": "Eu",
+      "confidence": 0.063
+    },
+    {
+      "start": 457.32,
+      "end": 457.34,
+      "text": "não",
+      "confidence": 0.517
+    },
+    {
+      "start": 457.34,
+      "end": 457.36,
+      "text": "entendo",
+      "confidence": 0.608
+    },
+    {
+      "start": 457.36,
+      "end": 457.38,
+      "text": "nada.",
+      "confidence": 0.298
+    },
+    {
+      "start": 488.37,
+      "end": 488.88,
+      "text": "Você",
+      "confidence": 0.134
+    },
+    {
+      "start": 512.96,
+      "end": 513.12,
+      "text": "já",
+      "confidence": 0.888
+    },
+    {
+      "start": 513.12,
+      "end": 513.3,
+      "text": "quer",
+      "confidence": 0.702
+    },
+    {
+      "start": 513.3,
+      "end": 513.46,
+      "text": "ir?",
+      "confidence": 0.588
+    },
+    {
+      "start": 1519.6,
+      "end": 1520.21,
+      "text": "Tchau,",
+      "confidence": 0.251
+    },
+    {
+      "start": 1591.92,
+      "end": 1592.22,
+      "text": "tchau.",
+      "confidence": 0.903
+    }
+  ]
+}

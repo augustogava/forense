@@ -1,0 +1,8 @@
+{
+  "source_file": "Quartoantwsdormir0305_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 492.5,
+  "segments": {},
+  "hallucinations_filtered": 1
+}

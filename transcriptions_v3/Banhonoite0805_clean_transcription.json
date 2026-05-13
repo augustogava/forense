@@ -1,0 +1,8 @@
+{
+  "source_file": "Banhonoite0805_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 808.8,
+  "segments": {},
+  "hallucinations_filtered": 1
+}

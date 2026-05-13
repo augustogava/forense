@@ -1,0 +1,54 @@
+{
+  "source_file": "VOR20260508091745_0805_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1800.0,
+  "segments": {
+    "00:25:07,00:25:09": "I'll be the girl in the dream"
+  },
+  "hallucinations_filtered": 10,
+  "words": [
+    {
+      "start": 1507.24,
+      "end": 1507.74,
+      "text": "I'll",
+      "confidence": 0.092
+    },
+    {
+      "start": 1507.74,
+      "end": 1507.8,
+      "text": "be",
+      "confidence": 0.959
+    },
+    {
+      "start": 1507.8,
+      "end": 1507.98,
+      "text": "the",
+      "confidence": 0.955
+    },
+    {
+      "start": 1507.98,
+      "end": 1508.34,
+      "text": "girl",
+      "confidence": 0.666
+    },
+    {
+      "start": 1508.34,
+      "end": 1508.54,
+      "text": "in",
+      "confidence": 0.174
+    },
+    {
+      "start": 1508.54,
+      "end": 1508.66,
+      "text": "the",
+      "confidence": 0.724
+    },
+    {
+      "start": 1508.66,
+      "end": 1509.06,
+      "text": "dream",
+      "confidence": 0.369
+    }
+  ]
+}

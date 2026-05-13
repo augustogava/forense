@@ -1,0 +1,55 @@
+{
+  "source_file": "Antesdormirquarto0505_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1387.5,
+  "segments": {
+    "00:04:48,00:04:49": "Tchau, tchau.",
+    "00:07:27,00:07:31": "Aqui, aqui, aqui, aqui, aqui."
+  },
+  "hallucinations_filtered": 2,
+  "words": [
+    {
+      "start": 288.17,
+      "end": 288.31,
+      "text": "Tchau,",
+      "confidence": 0.273
+    },
+    {
+      "start": 288.53,
+      "end": 289.31,
+      "text": "tchau.",
+      "confidence": 0.891
+    },
+    {
+      "start": 447.44,
+      "end": 448.17,
+      "text": "Aqui,",
+      "confidence": 0.062
+    },
+    {
+      "start": 448.39,
+      "end": 448.95,
+      "text": "aqui,",
+      "confidence": 0.932
+    },
+    {
+      "start": 449.33,
+      "end": 449.77,
+      "text": "aqui,",
+      "confidence": 0.746
+    },
+    {
+      "start": 450.03,
+      "end": 451.05,
+      "text": "aqui,",
+      "confidence": 0.636
+    },
+    {
+      "start": 451.25,
+      "end": 451.27,
+      "text": "aqui.",
+      "confidence": 0.633
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "source_file": "NewRecording46_0705_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 2763.6,
+  "segments": {
+    "00:01:02,00:01:04": "O que é isso?"
+  },
+  "hallucinations_filtered": 2,
+  "words": [
+    {
+      "start": 62.38,
+      "end": 62.44,
+      "text": "O",
+      "confidence": 0.026
+    },
+    {
+      "start": 63.28,
+      "end": 64.42,
+      "text": "que",
+      "confidence": 0.514
+    },
+    {
+      "start": 64.42,
+      "end": 64.44,
+      "text": "é",
+      "confidence": 0.609
+    },
+    {
+      "start": 64.44,
+      "end": 64.46,
+      "text": "isso?",
+      "confidence": 0.842
+    }
+  ]
+}

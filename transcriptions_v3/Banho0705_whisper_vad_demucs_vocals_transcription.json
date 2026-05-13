@@ -1,0 +1,74 @@
+{
+  "source_file": "Banho0705_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 323.5,
+  "segments": {
+    "00:00:58,00:00:59": "O que é isso?",
+    "00:01:54,00:01:59": "O que é isso?",
+    "00:04:59,00:04:59": "Vamos lá."
+  },
+  "hallucinations_filtered": 3,
+  "words": [
+    {
+      "start": 58.6,
+      "end": 58.68,
+      "text": "O",
+      "confidence": 0.055
+    },
+    {
+      "start": 58.68,
+      "end": 58.7,
+      "text": "que",
+      "confidence": 0.536
+    },
+    {
+      "start": 58.7,
+      "end": 58.84,
+      "text": "é",
+      "confidence": 0.773
+    },
+    {
+      "start": 58.84,
+      "end": 59.96,
+      "text": "isso?",
+      "confidence": 0.932
+    },
+    {
+      "start": 114.64,
+      "end": 114.66,
+      "text": "O",
+      "confidence": 0.06
+    },
+    {
+      "start": 114.66,
+      "end": 115.52,
+      "text": "que",
+      "confidence": 0.467
+    },
+    {
+      "start": 115.52,
+      "end": 118.94,
+      "text": "é",
+      "confidence": 0.653
+    },
+    {
+      "start": 118.94,
+      "end": 119.48,
+      "text": "isso?",
+      "confidence": 0.876
+    },
+    {
+      "start": 299.18,
+      "end": 299.2,
+      "text": "Vamos",
+      "confidence": 0.048
+    },
+    {
+      "start": 299.2,
+      "end": 299.48,
+      "text": "lá.",
+      "confidence": 0.871
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "source_file": "Banhomanha0905_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:00": "Sim.",
+    "00:00:40,00:00:41": "Obrigada.",
+    "00:00:44,00:00:44": "Obrigada.",
+    "00:00:54,00:00:54": "Bom dia, cara.",
+    "00:00:56,00:00:57": "Ah, praia aqui, ó.",
+    "00:02:29,00:02:30": "Obrigado.",
+    "00:02:42,00:02:42": "Não há mais nada a ver com isso."
+  },
+  "words": [
+    {
+      "start": 0.71,
+      "end": 0.89,
+      "text": "Sim."
+    },
+    {
+      "start": 40.31,
+      "end": 41.71,
+      "text": "Obrigada."
+    },
+    {
+      "start": 44.29,
+      "end": 44.43,
+      "text": "Obrigada."
+    },
+    {
+      "start": 54.24,
+      "end": 54.34,
+      "text": "Bom"
+    },
+    {
+      "start": 54.34,
+      "end": 54.46,
+      "text": "dia,"
+    },
+    {
+      "start": 54.6,
+      "end": 54.74,
+      "text": "cara."
+    },
+    {
+      "start": 56.88,
+      "end": 57.16,
+      "text": "Ah,"
+    },
+    {
+      "start": 57.16,
+      "end": 57.44,
+      "text": "praia"
+    },
+    {
+      "start": 57.44,
+      "end": 57.62,
+      "text": "aqui,"
+    },
+    {
+      "start": 57.66,
+      "end": 57.74,
+      "text": "ó."
+    },
+    {
+      "start": 149.92,
+      "end": 150.48,
+      "text": "Obrigado."
+    },
+    {
+      "start": 162.11,
+      "end": 162.19,
+      "text": "Não"
+    },
+    {
+      "start": 162.19,
+      "end": 162.25,
+      "text": "há"
+    },
+    {
+      "start": 162.25,
+      "end": 162.31,
+      "text": "mais"
+    },
+    {
+      "start": 162.31,
+      "end": 162.47,
+      "text": "nada"
+    },
+    {
+      "start": 162.47,
+      "end": 162.63,
+      "text": "a"
+    },
+    {
+      "start": 162.63,
+      "end": 162.67,
+      "text": "ver"
+    },
+    {
+      "start": 162.67,
+      "end": 162.79,
+      "text": "com"
+    },
+    {
+      "start": 162.79,
+      "end": 162.79,
+      "text": "isso."
+    }
+  ]
+}

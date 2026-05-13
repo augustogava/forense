@@ -1,0 +1,64 @@
+{
+  "source_file": "Banhomanha0905_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 453.5,
+  "segments": {
+    "00:01:57,00:01:59": "Tchau, tchau.",
+    "00:04:14,00:04:18": "Boa noite.",
+    "00:06:13,00:06:17": "Boa noite.",
+    "00:06:18,00:06:19": "Obrigado.",
+    "00:07:25,00:07:25": "Obrigado."
+  },
+  "hallucinations_filtered": 37,
+  "words": [
+    {
+      "start": 117.91,
+      "end": 118.65,
+      "text": "Tchau,",
+      "confidence": 0.21
+    },
+    {
+      "start": 118.85,
+      "end": 119.55,
+      "text": "tchau.",
+      "confidence": 0.871
+    },
+    {
+      "start": 254.97,
+      "end": 255.29,
+      "text": "Boa",
+      "confidence": 0.159
+    },
+    {
+      "start": 255.29,
+      "end": 258.07,
+      "text": "noite.",
+      "confidence": 0.938
+    },
+    {
+      "start": 373.91,
+      "end": 377.37,
+      "text": "Boa",
+      "confidence": 0.332
+    },
+    {
+      "start": 377.37,
+      "end": 377.77,
+      "text": "noite.",
+      "confidence": 0.888
+    },
+    {
+      "start": 378.93,
+      "end": 379.33,
+      "text": "Obrigado.",
+      "confidence": 0.42
+    },
+    {
+      "start": 445.84,
+      "end": 445.86,
+      "text": "Obrigado.",
+      "confidence": 0.37
+    }
+  ]
+}

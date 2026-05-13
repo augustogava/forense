@@ -1,0 +1,175 @@
+{
+  "source_file": "VOR20260508091745_0805_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1800.0,
+  "segments": {
+    "00:24:23,00:24:35": "Você tem que ser de uma dupla. Você não pode liberar, de forma a produzir dessas tarifas, sem ter em reciprocidade um movimento.",
+    "00:29:52,00:29:54": "O que é isso?"
+  },
+  "hallucinations_filtered": 3,
+  "words": [
+    {
+      "start": 1463.34,
+      "end": 1463.44,
+      "text": "Você",
+      "confidence": 0.032
+    },
+    {
+      "start": 1463.44,
+      "end": 1463.46,
+      "text": "tem",
+      "confidence": 0.551
+    },
+    {
+      "start": 1463.46,
+      "end": 1463.52,
+      "text": "que",
+      "confidence": 0.952
+    },
+    {
+      "start": 1463.52,
+      "end": 1463.64,
+      "text": "ser",
+      "confidence": 0.986
+    },
+    {
+      "start": 1463.64,
+      "end": 1463.76,
+      "text": "de",
+      "confidence": 0.984
+    },
+    {
+      "start": 1463.76,
+      "end": 1463.86,
+      "text": "uma",
+      "confidence": 0.448
+    },
+    {
+      "start": 1463.86,
+      "end": 1464.26,
+      "text": "dupla.",
+      "confidence": 0.883
+    },
+    {
+      "start": 1464.38,
+      "end": 1464.74,
+      "text": "Você",
+      "confidence": 0.31
+    },
+    {
+      "start": 1464.74,
+      "end": 1464.94,
+      "text": "não",
+      "confidence": 0.998
+    },
+    {
+      "start": 1464.94,
+      "end": 1465.16,
+      "text": "pode",
+      "confidence": 0.995
+    },
+    {
+      "start": 1465.16,
+      "end": 1465.78,
+      "text": "liberar,",
+      "confidence": 0.632
+    },
+    {
+      "start": 1465.78,
+      "end": 1465.94,
+      "text": "de",
+      "confidence": 0.857
+    },
+    {
+      "start": 1465.94,
+      "end": 1466.32,
+      "text": "forma",
+      "confidence": 0.977
+    },
+    {
+      "start": 1466.32,
+      "end": 1466.84,
+      "text": "a",
+      "confidence": 0.534
+    },
+    {
+      "start": 1466.84,
+      "end": 1467.35,
+      "text": "produzir",
+      "confidence": 0.43
+    },
+    {
+      "start": 1471.8,
+      "end": 1472.0,
+      "text": "dessas",
+      "confidence": 0.309
+    },
+    {
+      "start": 1472.0,
+      "end": 1472.74,
+      "text": "tarifas,",
+      "confidence": 0.955
+    },
+    {
+      "start": 1472.8,
+      "end": 1473.38,
+      "text": "sem",
+      "confidence": 0.7
+    },
+    {
+      "start": 1473.38,
+      "end": 1473.58,
+      "text": "ter",
+      "confidence": 0.98
+    },
+    {
+      "start": 1473.58,
+      "end": 1473.82,
+      "text": "em",
+      "confidence": 0.609
+    },
+    {
+      "start": 1473.82,
+      "end": 1474.66,
+      "text": "reciprocidade",
+      "confidence": 1.0
+    },
+    {
+      "start": 1474.66,
+      "end": 1475.08,
+      "text": "um",
+      "confidence": 0.949
+    },
+    {
+      "start": 1475.08,
+      "end": 1475.48,
+      "text": "movimento.",
+      "confidence": 0.455
+    },
+    {
+      "start": 1792.69,
+      "end": 1793.41,
+      "text": "O",
+      "confidence": 0.054
+    },
+    {
+      "start": 1793.41,
+      "end": 1793.55,
+      "text": "que",
+      "confidence": 0.47
+    },
+    {
+      "start": 1793.55,
+      "end": 1793.75,
+      "text": "é",
+      "confidence": 0.441
+    },
+    {
+      "start": 1793.75,
+      "end": 1794.01,
+      "text": "isso?",
+      "confidence": 0.669
+    }
+  ]
+}

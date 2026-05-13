@@ -1,0 +1,309 @@
+{
+  "source_file": "New_Recording_34_part006_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1036.6,
+  "segments": {
+    "00:00:55,00:00:55": "O que é isso?",
+    "00:01:27,00:01:28": "O que é isso?",
+    "00:07:28,00:07:29": "E aí",
+    "00:07:57,00:07:59": "O que é isso?",
+    "00:08:27,00:08:29": "E aí",
+    "00:08:57,00:08:59": "E aí",
+    "00:09:26,00:09:29": "Vamos lá.",
+    "00:09:57,00:09:58": "Vamos lá.",
+    "00:10:59,00:10:59": "O que é isso?",
+    "00:11:25,00:11:26": "O que é isso?",
+    "00:11:59,00:11:59": "Tchau, tchau.",
+    "00:12:29,00:12:29": "Amém, amém, amém.",
+    "00:12:57,00:12:58": "O que é isso?",
+    "00:13:27,00:13:29": "O que é isso?",
+    "00:16:27,00:16:29": "Tchau, tchau.",
+    "00:16:55,00:16:59": "Boa noite."
+  },
+  "hallucinations_filtered": 6,
+  "words": [
+    {
+      "start": 55.08,
+      "end": 55.1,
+      "text": "O",
+      "confidence": 0.061
+    },
+    {
+      "start": 55.1,
+      "end": 55.46,
+      "text": "que",
+      "confidence": 0.321
+    },
+    {
+      "start": 55.46,
+      "end": 55.48,
+      "text": "é",
+      "confidence": 0.583
+    },
+    {
+      "start": 55.48,
+      "end": 55.5,
+      "text": "isso?",
+      "confidence": 0.789
+    },
+    {
+      "start": 87.12,
+      "end": 88.08,
+      "text": "O",
+      "confidence": 0.041
+    },
+    {
+      "start": 88.08,
+      "end": 88.46,
+      "text": "que",
+      "confidence": 0.447
+    },
+    {
+      "start": 88.46,
+      "end": 88.56,
+      "text": "é",
+      "confidence": 0.634
+    },
+    {
+      "start": 88.56,
+      "end": 88.88,
+      "text": "isso?",
+      "confidence": 0.833
+    },
+    {
+      "start": 448.18,
+      "end": 448.84,
+      "text": "E",
+      "confidence": 0.168
+    },
+    {
+      "start": 448.84,
+      "end": 449.48,
+      "text": "aí",
+      "confidence": 0.937
+    },
+    {
+      "start": 477.58,
+      "end": 479.4,
+      "text": "O",
+      "confidence": 0.043
+    },
+    {
+      "start": 479.4,
+      "end": 479.48,
+      "text": "que",
+      "confidence": 0.444
+    },
+    {
+      "start": 479.48,
+      "end": 479.5,
+      "text": "é",
+      "confidence": 0.506
+    },
+    {
+      "start": 479.5,
+      "end": 479.52,
+      "text": "isso?",
+      "confidence": 0.721
+    },
+    {
+      "start": 507.52,
+      "end": 509.48,
+      "text": "E",
+      "confidence": 0.118
+    },
+    {
+      "start": 509.48,
+      "end": 509.5,
+      "text": "aí",
+      "confidence": 0.928
+    },
+    {
+      "start": 537.02,
+      "end": 538.32,
+      "text": "E",
+      "confidence": 0.177
+    },
+    {
+      "start": 538.32,
+      "end": 539.48,
+      "text": "aí",
+      "confidence": 0.931
+    },
+    {
+      "start": 566.2,
+      "end": 569.32,
+      "text": "Vamos",
+      "confidence": 0.05
+    },
+    {
+      "start": 569.32,
+      "end": 569.42,
+      "text": "lá.",
+      "confidence": 0.889
+    },
+    {
+      "start": 597.62,
+      "end": 598.18,
+      "text": "Vamos",
+      "confidence": 0.041
+    },
+    {
+      "start": 598.18,
+      "end": 598.74,
+      "text": "lá.",
+      "confidence": 0.895
+    },
+    {
+      "start": 659.48,
+      "end": 659.5,
+      "text": "O",
+      "confidence": 0.036
+    },
+    {
+      "start": 659.5,
+      "end": 659.52,
+      "text": "que",
+      "confidence": 0.327
+    },
+    {
+      "start": 659.52,
+      "end": 659.54,
+      "text": "é",
+      "confidence": 0.669
+    },
+    {
+      "start": 659.54,
+      "end": 659.56,
+      "text": "isso?",
+      "confidence": 0.779
+    },
+    {
+      "start": 685.78,
+      "end": 685.8,
+      "text": "O",
+      "confidence": 0.057
+    },
+    {
+      "start": 685.8,
+      "end": 686.22,
+      "text": "que",
+      "confidence": 0.454
+    },
+    {
+      "start": 686.22,
+      "end": 686.24,
+      "text": "é",
+      "confidence": 0.612
+    },
+    {
+      "start": 686.24,
+      "end": 686.38,
+      "text": "isso?",
+      "confidence": 0.872
+    },
+    {
+      "start": 719.22,
+      "end": 719.48,
+      "text": "Tchau,",
+      "confidence": 0.224
+    },
+    {
+      "start": 719.48,
+      "end": 719.5,
+      "text": "tchau.",
+      "confidence": 0.903
+    },
+    {
+      "start": 749.12,
+      "end": 749.48,
+      "text": "Amém,",
+      "confidence": 0.215
+    },
+    {
+      "start": 749.48,
+      "end": 749.5,
+      "text": "amém,",
+      "confidence": 0.605
+    },
+    {
+      "start": 749.5,
+      "end": 749.52,
+      "text": "amém.",
+      "confidence": 0.848
+    },
+    {
+      "start": 777.04,
+      "end": 778.78,
+      "text": "O",
+      "confidence": 0.055
+    },
+    {
+      "start": 778.78,
+      "end": 778.8,
+      "text": "que",
+      "confidence": 0.494
+    },
+    {
+      "start": 778.8,
+      "end": 778.82,
+      "text": "é",
+      "confidence": 0.694
+    },
+    {
+      "start": 778.82,
+      "end": 778.84,
+      "text": "isso?",
+      "confidence": 0.88
+    },
+    {
+      "start": 807.06,
+      "end": 809.48,
+      "text": "O",
+      "confidence": 0.049
+    },
+    {
+      "start": 809.48,
+      "end": 809.5,
+      "text": "que",
+      "confidence": 0.462
+    },
+    {
+      "start": 809.5,
+      "end": 809.52,
+      "text": "é",
+      "confidence": 0.532
+    },
+    {
+      "start": 809.52,
+      "end": 809.54,
+      "text": "isso?",
+      "confidence": 0.747
+    },
+    {
+      "start": 987.98,
+      "end": 989.04,
+      "text": "Tchau,",
+      "confidence": 0.186
+    },
+    {
+      "start": 989.12,
+      "end": 989.28,
+      "text": "tchau.",
+      "confidence": 0.881
+    },
+    {
+      "start": 1015.78,
+      "end": 1019.48,
+      "text": "Boa",
+      "confidence": 0.108
+    },
+    {
+      "start": 1019.48,
+      "end": 1019.5,
+      "text": "noite.",
+      "confidence": 0.923
+    }
+  ]
+}

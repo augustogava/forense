@@ -1,0 +1,8 @@
+{
+  "source_file": "New_Recording_9_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1869.2,
+  "segments": {},
+  "hallucinations_filtered": 4
+}

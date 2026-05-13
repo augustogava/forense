@@ -1,0 +1,43 @@
+{
+  "source_file": "Antesdormirquarto0505_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1387.5,
+  "segments": {
+    "00:02:32,00:02:32": "Oi!",
+    "00:22:17,00:22:17": "O que é isso?"
+  },
+  "hallucinations_filtered": 152,
+  "words": [
+    {
+      "start": 152.0,
+      "end": 152.64,
+      "text": "Oi!",
+      "confidence": 0.315
+    },
+    {
+      "start": 1337.26,
+      "end": 1337.4,
+      "text": "O",
+      "confidence": 0.061
+    },
+    {
+      "start": 1337.4,
+      "end": 1337.42,
+      "text": "que",
+      "confidence": 0.712
+    },
+    {
+      "start": 1337.42,
+      "end": 1337.43,
+      "text": "é",
+      "confidence": 0.362
+    },
+    {
+      "start": 1337.44,
+      "end": 1337.46,
+      "text": "isso?",
+      "confidence": 0.856
+    }
+  ]
+}

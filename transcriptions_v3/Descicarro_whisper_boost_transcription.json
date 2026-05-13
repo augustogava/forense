@@ -1,0 +1,272 @@
+{
+  "source_file": "Descicarro_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 892.4,
+  "segments": {
+    "00:00:00,00:00:11": "Não, não, Matias, Matias, escuta o M. Não, Fiat.",
+    "00:00:53,00:00:54": "Não, você vai cair, Matias.",
+    "00:00:55,00:00:56": "Vai cair daí.",
+    "00:09:46,00:09:47": "Eu vou ter que chamar a coisinha.",
+    "00:09:49,00:09:49": "Bom?",
+    "00:09:49,00:09:54": "Você quer que eu corte tudo?",
+    "00:10:02,00:10:03": "Você não quer mais?",
+    "00:11:21,00:11:21": "O que é o que?",
+    "00:11:39,00:11:40": "Nossa senhora!"
+  },
+  "hallucinations_filtered": 11,
+  "words": [
+    {
+      "start": 0.0,
+      "end": 1.52,
+      "text": "Não,",
+      "confidence": 0.642
+    },
+    {
+      "start": 1.72,
+      "end": 1.98,
+      "text": "não,",
+      "confidence": 0.655
+    },
+    {
+      "start": 2.06,
+      "end": 2.72,
+      "text": "Matias,",
+      "confidence": 0.492
+    },
+    {
+      "start": 3.0,
+      "end": 4.28,
+      "text": "Matias,",
+      "confidence": 0.727
+    },
+    {
+      "start": 4.36,
+      "end": 5.27,
+      "text": "escuta",
+      "confidence": 0.341
+    },
+    {
+      "start": 6.84,
+      "end": 6.96,
+      "text": "o",
+      "confidence": 0.974
+    },
+    {
+      "start": 6.96,
+      "end": 7.22,
+      "text": "M.",
+      "confidence": 0.5
+    },
+    {
+      "start": 7.38,
+      "end": 9.75,
+      "text": "Não,",
+      "confidence": 0.422
+    },
+    {
+      "start": 10.97,
+      "end": 11.97,
+      "text": "Fiat.",
+      "confidence": 0.466
+    },
+    {
+      "start": 53.76,
+      "end": 53.78,
+      "text": "Não,",
+      "confidence": 0.229
+    },
+    {
+      "start": 53.92,
+      "end": 54.1,
+      "text": "você",
+      "confidence": 0.367
+    },
+    {
+      "start": 54.1,
+      "end": 54.26,
+      "text": "vai",
+      "confidence": 0.95
+    },
+    {
+      "start": 54.26,
+      "end": 54.44,
+      "text": "cair,",
+      "confidence": 0.953
+    },
+    {
+      "start": 54.52,
+      "end": 54.86,
+      "text": "Matias.",
+      "confidence": 0.412
+    },
+    {
+      "start": 55.22,
+      "end": 55.82,
+      "text": "Vai",
+      "confidence": 0.229
+    },
+    {
+      "start": 55.82,
+      "end": 56.12,
+      "text": "cair",
+      "confidence": 0.314
+    },
+    {
+      "start": 56.12,
+      "end": 56.24,
+      "text": "daí.",
+      "confidence": 0.338
+    },
+    {
+      "start": 586.54,
+      "end": 586.92,
+      "text": "Eu",
+      "confidence": 0.036
+    },
+    {
+      "start": 587.05,
+      "end": 587.2,
+      "text": "vou",
+      "confidence": 0.838
+    },
+    {
+      "start": 587.2,
+      "end": 587.34,
+      "text": "ter",
+      "confidence": 0.779
+    },
+    {
+      "start": 587.34,
+      "end": 587.38,
+      "text": "que",
+      "confidence": 0.923
+    },
+    {
+      "start": 587.38,
+      "end": 587.62,
+      "text": "chamar",
+      "confidence": 0.249
+    },
+    {
+      "start": 587.62,
+      "end": 587.66,
+      "text": "a",
+      "confidence": 0.75
+    },
+    {
+      "start": 587.66,
+      "end": 587.96,
+      "text": "coisinha.",
+      "confidence": 0.261
+    },
+    {
+      "start": 589.18,
+      "end": 589.2,
+      "text": "Bom?",
+      "confidence": 0.316
+    },
+    {
+      "start": 589.62,
+      "end": 589.97,
+      "text": "Você",
+      "confidence": 0.03
+    },
+    {
+      "start": 593.14,
+      "end": 593.36,
+      "text": "quer",
+      "confidence": 0.906
+    },
+    {
+      "start": 593.36,
+      "end": 593.4,
+      "text": "que",
+      "confidence": 0.951
+    },
+    {
+      "start": 593.4,
+      "end": 593.5,
+      "text": "eu",
+      "confidence": 0.916
+    },
+    {
+      "start": 593.5,
+      "end": 593.8,
+      "text": "corte",
+      "confidence": 0.174
+    },
+    {
+      "start": 593.8,
+      "end": 594.06,
+      "text": "tudo?",
+      "confidence": 0.958
+    },
+    {
+      "start": 602.8,
+      "end": 603.22,
+      "text": "Você",
+      "confidence": 0.013
+    },
+    {
+      "start": 603.22,
+      "end": 603.4,
+      "text": "não",
+      "confidence": 0.88
+    },
+    {
+      "start": 603.4,
+      "end": 603.56,
+      "text": "quer",
+      "confidence": 0.932
+    },
+    {
+      "start": 603.56,
+      "end": 603.78,
+      "text": "mais?",
+      "confidence": 0.979
+    },
+    {
+      "start": 681.03,
+      "end": 681.31,
+      "text": "O",
+      "confidence": 0.168
+    },
+    {
+      "start": 681.31,
+      "end": 681.43,
+      "text": "que",
+      "confidence": 0.866
+    },
+    {
+      "start": 681.43,
+      "end": 681.53,
+      "text": "é",
+      "confidence": 0.716
+    },
+    {
+      "start": 681.53,
+      "end": 681.67,
+      "text": "o",
+      "confidence": 0.839
+    },
+    {
+      "start": 681.67,
+      "end": 681.83,
+      "text": "que?",
+      "confidence": 0.805
+    },
+    {
+      "start": 699.41,
+      "end": 700.05,
+      "text": "Nossa",
+      "confidence": 0.654
+    },
+    {
+      "start": 700.05,
+      "end": 700.55,
+      "text": "senhora!",
+      "confidence": 0.684
+    }
+  ]
+}

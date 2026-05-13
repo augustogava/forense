@@ -1,0 +1,183 @@
+{
+  "source_file": "Mathiasapecarro2904_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 718.5,
+  "segments": {
+    "00:02:59,00:03:01": "Ele começa desde o primeiro dia",
+    "00:03:01,00:03:03": "Nas ajudas você aprende na prática",
+    "00:03:03,00:03:06": "Com projetos reais e vivências que preparam você",
+    "00:03:06,00:03:08": "Para o mercado de trabalho desde o início"
+  },
+  "hallucinations_filtered": 7,
+  "words": [
+    {
+      "start": 179.51,
+      "end": 180.15,
+      "text": "Ele",
+      "confidence": 0.069
+    },
+    {
+      "start": 180.15,
+      "end": 180.67,
+      "text": "começa",
+      "confidence": 0.721
+    },
+    {
+      "start": 180.67,
+      "end": 180.97,
+      "text": "desde",
+      "confidence": 0.65
+    },
+    {
+      "start": 180.97,
+      "end": 181.13,
+      "text": "o",
+      "confidence": 0.999
+    },
+    {
+      "start": 181.13,
+      "end": 181.39,
+      "text": "primeiro",
+      "confidence": 0.997
+    },
+    {
+      "start": 181.39,
+      "end": 181.81,
+      "text": "dia",
+      "confidence": 1.0
+    },
+    {
+      "start": 181.81,
+      "end": 182.27,
+      "text": "Nas",
+      "confidence": 0.101
+    },
+    {
+      "start": 182.27,
+      "end": 182.87,
+      "text": "ajudas",
+      "confidence": 0.037
+    },
+    {
+      "start": 182.87,
+      "end": 183.01,
+      "text": "você",
+      "confidence": 0.558
+    },
+    {
+      "start": 183.01,
+      "end": 183.45,
+      "text": "aprende",
+      "confidence": 0.996
+    },
+    {
+      "start": 183.45,
+      "end": 183.53,
+      "text": "na",
+      "confidence": 0.962
+    },
+    {
+      "start": 183.53,
+      "end": 183.91,
+      "text": "prática",
+      "confidence": 0.989
+    },
+    {
+      "start": 183.91,
+      "end": 184.09,
+      "text": "Com",
+      "confidence": 0.058
+    },
+    {
+      "start": 184.09,
+      "end": 184.51,
+      "text": "projetos",
+      "confidence": 0.802
+    },
+    {
+      "start": 184.51,
+      "end": 184.77,
+      "text": "reais",
+      "confidence": 0.998
+    },
+    {
+      "start": 184.77,
+      "end": 184.97,
+      "text": "e",
+      "confidence": 0.9
+    },
+    {
+      "start": 184.97,
+      "end": 185.41,
+      "text": "vivências",
+      "confidence": 0.873
+    },
+    {
+      "start": 185.41,
+      "end": 185.57,
+      "text": "que",
+      "confidence": 0.319
+    },
+    {
+      "start": 185.57,
+      "end": 186.07,
+      "text": "preparam",
+      "confidence": 0.897
+    },
+    {
+      "start": 186.07,
+      "end": 186.35,
+      "text": "você",
+      "confidence": 0.799
+    },
+    {
+      "start": 186.35,
+      "end": 186.61,
+      "text": "Para",
+      "confidence": 0.001
+    },
+    {
+      "start": 186.61,
+      "end": 186.81,
+      "text": "o",
+      "confidence": 0.433
+    },
+    {
+      "start": 186.81,
+      "end": 187.01,
+      "text": "mercado",
+      "confidence": 0.993
+    },
+    {
+      "start": 187.01,
+      "end": 187.45,
+      "text": "de",
+      "confidence": 0.99
+    },
+    {
+      "start": 187.45,
+      "end": 187.69,
+      "text": "trabalho",
+      "confidence": 0.995
+    },
+    {
+      "start": 187.69,
+      "end": 188.09,
+      "text": "desde",
+      "confidence": 0.969
+    },
+    {
+      "start": 188.09,
+      "end": 188.27,
+      "text": "o",
+      "confidence": 0.999
+    },
+    {
+      "start": 188.27,
+      "end": 188.53,
+      "text": "início",
+      "confidence": 0.972
+    }
+  ]
+}

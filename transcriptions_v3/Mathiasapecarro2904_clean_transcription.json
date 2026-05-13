@@ -1,0 +1,367 @@
+{
+  "source_file": "Mathiasapecarro2904_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 718.5,
+  "segments": {
+    "00:02:08,00:02:13": "Disney, sempre com a gente precisando de você.",
+    "00:02:24,00:03:01": "Nesta graduação, ele começa desde o primeiro dia.",
+    "00:03:01,00:03:08": "Nas ajudas, você aprende na prática, com projetos reais e vivências que preparam você para o mercado de trabalho desde o início.",
+    "00:03:08,00:03:09": "E o resultado aparece.",
+    "00:09:22,00:10:50": "Chegando, meu amor",
+    "00:10:51,00:11:18": "O Mickey veio passear",
+    "00:11:21,00:11:25": "Sabe onde a gente está indo?",
+    "00:11:38,00:11:38": "Já está chegando"
+  },
+  "hallucinations_filtered": 14,
+  "words": [
+    {
+      "start": 128.49,
+      "end": 128.7,
+      "text": "Disney,",
+      "confidence": 0.684
+    },
+    {
+      "start": 128.84,
+      "end": 129.16,
+      "text": "sempre",
+      "confidence": 0.61
+    },
+    {
+      "start": 129.16,
+      "end": 129.32,
+      "text": "com",
+      "confidence": 0.035
+    },
+    {
+      "start": 129.32,
+      "end": 129.38,
+      "text": "a",
+      "confidence": 0.606
+    },
+    {
+      "start": 129.38,
+      "end": 129.6,
+      "text": "gente",
+      "confidence": 0.995
+    },
+    {
+      "start": 131.95,
+      "end": 132.82,
+      "text": "precisando",
+      "confidence": 0.775
+    },
+    {
+      "start": 132.82,
+      "end": 132.94,
+      "text": "de",
+      "confidence": 0.996
+    },
+    {
+      "start": 132.94,
+      "end": 133.18,
+      "text": "você.",
+      "confidence": 0.898
+    },
+    {
+      "start": 144.09,
+      "end": 144.79,
+      "text": "Nesta",
+      "confidence": 0.175
+    },
+    {
+      "start": 179.45,
+      "end": 179.99,
+      "text": "graduação,",
+      "confidence": 0.903
+    },
+    {
+      "start": 180.09,
+      "end": 180.37,
+      "text": "ele",
+      "confidence": 0.978
+    },
+    {
+      "start": 180.37,
+      "end": 180.69,
+      "text": "começa",
+      "confidence": 0.995
+    },
+    {
+      "start": 180.69,
+      "end": 180.99,
+      "text": "desde",
+      "confidence": 0.963
+    },
+    {
+      "start": 180.99,
+      "end": 181.15,
+      "text": "o",
+      "confidence": 0.999
+    },
+    {
+      "start": 181.15,
+      "end": 181.41,
+      "text": "primeiro",
+      "confidence": 0.993
+    },
+    {
+      "start": 181.41,
+      "end": 181.81,
+      "text": "dia.",
+      "confidence": 0.855
+    },
+    {
+      "start": 181.81,
+      "end": 182.19,
+      "text": "Nas",
+      "confidence": 0.549
+    },
+    {
+      "start": 182.32,
+      "end": 182.86,
+      "text": "ajudas,",
+      "confidence": 0.377
+    },
+    {
+      "start": 182.86,
+      "end": 183.06,
+      "text": "você",
+      "confidence": 0.997
+    },
+    {
+      "start": 183.06,
+      "end": 183.44,
+      "text": "aprende",
+      "confidence": 1.0
+    },
+    {
+      "start": 183.44,
+      "end": 183.54,
+      "text": "na",
+      "confidence": 0.975
+    },
+    {
+      "start": 183.54,
+      "end": 183.94,
+      "text": "prática,",
+      "confidence": 0.486
+    },
+    {
+      "start": 183.98,
+      "end": 184.16,
+      "text": "com",
+      "confidence": 0.891
+    },
+    {
+      "start": 184.16,
+      "end": 184.46,
+      "text": "projetos",
+      "confidence": 0.972
+    },
+    {
+      "start": 184.46,
+      "end": 184.68,
+      "text": "reais",
+      "confidence": 0.997
+    },
+    {
+      "start": 184.68,
+      "end": 184.98,
+      "text": "e",
+      "confidence": 0.99
+    },
+    {
+      "start": 184.98,
+      "end": 185.4,
+      "text": "vivências",
+      "confidence": 0.997
+    },
+    {
+      "start": 185.4,
+      "end": 185.6,
+      "text": "que",
+      "confidence": 0.894
+    },
+    {
+      "start": 185.6,
+      "end": 186.08,
+      "text": "preparam",
+      "confidence": 0.952
+    },
+    {
+      "start": 186.08,
+      "end": 186.34,
+      "text": "você",
+      "confidence": 0.982
+    },
+    {
+      "start": 186.34,
+      "end": 186.7,
+      "text": "para",
+      "confidence": 0.826
+    },
+    {
+      "start": 186.7,
+      "end": 186.9,
+      "text": "o",
+      "confidence": 0.888
+    },
+    {
+      "start": 186.9,
+      "end": 187.18,
+      "text": "mercado",
+      "confidence": 0.999
+    },
+    {
+      "start": 187.18,
+      "end": 187.46,
+      "text": "de",
+      "confidence": 0.999
+    },
+    {
+      "start": 187.46,
+      "end": 187.68,
+      "text": "trabalho",
+      "confidence": 0.999
+    },
+    {
+      "start": 187.68,
+      "end": 188.14,
+      "text": "desde",
+      "confidence": 0.993
+    },
+    {
+      "start": 188.14,
+      "end": 188.28,
+      "text": "o",
+      "confidence": 1.0
+    },
+    {
+      "start": 188.28,
+      "end": 188.52,
+      "text": "início.",
+      "confidence": 0.986
+    },
+    {
+      "start": 188.52,
+      "end": 188.72,
+      "text": "E",
+      "confidence": 0.542
+    },
+    {
+      "start": 188.72,
+      "end": 189.06,
+      "text": "o",
+      "confidence": 0.994
+    },
+    {
+      "start": 189.06,
+      "end": 189.4,
+      "text": "resultado",
+      "confidence": 0.999
+    },
+    {
+      "start": 189.4,
+      "end": 189.88,
+      "text": "aparece.",
+      "confidence": 0.521
+    },
+    {
+      "start": 562.96,
+      "end": 563.67,
+      "text": "Chegando,",
+      "confidence": 0.47
+    },
+    {
+      "start": 649.8,
+      "end": 649.94,
+      "text": "meu",
+      "confidence": 0.983
+    },
+    {
+      "start": 649.94,
+      "end": 650.34,
+      "text": "amor",
+      "confidence": 0.998
+    },
+    {
+      "start": 651.3,
+      "end": 651.54,
+      "text": "O",
+      "confidence": 0.205
+    },
+    {
+      "start": 651.54,
+      "end": 652.53,
+      "text": "Mickey",
+      "confidence": 0.155
+    },
+    {
+      "start": 676.7,
+      "end": 677.22,
+      "text": "veio",
+      "confidence": 0.943
+    },
+    {
+      "start": 677.22,
+      "end": 678.28,
+      "text": "passear",
+      "confidence": 0.985
+    },
+    {
+      "start": 681.16,
+      "end": 682.58,
+      "text": "Sabe",
+      "confidence": 0.417
+    },
+    {
+      "start": 684.23,
+      "end": 684.39,
+      "text": "onde",
+      "confidence": 0.905
+    },
+    {
+      "start": 684.39,
+      "end": 684.51,
+      "text": "a",
+      "confidence": 0.957
+    },
+    {
+      "start": 684.51,
+      "end": 684.65,
+      "text": "gente",
+      "confidence": 1.0
+    },
+    {
+      "start": 684.65,
+      "end": 684.81,
+      "text": "está",
+      "confidence": 0.578
+    },
+    {
+      "start": 684.81,
+      "end": 685.07,
+      "text": "indo?",
+      "confidence": 0.931
+    },
+    {
+      "start": 698.02,
+      "end": 698.34,
+      "text": "Já",
+      "confidence": 0.659
+    },
+    {
+      "start": 698.34,
+      "end": 698.44,
+      "text": "está",
+      "confidence": 0.614
+    },
+    {
+      "start": 698.44,
+      "end": 698.96,
+      "text": "chegando",
+      "confidence": 0.994
+    }
+  ]
+}

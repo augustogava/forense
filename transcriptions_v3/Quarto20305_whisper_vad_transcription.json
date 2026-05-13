@@ -1,0 +1,61 @@
+{
+  "source_file": "Quarto20305_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 2654.6,
+  "segments": {
+    "00:09:10,00:10:21": "é isso aí",
+    "00:37:34,00:37:35": "E a voz dele é..."
+  },
+  "hallucinations_filtered": 50,
+  "words": [
+    {
+      "start": 550.23,
+      "end": 550.55,
+      "text": "é",
+      "confidence": 0.081
+    },
+    {
+      "start": 620.93,
+      "end": 620.99,
+      "text": "isso",
+      "confidence": 0.66
+    },
+    {
+      "start": 620.99,
+      "end": 621.19,
+      "text": "aí",
+      "confidence": 0.56
+    },
+    {
+      "start": 2254.38,
+      "end": 2254.4,
+      "text": "E",
+      "confidence": 0.032
+    },
+    {
+      "start": 2254.4,
+      "end": 2254.56,
+      "text": "a",
+      "confidence": 0.146
+    },
+    {
+      "start": 2254.56,
+      "end": 2254.96,
+      "text": "voz",
+      "confidence": 0.665
+    },
+    {
+      "start": 2254.96,
+      "end": 2255.32,
+      "text": "dele",
+      "confidence": 0.658
+    },
+    {
+      "start": 2255.32,
+      "end": 2255.72,
+      "text": "é...",
+      "confidence": 0.815
+    }
+  ]
+}

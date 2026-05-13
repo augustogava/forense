@@ -1,0 +1,31 @@
+{
+  "source_file": "VOR20260508111751_0805_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1153.0,
+  "segments": {
+    "00:17:25,00:17:26": "Boa noite.",
+    "00:19:01,00:19:03": "MÚSICA"
+  },
+  "hallucinations_filtered": 15,
+  "words": [
+    {
+      "start": 1045.29,
+      "end": 1045.45,
+      "text": "Boa",
+      "confidence": 0.161
+    },
+    {
+      "start": 1045.45,
+      "end": 1046.83,
+      "text": "noite.",
+      "confidence": 0.847
+    },
+    {
+      "start": 1141.55,
+      "end": 1143.76,
+      "text": "MÚSICA",
+      "confidence": 0.694
+    }
+  ]
+}

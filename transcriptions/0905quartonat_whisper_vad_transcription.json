@@ -1,0 +1,862 @@
+{
+  "source_file": "0905quartonat_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:03,00:00:04": "Atenção!",
+    "00:55:03,00:55:04": "Atenção!",
+    "00:55:15,00:55:18": "Não consegui tomar banho, queria tomar um banho no outro quarto.",
+    "00:55:37,00:55:40": "O que é o que é o que é o que é o que é o que é o que é o que é o que é o que é o",
+    "00:55:42,00:55:53": "Acompanhe o vídeo em seu celular ou no seu smartphone.",
+    "00:55:57,00:55:57": "Eu vou levar depois.",
+    "00:55:58,00:55:59": "Eu vou levar depois.",
+    "00:56:04,00:56:09": "Não há problema, não tem problema, não tem problema.",
+    "00:56:13,00:56:17": "O que é que você faz para evitar que o seu pai ou sua mãe ou sua mãe ou sua mãe ou",
+    "00:56:33,00:56:34": "Não há um Estado só ele.",
+    "00:56:36,00:56:37": "Achei muito interessante isso.",
+    "00:56:54,00:57:01": "Acompanhe o próximo vídeo.",
+    "00:57:05,00:57:06": "Não é um motivo, acabou.",
+    "01:00:36,01:00:37": "Não.",
+    "01:00:54,01:00:56": "Atenção!",
+    "01:00:58,01:01:02": "Não se esqueça de deixar seu like, compartilhar e se inscrever no canal.",
+    "01:01:18,01:01:20": "Acompanhe o nosso canal no Facebook, no Instagram e no Twitter.",
+    "01:01:27,01:01:27": "O que já!",
+    "01:01:31,01:01:32": "Eu acho.",
+    "01:01:36,01:01:37": "O Joguei.",
+    "01:01:44,01:01:45": "Leandro Taqui",
+    "01:01:54,01:01:55": "Muito bom, né?",
+    "01:01:57,01:01:58": "Atenção!",
+    "01:02:06,01:02:07": "Atenção!",
+    "01:02:16,01:02:16": "Então, vou te falar.",
+    "01:02:21,01:02:25": "Nossa! Isso não era de infância?",
+    "01:02:26,01:02:26": "Não.",
+    "01:02:35,01:02:35": "Ah, yeah!"
+  },
+  "words": [
+    {
+      "start": 3.49,
+      "end": 4.89,
+      "text": "Atenção!"
+    },
+    {
+      "start": 3303.94,
+      "end": 3304.4,
+      "text": "Atenção!"
+    },
+    {
+      "start": 3315.3,
+      "end": 3315.74,
+      "text": "Não"
+    },
+    {
+      "start": 3315.74,
+      "end": 3316.1,
+      "text": "consegui"
+    },
+    {
+      "start": 3316.1,
+      "end": 3316.24,
+      "text": "tomar"
+    },
+    {
+      "start": 3316.24,
+      "end": 3316.6,
+      "text": "banho,"
+    },
+    {
+      "start": 3316.64,
+      "end": 3316.82,
+      "text": "queria"
+    },
+    {
+      "start": 3316.82,
+      "end": 3317.04,
+      "text": "tomar"
+    },
+    {
+      "start": 3317.04,
+      "end": 3317.12,
+      "text": "um"
+    },
+    {
+      "start": 3317.12,
+      "end": 3317.62,
+      "text": "banho"
+    },
+    {
+      "start": 3317.62,
+      "end": 3317.74,
+      "text": "no"
+    },
+    {
+      "start": 3317.74,
+      "end": 3318.56,
+      "text": "outro"
+    },
+    {
+      "start": 3318.56,
+      "end": 3318.8,
+      "text": "quarto."
+    },
+    {
+      "start": 3337.17,
+      "end": 3337.41,
+      "text": "O"
+    },
+    {
+      "start": 3337.41,
+      "end": 3337.41,
+      "text": "que"
+    },
+    {
+      "start": 3337.41,
+      "end": 3338.51,
+      "text": "é"
+    },
+    {
+      "start": 3338.51,
+      "end": 3338.51,
+      "text": "o"
+    },
+    {
+      "start": 3338.51,
+      "end": 3338.51,
+      "text": "que"
+    },
+    {
+      "start": 3338.51,
+      "end": 3338.57,
+      "text": "é"
+    },
+    {
+      "start": 3338.57,
+      "end": 3338.81,
+      "text": "o"
+    },
+    {
+      "start": 3338.81,
+      "end": 3338.89,
+      "text": "que"
+    },
+    {
+      "start": 3338.89,
+      "end": 3338.89,
+      "text": "é"
+    },
+    {
+      "start": 3338.89,
+      "end": 3338.89,
+      "text": "o"
+    },
+    {
+      "start": 3338.89,
+      "end": 3338.99,
+      "text": "que"
+    },
+    {
+      "start": 3338.99,
+      "end": 3338.99,
+      "text": "é"
+    },
+    {
+      "start": 3338.99,
+      "end": 3338.99,
+      "text": "o"
+    },
+    {
+      "start": 3338.99,
+      "end": 3339.07,
+      "text": "que"
+    },
+    {
+      "start": 3339.07,
+      "end": 3339.07,
+      "text": "é"
+    },
+    {
+      "start": 3339.07,
+      "end": 3339.07,
+      "text": "o"
+    },
+    {
+      "start": 3339.07,
+      "end": 3339.07,
+      "text": "que"
+    },
+    {
+      "start": 3339.07,
+      "end": 3339.07,
+      "text": "é"
+    },
+    {
+      "start": 3339.07,
+      "end": 3339.07,
+      "text": "o"
+    },
+    {
+      "start": 3339.07,
+      "end": 3339.11,
+      "text": "que"
+    },
+    {
+      "start": 3339.11,
+      "end": 3339.11,
+      "text": "é"
+    },
+    {
+      "start": 3339.11,
+      "end": 3339.11,
+      "text": "o"
+    },
+    {
+      "start": 3339.11,
+      "end": 3339.11,
+      "text": "que"
+    },
+    {
+      "start": 3339.11,
+      "end": 3339.11,
+      "text": "é"
+    },
+    {
+      "start": 3339.11,
+      "end": 3339.11,
+      "text": "o"
+    },
+    {
+      "start": 3339.11,
+      "end": 3339.13,
+      "text": "que"
+    },
+    {
+      "start": 3339.13,
+      "end": 3339.47,
+      "text": "é"
+    },
+    {
+      "start": 3339.47,
+      "end": 3340.13,
+      "text": "o"
+    },
+    {
+      "start": 3340.13,
+      "end": 3340.13,
+      "text": "que"
+    },
+    {
+      "start": 3340.13,
+      "end": 3340.27,
+      "text": "é"
+    },
+    {
+      "start": 3340.27,
+      "end": 3340.27,
+      "text": "o"
+    },
+    {
+      "start": 3342.5,
+      "end": 3344.34,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 3344.34,
+      "end": 3346.44,
+      "text": "o"
+    },
+    {
+      "start": 3346.44,
+      "end": 3346.46,
+      "text": "vídeo"
+    },
+    {
+      "start": 3346.46,
+      "end": 3347.26,
+      "text": "em"
+    },
+    {
+      "start": 3347.26,
+      "end": 3350.04,
+      "text": "seu"
+    },
+    {
+      "start": 3350.04,
+      "end": 3350.24,
+      "text": "celular"
+    },
+    {
+      "start": 3350.24,
+      "end": 3351.96,
+      "text": "ou"
+    },
+    {
+      "start": 3351.96,
+      "end": 3353.28,
+      "text": "no"
+    },
+    {
+      "start": 3353.28,
+      "end": 3353.3,
+      "text": "seu"
+    },
+    {
+      "start": 3353.3,
+      "end": 3353.5,
+      "text": "smartphone."
+    },
+    {
+      "start": 3357.39,
+      "end": 3357.53,
+      "text": "Eu"
+    },
+    {
+      "start": 3357.53,
+      "end": 3357.53,
+      "text": "vou"
+    },
+    {
+      "start": 3357.53,
+      "end": 3357.63,
+      "text": "levar"
+    },
+    {
+      "start": 3357.63,
+      "end": 3357.87,
+      "text": "depois."
+    },
+    {
+      "start": 3358.51,
+      "end": 3358.97,
+      "text": "Eu"
+    },
+    {
+      "start": 3358.97,
+      "end": 3359.13,
+      "text": "vou"
+    },
+    {
+      "start": 3359.13,
+      "end": 3359.31,
+      "text": "levar"
+    },
+    {
+      "start": 3359.31,
+      "end": 3359.63,
+      "text": "depois."
+    },
+    {
+      "start": 3365.0,
+      "end": 3365.6,
+      "text": "Não"
+    },
+    {
+      "start": 3365.6,
+      "end": 3365.9,
+      "text": "há"
+    },
+    {
+      "start": 3365.9,
+      "end": 3366.76,
+      "text": "problema,"
+    },
+    {
+      "start": 3367.78,
+      "end": 3368.0,
+      "text": "não"
+    },
+    {
+      "start": 3368.0,
+      "end": 3368.0,
+      "text": "tem"
+    },
+    {
+      "start": 3368.0,
+      "end": 3368.2,
+      "text": "problema,"
+    },
+    {
+      "start": 3368.52,
+      "end": 3368.76,
+      "text": "não"
+    },
+    {
+      "start": 3368.76,
+      "end": 3369.1,
+      "text": "tem"
+    },
+    {
+      "start": 3369.1,
+      "end": 3369.32,
+      "text": "problema."
+    },
+    {
+      "start": 3373.47,
+      "end": 3373.47,
+      "text": "O"
+    },
+    {
+      "start": 3373.47,
+      "end": 3373.47,
+      "text": "que"
+    },
+    {
+      "start": 3373.47,
+      "end": 3373.59,
+      "text": "é"
+    },
+    {
+      "start": 3373.59,
+      "end": 3373.65,
+      "text": "que"
+    },
+    {
+      "start": 3373.65,
+      "end": 3373.93,
+      "text": "você"
+    },
+    {
+      "start": 3373.93,
+      "end": 3373.93,
+      "text": "faz"
+    },
+    {
+      "start": 3373.93,
+      "end": 3373.93,
+      "text": "para"
+    },
+    {
+      "start": 3373.93,
+      "end": 3373.93,
+      "text": "evitar"
+    },
+    {
+      "start": 3373.93,
+      "end": 3374.29,
+      "text": "que"
+    },
+    {
+      "start": 3374.29,
+      "end": 3374.91,
+      "text": "o"
+    },
+    {
+      "start": 3374.91,
+      "end": 3375.21,
+      "text": "seu"
+    },
+    {
+      "start": 3375.21,
+      "end": 3375.23,
+      "text": "pai"
+    },
+    {
+      "start": 3375.23,
+      "end": 3375.23,
+      "text": "ou"
+    },
+    {
+      "start": 3375.23,
+      "end": 3375.75,
+      "text": "sua"
+    },
+    {
+      "start": 3375.75,
+      "end": 3375.91,
+      "text": "mãe"
+    },
+    {
+      "start": 3375.91,
+      "end": 3376.37,
+      "text": "ou"
+    },
+    {
+      "start": 3376.37,
+      "end": 3376.37,
+      "text": "sua"
+    },
+    {
+      "start": 3376.37,
+      "end": 3376.37,
+      "text": "mãe"
+    },
+    {
+      "start": 3376.37,
+      "end": 3376.55,
+      "text": "ou"
+    },
+    {
+      "start": 3376.55,
+      "end": 3376.61,
+      "text": "sua"
+    },
+    {
+      "start": 3376.61,
+      "end": 3377.99,
+      "text": "mãe"
+    },
+    {
+      "start": 3377.99,
+      "end": 3377.99,
+      "text": "ou"
+    },
+    {
+      "start": 3393.46,
+      "end": 3393.46,
+      "text": "Não"
+    },
+    {
+      "start": 3393.46,
+      "end": 3393.64,
+      "text": "há"
+    },
+    {
+      "start": 3393.64,
+      "end": 3393.72,
+      "text": "um"
+    },
+    {
+      "start": 3393.72,
+      "end": 3393.96,
+      "text": "Estado"
+    },
+    {
+      "start": 3393.96,
+      "end": 3394.26,
+      "text": "só"
+    },
+    {
+      "start": 3394.26,
+      "end": 3394.54,
+      "text": "ele."
+    },
+    {
+      "start": 3396.55,
+      "end": 3396.77,
+      "text": "Achei"
+    },
+    {
+      "start": 3396.77,
+      "end": 3396.95,
+      "text": "muito"
+    },
+    {
+      "start": 3396.95,
+      "end": 3397.35,
+      "text": "interessante"
+    },
+    {
+      "start": 3397.35,
+      "end": 3397.63,
+      "text": "isso."
+    },
+    {
+      "start": 3414.15,
+      "end": 3415.99,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 3415.99,
+      "end": 3417.65,
+      "text": "o"
+    },
+    {
+      "start": 3417.65,
+      "end": 3417.71,
+      "text": "próximo"
+    },
+    {
+      "start": 3417.71,
+      "end": 3421.47,
+      "text": "vídeo."
+    },
+    {
+      "start": 3425.79,
+      "end": 3425.89,
+      "text": "Não"
+    },
+    {
+      "start": 3425.89,
+      "end": 3425.93,
+      "text": "é"
+    },
+    {
+      "start": 3425.93,
+      "end": 3426.11,
+      "text": "um"
+    },
+    {
+      "start": 3426.11,
+      "end": 3426.37,
+      "text": "motivo,"
+    },
+    {
+      "start": 3426.53,
+      "end": 3426.85,
+      "text": "acabou."
+    },
+    {
+      "start": 3636.99,
+      "end": 3637.29,
+      "text": "Não."
+    },
+    {
+      "start": 3654.76,
+      "end": 3656.16,
+      "text": "Atenção!"
+    },
+    {
+      "start": 3658.88,
+      "end": 3658.94,
+      "text": "Não"
+    },
+    {
+      "start": 3658.94,
+      "end": 3659.16,
+      "text": "se"
+    },
+    {
+      "start": 3659.16,
+      "end": 3659.58,
+      "text": "esqueça"
+    },
+    {
+      "start": 3659.58,
+      "end": 3660.18,
+      "text": "de"
+    },
+    {
+      "start": 3660.18,
+      "end": 3661.12,
+      "text": "deixar"
+    },
+    {
+      "start": 3661.12,
+      "end": 3661.42,
+      "text": "seu"
+    },
+    {
+      "start": 3661.42,
+      "end": 3661.82,
+      "text": "like,"
+    },
+    {
+      "start": 3661.82,
+      "end": 3661.82,
+      "text": "compartilhar"
+    },
+    {
+      "start": 3661.82,
+      "end": 3661.82,
+      "text": "e"
+    },
+    {
+      "start": 3661.82,
+      "end": 3661.82,
+      "text": "se"
+    },
+    {
+      "start": 3661.82,
+      "end": 3661.82,
+      "text": "inscrever"
+    },
+    {
+      "start": 3661.82,
+      "end": 3661.82,
+      "text": "no"
+    },
+    {
+      "start": 3661.82,
+      "end": 3662.22,
+      "text": "canal."
+    },
+    {
+      "start": 3678.02,
+      "end": 3678.26,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 3678.26,
+      "end": 3678.4,
+      "text": "o"
+    },
+    {
+      "start": 3678.4,
+      "end": 3678.5,
+      "text": "nosso"
+    },
+    {
+      "start": 3678.5,
+      "end": 3678.84,
+      "text": "canal"
+    },
+    {
+      "start": 3678.84,
+      "end": 3678.84,
+      "text": "no"
+    },
+    {
+      "start": 3678.84,
+      "end": 3678.84,
+      "text": "Facebook,"
+    },
+    {
+      "start": 3678.84,
+      "end": 3679.5,
+      "text": "no"
+    },
+    {
+      "start": 3679.5,
+      "end": 3680.08,
+      "text": "Instagram"
+    },
+    {
+      "start": 3680.08,
+      "end": 3680.08,
+      "text": "e"
+    },
+    {
+      "start": 3680.08,
+      "end": 3680.48,
+      "text": "no"
+    },
+    {
+      "start": 3680.48,
+      "end": 3680.68,
+      "text": "Twitter."
+    },
+    {
+      "start": 3687.68,
+      "end": 3687.78,
+      "text": "O"
+    },
+    {
+      "start": 3687.78,
+      "end": 3687.78,
+      "text": "que"
+    },
+    {
+      "start": 3687.78,
+      "end": 3687.9,
+      "text": "já!"
+    },
+    {
+      "start": 3691.81,
+      "end": 3692.61,
+      "text": "Eu"
+    },
+    {
+      "start": 3692.61,
+      "end": 3692.79,
+      "text": "acho."
+    },
+    {
+      "start": 3696.99,
+      "end": 3697.21,
+      "text": "O"
+    },
+    {
+      "start": 3697.21,
+      "end": 3697.73,
+      "text": "Joguei."
+    },
+    {
+      "start": 3704.29,
+      "end": 3704.61,
+      "text": "Leandro"
+    },
+    {
+      "start": 3704.61,
+      "end": 3705.03,
+      "text": "Taqui"
+    },
+    {
+      "start": 3714.85,
+      "end": 3714.99,
+      "text": "Muito"
+    },
+    {
+      "start": 3714.99,
+      "end": 3715.17,
+      "text": "bom,"
+    },
+    {
+      "start": 3715.17,
+      "end": 3715.29,
+      "text": "né?"
+    },
+    {
+      "start": 3717.86,
+      "end": 3718.7,
+      "text": "Atenção!"
+    },
+    {
+      "start": 3726.95,
+      "end": 3727.61,
+      "text": "Atenção!"
+    },
+    {
+      "start": 3736.26,
+      "end": 3736.4,
+      "text": "Então,"
+    },
+    {
+      "start": 3736.4,
+      "end": 3736.48,
+      "text": "vou"
+    },
+    {
+      "start": 3736.48,
+      "end": 3736.58,
+      "text": "te"
+    },
+    {
+      "start": 3736.58,
+      "end": 3736.9,
+      "text": "falar."
+    },
+    {
+      "start": 3741.79,
+      "end": 3742.39,
+      "text": "Nossa!"
+    },
+    {
+      "start": 3743.01,
+      "end": 3744.13,
+      "text": "Isso"
+    },
+    {
+      "start": 3744.13,
+      "end": 3744.31,
+      "text": "não"
+    },
+    {
+      "start": 3744.31,
+      "end": 3744.53,
+      "text": "era"
+    },
+    {
+      "start": 3744.53,
+      "end": 3744.77,
+      "text": "de"
+    },
+    {
+      "start": 3744.77,
+      "end": 3745.63,
+      "text": "infância?"
+    },
+    {
+      "start": 3746.27,
+      "end": 3746.83,
+      "text": "Não."
+    },
+    {
+      "start": 3755.11,
+      "end": 3755.23,
+      "text": "Ah,"
+    },
+    {
+      "start": 3755.23,
+      "end": 3755.45,
+      "text": "yeah!"
+    }
+  ]
+}

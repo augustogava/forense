@@ -1,0 +1,145 @@
+{
+  "source_file": "VOR20260508094746_0805_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1800.0,
+  "segments": {
+    "00:05:19,00:05:32": "Tempo, a gente se prendendo à toa, por vontade de outra pessoa",
+    "00:06:13,00:06:21": "É o fim daquele medo, é o fim daquele medo"
+  },
+  "hallucinations_filtered": 8,
+  "words": [
+    {
+      "start": 319.11,
+      "end": 321.36,
+      "text": "Tempo,",
+      "confidence": 0.145
+    },
+    {
+      "start": 327.83,
+      "end": 328.19,
+      "text": "a",
+      "confidence": 0.904
+    },
+    {
+      "start": 328.19,
+      "end": 328.59,
+      "text": "gente",
+      "confidence": 0.999
+    },
+    {
+      "start": 328.59,
+      "end": 328.79,
+      "text": "se",
+      "confidence": 0.224
+    },
+    {
+      "start": 329.04,
+      "end": 329.48,
+      "text": "prendendo",
+      "confidence": 0.771
+    },
+    {
+      "start": 329.48,
+      "end": 329.72,
+      "text": "à",
+      "confidence": 0.809
+    },
+    {
+      "start": 329.72,
+      "end": 330.44,
+      "text": "toa,",
+      "confidence": 0.727
+    },
+    {
+      "start": 330.5,
+      "end": 331.04,
+      "text": "por",
+      "confidence": 0.956
+    },
+    {
+      "start": 331.04,
+      "end": 331.4,
+      "text": "vontade",
+      "confidence": 0.753
+    },
+    {
+      "start": 331.4,
+      "end": 331.68,
+      "text": "de",
+      "confidence": 0.965
+    },
+    {
+      "start": 331.68,
+      "end": 331.82,
+      "text": "outra",
+      "confidence": 0.998
+    },
+    {
+      "start": 331.82,
+      "end": 332.36,
+      "text": "pessoa",
+      "confidence": 0.998
+    },
+    {
+      "start": 373.75,
+      "end": 374.27,
+      "text": "É",
+      "confidence": 0.096
+    },
+    {
+      "start": 374.27,
+      "end": 374.89,
+      "text": "o",
+      "confidence": 0.581
+    },
+    {
+      "start": 374.89,
+      "end": 375.11,
+      "text": "fim",
+      "confidence": 0.624
+    },
+    {
+      "start": 375.11,
+      "end": 375.63,
+      "text": "daquele",
+      "confidence": 0.939
+    },
+    {
+      "start": 375.63,
+      "end": 375.93,
+      "text": "medo,",
+      "confidence": 0.293
+    },
+    {
+      "start": 376.07,
+      "end": 376.71,
+      "text": "é",
+      "confidence": 0.073
+    },
+    {
+      "start": 376.71,
+      "end": 376.83,
+      "text": "o",
+      "confidence": 0.986
+    },
+    {
+      "start": 376.83,
+      "end": 377.43,
+      "text": "fim",
+      "confidence": 0.996
+    },
+    {
+      "start": 379.92,
+      "end": 380.72,
+      "text": "daquele",
+      "confidence": 0.996
+    },
+    {
+      "start": 380.72,
+      "end": 381.16,
+      "text": "medo",
+      "confidence": 0.999
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "source_file": "Quartotarde0605_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3971.3,
+  "segments": {
+    "00:39:57,00:41:28": "O que é isso?",
+    "00:41:29,00:41:31": "Tchau."
+  },
+  "hallucinations_filtered": 38,
+  "words": [
+    {
+      "start": 2397.27,
+      "end": 2397.29,
+      "text": "O",
+      "confidence": 0.032
+    },
+    {
+      "start": 2487.79,
+      "end": 2488.48,
+      "text": "que",
+      "confidence": 0.573
+    },
+    {
+      "start": 2488.48,
+      "end": 2488.5,
+      "text": "é",
+      "confidence": 0.666
+    },
+    {
+      "start": 2488.5,
+      "end": 2488.52,
+      "text": "isso?",
+      "confidence": 0.897
+    },
+    {
+      "start": 2489.3,
+      "end": 2491.03,
+      "text": "Tchau.",
+      "confidence": 0.38
+    }
+  ]
+}

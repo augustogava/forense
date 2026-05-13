@@ -1,0 +1,150 @@
+{
+  "source_file": "Banhomanha0905_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:01": "Obrigado.",
+    "00:00:14,00:00:17": "Não há dúvida que o que você quer é o que você quer.",
+    "00:00:22,00:00:24": "Atenção!",
+    "00:00:44,00:00:44": "Não é que eu falo essa.",
+    "00:00:48,00:00:48": "Manda!",
+    "00:05:37,00:05:40": "Agradecimentos a todos os participantes."
+  },
+  "words": [
+    {
+      "start": 0.71,
+      "end": 1.05,
+      "text": "Obrigado."
+    },
+    {
+      "start": 14.37,
+      "end": 14.69,
+      "text": "Não"
+    },
+    {
+      "start": 14.69,
+      "end": 14.75,
+      "text": "há"
+    },
+    {
+      "start": 14.75,
+      "end": 15.17,
+      "text": "dúvida"
+    },
+    {
+      "start": 15.17,
+      "end": 15.51,
+      "text": "que"
+    },
+    {
+      "start": 15.51,
+      "end": 16.35,
+      "text": "o"
+    },
+    {
+      "start": 16.35,
+      "end": 16.93,
+      "text": "que"
+    },
+    {
+      "start": 16.93,
+      "end": 17.57,
+      "text": "você"
+    },
+    {
+      "start": 17.57,
+      "end": 17.83,
+      "text": "quer"
+    },
+    {
+      "start": 17.83,
+      "end": 17.85,
+      "text": "é"
+    },
+    {
+      "start": 17.85,
+      "end": 17.85,
+      "text": "o"
+    },
+    {
+      "start": 17.85,
+      "end": 17.85,
+      "text": "que"
+    },
+    {
+      "start": 17.85,
+      "end": 17.85,
+      "text": "você"
+    },
+    {
+      "start": 17.85,
+      "end": 17.85,
+      "text": "quer."
+    },
+    {
+      "start": 22.79,
+      "end": 24.35,
+      "text": "Atenção!"
+    },
+    {
+      "start": 44.29,
+      "end": 44.29,
+      "text": "Não"
+    },
+    {
+      "start": 44.29,
+      "end": 44.39,
+      "text": "é"
+    },
+    {
+      "start": 44.39,
+      "end": 44.39,
+      "text": "que"
+    },
+    {
+      "start": 44.39,
+      "end": 44.45,
+      "text": "eu"
+    },
+    {
+      "start": 44.45,
+      "end": 44.69,
+      "text": "falo"
+    },
+    {
+      "start": 44.69,
+      "end": 44.91,
+      "text": "essa."
+    },
+    {
+      "start": 48.51,
+      "end": 48.81,
+      "text": "Manda!"
+    },
+    {
+      "start": 337.15,
+      "end": 338.25,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 338.25,
+      "end": 338.25,
+      "text": "a"
+    },
+    {
+      "start": 338.25,
+      "end": 338.79,
+      "text": "todos"
+    },
+    {
+      "start": 338.79,
+      "end": 339.09,
+      "text": "os"
+    },
+    {
+      "start": 339.09,
+      "end": 340.95,
+      "text": "participantes."
+    }
+  ]
+}

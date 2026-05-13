@@ -1,0 +1,174 @@
+{
+  "source_file": "0905quartonat_whisper_vad_ai_enhanced.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3786.9,
+  "segments": {
+    "00:08:41,00:08:41": "Obrigado.",
+    "00:24:03,00:24:53": "Um, dois, três.",
+    "00:25:43,00:25:43": "Obrigado.",
+    "00:47:15,00:47:15": "O que é isso?",
+    "00:55:51,00:55:53": "Sim, mas não era o mesmo.",
+    "01:00:20,01:00:37": "Eu não entendo o que você está dizendo.",
+    "01:02:56,01:02:57": "Tchau, tchau, tchau."
+  },
+  "hallucinations_filtered": 66,
+  "words": [
+    {
+      "start": 521.12,
+      "end": 521.5,
+      "text": "Obrigado.",
+      "confidence": 0.49
+    },
+    {
+      "start": 1443.94,
+      "end": 1444.63,
+      "text": "Um,",
+      "confidence": 0.119
+    },
+    {
+      "start": 1493.83,
+      "end": 1493.85,
+      "text": "dois,",
+      "confidence": 0.973
+    },
+    {
+      "start": 1493.85,
+      "end": 1493.87,
+      "text": "três.",
+      "confidence": 0.52
+    },
+    {
+      "start": 1543.95,
+      "end": 1543.97,
+      "text": "Obrigado.",
+      "confidence": 0.309
+    },
+    {
+      "start": 2835.54,
+      "end": 2835.56,
+      "text": "O",
+      "confidence": 0.081
+    },
+    {
+      "start": 2835.56,
+      "end": 2835.64,
+      "text": "que",
+      "confidence": 0.346
+    },
+    {
+      "start": 2835.64,
+      "end": 2835.66,
+      "text": "é",
+      "confidence": 0.684
+    },
+    {
+      "start": 2835.66,
+      "end": 2835.72,
+      "text": "isso?",
+      "confidence": 0.923
+    },
+    {
+      "start": 3351.0,
+      "end": 3352.12,
+      "text": "Sim,",
+      "confidence": 0.484
+    },
+    {
+      "start": 3352.28,
+      "end": 3352.52,
+      "text": "mas",
+      "confidence": 0.502
+    },
+    {
+      "start": 3352.52,
+      "end": 3352.82,
+      "text": "não",
+      "confidence": 0.783
+    },
+    {
+      "start": 3352.82,
+      "end": 3353.1,
+      "text": "era",
+      "confidence": 0.062
+    },
+    {
+      "start": 3353.1,
+      "end": 3353.16,
+      "text": "o",
+      "confidence": 0.782
+    },
+    {
+      "start": 3353.16,
+      "end": 3353.38,
+      "text": "mesmo.",
+      "confidence": 0.12
+    },
+    {
+      "start": 3620.48,
+      "end": 3621.8,
+      "text": "Eu",
+      "confidence": 0.052
+    },
+    {
+      "start": 3636.85,
+      "end": 3636.94,
+      "text": "não",
+      "confidence": 0.244
+    },
+    {
+      "start": 3636.94,
+      "end": 3637.28,
+      "text": "entendo",
+      "confidence": 0.18
+    },
+    {
+      "start": 3637.28,
+      "end": 3637.46,
+      "text": "o",
+      "confidence": 0.472
+    },
+    {
+      "start": 3637.46,
+      "end": 3637.64,
+      "text": "que",
+      "confidence": 0.924
+    },
+    {
+      "start": 3637.64,
+      "end": 3637.66,
+      "text": "você",
+      "confidence": 0.528
+    },
+    {
+      "start": 3637.66,
+      "end": 3637.68,
+      "text": "está",
+      "confidence": 0.883
+    },
+    {
+      "start": 3637.68,
+      "end": 3637.7,
+      "text": "dizendo.",
+      "confidence": 0.624
+    },
+    {
+      "start": 3776.02,
+      "end": 3777.22,
+      "text": "Tchau,",
+      "confidence": 0.148
+    },
+    {
+      "start": 3777.22,
+      "end": 3777.38,
+      "text": "tchau,",
+      "confidence": 0.417
+    },
+    {
+      "start": 3777.5,
+      "end": 3777.52,
+      "text": "tchau.",
+      "confidence": 0.796
+    }
+  ]
+}

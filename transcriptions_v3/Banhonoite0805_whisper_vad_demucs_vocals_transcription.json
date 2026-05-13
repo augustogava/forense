@@ -1,0 +1,136 @@
+{
+  "source_file": "Banhonoite0805_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 808.8,
+  "segments": {
+    "00:03:24,00:03:27": "O que é que você está fazendo?",
+    "00:03:51,00:03:51": "O que é isso?",
+    "00:03:58,00:03:59": "Obrigado.",
+    "00:05:31,00:05:40": "O que é isso?",
+    "00:09:22,00:09:23": "O que é isso?"
+  },
+  "hallucinations_filtered": 5,
+  "words": [
+    {
+      "start": 204.03,
+      "end": 207.43,
+      "text": "O",
+      "confidence": 0.05
+    },
+    {
+      "start": 207.43,
+      "end": 207.45,
+      "text": "que",
+      "confidence": 0.604
+    },
+    {
+      "start": 207.45,
+      "end": 207.47,
+      "text": "é",
+      "confidence": 0.23
+    },
+    {
+      "start": 207.47,
+      "end": 207.49,
+      "text": "que",
+      "confidence": 0.381
+    },
+    {
+      "start": 207.49,
+      "end": 207.51,
+      "text": "você",
+      "confidence": 0.245
+    },
+    {
+      "start": 207.51,
+      "end": 207.53,
+      "text": "está",
+      "confidence": 0.487
+    },
+    {
+      "start": 207.53,
+      "end": 207.55,
+      "text": "fazendo?",
+      "confidence": 0.758
+    },
+    {
+      "start": 231.21,
+      "end": 231.23,
+      "text": "O",
+      "confidence": 0.038
+    },
+    {
+      "start": 231.23,
+      "end": 231.25,
+      "text": "que",
+      "confidence": 0.628
+    },
+    {
+      "start": 231.25,
+      "end": 231.27,
+      "text": "é",
+      "confidence": 0.17
+    },
+    {
+      "start": 231.27,
+      "end": 231.35,
+      "text": "isso?",
+      "confidence": 0.803
+    },
+    {
+      "start": 238.25,
+      "end": 239.45,
+      "text": "Obrigado.",
+      "confidence": 0.343
+    },
+    {
+      "start": 331.37,
+      "end": 334.93,
+      "text": "O",
+      "confidence": 0.038
+    },
+    {
+      "start": 340.93,
+      "end": 340.95,
+      "text": "que",
+      "confidence": 0.589
+    },
+    {
+      "start": 340.95,
+      "end": 340.97,
+      "text": "é",
+      "confidence": 0.673
+    },
+    {
+      "start": 340.97,
+      "end": 340.99,
+      "text": "isso?",
+      "confidence": 0.907
+    },
+    {
+      "start": 562.41,
+      "end": 562.89,
+      "text": "O",
+      "confidence": 0.031
+    },
+    {
+      "start": 562.89,
+      "end": 563.05,
+      "text": "que",
+      "confidence": 0.505
+    },
+    {
+      "start": 563.05,
+      "end": 563.15,
+      "text": "é",
+      "confidence": 0.613
+    },
+    {
+      "start": 563.15,
+      "end": 563.57,
+      "text": "isso?",
+      "confidence": 0.855
+    }
+  ]
+}

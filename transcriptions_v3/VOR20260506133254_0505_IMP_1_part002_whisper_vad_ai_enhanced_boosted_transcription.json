@@ -1,0 +1,31 @@
+{
+  "source_file": "VOR20260506133254_0505_IMP_1_part002_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3679.7,
+  "segments": {
+    "00:26:52,00:26:53": "Obrigado.",
+    "00:52:37,00:53:00": "Tchau, tchau."
+  },
+  "hallucinations_filtered": 2,
+  "words": [
+    {
+      "start": 1612.17,
+      "end": 1613.94,
+      "text": "Obrigado.",
+      "confidence": 0.404
+    },
+    {
+      "start": 3157.29,
+      "end": 3158.48,
+      "text": "Tchau,",
+      "confidence": 0.269
+    },
+    {
+      "start": 3180.23,
+      "end": 3180.85,
+      "text": "tchau.",
+      "confidence": 0.919
+    }
+  ]
+}

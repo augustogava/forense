@@ -1,0 +1,112 @@
+{
+  "source_file": "VOR20260508063221_0805_part002_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:06:57,00:06:58": ".",
+    "00:10:54,00:10:54": ".",
+    "00:20:18,00:20:19": "Controle.",
+    "00:21:51,00:21:51": "Não é verdade.",
+    "00:22:27,00:22:28": "Não há dúvida.",
+    "00:22:33,00:22:34": "Não tem o que me chamar.",
+    "00:26:24,00:26:24": "Acompanhe a conversa.",
+    "00:27:41,00:27:42": "Aplausos."
+  },
+  "words": [
+    {
+      "start": 417.92,
+      "end": 418.02,
+      "text": "."
+    },
+    {
+      "start": 654.15,
+      "end": 654.53,
+      "text": "."
+    },
+    {
+      "start": 1218.47,
+      "end": 1219.03,
+      "text": "Controle."
+    },
+    {
+      "start": 1311.01,
+      "end": 1311.01,
+      "text": "Não"
+    },
+    {
+      "start": 1311.01,
+      "end": 1311.09,
+      "text": "é"
+    },
+    {
+      "start": 1311.09,
+      "end": 1311.21,
+      "text": "verdade."
+    },
+    {
+      "start": 1347.75,
+      "end": 1347.93,
+      "text": "Não"
+    },
+    {
+      "start": 1347.93,
+      "end": 1348.19,
+      "text": "há"
+    },
+    {
+      "start": 1348.19,
+      "end": 1348.45,
+      "text": "dúvida."
+    },
+    {
+      "start": 1353.95,
+      "end": 1354.05,
+      "text": "Não"
+    },
+    {
+      "start": 1354.05,
+      "end": 1354.11,
+      "text": "tem"
+    },
+    {
+      "start": 1354.11,
+      "end": 1354.25,
+      "text": "o"
+    },
+    {
+      "start": 1354.25,
+      "end": 1354.25,
+      "text": "que"
+    },
+    {
+      "start": 1354.25,
+      "end": 1354.43,
+      "text": "me"
+    },
+    {
+      "start": 1354.43,
+      "end": 1354.79,
+      "text": "chamar."
+    },
+    {
+      "start": 1584.56,
+      "end": 1584.72,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 1584.72,
+      "end": 1584.84,
+      "text": "a"
+    },
+    {
+      "start": 1584.84,
+      "end": 1584.88,
+      "text": "conversa."
+    },
+    {
+      "start": 1661.99,
+      "end": 1662.45,
+      "text": "Aplausos."
+    }
+  ]
+}

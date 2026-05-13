@@ -1,0 +1,1280 @@
+{
+  "source_file": "New_Recording_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 857.0,
+  "segments": {
+    "00:03:17,00:03:22": "A produção de milho no Brasil na safra do Brasil foi reestimada.",
+    "00:03:22,00:03:27": "Agora a produção deve chegar em 141,71 milhões de toneladas.",
+    "00:03:27,00:03:31": "Após um corte de cerca de 1 milhão de toneladas na progestão.",
+    "00:03:31,00:03:41": "Esse novo número divulgado no relatório da consultoria Safras e Mercado é por causa da redução do rendimento esperado para a segunda safra, a chamada safrinha.",
+    "00:03:41,00:04:00": "A queda evite uma projeção menor de produtividade média da safrinha, mesmo que pela maior parte do final ainda tenha potencial para superar.",
+    "00:04:20,00:04:29": "Para generar avanços científicos e ampliar o uso de inteligência artificial em toda a economia industrial, o projeto faz parte de um novo ciclo de planejamento estratégico do país",
+    "00:04:29,00:04:34": "e tratam o domínio de tecnologias como a prioridade de segurança nacional.",
+    "00:04:34,00:04:41": "A estratégia reflete a visão do governo de Xi Jinping de criar as chamadas novas forças produtivas",
+    "00:04:41,00:04:45": "com foco em áreas como IA, semicondutores e inovação industrial.",
+    "00:04:45,00:04:49": "A meta é reduzir a dependência de tecnologias estrangeiras,",
+    "00:04:49,00:04:54": "especialmente diante das restrições de exportação impostas pelos Estados Unidos",
+    "00:04:54,00:04:57": "e aumentar a autossuficiência tecnológica do país.",
+    "00:04:57,00:05:03": "Ao mesmo tempo, a voz da tecnologia surge em meio a desafios econômicos estruturais,",
+    "00:05:03,00:05:09": "como o envelhecimento da população, a crise do setor imobiliário e o crescimento mais lento do país.",
+    "00:11:49,00:11:50": "Obrigado."
+  },
+  "hallucinations_filtered": 1,
+  "words": [
+    {
+      "start": 197.73,
+      "end": 197.75,
+      "text": "A",
+      "confidence": 0.154
+    },
+    {
+      "start": 197.75,
+      "end": 197.87,
+      "text": "produção",
+      "confidence": 0.279
+    },
+    {
+      "start": 197.87,
+      "end": 198.29,
+      "text": "de",
+      "confidence": 0.978
+    },
+    {
+      "start": 198.29,
+      "end": 198.65,
+      "text": "milho",
+      "confidence": 0.302
+    },
+    {
+      "start": 198.65,
+      "end": 198.71,
+      "text": "no",
+      "confidence": 0.673
+    },
+    {
+      "start": 198.71,
+      "end": 198.95,
+      "text": "Brasil",
+      "confidence": 0.999
+    },
+    {
+      "start": 198.95,
+      "end": 199.25,
+      "text": "na",
+      "confidence": 0.257
+    },
+    {
+      "start": 199.25,
+      "end": 199.55,
+      "text": "safra",
+      "confidence": 0.178
+    },
+    {
+      "start": 199.55,
+      "end": 199.71,
+      "text": "do",
+      "confidence": 0.486
+    },
+    {
+      "start": 199.71,
+      "end": 199.93,
+      "text": "Brasil",
+      "confidence": 0.283
+    },
+    {
+      "start": 199.93,
+      "end": 200.18,
+      "text": "foi",
+      "confidence": 0.925
+    },
+    {
+      "start": 201.75,
+      "end": 202.69,
+      "text": "reestimada.",
+      "confidence": 0.962
+    },
+    {
+      "start": 202.69,
+      "end": 203.11,
+      "text": "Agora",
+      "confidence": 0.949
+    },
+    {
+      "start": 203.11,
+      "end": 203.41,
+      "text": "a",
+      "confidence": 0.708
+    },
+    {
+      "start": 203.41,
+      "end": 203.67,
+      "text": "produção",
+      "confidence": 1.0
+    },
+    {
+      "start": 203.67,
+      "end": 204.01,
+      "text": "deve",
+      "confidence": 0.999
+    },
+    {
+      "start": 204.01,
+      "end": 204.33,
+      "text": "chegar",
+      "confidence": 1.0
+    },
+    {
+      "start": 204.33,
+      "end": 204.55,
+      "text": "em",
+      "confidence": 0.962
+    },
+    {
+      "start": 204.55,
+      "end": 206.27,
+      "text": "141,71",
+      "confidence": 0.993
+    },
+    {
+      "start": 206.27,
+      "end": 206.99,
+      "text": "milhões",
+      "confidence": 0.996
+    },
+    {
+      "start": 206.99,
+      "end": 207.23,
+      "text": "de",
+      "confidence": 0.999
+    },
+    {
+      "start": 207.23,
+      "end": 207.93,
+      "text": "toneladas.",
+      "confidence": 0.986
+    },
+    {
+      "start": 207.93,
+      "end": 208.51,
+      "text": "Após",
+      "confidence": 0.73
+    },
+    {
+      "start": 208.51,
+      "end": 208.59,
+      "text": "um",
+      "confidence": 0.984
+    },
+    {
+      "start": 208.59,
+      "end": 209.09,
+      "text": "corte",
+      "confidence": 0.998
+    },
+    {
+      "start": 209.09,
+      "end": 209.19,
+      "text": "de",
+      "confidence": 0.859
+    },
+    {
+      "start": 209.19,
+      "end": 209.39,
+      "text": "cerca",
+      "confidence": 0.798
+    },
+    {
+      "start": 209.39,
+      "end": 209.63,
+      "text": "de",
+      "confidence": 0.997
+    },
+    {
+      "start": 209.63,
+      "end": 209.89,
+      "text": "1",
+      "confidence": 0.763
+    },
+    {
+      "start": 209.89,
+      "end": 210.37,
+      "text": "milhão",
+      "confidence": 0.993
+    },
+    {
+      "start": 210.37,
+      "end": 210.41,
+      "text": "de",
+      "confidence": 0.979
+    },
+    {
+      "start": 210.41,
+      "end": 211.01,
+      "text": "toneladas",
+      "confidence": 1.0
+    },
+    {
+      "start": 211.01,
+      "end": 211.19,
+      "text": "na",
+      "confidence": 0.933
+    },
+    {
+      "start": 211.19,
+      "end": 211.79,
+      "text": "progestão.",
+      "confidence": 0.676
+    },
+    {
+      "start": 211.79,
+      "end": 212.13,
+      "text": "Esse",
+      "confidence": 0.746
+    },
+    {
+      "start": 212.13,
+      "end": 212.51,
+      "text": "novo",
+      "confidence": 0.999
+    },
+    {
+      "start": 212.51,
+      "end": 212.85,
+      "text": "número",
+      "confidence": 0.997
+    },
+    {
+      "start": 212.85,
+      "end": 213.45,
+      "text": "divulgado",
+      "confidence": 0.996
+    },
+    {
+      "start": 213.45,
+      "end": 213.65,
+      "text": "no",
+      "confidence": 0.957
+    },
+    {
+      "start": 213.65,
+      "end": 214.17,
+      "text": "relatório",
+      "confidence": 0.994
+    },
+    {
+      "start": 214.17,
+      "end": 214.35,
+      "text": "da",
+      "confidence": 0.95
+    },
+    {
+      "start": 214.35,
+      "end": 214.93,
+      "text": "consultoria",
+      "confidence": 0.988
+    },
+    {
+      "start": 214.93,
+      "end": 215.33,
+      "text": "Safras",
+      "confidence": 0.775
+    },
+    {
+      "start": 215.33,
+      "end": 215.53,
+      "text": "e",
+      "confidence": 0.969
+    },
+    {
+      "start": 215.53,
+      "end": 216.03,
+      "text": "Mercado",
+      "confidence": 0.984
+    },
+    {
+      "start": 216.03,
+      "end": 216.29,
+      "text": "é",
+      "confidence": 0.387
+    },
+    {
+      "start": 216.29,
+      "end": 216.43,
+      "text": "por",
+      "confidence": 1.0
+    },
+    {
+      "start": 216.43,
+      "end": 216.75,
+      "text": "causa",
+      "confidence": 0.998
+    },
+    {
+      "start": 216.75,
+      "end": 216.97,
+      "text": "da",
+      "confidence": 0.846
+    },
+    {
+      "start": 216.97,
+      "end": 217.55,
+      "text": "redução",
+      "confidence": 0.998
+    },
+    {
+      "start": 217.55,
+      "end": 217.73,
+      "text": "do",
+      "confidence": 0.996
+    },
+    {
+      "start": 217.73,
+      "end": 218.19,
+      "text": "rendimento",
+      "confidence": 0.999
+    },
+    {
+      "start": 218.19,
+      "end": 218.75,
+      "text": "esperado",
+      "confidence": 0.998
+    },
+    {
+      "start": 218.75,
+      "end": 218.95,
+      "text": "para",
+      "confidence": 0.995
+    },
+    {
+      "start": 218.95,
+      "end": 219.03,
+      "text": "a",
+      "confidence": 0.999
+    },
+    {
+      "start": 219.03,
+      "end": 219.31,
+      "text": "segunda",
+      "confidence": 0.992
+    },
+    {
+      "start": 219.31,
+      "end": 219.81,
+      "text": "safra,",
+      "confidence": 0.719
+    },
+    {
+      "start": 219.85,
+      "end": 220.09,
+      "text": "a",
+      "confidence": 0.943
+    },
+    {
+      "start": 220.09,
+      "end": 220.57,
+      "text": "chamada",
+      "confidence": 1.0
+    },
+    {
+      "start": 220.57,
+      "end": 221.23,
+      "text": "safrinha.",
+      "confidence": 0.854
+    },
+    {
+      "start": 221.23,
+      "end": 221.43,
+      "text": "A",
+      "confidence": 0.752
+    },
+    {
+      "start": 221.43,
+      "end": 221.77,
+      "text": "queda",
+      "confidence": 0.978
+    },
+    {
+      "start": 221.77,
+      "end": 222.15,
+      "text": "evite",
+      "confidence": 0.154
+    },
+    {
+      "start": 222.15,
+      "end": 222.43,
+      "text": "uma",
+      "confidence": 0.99
+    },
+    {
+      "start": 222.43,
+      "end": 222.99,
+      "text": "projeção",
+      "confidence": 0.999
+    },
+    {
+      "start": 222.99,
+      "end": 223.39,
+      "text": "menor",
+      "confidence": 0.983
+    },
+    {
+      "start": 223.39,
+      "end": 223.69,
+      "text": "de",
+      "confidence": 0.946
+    },
+    {
+      "start": 223.69,
+      "end": 224.21,
+      "text": "produtividade",
+      "confidence": 0.997
+    },
+    {
+      "start": 224.21,
+      "end": 224.75,
+      "text": "média",
+      "confidence": 0.995
+    },
+    {
+      "start": 224.75,
+      "end": 225.07,
+      "text": "da",
+      "confidence": 0.586
+    },
+    {
+      "start": 225.07,
+      "end": 225.59,
+      "text": "safrinha,",
+      "confidence": 0.251
+    },
+    {
+      "start": 225.67,
+      "end": 226.11,
+      "text": "mesmo",
+      "confidence": 0.031
+    },
+    {
+      "start": 226.11,
+      "end": 226.37,
+      "text": "que",
+      "confidence": 0.553
+    },
+    {
+      "start": 226.37,
+      "end": 226.59,
+      "text": "pela",
+      "confidence": 0.805
+    },
+    {
+      "start": 226.59,
+      "end": 226.97,
+      "text": "maior",
+      "confidence": 0.999
+    },
+    {
+      "start": 226.97,
+      "end": 227.43,
+      "text": "parte",
+      "confidence": 0.995
+    },
+    {
+      "start": 227.43,
+      "end": 227.67,
+      "text": "do",
+      "confidence": 0.779
+    },
+    {
+      "start": 227.67,
+      "end": 227.99,
+      "text": "final",
+      "confidence": 0.488
+    },
+    {
+      "start": 238.58,
+      "end": 239.0,
+      "text": "ainda",
+      "confidence": 0.873
+    },
+    {
+      "start": 239.0,
+      "end": 239.36,
+      "text": "tenha",
+      "confidence": 0.841
+    },
+    {
+      "start": 239.36,
+      "end": 239.76,
+      "text": "potencial",
+      "confidence": 0.998
+    },
+    {
+      "start": 239.76,
+      "end": 240.18,
+      "text": "para",
+      "confidence": 0.999
+    },
+    {
+      "start": 240.18,
+      "end": 240.63,
+      "text": "superar.",
+      "confidence": 0.394
+    },
+    {
+      "start": 260.79,
+      "end": 260.93,
+      "text": "Para",
+      "confidence": 0.199
+    },
+    {
+      "start": 260.93,
+      "end": 261.61,
+      "text": "generar",
+      "confidence": 0.119
+    },
+    {
+      "start": 261.61,
+      "end": 261.84,
+      "text": "avanços",
+      "confidence": 0.536
+    },
+    {
+      "start": 262.04,
+      "end": 262.66,
+      "text": "científicos",
+      "confidence": 0.996
+    },
+    {
+      "start": 262.66,
+      "end": 262.82,
+      "text": "e",
+      "confidence": 0.831
+    },
+    {
+      "start": 262.82,
+      "end": 263.22,
+      "text": "ampliar",
+      "confidence": 0.996
+    },
+    {
+      "start": 263.22,
+      "end": 263.34,
+      "text": "o",
+      "confidence": 0.99
+    },
+    {
+      "start": 263.34,
+      "end": 263.56,
+      "text": "uso",
+      "confidence": 0.99
+    },
+    {
+      "start": 263.56,
+      "end": 263.76,
+      "text": "de",
+      "confidence": 0.993
+    },
+    {
+      "start": 263.76,
+      "end": 264.24,
+      "text": "inteligência",
+      "confidence": 0.996
+    },
+    {
+      "start": 264.33,
+      "end": 264.65,
+      "text": "artificial",
+      "confidence": 0.999
+    },
+    {
+      "start": 264.65,
+      "end": 264.89,
+      "text": "em",
+      "confidence": 0.763
+    },
+    {
+      "start": 264.89,
+      "end": 265.11,
+      "text": "toda",
+      "confidence": 0.998
+    },
+    {
+      "start": 265.11,
+      "end": 265.17,
+      "text": "a",
+      "confidence": 0.889
+    },
+    {
+      "start": 265.17,
+      "end": 265.51,
+      "text": "economia",
+      "confidence": 0.994
+    },
+    {
+      "start": 265.51,
+      "end": 265.93,
+      "text": "industrial,",
+      "confidence": 0.641
+    },
+    {
+      "start": 266.09,
+      "end": 266.21,
+      "text": "o",
+      "confidence": 0.156
+    },
+    {
+      "start": 266.21,
+      "end": 266.49,
+      "text": "projeto",
+      "confidence": 0.993
+    },
+    {
+      "start": 266.49,
+      "end": 266.81,
+      "text": "faz",
+      "confidence": 0.964
+    },
+    {
+      "start": 266.81,
+      "end": 267.13,
+      "text": "parte",
+      "confidence": 1.0
+    },
+    {
+      "start": 267.13,
+      "end": 267.27,
+      "text": "de",
+      "confidence": 0.363
+    },
+    {
+      "start": 267.27,
+      "end": 267.41,
+      "text": "um",
+      "confidence": 0.98
+    },
+    {
+      "start": 267.41,
+      "end": 267.61,
+      "text": "novo",
+      "confidence": 1.0
+    },
+    {
+      "start": 267.61,
+      "end": 268.05,
+      "text": "ciclo",
+      "confidence": 1.0
+    },
+    {
+      "start": 268.05,
+      "end": 268.27,
+      "text": "de",
+      "confidence": 1.0
+    },
+    {
+      "start": 268.27,
+      "end": 268.77,
+      "text": "planejamento",
+      "confidence": 1.0
+    },
+    {
+      "start": 268.77,
+      "end": 269.49,
+      "text": "estratégico",
+      "confidence": 1.0
+    },
+    {
+      "start": 269.49,
+      "end": 269.63,
+      "text": "do",
+      "confidence": 0.995
+    },
+    {
+      "start": 269.63,
+      "end": 269.83,
+      "text": "país",
+      "confidence": 0.996
+    },
+    {
+      "start": 269.83,
+      "end": 270.05,
+      "text": "e",
+      "confidence": 0.355
+    },
+    {
+      "start": 270.05,
+      "end": 270.71,
+      "text": "tratam",
+      "confidence": 0.265
+    },
+    {
+      "start": 270.71,
+      "end": 270.75,
+      "text": "o",
+      "confidence": 0.249
+    },
+    {
+      "start": 270.75,
+      "end": 271.19,
+      "text": "domínio",
+      "confidence": 0.979
+    },
+    {
+      "start": 271.19,
+      "end": 271.29,
+      "text": "de",
+      "confidence": 0.997
+    },
+    {
+      "start": 271.29,
+      "end": 271.95,
+      "text": "tecnologias",
+      "confidence": 0.744
+    },
+    {
+      "start": 272.65,
+      "end": 272.95,
+      "text": "como",
+      "confidence": 0.812
+    },
+    {
+      "start": 272.95,
+      "end": 273.11,
+      "text": "a",
+      "confidence": 0.899
+    },
+    {
+      "start": 273.11,
+      "end": 273.89,
+      "text": "prioridade",
+      "confidence": 0.999
+    },
+    {
+      "start": 273.89,
+      "end": 274.13,
+      "text": "de",
+      "confidence": 0.944
+    },
+    {
+      "start": 274.13,
+      "end": 274.41,
+      "text": "segurança",
+      "confidence": 0.997
+    },
+    {
+      "start": 274.41,
+      "end": 274.87,
+      "text": "nacional.",
+      "confidence": 0.98
+    },
+    {
+      "start": 274.87,
+      "end": 275.27,
+      "text": "A",
+      "confidence": 0.46
+    },
+    {
+      "start": 275.27,
+      "end": 275.93,
+      "text": "estratégia",
+      "confidence": 0.963
+    },
+    {
+      "start": 275.93,
+      "end": 276.39,
+      "text": "reflete",
+      "confidence": 0.832
+    },
+    {
+      "start": 276.39,
+      "end": 276.47,
+      "text": "a",
+      "confidence": 0.992
+    },
+    {
+      "start": 276.47,
+      "end": 276.71,
+      "text": "visão",
+      "confidence": 0.992
+    },
+    {
+      "start": 276.71,
+      "end": 276.99,
+      "text": "do",
+      "confidence": 0.945
+    },
+    {
+      "start": 276.99,
+      "end": 277.29,
+      "text": "governo",
+      "confidence": 0.996
+    },
+    {
+      "start": 277.29,
+      "end": 277.53,
+      "text": "de",
+      "confidence": 0.96
+    },
+    {
+      "start": 277.53,
+      "end": 277.83,
+      "text": "Xi",
+      "confidence": 0.245
+    },
+    {
+      "start": 277.83,
+      "end": 278.09,
+      "text": "Jinping",
+      "confidence": 0.996
+    },
+    {
+      "start": 278.09,
+      "end": 278.53,
+      "text": "de",
+      "confidence": 0.649
+    },
+    {
+      "start": 278.53,
+      "end": 278.93,
+      "text": "criar",
+      "confidence": 0.999
+    },
+    {
+      "start": 278.93,
+      "end": 279.15,
+      "text": "as",
+      "confidence": 0.988
+    },
+    {
+      "start": 279.15,
+      "end": 279.65,
+      "text": "chamadas",
+      "confidence": 0.996
+    },
+    {
+      "start": 279.65,
+      "end": 280.33,
+      "text": "novas",
+      "confidence": 0.887
+    },
+    {
+      "start": 280.33,
+      "end": 280.81,
+      "text": "forças",
+      "confidence": 0.995
+    },
+    {
+      "start": 280.81,
+      "end": 281.59,
+      "text": "produtivas",
+      "confidence": 0.815
+    },
+    {
+      "start": 281.59,
+      "end": 281.89,
+      "text": "com",
+      "confidence": 0.707
+    },
+    {
+      "start": 281.89,
+      "end": 282.45,
+      "text": "foco",
+      "confidence": 1.0
+    },
+    {
+      "start": 282.45,
+      "end": 282.59,
+      "text": "em",
+      "confidence": 0.996
+    },
+    {
+      "start": 282.59,
+      "end": 282.79,
+      "text": "áreas",
+      "confidence": 0.999
+    },
+    {
+      "start": 282.79,
+      "end": 283.21,
+      "text": "como",
+      "confidence": 0.99
+    },
+    {
+      "start": 283.21,
+      "end": 283.61,
+      "text": "IA,",
+      "confidence": 0.857
+    },
+    {
+      "start": 283.65,
+      "end": 284.67,
+      "text": "semicondutores",
+      "confidence": 0.516
+    },
+    {
+      "start": 284.67,
+      "end": 284.83,
+      "text": "e",
+      "confidence": 0.97
+    },
+    {
+      "start": 284.83,
+      "end": 285.47,
+      "text": "inovação",
+      "confidence": 0.999
+    },
+    {
+      "start": 285.47,
+      "end": 285.89,
+      "text": "industrial.",
+      "confidence": 0.976
+    },
+    {
+      "start": 285.89,
+      "end": 286.21,
+      "text": "A",
+      "confidence": 0.664
+    },
+    {
+      "start": 286.21,
+      "end": 286.53,
+      "text": "meta",
+      "confidence": 0.995
+    },
+    {
+      "start": 286.53,
+      "end": 286.67,
+      "text": "é",
+      "confidence": 0.999
+    },
+    {
+      "start": 286.67,
+      "end": 287.11,
+      "text": "reduzir",
+      "confidence": 0.998
+    },
+    {
+      "start": 287.11,
+      "end": 287.23,
+      "text": "a",
+      "confidence": 0.976
+    },
+    {
+      "start": 287.23,
+      "end": 287.73,
+      "text": "dependência",
+      "confidence": 0.999
+    },
+    {
+      "start": 287.73,
+      "end": 287.93,
+      "text": "de",
+      "confidence": 0.956
+    },
+    {
+      "start": 287.93,
+      "end": 288.57,
+      "text": "tecnologias",
+      "confidence": 0.999
+    },
+    {
+      "start": 288.57,
+      "end": 289.25,
+      "text": "estrangeiras,",
+      "confidence": 0.21
+    },
+    {
+      "start": 289.25,
+      "end": 290.09,
+      "text": "especialmente",
+      "confidence": 0.544
+    },
+    {
+      "start": 290.09,
+      "end": 290.79,
+      "text": "diante",
+      "confidence": 0.991
+    },
+    {
+      "start": 290.79,
+      "end": 291.01,
+      "text": "das",
+      "confidence": 0.986
+    },
+    {
+      "start": 291.01,
+      "end": 291.77,
+      "text": "restrições",
+      "confidence": 0.911
+    },
+    {
+      "start": 291.77,
+      "end": 291.91,
+      "text": "de",
+      "confidence": 0.847
+    },
+    {
+      "start": 291.91,
+      "end": 292.65,
+      "text": "exportação",
+      "confidence": 0.997
+    },
+    {
+      "start": 292.65,
+      "end": 293.53,
+      "text": "impostas",
+      "confidence": 0.88
+    },
+    {
+      "start": 293.53,
+      "end": 293.75,
+      "text": "pelos",
+      "confidence": 0.999
+    },
+    {
+      "start": 293.75,
+      "end": 294.11,
+      "text": "Estados",
+      "confidence": 0.972
+    },
+    {
+      "start": 294.11,
+      "end": 294.51,
+      "text": "Unidos",
+      "confidence": 1.0
+    },
+    {
+      "start": 294.51,
+      "end": 294.75,
+      "text": "e",
+      "confidence": 0.522
+    },
+    {
+      "start": 294.75,
+      "end": 295.07,
+      "text": "aumentar",
+      "confidence": 0.989
+    },
+    {
+      "start": 295.07,
+      "end": 295.55,
+      "text": "a",
+      "confidence": 0.992
+    },
+    {
+      "start": 295.55,
+      "end": 296.49,
+      "text": "autossuficiência",
+      "confidence": 0.997
+    },
+    {
+      "start": 296.49,
+      "end": 297.23,
+      "text": "tecnológica",
+      "confidence": 0.956
+    },
+    {
+      "start": 297.23,
+      "end": 297.37,
+      "text": "do",
+      "confidence": 0.914
+    },
+    {
+      "start": 297.37,
+      "end": 297.61,
+      "text": "país.",
+      "confidence": 0.956
+    },
+    {
+      "start": 297.61,
+      "end": 298.05,
+      "text": "Ao",
+      "confidence": 0.492
+    },
+    {
+      "start": 298.05,
+      "end": 298.37,
+      "text": "mesmo",
+      "confidence": 0.998
+    },
+    {
+      "start": 298.37,
+      "end": 298.71,
+      "text": "tempo,",
+      "confidence": 0.927
+    },
+    {
+      "start": 298.75,
+      "end": 299.03,
+      "text": "a",
+      "confidence": 0.988
+    },
+    {
+      "start": 299.03,
+      "end": 299.39,
+      "text": "voz",
+      "confidence": 0.651
+    },
+    {
+      "start": 299.39,
+      "end": 299.69,
+      "text": "da",
+      "confidence": 0.969
+    },
+    {
+      "start": 299.69,
+      "end": 300.17,
+      "text": "tecnologia",
+      "confidence": 0.998
+    },
+    {
+      "start": 300.17,
+      "end": 300.97,
+      "text": "surge",
+      "confidence": 0.947
+    },
+    {
+      "start": 300.97,
+      "end": 301.27,
+      "text": "em",
+      "confidence": 0.953
+    },
+    {
+      "start": 301.27,
+      "end": 301.45,
+      "text": "meio",
+      "confidence": 0.97
+    },
+    {
+      "start": 301.45,
+      "end": 301.59,
+      "text": "a",
+      "confidence": 0.983
+    },
+    {
+      "start": 301.59,
+      "end": 302.03,
+      "text": "desafios",
+      "confidence": 0.446
+    },
+    {
+      "start": 302.03,
+      "end": 302.63,
+      "text": "econômicos",
+      "confidence": 0.895
+    },
+    {
+      "start": 302.63,
+      "end": 303.45,
+      "text": "estruturais,",
+      "confidence": 0.685
+    },
+    {
+      "start": 303.45,
+      "end": 303.77,
+      "text": "como",
+      "confidence": 0.865
+    },
+    {
+      "start": 303.77,
+      "end": 303.87,
+      "text": "o",
+      "confidence": 0.907
+    },
+    {
+      "start": 303.87,
+      "end": 304.67,
+      "text": "envelhecimento",
+      "confidence": 0.983
+    },
+    {
+      "start": 304.67,
+      "end": 304.99,
+      "text": "da",
+      "confidence": 0.985
+    },
+    {
+      "start": 304.99,
+      "end": 305.63,
+      "text": "população,",
+      "confidence": 0.975
+    },
+    {
+      "start": 305.67,
+      "end": 305.89,
+      "text": "a",
+      "confidence": 0.726
+    },
+    {
+      "start": 305.89,
+      "end": 306.19,
+      "text": "crise",
+      "confidence": 1.0
+    },
+    {
+      "start": 306.19,
+      "end": 306.51,
+      "text": "do",
+      "confidence": 0.986
+    },
+    {
+      "start": 306.51,
+      "end": 306.89,
+      "text": "setor",
+      "confidence": 0.999
+    },
+    {
+      "start": 306.89,
+      "end": 307.47,
+      "text": "imobiliário",
+      "confidence": 1.0
+    },
+    {
+      "start": 307.47,
+      "end": 307.65,
+      "text": "e",
+      "confidence": 0.426
+    },
+    {
+      "start": 307.65,
+      "end": 307.81,
+      "text": "o",
+      "confidence": 0.999
+    },
+    {
+      "start": 307.81,
+      "end": 308.29,
+      "text": "crescimento",
+      "confidence": 0.999
+    },
+    {
+      "start": 308.29,
+      "end": 308.63,
+      "text": "mais",
+      "confidence": 0.997
+    },
+    {
+      "start": 308.63,
+      "end": 309.07,
+      "text": "lento",
+      "confidence": 0.902
+    },
+    {
+      "start": 309.07,
+      "end": 309.25,
+      "text": "do",
+      "confidence": 0.941
+    },
+    {
+      "start": 309.25,
+      "end": 309.37,
+      "text": "país.",
+      "confidence": 0.079
+    },
+    {
+      "start": 709.68,
+      "end": 710.92,
+      "text": "Obrigado.",
+      "confidence": 0.411
+    }
+  ]
+}

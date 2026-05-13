@@ -1,0 +1,912 @@
+{
+  "source_file": "New_Recording_34_part003_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.0,
+  "segments": {
+    "00:00:55,00:00:57": "O que é isso?",
+    "00:01:56,00:01:56": "Vamos lá.",
+    "00:02:27,00:02:28": "Vamos lá.",
+    "00:04:59,00:04:59": "Obrigado.",
+    "00:05:29,00:05:31": "Obrigado.",
+    "00:06:56,00:06:57": "Vamos lá.",
+    "00:07:57,00:07:59": "Boa noite.",
+    "00:08:56,00:08:56": "Vamos lá.",
+    "00:09:26,00:09:27": "Vamos lá.",
+    "00:09:56,00:09:57": "O que é isso?",
+    "00:10:27,00:10:29": "O que é isso?",
+    "00:11:27,00:11:29": "Vamos lá.",
+    "00:11:56,00:11:59": "Vamos lá.",
+    "00:11:59,00:12:01": "Obrigado.",
+    "00:12:29,00:12:29": "Obrigado.",
+    "00:13:56,00:13:58": "Vamos lá.",
+    "00:13:59,00:14:01": "Obrigado.",
+    "00:14:29,00:14:30": "Obrigado.",
+    "00:15:25,00:15:26": "Vamos lá.",
+    "00:15:29,00:15:30": "Obrigado.",
+    "00:16:25,00:16:26": "Boa noite.",
+    "00:16:55,00:16:59": "Vamos lá.",
+    "00:17:27,00:17:28": "O que é isso?",
+    "00:17:59,00:17:59": "Vamos lá.",
+    "00:18:27,00:18:29": "Vamos lá.",
+    "00:18:29,00:18:29": "Obrigado.",
+    "00:19:55,00:19:57": "Vamos lá.",
+    "00:20:59,00:20:59": "Boa noite.",
+    "00:21:28,00:21:28": "Vamos lá.",
+    "00:21:56,00:21:59": "Vamos lá.",
+    "00:21:59,00:22:00": "Obrigado.",
+    "00:22:59,00:22:59": "Boa noite.",
+    "00:22:59,00:23:01": "Obrigado.",
+    "00:23:57,00:23:58": "Vamos lá.",
+    "00:24:27,00:24:28": "Vamos lá.",
+    "00:24:32,00:24:32": "Obrigado.",
+    "00:25:29,00:25:29": "O que é isso?",
+    "00:26:59,00:26:59": "O que é isso?",
+    "00:27:59,00:27:59": "Vamos lá.",
+    "00:28:26,00:28:29": "Vamos lá.",
+    "00:34:59,00:35:00": "Obrigado.",
+    "00:35:29,00:35:30": "Obrigado.",
+    "00:36:29,00:36:29": "Vamos lá.",
+    "00:36:59,00:36:59": "Vamos lá.",
+    "00:38:59,00:38:59": "E aí",
+    "00:39:59,00:39:59": "O que é isso?",
+    "00:40:28,00:40:29": "E aí",
+    "00:40:59,00:40:59": "Vamos lá.",
+    "00:41:29,00:41:29": "Boa noite.",
+    "00:41:59,00:41:59": "Vamos lá.",
+    "00:42:26,00:42:28": "Vamos lá.",
+    "00:43:26,00:43:29": "O que é isso?",
+    "00:43:58,00:43:58": "Vamos lá.",
+    "00:43:59,00:44:00": "Obrigado.",
+    "00:44:58,00:44:59": "Vamos lá.",
+    "00:46:58,00:46:58": "Vamos lá.",
+    "00:48:57,00:48:58": "Boa noite.",
+    "00:49:28,00:49:29": "Vamos lá.",
+    "00:50:27,00:50:29": "Vamos lá.",
+    "00:52:29,00:52:29": "O que é isso?",
+    "00:53:26,00:53:29": "Vamos lá.",
+    "00:53:55,00:53:59": "Vamos lá.",
+    "00:56:29,00:56:30": "Obrigado.",
+    "00:57:27,00:57:29": "Vamos lá.",
+    "00:58:26,00:58:28": "Vamos lá.",
+    "00:59:26,00:59:29": "E aí",
+    "00:59:54,00:59:56": "O que é isso?"
+  },
+  "hallucinations_filtered": 29,
+  "words": [
+    {
+      "start": 55.98,
+      "end": 56.78,
+      "text": "O",
+      "confidence": 0.052
+    },
+    {
+      "start": 56.78,
+      "end": 57.16,
+      "text": "que",
+      "confidence": 0.348
+    },
+    {
+      "start": 57.16,
+      "end": 57.44,
+      "text": "é",
+      "confidence": 0.652
+    },
+    {
+      "start": 57.44,
+      "end": 57.62,
+      "text": "isso?",
+      "confidence": 0.822
+    },
+    {
+      "start": 116.9,
+      "end": 116.94,
+      "text": "Vamos",
+      "confidence": 0.053
+    },
+    {
+      "start": 116.94,
+      "end": 116.96,
+      "text": "lá.",
+      "confidence": 0.887
+    },
+    {
+      "start": 147.7,
+      "end": 148.6,
+      "text": "Vamos",
+      "confidence": 0.038
+    },
+    {
+      "start": 148.6,
+      "end": 148.94,
+      "text": "lá.",
+      "confidence": 0.88
+    },
+    {
+      "start": 299.5,
+      "end": 299.9,
+      "text": "Obrigado.",
+      "confidence": 0.576
+    },
+    {
+      "start": 329.5,
+      "end": 331.48,
+      "text": "Obrigado.",
+      "confidence": 0.644
+    },
+    {
+      "start": 416.2,
+      "end": 416.28,
+      "text": "Vamos",
+      "confidence": 0.045
+    },
+    {
+      "start": 416.28,
+      "end": 417.04,
+      "text": "lá.",
+      "confidence": 0.867
+    },
+    {
+      "start": 477.44,
+      "end": 479.48,
+      "text": "Boa",
+      "confidence": 0.121
+    },
+    {
+      "start": 479.48,
+      "end": 479.5,
+      "text": "noite.",
+      "confidence": 0.878
+    },
+    {
+      "start": 536.48,
+      "end": 536.5,
+      "text": "Vamos",
+      "confidence": 0.055
+    },
+    {
+      "start": 536.5,
+      "end": 536.52,
+      "text": "lá.",
+      "confidence": 0.871
+    },
+    {
+      "start": 566.38,
+      "end": 566.86,
+      "text": "Vamos",
+      "confidence": 0.05
+    },
+    {
+      "start": 566.86,
+      "end": 567.28,
+      "text": "lá.",
+      "confidence": 0.88
+    },
+    {
+      "start": 596.3,
+      "end": 596.96,
+      "text": "O",
+      "confidence": 0.036
+    },
+    {
+      "start": 596.96,
+      "end": 597.14,
+      "text": "que",
+      "confidence": 0.487
+    },
+    {
+      "start": 597.14,
+      "end": 597.38,
+      "text": "é",
+      "confidence": 0.515
+    },
+    {
+      "start": 597.38,
+      "end": 597.58,
+      "text": "isso?",
+      "confidence": 0.79
+    },
+    {
+      "start": 627.46,
+      "end": 629.48,
+      "text": "O",
+      "confidence": 0.037
+    },
+    {
+      "start": 629.48,
+      "end": 629.5,
+      "text": "que",
+      "confidence": 0.427
+    },
+    {
+      "start": 629.5,
+      "end": 629.52,
+      "text": "é",
+      "confidence": 0.562
+    },
+    {
+      "start": 629.52,
+      "end": 629.54,
+      "text": "isso?",
+      "confidence": 0.762
+    },
+    {
+      "start": 687.5,
+      "end": 689.48,
+      "text": "Vamos",
+      "confidence": 0.054
+    },
+    {
+      "start": 689.48,
+      "end": 689.5,
+      "text": "lá.",
+      "confidence": 0.85
+    },
+    {
+      "start": 716.78,
+      "end": 718.84,
+      "text": "Vamos",
+      "confidence": 0.103
+    },
+    {
+      "start": 718.84,
+      "end": 719.12,
+      "text": "lá.",
+      "confidence": 0.779
+    },
+    {
+      "start": 719.5,
+      "end": 721.8,
+      "text": "Obrigado.",
+      "confidence": 0.599
+    },
+    {
+      "start": 749.5,
+      "end": 749.86,
+      "text": "Obrigado.",
+      "confidence": 0.635
+    },
+    {
+      "start": 836.98,
+      "end": 838.24,
+      "text": "Vamos",
+      "confidence": 0.047
+    },
+    {
+      "start": 838.24,
+      "end": 838.74,
+      "text": "lá.",
+      "confidence": 0.903
+    },
+    {
+      "start": 839.5,
+      "end": 841.58,
+      "text": "Obrigado.",
+      "confidence": 0.702
+    },
+    {
+      "start": 869.5,
+      "end": 870.98,
+      "text": "Obrigado.",
+      "confidence": 0.634
+    },
+    {
+      "start": 925.36,
+      "end": 926.38,
+      "text": "Vamos",
+      "confidence": 0.048
+    },
+    {
+      "start": 926.38,
+      "end": 926.4,
+      "text": "lá.",
+      "confidence": 0.889
+    },
+    {
+      "start": 929.5,
+      "end": 930.02,
+      "text": "Obrigado.",
+      "confidence": 0.56
+    },
+    {
+      "start": 985.7,
+      "end": 985.88,
+      "text": "Boa",
+      "confidence": 0.163
+    },
+    {
+      "start": 985.88,
+      "end": 986.06,
+      "text": "noite.",
+      "confidence": 0.933
+    },
+    {
+      "start": 1015.3,
+      "end": 1017.56,
+      "text": "Vamos",
+      "confidence": 0.047
+    },
+    {
+      "start": 1017.56,
+      "end": 1019.38,
+      "text": "lá.",
+      "confidence": 0.878
+    },
+    {
+      "start": 1047.38,
+      "end": 1047.4,
+      "text": "O",
+      "confidence": 0.033
+    },
+    {
+      "start": 1047.4,
+      "end": 1047.48,
+      "text": "que",
+      "confidence": 0.425
+    },
+    {
+      "start": 1047.48,
+      "end": 1047.64,
+      "text": "é",
+      "confidence": 0.607
+    },
+    {
+      "start": 1047.64,
+      "end": 1048.12,
+      "text": "isso?",
+      "confidence": 0.859
+    },
+    {
+      "start": 1079.48,
+      "end": 1079.5,
+      "text": "Vamos",
+      "confidence": 0.073
+    },
+    {
+      "start": 1079.5,
+      "end": 1079.52,
+      "text": "lá.",
+      "confidence": 0.859
+    },
+    {
+      "start": 1107.46,
+      "end": 1107.72,
+      "text": "Vamos",
+      "confidence": 0.045
+    },
+    {
+      "start": 1107.72,
+      "end": 1109.02,
+      "text": "lá.",
+      "confidence": 0.866
+    },
+    {
+      "start": 1109.5,
+      "end": 1109.8,
+      "text": "Obrigado.",
+      "confidence": 0.551
+    },
+    {
+      "start": 1195.92,
+      "end": 1197.56,
+      "text": "Vamos",
+      "confidence": 0.04
+    },
+    {
+      "start": 1197.56,
+      "end": 1197.72,
+      "text": "lá.",
+      "confidence": 0.858
+    },
+    {
+      "start": 1259.48,
+      "end": 1259.5,
+      "text": "Boa",
+      "confidence": 0.162
+    },
+    {
+      "start": 1259.5,
+      "end": 1259.52,
+      "text": "noite.",
+      "confidence": 0.915
+    },
+    {
+      "start": 1288.68,
+      "end": 1288.74,
+      "text": "Vamos",
+      "confidence": 0.121
+    },
+    {
+      "start": 1288.74,
+      "end": 1288.84,
+      "text": "lá.",
+      "confidence": 0.849
+    },
+    {
+      "start": 1316.58,
+      "end": 1316.6,
+      "text": "Vamos",
+      "confidence": 0.045
+    },
+    {
+      "start": 1316.6,
+      "end": 1319.14,
+      "text": "lá.",
+      "confidence": 0.857
+    },
+    {
+      "start": 1319.5,
+      "end": 1320.1,
+      "text": "Obrigado.",
+      "confidence": 0.641
+    },
+    {
+      "start": 1379.48,
+      "end": 1379.5,
+      "text": "Boa",
+      "confidence": 0.118
+    },
+    {
+      "start": 1379.5,
+      "end": 1379.52,
+      "text": "noite.",
+      "confidence": 0.927
+    },
+    {
+      "start": 1379.52,
+      "end": 1381.44,
+      "text": "Obrigado.",
+      "confidence": 0.511
+    },
+    {
+      "start": 1437.16,
+      "end": 1437.38,
+      "text": "Vamos",
+      "confidence": 0.037
+    },
+    {
+      "start": 1437.38,
+      "end": 1438.8,
+      "text": "lá.",
+      "confidence": 0.887
+    },
+    {
+      "start": 1467.74,
+      "end": 1468.52,
+      "text": "Vamos",
+      "confidence": 0.045
+    },
+    {
+      "start": 1468.52,
+      "end": 1468.58,
+      "text": "lá.",
+      "confidence": 0.885
+    },
+    {
+      "start": 1472.48,
+      "end": 1472.5,
+      "text": "Obrigado.",
+      "confidence": 0.411
+    },
+    {
+      "start": 1529.48,
+      "end": 1529.5,
+      "text": "O",
+      "confidence": 0.026
+    },
+    {
+      "start": 1529.5,
+      "end": 1529.52,
+      "text": "que",
+      "confidence": 0.393
+    },
+    {
+      "start": 1529.52,
+      "end": 1529.54,
+      "text": "é",
+      "confidence": 0.572
+    },
+    {
+      "start": 1529.54,
+      "end": 1529.56,
+      "text": "isso?",
+      "confidence": 0.792
+    },
+    {
+      "start": 1619.08,
+      "end": 1619.34,
+      "text": "O",
+      "confidence": 0.053
+    },
+    {
+      "start": 1619.34,
+      "end": 1619.48,
+      "text": "que",
+      "confidence": 0.321
+    },
+    {
+      "start": 1619.48,
+      "end": 1619.5,
+      "text": "é",
+      "confidence": 0.58
+    },
+    {
+      "start": 1619.5,
+      "end": 1619.52,
+      "text": "isso?",
+      "confidence": 0.803
+    },
+    {
+      "start": 1679.48,
+      "end": 1679.5,
+      "text": "Vamos",
+      "confidence": 0.057
+    },
+    {
+      "start": 1679.5,
+      "end": 1679.52,
+      "text": "lá.",
+      "confidence": 0.741
+    },
+    {
+      "start": 1706.04,
+      "end": 1708.8,
+      "text": "Vamos",
+      "confidence": 0.05
+    },
+    {
+      "start": 1708.8,
+      "end": 1709.32,
+      "text": "lá.",
+      "confidence": 0.881
+    },
+    {
+      "start": 2099.5,
+      "end": 2100.0,
+      "text": "Obrigado.",
+      "confidence": 0.721
+    },
+    {
+      "start": 2129.5,
+      "end": 2130.52,
+      "text": "Obrigado.",
+      "confidence": 0.708
+    },
+    {
+      "start": 2189.48,
+      "end": 2189.5,
+      "text": "Vamos",
+      "confidence": 0.048
+    },
+    {
+      "start": 2189.5,
+      "end": 2189.52,
+      "text": "lá.",
+      "confidence": 0.87
+    },
+    {
+      "start": 2219.48,
+      "end": 2219.5,
+      "text": "Vamos",
+      "confidence": 0.061
+    },
+    {
+      "start": 2219.5,
+      "end": 2219.52,
+      "text": "lá.",
+      "confidence": 0.873
+    },
+    {
+      "start": 2339.44,
+      "end": 2339.48,
+      "text": "E",
+      "confidence": 0.167
+    },
+    {
+      "start": 2339.48,
+      "end": 2339.5,
+      "text": "aí",
+      "confidence": 0.894
+    },
+    {
+      "start": 2399.26,
+      "end": 2399.48,
+      "text": "O",
+      "confidence": 0.033
+    },
+    {
+      "start": 2399.48,
+      "end": 2399.5,
+      "text": "que",
+      "confidence": 0.416
+    },
+    {
+      "start": 2399.5,
+      "end": 2399.52,
+      "text": "é",
+      "confidence": 0.584
+    },
+    {
+      "start": 2399.52,
+      "end": 2399.54,
+      "text": "isso?",
+      "confidence": 0.861
+    },
+    {
+      "start": 2428.74,
+      "end": 2429.48,
+      "text": "E",
+      "confidence": 0.238
+    },
+    {
+      "start": 2429.48,
+      "end": 2429.5,
+      "text": "aí",
+      "confidence": 0.9
+    },
+    {
+      "start": 2459.48,
+      "end": 2459.5,
+      "text": "Vamos",
+      "confidence": 0.045
+    },
+    {
+      "start": 2459.5,
+      "end": 2459.52,
+      "text": "lá.",
+      "confidence": 0.84
+    },
+    {
+      "start": 2489.48,
+      "end": 2489.5,
+      "text": "Boa",
+      "confidence": 0.164
+    },
+    {
+      "start": 2489.5,
+      "end": 2489.52,
+      "text": "noite.",
+      "confidence": 0.916
+    },
+    {
+      "start": 2519.0,
+      "end": 2519.14,
+      "text": "Vamos",
+      "confidence": 0.048
+    },
+    {
+      "start": 2519.14,
+      "end": 2519.48,
+      "text": "lá.",
+      "confidence": 0.869
+    },
+    {
+      "start": 2546.4,
+      "end": 2548.02,
+      "text": "Vamos",
+      "confidence": 0.037
+    },
+    {
+      "start": 2548.02,
+      "end": 2548.18,
+      "text": "lá.",
+      "confidence": 0.876
+    },
+    {
+      "start": 2606.84,
+      "end": 2609.48,
+      "text": "O",
+      "confidence": 0.039
+    },
+    {
+      "start": 2609.48,
+      "end": 2609.5,
+      "text": "que",
+      "confidence": 0.472
+    },
+    {
+      "start": 2609.5,
+      "end": 2609.52,
+      "text": "é",
+      "confidence": 0.561
+    },
+    {
+      "start": 2609.52,
+      "end": 2609.54,
+      "text": "isso?",
+      "confidence": 0.778
+    },
+    {
+      "start": 2638.18,
+      "end": 2638.26,
+      "text": "Vamos",
+      "confidence": 0.056
+    },
+    {
+      "start": 2638.26,
+      "end": 2638.48,
+      "text": "lá.",
+      "confidence": 0.868
+    },
+    {
+      "start": 2639.5,
+      "end": 2640.38,
+      "text": "Obrigado.",
+      "confidence": 0.625
+    },
+    {
+      "start": 2698.88,
+      "end": 2699.26,
+      "text": "Vamos",
+      "confidence": 0.074
+    },
+    {
+      "start": 2699.26,
+      "end": 2699.48,
+      "text": "lá.",
+      "confidence": 0.851
+    },
+    {
+      "start": 2818.78,
+      "end": 2818.82,
+      "text": "Vamos",
+      "confidence": 0.094
+    },
+    {
+      "start": 2818.82,
+      "end": 2818.84,
+      "text": "lá.",
+      "confidence": 0.859
+    },
+    {
+      "start": 2937.3,
+      "end": 2937.88,
+      "text": "Boa",
+      "confidence": 0.152
+    },
+    {
+      "start": 2937.88,
+      "end": 2938.16,
+      "text": "noite.",
+      "confidence": 0.917
+    },
+    {
+      "start": 2968.08,
+      "end": 2968.1,
+      "text": "Vamos",
+      "confidence": 0.054
+    },
+    {
+      "start": 2968.1,
+      "end": 2969.4,
+      "text": "lá.",
+      "confidence": 0.88
+    },
+    {
+      "start": 3027.04,
+      "end": 3029.16,
+      "text": "Vamos",
+      "confidence": 0.052
+    },
+    {
+      "start": 3029.16,
+      "end": 3029.48,
+      "text": "lá.",
+      "confidence": 0.877
+    },
+    {
+      "start": 3149.48,
+      "end": 3149.5,
+      "text": "O",
+      "confidence": 0.034
+    },
+    {
+      "start": 3149.5,
+      "end": 3149.52,
+      "text": "que",
+      "confidence": 0.497
+    },
+    {
+      "start": 3149.52,
+      "end": 3149.54,
+      "text": "é",
+      "confidence": 0.503
+    },
+    {
+      "start": 3149.54,
+      "end": 3149.56,
+      "text": "isso?",
+      "confidence": 0.771
+    },
+    {
+      "start": 3206.76,
+      "end": 3209.48,
+      "text": "Vamos",
+      "confidence": 0.046
+    },
+    {
+      "start": 3209.48,
+      "end": 3209.5,
+      "text": "lá.",
+      "confidence": 0.875
+    },
+    {
+      "start": 3235.76,
+      "end": 3239.48,
+      "text": "Vamos",
+      "confidence": 0.069
+    },
+    {
+      "start": 3239.48,
+      "end": 3239.5,
+      "text": "lá.",
+      "confidence": 0.823
+    },
+    {
+      "start": 3389.54,
+      "end": 3390.98,
+      "text": "Obrigado.",
+      "confidence": 0.58
+    },
+    {
+      "start": 3447.24,
+      "end": 3448.48,
+      "text": "Vamos",
+      "confidence": 0.048
+    },
+    {
+      "start": 3448.48,
+      "end": 3449.34,
+      "text": "lá.",
+      "confidence": 0.864
+    },
+    {
+      "start": 3506.56,
+      "end": 3508.48,
+      "text": "Vamos",
+      "confidence": 0.049
+    },
+    {
+      "start": 3508.48,
+      "end": 3508.56,
+      "text": "lá.",
+      "confidence": 0.894
+    },
+    {
+      "start": 3566.08,
+      "end": 3568.56,
+      "text": "E",
+      "confidence": 0.162
+    },
+    {
+      "start": 3568.56,
+      "end": 3569.48,
+      "text": "aí",
+      "confidence": 0.939
+    },
+    {
+      "start": 3594.22,
+      "end": 3595.82,
+      "text": "O",
+      "confidence": 0.032
+    },
+    {
+      "start": 3595.82,
+      "end": 3595.94,
+      "text": "que",
+      "confidence": 0.404
+    },
+    {
+      "start": 3595.94,
+      "end": 3596.06,
+      "text": "é",
+      "confidence": 0.43
+    },
+    {
+      "start": 3596.06,
+      "end": 3596.18,
+      "text": "isso?",
+      "confidence": 0.659
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "source_file": "New_Recording_32_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1936.0,
+  "segments": {
+    "00:07:48,00:07:52": "Vem tirar a roupa. Vem tirar a roupa da mãe."
+  },
+  "hallucinations_filtered": 2,
+  "words": [
+    {
+      "start": 468.65,
+      "end": 469.01,
+      "text": "Vem",
+      "confidence": 0.083
+    },
+    {
+      "start": 469.01,
+      "end": 469.17,
+      "text": "tirar",
+      "confidence": 0.005
+    },
+    {
+      "start": 469.17,
+      "end": 469.27,
+      "text": "a",
+      "confidence": 0.432
+    },
+    {
+      "start": 469.27,
+      "end": 469.49,
+      "text": "roupa.",
+      "confidence": 0.72
+    },
+    {
+      "start": 469.57,
+      "end": 470.0,
+      "text": "Vem",
+      "confidence": 0.496
+    },
+    {
+      "start": 471.15,
+      "end": 471.39,
+      "text": "tirar",
+      "confidence": 0.99
+    },
+    {
+      "start": 471.39,
+      "end": 471.51,
+      "text": "a",
+      "confidence": 0.991
+    },
+    {
+      "start": 471.51,
+      "end": 471.77,
+      "text": "roupa",
+      "confidence": 0.999
+    },
+    {
+      "start": 471.77,
+      "end": 471.87,
+      "text": "da",
+      "confidence": 0.026
+    },
+    {
+      "start": 471.87,
+      "end": 472.05,
+      "text": "mãe.",
+      "confidence": 0.824
+    }
+  ]
+}

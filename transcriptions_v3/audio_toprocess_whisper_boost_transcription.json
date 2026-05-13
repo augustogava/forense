@@ -1,0 +1,1687 @@
+{
+  "source_file": "audio_toprocess_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 4769.5,
+  "segments": {
+    "00:00:23,00:00:30": "Nós temos vários níveis de parada, para processos somente, para processos de geração,",
+    "00:00:30,00:00:32": "e posso fazer a parada do portal",
+    "00:00:44,00:00:46": "Olha, a gente ia ter que controlar",
+    "00:00:47,00:00:50": "É melhor não fazer isso, a autoridade",
+    "00:00:52,00:00:54": "Galera, é isso aí. Espero que vocês tenham gostado.",
+    "00:00:58,00:01:00": "A gente viu toda a produção",
+    "00:01:00,00:01:04": "de petróleo, toda essa fábrica que é a plataforma, mas a gente está praticamente",
+    "00:01:10,00:01:14": "esse negócio de movimentar por 24 horas, não sei se dá um ciclo de 14 dias dentro",
+    "00:01:15,00:01:19": "E aí as pessoas comem, as pessoas dormem, as pessoas fazem o que a gente conseguir.",
+    "00:01:55,00:01:59": "Isso quer dizer que se pegar fogo lá fora, a fumaça não consegue entrar.",
+    "00:02:01,00:02:04": "Mas tem uma área mais especializada ainda, que é a das escadas.",
+    "00:02:04,00:02:08": "Se o próprio casarinho pegar fogo, vai entrar a fumaça na região das escadas,",
+    "00:02:10,00:02:13": "Aliás, essa porta é mais perigosa do que a outra.",
+    "00:02:50,00:02:56": "Escarga! Escarga! Escarga! Escarga!",
+    "00:03:07,00:03:11": "Mas também ao ponto de encontro, se acontecer alguma emergência, só que também tem uma",
+    "00:03:24,00:03:29": "Então, a galera precisa dar uma relaxada no chão, uma coisa que eu sempre falo, uma",
+    "00:03:56,00:04:02": "Aqui diz no vestiário, se a pessoa chegar muito suja, de óleo, não se troca, ele segura",
+    "00:05:01,00:05:01": "Chega aí.",
+    "00:05:01,00:05:04": "Onde é que vem a energia para tudo isso?",
+    "00:05:04,00:05:08": "Tem uma extensão que sai lá do Rio de Janeiro, que bate no mar e chega até...",
+    "00:05:08,00:05:13": "A gente tem quatro termoelétricas aqui de 25 megawatts cada uma.",
+    "00:05:13,00:05:16": "Elas são alimentadas com gás natural e com óleo diesel.",
+    "00:05:16,00:05:21": "Elas estão aqui do meu lado e seriam suficientes para alimentar mais ou menos 10 vezes a cidade em piedade.",
+    "00:05:53,00:05:54": "Tchau, mamãe.",
+    "00:06:17,00:06:18": "Tchau, meu amor!",
+    "00:55:40,00:55:40": "Lá em cima."
+  },
+  "hallucinations_filtered": 74,
+  "words": [
+    {
+      "start": 23.38,
+      "end": 23.4,
+      "text": "Nós",
+      "confidence": 0.135
+    },
+    {
+      "start": 23.4,
+      "end": 23.62,
+      "text": "temos",
+      "confidence": 0.985
+    },
+    {
+      "start": 23.62,
+      "end": 23.9,
+      "text": "vários",
+      "confidence": 0.546
+    },
+    {
+      "start": 23.9,
+      "end": 26.18,
+      "text": "níveis",
+      "confidence": 0.98
+    },
+    {
+      "start": 26.18,
+      "end": 26.42,
+      "text": "de",
+      "confidence": 0.976
+    },
+    {
+      "start": 26.42,
+      "end": 26.86,
+      "text": "parada,",
+      "confidence": 0.505
+    },
+    {
+      "start": 27.0,
+      "end": 27.76,
+      "text": "para",
+      "confidence": 0.097
+    },
+    {
+      "start": 27.76,
+      "end": 28.68,
+      "text": "processos",
+      "confidence": 0.636
+    },
+    {
+      "start": 28.68,
+      "end": 29.02,
+      "text": "somente,",
+      "confidence": 0.905
+    },
+    {
+      "start": 29.06,
+      "end": 29.44,
+      "text": "para",
+      "confidence": 0.865
+    },
+    {
+      "start": 29.44,
+      "end": 30.14,
+      "text": "processos",
+      "confidence": 0.924
+    },
+    {
+      "start": 30.14,
+      "end": 30.22,
+      "text": "de",
+      "confidence": 0.45
+    },
+    {
+      "start": 30.22,
+      "end": 30.76,
+      "text": "geração,",
+      "confidence": 0.848
+    },
+    {
+      "start": 30.76,
+      "end": 31.34,
+      "text": "e",
+      "confidence": 0.604
+    },
+    {
+      "start": 31.34,
+      "end": 31.64,
+      "text": "posso",
+      "confidence": 0.96
+    },
+    {
+      "start": 31.64,
+      "end": 31.88,
+      "text": "fazer",
+      "confidence": 0.996
+    },
+    {
+      "start": 31.88,
+      "end": 32.0,
+      "text": "a",
+      "confidence": 0.966
+    },
+    {
+      "start": 32.0,
+      "end": 32.32,
+      "text": "parada",
+      "confidence": 0.993
+    },
+    {
+      "start": 32.32,
+      "end": 32.42,
+      "text": "do",
+      "confidence": 0.164
+    },
+    {
+      "start": 32.42,
+      "end": 32.72,
+      "text": "portal",
+      "confidence": 0.915
+    },
+    {
+      "start": 44.7,
+      "end": 45.18,
+      "text": "Olha,",
+      "confidence": 0.81
+    },
+    {
+      "start": 45.38,
+      "end": 45.48,
+      "text": "a",
+      "confidence": 0.991
+    },
+    {
+      "start": 45.48,
+      "end": 45.64,
+      "text": "gente",
+      "confidence": 1.0
+    },
+    {
+      "start": 45.64,
+      "end": 45.8,
+      "text": "ia",
+      "confidence": 0.622
+    },
+    {
+      "start": 45.8,
+      "end": 45.9,
+      "text": "ter",
+      "confidence": 0.999
+    },
+    {
+      "start": 45.9,
+      "end": 46.1,
+      "text": "que",
+      "confidence": 0.996
+    },
+    {
+      "start": 46.1,
+      "end": 46.46,
+      "text": "controlar",
+      "confidence": 0.983
+    },
+    {
+      "start": 47.82,
+      "end": 48.3,
+      "text": "É",
+      "confidence": 0.571
+    },
+    {
+      "start": 48.3,
+      "end": 48.68,
+      "text": "melhor",
+      "confidence": 0.944
+    },
+    {
+      "start": 48.68,
+      "end": 48.9,
+      "text": "não",
+      "confidence": 0.632
+    },
+    {
+      "start": 48.9,
+      "end": 49.6,
+      "text": "fazer",
+      "confidence": 0.991
+    },
+    {
+      "start": 49.6,
+      "end": 50.02,
+      "text": "isso,",
+      "confidence": 0.556
+    },
+    {
+      "start": 50.06,
+      "end": 50.24,
+      "text": "a",
+      "confidence": 0.329
+    },
+    {
+      "start": 50.24,
+      "end": 50.64,
+      "text": "autoridade",
+      "confidence": 0.998
+    },
+    {
+      "start": 52.38,
+      "end": 53.2,
+      "text": "Galera,",
+      "confidence": 0.784
+    },
+    {
+      "start": 53.2,
+      "end": 53.3,
+      "text": "é",
+      "confidence": 0.989
+    },
+    {
+      "start": 53.3,
+      "end": 53.42,
+      "text": "isso",
+      "confidence": 0.999
+    },
+    {
+      "start": 53.42,
+      "end": 53.58,
+      "text": "aí.",
+      "confidence": 0.427
+    },
+    {
+      "start": 53.68,
+      "end": 53.84,
+      "text": "Espero",
+      "confidence": 0.839
+    },
+    {
+      "start": 53.84,
+      "end": 53.96,
+      "text": "que",
+      "confidence": 0.992
+    },
+    {
+      "start": 53.96,
+      "end": 54.08,
+      "text": "vocês",
+      "confidence": 0.994
+    },
+    {
+      "start": 54.08,
+      "end": 54.32,
+      "text": "tenham",
+      "confidence": 0.999
+    },
+    {
+      "start": 54.32,
+      "end": 54.72,
+      "text": "gostado.",
+      "confidence": 0.796
+    },
+    {
+      "start": 58.73,
+      "end": 59.19,
+      "text": "A",
+      "confidence": 0.365
+    },
+    {
+      "start": 59.19,
+      "end": 59.39,
+      "text": "gente",
+      "confidence": 0.967
+    },
+    {
+      "start": 59.39,
+      "end": 59.61,
+      "text": "viu",
+      "confidence": 0.85
+    },
+    {
+      "start": 59.61,
+      "end": 59.87,
+      "text": "toda",
+      "confidence": 0.993
+    },
+    {
+      "start": 59.87,
+      "end": 59.97,
+      "text": "a",
+      "confidence": 0.989
+    },
+    {
+      "start": 59.97,
+      "end": 60.33,
+      "text": "produção",
+      "confidence": 0.016
+    },
+    {
+      "start": 60.33,
+      "end": 60.55,
+      "text": "de",
+      "confidence": 0.035
+    },
+    {
+      "start": 60.55,
+      "end": 61.07,
+      "text": "petróleo,",
+      "confidence": 0.837
+    },
+    {
+      "start": 61.15,
+      "end": 61.29,
+      "text": "toda",
+      "confidence": 0.94
+    },
+    {
+      "start": 61.29,
+      "end": 61.47,
+      "text": "essa",
+      "confidence": 0.997
+    },
+    {
+      "start": 61.47,
+      "end": 62.15,
+      "text": "fábrica",
+      "confidence": 0.971
+    },
+    {
+      "start": 62.15,
+      "end": 62.29,
+      "text": "que",
+      "confidence": 0.243
+    },
+    {
+      "start": 62.29,
+      "end": 62.37,
+      "text": "é",
+      "confidence": 0.562
+    },
+    {
+      "start": 62.37,
+      "end": 62.45,
+      "text": "a",
+      "confidence": 0.396
+    },
+    {
+      "start": 62.45,
+      "end": 62.67,
+      "text": "plataforma,",
+      "confidence": 0.896
+    },
+    {
+      "start": 62.91,
+      "end": 63.21,
+      "text": "mas",
+      "confidence": 0.774
+    },
+    {
+      "start": 63.21,
+      "end": 63.73,
+      "text": "a",
+      "confidence": 0.937
+    },
+    {
+      "start": 63.73,
+      "end": 64.07,
+      "text": "gente",
+      "confidence": 0.998
+    },
+    {
+      "start": 64.07,
+      "end": 64.21,
+      "text": "está",
+      "confidence": 0.931
+    },
+    {
+      "start": 64.21,
+      "end": 64.49,
+      "text": "praticamente",
+      "confidence": 0.972
+    },
+    {
+      "start": 70.57,
+      "end": 70.69,
+      "text": "esse",
+      "confidence": 0.024
+    },
+    {
+      "start": 70.69,
+      "end": 70.97,
+      "text": "negócio",
+      "confidence": 0.947
+    },
+    {
+      "start": 70.97,
+      "end": 71.13,
+      "text": "de",
+      "confidence": 0.705
+    },
+    {
+      "start": 71.13,
+      "end": 71.45,
+      "text": "movimentar",
+      "confidence": 0.251
+    },
+    {
+      "start": 71.45,
+      "end": 71.61,
+      "text": "por",
+      "confidence": 0.891
+    },
+    {
+      "start": 71.61,
+      "end": 71.89,
+      "text": "24",
+      "confidence": 0.959
+    },
+    {
+      "start": 71.89,
+      "end": 72.47,
+      "text": "horas,",
+      "confidence": 0.5
+    },
+    {
+      "start": 72.51,
+      "end": 72.69,
+      "text": "não",
+      "confidence": 0.062
+    },
+    {
+      "start": 72.69,
+      "end": 72.79,
+      "text": "sei",
+      "confidence": 0.395
+    },
+    {
+      "start": 72.79,
+      "end": 72.89,
+      "text": "se",
+      "confidence": 0.755
+    },
+    {
+      "start": 72.89,
+      "end": 72.91,
+      "text": "dá",
+      "confidence": 0.234
+    },
+    {
+      "start": 72.91,
+      "end": 73.01,
+      "text": "um",
+      "confidence": 0.175
+    },
+    {
+      "start": 73.01,
+      "end": 73.23,
+      "text": "ciclo",
+      "confidence": 0.952
+    },
+    {
+      "start": 73.23,
+      "end": 73.33,
+      "text": "de",
+      "confidence": 0.379
+    },
+    {
+      "start": 73.33,
+      "end": 73.55,
+      "text": "14",
+      "confidence": 0.821
+    },
+    {
+      "start": 73.55,
+      "end": 74.43,
+      "text": "dias",
+      "confidence": 0.997
+    },
+    {
+      "start": 74.43,
+      "end": 74.69,
+      "text": "dentro",
+      "confidence": 0.269
+    },
+    {
+      "start": 75.43,
+      "end": 75.91,
+      "text": "E",
+      "confidence": 0.045
+    },
+    {
+      "start": 75.91,
+      "end": 76.09,
+      "text": "aí",
+      "confidence": 0.147
+    },
+    {
+      "start": 76.09,
+      "end": 76.15,
+      "text": "as",
+      "confidence": 0.711
+    },
+    {
+      "start": 76.15,
+      "end": 76.39,
+      "text": "pessoas",
+      "confidence": 0.998
+    },
+    {
+      "start": 76.39,
+      "end": 76.99,
+      "text": "comem,",
+      "confidence": 0.874
+    },
+    {
+      "start": 77.09,
+      "end": 77.21,
+      "text": "as",
+      "confidence": 0.057
+    },
+    {
+      "start": 77.21,
+      "end": 77.39,
+      "text": "pessoas",
+      "confidence": 0.994
+    },
+    {
+      "start": 77.39,
+      "end": 78.13,
+      "text": "dormem,",
+      "confidence": 0.97
+    },
+    {
+      "start": 78.15,
+      "end": 78.35,
+      "text": "as",
+      "confidence": 0.846
+    },
+    {
+      "start": 78.35,
+      "end": 78.59,
+      "text": "pessoas",
+      "confidence": 0.998
+    },
+    {
+      "start": 78.59,
+      "end": 79.15,
+      "text": "fazem",
+      "confidence": 0.534
+    },
+    {
+      "start": 79.15,
+      "end": 79.33,
+      "text": "o",
+      "confidence": 0.237
+    },
+    {
+      "start": 79.33,
+      "end": 79.51,
+      "text": "que",
+      "confidence": 0.897
+    },
+    {
+      "start": 79.51,
+      "end": 79.61,
+      "text": "a",
+      "confidence": 0.152
+    },
+    {
+      "start": 79.61,
+      "end": 79.63,
+      "text": "gente",
+      "confidence": 0.994
+    },
+    {
+      "start": 79.63,
+      "end": 79.85,
+      "text": "conseguir.",
+      "confidence": 0.43
+    },
+    {
+      "start": 115.6,
+      "end": 116.28,
+      "text": "Isso",
+      "confidence": 0.025
+    },
+    {
+      "start": 116.28,
+      "end": 116.44,
+      "text": "quer",
+      "confidence": 0.552
+    },
+    {
+      "start": 116.44,
+      "end": 116.62,
+      "text": "dizer",
+      "confidence": 0.999
+    },
+    {
+      "start": 116.62,
+      "end": 116.74,
+      "text": "que",
+      "confidence": 0.973
+    },
+    {
+      "start": 116.74,
+      "end": 116.86,
+      "text": "se",
+      "confidence": 0.621
+    },
+    {
+      "start": 116.86,
+      "end": 117.04,
+      "text": "pegar",
+      "confidence": 0.229
+    },
+    {
+      "start": 117.04,
+      "end": 117.48,
+      "text": "fogo",
+      "confidence": 0.374
+    },
+    {
+      "start": 117.48,
+      "end": 117.58,
+      "text": "lá",
+      "confidence": 0.951
+    },
+    {
+      "start": 117.58,
+      "end": 117.84,
+      "text": "fora,",
+      "confidence": 0.839
+    },
+    {
+      "start": 117.9,
+      "end": 118.04,
+      "text": "a",
+      "confidence": 0.845
+    },
+    {
+      "start": 118.04,
+      "end": 118.44,
+      "text": "fumaça",
+      "confidence": 0.978
+    },
+    {
+      "start": 118.44,
+      "end": 118.62,
+      "text": "não",
+      "confidence": 0.974
+    },
+    {
+      "start": 118.62,
+      "end": 118.9,
+      "text": "consegue",
+      "confidence": 0.982
+    },
+    {
+      "start": 118.9,
+      "end": 119.2,
+      "text": "entrar.",
+      "confidence": 0.128
+    },
+    {
+      "start": 121.6,
+      "end": 121.76,
+      "text": "Mas",
+      "confidence": 0.028
+    },
+    {
+      "start": 121.76,
+      "end": 121.9,
+      "text": "tem",
+      "confidence": 0.948
+    },
+    {
+      "start": 121.9,
+      "end": 122.02,
+      "text": "uma",
+      "confidence": 0.98
+    },
+    {
+      "start": 122.02,
+      "end": 122.18,
+      "text": "área",
+      "confidence": 0.971
+    },
+    {
+      "start": 122.18,
+      "end": 122.38,
+      "text": "mais",
+      "confidence": 0.938
+    },
+    {
+      "start": 122.38,
+      "end": 123.08,
+      "text": "especializada",
+      "confidence": 0.157
+    },
+    {
+      "start": 123.08,
+      "end": 123.22,
+      "text": "ainda,",
+      "confidence": 0.578
+    },
+    {
+      "start": 123.26,
+      "end": 123.38,
+      "text": "que",
+      "confidence": 0.898
+    },
+    {
+      "start": 123.38,
+      "end": 123.46,
+      "text": "é",
+      "confidence": 0.994
+    },
+    {
+      "start": 123.46,
+      "end": 123.52,
+      "text": "a",
+      "confidence": 0.932
+    },
+    {
+      "start": 123.52,
+      "end": 123.62,
+      "text": "das",
+      "confidence": 0.981
+    },
+    {
+      "start": 123.62,
+      "end": 124.26,
+      "text": "escadas.",
+      "confidence": 0.869
+    },
+    {
+      "start": 124.6,
+      "end": 125.06,
+      "text": "Se",
+      "confidence": 0.338
+    },
+    {
+      "start": 125.06,
+      "end": 125.2,
+      "text": "o",
+      "confidence": 0.991
+    },
+    {
+      "start": 125.2,
+      "end": 125.42,
+      "text": "próprio",
+      "confidence": 0.999
+    },
+    {
+      "start": 125.42,
+      "end": 125.86,
+      "text": "casarinho",
+      "confidence": 0.31
+    },
+    {
+      "start": 125.86,
+      "end": 126.04,
+      "text": "pegar",
+      "confidence": 0.988
+    },
+    {
+      "start": 126.04,
+      "end": 126.52,
+      "text": "fogo,",
+      "confidence": 0.893
+    },
+    {
+      "start": 126.54,
+      "end": 127.26,
+      "text": "vai",
+      "confidence": 0.314
+    },
+    {
+      "start": 127.26,
+      "end": 127.5,
+      "text": "entrar",
+      "confidence": 0.703
+    },
+    {
+      "start": 127.5,
+      "end": 127.64,
+      "text": "a",
+      "confidence": 0.013
+    },
+    {
+      "start": 127.64,
+      "end": 127.92,
+      "text": "fumaça",
+      "confidence": 0.149
+    },
+    {
+      "start": 127.92,
+      "end": 128.12,
+      "text": "na",
+      "confidence": 0.918
+    },
+    {
+      "start": 128.12,
+      "end": 128.4,
+      "text": "região",
+      "confidence": 0.986
+    },
+    {
+      "start": 128.4,
+      "end": 128.62,
+      "text": "das",
+      "confidence": 0.719
+    },
+    {
+      "start": 128.62,
+      "end": 128.98,
+      "text": "escadas,",
+      "confidence": 0.286
+    },
+    {
+      "start": 130.6,
+      "end": 130.84,
+      "text": "Aliás,",
+      "confidence": 0.181
+    },
+    {
+      "start": 130.86,
+      "end": 131.08,
+      "text": "essa",
+      "confidence": 0.782
+    },
+    {
+      "start": 131.08,
+      "end": 131.5,
+      "text": "porta",
+      "confidence": 0.573
+    },
+    {
+      "start": 131.5,
+      "end": 131.72,
+      "text": "é",
+      "confidence": 0.154
+    },
+    {
+      "start": 131.72,
+      "end": 132.26,
+      "text": "mais",
+      "confidence": 0.418
+    },
+    {
+      "start": 132.26,
+      "end": 132.76,
+      "text": "perigosa",
+      "confidence": 0.298
+    },
+    {
+      "start": 132.76,
+      "end": 132.88,
+      "text": "do",
+      "confidence": 0.411
+    },
+    {
+      "start": 132.88,
+      "end": 133.16,
+      "text": "que",
+      "confidence": 0.981
+    },
+    {
+      "start": 133.16,
+      "end": 133.18,
+      "text": "a",
+      "confidence": 0.393
+    },
+    {
+      "start": 133.18,
+      "end": 133.66,
+      "text": "outra.",
+      "confidence": 0.472
+    },
+    {
+      "start": 170.96,
+      "end": 171.42,
+      "text": "Escarga!",
+      "confidence": 0.118
+    },
+    {
+      "start": 171.56,
+      "end": 173.84,
+      "text": "Escarga!",
+      "confidence": 0.673
+    },
+    {
+      "start": 174.26,
+      "end": 174.94,
+      "text": "Escarga!",
+      "confidence": 0.875
+    },
+    {
+      "start": 175.02,
+      "end": 176.82,
+      "text": "Escarga!",
+      "confidence": 0.858
+    },
+    {
+      "start": 187.6,
+      "end": 187.8,
+      "text": "Mas",
+      "confidence": 0.06
+    },
+    {
+      "start": 187.8,
+      "end": 188.04,
+      "text": "também",
+      "confidence": 0.877
+    },
+    {
+      "start": 188.04,
+      "end": 188.2,
+      "text": "ao",
+      "confidence": 0.18
+    },
+    {
+      "start": 188.2,
+      "end": 188.44,
+      "text": "ponto",
+      "confidence": 0.214
+    },
+    {
+      "start": 188.44,
+      "end": 188.6,
+      "text": "de",
+      "confidence": 0.974
+    },
+    {
+      "start": 188.6,
+      "end": 189.04,
+      "text": "encontro,",
+      "confidence": 0.689
+    },
+    {
+      "start": 189.04,
+      "end": 189.18,
+      "text": "se",
+      "confidence": 0.019
+    },
+    {
+      "start": 189.18,
+      "end": 189.44,
+      "text": "acontecer",
+      "confidence": 0.217
+    },
+    {
+      "start": 189.44,
+      "end": 189.76,
+      "text": "alguma",
+      "confidence": 0.165
+    },
+    {
+      "start": 189.76,
+      "end": 190.26,
+      "text": "emergência,",
+      "confidence": 0.787
+    },
+    {
+      "start": 190.3,
+      "end": 190.52,
+      "text": "só",
+      "confidence": 0.314
+    },
+    {
+      "start": 190.52,
+      "end": 190.72,
+      "text": "que",
+      "confidence": 0.634
+    },
+    {
+      "start": 190.72,
+      "end": 190.84,
+      "text": "também",
+      "confidence": 0.909
+    },
+    {
+      "start": 190.84,
+      "end": 191.08,
+      "text": "tem",
+      "confidence": 0.904
+    },
+    {
+      "start": 191.08,
+      "end": 191.2,
+      "text": "uma",
+      "confidence": 0.741
+    },
+    {
+      "start": 204.62,
+      "end": 204.64,
+      "text": "Então,",
+      "confidence": 0.108
+    },
+    {
+      "start": 204.78,
+      "end": 204.82,
+      "text": "a",
+      "confidence": 0.399
+    },
+    {
+      "start": 204.82,
+      "end": 204.98,
+      "text": "galera",
+      "confidence": 0.845
+    },
+    {
+      "start": 204.98,
+      "end": 205.28,
+      "text": "precisa",
+      "confidence": 0.954
+    },
+    {
+      "start": 205.28,
+      "end": 205.54,
+      "text": "dar",
+      "confidence": 0.937
+    },
+    {
+      "start": 205.54,
+      "end": 205.64,
+      "text": "uma",
+      "confidence": 0.979
+    },
+    {
+      "start": 205.64,
+      "end": 206.22,
+      "text": "relaxada",
+      "confidence": 0.991
+    },
+    {
+      "start": 206.22,
+      "end": 206.34,
+      "text": "no",
+      "confidence": 0.604
+    },
+    {
+      "start": 206.34,
+      "end": 206.62,
+      "text": "chão,",
+      "confidence": 0.176
+    },
+    {
+      "start": 206.68,
+      "end": 206.8,
+      "text": "uma",
+      "confidence": 0.764
+    },
+    {
+      "start": 206.8,
+      "end": 207.06,
+      "text": "coisa",
+      "confidence": 0.963
+    },
+    {
+      "start": 207.06,
+      "end": 207.18,
+      "text": "que",
+      "confidence": 0.274
+    },
+    {
+      "start": 207.18,
+      "end": 207.26,
+      "text": "eu",
+      "confidence": 0.097
+    },
+    {
+      "start": 207.26,
+      "end": 207.42,
+      "text": "sempre",
+      "confidence": 0.143
+    },
+    {
+      "start": 207.42,
+      "end": 209.14,
+      "text": "falo,",
+      "confidence": 0.367
+    },
+    {
+      "start": 209.14,
+      "end": 209.3,
+      "text": "uma",
+      "confidence": 0.038
+    },
+    {
+      "start": 236.01,
+      "end": 236.03,
+      "text": "Aqui",
+      "confidence": 0.019
+    },
+    {
+      "start": 236.03,
+      "end": 236.45,
+      "text": "diz",
+      "confidence": 0.402
+    },
+    {
+      "start": 236.45,
+      "end": 236.73,
+      "text": "no",
+      "confidence": 0.259
+    },
+    {
+      "start": 236.73,
+      "end": 237.37,
+      "text": "vestiário,",
+      "confidence": 0.815
+    },
+    {
+      "start": 237.51,
+      "end": 237.69,
+      "text": "se",
+      "confidence": 0.546
+    },
+    {
+      "start": 237.69,
+      "end": 237.87,
+      "text": "a",
+      "confidence": 0.871
+    },
+    {
+      "start": 237.87,
+      "end": 238.05,
+      "text": "pessoa",
+      "confidence": 0.985
+    },
+    {
+      "start": 238.05,
+      "end": 238.39,
+      "text": "chegar",
+      "confidence": 0.6
+    },
+    {
+      "start": 238.39,
+      "end": 238.81,
+      "text": "muito",
+      "confidence": 0.963
+    },
+    {
+      "start": 238.81,
+      "end": 239.43,
+      "text": "suja,",
+      "confidence": 0.405
+    },
+    {
+      "start": 239.51,
+      "end": 239.67,
+      "text": "de",
+      "confidence": 0.206
+    },
+    {
+      "start": 239.67,
+      "end": 239.93,
+      "text": "óleo,",
+      "confidence": 0.879
+    },
+    {
+      "start": 239.99,
+      "end": 240.23,
+      "text": "não",
+      "confidence": 0.16
+    },
+    {
+      "start": 240.23,
+      "end": 240.77,
+      "text": "se",
+      "confidence": 0.63
+    },
+    {
+      "start": 240.77,
+      "end": 241.25,
+      "text": "troca,",
+      "confidence": 0.834
+    },
+    {
+      "start": 241.61,
+      "end": 241.83,
+      "text": "ele",
+      "confidence": 0.51
+    },
+    {
+      "start": 241.83,
+      "end": 242.29,
+      "text": "segura",
+      "confidence": 0.614
+    },
+    {
+      "start": 301.87,
+      "end": 301.89,
+      "text": "Chega",
+      "confidence": 0.162
+    },
+    {
+      "start": 301.89,
+      "end": 301.91,
+      "text": "aí.",
+      "confidence": 0.742
+    },
+    {
+      "start": 301.91,
+      "end": 302.41,
+      "text": "Onde",
+      "confidence": 0.302
+    },
+    {
+      "start": 302.41,
+      "end": 302.51,
+      "text": "é",
+      "confidence": 0.995
+    },
+    {
+      "start": 302.51,
+      "end": 302.55,
+      "text": "que",
+      "confidence": 1.0
+    },
+    {
+      "start": 302.55,
+      "end": 302.73,
+      "text": "vem",
+      "confidence": 0.621
+    },
+    {
+      "start": 302.73,
+      "end": 302.85,
+      "text": "a",
+      "confidence": 0.788
+    },
+    {
+      "start": 302.85,
+      "end": 303.33,
+      "text": "energia",
+      "confidence": 0.997
+    },
+    {
+      "start": 303.33,
+      "end": 303.57,
+      "text": "para",
+      "confidence": 0.332
+    },
+    {
+      "start": 303.57,
+      "end": 303.75,
+      "text": "tudo",
+      "confidence": 0.974
+    },
+    {
+      "start": 303.75,
+      "end": 304.07,
+      "text": "isso?",
+      "confidence": 0.996
+    },
+    {
+      "start": 304.07,
+      "end": 304.39,
+      "text": "Tem",
+      "confidence": 0.059
+    },
+    {
+      "start": 304.39,
+      "end": 304.69,
+      "text": "uma",
+      "confidence": 0.879
+    },
+    {
+      "start": 304.69,
+      "end": 305.37,
+      "text": "extensão",
+      "confidence": 0.843
+    },
+    {
+      "start": 305.37,
+      "end": 305.45,
+      "text": "que",
+      "confidence": 0.785
+    },
+    {
+      "start": 305.45,
+      "end": 305.73,
+      "text": "sai",
+      "confidence": 0.959
+    },
+    {
+      "start": 305.73,
+      "end": 305.91,
+      "text": "lá",
+      "confidence": 0.993
+    },
+    {
+      "start": 305.91,
+      "end": 306.11,
+      "text": "do",
+      "confidence": 0.619
+    },
+    {
+      "start": 306.11,
+      "end": 306.31,
+      "text": "Rio",
+      "confidence": 0.04
+    },
+    {
+      "start": 306.31,
+      "end": 306.63,
+      "text": "de",
+      "confidence": 0.947
+    },
+    {
+      "start": 306.63,
+      "end": 306.67,
+      "text": "Janeiro,",
+      "confidence": 0.814
+    },
+    {
+      "start": 306.75,
+      "end": 306.93,
+      "text": "que",
+      "confidence": 0.304
+    },
+    {
+      "start": 306.93,
+      "end": 307.11,
+      "text": "bate",
+      "confidence": 0.64
+    },
+    {
+      "start": 307.11,
+      "end": 307.25,
+      "text": "no",
+      "confidence": 0.914
+    },
+    {
+      "start": 307.25,
+      "end": 307.51,
+      "text": "mar",
+      "confidence": 0.344
+    },
+    {
+      "start": 307.51,
+      "end": 307.61,
+      "text": "e",
+      "confidence": 0.991
+    },
+    {
+      "start": 307.61,
+      "end": 307.85,
+      "text": "chega",
+      "confidence": 0.999
+    },
+    {
+      "start": 307.85,
+      "end": 308.27,
+      "text": "até...",
+      "confidence": 0.38
+    },
+    {
+      "start": 308.27,
+      "end": 308.91,
+      "text": "A",
+      "confidence": 0.133
+    },
+    {
+      "start": 308.91,
+      "end": 309.11,
+      "text": "gente",
+      "confidence": 0.91
+    },
+    {
+      "start": 309.11,
+      "end": 309.27,
+      "text": "tem",
+      "confidence": 0.976
+    },
+    {
+      "start": 309.27,
+      "end": 309.63,
+      "text": "quatro",
+      "confidence": 0.483
+    },
+    {
+      "start": 309.63,
+      "end": 310.51,
+      "text": "termoelétricas",
+      "confidence": 0.967
+    },
+    {
+      "start": 310.51,
+      "end": 310.73,
+      "text": "aqui",
+      "confidence": 0.266
+    },
+    {
+      "start": 310.73,
+      "end": 311.01,
+      "text": "de",
+      "confidence": 0.607
+    },
+    {
+      "start": 311.01,
+      "end": 311.59,
+      "text": "25",
+      "confidence": 0.976
+    },
+    {
+      "start": 311.59,
+      "end": 312.69,
+      "text": "megawatts",
+      "confidence": 0.945
+    },
+    {
+      "start": 312.69,
+      "end": 312.85,
+      "text": "cada",
+      "confidence": 0.945
+    },
+    {
+      "start": 312.85,
+      "end": 313.35,
+      "text": "uma.",
+      "confidence": 0.918
+    },
+    {
+      "start": 313.35,
+      "end": 313.87,
+      "text": "Elas",
+      "confidence": 0.713
+    },
+    {
+      "start": 313.87,
+      "end": 314.01,
+      "text": "são",
+      "confidence": 0.947
+    },
+    {
+      "start": 314.01,
+      "end": 314.45,
+      "text": "alimentadas",
+      "confidence": 0.745
+    },
+    {
+      "start": 314.45,
+      "end": 314.65,
+      "text": "com",
+      "confidence": 0.797
+    },
+    {
+      "start": 314.65,
+      "end": 315.03,
+      "text": "gás",
+      "confidence": 0.882
+    },
+    {
+      "start": 315.03,
+      "end": 315.37,
+      "text": "natural",
+      "confidence": 0.993
+    },
+    {
+      "start": 315.37,
+      "end": 315.65,
+      "text": "e",
+      "confidence": 0.426
+    },
+    {
+      "start": 315.65,
+      "end": 316.27,
+      "text": "com",
+      "confidence": 0.475
+    },
+    {
+      "start": 316.27,
+      "end": 316.61,
+      "text": "óleo",
+      "confidence": 0.964
+    },
+    {
+      "start": 316.61,
+      "end": 316.97,
+      "text": "diesel.",
+      "confidence": 0.215
+    },
+    {
+      "start": 316.97,
+      "end": 317.55,
+      "text": "Elas",
+      "confidence": 0.379
+    },
+    {
+      "start": 317.55,
+      "end": 317.67,
+      "text": "estão",
+      "confidence": 0.794
+    },
+    {
+      "start": 317.67,
+      "end": 317.89,
+      "text": "aqui",
+      "confidence": 0.177
+    },
+    {
+      "start": 317.89,
+      "end": 317.99,
+      "text": "do",
+      "confidence": 0.963
+    },
+    {
+      "start": 317.99,
+      "end": 318.11,
+      "text": "meu",
+      "confidence": 0.979
+    },
+    {
+      "start": 318.11,
+      "end": 318.31,
+      "text": "lado",
+      "confidence": 0.999
+    },
+    {
+      "start": 318.31,
+      "end": 318.41,
+      "text": "e",
+      "confidence": 0.376
+    },
+    {
+      "start": 318.41,
+      "end": 318.63,
+      "text": "seriam",
+      "confidence": 0.913
+    },
+    {
+      "start": 318.63,
+      "end": 319.11,
+      "text": "suficientes",
+      "confidence": 0.969
+    },
+    {
+      "start": 319.11,
+      "end": 319.27,
+      "text": "para",
+      "confidence": 0.78
+    },
+    {
+      "start": 319.27,
+      "end": 319.65,
+      "text": "alimentar",
+      "confidence": 0.987
+    },
+    {
+      "start": 319.65,
+      "end": 319.83,
+      "text": "mais",
+      "confidence": 0.702
+    },
+    {
+      "start": 319.83,
+      "end": 319.97,
+      "text": "ou",
+      "confidence": 0.008
+    },
+    {
+      "start": 319.97,
+      "end": 320.07,
+      "text": "menos",
+      "confidence": 0.96
+    },
+    {
+      "start": 320.07,
+      "end": 320.35,
+      "text": "10",
+      "confidence": 0.151
+    },
+    {
+      "start": 320.35,
+      "end": 320.75,
+      "text": "vezes",
+      "confidence": 0.793
+    },
+    {
+      "start": 320.75,
+      "end": 320.93,
+      "text": "a",
+      "confidence": 0.574
+    },
+    {
+      "start": 320.93,
+      "end": 321.19,
+      "text": "cidade",
+      "confidence": 0.391
+    },
+    {
+      "start": 321.19,
+      "end": 321.35,
+      "text": "em",
+      "confidence": 0.015
+    },
+    {
+      "start": 321.35,
+      "end": 321.83,
+      "text": "piedade.",
+      "confidence": 0.673
+    },
+    {
+      "start": 353.68,
+      "end": 353.7,
+      "text": "Tchau,",
+      "confidence": 0.398
+    },
+    {
+      "start": 353.7,
+      "end": 354.62,
+      "text": "mamãe.",
+      "confidence": 0.674
+    },
+    {
+      "start": 377.03,
+      "end": 378.01,
+      "text": "Tchau,",
+      "confidence": 0.694
+    },
+    {
+      "start": 378.03,
+      "end": 378.33,
+      "text": "meu",
+      "confidence": 0.735
+    },
+    {
+      "start": 378.33,
+      "end": 378.67,
+      "text": "amor!",
+      "confidence": 0.565
+    },
+    {
+      "start": 3340.19,
+      "end": 3340.45,
+      "text": "Lá",
+      "confidence": 0.267
+    },
+    {
+      "start": 3340.45,
+      "end": 3340.47,
+      "text": "em",
+      "confidence": 0.946
+    },
+    {
+      "start": 3340.47,
+      "end": 3340.73,
+      "text": "cima.",
+      "confidence": 0.721
+    }
+  ]
+}

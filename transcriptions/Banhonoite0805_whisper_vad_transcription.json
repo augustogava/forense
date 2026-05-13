@@ -1,0 +1,46 @@
+{
+  "source_file": "Banhonoite0805_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:00": ".",
+    "00:02:25,00:02:25": "Acompanhe o programa em nosso site."
+  },
+  "words": [
+    {
+      "start": 0.39,
+      "end": 0.71,
+      "text": "."
+    },
+    {
+      "start": 145.38,
+      "end": 145.5,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 145.5,
+      "end": 145.78,
+      "text": "o"
+    },
+    {
+      "start": 145.78,
+      "end": 145.78,
+      "text": "programa"
+    },
+    {
+      "start": 145.78,
+      "end": 145.78,
+      "text": "em"
+    },
+    {
+      "start": 145.78,
+      "end": 145.78,
+      "text": "nosso"
+    },
+    {
+      "start": 145.78,
+      "end": 145.9,
+      "text": "site."
+    }
+  ]
+}

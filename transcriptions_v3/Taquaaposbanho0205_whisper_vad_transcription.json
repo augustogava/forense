@@ -1,0 +1,185 @@
+{
+  "source_file": "Taquaaposbanho0205_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 4343.1,
+  "segments": {
+    "00:02:24,00:02:57": "É mais bonitinho, normal, bonita, bonita, bonita, meu papai, meu papai, meu nariz, nariz,",
+    "00:03:12,00:03:12": "Boca.",
+    "00:04:17,00:04:18": "Deixa eu ver como eu vou enxergar.",
+    "00:26:49,00:26:50": "Não?",
+    "00:59:18,00:59:19": "Vem!",
+    "00:59:36,00:59:36": "Ai! Ai! Ai! Ai!"
+  },
+  "hallucinations_filtered": 46,
+  "words": [
+    {
+      "start": 144.97,
+      "end": 146.15,
+      "text": "É",
+      "confidence": 0.011
+    },
+    {
+      "start": 146.15,
+      "end": 147.09,
+      "text": "mais",
+      "confidence": 0.333
+    },
+    {
+      "start": 147.09,
+      "end": 148.73,
+      "text": "bonitinho,",
+      "confidence": 0.732
+    },
+    {
+      "start": 148.89,
+      "end": 149.75,
+      "text": "normal,",
+      "confidence": 0.272
+    },
+    {
+      "start": 152.89,
+      "end": 154.87,
+      "text": "bonita,",
+      "confidence": 0.263
+    },
+    {
+      "start": 155.27,
+      "end": 157.33,
+      "text": "bonita,",
+      "confidence": 0.795
+    },
+    {
+      "start": 161.81,
+      "end": 164.84,
+      "text": "bonita,",
+      "confidence": 0.778
+    },
+    {
+      "start": 164.86,
+      "end": 165.78,
+      "text": "meu",
+      "confidence": 0.266
+    },
+    {
+      "start": 165.78,
+      "end": 166.48,
+      "text": "papai,",
+      "confidence": 0.931
+    },
+    {
+      "start": 166.98,
+      "end": 167.98,
+      "text": "meu",
+      "confidence": 0.842
+    },
+    {
+      "start": 167.98,
+      "end": 168.98,
+      "text": "papai,",
+      "confidence": 0.961
+    },
+    {
+      "start": 169.04,
+      "end": 169.6,
+      "text": "meu",
+      "confidence": 0.786
+    },
+    {
+      "start": 169.6,
+      "end": 172.88,
+      "text": "nariz,",
+      "confidence": 0.537
+    },
+    {
+      "start": 176.62,
+      "end": 177.43,
+      "text": "nariz,",
+      "confidence": 0.819
+    },
+    {
+      "start": 192.09,
+      "end": 192.57,
+      "text": "Boca.",
+      "confidence": 0.318
+    },
+    {
+      "start": 257.01,
+      "end": 257.13,
+      "text": "Deixa",
+      "confidence": 0.228
+    },
+    {
+      "start": 257.13,
+      "end": 257.27,
+      "text": "eu",
+      "confidence": 0.971
+    },
+    {
+      "start": 257.27,
+      "end": 257.43,
+      "text": "ver",
+      "confidence": 0.945
+    },
+    {
+      "start": 257.43,
+      "end": 257.67,
+      "text": "como",
+      "confidence": 0.516
+    },
+    {
+      "start": 257.67,
+      "end": 257.83,
+      "text": "eu",
+      "confidence": 0.297
+    },
+    {
+      "start": 257.83,
+      "end": 257.97,
+      "text": "vou",
+      "confidence": 0.71
+    },
+    {
+      "start": 257.97,
+      "end": 258.17,
+      "text": "enxergar.",
+      "confidence": 0.252
+    },
+    {
+      "start": 1609.74,
+      "end": 1610.27,
+      "text": "Não?",
+      "confidence": 0.46
+    },
+    {
+      "start": 3558.89,
+      "end": 3559.63,
+      "text": "Vem!",
+      "confidence": 0.421
+    },
+    {
+      "start": 3576.29,
+      "end": 3576.39,
+      "text": "Ai!",
+      "confidence": 0.014
+    },
+    {
+      "start": 3576.45,
+      "end": 3576.47,
+      "text": "Ai!",
+      "confidence": 0.865
+    },
+    {
+      "start": 3576.57,
+      "end": 3576.75,
+      "text": "Ai!",
+      "confidence": 0.932
+    },
+    {
+      "start": 3576.87,
+      "end": 3576.89,
+      "text": "Ai!",
+      "confidence": 0.741
+    }
+  ]
+}
