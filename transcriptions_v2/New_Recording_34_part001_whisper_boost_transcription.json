@@ -1,0 +1,131 @@
+{
+  "source_file": "New_Recording_34_part001_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.0,
+  "segments": {
+    "00:08:11,00:08:22": "Você não quer mais?",
+    "00:08:23,00:08:24": "Você não quer mais?",
+    "00:10:36,00:10:36": "Não.",
+    "00:10:44,00:10:44": "Não.",
+    "00:15:11,00:15:42": "O que é isso?",
+    "00:15:42,00:15:43": "O que é isso?",
+    "00:16:55,00:16:58": "Obrigada."
+  },
+  "words": [
+    {
+      "start": 491.35,
+      "end": 491.87,
+      "text": "Você",
+      "probability": 0.015
+    },
+    {
+      "start": 501.47,
+      "end": 501.99,
+      "text": "não",
+      "probability": 0.434
+    },
+    {
+      "start": 501.99,
+      "end": 502.09,
+      "text": "quer",
+      "probability": 0.377
+    },
+    {
+      "start": 502.09,
+      "end": 502.33,
+      "text": "mais?",
+      "probability": 0.97
+    },
+    {
+      "start": 503.33,
+      "end": 503.71,
+      "text": "Você",
+      "probability": 0.269
+    },
+    {
+      "start": 503.71,
+      "end": 503.93,
+      "text": "não",
+      "probability": 0.948
+    },
+    {
+      "start": 503.93,
+      "end": 504.21,
+      "text": "quer",
+      "probability": 0.993
+    },
+    {
+      "start": 504.21,
+      "end": 504.43,
+      "text": "mais?",
+      "probability": 0.98
+    },
+    {
+      "start": 636.18,
+      "end": 636.26,
+      "text": "Não.",
+      "probability": 0.054
+    },
+    {
+      "start": 644.02,
+      "end": 644.46,
+      "text": "Não.",
+      "probability": 0.243
+    },
+    {
+      "start": 911.38,
+      "end": 911.82,
+      "text": "O",
+      "probability": 0.037
+    },
+    {
+      "start": 941.87,
+      "end": 942.07,
+      "text": "que",
+      "probability": 0.451
+    },
+    {
+      "start": 942.07,
+      "end": 942.17,
+      "text": "é",
+      "probability": 0.247
+    },
+    {
+      "start": 942.17,
+      "end": 942.29,
+      "text": "isso?",
+      "probability": 0.758
+    },
+    {
+      "start": 942.41,
+      "end": 942.59,
+      "text": "O",
+      "probability": 0.138
+    },
+    {
+      "start": 942.59,
+      "end": 942.81,
+      "text": "que",
+      "probability": 0.787
+    },
+    {
+      "start": 942.81,
+      "end": 943.03,
+      "text": "é",
+      "probability": 0.829
+    },
+    {
+      "start": 943.03,
+      "end": 943.11,
+      "text": "isso?",
+      "probability": 0.936
+    },
+    {
+      "start": 1015.93,
+      "end": 1018.05,
+      "text": "Obrigada.",
+      "probability": 0.393
+    }
+  ]
+}

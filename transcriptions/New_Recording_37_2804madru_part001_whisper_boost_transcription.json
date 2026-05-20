@@ -1,0 +1,103 @@
+{
+  "source_file": "New_Recording_37_2804madru_part001_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:01,00:00:02": "O que é que é isso?",
+    "00:00:09,00:00:10": "Não, não, não.",
+    "00:08:30,00:08:31": "Então, dá para ler o que você quer.",
+    "00:08:34,00:08:34": "Obrigada."
+  },
+  "words": [
+    {
+      "start": 1.57,
+      "end": 1.67,
+      "text": "O"
+    },
+    {
+      "start": 1.67,
+      "end": 2.05,
+      "text": "que"
+    },
+    {
+      "start": 2.05,
+      "end": 2.05,
+      "text": "é"
+    },
+    {
+      "start": 2.05,
+      "end": 2.21,
+      "text": "que"
+    },
+    {
+      "start": 2.21,
+      "end": 2.51,
+      "text": "é"
+    },
+    {
+      "start": 2.51,
+      "end": 2.65,
+      "text": "isso?"
+    },
+    {
+      "start": 9.86,
+      "end": 9.98,
+      "text": "Não,"
+    },
+    {
+      "start": 10.02,
+      "end": 10.08,
+      "text": "não,"
+    },
+    {
+      "start": 10.08,
+      "end": 10.22,
+      "text": "não."
+    },
+    {
+      "start": 510.05,
+      "end": 510.39,
+      "text": "Então,"
+    },
+    {
+      "start": 510.39,
+      "end": 510.53,
+      "text": "dá"
+    },
+    {
+      "start": 510.53,
+      "end": 510.71,
+      "text": "para"
+    },
+    {
+      "start": 510.71,
+      "end": 510.87,
+      "text": "ler"
+    },
+    {
+      "start": 510.87,
+      "end": 510.87,
+      "text": "o"
+    },
+    {
+      "start": 510.87,
+      "end": 510.99,
+      "text": "que"
+    },
+    {
+      "start": 510.99,
+      "end": 511.05,
+      "text": "você"
+    },
+    {
+      "start": 511.05,
+      "end": 511.21,
+      "text": "quer."
+    },
+    {
+      "start": 514.08,
+      "end": 514.62,
+      "text": "Obrigada."
+    }
+  ]
+}

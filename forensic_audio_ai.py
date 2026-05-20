@@ -235,19 +235,54 @@ def stage_demucs(input_path: Path, work_dir: Path) -> Optional[Path]:
     wav = convert_audio(waveform, sr, model.samplerate, model.audio_channels)
 
     print("    [demucs] Separando vozes...")
-    ref = wav.mean(0)
-    wav_centered = wav - ref.mean()
-    wav_scaled = wav_centered / (ref.std() + 1e-8)
-
-    sources = apply_model(model, wav_scaled[None], device=device, progress=True)[0]
-    sources = sources * ref.std() + ref.mean()
-
     vocals_idx = model.sources.index("vocals")
-    vocals = sources[vocals_idx]
+    chunk_seconds = 120
+    chunk_samples = chunk_seconds * model.samplerate
+    total_samples = wav.shape[-1]
+    overlap_samples = int(5 * model.samplerate)
+
+    vocals_parts: list = []
+    n_chunks = max(1, (total_samples + chunk_samples - 1) // chunk_samples)
+    print(f"    [demucs] Áudio longo ({total_samples / model.samplerate:.0f}s), dividindo em {n_chunks} chunks de {chunk_seconds}s")
+
+    for i in range(n_chunks):
+        start = max(0, i * chunk_samples - overlap_samples) if i > 0 else 0
+        end = min(total_samples, (i + 1) * chunk_samples + overlap_samples)
+        chunk = wav[:, start:end]
+
+        ref = chunk.mean(0)
+        chunk_centered = chunk - ref.mean()
+        chunk_scaled = chunk_centered / (ref.std() + 1e-8)
+
+        if device == "cuda":
+            torch.cuda.empty_cache()
+
+        print(f"    [demucs] Chunk {i + 1}/{n_chunks} ({start / model.samplerate:.0f}s-{end / model.samplerate:.0f}s)...")
+        try:
+            sources = apply_model(model, chunk_scaled[None], device=device, progress=False, split=True, overlap=0.25, segment=6)[0]
+        except (torch.cuda.OutOfMemoryError, RuntimeError):
+            print("    [demucs] OOM — retentando chunk em CPU...")
+            if device == "cuda":
+                torch.cuda.empty_cache()
+                model.to("cpu")
+            sources = apply_model(model, chunk_scaled[None], device="cpu", progress=False, split=True, overlap=0.25, segment=6)[0]
+
+        sources = sources * ref.std() + ref.mean()
+        vocal_chunk = sources[vocals_idx].cpu()
+        del sources
+
+        trim_start = (overlap_samples if i > 0 else 0)
+        trim_end = vocal_chunk.shape[-1] - (overlap_samples if end < total_samples else 0)
+        vocals_parts.append(vocal_chunk[:, trim_start:trim_end])
+        del vocal_chunk
+
+    vocals = torch.cat(vocals_parts, dim=-1)
+    del vocals_parts
 
     vocals_path = work_dir / "_stage1_vocals.wav"
-    vocals_np = vocals.cpu().numpy().T
+    vocals_np = vocals.numpy().T
     sf.write(str(vocals_path), vocals_np, model.samplerate, subtype="PCM_16")
+    del vocals, vocals_np
     print(f"    [demucs] Vocals isolados ({model.samplerate} Hz)")
     return vocals_path
 

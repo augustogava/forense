@@ -1,0 +1,145 @@
+{
+  "source_file": "New_Recording_15_forensic_full.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:46:46,00:46:47": "Deixa eu mandar lhe dar uma madeira pra ele.",
+    "00:46:47,00:46:48": "Vai?",
+    "00:46:48,00:46:50": "Deixa eu mandar lhe dar uma madeira pra ele.",
+    "00:46:51,00:46:51": "Aham.",
+    "00:46:51,00:46:52": "Me dá uma copa.",
+    "00:46:54,00:46:54": "Uma madeira."
+  },
+  "words": [
+    {
+      "start": 2806.27,
+      "end": 2806.35,
+      "text": "Deixa"
+    },
+    {
+      "start": 2806.35,
+      "end": 2806.35,
+      "text": "eu"
+    },
+    {
+      "start": 2806.35,
+      "end": 2806.51,
+      "text": "mandar"
+    },
+    {
+      "start": 2806.51,
+      "end": 2806.71,
+      "text": "lhe"
+    },
+    {
+      "start": 2806.71,
+      "end": 2806.79,
+      "text": "dar"
+    },
+    {
+      "start": 2806.79,
+      "end": 2806.87,
+      "text": "uma"
+    },
+    {
+      "start": 2806.87,
+      "end": 2807.37,
+      "text": "madeira"
+    },
+    {
+      "start": 2807.37,
+      "end": 2807.57,
+      "text": "pra"
+    },
+    {
+      "start": 2807.57,
+      "end": 2807.77,
+      "text": "ele."
+    },
+    {
+      "start": 2807.91,
+      "end": 2808.25,
+      "text": "Vai?"
+    },
+    {
+      "start": 2808.65,
+      "end": 2809.01,
+      "text": "Deixa"
+    },
+    {
+      "start": 2809.01,
+      "end": 2809.09,
+      "text": "eu"
+    },
+    {
+      "start": 2809.09,
+      "end": 2809.23,
+      "text": "mandar"
+    },
+    {
+      "start": 2809.23,
+      "end": 2809.41,
+      "text": "lhe"
+    },
+    {
+      "start": 2809.41,
+      "end": 2809.51,
+      "text": "dar"
+    },
+    {
+      "start": 2809.51,
+      "end": 2809.59,
+      "text": "uma"
+    },
+    {
+      "start": 2809.59,
+      "end": 2810.13,
+      "text": "madeira"
+    },
+    {
+      "start": 2810.13,
+      "end": 2810.25,
+      "text": "pra"
+    },
+    {
+      "start": 2810.25,
+      "end": 2810.49,
+      "text": "ele."
+    },
+    {
+      "start": 2811.45,
+      "end": 2811.81,
+      "text": "Aham."
+    },
+    {
+      "start": 2811.83,
+      "end": 2812.09,
+      "text": "Me"
+    },
+    {
+      "start": 2812.09,
+      "end": 2812.33,
+      "text": "dá"
+    },
+    {
+      "start": 2812.33,
+      "end": 2812.43,
+      "text": "uma"
+    },
+    {
+      "start": 2812.43,
+      "end": 2812.93,
+      "text": "copa."
+    },
+    {
+      "start": 2814.05,
+      "end": 2814.41,
+      "text": "Uma"
+    },
+    {
+      "start": 2814.41,
+      "end": 2814.77,
+      "text": "madeira."
+    }
+  ]
+}

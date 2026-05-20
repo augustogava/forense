@@ -1,0 +1,385 @@
+{
+  "source_file": "Sala0105_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:00": "Não é mais...",
+    "00:00:11,00:00:12": "Agradecimentos a todos os participantes.",
+    "00:00:15,00:00:15": "Agradecimentos a todos os convidados.",
+    "00:00:17,00:00:19": "A fim, o que...",
+    "00:00:23,00:00:25": "Atenção!",
+    "00:00:27,00:00:30": "Obrigado.",
+    "00:06:54,00:06:56": "É o salário?",
+    "00:06:58,00:07:02": "Não tem como não ter sexo.",
+    "00:07:05,00:07:06": "Salve!",
+    "00:07:10,00:07:11": "Não é o meu trabalho.",
+    "00:07:19,00:07:24": "Agradecimentos a todos os participantes.",
+    "00:07:26,00:07:27": "O que é que é isso?",
+    "00:07:28,00:07:29": "É o que eu sou.",
+    "00:07:29,00:07:30": "É o que eu sou.",
+    "00:07:36,00:07:37": "O que é que é isso?",
+    "00:07:41,00:07:42": "Obrigado.",
+    "00:11:21,00:11:24": "Eu coloquei uma escala aqui, só que eu vou..."
+  },
+  "explicit_segments": {
+    "00:06:58,00:07:02": "Não tem como não ter sexo."
+  },
+  "explicit_count": 1,
+  "words": [
+    {
+      "start": 0.45,
+      "end": 0.59,
+      "text": "Não"
+    },
+    {
+      "start": 0.59,
+      "end": 0.71,
+      "text": "é"
+    },
+    {
+      "start": 0.71,
+      "end": 0.99,
+      "text": "mais..."
+    },
+    {
+      "start": 11.81,
+      "end": 12.03,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 12.03,
+      "end": 12.03,
+      "text": "a"
+    },
+    {
+      "start": 12.03,
+      "end": 12.03,
+      "text": "todos"
+    },
+    {
+      "start": 12.03,
+      "end": 12.03,
+      "text": "os"
+    },
+    {
+      "start": 12.03,
+      "end": 12.53,
+      "text": "participantes."
+    },
+    {
+      "start": 15.04,
+      "end": 15.32,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 15.32,
+      "end": 15.54,
+      "text": "a"
+    },
+    {
+      "start": 15.54,
+      "end": 15.72,
+      "text": "todos"
+    },
+    {
+      "start": 15.72,
+      "end": 15.72,
+      "text": "os"
+    },
+    {
+      "start": 15.72,
+      "end": 15.72,
+      "text": "convidados."
+    },
+    {
+      "start": 17.89,
+      "end": 17.99,
+      "text": "A"
+    },
+    {
+      "start": 17.99,
+      "end": 18.25,
+      "text": "fim,"
+    },
+    {
+      "start": 18.35,
+      "end": 19.03,
+      "text": "o"
+    },
+    {
+      "start": 19.03,
+      "end": 19.33,
+      "text": "que..."
+    },
+    {
+      "start": 23.55,
+      "end": 25.93,
+      "text": "Atenção!"
+    },
+    {
+      "start": 27.91,
+      "end": 30.29,
+      "text": "Obrigado."
+    },
+    {
+      "start": 414.46,
+      "end": 415.32,
+      "text": "É"
+    },
+    {
+      "start": 415.32,
+      "end": 415.44,
+      "text": "o"
+    },
+    {
+      "start": 415.44,
+      "end": 416.18,
+      "text": "salário?"
+    },
+    {
+      "start": 418.75,
+      "end": 418.83,
+      "text": "Não"
+    },
+    {
+      "start": 418.83,
+      "end": 419.11,
+      "text": "tem"
+    },
+    {
+      "start": 419.11,
+      "end": 419.39,
+      "text": "como"
+    },
+    {
+      "start": 419.39,
+      "end": 420.17,
+      "text": "não"
+    },
+    {
+      "start": 420.17,
+      "end": 422.09,
+      "text": "ter"
+    },
+    {
+      "start": 422.09,
+      "end": 422.55,
+      "text": "sexo."
+    },
+    {
+      "start": 425.28,
+      "end": 426.14,
+      "text": "Salve!"
+    },
+    {
+      "start": 430.53,
+      "end": 430.65,
+      "text": "Não"
+    },
+    {
+      "start": 430.65,
+      "end": 430.81,
+      "text": "é"
+    },
+    {
+      "start": 430.81,
+      "end": 430.97,
+      "text": "o"
+    },
+    {
+      "start": 430.97,
+      "end": 431.17,
+      "text": "meu"
+    },
+    {
+      "start": 431.17,
+      "end": 431.57,
+      "text": "trabalho."
+    },
+    {
+      "start": 439.94,
+      "end": 441.46,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 441.46,
+      "end": 441.46,
+      "text": "a"
+    },
+    {
+      "start": 441.46,
+      "end": 441.46,
+      "text": "todos"
+    },
+    {
+      "start": 441.46,
+      "end": 442.4,
+      "text": "os"
+    },
+    {
+      "start": 442.4,
+      "end": 444.4,
+      "text": "participantes."
+    },
+    {
+      "start": 446.98,
+      "end": 447.16,
+      "text": "O"
+    },
+    {
+      "start": 447.16,
+      "end": 447.16,
+      "text": "que"
+    },
+    {
+      "start": 447.16,
+      "end": 447.2,
+      "text": "é"
+    },
+    {
+      "start": 447.2,
+      "end": 447.24,
+      "text": "que"
+    },
+    {
+      "start": 447.24,
+      "end": 447.32,
+      "text": "é"
+    },
+    {
+      "start": 447.32,
+      "end": 447.58,
+      "text": "isso?"
+    },
+    {
+      "start": 448.32,
+      "end": 448.66,
+      "text": "É"
+    },
+    {
+      "start": 448.66,
+      "end": 448.76,
+      "text": "o"
+    },
+    {
+      "start": 448.76,
+      "end": 449.04,
+      "text": "que"
+    },
+    {
+      "start": 449.04,
+      "end": 449.14,
+      "text": "eu"
+    },
+    {
+      "start": 449.14,
+      "end": 449.28,
+      "text": "sou."
+    },
+    {
+      "start": 449.6,
+      "end": 449.94,
+      "text": "É"
+    },
+    {
+      "start": 449.94,
+      "end": 450.18,
+      "text": "o"
+    },
+    {
+      "start": 450.18,
+      "end": 450.28,
+      "text": "que"
+    },
+    {
+      "start": 450.28,
+      "end": 450.28,
+      "text": "eu"
+    },
+    {
+      "start": 450.28,
+      "end": 450.28,
+      "text": "sou."
+    },
+    {
+      "start": 456.13,
+      "end": 456.29,
+      "text": "O"
+    },
+    {
+      "start": 456.29,
+      "end": 456.39,
+      "text": "que"
+    },
+    {
+      "start": 456.39,
+      "end": 456.43,
+      "text": "é"
+    },
+    {
+      "start": 456.43,
+      "end": 456.47,
+      "text": "que"
+    },
+    {
+      "start": 456.47,
+      "end": 456.77,
+      "text": "é"
+    },
+    {
+      "start": 456.77,
+      "end": 457.29,
+      "text": "isso?"
+    },
+    {
+      "start": 461.87,
+      "end": 462.25,
+      "text": "Obrigado."
+    },
+    {
+      "start": 681.06,
+      "end": 681.06,
+      "text": "Eu"
+    },
+    {
+      "start": 681.06,
+      "end": 681.5,
+      "text": "coloquei"
+    },
+    {
+      "start": 681.5,
+      "end": 681.58,
+      "text": "uma"
+    },
+    {
+      "start": 681.58,
+      "end": 682.06,
+      "text": "escala"
+    },
+    {
+      "start": 682.06,
+      "end": 682.36,
+      "text": "aqui,"
+    },
+    {
+      "start": 682.44,
+      "end": 682.98,
+      "text": "só"
+    },
+    {
+      "start": 682.98,
+      "end": 683.12,
+      "text": "que"
+    },
+    {
+      "start": 683.12,
+      "end": 683.4,
+      "text": "eu"
+    },
+    {
+      "start": 683.4,
+      "end": 684.32,
+      "text": "vou..."
+    }
+  ]
+}

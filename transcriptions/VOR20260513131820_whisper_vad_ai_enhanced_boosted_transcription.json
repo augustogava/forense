@@ -1,0 +1,31 @@
+{
+  "source_file": "VOR20260513131820_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:00": "Não é possível.",
+    "00:18:42,00:18:43": "."
+  },
+  "words": [
+    {
+      "start": 0.32,
+      "end": 0.4,
+      "text": "Não"
+    },
+    {
+      "start": 0.4,
+      "end": 0.52,
+      "text": "é"
+    },
+    {
+      "start": 0.52,
+      "end": 0.76,
+      "text": "possível."
+    },
+    {
+      "start": 1122.69,
+      "end": 1123.07,
+      "text": "."
+    }
+  ]
+}

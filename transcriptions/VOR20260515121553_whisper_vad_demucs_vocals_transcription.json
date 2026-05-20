@@ -1,0 +1,167 @@
+{
+  "source_file": "VOR20260515121553_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:54,00:00:54": ".",
+    "00:03:46,00:03:47": "Atenção!",
+    "00:05:48,00:05:48": ".",
+    "00:07:55,00:07:55": "É isso.",
+    "00:08:04,00:08:04": "A luta!",
+    "00:13:44,00:13:45": "Muito, muito mais!",
+    "00:13:45,00:13:46": "Sim!",
+    "00:13:47,00:13:48": "Mais!",
+    "00:13:50,00:13:51": "Não!",
+    "00:20:40,00:20:41": "O que é amor?",
+    "00:20:50,00:21:01": "Acompanhe o vídeo em seus próprios lugares de trabalho.",
+    "00:21:04,00:21:05": "E aí",
+    "00:21:10,00:21:10": "CURRO!"
+  },
+  "words": [
+    {
+      "start": 54.79,
+      "end": 54.99,
+      "text": "."
+    },
+    {
+      "start": 226.79,
+      "end": 227.05,
+      "text": "Atenção!"
+    },
+    {
+      "start": 348.45,
+      "end": 348.81,
+      "text": "."
+    },
+    {
+      "start": 475.2,
+      "end": 475.38,
+      "text": "É"
+    },
+    {
+      "start": 475.38,
+      "end": 475.56,
+      "text": "isso."
+    },
+    {
+      "start": 484.19,
+      "end": 484.27,
+      "text": "A"
+    },
+    {
+      "start": 484.27,
+      "end": 484.69,
+      "text": "luta!"
+    },
+    {
+      "start": 824.26,
+      "end": 824.78,
+      "text": "Muito,"
+    },
+    {
+      "start": 824.78,
+      "end": 825.2,
+      "text": "muito"
+    },
+    {
+      "start": 825.2,
+      "end": 825.7,
+      "text": "mais!"
+    },
+    {
+      "start": 825.9,
+      "end": 826.12,
+      "text": "Sim!"
+    },
+    {
+      "start": 827.1,
+      "end": 828.02,
+      "text": "Mais!"
+    },
+    {
+      "start": 830.79,
+      "end": 831.09,
+      "text": "Não!"
+    },
+    {
+      "start": 1240.61,
+      "end": 1240.87,
+      "text": "O"
+    },
+    {
+      "start": 1240.87,
+      "end": 1240.99,
+      "text": "que"
+    },
+    {
+      "start": 1240.99,
+      "end": 1240.99,
+      "text": "é"
+    },
+    {
+      "start": 1240.99,
+      "end": 1241.35,
+      "text": "amor?"
+    },
+    {
+      "start": 1250.27,
+      "end": 1252.65,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 1252.65,
+      "end": 1253.09,
+      "text": "o"
+    },
+    {
+      "start": 1253.09,
+      "end": 1253.09,
+      "text": "vídeo"
+    },
+    {
+      "start": 1253.09,
+      "end": 1253.35,
+      "text": "em"
+    },
+    {
+      "start": 1253.35,
+      "end": 1254.61,
+      "text": "seus"
+    },
+    {
+      "start": 1254.61,
+      "end": 1254.63,
+      "text": "próprios"
+    },
+    {
+      "start": 1254.63,
+      "end": 1255.55,
+      "text": "lugares"
+    },
+    {
+      "start": 1255.55,
+      "end": 1260.63,
+      "text": "de"
+    },
+    {
+      "start": 1260.63,
+      "end": 1261.75,
+      "text": "trabalho."
+    },
+    {
+      "start": 1264.99,
+      "end": 1265.09,
+      "text": "E"
+    },
+    {
+      "start": 1265.09,
+      "end": 1265.25,
+      "text": "aí"
+    },
+    {
+      "start": 1270.02,
+      "end": 1270.64,
+      "text": "CURRO!"
+    }
+  ]
+}

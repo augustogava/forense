@@ -1,0 +1,242 @@
+{
+  "source_file": "Antesdormirquarto0505_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:29,00:00:29": "Atenção!",
+    "00:01:15,00:01:16": "Muito obrigado.",
+    "00:01:20,00:01:24": "Acompanhe o programa em seus redes sociais.",
+    "00:04:48,00:04:49": "A gente quer tudo!",
+    "00:06:04,00:06:05": "Não há dúvida que o que você quer saber é o que você quer saber.",
+    "00:07:27,00:07:28": "Não há dúvida.",
+    "00:07:30,00:07:35": "Não é possível.",
+    "00:07:42,00:07:45": "Mas eu quero que quem faz o que eu quero."
+  },
+  "words": [
+    {
+      "start": 29.73,
+      "end": 29.95,
+      "text": "Atenção!"
+    },
+    {
+      "start": 75.65,
+      "end": 75.83,
+      "text": "Muito"
+    },
+    {
+      "start": 75.83,
+      "end": 76.05,
+      "text": "obrigado."
+    },
+    {
+      "start": 80.45,
+      "end": 81.39,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 81.39,
+      "end": 82.13,
+      "text": "o"
+    },
+    {
+      "start": 82.13,
+      "end": 82.13,
+      "text": "programa"
+    },
+    {
+      "start": 82.13,
+      "end": 82.13,
+      "text": "em"
+    },
+    {
+      "start": 82.13,
+      "end": 82.13,
+      "text": "seus"
+    },
+    {
+      "start": 82.13,
+      "end": 82.13,
+      "text": "redes"
+    },
+    {
+      "start": 82.13,
+      "end": 84.41,
+      "text": "sociais."
+    },
+    {
+      "start": 288.32,
+      "end": 288.36,
+      "text": "A"
+    },
+    {
+      "start": 288.36,
+      "end": 288.94,
+      "text": "gente"
+    },
+    {
+      "start": 288.94,
+      "end": 289.42,
+      "text": "quer"
+    },
+    {
+      "start": 289.42,
+      "end": 289.84,
+      "text": "tudo!"
+    },
+    {
+      "start": 364.99,
+      "end": 365.31,
+      "text": "Não"
+    },
+    {
+      "start": 365.31,
+      "end": 365.41,
+      "text": "há"
+    },
+    {
+      "start": 365.41,
+      "end": 365.59,
+      "text": "dúvida"
+    },
+    {
+      "start": 365.59,
+      "end": 365.59,
+      "text": "que"
+    },
+    {
+      "start": 365.59,
+      "end": 365.59,
+      "text": "o"
+    },
+    {
+      "start": 365.59,
+      "end": 365.59,
+      "text": "que"
+    },
+    {
+      "start": 365.59,
+      "end": 365.59,
+      "text": "você"
+    },
+    {
+      "start": 365.59,
+      "end": 365.59,
+      "text": "quer"
+    },
+    {
+      "start": 365.59,
+      "end": 365.59,
+      "text": "saber"
+    },
+    {
+      "start": 365.59,
+      "end": 365.59,
+      "text": "é"
+    },
+    {
+      "start": 365.59,
+      "end": 365.59,
+      "text": "o"
+    },
+    {
+      "start": 365.59,
+      "end": 365.59,
+      "text": "que"
+    },
+    {
+      "start": 365.59,
+      "end": 365.59,
+      "text": "você"
+    },
+    {
+      "start": 365.59,
+      "end": 365.59,
+      "text": "quer"
+    },
+    {
+      "start": 365.59,
+      "end": 365.59,
+      "text": "saber."
+    },
+    {
+      "start": 447.94,
+      "end": 448.04,
+      "text": "Não"
+    },
+    {
+      "start": 448.04,
+      "end": 448.04,
+      "text": "há"
+    },
+    {
+      "start": 448.04,
+      "end": 448.62,
+      "text": "dúvida."
+    },
+    {
+      "start": 450.88,
+      "end": 453.2,
+      "text": "Não"
+    },
+    {
+      "start": 453.2,
+      "end": 453.48,
+      "text": "é"
+    },
+    {
+      "start": 453.48,
+      "end": 455.06,
+      "text": "possível."
+    },
+    {
+      "start": 462.69,
+      "end": 462.89,
+      "text": "Mas"
+    },
+    {
+      "start": 462.89,
+      "end": 462.95,
+      "text": "eu"
+    },
+    {
+      "start": 462.95,
+      "end": 463.27,
+      "text": "quero"
+    },
+    {
+      "start": 463.27,
+      "end": 463.41,
+      "text": "que"
+    },
+    {
+      "start": 463.41,
+      "end": 463.67,
+      "text": "quem"
+    },
+    {
+      "start": 463.67,
+      "end": 464.07,
+      "text": "faz"
+    },
+    {
+      "start": 464.07,
+      "end": 464.31,
+      "text": "o"
+    },
+    {
+      "start": 464.31,
+      "end": 464.55,
+      "text": "que"
+    },
+    {
+      "start": 464.55,
+      "end": 464.73,
+      "text": "eu"
+    },
+    {
+      "start": 464.73,
+      "end": 465.07,
+      "text": "quero."
+    }
+  ]
+}

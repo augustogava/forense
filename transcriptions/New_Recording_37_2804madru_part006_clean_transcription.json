@@ -1,0 +1,15 @@
+{
+  "source_file": "New_Recording_37_2804madru_part006_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:45:56,00:45:56": "."
+  },
+  "words": [
+    {
+      "start": 2756.1,
+      "end": 2756.34,
+      "text": "."
+    }
+  ]
+}

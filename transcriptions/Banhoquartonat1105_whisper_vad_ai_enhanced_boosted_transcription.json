@@ -1,0 +1,531 @@
+{
+  "source_file": "Banhoquartonat1105_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:02,00:00:02": "Atenção!",
+    "00:00:07,00:00:07": "Valeu!",
+    "00:00:13,00:00:15": "Abre as bochechilhas logo rápido.",
+    "00:00:24,00:00:27": "Pão seco, não se engane.",
+    "00:00:33,00:00:33": "Aqui!",
+    "00:00:39,00:00:40": "Eu não tenho ninguém aqui.",
+    "00:00:42,00:00:46": "Eu não tenho ninguém aqui.",
+    "00:00:49,00:00:49": "Tchau!",
+    "00:00:51,00:00:52": "Seguimos.",
+    "00:01:01,00:01:02": "Obrigado.",
+    "00:01:12,00:01:12": "E o número.",
+    "00:02:00,00:02:00": "É isso aí.",
+    "00:02:05,00:02:05": "Não é sério e pouco.",
+    "00:02:23,00:02:25": "Atenção!",
+    "00:02:59,00:03:00": "Atenção!",
+    "00:03:08,00:03:09": "Aplausos.",
+    "00:03:22,00:03:23": "E...",
+    "00:03:28,00:03:29": "Atenção!",
+    "00:03:41,00:03:43": "Acompanhe o programa em vários lugares do Brasil.",
+    "00:06:12,00:06:12": "Que?",
+    "00:09:51,00:09:51": "Improv.",
+    "00:11:23,00:11:24": "Atenção!",
+    "00:11:26,00:11:28": "Atenção!",
+    "00:11:33,00:11:34": "Não é louco!",
+    "00:11:36,00:11:39": "O que vai chegar com relação a esse tipo de coisa?",
+    "00:11:39,00:11:40": "É isso.",
+    "00:11:47,00:11:48": "Aplausos",
+    "00:11:52,00:11:53": "Atenção!",
+    "00:11:55,00:11:56": "Acompanhe o nosso programa.",
+    "00:12:04,00:12:06": "Atenção!",
+    "00:12:16,00:12:17": "Acompanhe o programa.",
+    "00:12:55,00:12:55": "Atenção!",
+    "00:15:51,00:15:52": "Ai, irmão fofinho, amor.",
+    "00:15:52,00:15:54": "Ó, o pijaminha do dinossauro.",
+    "00:15:57,00:15:59": "Vem cá, vem cá.",
+    "00:16:02,00:16:02": "Beijinho.",
+    "00:16:04,00:16:05": "É teatro."
+  },
+  "words": [
+    {
+      "start": 2.21,
+      "end": 2.91,
+      "text": "Atenção!"
+    },
+    {
+      "start": 7.59,
+      "end": 7.97,
+      "text": "Valeu!"
+    },
+    {
+      "start": 13.6,
+      "end": 14.18,
+      "text": "Abre"
+    },
+    {
+      "start": 14.18,
+      "end": 14.24,
+      "text": "as"
+    },
+    {
+      "start": 14.24,
+      "end": 14.76,
+      "text": "bochechilhas"
+    },
+    {
+      "start": 14.76,
+      "end": 14.98,
+      "text": "logo"
+    },
+    {
+      "start": 14.98,
+      "end": 15.34,
+      "text": "rápido."
+    },
+    {
+      "start": 24.71,
+      "end": 24.97,
+      "text": "Pão"
+    },
+    {
+      "start": 24.97,
+      "end": 25.29,
+      "text": "seco,"
+    },
+    {
+      "start": 25.41,
+      "end": 26.43,
+      "text": "não"
+    },
+    {
+      "start": 26.43,
+      "end": 26.63,
+      "text": "se"
+    },
+    {
+      "start": 26.63,
+      "end": 27.17,
+      "text": "engane."
+    },
+    {
+      "start": 33.47,
+      "end": 33.71,
+      "text": "Aqui!"
+    },
+    {
+      "start": 39.85,
+      "end": 39.95,
+      "text": "Eu"
+    },
+    {
+      "start": 39.95,
+      "end": 40.11,
+      "text": "não"
+    },
+    {
+      "start": 40.11,
+      "end": 40.33,
+      "text": "tenho"
+    },
+    {
+      "start": 40.33,
+      "end": 40.57,
+      "text": "ninguém"
+    },
+    {
+      "start": 40.57,
+      "end": 40.75,
+      "text": "aqui."
+    },
+    {
+      "start": 42.03,
+      "end": 42.79,
+      "text": "Eu"
+    },
+    {
+      "start": 42.79,
+      "end": 42.79,
+      "text": "não"
+    },
+    {
+      "start": 42.79,
+      "end": 45.09,
+      "text": "tenho"
+    },
+    {
+      "start": 45.09,
+      "end": 45.99,
+      "text": "ninguém"
+    },
+    {
+      "start": 45.99,
+      "end": 46.41,
+      "text": "aqui."
+    },
+    {
+      "start": 49.06,
+      "end": 49.26,
+      "text": "Tchau!"
+    },
+    {
+      "start": 51.65,
+      "end": 52.03,
+      "text": "Seguimos."
+    },
+    {
+      "start": 61.54,
+      "end": 62.1,
+      "text": "Obrigado."
+    },
+    {
+      "start": 72.51,
+      "end": 72.61,
+      "text": "E"
+    },
+    {
+      "start": 72.61,
+      "end": 72.61,
+      "text": "o"
+    },
+    {
+      "start": 72.61,
+      "end": 72.79,
+      "text": "número."
+    },
+    {
+      "start": 120.13,
+      "end": 120.65,
+      "text": "É"
+    },
+    {
+      "start": 120.65,
+      "end": 120.65,
+      "text": "isso"
+    },
+    {
+      "start": 120.65,
+      "end": 120.99,
+      "text": "aí."
+    },
+    {
+      "start": 125.19,
+      "end": 125.19,
+      "text": "Não"
+    },
+    {
+      "start": 125.19,
+      "end": 125.23,
+      "text": "é"
+    },
+    {
+      "start": 125.23,
+      "end": 125.53,
+      "text": "sério"
+    },
+    {
+      "start": 125.53,
+      "end": 125.55,
+      "text": "e"
+    },
+    {
+      "start": 125.55,
+      "end": 125.79,
+      "text": "pouco."
+    },
+    {
+      "start": 143.71,
+      "end": 145.11,
+      "text": "Atenção!"
+    },
+    {
+      "start": 179.91,
+      "end": 180.91,
+      "text": "Atenção!"
+    },
+    {
+      "start": 188.99,
+      "end": 189.45,
+      "text": "Aplausos."
+    },
+    {
+      "start": 202.37,
+      "end": 203.41,
+      "text": "E..."
+    },
+    {
+      "start": 208.8,
+      "end": 209.5,
+      "text": "Atenção!"
+    },
+    {
+      "start": 221.47,
+      "end": 221.71,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 221.71,
+      "end": 221.71,
+      "text": "o"
+    },
+    {
+      "start": 221.71,
+      "end": 221.99,
+      "text": "programa"
+    },
+    {
+      "start": 221.99,
+      "end": 222.51,
+      "text": "em"
+    },
+    {
+      "start": 222.51,
+      "end": 222.83,
+      "text": "vários"
+    },
+    {
+      "start": 222.83,
+      "end": 223.35,
+      "text": "lugares"
+    },
+    {
+      "start": 223.35,
+      "end": 223.91,
+      "text": "do"
+    },
+    {
+      "start": 223.91,
+      "end": 223.99,
+      "text": "Brasil."
+    },
+    {
+      "start": 372.61,
+      "end": 372.77,
+      "text": "Que?"
+    },
+    {
+      "start": 591.2,
+      "end": 591.64,
+      "text": "Improv."
+    },
+    {
+      "start": 683.56,
+      "end": 684.96,
+      "text": "Atenção!"
+    },
+    {
+      "start": 686.82,
+      "end": 688.86,
+      "text": "Atenção!"
+    },
+    {
+      "start": 693.95,
+      "end": 694.05,
+      "text": "Não"
+    },
+    {
+      "start": 694.05,
+      "end": 694.13,
+      "text": "é"
+    },
+    {
+      "start": 694.13,
+      "end": 694.49,
+      "text": "louco!"
+    },
+    {
+      "start": 696.83,
+      "end": 696.91,
+      "text": "O"
+    },
+    {
+      "start": 696.91,
+      "end": 696.95,
+      "text": "que"
+    },
+    {
+      "start": 696.95,
+      "end": 697.09,
+      "text": "vai"
+    },
+    {
+      "start": 697.09,
+      "end": 697.33,
+      "text": "chegar"
+    },
+    {
+      "start": 697.33,
+      "end": 697.59,
+      "text": "com"
+    },
+    {
+      "start": 697.59,
+      "end": 697.97,
+      "text": "relação"
+    },
+    {
+      "start": 697.97,
+      "end": 698.13,
+      "text": "a"
+    },
+    {
+      "start": 698.13,
+      "end": 698.39,
+      "text": "esse"
+    },
+    {
+      "start": 698.39,
+      "end": 698.77,
+      "text": "tipo"
+    },
+    {
+      "start": 698.77,
+      "end": 699.11,
+      "text": "de"
+    },
+    {
+      "start": 699.11,
+      "end": 699.11,
+      "text": "coisa?"
+    },
+    {
+      "start": 699.25,
+      "end": 699.75,
+      "text": "É"
+    },
+    {
+      "start": 699.75,
+      "end": 700.29,
+      "text": "isso."
+    },
+    {
+      "start": 707.07,
+      "end": 708.39,
+      "text": "Aplausos"
+    },
+    {
+      "start": 712.9,
+      "end": 713.52,
+      "text": "Atenção!"
+    },
+    {
+      "start": 715.27,
+      "end": 715.65,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 715.65,
+      "end": 715.71,
+      "text": "o"
+    },
+    {
+      "start": 715.71,
+      "end": 715.97,
+      "text": "nosso"
+    },
+    {
+      "start": 715.97,
+      "end": 716.99,
+      "text": "programa."
+    },
+    {
+      "start": 724.62,
+      "end": 726.02,
+      "text": "Atenção!"
+    },
+    {
+      "start": 736.48,
+      "end": 736.86,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 736.86,
+      "end": 736.88,
+      "text": "o"
+    },
+    {
+      "start": 736.88,
+      "end": 737.12,
+      "text": "programa."
+    },
+    {
+      "start": 775.01,
+      "end": 775.61,
+      "text": "Atenção!"
+    },
+    {
+      "start": 951.72,
+      "end": 951.96,
+      "text": "Ai,"
+    },
+    {
+      "start": 951.96,
+      "end": 952.18,
+      "text": "irmão"
+    },
+    {
+      "start": 952.18,
+      "end": 952.66,
+      "text": "fofinho,"
+    },
+    {
+      "start": 952.66,
+      "end": 952.78,
+      "text": "amor."
+    },
+    {
+      "start": 952.94,
+      "end": 953.24,
+      "text": "Ó,"
+    },
+    {
+      "start": 953.44,
+      "end": 953.44,
+      "text": "o"
+    },
+    {
+      "start": 953.44,
+      "end": 953.78,
+      "text": "pijaminha"
+    },
+    {
+      "start": 953.78,
+      "end": 953.88,
+      "text": "do"
+    },
+    {
+      "start": 953.88,
+      "end": 954.8,
+      "text": "dinossauro."
+    },
+    {
+      "start": 957.92,
+      "end": 958.52,
+      "text": "Vem"
+    },
+    {
+      "start": 958.52,
+      "end": 958.52,
+      "text": "cá,"
+    },
+    {
+      "start": 958.72,
+      "end": 959.12,
+      "text": "vem"
+    },
+    {
+      "start": 959.12,
+      "end": 959.28,
+      "text": "cá."
+    },
+    {
+      "start": 962.34,
+      "end": 962.94,
+      "text": "Beijinho."
+    },
+    {
+      "start": 964.12,
+      "end": 964.72,
+      "text": "É"
+    },
+    {
+      "start": 964.72,
+      "end": 965.32,
+      "text": "teatro."
+    }
+  ]
+}

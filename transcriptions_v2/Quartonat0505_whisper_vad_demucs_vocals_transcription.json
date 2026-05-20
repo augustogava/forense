@@ -1,0 +1,354 @@
+{
+  "source_file": "Quartonat0505_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 5288.6,
+  "segments": {
+    "00:24:04,00:24:08": "Não sei, Laura, mas eu quis entrar para os casamentos.",
+    "00:24:09,00:24:12": "Eu não preciso de um acolhido.",
+    "00:24:18,00:24:18": "Oi?",
+    "00:24:21,00:24:23": "Eu não preciso do seu, né?",
+    "00:24:26,00:24:28": "Meu Deus do céu, que loucura.",
+    "00:24:28,00:24:35": "Você não vai ter que me deixar lá.",
+    "00:30:26,00:30:27": "Sei lá.",
+    "00:36:10,00:36:10": "Nossa.",
+    "00:36:11,00:36:20": "Eu não quero estar morrendo.",
+    "00:36:20,00:37:23": "Vamos chegar.",
+    "00:37:23,00:39:19": "Vamos lá.",
+    "00:49:06,00:49:07": "Eu existi.",
+    "00:49:07,00:49:08": "Gente, não.",
+    "00:49:08,00:49:10": "Eu posso."
+  },
+  "words": [
+    {
+      "start": 1444.48,
+      "end": 1445.08,
+      "text": "Não",
+      "probability": 0.252
+    },
+    {
+      "start": 1445.63,
+      "end": 1445.87,
+      "text": "sei,",
+      "probability": 0.472
+    },
+    {
+      "start": 1446.01,
+      "end": 1446.33,
+      "text": "Laura,",
+      "probability": 0.218
+    },
+    {
+      "start": 1446.47,
+      "end": 1446.71,
+      "text": "mas",
+      "probability": 0.99
+    },
+    {
+      "start": 1446.71,
+      "end": 1446.85,
+      "text": "eu",
+      "probability": 0.886
+    },
+    {
+      "start": 1446.85,
+      "end": 1447.07,
+      "text": "quis",
+      "probability": 0.442
+    },
+    {
+      "start": 1447.07,
+      "end": 1447.37,
+      "text": "entrar",
+      "probability": 0.285
+    },
+    {
+      "start": 1447.37,
+      "end": 1447.71,
+      "text": "para",
+      "probability": 0.362
+    },
+    {
+      "start": 1447.71,
+      "end": 1447.91,
+      "text": "os",
+      "probability": 0.341
+    },
+    {
+      "start": 1447.91,
+      "end": 1448.33,
+      "text": "casamentos.",
+      "probability": 0.521
+    },
+    {
+      "start": 1449.96,
+      "end": 1450.56,
+      "text": "Eu",
+      "probability": 0.314
+    },
+    {
+      "start": 1450.56,
+      "end": 1450.72,
+      "text": "não",
+      "probability": 0.247
+    },
+    {
+      "start": 1450.72,
+      "end": 1451.08,
+      "text": "preciso",
+      "probability": 0.123
+    },
+    {
+      "start": 1451.08,
+      "end": 1451.28,
+      "text": "de",
+      "probability": 0.475
+    },
+    {
+      "start": 1451.28,
+      "end": 1451.36,
+      "text": "um",
+      "probability": 0.265
+    },
+    {
+      "start": 1451.36,
+      "end": 1452.02,
+      "text": "acolhido.",
+      "probability": 0.627
+    },
+    {
+      "start": 1458.02,
+      "end": 1458.62,
+      "text": "Oi?",
+      "probability": 0.723
+    },
+    {
+      "start": 1461.39,
+      "end": 1461.99,
+      "text": "Eu",
+      "probability": 0.367
+    },
+    {
+      "start": 1461.99,
+      "end": 1462.27,
+      "text": "não",
+      "probability": 0.667
+    },
+    {
+      "start": 1462.27,
+      "end": 1462.45,
+      "text": "preciso",
+      "probability": 0.996
+    },
+    {
+      "start": 1462.45,
+      "end": 1462.63,
+      "text": "do",
+      "probability": 0.22
+    },
+    {
+      "start": 1462.63,
+      "end": 1462.91,
+      "text": "seu,",
+      "probability": 0.56
+    },
+    {
+      "start": 1462.97,
+      "end": 1463.23,
+      "text": "né?",
+      "probability": 0.937
+    },
+    {
+      "start": 1466.62,
+      "end": 1467.04,
+      "text": "Meu",
+      "probability": 0.775
+    },
+    {
+      "start": 1467.04,
+      "end": 1467.4,
+      "text": "Deus",
+      "probability": 0.994
+    },
+    {
+      "start": 1467.4,
+      "end": 1467.68,
+      "text": "do",
+      "probability": 0.969
+    },
+    {
+      "start": 1467.68,
+      "end": 1467.84,
+      "text": "céu,",
+      "probability": 0.997
+    },
+    {
+      "start": 1467.84,
+      "end": 1467.98,
+      "text": "que",
+      "probability": 0.759
+    },
+    {
+      "start": 1467.98,
+      "end": 1468.48,
+      "text": "loucura.",
+      "probability": 0.737
+    },
+    {
+      "start": 1468.84,
+      "end": 1469.22,
+      "text": "Você",
+      "probability": 0.295
+    },
+    {
+      "start": 1474.34,
+      "end": 1474.54,
+      "text": "não",
+      "probability": 0.542
+    },
+    {
+      "start": 1474.54,
+      "end": 1474.58,
+      "text": "vai",
+      "probability": 0.401
+    },
+    {
+      "start": 1474.58,
+      "end": 1474.72,
+      "text": "ter",
+      "probability": 0.962
+    },
+    {
+      "start": 1474.72,
+      "end": 1474.82,
+      "text": "que",
+      "probability": 0.974
+    },
+    {
+      "start": 1474.82,
+      "end": 1474.92,
+      "text": "me",
+      "probability": 0.98
+    },
+    {
+      "start": 1474.92,
+      "end": 1475.26,
+      "text": "deixar",
+      "probability": 0.951
+    },
+    {
+      "start": 1475.26,
+      "end": 1475.7,
+      "text": "lá.",
+      "probability": 0.899
+    },
+    {
+      "start": 1826.46,
+      "end": 1827.06,
+      "text": "Sei",
+      "probability": 0.079
+    },
+    {
+      "start": 1827.06,
+      "end": 1827.16,
+      "text": "lá.",
+      "probability": 1.0
+    },
+    {
+      "start": 2170.24,
+      "end": 2170.72,
+      "text": "Nossa.",
+      "probability": 0.065
+    },
+    {
+      "start": 2171.12,
+      "end": 2171.26,
+      "text": "Eu",
+      "probability": 0.298
+    },
+    {
+      "start": 2178.59,
+      "end": 2178.91,
+      "text": "não",
+      "probability": 0.271
+    },
+    {
+      "start": 2178.91,
+      "end": 2179.11,
+      "text": "quero",
+      "probability": 0.538
+    },
+    {
+      "start": 2179.11,
+      "end": 2179.45,
+      "text": "estar",
+      "probability": 0.308
+    },
+    {
+      "start": 2179.45,
+      "end": 2180.01,
+      "text": "morrendo.",
+      "probability": 0.708
+    },
+    {
+      "start": 2180.39,
+      "end": 2180.97,
+      "text": "Vamos",
+      "probability": 0.107
+    },
+    {
+      "start": 2243.02,
+      "end": 2243.24,
+      "text": "chegar.",
+      "probability": 0.104
+    },
+    {
+      "start": 2243.68,
+      "end": 2244.12,
+      "text": "Vamos",
+      "probability": 0.225
+    },
+    {
+      "start": 2358.8,
+      "end": 2359.14,
+      "text": "lá.",
+      "probability": 0.85
+    },
+    {
+      "start": 2946.78,
+      "end": 2947.04,
+      "text": "Eu",
+      "probability": 0.75
+    },
+    {
+      "start": 2947.04,
+      "end": 2947.9,
+      "text": "existi.",
+      "probability": 0.751
+    },
+    {
+      "start": 2947.9,
+      "end": 2948.3,
+      "text": "Gente,",
+      "probability": 0.301
+    },
+    {
+      "start": 2948.32,
+      "end": 2948.5,
+      "text": "não.",
+      "probability": 0.274
+    },
+    {
+      "start": 2948.64,
+      "end": 2948.84,
+      "text": "Eu",
+      "probability": 0.277
+    },
+    {
+      "start": 2950.02,
+      "end": 2950.38,
+      "text": "posso.",
+      "probability": 0.279
+    }
+  ]
+}

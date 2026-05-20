@@ -1,0 +1,148 @@
+{
+  "source_file": "VOR20260508063221_0805_part002_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.0,
+  "segments": {
+    "00:21:53,00:21:57": "Sim, sim, sim.",
+    "00:22:00,00:22:01": "Isso aí, né?",
+    "00:22:31,00:22:33": "Isso sim, eu sei.",
+    "00:22:33,00:22:34": "Eu sei, eu sei.",
+    "00:22:34,00:22:34": "Eu sei, eu sei.",
+    "00:54:21,00:54:24": "O que é isso?"
+  },
+  "words": [
+    {
+      "start": 1313.68,
+      "end": 1315.08,
+      "text": "Sim,",
+      "probability": 0.039
+    },
+    {
+      "start": 1315.08,
+      "end": 1316.48,
+      "text": "sim,",
+      "probability": 0.558
+    },
+    {
+      "start": 1316.62,
+      "end": 1317.56,
+      "text": "sim.",
+      "probability": 0.394
+    },
+    {
+      "start": 1320.56,
+      "end": 1320.76,
+      "text": "Isso",
+      "probability": 0.044
+    },
+    {
+      "start": 1320.76,
+      "end": 1321.08,
+      "text": "aí,",
+      "probability": 0.227
+    },
+    {
+      "start": 1321.14,
+      "end": 1321.36,
+      "text": "né?",
+      "probability": 0.32
+    },
+    {
+      "start": 1351.9,
+      "end": 1352.06,
+      "text": "Isso",
+      "probability": 0.068
+    },
+    {
+      "start": 1352.06,
+      "end": 1352.4,
+      "text": "sim,",
+      "probability": 0.433
+    },
+    {
+      "start": 1352.56,
+      "end": 1352.78,
+      "text": "eu",
+      "probability": 0.413
+    },
+    {
+      "start": 1352.78,
+      "end": 1353.1,
+      "text": "sei.",
+      "probability": 0.162
+    },
+    {
+      "start": 1353.1,
+      "end": 1353.22,
+      "text": "Eu",
+      "probability": 0.44
+    },
+    {
+      "start": 1353.22,
+      "end": 1353.62,
+      "text": "sei,",
+      "probability": 0.821
+    },
+    {
+      "start": 1353.66,
+      "end": 1353.84,
+      "text": "eu",
+      "probability": 0.945
+    },
+    {
+      "start": 1353.84,
+      "end": 1354.14,
+      "text": "sei.",
+      "probability": 0.312
+    },
+    {
+      "start": 1354.5,
+      "end": 1354.62,
+      "text": "Eu",
+      "probability": 0.587
+    },
+    {
+      "start": 1354.62,
+      "end": 1354.62,
+      "text": "sei,",
+      "probability": 0.797
+    },
+    {
+      "start": 1354.8,
+      "end": 1354.8,
+      "text": "eu",
+      "probability": 0.98
+    },
+    {
+      "start": 1354.8,
+      "end": 1354.8,
+      "text": "sei.",
+      "probability": 0.997
+    },
+    {
+      "start": 3261.34,
+      "end": 3262.74,
+      "text": "O",
+      "probability": 0.046
+    },
+    {
+      "start": 3262.74,
+      "end": 3264.14,
+      "text": "que",
+      "probability": 0.657
+    },
+    {
+      "start": 3264.14,
+      "end": 3264.5,
+      "text": "é",
+      "probability": 0.483
+    },
+    {
+      "start": 3264.5,
+      "end": 3264.8,
+      "text": "isso?",
+      "probability": 0.726
+    }
+  ]
+}

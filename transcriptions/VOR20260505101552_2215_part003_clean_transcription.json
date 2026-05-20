@@ -1,0 +1,21 @@
+{
+  "source_file": "VOR20260505101552_2215_part003_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:02:34,00:02:34": "Capsule.",
+    "00:11:29,00:11:29": "."
+  },
+  "words": [
+    {
+      "start": 154.11,
+      "end": 154.59,
+      "text": "Capsule."
+    },
+    {
+      "start": 689.67,
+      "end": 689.75,
+      "text": "."
+    }
+  ]
+}

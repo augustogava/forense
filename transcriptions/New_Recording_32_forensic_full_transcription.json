@@ -1,0 +1,216 @@
+{
+  "source_file": "New_Recording_32_forensic_full.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:07:49,00:07:51": "Não se esqueça de deixar o seu like, compartilhar e se inscrever no canal.",
+    "00:08:56,00:08:56": "Prova é aqui?",
+    "00:13:53,00:13:54": "Obrigado.",
+    "00:14:58,00:14:58": ".",
+    "00:18:24,00:18:24": ".",
+    "00:20:08,00:20:08": "Não há...",
+    "00:20:56,00:20:56": "Não maquiar.",
+    "00:25:04,00:25:05": "Seja bom, vamos descer.",
+    "00:25:06,00:25:08": "É, vamos descer.",
+    "00:27:13,00:27:13": "Obrigado!",
+    "00:27:16,00:27:17": "Não se causa.",
+    "00:29:50,00:29:50": "Não é pra tirar!"
+  },
+  "words": [
+    {
+      "start": 469.12,
+      "end": 469.68,
+      "text": "Não"
+    },
+    {
+      "start": 469.68,
+      "end": 470.8,
+      "text": "se"
+    },
+    {
+      "start": 470.8,
+      "end": 471.4,
+      "text": "esqueça"
+    },
+    {
+      "start": 471.4,
+      "end": 471.4,
+      "text": "de"
+    },
+    {
+      "start": 471.4,
+      "end": 471.44,
+      "text": "deixar"
+    },
+    {
+      "start": 471.44,
+      "end": 471.5,
+      "text": "o"
+    },
+    {
+      "start": 471.5,
+      "end": 471.66,
+      "text": "seu"
+    },
+    {
+      "start": 471.66,
+      "end": 471.74,
+      "text": "like,"
+    },
+    {
+      "start": 471.74,
+      "end": 471.74,
+      "text": "compartilhar"
+    },
+    {
+      "start": 471.74,
+      "end": 471.74,
+      "text": "e"
+    },
+    {
+      "start": 471.74,
+      "end": 471.74,
+      "text": "se"
+    },
+    {
+      "start": 471.74,
+      "end": 471.74,
+      "text": "inscrever"
+    },
+    {
+      "start": 471.74,
+      "end": 471.76,
+      "text": "no"
+    },
+    {
+      "start": 471.76,
+      "end": 471.98,
+      "text": "canal."
+    },
+    {
+      "start": 536.23,
+      "end": 536.37,
+      "text": "Prova"
+    },
+    {
+      "start": 536.37,
+      "end": 536.37,
+      "text": "é"
+    },
+    {
+      "start": 536.37,
+      "end": 536.55,
+      "text": "aqui?"
+    },
+    {
+      "start": 833.99,
+      "end": 834.17,
+      "text": "Obrigado."
+    },
+    {
+      "start": 898.27,
+      "end": 898.49,
+      "text": "."
+    },
+    {
+      "start": 1104.58,
+      "end": 1104.72,
+      "text": "."
+    },
+    {
+      "start": 1208.07,
+      "end": 1208.25,
+      "text": "Não"
+    },
+    {
+      "start": 1208.25,
+      "end": 1208.37,
+      "text": "há..."
+    },
+    {
+      "start": 1256.23,
+      "end": 1256.35,
+      "text": "Não"
+    },
+    {
+      "start": 1256.35,
+      "end": 1256.81,
+      "text": "maquiar."
+    },
+    {
+      "start": 1504.35,
+      "end": 1504.47,
+      "text": "Seja"
+    },
+    {
+      "start": 1504.47,
+      "end": 1504.77,
+      "text": "bom,"
+    },
+    {
+      "start": 1504.93,
+      "end": 1505.13,
+      "text": "vamos"
+    },
+    {
+      "start": 1505.13,
+      "end": 1505.39,
+      "text": "descer."
+    },
+    {
+      "start": 1506.73,
+      "end": 1507.13,
+      "text": "É,"
+    },
+    {
+      "start": 1507.31,
+      "end": 1507.65,
+      "text": "vamos"
+    },
+    {
+      "start": 1507.65,
+      "end": 1508.03,
+      "text": "descer."
+    },
+    {
+      "start": 1633.03,
+      "end": 1633.35,
+      "text": "Obrigado!"
+    },
+    {
+      "start": 1636.74,
+      "end": 1636.82,
+      "text": "Não"
+    },
+    {
+      "start": 1636.82,
+      "end": 1636.82,
+      "text": "se"
+    },
+    {
+      "start": 1636.82,
+      "end": 1637.08,
+      "text": "causa."
+    },
+    {
+      "start": 1790.05,
+      "end": 1790.15,
+      "text": "Não"
+    },
+    {
+      "start": 1790.15,
+      "end": 1790.17,
+      "text": "é"
+    },
+    {
+      "start": 1790.17,
+      "end": 1790.33,
+      "text": "pra"
+    },
+    {
+      "start": 1790.33,
+      "end": 1790.61,
+      "text": "tirar!"
+    }
+  ]
+}

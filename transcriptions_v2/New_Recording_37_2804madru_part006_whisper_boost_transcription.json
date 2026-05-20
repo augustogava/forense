@@ -1,0 +1,23 @@
+{
+  "source_file": "New_Recording_37_2804madru_part006_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 5400.0,
+  "segments": {
+    "00:00:19,00:00:24": "Vamos lá."
+  },
+  "words": [
+    {
+      "start": 19.66,
+      "end": 21.06,
+      "text": "Vamos",
+      "probability": 0.026
+    },
+    {
+      "start": 23.21,
+      "end": 24.61,
+      "text": "lá.",
+      "probability": 0.854
+    }
+  ]
+}

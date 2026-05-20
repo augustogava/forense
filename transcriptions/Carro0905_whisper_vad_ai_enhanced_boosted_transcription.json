@@ -1,0 +1,658 @@
+{
+  "source_file": "Carro0905_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:04,00:00:05": "É por isso que eu estou aqui no carro.",
+    "00:01:27,00:01:28": ".",
+    "00:12:01,00:12:01": ".",
+    "00:12:15,00:12:16": "Não, pode ir na frente.",
+    "00:12:18,00:12:19": "Sem cadeirinha, né?",
+    "00:12:19,00:12:19": "Pode sair.",
+    "00:12:20,00:12:21": "É, tia.",
+    "00:12:25,00:12:29": "Não dá pra filmar nem com a gente hoje, né?",
+    "00:12:29,00:12:29": "Aqui no carro.",
+    "00:12:30,00:12:30": "Não dá, dá mesmo.",
+    "00:12:34,00:12:35": "O que é isso?",
+    "00:12:38,00:12:39": "Eu estou aqui.",
+    "00:12:47,00:12:53": "Atenção! O que eu te dei é amor, e o tanto que você não me falou.",
+    "00:12:54,00:13:02": "Se a sua única chance vai ser, em alguma balada da vida eu te beijar sem torcer bem.",
+    "00:13:03,00:13:05": "Sigo o que é você.",
+    "00:13:13,00:13:14": "O que você acha?",
+    "00:14:51,00:14:52": "Atenção!",
+    "00:15:00,00:15:02": "Não entendi, não é uma coisa...",
+    "00:15:21,00:15:22": "Música",
+    "00:15:42,00:15:43": "Aaaaaaah!",
+    "00:15:55,00:15:56": "É a forma!",
+    "00:16:31,00:16:33": "Apenas o que você quer.",
+    "00:16:58,00:17:00": "Atenção!",
+    "00:17:02,00:17:04": "Atenção!",
+    "00:17:09,00:17:20": "A música é uma forma de expressão de violência, de violência sexual, de violência sexual."
+  },
+  "explicit_segments": {
+    "00:17:09,00:17:20": "A música é uma forma de expressão de violência, de violência sexual, de violência sexual."
+  },
+  "explicit_count": 1,
+  "words": [
+    {
+      "start": 4.13,
+      "end": 4.23,
+      "text": "É"
+    },
+    {
+      "start": 4.23,
+      "end": 4.29,
+      "text": "por"
+    },
+    {
+      "start": 4.29,
+      "end": 4.49,
+      "text": "isso"
+    },
+    {
+      "start": 4.49,
+      "end": 4.67,
+      "text": "que"
+    },
+    {
+      "start": 4.67,
+      "end": 4.81,
+      "text": "eu"
+    },
+    {
+      "start": 4.81,
+      "end": 4.87,
+      "text": "estou"
+    },
+    {
+      "start": 4.87,
+      "end": 4.89,
+      "text": "aqui"
+    },
+    {
+      "start": 4.89,
+      "end": 4.89,
+      "text": "no"
+    },
+    {
+      "start": 4.89,
+      "end": 5.05,
+      "text": "carro."
+    },
+    {
+      "start": 87.71,
+      "end": 88.03,
+      "text": "."
+    },
+    {
+      "start": 721.35,
+      "end": 721.91,
+      "text": "."
+    },
+    {
+      "start": 735.59,
+      "end": 736.27,
+      "text": "Não,"
+    },
+    {
+      "start": 736.31,
+      "end": 736.49,
+      "text": "pode"
+    },
+    {
+      "start": 736.49,
+      "end": 736.63,
+      "text": "ir"
+    },
+    {
+      "start": 736.63,
+      "end": 736.67,
+      "text": "na"
+    },
+    {
+      "start": 736.67,
+      "end": 736.93,
+      "text": "frente."
+    },
+    {
+      "start": 738.35,
+      "end": 738.79,
+      "text": "Sem"
+    },
+    {
+      "start": 738.79,
+      "end": 739.23,
+      "text": "cadeirinha,"
+    },
+    {
+      "start": 739.23,
+      "end": 739.37,
+      "text": "né?"
+    },
+    {
+      "start": 739.43,
+      "end": 739.75,
+      "text": "Pode"
+    },
+    {
+      "start": 739.75,
+      "end": 739.99,
+      "text": "sair."
+    },
+    {
+      "start": 740.85,
+      "end": 741.29,
+      "text": "É,"
+    },
+    {
+      "start": 741.29,
+      "end": 741.51,
+      "text": "tia."
+    },
+    {
+      "start": 745.89,
+      "end": 746.33,
+      "text": "Não"
+    },
+    {
+      "start": 746.33,
+      "end": 746.57,
+      "text": "dá"
+    },
+    {
+      "start": 746.57,
+      "end": 746.73,
+      "text": "pra"
+    },
+    {
+      "start": 746.73,
+      "end": 747.13,
+      "text": "filmar"
+    },
+    {
+      "start": 747.13,
+      "end": 747.27,
+      "text": "nem"
+    },
+    {
+      "start": 747.27,
+      "end": 747.37,
+      "text": "com"
+    },
+    {
+      "start": 747.37,
+      "end": 747.49,
+      "text": "a"
+    },
+    {
+      "start": 747.49,
+      "end": 747.71,
+      "text": "gente"
+    },
+    {
+      "start": 747.71,
+      "end": 748.03,
+      "text": "hoje,"
+    },
+    {
+      "start": 748.19,
+      "end": 749.01,
+      "text": "né?"
+    },
+    {
+      "start": 749.11,
+      "end": 749.37,
+      "text": "Aqui"
+    },
+    {
+      "start": 749.37,
+      "end": 749.49,
+      "text": "no"
+    },
+    {
+      "start": 749.49,
+      "end": 749.81,
+      "text": "carro."
+    },
+    {
+      "start": 750.03,
+      "end": 750.31,
+      "text": "Não"
+    },
+    {
+      "start": 750.31,
+      "end": 750.55,
+      "text": "dá,"
+    },
+    {
+      "start": 750.65,
+      "end": 750.71,
+      "text": "dá"
+    },
+    {
+      "start": 750.71,
+      "end": 750.87,
+      "text": "mesmo."
+    },
+    {
+      "start": 754.21,
+      "end": 755.05,
+      "text": "O"
+    },
+    {
+      "start": 755.05,
+      "end": 755.43,
+      "text": "que"
+    },
+    {
+      "start": 755.43,
+      "end": 755.69,
+      "text": "é"
+    },
+    {
+      "start": 755.69,
+      "end": 755.91,
+      "text": "isso?"
+    },
+    {
+      "start": 758.31,
+      "end": 758.79,
+      "text": "Eu"
+    },
+    {
+      "start": 758.79,
+      "end": 758.95,
+      "text": "estou"
+    },
+    {
+      "start": 758.95,
+      "end": 759.13,
+      "text": "aqui."
+    },
+    {
+      "start": 767.62,
+      "end": 768.74,
+      "text": "Atenção!"
+    },
+    {
+      "start": 768.74,
+      "end": 768.94,
+      "text": "O"
+    },
+    {
+      "start": 768.94,
+      "end": 769.46,
+      "text": "que"
+    },
+    {
+      "start": 769.46,
+      "end": 769.46,
+      "text": "eu"
+    },
+    {
+      "start": 769.46,
+      "end": 769.86,
+      "text": "te"
+    },
+    {
+      "start": 769.86,
+      "end": 770.2,
+      "text": "dei"
+    },
+    {
+      "start": 770.2,
+      "end": 770.34,
+      "text": "é"
+    },
+    {
+      "start": 770.34,
+      "end": 770.84,
+      "text": "amor,"
+    },
+    {
+      "start": 771.0,
+      "end": 771.88,
+      "text": "e"
+    },
+    {
+      "start": 771.88,
+      "end": 772.0,
+      "text": "o"
+    },
+    {
+      "start": 772.0,
+      "end": 772.32,
+      "text": "tanto"
+    },
+    {
+      "start": 772.32,
+      "end": 772.52,
+      "text": "que"
+    },
+    {
+      "start": 772.52,
+      "end": 772.84,
+      "text": "você"
+    },
+    {
+      "start": 772.84,
+      "end": 773.22,
+      "text": "não"
+    },
+    {
+      "start": 773.22,
+      "end": 773.52,
+      "text": "me"
+    },
+    {
+      "start": 773.52,
+      "end": 774.0,
+      "text": "falou."
+    },
+    {
+      "start": 774.42,
+      "end": 775.08,
+      "text": "Se"
+    },
+    {
+      "start": 775.08,
+      "end": 775.28,
+      "text": "a"
+    },
+    {
+      "start": 775.28,
+      "end": 775.5,
+      "text": "sua"
+    },
+    {
+      "start": 775.5,
+      "end": 775.86,
+      "text": "única"
+    },
+    {
+      "start": 775.86,
+      "end": 776.62,
+      "text": "chance"
+    },
+    {
+      "start": 776.62,
+      "end": 777.04,
+      "text": "vai"
+    },
+    {
+      "start": 777.04,
+      "end": 777.42,
+      "text": "ser,"
+    },
+    {
+      "start": 777.7,
+      "end": 778.56,
+      "text": "em"
+    },
+    {
+      "start": 778.56,
+      "end": 778.9,
+      "text": "alguma"
+    },
+    {
+      "start": 778.9,
+      "end": 779.84,
+      "text": "balada"
+    },
+    {
+      "start": 779.84,
+      "end": 780.04,
+      "text": "da"
+    },
+    {
+      "start": 780.04,
+      "end": 780.44,
+      "text": "vida"
+    },
+    {
+      "start": 780.44,
+      "end": 780.9,
+      "text": "eu"
+    },
+    {
+      "start": 780.9,
+      "end": 780.98,
+      "text": "te"
+    },
+    {
+      "start": 780.98,
+      "end": 781.68,
+      "text": "beijar"
+    },
+    {
+      "start": 781.68,
+      "end": 781.98,
+      "text": "sem"
+    },
+    {
+      "start": 781.98,
+      "end": 782.48,
+      "text": "torcer"
+    },
+    {
+      "start": 782.48,
+      "end": 782.8,
+      "text": "bem."
+    },
+    {
+      "start": 783.74,
+      "end": 784.42,
+      "text": "Sigo"
+    },
+    {
+      "start": 784.42,
+      "end": 784.58,
+      "text": "o"
+    },
+    {
+      "start": 784.58,
+      "end": 784.84,
+      "text": "que"
+    },
+    {
+      "start": 784.84,
+      "end": 785.08,
+      "text": "é"
+    },
+    {
+      "start": 785.08,
+      "end": 785.94,
+      "text": "você."
+    },
+    {
+      "start": 793.76,
+      "end": 793.88,
+      "text": "O"
+    },
+    {
+      "start": 793.88,
+      "end": 794.0,
+      "text": "que"
+    },
+    {
+      "start": 794.0,
+      "end": 794.3,
+      "text": "você"
+    },
+    {
+      "start": 794.3,
+      "end": 794.62,
+      "text": "acha?"
+    },
+    {
+      "start": 891.84,
+      "end": 892.66,
+      "text": "Atenção!"
+    },
+    {
+      "start": 900.77,
+      "end": 900.85,
+      "text": "Não"
+    },
+    {
+      "start": 900.85,
+      "end": 901.23,
+      "text": "entendi,"
+    },
+    {
+      "start": 901.45,
+      "end": 901.53,
+      "text": "não"
+    },
+    {
+      "start": 901.53,
+      "end": 901.57,
+      "text": "é"
+    },
+    {
+      "start": 901.57,
+      "end": 901.79,
+      "text": "uma"
+    },
+    {
+      "start": 901.79,
+      "end": 902.37,
+      "text": "coisa..."
+    },
+    {
+      "start": 921.23,
+      "end": 922.63,
+      "text": "Música"
+    },
+    {
+      "start": 942.79,
+      "end": 943.45,
+      "text": "Aaaaaaah!"
+    },
+    {
+      "start": 955.87,
+      "end": 956.03,
+      "text": "É"
+    },
+    {
+      "start": 956.03,
+      "end": 956.09,
+      "text": "a"
+    },
+    {
+      "start": 956.09,
+      "end": 956.43,
+      "text": "forma!"
+    },
+    {
+      "start": 991.96,
+      "end": 992.5,
+      "text": "Apenas"
+    },
+    {
+      "start": 992.5,
+      "end": 992.52,
+      "text": "o"
+    },
+    {
+      "start": 992.52,
+      "end": 992.66,
+      "text": "que"
+    },
+    {
+      "start": 992.66,
+      "end": 992.9,
+      "text": "você"
+    },
+    {
+      "start": 992.9,
+      "end": 993.2,
+      "text": "quer."
+    },
+    {
+      "start": 1018.53,
+      "end": 1020.31,
+      "text": "Atenção!"
+    },
+    {
+      "start": 1022.98,
+      "end": 1024.1,
+      "text": "Atenção!"
+    },
+    {
+      "start": 1029.35,
+      "end": 1029.63,
+      "text": "A"
+    },
+    {
+      "start": 1029.63,
+      "end": 1030.43,
+      "text": "música"
+    },
+    {
+      "start": 1030.43,
+      "end": 1030.61,
+      "text": "é"
+    },
+    {
+      "start": 1030.61,
+      "end": 1030.85,
+      "text": "uma"
+    },
+    {
+      "start": 1030.85,
+      "end": 1031.49,
+      "text": "forma"
+    },
+    {
+      "start": 1031.49,
+      "end": 1033.59,
+      "text": "de"
+    },
+    {
+      "start": 1033.59,
+      "end": 1033.59,
+      "text": "expressão"
+    },
+    {
+      "start": 1033.59,
+      "end": 1033.59,
+      "text": "de"
+    },
+    {
+      "start": 1033.59,
+      "end": 1033.81,
+      "text": "violência,"
+    },
+    {
+      "start": 1033.81,
+      "end": 1033.81,
+      "text": "de"
+    },
+    {
+      "start": 1033.81,
+      "end": 1034.73,
+      "text": "violência"
+    },
+    {
+      "start": 1034.73,
+      "end": 1034.73,
+      "text": "sexual,"
+    },
+    {
+      "start": 1034.73,
+      "end": 1035.57,
+      "text": "de"
+    },
+    {
+      "start": 1035.57,
+      "end": 1039.69,
+      "text": "violência"
+    },
+    {
+      "start": 1039.69,
+      "end": 1040.59,
+      "text": "sexual."
+    }
+  ]
+}

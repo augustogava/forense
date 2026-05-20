@@ -1,0 +1,190 @@
+{
+  "source_file": "Descer2_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:03": "Não sei o que vai ser, mas eu vou. Vai cair.",
+    "00:00:07,00:00:08": "Vai cair, Matias.",
+    "00:00:10,00:00:12": "Vamos deitar dentro dele, eu chego.",
+    "00:00:21,00:00:21": "Bem, vamos lá.",
+    "00:00:25,00:00:27": "Finalmente, você vai pegar o copo e você vai dormir.",
+    "00:00:29,00:00:30": "Ex-voz."
+  },
+  "words": [
+    {
+      "start": 0.71,
+      "end": 0.99,
+      "text": "Não"
+    },
+    {
+      "start": 0.99,
+      "end": 1.17,
+      "text": "sei"
+    },
+    {
+      "start": 1.17,
+      "end": 1.23,
+      "text": "o"
+    },
+    {
+      "start": 1.23,
+      "end": 1.27,
+      "text": "que"
+    },
+    {
+      "start": 1.27,
+      "end": 1.45,
+      "text": "vai"
+    },
+    {
+      "start": 1.45,
+      "end": 1.57,
+      "text": "ser,"
+    },
+    {
+      "start": 1.61,
+      "end": 1.75,
+      "text": "mas"
+    },
+    {
+      "start": 1.75,
+      "end": 1.81,
+      "text": "eu"
+    },
+    {
+      "start": 1.81,
+      "end": 2.01,
+      "text": "vou."
+    },
+    {
+      "start": 3.07,
+      "end": 3.35,
+      "text": "Vai"
+    },
+    {
+      "start": 3.35,
+      "end": 3.73,
+      "text": "cair."
+    },
+    {
+      "start": 7.94,
+      "end": 8.04,
+      "text": "Vai"
+    },
+    {
+      "start": 8.04,
+      "end": 8.28,
+      "text": "cair,"
+    },
+    {
+      "start": 8.32,
+      "end": 8.82,
+      "text": "Matias."
+    },
+    {
+      "start": 10.82,
+      "end": 11.34,
+      "text": "Vamos"
+    },
+    {
+      "start": 11.34,
+      "end": 11.76,
+      "text": "deitar"
+    },
+    {
+      "start": 11.76,
+      "end": 11.92,
+      "text": "dentro"
+    },
+    {
+      "start": 11.92,
+      "end": 12.32,
+      "text": "dele,"
+    },
+    {
+      "start": 12.32,
+      "end": 12.46,
+      "text": "eu"
+    },
+    {
+      "start": 12.46,
+      "end": 12.82,
+      "text": "chego."
+    },
+    {
+      "start": 21.05,
+      "end": 21.41,
+      "text": "Bem,"
+    },
+    {
+      "start": 21.51,
+      "end": 21.69,
+      "text": "vamos"
+    },
+    {
+      "start": 21.69,
+      "end": 21.87,
+      "text": "lá."
+    },
+    {
+      "start": 25.31,
+      "end": 25.73,
+      "text": "Finalmente,"
+    },
+    {
+      "start": 25.75,
+      "end": 26.03,
+      "text": "você"
+    },
+    {
+      "start": 26.03,
+      "end": 26.17,
+      "text": "vai"
+    },
+    {
+      "start": 26.17,
+      "end": 26.47,
+      "text": "pegar"
+    },
+    {
+      "start": 26.47,
+      "end": 26.57,
+      "text": "o"
+    },
+    {
+      "start": 26.57,
+      "end": 26.93,
+      "text": "copo"
+    },
+    {
+      "start": 26.93,
+      "end": 26.93,
+      "text": "e"
+    },
+    {
+      "start": 26.93,
+      "end": 27.03,
+      "text": "você"
+    },
+    {
+      "start": 27.03,
+      "end": 27.11,
+      "text": "vai"
+    },
+    {
+      "start": 27.11,
+      "end": 27.27,
+      "text": "dormir."
+    },
+    {
+      "start": 29.92,
+      "end": 30.28,
+      "text": "Ex"
+    },
+    {
+      "start": 30.28,
+      "end": 30.96,
+      "text": "-voz."
+    }
+  ]
+}

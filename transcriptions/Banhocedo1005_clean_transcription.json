@@ -1,0 +1,52 @@
+{
+  "source_file": "Banhocedo1005_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:04,00:00:05": "E aí",
+    "00:00:46,00:00:49": "Atenção!",
+    "00:01:25,00:01:27": "A vida desde o princípio."
+  },
+  "words": [
+    {
+      "start": 4.01,
+      "end": 4.31,
+      "text": "E"
+    },
+    {
+      "start": 4.31,
+      "end": 5.37,
+      "text": "aí"
+    },
+    {
+      "start": 46.88,
+      "end": 49.26,
+      "text": "Atenção!"
+    },
+    {
+      "start": 85.76,
+      "end": 85.84,
+      "text": "A"
+    },
+    {
+      "start": 85.84,
+      "end": 86.06,
+      "text": "vida"
+    },
+    {
+      "start": 86.06,
+      "end": 86.34,
+      "text": "desde"
+    },
+    {
+      "start": 86.34,
+      "end": 86.58,
+      "text": "o"
+    },
+    {
+      "start": 86.58,
+      "end": 87.02,
+      "text": "princípio."
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "source_file": "Quartonat0505_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:24:03,00:24:03": "Me encontre em breve!",
+    "00:24:07,00:24:08": "Caso de meninas.",
+    "00:24:10,00:24:11": "O que é o autismo da coisa?",
+    "00:24:21,00:24:23": "E é um artigo do seu, né?",
+    "00:24:27,00:24:29": "Meu Deus do céu, o que eu não faço aqui no final?",
+    "00:30:35,00:30:35": "Obrigada."
+  },
+  "words": [
+    {
+      "start": 1443.3,
+      "end": 1443.46,
+      "text": "Me"
+    },
+    {
+      "start": 1443.46,
+      "end": 1443.72,
+      "text": "encontre"
+    },
+    {
+      "start": 1443.72,
+      "end": 1443.72,
+      "text": "em"
+    },
+    {
+      "start": 1443.72,
+      "end": 1443.74,
+      "text": "breve!"
+    },
+    {
+      "start": 1447.87,
+      "end": 1448.27,
+      "text": "Caso"
+    },
+    {
+      "start": 1448.27,
+      "end": 1448.27,
+      "text": "de"
+    },
+    {
+      "start": 1448.27,
+      "end": 1448.79,
+      "text": "meninas."
+    },
+    {
+      "start": 1450.79,
+      "end": 1450.85,
+      "text": "O"
+    },
+    {
+      "start": 1450.85,
+      "end": 1450.97,
+      "text": "que"
+    },
+    {
+      "start": 1450.97,
+      "end": 1451.19,
+      "text": "é"
+    },
+    {
+      "start": 1451.19,
+      "end": 1451.19,
+      "text": "o"
+    },
+    {
+      "start": 1451.19,
+      "end": 1451.19,
+      "text": "autismo"
+    },
+    {
+      "start": 1451.19,
+      "end": 1451.35,
+      "text": "da"
+    },
+    {
+      "start": 1451.35,
+      "end": 1451.63,
+      "text": "coisa?"
+    },
+    {
+      "start": 1461.99,
+      "end": 1462.07,
+      "text": "E"
+    },
+    {
+      "start": 1462.07,
+      "end": 1462.09,
+      "text": "é"
+    },
+    {
+      "start": 1462.09,
+      "end": 1462.17,
+      "text": "um"
+    },
+    {
+      "start": 1462.17,
+      "end": 1462.51,
+      "text": "artigo"
+    },
+    {
+      "start": 1462.51,
+      "end": 1462.65,
+      "text": "do"
+    },
+    {
+      "start": 1462.65,
+      "end": 1462.91,
+      "text": "seu,"
+    },
+    {
+      "start": 1463.01,
+      "end": 1463.15,
+      "text": "né?"
+    },
+    {
+      "start": 1467.11,
+      "end": 1467.31,
+      "text": "Meu"
+    },
+    {
+      "start": 1467.31,
+      "end": 1467.31,
+      "text": "Deus"
+    },
+    {
+      "start": 1467.31,
+      "end": 1467.45,
+      "text": "do"
+    },
+    {
+      "start": 1467.45,
+      "end": 1467.79,
+      "text": "céu,"
+    },
+    {
+      "start": 1467.89,
+      "end": 1467.97,
+      "text": "o"
+    },
+    {
+      "start": 1467.97,
+      "end": 1468.05,
+      "text": "que"
+    },
+    {
+      "start": 1468.05,
+      "end": 1468.17,
+      "text": "eu"
+    },
+    {
+      "start": 1468.17,
+      "end": 1468.31,
+      "text": "não"
+    },
+    {
+      "start": 1468.31,
+      "end": 1468.57,
+      "text": "faço"
+    },
+    {
+      "start": 1468.57,
+      "end": 1468.79,
+      "text": "aqui"
+    },
+    {
+      "start": 1468.79,
+      "end": 1468.93,
+      "text": "no"
+    },
+    {
+      "start": 1468.93,
+      "end": 1469.21,
+      "text": "final?"
+    },
+    {
+      "start": 1835.14,
+      "end": 1835.58,
+      "text": "Obrigada."
+    }
+  ]
+}

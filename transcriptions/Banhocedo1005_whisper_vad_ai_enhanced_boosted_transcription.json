@@ -1,0 +1,103 @@
+{
+  "source_file": "Banhocedo1005_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:03,00:00:05": "Obrigada.",
+    "00:01:16,00:01:16": "Sim.",
+    "00:01:24,00:01:28": "Acompanhe o programa em todos os lugares.",
+    "00:02:35,00:02:36": "Não se esqueça de curtir e compartilhar o vídeo."
+  },
+  "words": [
+    {
+      "start": 3.72,
+      "end": 5.44,
+      "text": "Obrigada."
+    },
+    {
+      "start": 76.26,
+      "end": 76.42,
+      "text": "Sim."
+    },
+    {
+      "start": 84.74,
+      "end": 84.86,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 84.86,
+      "end": 84.86,
+      "text": "o"
+    },
+    {
+      "start": 84.86,
+      "end": 85.14,
+      "text": "programa"
+    },
+    {
+      "start": 85.14,
+      "end": 85.4,
+      "text": "em"
+    },
+    {
+      "start": 85.4,
+      "end": 86.04,
+      "text": "todos"
+    },
+    {
+      "start": 86.04,
+      "end": 86.94,
+      "text": "os"
+    },
+    {
+      "start": 86.94,
+      "end": 88.8,
+      "text": "lugares."
+    },
+    {
+      "start": 155.46,
+      "end": 155.46,
+      "text": "Não"
+    },
+    {
+      "start": 155.46,
+      "end": 155.54,
+      "text": "se"
+    },
+    {
+      "start": 155.54,
+      "end": 155.74,
+      "text": "esqueça"
+    },
+    {
+      "start": 155.74,
+      "end": 155.74,
+      "text": "de"
+    },
+    {
+      "start": 155.74,
+      "end": 155.82,
+      "text": "curtir"
+    },
+    {
+      "start": 155.82,
+      "end": 155.82,
+      "text": "e"
+    },
+    {
+      "start": 155.82,
+      "end": 155.82,
+      "text": "compartilhar"
+    },
+    {
+      "start": 155.82,
+      "end": 155.92,
+      "text": "o"
+    },
+    {
+      "start": 155.92,
+      "end": 156.24,
+      "text": "vídeo."
+    }
+  ]
+}

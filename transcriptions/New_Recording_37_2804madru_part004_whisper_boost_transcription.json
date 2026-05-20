@@ -1,0 +1,31 @@
+{
+  "source_file": "New_Recording_37_2804madru_part004_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:44:29,00:44:29": "Atenção!",
+    "00:44:34,00:44:35": "Seja bem-vindo!"
+  },
+  "words": [
+    {
+      "start": 2669.51,
+      "end": 2669.77,
+      "text": "Atenção!"
+    },
+    {
+      "start": 2674.59,
+      "end": 2674.91,
+      "text": "Seja"
+    },
+    {
+      "start": 2674.91,
+      "end": 2675.09,
+      "text": "bem"
+    },
+    {
+      "start": 2675.09,
+      "end": 2675.41,
+      "text": "-vindo!"
+    }
+  ]
+}

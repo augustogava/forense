@@ -1,0 +1,1972 @@
+{
+  "source_file": "Taquamanha02051-30-3_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "01:07:18,01:07:19": "Sim, é o meu nome.",
+    "01:07:23,01:07:25": "Eu me habito com tu.",
+    "01:08:33,01:08:35": "Não vai, que tu...",
+    "01:08:37,01:08:37": "Peraí...",
+    "01:09:07,01:09:07": "Por favor!",
+    "01:10:13,01:10:14": "Atenção! Atenção!",
+    "01:10:27,01:10:29": "A gente se vê na próxima. Um beijo e tchau!",
+    "01:10:35,01:10:35": ".",
+    "01:11:05,01:11:07": "A lenda de um dia de cheio de caro.",
+    "01:11:07,01:11:09": "Um dia de cheio de caro.",
+    "01:11:16,01:11:17": "Aaaaaah!",
+    "01:11:23,01:11:23": "Tchau!",
+    "01:11:37,01:11:39": "A gente vai fazer uma desidratação grande.",
+    "01:11:39,01:11:40": "A gente vai dormir.",
+    "01:11:40,01:11:41": "A gente vai dormir.",
+    "01:11:42,01:11:44": "Bom dia, meu amor.",
+    "01:11:45,01:11:47": "Bom dia, meu amor.",
+    "01:11:57,01:11:58": "Obrigado.",
+    "01:14:18,01:14:24": "Agradecimentos a todos os que participaram no evento.",
+    "01:14:25,01:14:26": "Atenção!",
+    "01:15:03,01:15:03": "Amém.",
+    "01:16:09,01:16:11": "Música",
+    "01:17:02,01:17:05": "Acompanhe as novas minestras e você vai ver.",
+    "01:17:06,01:17:17": "Eu sei de você, que eu me perdi, e eu se separando, a mulher, por eu poder,",
+    "01:17:19,01:17:25": "isso eu que vou ser seu amigo, vou ficar bem, se você quiser,",
+    "01:17:25,01:17:34": "quando surgir seus primeiros raios de mel, a vida se abrirá,",
+    "01:17:35,01:17:42": "O inferno está no céu e você vai rasgar o meu papel.",
+    "01:17:45,01:17:50": "Está escrito em um livro que não tem nada de importar, não tem nada a ver.",
+    "01:17:51,01:17:54": "A vida sempre, sempre foi o que se ia de fazer.",
+    "01:17:56,01:18:01": "Eu sou o meu, eu sou você, eu sou você.",
+    "01:18:23,01:18:24": "O que é isso?",
+    "01:18:24,01:18:28": "O que é isso?",
+    "01:18:41,01:18:41": ".",
+    "01:18:59,01:19:07": "Se tem bigodes de boca, nariz de canoa, parece meio estranho.",
+    "01:19:08,01:19:08": "É.",
+    "01:19:09,01:19:16": "Também um bico de pato e um jeitão de sábia.",
+    "01:19:41,01:19:42": "É tão lindo!",
+    "01:20:41,01:20:42": "Atenção!",
+    "01:20:48,01:20:49": "Amém.",
+    "01:21:18,01:21:30": "Essa muda é tão linda, deixa assim como está, e eu adoro, e agora eu quero poder lhe falar.",
+    "01:21:34,01:21:40": "Essa amizade que nasceu",
+    "01:21:40,01:21:44": "Você e eu",
+    "01:21:46,01:21:48": "Nós e você",
+    "01:21:49,01:21:54": "Você e eu",
+    "01:22:05,01:22:06": "O pai me amou!",
+    "01:22:11,01:22:13": "Fazendo um arco de sardinha no meu corpo.",
+    "01:22:25,01:22:30": "O que você quer? O que você quer?",
+    "01:22:33,01:22:35": "Então, vamos para o outro lado.",
+    "01:22:37,01:22:38": "Aqui vem o outro lado.",
+    "01:22:39,01:22:40": "Aqui vem o outro lado.",
+    "01:22:50,01:22:53": "A luta, a luta, a luta, a luta.",
+    "01:22:58,01:22:58": "Atenção!",
+    "01:27:30,01:27:36": "Olha o estado dessa válvula.",
+    "01:28:02,01:28:04": "Atenção!",
+    "01:28:30,01:28:35": "Não, já deixei o neném de rir. O neném de badanar, o beijo.",
+    "01:28:36,01:28:38": "Deixa eu ver se esse neném vai danar muito.",
+    "01:28:39,01:28:42": "Você acordou cedo, o que aconteceu com você que você acordou cedo?",
+    "01:28:51,01:28:52": "Não, não.",
+    "01:28:52,01:28:53": "Espera.",
+    "01:29:00,01:29:01": "Vamos lá tomar café.",
+    "01:29:05,01:29:06": "O que é?",
+    "01:29:08,01:29:10": "Ok, tá aqui.",
+    "01:29:19,01:29:22": "O Miki não tá aqui não, Miki. Só pra tentar.",
+    "01:29:22,01:29:27": "O Miki não tá aqui. Cadê o Miki?",
+    "01:29:28,01:29:29": "Lá na cozinha, Miki.",
+    "01:29:34,01:29:34": "É, o Miqueta lá.",
+    "01:29:39,01:29:39": "Se inscreve!",
+    "01:29:52,01:29:54": "Vamos lá buscar ele, vem."
+  },
+  "words": [
+    {
+      "start": 4038.21,
+      "end": 4038.47,
+      "text": "Sim,"
+    },
+    {
+      "start": 4038.47,
+      "end": 4038.61,
+      "text": "é"
+    },
+    {
+      "start": 4038.61,
+      "end": 4038.71,
+      "text": "o"
+    },
+    {
+      "start": 4038.71,
+      "end": 4038.89,
+      "text": "meu"
+    },
+    {
+      "start": 4038.89,
+      "end": 4039.17,
+      "text": "nome."
+    },
+    {
+      "start": 4043.97,
+      "end": 4044.05,
+      "text": "Eu"
+    },
+    {
+      "start": 4044.05,
+      "end": 4044.29,
+      "text": "me"
+    },
+    {
+      "start": 4044.29,
+      "end": 4044.73,
+      "text": "habito"
+    },
+    {
+      "start": 4044.73,
+      "end": 4044.93,
+      "text": "com"
+    },
+    {
+      "start": 4044.93,
+      "end": 4045.45,
+      "text": "tu."
+    },
+    {
+      "start": 4113.79,
+      "end": 4113.95,
+      "text": "Não"
+    },
+    {
+      "start": 4113.95,
+      "end": 4114.15,
+      "text": "vai,"
+    },
+    {
+      "start": 4114.27,
+      "end": 4114.55,
+      "text": "que"
+    },
+    {
+      "start": 4114.55,
+      "end": 4115.29,
+      "text": "tu..."
+    },
+    {
+      "start": 4117.13,
+      "end": 4117.61,
+      "text": "Peraí..."
+    },
+    {
+      "start": 4147.27,
+      "end": 4147.53,
+      "text": "Por"
+    },
+    {
+      "start": 4147.53,
+      "end": 4147.61,
+      "text": "favor!"
+    },
+    {
+      "start": 4213.22,
+      "end": 4213.72,
+      "text": "Atenção!"
+    },
+    {
+      "start": 4213.8,
+      "end": 4214.22,
+      "text": "Atenção!"
+    },
+    {
+      "start": 4227.62,
+      "end": 4227.7,
+      "text": "A"
+    },
+    {
+      "start": 4227.7,
+      "end": 4227.84,
+      "text": "gente"
+    },
+    {
+      "start": 4227.84,
+      "end": 4227.96,
+      "text": "se"
+    },
+    {
+      "start": 4227.96,
+      "end": 4228.14,
+      "text": "vê"
+    },
+    {
+      "start": 4228.14,
+      "end": 4228.26,
+      "text": "na"
+    },
+    {
+      "start": 4228.26,
+      "end": 4228.4,
+      "text": "próxima."
+    },
+    {
+      "start": 4228.66,
+      "end": 4228.94,
+      "text": "Um"
+    },
+    {
+      "start": 4228.94,
+      "end": 4229.5,
+      "text": "beijo"
+    },
+    {
+      "start": 4229.5,
+      "end": 4229.52,
+      "text": "e"
+    },
+    {
+      "start": 4229.52,
+      "end": 4229.72,
+      "text": "tchau!"
+    },
+    {
+      "start": 4235.59,
+      "end": 4235.69,
+      "text": "."
+    },
+    {
+      "start": 4265.0,
+      "end": 4265.2,
+      "text": "A"
+    },
+    {
+      "start": 4265.2,
+      "end": 4265.6,
+      "text": "lenda"
+    },
+    {
+      "start": 4265.6,
+      "end": 4265.74,
+      "text": "de"
+    },
+    {
+      "start": 4265.74,
+      "end": 4265.94,
+      "text": "um"
+    },
+    {
+      "start": 4265.94,
+      "end": 4266.02,
+      "text": "dia"
+    },
+    {
+      "start": 4266.02,
+      "end": 4266.04,
+      "text": "de"
+    },
+    {
+      "start": 4266.04,
+      "end": 4266.44,
+      "text": "cheio"
+    },
+    {
+      "start": 4266.44,
+      "end": 4266.62,
+      "text": "de"
+    },
+    {
+      "start": 4266.62,
+      "end": 4267.5,
+      "text": "caro."
+    },
+    {
+      "start": 4267.5,
+      "end": 4267.78,
+      "text": "Um"
+    },
+    {
+      "start": 4267.78,
+      "end": 4268.24,
+      "text": "dia"
+    },
+    {
+      "start": 4268.24,
+      "end": 4268.48,
+      "text": "de"
+    },
+    {
+      "start": 4268.48,
+      "end": 4269.04,
+      "text": "cheio"
+    },
+    {
+      "start": 4269.04,
+      "end": 4269.28,
+      "text": "de"
+    },
+    {
+      "start": 4269.28,
+      "end": 4269.44,
+      "text": "caro."
+    },
+    {
+      "start": 4276.67,
+      "end": 4277.07,
+      "text": "Aaaaaah!"
+    },
+    {
+      "start": 4283.62,
+      "end": 4283.84,
+      "text": "Tchau!"
+    },
+    {
+      "start": 4297.51,
+      "end": 4297.59,
+      "text": "A"
+    },
+    {
+      "start": 4297.59,
+      "end": 4297.59,
+      "text": "gente"
+    },
+    {
+      "start": 4297.59,
+      "end": 4297.65,
+      "text": "vai"
+    },
+    {
+      "start": 4297.65,
+      "end": 4297.67,
+      "text": "fazer"
+    },
+    {
+      "start": 4297.67,
+      "end": 4297.67,
+      "text": "uma"
+    },
+    {
+      "start": 4297.67,
+      "end": 4298.75,
+      "text": "desidratação"
+    },
+    {
+      "start": 4298.75,
+      "end": 4299.29,
+      "text": "grande."
+    },
+    {
+      "start": 4299.35,
+      "end": 4299.61,
+      "text": "A"
+    },
+    {
+      "start": 4299.61,
+      "end": 4299.81,
+      "text": "gente"
+    },
+    {
+      "start": 4299.81,
+      "end": 4299.99,
+      "text": "vai"
+    },
+    {
+      "start": 4299.99,
+      "end": 4300.25,
+      "text": "dormir."
+    },
+    {
+      "start": 4300.77,
+      "end": 4301.19,
+      "text": "A"
+    },
+    {
+      "start": 4301.19,
+      "end": 4301.35,
+      "text": "gente"
+    },
+    {
+      "start": 4301.35,
+      "end": 4301.53,
+      "text": "vai"
+    },
+    {
+      "start": 4301.53,
+      "end": 4301.83,
+      "text": "dormir."
+    },
+    {
+      "start": 4302.31,
+      "end": 4302.89,
+      "text": "Bom"
+    },
+    {
+      "start": 4302.89,
+      "end": 4303.39,
+      "text": "dia,"
+    },
+    {
+      "start": 4303.39,
+      "end": 4303.79,
+      "text": "meu"
+    },
+    {
+      "start": 4303.79,
+      "end": 4304.23,
+      "text": "amor."
+    },
+    {
+      "start": 4305.37,
+      "end": 4306.11,
+      "text": "Bom"
+    },
+    {
+      "start": 4306.11,
+      "end": 4306.75,
+      "text": "dia,"
+    },
+    {
+      "start": 4306.75,
+      "end": 4307.09,
+      "text": "meu"
+    },
+    {
+      "start": 4307.09,
+      "end": 4307.53,
+      "text": "amor."
+    },
+    {
+      "start": 4317.21,
+      "end": 4318.61,
+      "text": "Obrigado."
+    },
+    {
+      "start": 4458.57,
+      "end": 4459.93,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 4459.93,
+      "end": 4460.07,
+      "text": "a"
+    },
+    {
+      "start": 4460.07,
+      "end": 4460.99,
+      "text": "todos"
+    },
+    {
+      "start": 4460.99,
+      "end": 4461.21,
+      "text": "os"
+    },
+    {
+      "start": 4461.21,
+      "end": 4463.61,
+      "text": "que"
+    },
+    {
+      "start": 4463.61,
+      "end": 4464.05,
+      "text": "participaram"
+    },
+    {
+      "start": 4464.05,
+      "end": 4464.05,
+      "text": "no"
+    },
+    {
+      "start": 4464.05,
+      "end": 4464.05,
+      "text": "evento."
+    },
+    {
+      "start": 4465.7,
+      "end": 4466.76,
+      "text": "Atenção!"
+    },
+    {
+      "start": 4503.0,
+      "end": 4503.88,
+      "text": "Amém."
+    },
+    {
+      "start": 4569.76,
+      "end": 4571.16,
+      "text": "Música"
+    },
+    {
+      "start": 4622.15,
+      "end": 4622.83,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 4622.83,
+      "end": 4623.11,
+      "text": "as"
+    },
+    {
+      "start": 4623.11,
+      "end": 4623.73,
+      "text": "novas"
+    },
+    {
+      "start": 4623.73,
+      "end": 4624.41,
+      "text": "minestras"
+    },
+    {
+      "start": 4624.41,
+      "end": 4624.75,
+      "text": "e"
+    },
+    {
+      "start": 4624.75,
+      "end": 4625.01,
+      "text": "você"
+    },
+    {
+      "start": 4625.01,
+      "end": 4625.27,
+      "text": "vai"
+    },
+    {
+      "start": 4625.27,
+      "end": 4625.59,
+      "text": "ver."
+    },
+    {
+      "start": 4626.93,
+      "end": 4627.81,
+      "text": "Eu"
+    },
+    {
+      "start": 4627.81,
+      "end": 4628.69,
+      "text": "sei"
+    },
+    {
+      "start": 4628.69,
+      "end": 4629.51,
+      "text": "de"
+    },
+    {
+      "start": 4629.51,
+      "end": 4630.17,
+      "text": "você,"
+    },
+    {
+      "start": 4630.17,
+      "end": 4630.91,
+      "text": "que"
+    },
+    {
+      "start": 4630.91,
+      "end": 4631.29,
+      "text": "eu"
+    },
+    {
+      "start": 4631.29,
+      "end": 4631.35,
+      "text": "me"
+    },
+    {
+      "start": 4631.35,
+      "end": 4632.09,
+      "text": "perdi,"
+    },
+    {
+      "start": 4632.19,
+      "end": 4632.75,
+      "text": "e"
+    },
+    {
+      "start": 4632.75,
+      "end": 4633.29,
+      "text": "eu"
+    },
+    {
+      "start": 4633.29,
+      "end": 4634.25,
+      "text": "se"
+    },
+    {
+      "start": 4634.25,
+      "end": 4635.29,
+      "text": "separando,"
+    },
+    {
+      "start": 4635.35,
+      "end": 4635.71,
+      "text": "a"
+    },
+    {
+      "start": 4635.71,
+      "end": 4636.07,
+      "text": "mulher,"
+    },
+    {
+      "start": 4636.31,
+      "end": 4637.15,
+      "text": "por"
+    },
+    {
+      "start": 4637.15,
+      "end": 4637.45,
+      "text": "eu"
+    },
+    {
+      "start": 4637.45,
+      "end": 4637.81,
+      "text": "poder,"
+    },
+    {
+      "start": 4639.67,
+      "end": 4640.55,
+      "text": "isso"
+    },
+    {
+      "start": 4640.55,
+      "end": 4640.91,
+      "text": "eu"
+    },
+    {
+      "start": 4640.91,
+      "end": 4641.19,
+      "text": "que"
+    },
+    {
+      "start": 4641.19,
+      "end": 4641.43,
+      "text": "vou"
+    },
+    {
+      "start": 4641.43,
+      "end": 4641.67,
+      "text": "ser"
+    },
+    {
+      "start": 4641.67,
+      "end": 4642.03,
+      "text": "seu"
+    },
+    {
+      "start": 4642.03,
+      "end": 4642.43,
+      "text": "amigo,"
+    },
+    {
+      "start": 4642.75,
+      "end": 4642.95,
+      "text": "vou"
+    },
+    {
+      "start": 4642.95,
+      "end": 4643.39,
+      "text": "ficar"
+    },
+    {
+      "start": 4643.39,
+      "end": 4643.97,
+      "text": "bem,"
+    },
+    {
+      "start": 4644.09,
+      "end": 4644.45,
+      "text": "se"
+    },
+    {
+      "start": 4644.45,
+      "end": 4644.81,
+      "text": "você"
+    },
+    {
+      "start": 4644.81,
+      "end": 4645.41,
+      "text": "quiser,"
+    },
+    {
+      "start": 4645.99,
+      "end": 4646.87,
+      "text": "quando"
+    },
+    {
+      "start": 4646.87,
+      "end": 4647.67,
+      "text": "surgir"
+    },
+    {
+      "start": 4647.67,
+      "end": 4648.01,
+      "text": "seus"
+    },
+    {
+      "start": 4648.01,
+      "end": 4648.77,
+      "text": "primeiros"
+    },
+    {
+      "start": 4648.77,
+      "end": 4649.43,
+      "text": "raios"
+    },
+    {
+      "start": 4649.43,
+      "end": 4649.59,
+      "text": "de"
+    },
+    {
+      "start": 4649.59,
+      "end": 4649.95,
+      "text": "mel,"
+    },
+    {
+      "start": 4650.19,
+      "end": 4652.89,
+      "text": "a"
+    },
+    {
+      "start": 4652.89,
+      "end": 4653.51,
+      "text": "vida"
+    },
+    {
+      "start": 4653.51,
+      "end": 4654.09,
+      "text": "se"
+    },
+    {
+      "start": 4654.09,
+      "end": 4654.93,
+      "text": "abrirá,"
+    },
+    {
+      "start": 4655.59,
+      "end": 4655.67,
+      "text": "O"
+    },
+    {
+      "start": 4655.67,
+      "end": 4656.33,
+      "text": "inferno"
+    },
+    {
+      "start": 4656.33,
+      "end": 4656.63,
+      "text": "está"
+    },
+    {
+      "start": 4656.63,
+      "end": 4657.05,
+      "text": "no"
+    },
+    {
+      "start": 4657.05,
+      "end": 4657.39,
+      "text": "céu"
+    },
+    {
+      "start": 4657.39,
+      "end": 4658.61,
+      "text": "e"
+    },
+    {
+      "start": 4658.61,
+      "end": 4659.39,
+      "text": "você"
+    },
+    {
+      "start": 4659.39,
+      "end": 4660.43,
+      "text": "vai"
+    },
+    {
+      "start": 4660.43,
+      "end": 4660.87,
+      "text": "rasgar"
+    },
+    {
+      "start": 4660.87,
+      "end": 4661.19,
+      "text": "o"
+    },
+    {
+      "start": 4661.19,
+      "end": 4661.91,
+      "text": "meu"
+    },
+    {
+      "start": 4661.91,
+      "end": 4662.53,
+      "text": "papel."
+    },
+    {
+      "start": 4665.01,
+      "end": 4665.73,
+      "text": "Está"
+    },
+    {
+      "start": 4665.73,
+      "end": 4666.23,
+      "text": "escrito"
+    },
+    {
+      "start": 4666.23,
+      "end": 4666.49,
+      "text": "em"
+    },
+    {
+      "start": 4666.49,
+      "end": 4666.75,
+      "text": "um"
+    },
+    {
+      "start": 4666.75,
+      "end": 4667.17,
+      "text": "livro"
+    },
+    {
+      "start": 4667.17,
+      "end": 4667.17,
+      "text": "que"
+    },
+    {
+      "start": 4667.17,
+      "end": 4667.49,
+      "text": "não"
+    },
+    {
+      "start": 4667.49,
+      "end": 4667.69,
+      "text": "tem"
+    },
+    {
+      "start": 4667.69,
+      "end": 4668.03,
+      "text": "nada"
+    },
+    {
+      "start": 4668.03,
+      "end": 4668.27,
+      "text": "de"
+    },
+    {
+      "start": 4668.27,
+      "end": 4668.79,
+      "text": "importar,"
+    },
+    {
+      "start": 4668.85,
+      "end": 4669.01,
+      "text": "não"
+    },
+    {
+      "start": 4669.01,
+      "end": 4669.37,
+      "text": "tem"
+    },
+    {
+      "start": 4669.37,
+      "end": 4669.73,
+      "text": "nada"
+    },
+    {
+      "start": 4669.73,
+      "end": 4669.95,
+      "text": "a"
+    },
+    {
+      "start": 4669.95,
+      "end": 4670.25,
+      "text": "ver."
+    },
+    {
+      "start": 4671.17,
+      "end": 4671.53,
+      "text": "A"
+    },
+    {
+      "start": 4671.53,
+      "end": 4672.01,
+      "text": "vida"
+    },
+    {
+      "start": 4672.01,
+      "end": 4672.33,
+      "text": "sempre,"
+    },
+    {
+      "start": 4672.47,
+      "end": 4673.01,
+      "text": "sempre"
+    },
+    {
+      "start": 4673.01,
+      "end": 4673.41,
+      "text": "foi"
+    },
+    {
+      "start": 4673.41,
+      "end": 4673.67,
+      "text": "o"
+    },
+    {
+      "start": 4673.67,
+      "end": 4673.79,
+      "text": "que"
+    },
+    {
+      "start": 4673.79,
+      "end": 4674.09,
+      "text": "se"
+    },
+    {
+      "start": 4674.09,
+      "end": 4674.21,
+      "text": "ia"
+    },
+    {
+      "start": 4674.21,
+      "end": 4674.43,
+      "text": "de"
+    },
+    {
+      "start": 4674.43,
+      "end": 4674.87,
+      "text": "fazer."
+    },
+    {
+      "start": 4676.35,
+      "end": 4677.07,
+      "text": "Eu"
+    },
+    {
+      "start": 4677.07,
+      "end": 4677.79,
+      "text": "sou"
+    },
+    {
+      "start": 4677.79,
+      "end": 4677.99,
+      "text": "o"
+    },
+    {
+      "start": 4677.99,
+      "end": 4678.25,
+      "text": "meu,"
+    },
+    {
+      "start": 4678.47,
+      "end": 4678.69,
+      "text": "eu"
+    },
+    {
+      "start": 4678.69,
+      "end": 4679.07,
+      "text": "sou"
+    },
+    {
+      "start": 4679.07,
+      "end": 4679.69,
+      "text": "você,"
+    },
+    {
+      "start": 4679.91,
+      "end": 4680.69,
+      "text": "eu"
+    },
+    {
+      "start": 4680.69,
+      "end": 4681.15,
+      "text": "sou"
+    },
+    {
+      "start": 4681.15,
+      "end": 4681.99,
+      "text": "você."
+    },
+    {
+      "start": 4703.34,
+      "end": 4703.64,
+      "text": "O"
+    },
+    {
+      "start": 4703.64,
+      "end": 4704.04,
+      "text": "que"
+    },
+    {
+      "start": 4704.04,
+      "end": 4704.18,
+      "text": "é"
+    },
+    {
+      "start": 4704.18,
+      "end": 4704.18,
+      "text": "isso?"
+    },
+    {
+      "start": 4704.36,
+      "end": 4704.54,
+      "text": "O"
+    },
+    {
+      "start": 4704.54,
+      "end": 4706.46,
+      "text": "que"
+    },
+    {
+      "start": 4706.46,
+      "end": 4707.14,
+      "text": "é"
+    },
+    {
+      "start": 4707.14,
+      "end": 4708.68,
+      "text": "isso?"
+    },
+    {
+      "start": 4721.06,
+      "end": 4721.4,
+      "text": "."
+    },
+    {
+      "start": 4739.23,
+      "end": 4739.49,
+      "text": "Se"
+    },
+    {
+      "start": 4739.49,
+      "end": 4740.05,
+      "text": "tem"
+    },
+    {
+      "start": 4740.05,
+      "end": 4741.97,
+      "text": "bigodes"
+    },
+    {
+      "start": 4741.97,
+      "end": 4742.35,
+      "text": "de"
+    },
+    {
+      "start": 4742.35,
+      "end": 4742.73,
+      "text": "boca,"
+    },
+    {
+      "start": 4743.03,
+      "end": 4744.19,
+      "text": "nariz"
+    },
+    {
+      "start": 4744.19,
+      "end": 4744.53,
+      "text": "de"
+    },
+    {
+      "start": 4744.53,
+      "end": 4745.61,
+      "text": "canoa,"
+    },
+    {
+      "start": 4745.73,
+      "end": 4746.63,
+      "text": "parece"
+    },
+    {
+      "start": 4746.63,
+      "end": 4747.11,
+      "text": "meio"
+    },
+    {
+      "start": 4747.11,
+      "end": 4747.91,
+      "text": "estranho."
+    },
+    {
+      "start": 4748.03,
+      "end": 4748.37,
+      "text": "É."
+    },
+    {
+      "start": 4749.59,
+      "end": 4750.63,
+      "text": "Também"
+    },
+    {
+      "start": 4750.63,
+      "end": 4751.33,
+      "text": "um"
+    },
+    {
+      "start": 4751.33,
+      "end": 4752.31,
+      "text": "bico"
+    },
+    {
+      "start": 4752.31,
+      "end": 4752.55,
+      "text": "de"
+    },
+    {
+      "start": 4752.55,
+      "end": 4753.47,
+      "text": "pato"
+    },
+    {
+      "start": 4753.47,
+      "end": 4754.05,
+      "text": "e"
+    },
+    {
+      "start": 4754.05,
+      "end": 4754.23,
+      "text": "um"
+    },
+    {
+      "start": 4754.23,
+      "end": 4755.03,
+      "text": "jeitão"
+    },
+    {
+      "start": 4755.03,
+      "end": 4755.23,
+      "text": "de"
+    },
+    {
+      "start": 4755.23,
+      "end": 4756.21,
+      "text": "sábia."
+    },
+    {
+      "start": 4781.25,
+      "end": 4781.45,
+      "text": "É"
+    },
+    {
+      "start": 4781.45,
+      "end": 4782.09,
+      "text": "tão"
+    },
+    {
+      "start": 4782.09,
+      "end": 4782.75,
+      "text": "lindo!"
+    },
+    {
+      "start": 4841.65,
+      "end": 4842.07,
+      "text": "Atenção!"
+    },
+    {
+      "start": 4848.36,
+      "end": 4849.28,
+      "text": "Amém."
+    },
+    {
+      "start": 4878.36,
+      "end": 4878.58,
+      "text": "Essa"
+    },
+    {
+      "start": 4878.58,
+      "end": 4879.26,
+      "text": "muda"
+    },
+    {
+      "start": 4879.26,
+      "end": 4879.7,
+      "text": "é"
+    },
+    {
+      "start": 4879.7,
+      "end": 4880.08,
+      "text": "tão"
+    },
+    {
+      "start": 4880.08,
+      "end": 4880.84,
+      "text": "linda,"
+    },
+    {
+      "start": 4881.16,
+      "end": 4882.8,
+      "text": "deixa"
+    },
+    {
+      "start": 4882.8,
+      "end": 4883.22,
+      "text": "assim"
+    },
+    {
+      "start": 4883.22,
+      "end": 4883.64,
+      "text": "como"
+    },
+    {
+      "start": 4883.64,
+      "end": 4884.12,
+      "text": "está,"
+    },
+    {
+      "start": 4884.5,
+      "end": 4884.86,
+      "text": "e"
+    },
+    {
+      "start": 4884.86,
+      "end": 4885.3,
+      "text": "eu"
+    },
+    {
+      "start": 4885.3,
+      "end": 4886.06,
+      "text": "adoro,"
+    },
+    {
+      "start": 4886.3,
+      "end": 4886.7,
+      "text": "e"
+    },
+    {
+      "start": 4886.7,
+      "end": 4887.08,
+      "text": "agora"
+    },
+    {
+      "start": 4887.08,
+      "end": 4888.12,
+      "text": "eu"
+    },
+    {
+      "start": 4888.12,
+      "end": 4888.72,
+      "text": "quero"
+    },
+    {
+      "start": 4888.72,
+      "end": 4889.28,
+      "text": "poder"
+    },
+    {
+      "start": 4889.28,
+      "end": 4890.16,
+      "text": "lhe"
+    },
+    {
+      "start": 4890.16,
+      "end": 4890.54,
+      "text": "falar."
+    },
+    {
+      "start": 4894.94,
+      "end": 4896.34,
+      "text": "Essa"
+    },
+    {
+      "start": 4896.34,
+      "end": 4897.74,
+      "text": "amizade"
+    },
+    {
+      "start": 4897.74,
+      "end": 4898.8,
+      "text": "que"
+    },
+    {
+      "start": 4898.8,
+      "end": 4900.42,
+      "text": "nasceu"
+    },
+    {
+      "start": 4900.42,
+      "end": 4903.04,
+      "text": "Você"
+    },
+    {
+      "start": 4903.04,
+      "end": 4903.3,
+      "text": "e"
+    },
+    {
+      "start": 4903.3,
+      "end": 4904.22,
+      "text": "eu"
+    },
+    {
+      "start": 4906.36,
+      "end": 4907.76,
+      "text": "Nós"
+    },
+    {
+      "start": 4907.76,
+      "end": 4908.28,
+      "text": "e"
+    },
+    {
+      "start": 4908.28,
+      "end": 4908.96,
+      "text": "você"
+    },
+    {
+      "start": 4909.62,
+      "end": 4911.74,
+      "text": "Você"
+    },
+    {
+      "start": 4911.74,
+      "end": 4913.8,
+      "text": "e"
+    },
+    {
+      "start": 4913.8,
+      "end": 4914.2,
+      "text": "eu"
+    },
+    {
+      "start": 4925.84,
+      "end": 4926.02,
+      "text": "O"
+    },
+    {
+      "start": 4926.02,
+      "end": 4926.22,
+      "text": "pai"
+    },
+    {
+      "start": 4926.22,
+      "end": 4926.42,
+      "text": "me"
+    },
+    {
+      "start": 4926.42,
+      "end": 4926.96,
+      "text": "amou!"
+    },
+    {
+      "start": 4931.71,
+      "end": 4932.03,
+      "text": "Fazendo"
+    },
+    {
+      "start": 4932.03,
+      "end": 4932.09,
+      "text": "um"
+    },
+    {
+      "start": 4932.09,
+      "end": 4932.39,
+      "text": "arco"
+    },
+    {
+      "start": 4932.39,
+      "end": 4932.55,
+      "text": "de"
+    },
+    {
+      "start": 4932.55,
+      "end": 4932.99,
+      "text": "sardinha"
+    },
+    {
+      "start": 4932.99,
+      "end": 4933.15,
+      "text": "no"
+    },
+    {
+      "start": 4933.15,
+      "end": 4933.31,
+      "text": "meu"
+    },
+    {
+      "start": 4933.31,
+      "end": 4933.57,
+      "text": "corpo."
+    },
+    {
+      "start": 4945.51,
+      "end": 4945.63,
+      "text": "O"
+    },
+    {
+      "start": 4945.63,
+      "end": 4946.97,
+      "text": "que"
+    },
+    {
+      "start": 4946.97,
+      "end": 4947.95,
+      "text": "você"
+    },
+    {
+      "start": 4947.95,
+      "end": 4948.47,
+      "text": "quer?"
+    },
+    {
+      "start": 4948.89,
+      "end": 4949.55,
+      "text": "O"
+    },
+    {
+      "start": 4949.55,
+      "end": 4949.97,
+      "text": "que"
+    },
+    {
+      "start": 4949.97,
+      "end": 4950.33,
+      "text": "você"
+    },
+    {
+      "start": 4950.33,
+      "end": 4950.75,
+      "text": "quer?"
+    },
+    {
+      "start": 4953.07,
+      "end": 4953.91,
+      "text": "Então,"
+    },
+    {
+      "start": 4954.13,
+      "end": 4954.47,
+      "text": "vamos"
+    },
+    {
+      "start": 4954.47,
+      "end": 4954.65,
+      "text": "para"
+    },
+    {
+      "start": 4954.65,
+      "end": 4954.79,
+      "text": "o"
+    },
+    {
+      "start": 4954.79,
+      "end": 4955.39,
+      "text": "outro"
+    },
+    {
+      "start": 4955.39,
+      "end": 4955.93,
+      "text": "lado."
+    },
+    {
+      "start": 4956.99,
+      "end": 4957.41,
+      "text": "Aqui"
+    },
+    {
+      "start": 4957.41,
+      "end": 4957.91,
+      "text": "vem"
+    },
+    {
+      "start": 4957.91,
+      "end": 4957.97,
+      "text": "o"
+    },
+    {
+      "start": 4957.97,
+      "end": 4958.39,
+      "text": "outro"
+    },
+    {
+      "start": 4958.39,
+      "end": 4958.69,
+      "text": "lado."
+    },
+    {
+      "start": 4959.25,
+      "end": 4959.59,
+      "text": "Aqui"
+    },
+    {
+      "start": 4959.59,
+      "end": 4959.89,
+      "text": "vem"
+    },
+    {
+      "start": 4959.89,
+      "end": 4959.93,
+      "text": "o"
+    },
+    {
+      "start": 4959.93,
+      "end": 4960.17,
+      "text": "outro"
+    },
+    {
+      "start": 4960.17,
+      "end": 4960.47,
+      "text": "lado."
+    },
+    {
+      "start": 4970.97,
+      "end": 4971.23,
+      "text": "A"
+    },
+    {
+      "start": 4971.23,
+      "end": 4971.73,
+      "text": "luta,"
+    },
+    {
+      "start": 4971.97,
+      "end": 4971.99,
+      "text": "a"
+    },
+    {
+      "start": 4971.99,
+      "end": 4972.57,
+      "text": "luta,"
+    },
+    {
+      "start": 4972.57,
+      "end": 4972.81,
+      "text": "a"
+    },
+    {
+      "start": 4972.81,
+      "end": 4973.05,
+      "text": "luta,"
+    },
+    {
+      "start": 4973.17,
+      "end": 4973.29,
+      "text": "a"
+    },
+    {
+      "start": 4973.29,
+      "end": 4973.51,
+      "text": "luta."
+    },
+    {
+      "start": 4978.5,
+      "end": 4979.0,
+      "text": "Atenção!"
+    },
+    {
+      "start": 5250.47,
+      "end": 5252.21,
+      "text": "Olha"
+    },
+    {
+      "start": 5252.21,
+      "end": 5252.63,
+      "text": "o"
+    },
+    {
+      "start": 5252.63,
+      "end": 5253.35,
+      "text": "estado"
+    },
+    {
+      "start": 5253.35,
+      "end": 5255.35,
+      "text": "dessa"
+    },
+    {
+      "start": 5255.35,
+      "end": 5256.27,
+      "text": "válvula."
+    },
+    {
+      "start": 5282.65,
+      "end": 5284.05,
+      "text": "Atenção!"
+    },
+    {
+      "start": 5310.63,
+      "end": 5310.93,
+      "text": "Não,"
+    },
+    {
+      "start": 5310.95,
+      "end": 5311.13,
+      "text": "já"
+    },
+    {
+      "start": 5311.13,
+      "end": 5311.49,
+      "text": "deixei"
+    },
+    {
+      "start": 5311.49,
+      "end": 5311.53,
+      "text": "o"
+    },
+    {
+      "start": 5311.53,
+      "end": 5311.79,
+      "text": "neném"
+    },
+    {
+      "start": 5311.79,
+      "end": 5312.01,
+      "text": "de"
+    },
+    {
+      "start": 5312.01,
+      "end": 5312.29,
+      "text": "rir."
+    },
+    {
+      "start": 5312.49,
+      "end": 5312.99,
+      "text": "O"
+    },
+    {
+      "start": 5312.99,
+      "end": 5313.29,
+      "text": "neném"
+    },
+    {
+      "start": 5313.29,
+      "end": 5313.57,
+      "text": "de"
+    },
+    {
+      "start": 5313.57,
+      "end": 5315.23,
+      "text": "badanar,"
+    },
+    {
+      "start": 5315.23,
+      "end": 5315.39,
+      "text": "o"
+    },
+    {
+      "start": 5315.39,
+      "end": 5315.91,
+      "text": "beijo."
+    },
+    {
+      "start": 5316.75,
+      "end": 5317.31,
+      "text": "Deixa"
+    },
+    {
+      "start": 5317.31,
+      "end": 5317.47,
+      "text": "eu"
+    },
+    {
+      "start": 5317.47,
+      "end": 5317.61,
+      "text": "ver"
+    },
+    {
+      "start": 5317.61,
+      "end": 5317.75,
+      "text": "se"
+    },
+    {
+      "start": 5317.75,
+      "end": 5317.89,
+      "text": "esse"
+    },
+    {
+      "start": 5317.89,
+      "end": 5318.09,
+      "text": "neném"
+    },
+    {
+      "start": 5318.09,
+      "end": 5318.27,
+      "text": "vai"
+    },
+    {
+      "start": 5318.27,
+      "end": 5318.49,
+      "text": "danar"
+    },
+    {
+      "start": 5318.49,
+      "end": 5318.77,
+      "text": "muito."
+    },
+    {
+      "start": 5319.59,
+      "end": 5320.15,
+      "text": "Você"
+    },
+    {
+      "start": 5320.15,
+      "end": 5320.61,
+      "text": "acordou"
+    },
+    {
+      "start": 5320.61,
+      "end": 5321.01,
+      "text": "cedo,"
+    },
+    {
+      "start": 5321.01,
+      "end": 5321.09,
+      "text": "o"
+    },
+    {
+      "start": 5321.09,
+      "end": 5321.11,
+      "text": "que"
+    },
+    {
+      "start": 5321.11,
+      "end": 5321.45,
+      "text": "aconteceu"
+    },
+    {
+      "start": 5321.45,
+      "end": 5321.67,
+      "text": "com"
+    },
+    {
+      "start": 5321.67,
+      "end": 5321.75,
+      "text": "você"
+    },
+    {
+      "start": 5321.75,
+      "end": 5321.77,
+      "text": "que"
+    },
+    {
+      "start": 5321.77,
+      "end": 5321.77,
+      "text": "você"
+    },
+    {
+      "start": 5321.77,
+      "end": 5322.05,
+      "text": "acordou"
+    },
+    {
+      "start": 5322.05,
+      "end": 5322.35,
+      "text": "cedo?"
+    },
+    {
+      "start": 5331.51,
+      "end": 5332.07,
+      "text": "Não,"
+    },
+    {
+      "start": 5332.07,
+      "end": 5332.31,
+      "text": "não."
+    },
+    {
+      "start": 5332.95,
+      "end": 5333.51,
+      "text": "Espera."
+    },
+    {
+      "start": 5340.73,
+      "end": 5341.17,
+      "text": "Vamos"
+    },
+    {
+      "start": 5341.17,
+      "end": 5341.37,
+      "text": "lá"
+    },
+    {
+      "start": 5341.37,
+      "end": 5341.59,
+      "text": "tomar"
+    },
+    {
+      "start": 5341.59,
+      "end": 5341.89,
+      "text": "café."
+    },
+    {
+      "start": 5345.06,
+      "end": 5345.48,
+      "text": "O"
+    },
+    {
+      "start": 5345.48,
+      "end": 5345.84,
+      "text": "que"
+    },
+    {
+      "start": 5345.84,
+      "end": 5346.02,
+      "text": "é?"
+    },
+    {
+      "start": 5348.68,
+      "end": 5349.1,
+      "text": "Ok,"
+    },
+    {
+      "start": 5349.72,
+      "end": 5349.84,
+      "text": "tá"
+    },
+    {
+      "start": 5349.84,
+      "end": 5350.04,
+      "text": "aqui."
+    },
+    {
+      "start": 5359.8,
+      "end": 5360.22,
+      "text": "O"
+    },
+    {
+      "start": 5360.22,
+      "end": 5360.64,
+      "text": "Miki"
+    },
+    {
+      "start": 5360.64,
+      "end": 5360.86,
+      "text": "não"
+    },
+    {
+      "start": 5360.86,
+      "end": 5361.06,
+      "text": "tá"
+    },
+    {
+      "start": 5361.06,
+      "end": 5361.22,
+      "text": "aqui"
+    },
+    {
+      "start": 5361.22,
+      "end": 5361.38,
+      "text": "não,"
+    },
+    {
+      "start": 5361.44,
+      "end": 5361.62,
+      "text": "Miki."
+    },
+    {
+      "start": 5361.76,
+      "end": 5361.96,
+      "text": "Só"
+    },
+    {
+      "start": 5361.96,
+      "end": 5362.2,
+      "text": "pra"
+    },
+    {
+      "start": 5362.2,
+      "end": 5362.46,
+      "text": "tentar."
+    },
+    {
+      "start": 5362.92,
+      "end": 5363.08,
+      "text": "O"
+    },
+    {
+      "start": 5363.08,
+      "end": 5365.46,
+      "text": "Miki"
+    },
+    {
+      "start": 5365.46,
+      "end": 5365.68,
+      "text": "não"
+    },
+    {
+      "start": 5365.68,
+      "end": 5365.86,
+      "text": "tá"
+    },
+    {
+      "start": 5365.86,
+      "end": 5366.06,
+      "text": "aqui."
+    },
+    {
+      "start": 5366.54,
+      "end": 5366.96,
+      "text": "Cadê"
+    },
+    {
+      "start": 5366.96,
+      "end": 5367.08,
+      "text": "o"
+    },
+    {
+      "start": 5367.08,
+      "end": 5367.2,
+      "text": "Miki?"
+    },
+    {
+      "start": 5368.3,
+      "end": 5368.72,
+      "text": "Lá"
+    },
+    {
+      "start": 5368.72,
+      "end": 5368.8,
+      "text": "na"
+    },
+    {
+      "start": 5368.8,
+      "end": 5369.16,
+      "text": "cozinha,"
+    },
+    {
+      "start": 5369.26,
+      "end": 5369.5,
+      "text": "Miki."
+    },
+    {
+      "start": 5374.1,
+      "end": 5374.3,
+      "text": "É,"
+    },
+    {
+      "start": 5374.36,
+      "end": 5374.36,
+      "text": "o"
+    },
+    {
+      "start": 5374.36,
+      "end": 5374.8,
+      "text": "Miqueta"
+    },
+    {
+      "start": 5374.8,
+      "end": 5374.94,
+      "text": "lá."
+    },
+    {
+      "start": 5379.07,
+      "end": 5379.21,
+      "text": "Se"
+    },
+    {
+      "start": 5379.21,
+      "end": 5379.83,
+      "text": "inscreve!"
+    },
+    {
+      "start": 5392.11,
+      "end": 5392.67,
+      "text": "Vamos"
+    },
+    {
+      "start": 5392.67,
+      "end": 5393.23,
+      "text": "lá"
+    },
+    {
+      "start": 5393.23,
+      "end": 5393.51,
+      "text": "buscar"
+    },
+    {
+      "start": 5393.51,
+      "end": 5393.89,
+      "text": "ele,"
+    },
+    {
+      "start": 5394.03,
+      "end": 5394.23,
+      "text": "vem."
+    }
+  ]
+}

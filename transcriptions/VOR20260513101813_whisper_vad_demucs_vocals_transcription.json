@@ -1,0 +1,43 @@
+{
+  "source_file": "VOR20260513101813_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:01": "Atenção!",
+    "00:15:44,00:15:45": ".",
+    "00:33:30,00:33:30": ".",
+    "00:47:25,00:47:25": "Não é possível."
+  },
+  "words": [
+    {
+      "start": 0.96,
+      "end": 1.62,
+      "text": "Atenção!"
+    },
+    {
+      "start": 944.9,
+      "end": 945.14,
+      "text": "."
+    },
+    {
+      "start": 2010.08,
+      "end": 2010.4,
+      "text": "."
+    },
+    {
+      "start": 2845.51,
+      "end": 2845.53,
+      "text": "Não"
+    },
+    {
+      "start": 2845.53,
+      "end": 2845.57,
+      "text": "é"
+    },
+    {
+      "start": 2845.57,
+      "end": 2845.71,
+      "text": "possível."
+    }
+  ]
+}

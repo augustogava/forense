@@ -1,0 +1,688 @@
+{
+  "source_file": "New_Recording_34_part001_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:01,00:00:02": ".",
+    "00:07:26,00:07:26": "10? Vem cá!",
+    "00:08:22,00:08:26": "Não é mais? Não? Não, isso não é mais. Isso é escola.",
+    "00:08:30,00:08:30": "Não tem mais?",
+    "00:09:20,00:09:20": "Não, fecha aí.",
+    "00:09:37,00:09:38": "É amor aí.",
+    "00:14:31,00:14:32": "Então, vamos lá.",
+    "00:14:32,00:14:32": "Vamos lá.",
+    "00:15:10,00:15:10": "Cadê? Pega lá.",
+    "00:16:06,00:16:06": "Obrigado.",
+    "00:16:09,00:16:09": "Não sei.",
+    "00:16:16,00:16:16": "Deixa aí, não joga.",
+    "00:16:17,00:16:17": "Vai.",
+    "00:16:18,00:16:19": "Não vai.",
+    "00:16:20,00:16:21": "Não vai.",
+    "00:16:27,00:16:30": "Nossa, você já ficou com a roupa, né? Você já ficou com a roupa, né?",
+    "00:16:30,00:16:31": "Eu vou tomar um menino.",
+    "00:16:33,00:16:34": "Cadê o menino?",
+    "00:16:35,00:16:35": "Menino.",
+    "00:16:36,00:16:38": "Ó, aqui você vai levar o menino para o escolo pequenininho, tá?",
+    "00:16:38,00:16:39": "Menino.",
+    "00:16:40,00:16:41": "Cadê ele?",
+    "00:16:41,00:16:41": "Menino.",
+    "00:16:45,00:16:46": "Tá chamando?",
+    "00:16:47,00:16:49": "Você quer assistir lá no quarto, menino?",
+    "00:16:50,00:16:52": "Vamos falar, vamos assistir.",
+    "00:16:53,00:16:53": "Menino.",
+    "00:16:54,00:16:54": "Menino.",
+    "00:16:55,00:16:56": "Tá bom?",
+    "00:16:57,00:16:58": "Nene...",
+    "00:16:58,00:17:00": "Muito bem, muito bem.",
+    "00:17:00,00:17:03": "Aqui ó, desce e desce.",
+    "00:17:04,00:17:05": "Nene, Nene, Nene...",
+    "00:17:08,00:17:09": "Menino!",
+    "00:17:10,00:17:11": "Menino!",
+    "00:17:14,00:17:15": "Palavra!",
+    "00:17:21,00:17:23": "Não há, não há, não há.",
+    "00:18:32,00:18:33": "Não tem problema.",
+    "00:19:16,00:19:17": "Mãos!"
+  },
+  "words": [
+    {
+      "start": 1.95,
+      "end": 2.07,
+      "text": "."
+    },
+    {
+      "start": 446.05,
+      "end": 446.31,
+      "text": "10?"
+    },
+    {
+      "start": 446.37,
+      "end": 446.65,
+      "text": "Vem"
+    },
+    {
+      "start": 446.65,
+      "end": 446.71,
+      "text": "cá!"
+    },
+    {
+      "start": 502.05,
+      "end": 502.07,
+      "text": "Não"
+    },
+    {
+      "start": 502.07,
+      "end": 502.17,
+      "text": "é"
+    },
+    {
+      "start": 502.17,
+      "end": 502.39,
+      "text": "mais?"
+    },
+    {
+      "start": 503.49,
+      "end": 503.83,
+      "text": "Não?"
+    },
+    {
+      "start": 504.21,
+      "end": 504.55,
+      "text": "Não,"
+    },
+    {
+      "start": 505.37,
+      "end": 505.55,
+      "text": "isso"
+    },
+    {
+      "start": 505.55,
+      "end": 505.69,
+      "text": "não"
+    },
+    {
+      "start": 505.69,
+      "end": 505.87,
+      "text": "é"
+    },
+    {
+      "start": 505.87,
+      "end": 506.03,
+      "text": "mais."
+    },
+    {
+      "start": 506.03,
+      "end": 506.21,
+      "text": "Isso"
+    },
+    {
+      "start": 506.21,
+      "end": 506.33,
+      "text": "é"
+    },
+    {
+      "start": 506.33,
+      "end": 506.61,
+      "text": "escola."
+    },
+    {
+      "start": 510.18,
+      "end": 510.26,
+      "text": "Não"
+    },
+    {
+      "start": 510.26,
+      "end": 510.34,
+      "text": "tem"
+    },
+    {
+      "start": 510.34,
+      "end": 510.54,
+      "text": "mais?"
+    },
+    {
+      "start": 560.29,
+      "end": 560.41,
+      "text": "Não,"
+    },
+    {
+      "start": 560.45,
+      "end": 560.79,
+      "text": "fecha"
+    },
+    {
+      "start": 560.79,
+      "end": 560.93,
+      "text": "aí."
+    },
+    {
+      "start": 577.95,
+      "end": 577.99,
+      "text": "É"
+    },
+    {
+      "start": 577.99,
+      "end": 578.15,
+      "text": "amor"
+    },
+    {
+      "start": 578.15,
+      "end": 578.45,
+      "text": "aí."
+    },
+    {
+      "start": 871.59,
+      "end": 871.89,
+      "text": "Então,"
+    },
+    {
+      "start": 872.03,
+      "end": 872.25,
+      "text": "vamos"
+    },
+    {
+      "start": 872.25,
+      "end": 872.67,
+      "text": "lá."
+    },
+    {
+      "start": 872.87,
+      "end": 872.89,
+      "text": "Vamos"
+    },
+    {
+      "start": 872.89,
+      "end": 872.89,
+      "text": "lá."
+    },
+    {
+      "start": 910.4,
+      "end": 910.56,
+      "text": "Cadê?"
+    },
+    {
+      "start": 910.58,
+      "end": 910.76,
+      "text": "Pega"
+    },
+    {
+      "start": 910.76,
+      "end": 910.92,
+      "text": "lá."
+    },
+    {
+      "start": 966.63,
+      "end": 966.77,
+      "text": "Obrigado."
+    },
+    {
+      "start": 969.41,
+      "end": 969.75,
+      "text": "Não"
+    },
+    {
+      "start": 969.75,
+      "end": 969.79,
+      "text": "sei."
+    },
+    {
+      "start": 976.03,
+      "end": 976.15,
+      "text": "Deixa"
+    },
+    {
+      "start": 976.15,
+      "end": 976.27,
+      "text": "aí,"
+    },
+    {
+      "start": 976.31,
+      "end": 976.43,
+      "text": "não"
+    },
+    {
+      "start": 976.43,
+      "end": 976.79,
+      "text": "joga."
+    },
+    {
+      "start": 977.15,
+      "end": 977.63,
+      "text": "Vai."
+    },
+    {
+      "start": 978.67,
+      "end": 979.15,
+      "text": "Não"
+    },
+    {
+      "start": 979.15,
+      "end": 979.43,
+      "text": "vai."
+    },
+    {
+      "start": 980.87,
+      "end": 981.35,
+      "text": "Não"
+    },
+    {
+      "start": 981.35,
+      "end": 981.55,
+      "text": "vai."
+    },
+    {
+      "start": 987.3,
+      "end": 987.52,
+      "text": "Nossa,"
+    },
+    {
+      "start": 987.52,
+      "end": 987.66,
+      "text": "você"
+    },
+    {
+      "start": 987.66,
+      "end": 987.72,
+      "text": "já"
+    },
+    {
+      "start": 987.72,
+      "end": 987.94,
+      "text": "ficou"
+    },
+    {
+      "start": 987.94,
+      "end": 988.16,
+      "text": "com"
+    },
+    {
+      "start": 988.16,
+      "end": 988.2,
+      "text": "a"
+    },
+    {
+      "start": 988.2,
+      "end": 988.2,
+      "text": "roupa,"
+    },
+    {
+      "start": 988.2,
+      "end": 988.4,
+      "text": "né?"
+    },
+    {
+      "start": 988.44,
+      "end": 988.62,
+      "text": "Você"
+    },
+    {
+      "start": 988.62,
+      "end": 988.72,
+      "text": "já"
+    },
+    {
+      "start": 988.72,
+      "end": 989.22,
+      "text": "ficou"
+    },
+    {
+      "start": 989.22,
+      "end": 990.0,
+      "text": "com"
+    },
+    {
+      "start": 990.0,
+      "end": 990.08,
+      "text": "a"
+    },
+    {
+      "start": 990.08,
+      "end": 990.14,
+      "text": "roupa,"
+    },
+    {
+      "start": 990.18,
+      "end": 990.42,
+      "text": "né?"
+    },
+    {
+      "start": 990.72,
+      "end": 991.0,
+      "text": "Eu"
+    },
+    {
+      "start": 991.0,
+      "end": 991.3,
+      "text": "vou"
+    },
+    {
+      "start": 991.3,
+      "end": 991.54,
+      "text": "tomar"
+    },
+    {
+      "start": 991.54,
+      "end": 991.64,
+      "text": "um"
+    },
+    {
+      "start": 991.64,
+      "end": 991.94,
+      "text": "menino."
+    },
+    {
+      "start": 993.48,
+      "end": 993.96,
+      "text": "Cadê"
+    },
+    {
+      "start": 993.96,
+      "end": 994.02,
+      "text": "o"
+    },
+    {
+      "start": 994.02,
+      "end": 994.34,
+      "text": "menino?"
+    },
+    {
+      "start": 995.14,
+      "end": 995.62,
+      "text": "Menino."
+    },
+    {
+      "start": 996.12,
+      "end": 996.42,
+      "text": "Ó,"
+    },
+    {
+      "start": 996.52,
+      "end": 996.68,
+      "text": "aqui"
+    },
+    {
+      "start": 996.68,
+      "end": 996.94,
+      "text": "você"
+    },
+    {
+      "start": 996.94,
+      "end": 997.08,
+      "text": "vai"
+    },
+    {
+      "start": 997.08,
+      "end": 997.28,
+      "text": "levar"
+    },
+    {
+      "start": 997.28,
+      "end": 997.38,
+      "text": "o"
+    },
+    {
+      "start": 997.38,
+      "end": 997.52,
+      "text": "menino"
+    },
+    {
+      "start": 997.52,
+      "end": 997.68,
+      "text": "para"
+    },
+    {
+      "start": 997.68,
+      "end": 997.68,
+      "text": "o"
+    },
+    {
+      "start": 997.68,
+      "end": 997.78,
+      "text": "escolo"
+    },
+    {
+      "start": 997.78,
+      "end": 998.5,
+      "text": "pequenininho,"
+    },
+    {
+      "start": 998.54,
+      "end": 998.7,
+      "text": "tá?"
+    },
+    {
+      "start": 998.84,
+      "end": 999.14,
+      "text": "Menino."
+    },
+    {
+      "start": 1000.42,
+      "end": 1000.9,
+      "text": "Cadê"
+    },
+    {
+      "start": 1000.9,
+      "end": 1001.02,
+      "text": "ele?"
+    },
+    {
+      "start": 1001.04,
+      "end": 1001.46,
+      "text": "Menino."
+    },
+    {
+      "start": 1005.84,
+      "end": 1006.32,
+      "text": "Tá"
+    },
+    {
+      "start": 1006.32,
+      "end": 1006.8,
+      "text": "chamando?"
+    },
+    {
+      "start": 1007.16,
+      "end": 1007.64,
+      "text": "Você"
+    },
+    {
+      "start": 1007.64,
+      "end": 1007.76,
+      "text": "quer"
+    },
+    {
+      "start": 1007.76,
+      "end": 1008.02,
+      "text": "assistir"
+    },
+    {
+      "start": 1008.02,
+      "end": 1008.36,
+      "text": "lá"
+    },
+    {
+      "start": 1008.36,
+      "end": 1008.48,
+      "text": "no"
+    },
+    {
+      "start": 1008.48,
+      "end": 1008.78,
+      "text": "quarto,"
+    },
+    {
+      "start": 1008.88,
+      "end": 1009.24,
+      "text": "menino?"
+    },
+    {
+      "start": 1010.66,
+      "end": 1011.14,
+      "text": "Vamos"
+    },
+    {
+      "start": 1011.14,
+      "end": 1011.54,
+      "text": "falar,"
+    },
+    {
+      "start": 1011.56,
+      "end": 1011.8,
+      "text": "vamos"
+    },
+    {
+      "start": 1011.8,
+      "end": 1012.02,
+      "text": "assistir."
+    },
+    {
+      "start": 1013.12,
+      "end": 1013.6,
+      "text": "Menino."
+    },
+    {
+      "start": 1014.32,
+      "end": 1014.62,
+      "text": "Menino."
+    },
+    {
+      "start": 1015.36,
+      "end": 1015.84,
+      "text": "Tá"
+    },
+    {
+      "start": 1015.84,
+      "end": 1016.1,
+      "text": "bom?"
+    },
+    {
+      "start": 1017.3,
+      "end": 1018.02,
+      "text": "Nene..."
+    },
+    {
+      "start": 1018.02,
+      "end": 1019.32,
+      "text": "Muito"
+    },
+    {
+      "start": 1019.32,
+      "end": 1019.56,
+      "text": "bem,"
+    },
+    {
+      "start": 1019.6,
+      "end": 1019.96,
+      "text": "muito"
+    },
+    {
+      "start": 1019.96,
+      "end": 1020.46,
+      "text": "bem."
+    },
+    {
+      "start": 1020.5,
+      "end": 1020.74,
+      "text": "Aqui"
+    },
+    {
+      "start": 1020.74,
+      "end": 1021.04,
+      "text": "ó,"
+    },
+    {
+      "start": 1021.14,
+      "end": 1022.22,
+      "text": "desce"
+    },
+    {
+      "start": 1022.22,
+      "end": 1022.64,
+      "text": "e"
+    },
+    {
+      "start": 1022.64,
+      "end": 1023.3,
+      "text": "desce."
+    },
+    {
+      "start": 1024.34,
+      "end": 1025.12,
+      "text": "Nene,"
+    },
+    {
+      "start": 1025.12,
+      "end": 1025.82,
+      "text": "Nene,"
+    },
+    {
+      "start": 1025.82,
+      "end": 1025.88,
+      "text": "Nene..."
+    },
+    {
+      "start": 1028.8,
+      "end": 1029.16,
+      "text": "Menino!"
+    },
+    {
+      "start": 1030.68,
+      "end": 1031.38,
+      "text": "Menino!"
+    },
+    {
+      "start": 1034.36,
+      "end": 1035.76,
+      "text": "Palavra!"
+    },
+    {
+      "start": 1041.12,
+      "end": 1041.3,
+      "text": "Não"
+    },
+    {
+      "start": 1041.3,
+      "end": 1041.4,
+      "text": "há,"
+    },
+    {
+      "start": 1041.68,
+      "end": 1042.06,
+      "text": "não"
+    },
+    {
+      "start": 1042.06,
+      "end": 1042.58,
+      "text": "há,"
+    },
+    {
+      "start": 1042.8,
+      "end": 1042.98,
+      "text": "não"
+    },
+    {
+      "start": 1042.98,
+      "end": 1043.34,
+      "text": "há."
+    },
+    {
+      "start": 1112.67,
+      "end": 1112.73,
+      "text": "Não"
+    },
+    {
+      "start": 1112.73,
+      "end": 1112.87,
+      "text": "tem"
+    },
+    {
+      "start": 1112.87,
+      "end": 1113.13,
+      "text": "problema."
+    },
+    {
+      "start": 1156.67,
+      "end": 1157.11,
+      "text": "Mãos!"
+    }
+  ]
+}

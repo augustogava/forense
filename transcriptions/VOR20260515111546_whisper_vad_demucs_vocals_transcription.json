@@ -1,0 +1,39 @@
+{
+  "source_file": "VOR20260515111546_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:01": "Atenção!",
+    "00:24:35,00:24:36": "Aplausos",
+    "00:32:45,00:32:46": ".",
+    "00:55:14,00:55:14": "Atenção!",
+    "00:57:11,00:57:11": "."
+  },
+  "words": [
+    {
+      "start": 0.87,
+      "end": 1.93,
+      "text": "Atenção!"
+    },
+    {
+      "start": 1475.97,
+      "end": 1476.75,
+      "text": "Aplausos"
+    },
+    {
+      "start": 1965.6,
+      "end": 1966.0,
+      "text": "."
+    },
+    {
+      "start": 3314.17,
+      "end": 3314.87,
+      "text": "Atenção!"
+    },
+    {
+      "start": 3431.2,
+      "end": 3431.68,
+      "text": "."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "source_file": "Antesswxobanheiro0605_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 637.2,
+  "segments": {
+    "00:05:06,00:05:10": "O que é isso?"
+  },
+  "words": [
+    {
+      "start": 306.56,
+      "end": 307.6,
+      "text": "O",
+      "probability": 0.073
+    },
+    {
+      "start": 307.6,
+      "end": 308.64,
+      "text": "que",
+      "probability": 0.818
+    },
+    {
+      "start": 310.02,
+      "end": 310.1,
+      "text": "é",
+      "probability": 0.586
+    },
+    {
+      "start": 310.1,
+      "end": 310.34,
+      "text": "isso?",
+      "probability": 0.881
+    }
+  ]
+}

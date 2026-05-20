@@ -1,0 +1,17 @@
+{
+  "source_file": "Mathiasapecarro2904_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 718.5,
+  "segments": {
+    "00:01:10,00:01:11": "Música"
+  },
+  "words": [
+    {
+      "start": 70.16,
+      "end": 71.56,
+      "text": "Música",
+      "probability": 0.547
+    }
+  ]
+}

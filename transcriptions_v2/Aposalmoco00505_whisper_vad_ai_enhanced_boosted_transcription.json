@@ -1,0 +1,69 @@
+{
+  "source_file": "Aposalmoco00505_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 5967.2,
+  "segments": {
+    "00:08:54,00:08:55": "Um sorriso.",
+    "00:08:56,00:08:57": "Um sorriso.",
+    "00:10:10,00:10:11": "Boa noite.",
+    "01:30:26,01:30:28": "Obrigado.",
+    "01:36:08,01:37:14": "Tchau, tchau."
+  },
+  "words": [
+    {
+      "start": 534.68,
+      "end": 534.7,
+      "text": "Um",
+      "probability": 0.012
+    },
+    {
+      "start": 534.7,
+      "end": 535.34,
+      "text": "sorriso.",
+      "probability": 0.422
+    },
+    {
+      "start": 536.06,
+      "end": 536.6,
+      "text": "Um",
+      "probability": 0.414
+    },
+    {
+      "start": 536.99,
+      "end": 537.95,
+      "text": "sorriso.",
+      "probability": 0.969
+    },
+    {
+      "start": 610.66,
+      "end": 611.02,
+      "text": "Boa",
+      "probability": 0.531
+    },
+    {
+      "start": 611.02,
+      "end": 611.2,
+      "text": "noite.",
+      "probability": 0.948
+    },
+    {
+      "start": 5426.83,
+      "end": 5428.23,
+      "text": "Obrigado.",
+      "probability": 0.333
+    },
+    {
+      "start": 5768.97,
+      "end": 5770.01,
+      "text": "Tchau,",
+      "probability": 0.524
+    },
+    {
+      "start": 5834.05,
+      "end": 5834.83,
+      "text": "tchau.",
+      "probability": 0.937
+    }
+  ]
+}

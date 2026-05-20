@@ -1,0 +1,206 @@
+{
+  "source_file": "Descer2_vocal_enhanced.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:02": "O que você faz se for doido?",
+    "00:00:03,00:00:03": "Vai cair?",
+    "00:00:07,00:00:08": "Vai cair, Matias.",
+    "00:00:10,00:00:12": "Vamos deitar. Alguém desliga. Chega.",
+    "00:00:21,00:00:22": "Bem, vamos lá, vamos fazer.",
+    "00:00:25,00:00:27": "Finalmente, você vai pegar o copo e você vai dormir.",
+    "00:00:29,00:00:30": "Estupro.",
+    "00:00:57,00:00:58": "Agradecer a sua participação."
+  },
+  "explicit_segments": {
+    "00:00:29,00:00:30": "Estupro."
+  },
+  "explicit_count": 1,
+  "words": [
+    {
+      "start": 0.29,
+      "end": 0.91,
+      "text": "O"
+    },
+    {
+      "start": 0.91,
+      "end": 0.99,
+      "text": "que"
+    },
+    {
+      "start": 0.99,
+      "end": 1.17,
+      "text": "você"
+    },
+    {
+      "start": 1.17,
+      "end": 1.39,
+      "text": "faz"
+    },
+    {
+      "start": 1.39,
+      "end": 1.55,
+      "text": "se"
+    },
+    {
+      "start": 1.55,
+      "end": 1.71,
+      "text": "for"
+    },
+    {
+      "start": 1.71,
+      "end": 2.13,
+      "text": "doido?"
+    },
+    {
+      "start": 3.01,
+      "end": 3.37,
+      "text": "Vai"
+    },
+    {
+      "start": 3.37,
+      "end": 3.73,
+      "text": "cair?"
+    },
+    {
+      "start": 7.94,
+      "end": 8.06,
+      "text": "Vai"
+    },
+    {
+      "start": 8.06,
+      "end": 8.28,
+      "text": "cair,"
+    },
+    {
+      "start": 8.32,
+      "end": 8.82,
+      "text": "Matias."
+    },
+    {
+      "start": 10.84,
+      "end": 11.36,
+      "text": "Vamos"
+    },
+    {
+      "start": 11.36,
+      "end": 11.76,
+      "text": "deitar."
+    },
+    {
+      "start": 11.76,
+      "end": 12.0,
+      "text": "Alguém"
+    },
+    {
+      "start": 12.0,
+      "end": 12.38,
+      "text": "desliga."
+    },
+    {
+      "start": 12.44,
+      "end": 12.82,
+      "text": "Chega."
+    },
+    {
+      "start": 21.15,
+      "end": 21.47,
+      "text": "Bem,"
+    },
+    {
+      "start": 21.55,
+      "end": 21.67,
+      "text": "vamos"
+    },
+    {
+      "start": 21.67,
+      "end": 21.87,
+      "text": "lá,"
+    },
+    {
+      "start": 21.89,
+      "end": 22.05,
+      "text": "vamos"
+    },
+    {
+      "start": 22.05,
+      "end": 22.43,
+      "text": "fazer."
+    },
+    {
+      "start": 25.31,
+      "end": 25.73,
+      "text": "Finalmente,"
+    },
+    {
+      "start": 25.73,
+      "end": 26.03,
+      "text": "você"
+    },
+    {
+      "start": 26.03,
+      "end": 26.19,
+      "text": "vai"
+    },
+    {
+      "start": 26.19,
+      "end": 26.49,
+      "text": "pegar"
+    },
+    {
+      "start": 26.49,
+      "end": 26.59,
+      "text": "o"
+    },
+    {
+      "start": 26.59,
+      "end": 26.93,
+      "text": "copo"
+    },
+    {
+      "start": 26.93,
+      "end": 26.93,
+      "text": "e"
+    },
+    {
+      "start": 26.93,
+      "end": 27.01,
+      "text": "você"
+    },
+    {
+      "start": 27.01,
+      "end": 27.11,
+      "text": "vai"
+    },
+    {
+      "start": 27.11,
+      "end": 27.25,
+      "text": "dormir."
+    },
+    {
+      "start": 29.92,
+      "end": 30.82,
+      "text": "Estupro."
+    },
+    {
+      "start": 57.89,
+      "end": 58.03,
+      "text": "Agradecer"
+    },
+    {
+      "start": 58.03,
+      "end": 58.03,
+      "text": "a"
+    },
+    {
+      "start": 58.03,
+      "end": 58.21,
+      "text": "sua"
+    },
+    {
+      "start": 58.21,
+      "end": 58.43,
+      "text": "participação."
+    }
+  ]
+}

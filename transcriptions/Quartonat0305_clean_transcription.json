@@ -1,0 +1,210 @@
+{
+  "source_file": "Quartonat0305_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:03:01,00:03:02": "Descendo.",
+    "00:13:50,00:13:50": "Não há mais sentido.",
+    "00:32:57,00:32:58": "Você não quis.",
+    "00:35:28,00:35:29": "Não vou partir a água até.",
+    "01:21:18,01:21:19": "Sendo dois...",
+    "01:42:25,01:42:25": ".",
+    "01:43:55,01:43:55": "O que é amor?",
+    "01:44:13,01:44:13": "Não há.",
+    "01:45:15,01:45:16": "Não se esqueça de se inscrever.",
+    "01:54:02,01:54:03": "O que é a lei da honra?",
+    "01:56:59,01:57:00": "Parabéns, saída!"
+  },
+  "words": [
+    {
+      "start": 181.83,
+      "end": 182.37,
+      "text": "Descendo."
+    },
+    {
+      "start": 830.11,
+      "end": 830.11,
+      "text": "Não"
+    },
+    {
+      "start": 830.11,
+      "end": 830.21,
+      "text": "há"
+    },
+    {
+      "start": 830.21,
+      "end": 830.35,
+      "text": "mais"
+    },
+    {
+      "start": 830.35,
+      "end": 830.55,
+      "text": "sentido."
+    },
+    {
+      "start": 1977.63,
+      "end": 1978.07,
+      "text": "Você"
+    },
+    {
+      "start": 1978.07,
+      "end": 1978.27,
+      "text": "não"
+    },
+    {
+      "start": 1978.27,
+      "end": 1978.51,
+      "text": "quis."
+    },
+    {
+      "start": 2128.8,
+      "end": 2128.88,
+      "text": "Não"
+    },
+    {
+      "start": 2128.88,
+      "end": 2128.94,
+      "text": "vou"
+    },
+    {
+      "start": 2128.94,
+      "end": 2129.14,
+      "text": "partir"
+    },
+    {
+      "start": 2129.14,
+      "end": 2129.4,
+      "text": "a"
+    },
+    {
+      "start": 2129.4,
+      "end": 2129.58,
+      "text": "água"
+    },
+    {
+      "start": 2129.58,
+      "end": 2129.84,
+      "text": "até."
+    },
+    {
+      "start": 4878.59,
+      "end": 4878.87,
+      "text": "Sendo"
+    },
+    {
+      "start": 4878.87,
+      "end": 4879.33,
+      "text": "dois..."
+    },
+    {
+      "start": 6145.31,
+      "end": 6145.59,
+      "text": "."
+    },
+    {
+      "start": 6235.3,
+      "end": 6235.4,
+      "text": "O"
+    },
+    {
+      "start": 6235.4,
+      "end": 6235.4,
+      "text": "que"
+    },
+    {
+      "start": 6235.4,
+      "end": 6235.5,
+      "text": "é"
+    },
+    {
+      "start": 6235.5,
+      "end": 6235.74,
+      "text": "amor?"
+    },
+    {
+      "start": 6253.44,
+      "end": 6253.56,
+      "text": "Não"
+    },
+    {
+      "start": 6253.56,
+      "end": 6253.78,
+      "text": "há."
+    },
+    {
+      "start": 6315.04,
+      "end": 6315.04,
+      "text": "Não"
+    },
+    {
+      "start": 6315.04,
+      "end": 6315.2,
+      "text": "se"
+    },
+    {
+      "start": 6315.2,
+      "end": 6315.74,
+      "text": "esqueça"
+    },
+    {
+      "start": 6315.74,
+      "end": 6315.88,
+      "text": "de"
+    },
+    {
+      "start": 6315.88,
+      "end": 6315.96,
+      "text": "se"
+    },
+    {
+      "start": 6315.96,
+      "end": 6316.34,
+      "text": "inscrever."
+    },
+    {
+      "start": 6842.21,
+      "end": 6842.27,
+      "text": "O"
+    },
+    {
+      "start": 6842.27,
+      "end": 6842.33,
+      "text": "que"
+    },
+    {
+      "start": 6842.33,
+      "end": 6842.41,
+      "text": "é"
+    },
+    {
+      "start": 6842.41,
+      "end": 6842.49,
+      "text": "a"
+    },
+    {
+      "start": 6842.49,
+      "end": 6842.71,
+      "text": "lei"
+    },
+    {
+      "start": 6842.71,
+      "end": 6842.81,
+      "text": "da"
+    },
+    {
+      "start": 6842.81,
+      "end": 6843.21,
+      "text": "honra?"
+    },
+    {
+      "start": 7019.52,
+      "end": 7020.08,
+      "text": "Parabéns,"
+    },
+    {
+      "start": 7020.1,
+      "end": 7020.36,
+      "text": "saída!"
+    }
+  ]
+}

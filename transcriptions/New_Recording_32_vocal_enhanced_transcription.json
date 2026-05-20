@@ -1,0 +1,246 @@
+{
+  "source_file": "New_Recording_32_vocal_enhanced.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:05:35,00:05:36": "Uma coisa...",
+    "00:07:45,00:07:46": "Não se dá roupa!",
+    "00:07:48,00:07:49": "Veja a mão para trás.",
+    "00:07:51,00:07:52": "Deixa eu dar uma para o pessoal, vai.",
+    "00:08:53,00:08:54": "O que é que tem mais tempo?",
+    "00:08:56,00:08:56": "Vamos tomar banho aqui?",
+    "00:20:56,00:20:56": "Não matear.",
+    "00:27:12,00:27:13": "Seu...",
+    "00:27:16,00:27:17": "Já, já se calça.",
+    "00:27:36,00:27:37": "Até!",
+    "00:27:56,00:27:56": "Não tem problema.",
+    "00:29:50,00:29:50": "Não dá pra tirar."
+  },
+  "words": [
+    {
+      "start": 335.81,
+      "end": 335.91,
+      "text": "Uma"
+    },
+    {
+      "start": 335.91,
+      "end": 336.25,
+      "text": "coisa..."
+    },
+    {
+      "start": 465.7,
+      "end": 465.78,
+      "text": "Não"
+    },
+    {
+      "start": 465.78,
+      "end": 465.78,
+      "text": "se"
+    },
+    {
+      "start": 465.78,
+      "end": 465.8,
+      "text": "dá"
+    },
+    {
+      "start": 465.8,
+      "end": 466.16,
+      "text": "roupa!"
+    },
+    {
+      "start": 468.93,
+      "end": 469.11,
+      "text": "Veja"
+    },
+    {
+      "start": 469.11,
+      "end": 469.15,
+      "text": "a"
+    },
+    {
+      "start": 469.15,
+      "end": 469.31,
+      "text": "mão"
+    },
+    {
+      "start": 469.31,
+      "end": 469.49,
+      "text": "para"
+    },
+    {
+      "start": 469.49,
+      "end": 469.61,
+      "text": "trás."
+    },
+    {
+      "start": 471.23,
+      "end": 471.33,
+      "text": "Deixa"
+    },
+    {
+      "start": 471.33,
+      "end": 471.41,
+      "text": "eu"
+    },
+    {
+      "start": 471.41,
+      "end": 471.49,
+      "text": "dar"
+    },
+    {
+      "start": 471.49,
+      "end": 471.59,
+      "text": "uma"
+    },
+    {
+      "start": 471.59,
+      "end": 471.75,
+      "text": "para"
+    },
+    {
+      "start": 471.75,
+      "end": 471.81,
+      "text": "o"
+    },
+    {
+      "start": 471.81,
+      "end": 471.97,
+      "text": "pessoal,"
+    },
+    {
+      "start": 471.97,
+      "end": 472.11,
+      "text": "vai."
+    },
+    {
+      "start": 533.86,
+      "end": 533.94,
+      "text": "O"
+    },
+    {
+      "start": 533.94,
+      "end": 533.96,
+      "text": "que"
+    },
+    {
+      "start": 533.96,
+      "end": 533.96,
+      "text": "é"
+    },
+    {
+      "start": 533.96,
+      "end": 534.08,
+      "text": "que"
+    },
+    {
+      "start": 534.08,
+      "end": 534.24,
+      "text": "tem"
+    },
+    {
+      "start": 534.24,
+      "end": 534.32,
+      "text": "mais"
+    },
+    {
+      "start": 534.32,
+      "end": 534.5,
+      "text": "tempo?"
+    },
+    {
+      "start": 536.19,
+      "end": 536.19,
+      "text": "Vamos"
+    },
+    {
+      "start": 536.19,
+      "end": 536.27,
+      "text": "tomar"
+    },
+    {
+      "start": 536.27,
+      "end": 536.45,
+      "text": "banho"
+    },
+    {
+      "start": 536.45,
+      "end": 536.57,
+      "text": "aqui?"
+    },
+    {
+      "start": 1256.23,
+      "end": 1256.35,
+      "text": "Não"
+    },
+    {
+      "start": 1256.35,
+      "end": 1256.85,
+      "text": "matear."
+    },
+    {
+      "start": 1632.93,
+      "end": 1633.63,
+      "text": "Seu..."
+    },
+    {
+      "start": 1636.29,
+      "end": 1636.41,
+      "text": "Já,"
+    },
+    {
+      "start": 1636.41,
+      "end": 1636.65,
+      "text": "já"
+    },
+    {
+      "start": 1636.65,
+      "end": 1636.79,
+      "text": "se"
+    },
+    {
+      "start": 1636.79,
+      "end": 1637.15,
+      "text": "calça."
+    },
+    {
+      "start": 1656.9,
+      "end": 1657.12,
+      "text": "Até!"
+    },
+    {
+      "start": 1676.58,
+      "end": 1676.66,
+      "text": "Não"
+    },
+    {
+      "start": 1676.66,
+      "end": 1676.66,
+      "text": "tem"
+    },
+    {
+      "start": 1676.66,
+      "end": 1677.0,
+      "text": "problema."
+    },
+    {
+      "start": 1790.24,
+      "end": 1790.26,
+      "text": "Não"
+    },
+    {
+      "start": 1790.26,
+      "end": 1790.26,
+      "text": "dá"
+    },
+    {
+      "start": 1790.26,
+      "end": 1790.36,
+      "text": "pra"
+    },
+    {
+      "start": 1790.36,
+      "end": 1790.58,
+      "text": "tirar."
+    }
+  ]
+}

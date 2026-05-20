@@ -1,0 +1,32 @@
+{
+  "source_file": "Antesswxobanheiro0605_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:03,00:00:04": "Atenção!",
+    "00:00:07,00:00:07": ".",
+    "00:10:25,00:10:26": "Não lendo."
+  },
+  "words": [
+    {
+      "start": 3.69,
+      "end": 4.39,
+      "text": "Atenção!"
+    },
+    {
+      "start": 7.55,
+      "end": 7.81,
+      "text": "."
+    },
+    {
+      "start": 625.63,
+      "end": 625.79,
+      "text": "Não"
+    },
+    {
+      "start": 625.79,
+      "end": 626.03,
+      "text": "lendo."
+    }
+  ]
+}

@@ -1,0 +1,874 @@
+{
+  "source_file": "Carro0905_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1548.1,
+  "segments": {
+    "00:13:17,00:13:24": "Eu te aceio, tenta não vacilar, menino eu te aceio, amor é pra cuidar, se escapar não",
+    "00:13:24,00:13:29": "não, caixa no meu coração, antes de sumir da sua vida só mais uma coisa vai ter no",
+    "00:13:30,00:13:32": "É a última vez que eu vou falar",
+    "00:13:32,00:13:35": "Vou falar enquanto é claro",
+    "00:13:36,00:13:39": "Se eu não vou falar eu sigo em espera",
+    "00:13:45,00:13:50": "Eu não quero mais que o que eu quero ser",
+    "00:13:50,00:13:53": "Seja assim que é, aí se pode entrar",
+    "00:13:53,00:13:56": "O que eu queria é amor",
+    "00:13:56,00:14:04": "Não sei, não sei onde eu vou",
+    "00:14:04,00:14:07": "Não sei onde eu vou, onde eu vou, onde eu vou",
+    "00:14:07,00:14:08": "a gente faz agora",
+    "00:14:08,00:14:10": "deixa a conta",
+    "00:14:10,00:14:12": "pra aproveitarem por nós",
+    "00:14:12,00:14:13": "eu",
+    "00:14:13,00:14:27": "tenho amor",
+    "00:14:27,00:14:31": "ao meu amor",
+    "00:14:31,00:14:38": "eu te deixarei",
+    "00:14:38,00:14:39": "perceber",
+    "00:14:39,00:14:42": "que eu te amo",
+    "00:14:42,00:14:44": "eu vou virar um vagabundo",
+    "00:14:44,00:14:57": "eu já tenho",
+    "00:14:57,00:14:57": "o meu",
+    "00:14:59,00:15:01": "agora eu não entendo mais",
+    "00:16:48,00:16:50": "Música"
+  },
+  "words": [
+    {
+      "start": 797.83,
+      "end": 798.29,
+      "text": "Eu",
+      "probability": 0.03
+    },
+    {
+      "start": 798.29,
+      "end": 798.75,
+      "text": "te",
+      "probability": 0.601
+    },
+    {
+      "start": 798.75,
+      "end": 799.51,
+      "text": "aceio,",
+      "probability": 0.73
+    },
+    {
+      "start": 799.51,
+      "end": 799.95,
+      "text": "tenta",
+      "probability": 0.636
+    },
+    {
+      "start": 799.95,
+      "end": 800.13,
+      "text": "não",
+      "probability": 0.974
+    },
+    {
+      "start": 800.13,
+      "end": 800.75,
+      "text": "vacilar,",
+      "probability": 0.977
+    },
+    {
+      "start": 800.87,
+      "end": 801.43,
+      "text": "menino",
+      "probability": 0.373
+    },
+    {
+      "start": 801.43,
+      "end": 801.59,
+      "text": "eu",
+      "probability": 0.785
+    },
+    {
+      "start": 801.59,
+      "end": 801.73,
+      "text": "te",
+      "probability": 0.994
+    },
+    {
+      "start": 801.73,
+      "end": 802.29,
+      "text": "aceio,",
+      "probability": 0.991
+    },
+    {
+      "start": 802.33,
+      "end": 802.67,
+      "text": "amor",
+      "probability": 0.8
+    },
+    {
+      "start": 802.67,
+      "end": 802.99,
+      "text": "é",
+      "probability": 0.964
+    },
+    {
+      "start": 802.99,
+      "end": 803.15,
+      "text": "pra",
+      "probability": 0.933
+    },
+    {
+      "start": 803.15,
+      "end": 803.65,
+      "text": "cuidar,",
+      "probability": 0.783
+    },
+    {
+      "start": 803.67,
+      "end": 803.95,
+      "text": "se",
+      "probability": 0.576
+    },
+    {
+      "start": 803.95,
+      "end": 804.59,
+      "text": "escapar",
+      "probability": 0.955
+    },
+    {
+      "start": 804.59,
+      "end": 804.77,
+      "text": "não",
+      "probability": 0.512
+    },
+    {
+      "start": 804.77,
+      "end": 805.01,
+      "text": "não,",
+      "probability": 0.192
+    },
+    {
+      "start": 805.11,
+      "end": 805.45,
+      "text": "caixa",
+      "probability": 0.305
+    },
+    {
+      "start": 805.45,
+      "end": 805.87,
+      "text": "no",
+      "probability": 0.668
+    },
+    {
+      "start": 805.87,
+      "end": 806.09,
+      "text": "meu",
+      "probability": 0.434
+    },
+    {
+      "start": 806.09,
+      "end": 806.57,
+      "text": "coração,",
+      "probability": 0.56
+    },
+    {
+      "start": 807.21,
+      "end": 807.53,
+      "text": "antes",
+      "probability": 0.395
+    },
+    {
+      "start": 807.53,
+      "end": 807.81,
+      "text": "de",
+      "probability": 0.99
+    },
+    {
+      "start": 807.81,
+      "end": 808.11,
+      "text": "sumir",
+      "probability": 0.716
+    },
+    {
+      "start": 808.11,
+      "end": 808.17,
+      "text": "da",
+      "probability": 0.937
+    },
+    {
+      "start": 808.17,
+      "end": 808.29,
+      "text": "sua",
+      "probability": 0.991
+    },
+    {
+      "start": 808.29,
+      "end": 808.51,
+      "text": "vida",
+      "probability": 1.0
+    },
+    {
+      "start": 808.51,
+      "end": 808.63,
+      "text": "só",
+      "probability": 0.503
+    },
+    {
+      "start": 808.63,
+      "end": 808.83,
+      "text": "mais",
+      "probability": 0.999
+    },
+    {
+      "start": 808.83,
+      "end": 808.97,
+      "text": "uma",
+      "probability": 0.998
+    },
+    {
+      "start": 808.97,
+      "end": 809.19,
+      "text": "coisa",
+      "probability": 0.978
+    },
+    {
+      "start": 809.19,
+      "end": 809.37,
+      "text": "vai",
+      "probability": 0.345
+    },
+    {
+      "start": 809.37,
+      "end": 809.53,
+      "text": "ter",
+      "probability": 0.818
+    },
+    {
+      "start": 809.53,
+      "end": 809.63,
+      "text": "no",
+      "probability": 0.903
+    },
+    {
+      "start": 810.63,
+      "end": 810.63,
+      "text": "É",
+      "probability": 0.027
+    },
+    {
+      "start": 810.63,
+      "end": 810.75,
+      "text": "a",
+      "probability": 0.187
+    },
+    {
+      "start": 810.75,
+      "end": 810.99,
+      "text": "última",
+      "probability": 0.904
+    },
+    {
+      "start": 810.99,
+      "end": 811.39,
+      "text": "vez",
+      "probability": 0.999
+    },
+    {
+      "start": 811.39,
+      "end": 811.65,
+      "text": "que",
+      "probability": 0.985
+    },
+    {
+      "start": 811.65,
+      "end": 811.89,
+      "text": "eu",
+      "probability": 0.925
+    },
+    {
+      "start": 811.89,
+      "end": 812.11,
+      "text": "vou",
+      "probability": 0.941
+    },
+    {
+      "start": 812.11,
+      "end": 812.69,
+      "text": "falar",
+      "probability": 0.317
+    },
+    {
+      "start": 812.69,
+      "end": 813.45,
+      "text": "Vou",
+      "probability": 0.082
+    },
+    {
+      "start": 813.45,
+      "end": 814.33,
+      "text": "falar",
+      "probability": 0.894
+    },
+    {
+      "start": 814.33,
+      "end": 814.67,
+      "text": "enquanto",
+      "probability": 0.735
+    },
+    {
+      "start": 814.67,
+      "end": 815.31,
+      "text": "é",
+      "probability": 0.663
+    },
+    {
+      "start": 815.31,
+      "end": 815.71,
+      "text": "claro",
+      "probability": 0.251
+    },
+    {
+      "start": 816.35,
+      "end": 816.67,
+      "text": "Se",
+      "probability": 0.396
+    },
+    {
+      "start": 816.67,
+      "end": 817.15,
+      "text": "eu",
+      "probability": 0.77
+    },
+    {
+      "start": 817.15,
+      "end": 817.39,
+      "text": "não",
+      "probability": 0.952
+    },
+    {
+      "start": 817.39,
+      "end": 817.59,
+      "text": "vou",
+      "probability": 0.615
+    },
+    {
+      "start": 817.59,
+      "end": 818.05,
+      "text": "falar",
+      "probability": 0.416
+    },
+    {
+      "start": 818.05,
+      "end": 818.37,
+      "text": "eu",
+      "probability": 0.314
+    },
+    {
+      "start": 818.37,
+      "end": 818.57,
+      "text": "sigo",
+      "probability": 0.748
+    },
+    {
+      "start": 818.57,
+      "end": 818.77,
+      "text": "em",
+      "probability": 0.448
+    },
+    {
+      "start": 818.77,
+      "end": 819.41,
+      "text": "espera",
+      "probability": 0.464
+    },
+    {
+      "start": 825.55,
+      "end": 826.19,
+      "text": "Eu",
+      "probability": 0.225
+    },
+    {
+      "start": 826.19,
+      "end": 826.49,
+      "text": "não",
+      "probability": 0.407
+    },
+    {
+      "start": 826.49,
+      "end": 826.77,
+      "text": "quero",
+      "probability": 0.497
+    },
+    {
+      "start": 826.77,
+      "end": 827.31,
+      "text": "mais",
+      "probability": 0.443
+    },
+    {
+      "start": 827.31,
+      "end": 827.81,
+      "text": "que",
+      "probability": 0.097
+    },
+    {
+      "start": 829.25,
+      "end": 829.41,
+      "text": "o",
+      "probability": 0.285
+    },
+    {
+      "start": 829.41,
+      "end": 829.55,
+      "text": "que",
+      "probability": 0.316
+    },
+    {
+      "start": 829.55,
+      "end": 829.85,
+      "text": "eu",
+      "probability": 0.107
+    },
+    {
+      "start": 829.85,
+      "end": 829.99,
+      "text": "quero",
+      "probability": 0.487
+    },
+    {
+      "start": 829.99,
+      "end": 830.41,
+      "text": "ser",
+      "probability": 0.403
+    },
+    {
+      "start": 830.41,
+      "end": 831.33,
+      "text": "Seja",
+      "probability": 0.141
+    },
+    {
+      "start": 831.33,
+      "end": 831.57,
+      "text": "assim",
+      "probability": 0.375
+    },
+    {
+      "start": 831.57,
+      "end": 831.65,
+      "text": "que",
+      "probability": 0.53
+    },
+    {
+      "start": 831.65,
+      "end": 831.97,
+      "text": "é,",
+      "probability": 0.573
+    },
+    {
+      "start": 831.97,
+      "end": 832.31,
+      "text": "aí",
+      "probability": 0.504
+    },
+    {
+      "start": 832.31,
+      "end": 832.51,
+      "text": "se",
+      "probability": 0.229
+    },
+    {
+      "start": 832.51,
+      "end": 832.95,
+      "text": "pode",
+      "probability": 0.725
+    },
+    {
+      "start": 832.95,
+      "end": 833.61,
+      "text": "entrar",
+      "probability": 0.08
+    },
+    {
+      "start": 833.61,
+      "end": 834.49,
+      "text": "O",
+      "probability": 0.269
+    },
+    {
+      "start": 834.49,
+      "end": 834.63,
+      "text": "que",
+      "probability": 0.38
+    },
+    {
+      "start": 834.63,
+      "end": 835.11,
+      "text": "eu",
+      "probability": 0.812
+    },
+    {
+      "start": 835.11,
+      "end": 835.47,
+      "text": "queria",
+      "probability": 0.156
+    },
+    {
+      "start": 835.47,
+      "end": 835.99,
+      "text": "é",
+      "probability": 0.649
+    },
+    {
+      "start": 835.99,
+      "end": 836.43,
+      "text": "amor",
+      "probability": 0.19
+    },
+    {
+      "start": 836.43,
+      "end": 837.41,
+      "text": "Não",
+      "probability": 0.068
+    },
+    {
+      "start": 837.41,
+      "end": 840.45,
+      "text": "sei,",
+      "probability": 0.352
+    },
+    {
+      "start": 842.86,
+      "end": 843.52,
+      "text": "não",
+      "probability": 0.849
+    },
+    {
+      "start": 843.52,
+      "end": 843.74,
+      "text": "sei",
+      "probability": 0.996
+    },
+    {
+      "start": 843.74,
+      "end": 844.08,
+      "text": "onde",
+      "probability": 0.604
+    },
+    {
+      "start": 844.08,
+      "end": 844.2,
+      "text": "eu",
+      "probability": 0.794
+    },
+    {
+      "start": 844.2,
+      "end": 844.26,
+      "text": "vou",
+      "probability": 0.875
+    },
+    {
+      "start": 844.26,
+      "end": 844.72,
+      "text": "Não",
+      "probability": 0.197
+    },
+    {
+      "start": 844.72,
+      "end": 845.12,
+      "text": "sei",
+      "probability": 0.918
+    },
+    {
+      "start": 845.12,
+      "end": 845.44,
+      "text": "onde",
+      "probability": 0.995
+    },
+    {
+      "start": 845.44,
+      "end": 845.6,
+      "text": "eu",
+      "probability": 0.957
+    },
+    {
+      "start": 845.6,
+      "end": 845.76,
+      "text": "vou,",
+      "probability": 0.984
+    },
+    {
+      "start": 845.82,
+      "end": 846.12,
+      "text": "onde",
+      "probability": 0.382
+    },
+    {
+      "start": 846.12,
+      "end": 846.32,
+      "text": "eu",
+      "probability": 0.994
+    },
+    {
+      "start": 846.32,
+      "end": 846.48,
+      "text": "vou,",
+      "probability": 0.994
+    },
+    {
+      "start": 846.54,
+      "end": 846.82,
+      "text": "onde",
+      "probability": 0.992
+    },
+    {
+      "start": 846.82,
+      "end": 846.98,
+      "text": "eu",
+      "probability": 1.0
+    },
+    {
+      "start": 846.98,
+      "end": 847.12,
+      "text": "vou",
+      "probability": 0.999
+    },
+    {
+      "start": 847.12,
+      "end": 847.3,
+      "text": "a",
+      "probability": 0.015
+    },
+    {
+      "start": 847.3,
+      "end": 848.1,
+      "text": "gente",
+      "probability": 0.354
+    },
+    {
+      "start": 848.1,
+      "end": 848.36,
+      "text": "faz",
+      "probability": 0.263
+    },
+    {
+      "start": 848.36,
+      "end": 848.68,
+      "text": "agora",
+      "probability": 0.972
+    },
+    {
+      "start": 848.68,
+      "end": 849.16,
+      "text": "deixa",
+      "probability": 0.124
+    },
+    {
+      "start": 849.16,
+      "end": 850.7,
+      "text": "a",
+      "probability": 0.592
+    },
+    {
+      "start": 850.7,
+      "end": 850.96,
+      "text": "conta",
+      "probability": 0.226
+    },
+    {
+      "start": 850.96,
+      "end": 851.16,
+      "text": "pra",
+      "probability": 0.531
+    },
+    {
+      "start": 851.16,
+      "end": 851.9,
+      "text": "aproveitarem",
+      "probability": 0.972
+    },
+    {
+      "start": 851.9,
+      "end": 852.12,
+      "text": "por",
+      "probability": 0.663
+    },
+    {
+      "start": 852.12,
+      "end": 852.48,
+      "text": "nós",
+      "probability": 0.578
+    },
+    {
+      "start": 852.48,
+      "end": 853.4,
+      "text": "eu",
+      "probability": 0.335
+    },
+    {
+      "start": 853.4,
+      "end": 855.04,
+      "text": "tenho",
+      "probability": 0.079
+    },
+    {
+      "start": 866.65,
+      "end": 867.83,
+      "text": "amor",
+      "probability": 0.771
+    },
+    {
+      "start": 867.83,
+      "end": 868.83,
+      "text": "ao",
+      "probability": 0.152
+    },
+    {
+      "start": 869.89,
+      "end": 870.53,
+      "text": "meu",
+      "probability": 0.768
+    },
+    {
+      "start": 870.53,
+      "end": 871.01,
+      "text": "amor",
+      "probability": 0.627
+    },
+    {
+      "start": 871.01,
+      "end": 871.65,
+      "text": "eu",
+      "probability": 0.382
+    },
+    {
+      "start": 877.6,
+      "end": 877.82,
+      "text": "te",
+      "probability": 0.625
+    },
+    {
+      "start": 877.82,
+      "end": 878.6,
+      "text": "deixarei",
+      "probability": 0.686
+    },
+    {
+      "start": 878.6,
+      "end": 879.3,
+      "text": "perceber",
+      "probability": 0.121
+    },
+    {
+      "start": 879.3,
+      "end": 880.9,
+      "text": "que",
+      "probability": 0.378
+    },
+    {
+      "start": 880.9,
+      "end": 881.62,
+      "text": "eu",
+      "probability": 0.235
+    },
+    {
+      "start": 881.62,
+      "end": 882.02,
+      "text": "te",
+      "probability": 0.666
+    },
+    {
+      "start": 882.02,
+      "end": 882.14,
+      "text": "amo",
+      "probability": 0.956
+    },
+    {
+      "start": 882.14,
+      "end": 882.44,
+      "text": "eu",
+      "probability": 0.322
+    },
+    {
+      "start": 882.44,
+      "end": 883.48,
+      "text": "vou",
+      "probability": 0.413
+    },
+    {
+      "start": 883.48,
+      "end": 883.98,
+      "text": "virar",
+      "probability": 0.794
+    },
+    {
+      "start": 883.98,
+      "end": 884.18,
+      "text": "um",
+      "probability": 0.666
+    },
+    {
+      "start": 884.18,
+      "end": 884.7,
+      "text": "vagabundo",
+      "probability": 0.716
+    },
+    {
+      "start": 884.7,
+      "end": 885.54,
+      "text": "eu",
+      "probability": 0.568
+    },
+    {
+      "start": 896.64,
+      "end": 897.0,
+      "text": "já",
+      "probability": 0.274
+    },
+    {
+      "start": 897.0,
+      "end": 897.28,
+      "text": "tenho",
+      "probability": 0.952
+    },
+    {
+      "start": 897.28,
+      "end": 897.5,
+      "text": "o",
+      "probability": 0.023
+    },
+    {
+      "start": 897.5,
+      "end": 897.88,
+      "text": "meu",
+      "probability": 0.021
+    },
+    {
+      "start": 899.21,
+      "end": 900.17,
+      "text": "agora",
+      "probability": 0.029
+    },
+    {
+      "start": 900.17,
+      "end": 900.75,
+      "text": "eu",
+      "probability": 0.523
+    },
+    {
+      "start": 900.75,
+      "end": 900.87,
+      "text": "não",
+      "probability": 0.72
+    },
+    {
+      "start": 900.87,
+      "end": 901.17,
+      "text": "entendo",
+      "probability": 0.614
+    },
+    {
+      "start": 901.17,
+      "end": 901.55,
+      "text": "mais",
+      "probability": 0.744
+    },
+    {
+      "start": 1008.78,
+      "end": 1010.18,
+      "text": "Música",
+      "probability": 0.47
+    }
+  ]
+}

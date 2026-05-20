@@ -1,0 +1,94 @@
+{
+  "source_file": "Antwsdormirsala0706_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:43:00,00:43:01": "Eu vou tirar o corpo da banana.",
+    "00:43:02,00:43:04": "Eu tiro o corpo da banana.",
+    "00:43:12,00:43:12": "Exame.",
+    "00:43:14,00:43:15": "Desenho.",
+    "01:43:46,01:43:46": "Isso."
+  },
+  "words": [
+    {
+      "start": 2580.9,
+      "end": 2580.9,
+      "text": "Eu"
+    },
+    {
+      "start": 2580.9,
+      "end": 2580.98,
+      "text": "vou"
+    },
+    {
+      "start": 2580.98,
+      "end": 2581.18,
+      "text": "tirar"
+    },
+    {
+      "start": 2581.18,
+      "end": 2581.32,
+      "text": "o"
+    },
+    {
+      "start": 2581.32,
+      "end": 2581.46,
+      "text": "corpo"
+    },
+    {
+      "start": 2581.46,
+      "end": 2581.68,
+      "text": "da"
+    },
+    {
+      "start": 2581.68,
+      "end": 2581.92,
+      "text": "banana."
+    },
+    {
+      "start": 2582.76,
+      "end": 2583.18,
+      "text": "Eu"
+    },
+    {
+      "start": 2583.18,
+      "end": 2583.6,
+      "text": "tiro"
+    },
+    {
+      "start": 2583.6,
+      "end": 2583.68,
+      "text": "o"
+    },
+    {
+      "start": 2583.68,
+      "end": 2583.86,
+      "text": "corpo"
+    },
+    {
+      "start": 2583.86,
+      "end": 2583.98,
+      "text": "da"
+    },
+    {
+      "start": 2583.98,
+      "end": 2584.2,
+      "text": "banana."
+    },
+    {
+      "start": 2592.0,
+      "end": 2592.36,
+      "text": "Exame."
+    },
+    {
+      "start": 2594.79,
+      "end": 2595.07,
+      "text": "Desenho."
+    },
+    {
+      "start": 6226.11,
+      "end": 6226.33,
+      "text": "Isso."
+    }
+  ]
+}

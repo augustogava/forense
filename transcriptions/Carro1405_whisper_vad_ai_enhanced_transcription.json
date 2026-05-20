@@ -1,0 +1,603 @@
+{
+  "source_file": "Carro1405_whisper_vad_ai_enhanced.wav",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:05": "A gente chegou lá, alguns ex-ministros, e eu fiz um ordenamento, alguns sentiam a possibilidade de falha.",
+    "00:00:05,00:00:09": "Isso me ajudou a falar em coisa de já repressionar o Michel e o Bolsonaro.",
+    "00:00:10,00:00:13": "E aí, o que eu ouvi foi que ela é muito mais sensível do que o Flávio.",
+    "00:00:14,00:00:15": "Seria muito mais vitorial.",
+    "00:00:15,00:00:21": "Então, vai lá, carregando cantinha, o nome, se ele for vitorial, que Flávio é o nome a ser insistido.",
+    "00:00:21,00:00:26": "E isso é muito temporário, e que nos próximos dias será uma crise já super rápida.",
+    "00:00:26,00:00:34": "Então, para a confiança, muito fiel, muito crítico, muito lábio, é bom até o que ele tem chance de ganhar aí no seu.",
+    "00:01:02,00:01:03": "Sim!",
+    "00:09:10,00:09:11": "O que é amor?"
+  },
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.12,
+      "text": "A"
+    },
+    {
+      "start": 0.12,
+      "end": 0.12,
+      "text": "gente"
+    },
+    {
+      "start": 0.12,
+      "end": 0.32,
+      "text": "chegou"
+    },
+    {
+      "start": 0.32,
+      "end": 0.66,
+      "text": "lá,"
+    },
+    {
+      "start": 0.74,
+      "end": 0.9,
+      "text": "alguns"
+    },
+    {
+      "start": 0.9,
+      "end": 1.1,
+      "text": "ex"
+    },
+    {
+      "start": 1.1,
+      "end": 1.52,
+      "text": "-ministros,"
+    },
+    {
+      "start": 1.6,
+      "end": 1.92,
+      "text": "e"
+    },
+    {
+      "start": 1.92,
+      "end": 2.02,
+      "text": "eu"
+    },
+    {
+      "start": 2.02,
+      "end": 2.26,
+      "text": "fiz"
+    },
+    {
+      "start": 2.26,
+      "end": 2.4,
+      "text": "um"
+    },
+    {
+      "start": 2.4,
+      "end": 2.92,
+      "text": "ordenamento,"
+    },
+    {
+      "start": 2.98,
+      "end": 3.2,
+      "text": "alguns"
+    },
+    {
+      "start": 3.2,
+      "end": 3.96,
+      "text": "sentiam"
+    },
+    {
+      "start": 3.96,
+      "end": 4.2,
+      "text": "a"
+    },
+    {
+      "start": 4.2,
+      "end": 4.88,
+      "text": "possibilidade"
+    },
+    {
+      "start": 4.88,
+      "end": 5.06,
+      "text": "de"
+    },
+    {
+      "start": 5.06,
+      "end": 5.48,
+      "text": "falha."
+    },
+    {
+      "start": 5.86,
+      "end": 6.1,
+      "text": "Isso"
+    },
+    {
+      "start": 6.1,
+      "end": 6.28,
+      "text": "me"
+    },
+    {
+      "start": 6.28,
+      "end": 6.86,
+      "text": "ajudou"
+    },
+    {
+      "start": 6.86,
+      "end": 7.04,
+      "text": "a"
+    },
+    {
+      "start": 7.04,
+      "end": 7.36,
+      "text": "falar"
+    },
+    {
+      "start": 7.36,
+      "end": 7.48,
+      "text": "em"
+    },
+    {
+      "start": 7.48,
+      "end": 7.78,
+      "text": "coisa"
+    },
+    {
+      "start": 7.78,
+      "end": 7.96,
+      "text": "de"
+    },
+    {
+      "start": 7.96,
+      "end": 8.08,
+      "text": "já"
+    },
+    {
+      "start": 8.08,
+      "end": 8.64,
+      "text": "repressionar"
+    },
+    {
+      "start": 8.64,
+      "end": 8.86,
+      "text": "o"
+    },
+    {
+      "start": 8.86,
+      "end": 9.14,
+      "text": "Michel"
+    },
+    {
+      "start": 9.14,
+      "end": 9.5,
+      "text": "e"
+    },
+    {
+      "start": 9.5,
+      "end": 9.58,
+      "text": "o"
+    },
+    {
+      "start": 9.58,
+      "end": 9.84,
+      "text": "Bolsonaro."
+    },
+    {
+      "start": 10.24,
+      "end": 10.48,
+      "text": "E"
+    },
+    {
+      "start": 10.48,
+      "end": 10.7,
+      "text": "aí,"
+    },
+    {
+      "start": 10.76,
+      "end": 10.92,
+      "text": "o"
+    },
+    {
+      "start": 10.92,
+      "end": 11.1,
+      "text": "que"
+    },
+    {
+      "start": 11.1,
+      "end": 11.14,
+      "text": "eu"
+    },
+    {
+      "start": 11.14,
+      "end": 11.4,
+      "text": "ouvi"
+    },
+    {
+      "start": 11.4,
+      "end": 11.6,
+      "text": "foi"
+    },
+    {
+      "start": 11.6,
+      "end": 11.86,
+      "text": "que"
+    },
+    {
+      "start": 11.86,
+      "end": 12.16,
+      "text": "ela"
+    },
+    {
+      "start": 12.16,
+      "end": 12.32,
+      "text": "é"
+    },
+    {
+      "start": 12.32,
+      "end": 12.52,
+      "text": "muito"
+    },
+    {
+      "start": 12.52,
+      "end": 12.8,
+      "text": "mais"
+    },
+    {
+      "start": 12.8,
+      "end": 13.26,
+      "text": "sensível"
+    },
+    {
+      "start": 13.26,
+      "end": 13.42,
+      "text": "do"
+    },
+    {
+      "start": 13.42,
+      "end": 13.48,
+      "text": "que"
+    },
+    {
+      "start": 13.48,
+      "end": 13.56,
+      "text": "o"
+    },
+    {
+      "start": 13.56,
+      "end": 13.82,
+      "text": "Flávio."
+    },
+    {
+      "start": 14.08,
+      "end": 14.52,
+      "text": "Seria"
+    },
+    {
+      "start": 14.52,
+      "end": 14.66,
+      "text": "muito"
+    },
+    {
+      "start": 14.66,
+      "end": 14.92,
+      "text": "mais"
+    },
+    {
+      "start": 14.92,
+      "end": 15.46,
+      "text": "vitorial."
+    },
+    {
+      "start": 15.58,
+      "end": 16.02,
+      "text": "Então,"
+    },
+    {
+      "start": 16.02,
+      "end": 16.16,
+      "text": "vai"
+    },
+    {
+      "start": 16.16,
+      "end": 16.44,
+      "text": "lá,"
+    },
+    {
+      "start": 16.48,
+      "end": 16.98,
+      "text": "carregando"
+    },
+    {
+      "start": 16.98,
+      "end": 17.48,
+      "text": "cantinha,"
+    },
+    {
+      "start": 17.54,
+      "end": 17.7,
+      "text": "o"
+    },
+    {
+      "start": 17.7,
+      "end": 17.96,
+      "text": "nome,"
+    },
+    {
+      "start": 18.16,
+      "end": 18.42,
+      "text": "se"
+    },
+    {
+      "start": 18.42,
+      "end": 18.64,
+      "text": "ele"
+    },
+    {
+      "start": 18.64,
+      "end": 18.88,
+      "text": "for"
+    },
+    {
+      "start": 18.88,
+      "end": 19.16,
+      "text": "vitorial,"
+    },
+    {
+      "start": 19.38,
+      "end": 19.54,
+      "text": "que"
+    },
+    {
+      "start": 19.54,
+      "end": 19.94,
+      "text": "Flávio"
+    },
+    {
+      "start": 19.94,
+      "end": 20.12,
+      "text": "é"
+    },
+    {
+      "start": 20.12,
+      "end": 20.14,
+      "text": "o"
+    },
+    {
+      "start": 20.14,
+      "end": 20.4,
+      "text": "nome"
+    },
+    {
+      "start": 20.4,
+      "end": 20.52,
+      "text": "a"
+    },
+    {
+      "start": 20.52,
+      "end": 20.64,
+      "text": "ser"
+    },
+    {
+      "start": 20.64,
+      "end": 21.28,
+      "text": "insistido."
+    },
+    {
+      "start": 21.32,
+      "end": 21.58,
+      "text": "E"
+    },
+    {
+      "start": 21.58,
+      "end": 21.84,
+      "text": "isso"
+    },
+    {
+      "start": 21.84,
+      "end": 22.1,
+      "text": "é"
+    },
+    {
+      "start": 22.1,
+      "end": 22.44,
+      "text": "muito"
+    },
+    {
+      "start": 22.44,
+      "end": 23.48,
+      "text": "temporário,"
+    },
+    {
+      "start": 23.5,
+      "end": 23.82,
+      "text": "e"
+    },
+    {
+      "start": 23.82,
+      "end": 23.9,
+      "text": "que"
+    },
+    {
+      "start": 23.9,
+      "end": 24.04,
+      "text": "nos"
+    },
+    {
+      "start": 24.04,
+      "end": 24.48,
+      "text": "próximos"
+    },
+    {
+      "start": 24.48,
+      "end": 24.66,
+      "text": "dias"
+    },
+    {
+      "start": 24.66,
+      "end": 24.86,
+      "text": "será"
+    },
+    {
+      "start": 24.86,
+      "end": 25.02,
+      "text": "uma"
+    },
+    {
+      "start": 25.02,
+      "end": 25.26,
+      "text": "crise"
+    },
+    {
+      "start": 25.26,
+      "end": 25.8,
+      "text": "já"
+    },
+    {
+      "start": 25.8,
+      "end": 26.18,
+      "text": "super"
+    },
+    {
+      "start": 26.18,
+      "end": 26.64,
+      "text": "rápida."
+    },
+    {
+      "start": 26.64,
+      "end": 26.86,
+      "text": "Então,"
+    },
+    {
+      "start": 26.86,
+      "end": 27.28,
+      "text": "para"
+    },
+    {
+      "start": 27.28,
+      "end": 27.3,
+      "text": "a"
+    },
+    {
+      "start": 27.3,
+      "end": 28.2,
+      "text": "confiança,"
+    },
+    {
+      "start": 28.2,
+      "end": 28.36,
+      "text": "muito"
+    },
+    {
+      "start": 28.36,
+      "end": 28.94,
+      "text": "fiel,"
+    },
+    {
+      "start": 28.98,
+      "end": 29.42,
+      "text": "muito"
+    },
+    {
+      "start": 29.42,
+      "end": 30.1,
+      "text": "crítico,"
+    },
+    {
+      "start": 30.14,
+      "end": 30.58,
+      "text": "muito"
+    },
+    {
+      "start": 30.58,
+      "end": 31.14,
+      "text": "lábio,"
+    },
+    {
+      "start": 31.14,
+      "end": 31.3,
+      "text": "é"
+    },
+    {
+      "start": 31.3,
+      "end": 31.54,
+      "text": "bom"
+    },
+    {
+      "start": 31.54,
+      "end": 31.82,
+      "text": "até"
+    },
+    {
+      "start": 31.82,
+      "end": 32.02,
+      "text": "o"
+    },
+    {
+      "start": 32.02,
+      "end": 32.08,
+      "text": "que"
+    },
+    {
+      "start": 32.08,
+      "end": 32.28,
+      "text": "ele"
+    },
+    {
+      "start": 32.28,
+      "end": 32.4,
+      "text": "tem"
+    },
+    {
+      "start": 32.4,
+      "end": 32.84,
+      "text": "chance"
+    },
+    {
+      "start": 32.84,
+      "end": 33.26,
+      "text": "de"
+    },
+    {
+      "start": 33.26,
+      "end": 33.58,
+      "text": "ganhar"
+    },
+    {
+      "start": 33.58,
+      "end": 33.9,
+      "text": "aí"
+    },
+    {
+      "start": 33.9,
+      "end": 34.06,
+      "text": "no"
+    },
+    {
+      "start": 34.06,
+      "end": 34.28,
+      "text": "seu."
+    },
+    {
+      "start": 62.72,
+      "end": 63.18,
+      "text": "Sim!"
+    },
+    {
+      "start": 550.98,
+      "end": 551.08,
+      "text": "O"
+    },
+    {
+      "start": 551.08,
+      "end": 551.08,
+      "text": "que"
+    },
+    {
+      "start": 551.08,
+      "end": 551.18,
+      "text": "é"
+    },
+    {
+      "start": 551.18,
+      "end": 551.44,
+      "text": "amor?"
+    }
+  ]
+}

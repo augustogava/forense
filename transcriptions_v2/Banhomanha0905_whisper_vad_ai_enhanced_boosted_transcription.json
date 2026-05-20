@@ -1,0 +1,328 @@
+{
+  "source_file": "Banhomanha0905_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 453.5,
+  "segments": {
+    "00:00:54,00:00:54": "Vou ligar.",
+    "00:00:56,00:00:57": "Ai, que legal.",
+    "00:00:58,00:01:39": "Que legal.",
+    "00:01:39,00:01:40": "Que legal.",
+    "00:02:27,00:02:29": "É de uma rama, velho.",
+    "00:02:29,00:02:30": "Olha o que é, meu filho.",
+    "00:02:31,00:02:34": "Olha o meu filho.",
+    "00:02:35,00:02:36": "Vem.",
+    "00:02:36,00:02:37": "Olha o que é, meu velho.",
+    "00:02:37,00:02:38": "Pô.",
+    "00:02:39,00:02:40": "Que legal.",
+    "00:02:41,00:02:42": "Que legal.",
+    "00:02:42,00:02:43": "Olha o que é.",
+    "00:02:43,00:02:44": "Que legal.",
+    "00:02:44,00:02:45": "Ai, meu Deus.",
+    "00:02:54,00:02:55": "Ai.",
+    "00:02:57,00:04:42": "Que legal.",
+    "00:04:42,00:04:42": "Que legal."
+  },
+  "words": [
+    {
+      "start": 54.07,
+      "end": 54.29,
+      "text": "Vou",
+      "probability": 0.045
+    },
+    {
+      "start": 54.29,
+      "end": 54.65,
+      "text": "ligar.",
+      "probability": 0.651
+    },
+    {
+      "start": 56.98,
+      "end": 57.42,
+      "text": "Ai,",
+      "probability": 0.326
+    },
+    {
+      "start": 57.42,
+      "end": 57.54,
+      "text": "que",
+      "probability": 0.236
+    },
+    {
+      "start": 57.54,
+      "end": 57.82,
+      "text": "legal.",
+      "probability": 0.236
+    },
+    {
+      "start": 58.1,
+      "end": 58.54,
+      "text": "Que",
+      "probability": 0.175
+    },
+    {
+      "start": 98.8,
+      "end": 99.64,
+      "text": "legal.",
+      "probability": 0.511
+    },
+    {
+      "start": 99.94,
+      "end": 100.22,
+      "text": "Que",
+      "probability": 0.354
+    },
+    {
+      "start": 100.22,
+      "end": 100.38,
+      "text": "legal.",
+      "probability": 0.959
+    },
+    {
+      "start": 147.55,
+      "end": 147.99,
+      "text": "É",
+      "probability": 0.057
+    },
+    {
+      "start": 148.44,
+      "end": 148.6,
+      "text": "de",
+      "probability": 0.151
+    },
+    {
+      "start": 148.6,
+      "end": 148.8,
+      "text": "uma",
+      "probability": 0.153
+    },
+    {
+      "start": 148.8,
+      "end": 149.2,
+      "text": "rama,",
+      "probability": 0.214
+    },
+    {
+      "start": 149.2,
+      "end": 149.56,
+      "text": "velho.",
+      "probability": 0.853
+    },
+    {
+      "start": 149.56,
+      "end": 149.74,
+      "text": "Olha",
+      "probability": 0.618
+    },
+    {
+      "start": 149.74,
+      "end": 149.86,
+      "text": "o",
+      "probability": 0.74
+    },
+    {
+      "start": 149.86,
+      "end": 149.92,
+      "text": "que",
+      "probability": 0.71
+    },
+    {
+      "start": 149.92,
+      "end": 150.08,
+      "text": "é,",
+      "probability": 0.83
+    },
+    {
+      "start": 150.08,
+      "end": 150.2,
+      "text": "meu",
+      "probability": 0.158
+    },
+    {
+      "start": 150.2,
+      "end": 150.52,
+      "text": "filho.",
+      "probability": 0.991
+    },
+    {
+      "start": 151.16,
+      "end": 151.6,
+      "text": "Olha",
+      "probability": 0.498
+    },
+    {
+      "start": 154.28,
+      "end": 154.34,
+      "text": "o",
+      "probability": 0.914
+    },
+    {
+      "start": 154.34,
+      "end": 154.54,
+      "text": "meu",
+      "probability": 0.281
+    },
+    {
+      "start": 154.54,
+      "end": 154.86,
+      "text": "filho.",
+      "probability": 0.548
+    },
+    {
+      "start": 155.82,
+      "end": 156.26,
+      "text": "Vem.",
+      "probability": 0.555
+    },
+    {
+      "start": 156.48,
+      "end": 156.64,
+      "text": "Olha",
+      "probability": 0.698
+    },
+    {
+      "start": 156.64,
+      "end": 156.72,
+      "text": "o",
+      "probability": 0.515
+    },
+    {
+      "start": 156.72,
+      "end": 156.88,
+      "text": "que",
+      "probability": 0.924
+    },
+    {
+      "start": 156.88,
+      "end": 156.92,
+      "text": "é,",
+      "probability": 0.807
+    },
+    {
+      "start": 156.96,
+      "end": 157.02,
+      "text": "meu",
+      "probability": 0.801
+    },
+    {
+      "start": 157.02,
+      "end": 157.36,
+      "text": "velho.",
+      "probability": 0.809
+    },
+    {
+      "start": 157.98,
+      "end": 158.42,
+      "text": "Pô.",
+      "probability": 0.658
+    },
+    {
+      "start": 159.88,
+      "end": 160.32,
+      "text": "Que",
+      "probability": 0.149
+    },
+    {
+      "start": 160.32,
+      "end": 160.6,
+      "text": "legal.",
+      "probability": 0.991
+    },
+    {
+      "start": 161.0,
+      "end": 161.44,
+      "text": "Que",
+      "probability": 0.517
+    },
+    {
+      "start": 161.44,
+      "end": 162.12,
+      "text": "legal.",
+      "probability": 0.991
+    },
+    {
+      "start": 162.78,
+      "end": 163.0,
+      "text": "Olha",
+      "probability": 0.026
+    },
+    {
+      "start": 163.0,
+      "end": 163.16,
+      "text": "o",
+      "probability": 0.402
+    },
+    {
+      "start": 163.16,
+      "end": 163.28,
+      "text": "que",
+      "probability": 0.727
+    },
+    {
+      "start": 163.28,
+      "end": 163.46,
+      "text": "é.",
+      "probability": 0.925
+    },
+    {
+      "start": 163.68,
+      "end": 163.94,
+      "text": "Que",
+      "probability": 0.519
+    },
+    {
+      "start": 163.94,
+      "end": 164.6,
+      "text": "legal.",
+      "probability": 0.984
+    },
+    {
+      "start": 164.6,
+      "end": 164.6,
+      "text": "Ai,",
+      "probability": 0.222
+    },
+    {
+      "start": 164.68,
+      "end": 164.68,
+      "text": "meu",
+      "probability": 0.71
+    },
+    {
+      "start": 164.68,
+      "end": 165.06,
+      "text": "Deus.",
+      "probability": 0.196
+    },
+    {
+      "start": 174.64,
+      "end": 175.08,
+      "text": "Ai.",
+      "probability": 0.705
+    },
+    {
+      "start": 177.9,
+      "end": 178.34,
+      "text": "Que",
+      "probability": 0.859
+    },
+    {
+      "start": 281.92,
+      "end": 282.36,
+      "text": "legal.",
+      "probability": 0.983
+    },
+    {
+      "start": 282.5,
+      "end": 282.58,
+      "text": "Que",
+      "probability": 0.937
+    },
+    {
+      "start": 282.58,
+      "end": 282.74,
+      "text": "legal.",
+      "probability": 0.994
+    }
+  ]
+}

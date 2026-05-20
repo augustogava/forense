@@ -1,0 +1,51 @@
+{
+  "source_file": "VOR20260513131820_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:02": "Seguir no ar o papo da luta.",
+    "00:18:15,00:18:15": "."
+  },
+  "words": [
+    {
+      "start": 0.13,
+      "end": 0.45,
+      "text": "Seguir"
+    },
+    {
+      "start": 0.45,
+      "end": 0.65,
+      "text": "no"
+    },
+    {
+      "start": 0.65,
+      "end": 0.89,
+      "text": "ar"
+    },
+    {
+      "start": 0.89,
+      "end": 1.07,
+      "text": "o"
+    },
+    {
+      "start": 1.07,
+      "end": 1.55,
+      "text": "papo"
+    },
+    {
+      "start": 1.55,
+      "end": 1.67,
+      "text": "da"
+    },
+    {
+      "start": 1.67,
+      "end": 2.11,
+      "text": "luta."
+    },
+    {
+      "start": 1095.43,
+      "end": 1095.69,
+      "text": "."
+    }
+  ]
+}

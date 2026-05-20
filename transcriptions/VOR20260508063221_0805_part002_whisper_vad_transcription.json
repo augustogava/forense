@@ -1,0 +1,35 @@
+{
+  "source_file": "VOR20260508063221_0805_part002_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:22:32,00:22:34": "O que você está esperando?"
+  },
+  "words": [
+    {
+      "start": 1352.48,
+      "end": 1352.56,
+      "text": "O"
+    },
+    {
+      "start": 1352.56,
+      "end": 1352.64,
+      "text": "que"
+    },
+    {
+      "start": 1352.64,
+      "end": 1353.4,
+      "text": "você"
+    },
+    {
+      "start": 1353.4,
+      "end": 1353.82,
+      "text": "está"
+    },
+    {
+      "start": 1353.82,
+      "end": 1354.1,
+      "text": "esperando?"
+    }
+  ]
+}

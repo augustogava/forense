@@ -1,0 +1,50 @@
+{
+  "source_file": "Banhomanha0905_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:37,00:00:40": "Todo mundo tirava muito medo, esse atleta móvel."
+  },
+  "words": [
+    {
+      "start": 37.86,
+      "end": 38.04,
+      "text": "Todo"
+    },
+    {
+      "start": 38.04,
+      "end": 38.36,
+      "text": "mundo"
+    },
+    {
+      "start": 38.36,
+      "end": 38.68,
+      "text": "tirava"
+    },
+    {
+      "start": 38.68,
+      "end": 38.92,
+      "text": "muito"
+    },
+    {
+      "start": 38.92,
+      "end": 39.32,
+      "text": "medo,"
+    },
+    {
+      "start": 39.4,
+      "end": 39.48,
+      "text": "esse"
+    },
+    {
+      "start": 39.48,
+      "end": 39.9,
+      "text": "atleta"
+    },
+    {
+      "start": 39.9,
+      "end": 40.32,
+      "text": "móvel."
+    }
+  ]
+}

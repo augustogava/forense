@@ -1,0 +1,32 @@
+{
+  "source_file": "0505_1552_2215_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:00": ".",
+    "00:00:06,00:00:06": "Atenção!",
+    "00:01:24,00:01:24": "Não existe."
+  },
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.22,
+      "text": "."
+    },
+    {
+      "start": 6.43,
+      "end": 6.79,
+      "text": "Atenção!"
+    },
+    {
+      "start": 84.48,
+      "end": 84.64,
+      "text": "Não"
+    },
+    {
+      "start": 84.64,
+      "end": 84.8,
+      "text": "existe."
+    }
+  ]
+}

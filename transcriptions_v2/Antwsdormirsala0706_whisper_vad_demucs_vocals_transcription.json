@@ -1,0 +1,243 @@
+{
+  "source_file": "Antwsdormirsala0706_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 6649.5,
+  "segments": {
+    "00:00:21,00:00:22": "O que é isso?",
+    "00:00:24,00:00:25": "Não, segue.",
+    "00:00:28,00:00:29": "Vem.",
+    "00:00:32,00:00:33": "Aqui, ó.",
+    "00:00:33,00:00:34": "Vem.",
+    "00:00:35,00:00:40": "Aqui, ó.",
+    "00:00:48,00:00:49": "Vem mais cedo.",
+    "00:01:00,00:01:01": "Vem.",
+    "00:01:04,00:01:05": "Vem.",
+    "00:01:06,00:01:06": "Aí.",
+    "00:01:06,00:01:07": "Pera aí, meu irmão.",
+    "00:01:07,00:01:08": "Vem.",
+    "00:01:09,00:01:09": "Vem.",
+    "00:04:50,00:05:17": "E aí?",
+    "00:05:28,00:05:46": "E aí?",
+    "00:08:18,00:08:19": "O que é isso?",
+    "00:08:19,00:08:25": "O que é isso?"
+  },
+  "words": [
+    {
+      "start": 21.41,
+      "end": 21.59,
+      "text": "O",
+      "probability": 0.054
+    },
+    {
+      "start": 21.88,
+      "end": 22.42,
+      "text": "que",
+      "probability": 0.542
+    },
+    {
+      "start": 22.42,
+      "end": 22.66,
+      "text": "é",
+      "probability": 0.448
+    },
+    {
+      "start": 22.66,
+      "end": 22.74,
+      "text": "isso?",
+      "probability": 0.811
+    },
+    {
+      "start": 24.23,
+      "end": 24.61,
+      "text": "Não,",
+      "probability": 0.167
+    },
+    {
+      "start": 24.73,
+      "end": 25.05,
+      "text": "segue.",
+      "probability": 0.176
+    },
+    {
+      "start": 28.76,
+      "end": 29.44,
+      "text": "Vem.",
+      "probability": 0.884
+    },
+    {
+      "start": 32.28,
+      "end": 32.66,
+      "text": "Aqui,",
+      "probability": 0.516
+    },
+    {
+      "start": 32.88,
+      "end": 33.08,
+      "text": "ó.",
+      "probability": 0.428
+    },
+    {
+      "start": 33.82,
+      "end": 34.58,
+      "text": "Vem.",
+      "probability": 0.897
+    },
+    {
+      "start": 35.62,
+      "end": 36.38,
+      "text": "Aqui,",
+      "probability": 0.959
+    },
+    {
+      "start": 40.09,
+      "end": 40.21,
+      "text": "ó.",
+      "probability": 1.0
+    },
+    {
+      "start": 48.06,
+      "end": 48.82,
+      "text": "Vem",
+      "probability": 0.906
+    },
+    {
+      "start": 48.82,
+      "end": 48.96,
+      "text": "mais",
+      "probability": 0.798
+    },
+    {
+      "start": 48.96,
+      "end": 49.18,
+      "text": "cedo.",
+      "probability": 0.578
+    },
+    {
+      "start": 60.44,
+      "end": 61.2,
+      "text": "Vem.",
+      "probability": 0.941
+    },
+    {
+      "start": 64.47,
+      "end": 65.23,
+      "text": "Vem.",
+      "probability": 0.965
+    },
+    {
+      "start": 66.03,
+      "end": 66.41,
+      "text": "Aí.",
+      "probability": 0.146
+    },
+    {
+      "start": 66.57,
+      "end": 67.21,
+      "text": "Pera",
+      "probability": 0.319
+    },
+    {
+      "start": 67.21,
+      "end": 67.33,
+      "text": "aí,",
+      "probability": 0.721
+    },
+    {
+      "start": 67.33,
+      "end": 67.51,
+      "text": "meu",
+      "probability": 0.741
+    },
+    {
+      "start": 67.51,
+      "end": 67.75,
+      "text": "irmão.",
+      "probability": 0.639
+    },
+    {
+      "start": 67.95,
+      "end": 68.45,
+      "text": "Vem.",
+      "probability": 0.985
+    },
+    {
+      "start": 69.51,
+      "end": 69.89,
+      "text": "Vem.",
+      "probability": 0.746
+    },
+    {
+      "start": 290.74,
+      "end": 291.42,
+      "text": "E",
+      "probability": 0.033
+    },
+    {
+      "start": 316.74,
+      "end": 317.42,
+      "text": "aí?",
+      "probability": 0.853
+    },
+    {
+      "start": 328.63,
+      "end": 329.31,
+      "text": "E",
+      "probability": 0.598
+    },
+    {
+      "start": 346.11,
+      "end": 346.29,
+      "text": "aí?",
+      "probability": 0.992
+    },
+    {
+      "start": 498.35,
+      "end": 498.69,
+      "text": "O",
+      "probability": 0.072
+    },
+    {
+      "start": 498.69,
+      "end": 498.93,
+      "text": "que",
+      "probability": 0.395
+    },
+    {
+      "start": 498.93,
+      "end": 498.99,
+      "text": "é",
+      "probability": 0.565
+    },
+    {
+      "start": 498.99,
+      "end": 499.27,
+      "text": "isso?",
+      "probability": 0.484
+    },
+    {
+      "start": 499.39,
+      "end": 499.61,
+      "text": "O",
+      "probability": 0.309
+    },
+    {
+      "start": 505.08,
+      "end": 505.3,
+      "text": "que",
+      "probability": 0.8
+    },
+    {
+      "start": 505.3,
+      "end": 505.46,
+      "text": "é",
+      "probability": 0.755
+    },
+    {
+      "start": 505.46,
+      "end": 505.6,
+      "text": "isso?",
+      "probability": 0.887
+    }
+  ]
+}

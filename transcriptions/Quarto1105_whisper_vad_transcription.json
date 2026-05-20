@@ -1,0 +1,555 @@
+{
+  "source_file": "Quarto1105_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:11,00:00:11": "Tudo.",
+    "00:02:34,00:02:35": "Não pode ser.",
+    "00:02:44,00:02:44": "O que?",
+    "00:02:44,00:02:45": "O que?",
+    "00:57:19,00:57:19": "Atenção!",
+    "00:57:49,00:57:50": "Atenção!",
+    "00:59:30,00:59:32": "Um pouco a palavra de Deus.",
+    "00:59:48,00:59:48": ".",
+    "01:03:48,01:03:49": ".",
+    "01:04:46,01:04:46": "Não é sentido.",
+    "01:04:48,01:04:49": "O que é que é um palavrão?",
+    "01:05:10,01:05:11": "Não há dúvida.",
+    "01:29:55,01:29:55": ".",
+    "01:31:45,01:31:47": "O que é que é isso?",
+    "01:31:47,01:31:48": "É um problema.",
+    "01:31:55,01:31:56": "Você está vindo ao sistema.",
+    "01:32:02,01:32:02": "Atenção!",
+    "01:36:12,01:36:14": "Agradecimentos a todos os convidados.",
+    "01:39:31,01:39:32": "Atenção!",
+    "01:39:50,01:39:52": "O que é bom que é que o que não é isso mesmo.",
+    "01:43:00,01:43:00": "Atenção!",
+    "01:43:58,01:43:59": "Disponível.",
+    "01:52:45,01:52:46": "Apenas o que você pensava também.",
+    "01:56:02,01:56:02": "Atenção!",
+    "01:56:14,01:56:14": "Sim!",
+    "01:57:33,01:57:36": "Atenção de um local que tiver escola dele na piscina 2.",
+    "01:57:44,01:57:45": "Não há mais dúvidas sobre o que é o sexo.",
+    "01:57:55,01:57:55": ".",
+    "01:58:06,01:58:06": ".",
+    "01:58:16,01:58:18": "Obrigada.",
+    "01:58:33,01:58:34": "Obrigado.",
+    "01:58:42,01:58:43": "Saúde!"
+  },
+  "explicit_segments": {
+    "01:57:44,01:57:45": "Não há mais dúvidas sobre o que é o sexo."
+  },
+  "explicit_count": 1,
+  "words": [
+    {
+      "start": 11.78,
+      "end": 11.9,
+      "text": "Tudo."
+    },
+    {
+      "start": 154.5,
+      "end": 154.6,
+      "text": "Não"
+    },
+    {
+      "start": 154.6,
+      "end": 154.88,
+      "text": "pode"
+    },
+    {
+      "start": 154.88,
+      "end": 155.02,
+      "text": "ser."
+    },
+    {
+      "start": 164.2,
+      "end": 164.6,
+      "text": "O"
+    },
+    {
+      "start": 164.6,
+      "end": 164.6,
+      "text": "que?"
+    },
+    {
+      "start": 164.94,
+      "end": 165.34,
+      "text": "O"
+    },
+    {
+      "start": 165.34,
+      "end": 165.52,
+      "text": "que?"
+    },
+    {
+      "start": 3439.65,
+      "end": 3439.93,
+      "text": "Atenção!"
+    },
+    {
+      "start": 3469.63,
+      "end": 3470.05,
+      "text": "Atenção!"
+    },
+    {
+      "start": 3570.75,
+      "end": 3570.85,
+      "text": "Um"
+    },
+    {
+      "start": 3570.85,
+      "end": 3570.95,
+      "text": "pouco"
+    },
+    {
+      "start": 3570.95,
+      "end": 3571.13,
+      "text": "a"
+    },
+    {
+      "start": 3571.13,
+      "end": 3571.53,
+      "text": "palavra"
+    },
+    {
+      "start": 3571.53,
+      "end": 3571.91,
+      "text": "de"
+    },
+    {
+      "start": 3571.91,
+      "end": 3572.13,
+      "text": "Deus."
+    },
+    {
+      "start": 3588.03,
+      "end": 3588.15,
+      "text": "."
+    },
+    {
+      "start": 3828.83,
+      "end": 3829.09,
+      "text": "."
+    },
+    {
+      "start": 3886.56,
+      "end": 3886.56,
+      "text": "Não"
+    },
+    {
+      "start": 3886.56,
+      "end": 3886.56,
+      "text": "é"
+    },
+    {
+      "start": 3886.56,
+      "end": 3886.7,
+      "text": "sentido."
+    },
+    {
+      "start": 3888.64,
+      "end": 3888.72,
+      "text": "O"
+    },
+    {
+      "start": 3888.72,
+      "end": 3888.72,
+      "text": "que"
+    },
+    {
+      "start": 3888.72,
+      "end": 3888.72,
+      "text": "é"
+    },
+    {
+      "start": 3888.72,
+      "end": 3888.72,
+      "text": "que"
+    },
+    {
+      "start": 3888.72,
+      "end": 3888.76,
+      "text": "é"
+    },
+    {
+      "start": 3888.76,
+      "end": 3888.76,
+      "text": "um"
+    },
+    {
+      "start": 3888.76,
+      "end": 3889.28,
+      "text": "palavrão?"
+    },
+    {
+      "start": 3910.72,
+      "end": 3910.86,
+      "text": "Não"
+    },
+    {
+      "start": 3910.86,
+      "end": 3910.86,
+      "text": "há"
+    },
+    {
+      "start": 3910.86,
+      "end": 3911.18,
+      "text": "dúvida."
+    },
+    {
+      "start": 5395.71,
+      "end": 5395.93,
+      "text": "."
+    },
+    {
+      "start": 5505.28,
+      "end": 5505.34,
+      "text": "O"
+    },
+    {
+      "start": 5505.34,
+      "end": 5506.0,
+      "text": "que"
+    },
+    {
+      "start": 5506.0,
+      "end": 5506.38,
+      "text": "é"
+    },
+    {
+      "start": 5506.38,
+      "end": 5506.38,
+      "text": "que"
+    },
+    {
+      "start": 5506.38,
+      "end": 5506.52,
+      "text": "é"
+    },
+    {
+      "start": 5506.52,
+      "end": 5507.12,
+      "text": "isso?"
+    },
+    {
+      "start": 5507.2,
+      "end": 5507.76,
+      "text": "É"
+    },
+    {
+      "start": 5507.76,
+      "end": 5507.92,
+      "text": "um"
+    },
+    {
+      "start": 5507.92,
+      "end": 5508.44,
+      "text": "problema."
+    },
+    {
+      "start": 5515.23,
+      "end": 5515.37,
+      "text": "Você"
+    },
+    {
+      "start": 5515.37,
+      "end": 5515.45,
+      "text": "está"
+    },
+    {
+      "start": 5515.45,
+      "end": 5516.01,
+      "text": "vindo"
+    },
+    {
+      "start": 5516.01,
+      "end": 5516.53,
+      "text": "ao"
+    },
+    {
+      "start": 5516.53,
+      "end": 5516.89,
+      "text": "sistema."
+    },
+    {
+      "start": 5522.27,
+      "end": 5522.77,
+      "text": "Atenção!"
+    },
+    {
+      "start": 5772.29,
+      "end": 5772.59,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 5772.59,
+      "end": 5772.97,
+      "text": "a"
+    },
+    {
+      "start": 5772.97,
+      "end": 5773.21,
+      "text": "todos"
+    },
+    {
+      "start": 5773.21,
+      "end": 5773.31,
+      "text": "os"
+    },
+    {
+      "start": 5773.31,
+      "end": 5774.15,
+      "text": "convidados."
+    },
+    {
+      "start": 5971.68,
+      "end": 5972.44,
+      "text": "Atenção!"
+    },
+    {
+      "start": 5990.43,
+      "end": 5990.43,
+      "text": "O"
+    },
+    {
+      "start": 5990.43,
+      "end": 5990.53,
+      "text": "que"
+    },
+    {
+      "start": 5990.53,
+      "end": 5990.71,
+      "text": "é"
+    },
+    {
+      "start": 5990.71,
+      "end": 5990.83,
+      "text": "bom"
+    },
+    {
+      "start": 5990.83,
+      "end": 5990.99,
+      "text": "que"
+    },
+    {
+      "start": 5990.99,
+      "end": 5991.19,
+      "text": "é"
+    },
+    {
+      "start": 5991.19,
+      "end": 5991.41,
+      "text": "que"
+    },
+    {
+      "start": 5991.41,
+      "end": 5991.61,
+      "text": "o"
+    },
+    {
+      "start": 5991.61,
+      "end": 5991.85,
+      "text": "que"
+    },
+    {
+      "start": 5991.85,
+      "end": 5991.91,
+      "text": "não"
+    },
+    {
+      "start": 5991.91,
+      "end": 5992.07,
+      "text": "é"
+    },
+    {
+      "start": 5992.07,
+      "end": 5992.27,
+      "text": "isso"
+    },
+    {
+      "start": 5992.27,
+      "end": 5992.49,
+      "text": "mesmo."
+    },
+    {
+      "start": 6180.35,
+      "end": 6180.67,
+      "text": "Atenção!"
+    },
+    {
+      "start": 6238.88,
+      "end": 6239.12,
+      "text": "Disponível."
+    },
+    {
+      "start": 6765.76,
+      "end": 6766.06,
+      "text": "Apenas"
+    },
+    {
+      "start": 6766.06,
+      "end": 6766.14,
+      "text": "o"
+    },
+    {
+      "start": 6766.14,
+      "end": 6766.32,
+      "text": "que"
+    },
+    {
+      "start": 6766.32,
+      "end": 6766.32,
+      "text": "você"
+    },
+    {
+      "start": 6766.32,
+      "end": 6766.34,
+      "text": "pensava"
+    },
+    {
+      "start": 6766.34,
+      "end": 6766.64,
+      "text": "também."
+    },
+    {
+      "start": 6962.11,
+      "end": 6962.67,
+      "text": "Atenção!"
+    },
+    {
+      "start": 6974.37,
+      "end": 6974.83,
+      "text": "Sim!"
+    },
+    {
+      "start": 7053.57,
+      "end": 7054.11,
+      "text": "Atenção"
+    },
+    {
+      "start": 7054.11,
+      "end": 7054.31,
+      "text": "de"
+    },
+    {
+      "start": 7054.31,
+      "end": 7054.37,
+      "text": "um"
+    },
+    {
+      "start": 7054.37,
+      "end": 7054.63,
+      "text": "local"
+    },
+    {
+      "start": 7054.63,
+      "end": 7054.95,
+      "text": "que"
+    },
+    {
+      "start": 7054.95,
+      "end": 7055.19,
+      "text": "tiver"
+    },
+    {
+      "start": 7055.19,
+      "end": 7055.53,
+      "text": "escola"
+    },
+    {
+      "start": 7055.53,
+      "end": 7055.87,
+      "text": "dele"
+    },
+    {
+      "start": 7055.87,
+      "end": 7056.07,
+      "text": "na"
+    },
+    {
+      "start": 7056.07,
+      "end": 7056.41,
+      "text": "piscina"
+    },
+    {
+      "start": 7056.41,
+      "end": 7056.67,
+      "text": "2."
+    },
+    {
+      "start": 7064.07,
+      "end": 7064.23,
+      "text": "Não"
+    },
+    {
+      "start": 7064.23,
+      "end": 7064.25,
+      "text": "há"
+    },
+    {
+      "start": 7064.25,
+      "end": 7064.51,
+      "text": "mais"
+    },
+    {
+      "start": 7064.51,
+      "end": 7065.03,
+      "text": "dúvidas"
+    },
+    {
+      "start": 7065.03,
+      "end": 7065.45,
+      "text": "sobre"
+    },
+    {
+      "start": 7065.45,
+      "end": 7065.45,
+      "text": "o"
+    },
+    {
+      "start": 7065.45,
+      "end": 7065.57,
+      "text": "que"
+    },
+    {
+      "start": 7065.57,
+      "end": 7065.81,
+      "text": "é"
+    },
+    {
+      "start": 7065.81,
+      "end": 7065.81,
+      "text": "o"
+    },
+    {
+      "start": 7065.81,
+      "end": 7065.81,
+      "text": "sexo."
+    },
+    {
+      "start": 7075.2,
+      "end": 7075.38,
+      "text": "."
+    },
+    {
+      "start": 7086.15,
+      "end": 7086.41,
+      "text": "."
+    },
+    {
+      "start": 7096.95,
+      "end": 7098.35,
+      "text": "Obrigada."
+    },
+    {
+      "start": 7113.11,
+      "end": 7114.51,
+      "text": "Obrigado."
+    },
+    {
+      "start": 7122.47,
+      "end": 7123.29,
+      "text": "Saúde!"
+    }
+  ]
+}

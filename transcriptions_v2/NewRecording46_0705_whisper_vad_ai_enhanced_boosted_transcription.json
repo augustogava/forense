@@ -1,0 +1,94 @@
+{
+  "source_file": "NewRecording46_0705_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 2763.6,
+  "segments": {
+    "00:00:42,00:00:44": "Boa noite.",
+    "00:26:36,00:26:37": "Obrigado.",
+    "00:43:22,00:43:25": "O que é isso?",
+    "00:43:25,00:43:34": "O que é isso?",
+    "00:45:23,00:45:23": "Ei!",
+    "00:45:26,00:45:26": "Ei!"
+  },
+  "words": [
+    {
+      "start": 42.93,
+      "end": 43.79,
+      "text": "Boa",
+      "probability": 0.522
+    },
+    {
+      "start": 43.79,
+      "end": 44.03,
+      "text": "noite.",
+      "probability": 0.882
+    },
+    {
+      "start": 1596.36,
+      "end": 1597.76,
+      "text": "Obrigado.",
+      "probability": 0.445
+    },
+    {
+      "start": 2602.38,
+      "end": 2602.74,
+      "text": "O",
+      "probability": 0.042
+    },
+    {
+      "start": 2604.5,
+      "end": 2604.68,
+      "text": "que",
+      "probability": 0.744
+    },
+    {
+      "start": 2604.68,
+      "end": 2604.8,
+      "text": "é",
+      "probability": 0.386
+    },
+    {
+      "start": 2604.8,
+      "end": 2605.0,
+      "text": "isso?",
+      "probability": 0.752
+    },
+    {
+      "start": 2605.92,
+      "end": 2606.42,
+      "text": "O",
+      "probability": 0.346
+    },
+    {
+      "start": 2611.8,
+      "end": 2612.3,
+      "text": "que",
+      "probability": 0.984
+    },
+    {
+      "start": 2612.3,
+      "end": 2613.84,
+      "text": "é",
+      "probability": 0.947
+    },
+    {
+      "start": 2613.84,
+      "end": 2614.04,
+      "text": "isso?",
+      "probability": 0.984
+    },
+    {
+      "start": 2723.19,
+      "end": 2723.69,
+      "text": "Ei!",
+      "probability": 0.763
+    },
+    {
+      "start": 2726.55,
+      "end": 2726.71,
+      "text": "Ei!",
+      "probability": 0.963
+    }
+  ]
+}

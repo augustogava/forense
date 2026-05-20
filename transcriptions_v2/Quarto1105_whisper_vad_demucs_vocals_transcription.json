@@ -1,0 +1,160 @@
+{
+  "source_file": "Quarto1105_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 7152.1,
+  "segments": {
+    "00:00:06,00:00:07": "O que é isso?",
+    "00:00:07,00:00:09": "O quê?",
+    "00:00:15,00:00:16": "O que é isso?",
+    "00:00:16,00:00:24": "O que é isso?",
+    "01:39:32,01:39:52": "Esse daqui é bom de ver, em palavras surpresas.",
+    "01:57:36,01:57:38": "Obrigada."
+  },
+  "words": [
+    {
+      "start": 6.84,
+      "end": 6.94,
+      "text": "O",
+      "probability": 0.05
+    },
+    {
+      "start": 6.94,
+      "end": 7.2,
+      "text": "que",
+      "probability": 0.64
+    },
+    {
+      "start": 7.2,
+      "end": 7.2,
+      "text": "é",
+      "probability": 0.262
+    },
+    {
+      "start": 7.2,
+      "end": 7.3,
+      "text": "isso?",
+      "probability": 0.738
+    },
+    {
+      "start": 7.58,
+      "end": 7.82,
+      "text": "O",
+      "probability": 0.266
+    },
+    {
+      "start": 7.82,
+      "end": 9.32,
+      "text": "quê?",
+      "probability": 0.022
+    },
+    {
+      "start": 15.27,
+      "end": 15.37,
+      "text": "O",
+      "probability": 0.555
+    },
+    {
+      "start": 15.37,
+      "end": 15.81,
+      "text": "que",
+      "probability": 0.89
+    },
+    {
+      "start": 15.81,
+      "end": 15.87,
+      "text": "é",
+      "probability": 0.766
+    },
+    {
+      "start": 15.87,
+      "end": 16.11,
+      "text": "isso?",
+      "probability": 0.889
+    },
+    {
+      "start": 16.93,
+      "end": 16.99,
+      "text": "O",
+      "probability": 0.793
+    },
+    {
+      "start": 16.99,
+      "end": 17.17,
+      "text": "que",
+      "probability": 0.846
+    },
+    {
+      "start": 24.18,
+      "end": 24.52,
+      "text": "é",
+      "probability": 0.957
+    },
+    {
+      "start": 24.52,
+      "end": 24.54,
+      "text": "isso?",
+      "probability": 0.981
+    },
+    {
+      "start": 5972.22,
+      "end": 5972.94,
+      "text": "Esse",
+      "probability": 0.114
+    },
+    {
+      "start": 5989.58,
+      "end": 5989.94,
+      "text": "daqui",
+      "probability": 0.379
+    },
+    {
+      "start": 5989.94,
+      "end": 5990.66,
+      "text": "é",
+      "probability": 0.955
+    },
+    {
+      "start": 5990.66,
+      "end": 5990.84,
+      "text": "bom",
+      "probability": 0.835
+    },
+    {
+      "start": 5990.84,
+      "end": 5991.08,
+      "text": "de",
+      "probability": 0.303
+    },
+    {
+      "start": 5991.08,
+      "end": 5991.24,
+      "text": "ver,",
+      "probability": 0.245
+    },
+    {
+      "start": 5991.38,
+      "end": 5991.76,
+      "text": "em",
+      "probability": 0.217
+    },
+    {
+      "start": 5991.76,
+      "end": 5992.02,
+      "text": "palavras",
+      "probability": 0.729
+    },
+    {
+      "start": 5992.02,
+      "end": 5992.76,
+      "text": "surpresas.",
+      "probability": 0.703
+    },
+    {
+      "start": 7056.64,
+      "end": 7058.04,
+      "text": "Obrigada.",
+      "probability": 0.491
+    }
+  ]
+}

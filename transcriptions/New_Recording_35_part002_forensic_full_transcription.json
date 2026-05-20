@@ -1,0 +1,15 @@
+{
+  "source_file": "New_Recording_35_part002_forensic_full.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:00": "AAAAAAAA"
+  },
+  "words": [
+    {
+      "start": 0.0,
+      "end": 0.74,
+      "text": "AAAAAAAA"
+    }
+  ]
+}

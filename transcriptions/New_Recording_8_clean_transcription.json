@@ -1,0 +1,445 @@
+{
+  "source_file": "New_Recording_8_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:06,00:00:06": "A gente vai.",
+    "00:05:46,00:05:58": "Oi, irmã. Oi. Tudo bem? Tudo bem, filhão. Tá em casa? Já tô em casa, mas já tô saindo. Tô indo lá buscar o passaporte. Ah, tá.",
+    "00:06:01,00:06:05": "Queria ver se tem algum vestido meu aí que serve em mim.",
+    "00:06:07,00:06:08": "Pode ser depois?",
+    "00:06:09,00:06:10": "Pode. Eu não lembro.",
+    "00:06:10,00:06:11": "Quando que é o casamento?",
+    "00:06:11,00:06:12": "Sábado que vem.",
+    "00:06:17,00:06:21": "Mas eu não... Eu sei que tem alguns que estão aí, mas que não serve, não adianta.",
+    "00:06:27,00:06:30": "Acompanhe o nosso canal no Facebook, Instagram e Twitter.",
+    "00:51:28,00:51:29": ".",
+    "01:02:08,01:02:08": "."
+  },
+  "words": [
+    {
+      "start": 6.34,
+      "end": 6.34,
+      "text": "A"
+    },
+    {
+      "start": 6.34,
+      "end": 6.5,
+      "text": "gente"
+    },
+    {
+      "start": 6.5,
+      "end": 6.78,
+      "text": "vai."
+    },
+    {
+      "start": 346.69,
+      "end": 346.83,
+      "text": "Oi,"
+    },
+    {
+      "start": 346.93,
+      "end": 347.13,
+      "text": "irmã."
+    },
+    {
+      "start": 347.75,
+      "end": 348.25,
+      "text": "Oi."
+    },
+    {
+      "start": 348.57,
+      "end": 349.05,
+      "text": "Tudo"
+    },
+    {
+      "start": 349.05,
+      "end": 349.35,
+      "text": "bem?"
+    },
+    {
+      "start": 350.29,
+      "end": 350.79,
+      "text": "Tudo"
+    },
+    {
+      "start": 350.79,
+      "end": 351.13,
+      "text": "bem,"
+    },
+    {
+      "start": 351.13,
+      "end": 351.53,
+      "text": "filhão."
+    },
+    {
+      "start": 351.75,
+      "end": 352.13,
+      "text": "Tá"
+    },
+    {
+      "start": 352.13,
+      "end": 352.25,
+      "text": "em"
+    },
+    {
+      "start": 352.25,
+      "end": 352.53,
+      "text": "casa?"
+    },
+    {
+      "start": 353.45,
+      "end": 353.95,
+      "text": "Já"
+    },
+    {
+      "start": 353.95,
+      "end": 354.13,
+      "text": "tô"
+    },
+    {
+      "start": 354.13,
+      "end": 354.27,
+      "text": "em"
+    },
+    {
+      "start": 354.27,
+      "end": 354.51,
+      "text": "casa,"
+    },
+    {
+      "start": 354.51,
+      "end": 354.67,
+      "text": "mas"
+    },
+    {
+      "start": 354.67,
+      "end": 354.79,
+      "text": "já"
+    },
+    {
+      "start": 354.79,
+      "end": 355.03,
+      "text": "tô"
+    },
+    {
+      "start": 355.03,
+      "end": 355.53,
+      "text": "saindo."
+    },
+    {
+      "start": 355.53,
+      "end": 355.85,
+      "text": "Tô"
+    },
+    {
+      "start": 355.85,
+      "end": 356.03,
+      "text": "indo"
+    },
+    {
+      "start": 356.03,
+      "end": 356.23,
+      "text": "lá"
+    },
+    {
+      "start": 356.23,
+      "end": 356.51,
+      "text": "buscar"
+    },
+    {
+      "start": 356.51,
+      "end": 356.63,
+      "text": "o"
+    },
+    {
+      "start": 356.63,
+      "end": 357.53,
+      "text": "passaporte."
+    },
+    {
+      "start": 357.99,
+      "end": 358.49,
+      "text": "Ah,"
+    },
+    {
+      "start": 358.63,
+      "end": 358.89,
+      "text": "tá."
+    },
+    {
+      "start": 361.41,
+      "end": 361.65,
+      "text": "Queria"
+    },
+    {
+      "start": 361.65,
+      "end": 362.19,
+      "text": "ver"
+    },
+    {
+      "start": 362.19,
+      "end": 362.33,
+      "text": "se"
+    },
+    {
+      "start": 362.33,
+      "end": 363.09,
+      "text": "tem"
+    },
+    {
+      "start": 363.09,
+      "end": 363.29,
+      "text": "algum"
+    },
+    {
+      "start": 363.29,
+      "end": 363.77,
+      "text": "vestido"
+    },
+    {
+      "start": 363.77,
+      "end": 363.99,
+      "text": "meu"
+    },
+    {
+      "start": 363.99,
+      "end": 364.35,
+      "text": "aí"
+    },
+    {
+      "start": 364.35,
+      "end": 364.55,
+      "text": "que"
+    },
+    {
+      "start": 364.55,
+      "end": 364.93,
+      "text": "serve"
+    },
+    {
+      "start": 364.93,
+      "end": 365.11,
+      "text": "em"
+    },
+    {
+      "start": 365.11,
+      "end": 365.33,
+      "text": "mim."
+    },
+    {
+      "start": 367.81,
+      "end": 368.29,
+      "text": "Pode"
+    },
+    {
+      "start": 368.29,
+      "end": 368.35,
+      "text": "ser"
+    },
+    {
+      "start": 368.35,
+      "end": 368.53,
+      "text": "depois?"
+    },
+    {
+      "start": 369.17,
+      "end": 369.65,
+      "text": "Pode."
+    },
+    {
+      "start": 369.79,
+      "end": 370.01,
+      "text": "Eu"
+    },
+    {
+      "start": 370.01,
+      "end": 370.17,
+      "text": "não"
+    },
+    {
+      "start": 370.17,
+      "end": 370.45,
+      "text": "lembro."
+    },
+    {
+      "start": 370.79,
+      "end": 370.79,
+      "text": "Quando"
+    },
+    {
+      "start": 370.79,
+      "end": 370.79,
+      "text": "que"
+    },
+    {
+      "start": 370.79,
+      "end": 370.81,
+      "text": "é"
+    },
+    {
+      "start": 370.81,
+      "end": 370.85,
+      "text": "o"
+    },
+    {
+      "start": 370.85,
+      "end": 371.43,
+      "text": "casamento?"
+    },
+    {
+      "start": 371.81,
+      "end": 372.29,
+      "text": "Sábado"
+    },
+    {
+      "start": 372.29,
+      "end": 372.43,
+      "text": "que"
+    },
+    {
+      "start": 372.43,
+      "end": 372.69,
+      "text": "vem."
+    },
+    {
+      "start": 377.15,
+      "end": 377.43,
+      "text": "Mas"
+    },
+    {
+      "start": 377.43,
+      "end": 377.43,
+      "text": "eu"
+    },
+    {
+      "start": 377.43,
+      "end": 377.43,
+      "text": "não..."
+    },
+    {
+      "start": 377.43,
+      "end": 377.55,
+      "text": "Eu"
+    },
+    {
+      "start": 377.55,
+      "end": 377.91,
+      "text": "sei"
+    },
+    {
+      "start": 377.91,
+      "end": 379.41,
+      "text": "que"
+    },
+    {
+      "start": 379.41,
+      "end": 379.55,
+      "text": "tem"
+    },
+    {
+      "start": 379.55,
+      "end": 379.75,
+      "text": "alguns"
+    },
+    {
+      "start": 379.75,
+      "end": 379.93,
+      "text": "que"
+    },
+    {
+      "start": 379.93,
+      "end": 380.09,
+      "text": "estão"
+    },
+    {
+      "start": 380.09,
+      "end": 380.23,
+      "text": "aí,"
+    },
+    {
+      "start": 380.25,
+      "end": 380.33,
+      "text": "mas"
+    },
+    {
+      "start": 380.33,
+      "end": 380.47,
+      "text": "que"
+    },
+    {
+      "start": 380.47,
+      "end": 380.59,
+      "text": "não"
+    },
+    {
+      "start": 380.59,
+      "end": 380.93,
+      "text": "serve,"
+    },
+    {
+      "start": 381.05,
+      "end": 381.13,
+      "text": "não"
+    },
+    {
+      "start": 381.13,
+      "end": 381.39,
+      "text": "adianta."
+    },
+    {
+      "start": 387.46,
+      "end": 387.74,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 387.74,
+      "end": 387.74,
+      "text": "o"
+    },
+    {
+      "start": 387.74,
+      "end": 388.64,
+      "text": "nosso"
+    },
+    {
+      "start": 388.64,
+      "end": 388.8,
+      "text": "canal"
+    },
+    {
+      "start": 388.8,
+      "end": 388.8,
+      "text": "no"
+    },
+    {
+      "start": 388.8,
+      "end": 388.8,
+      "text": "Facebook,"
+    },
+    {
+      "start": 389.62,
+      "end": 389.68,
+      "text": "Instagram"
+    },
+    {
+      "start": 389.68,
+      "end": 390.54,
+      "text": "e"
+    },
+    {
+      "start": 390.54,
+      "end": 390.54,
+      "text": "Twitter."
+    },
+    {
+      "start": 3088.96,
+      "end": 3089.26,
+      "text": "."
+    },
+    {
+      "start": 3728.58,
+      "end": 3728.92,
+      "text": "."
+    }
+  ]
+}

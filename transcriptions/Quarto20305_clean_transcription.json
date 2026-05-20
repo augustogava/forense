@@ -1,0 +1,484 @@
+{
+  "source_file": "Quarto20305_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:01,00:00:01": "Abençoe.",
+    "00:07:18,00:07:18": "Não!",
+    "00:07:29,00:07:31": "O pijaminha que a mamãe pegou, você lembra dele?",
+    "00:07:33,00:07:34": "Lembra desse pijama?",
+    "00:08:03,00:08:06": "Eu tô te esperando lá, você não vai descer pra ficar com o meu vovô antes da gente ir embora?",
+    "00:08:14,00:08:16": "Ele quebrou a escova dele e agora?",
+    "00:09:09,00:09:09": "Obrigado, pessoal!",
+    "00:09:12,00:09:13": "Ainda!",
+    "00:10:21,00:10:21": "A família.",
+    "00:10:27,00:10:28": "Agradeceria muito.",
+    "00:10:45,00:10:46": "Pois amei-a?",
+    "00:10:48,00:10:48": "Ambro-me-a!",
+    "00:10:52,00:10:53": "Não é querido.",
+    "00:11:06,00:11:07": "Semana que vem a gente vai ficar aqui, tá?",
+    "00:11:16,00:11:17": "Agora, descendo.",
+    "00:11:19,00:11:19": "Três.",
+    "00:11:25,00:11:25": "Até o próximo!",
+    "00:27:16,00:27:18": "A estima que é inata, se você não é do outro lado.",
+    "00:28:27,00:28:28": "O que são com a atitude?",
+    "00:37:34,00:37:35": "Aplausos"
+  },
+  "words": [
+    {
+      "start": 1.22,
+      "end": 1.58,
+      "text": "Abençoe."
+    },
+    {
+      "start": 438.47,
+      "end": 438.65,
+      "text": "Não!"
+    },
+    {
+      "start": 449.22,
+      "end": 449.24,
+      "text": "O"
+    },
+    {
+      "start": 449.24,
+      "end": 449.58,
+      "text": "pijaminha"
+    },
+    {
+      "start": 449.58,
+      "end": 449.68,
+      "text": "que"
+    },
+    {
+      "start": 449.68,
+      "end": 449.72,
+      "text": "a"
+    },
+    {
+      "start": 449.72,
+      "end": 450.02,
+      "text": "mamãe"
+    },
+    {
+      "start": 450.02,
+      "end": 450.38,
+      "text": "pegou,"
+    },
+    {
+      "start": 450.42,
+      "end": 450.52,
+      "text": "você"
+    },
+    {
+      "start": 450.52,
+      "end": 450.84,
+      "text": "lembra"
+    },
+    {
+      "start": 450.84,
+      "end": 451.08,
+      "text": "dele?"
+    },
+    {
+      "start": 453.83,
+      "end": 454.01,
+      "text": "Lembra"
+    },
+    {
+      "start": 454.01,
+      "end": 454.17,
+      "text": "desse"
+    },
+    {
+      "start": 454.17,
+      "end": 454.77,
+      "text": "pijama?"
+    },
+    {
+      "start": 483.11,
+      "end": 483.11,
+      "text": "Eu"
+    },
+    {
+      "start": 483.11,
+      "end": 483.11,
+      "text": "tô"
+    },
+    {
+      "start": 483.11,
+      "end": 483.23,
+      "text": "te"
+    },
+    {
+      "start": 483.23,
+      "end": 483.55,
+      "text": "esperando"
+    },
+    {
+      "start": 483.55,
+      "end": 483.77,
+      "text": "lá,"
+    },
+    {
+      "start": 483.87,
+      "end": 483.99,
+      "text": "você"
+    },
+    {
+      "start": 483.99,
+      "end": 484.09,
+      "text": "não"
+    },
+    {
+      "start": 484.09,
+      "end": 484.17,
+      "text": "vai"
+    },
+    {
+      "start": 484.17,
+      "end": 484.49,
+      "text": "descer"
+    },
+    {
+      "start": 484.49,
+      "end": 484.65,
+      "text": "pra"
+    },
+    {
+      "start": 484.65,
+      "end": 484.85,
+      "text": "ficar"
+    },
+    {
+      "start": 484.85,
+      "end": 484.87,
+      "text": "com"
+    },
+    {
+      "start": 484.87,
+      "end": 485.17,
+      "text": "o"
+    },
+    {
+      "start": 485.17,
+      "end": 485.23,
+      "text": "meu"
+    },
+    {
+      "start": 485.23,
+      "end": 485.69,
+      "text": "vovô"
+    },
+    {
+      "start": 485.69,
+      "end": 485.79,
+      "text": "antes"
+    },
+    {
+      "start": 485.79,
+      "end": 485.89,
+      "text": "da"
+    },
+    {
+      "start": 485.89,
+      "end": 486.01,
+      "text": "gente"
+    },
+    {
+      "start": 486.01,
+      "end": 486.13,
+      "text": "ir"
+    },
+    {
+      "start": 486.13,
+      "end": 486.35,
+      "text": "embora?"
+    },
+    {
+      "start": 494.02,
+      "end": 494.14,
+      "text": "Ele"
+    },
+    {
+      "start": 494.14,
+      "end": 494.52,
+      "text": "quebrou"
+    },
+    {
+      "start": 494.52,
+      "end": 494.54,
+      "text": "a"
+    },
+    {
+      "start": 494.54,
+      "end": 494.96,
+      "text": "escova"
+    },
+    {
+      "start": 494.96,
+      "end": 495.2,
+      "text": "dele"
+    },
+    {
+      "start": 495.2,
+      "end": 495.66,
+      "text": "e"
+    },
+    {
+      "start": 495.66,
+      "end": 496.04,
+      "text": "agora?"
+    },
+    {
+      "start": 549.28,
+      "end": 549.42,
+      "text": "Obrigado,"
+    },
+    {
+      "start": 549.42,
+      "end": 549.66,
+      "text": "pessoal!"
+    },
+    {
+      "start": 552.93,
+      "end": 553.01,
+      "text": "Ainda!"
+    },
+    {
+      "start": 621.19,
+      "end": 621.19,
+      "text": "A"
+    },
+    {
+      "start": 621.19,
+      "end": 621.51,
+      "text": "família."
+    },
+    {
+      "start": 627.39,
+      "end": 627.83,
+      "text": "Agradeceria"
+    },
+    {
+      "start": 627.83,
+      "end": 628.03,
+      "text": "muito."
+    },
+    {
+      "start": 645.74,
+      "end": 646.14,
+      "text": "Pois"
+    },
+    {
+      "start": 646.14,
+      "end": 646.54,
+      "text": "amei"
+    },
+    {
+      "start": 646.54,
+      "end": 646.72,
+      "text": "-a?"
+    },
+    {
+      "start": 648.3,
+      "end": 648.7,
+      "text": "Ambro"
+    },
+    {
+      "start": 648.7,
+      "end": 648.9,
+      "text": "-me"
+    },
+    {
+      "start": 648.9,
+      "end": 648.98,
+      "text": "-a!"
+    },
+    {
+      "start": 652.71,
+      "end": 652.79,
+      "text": "Não"
+    },
+    {
+      "start": 652.79,
+      "end": 652.93,
+      "text": "é"
+    },
+    {
+      "start": 652.93,
+      "end": 653.29,
+      "text": "querido."
+    },
+    {
+      "start": 666.21,
+      "end": 666.41,
+      "text": "Semana"
+    },
+    {
+      "start": 666.41,
+      "end": 666.53,
+      "text": "que"
+    },
+    {
+      "start": 666.53,
+      "end": 666.67,
+      "text": "vem"
+    },
+    {
+      "start": 666.67,
+      "end": 666.75,
+      "text": "a"
+    },
+    {
+      "start": 666.75,
+      "end": 666.83,
+      "text": "gente"
+    },
+    {
+      "start": 666.83,
+      "end": 666.95,
+      "text": "vai"
+    },
+    {
+      "start": 666.95,
+      "end": 667.11,
+      "text": "ficar"
+    },
+    {
+      "start": 667.11,
+      "end": 667.35,
+      "text": "aqui,"
+    },
+    {
+      "start": 667.39,
+      "end": 667.55,
+      "text": "tá?"
+    },
+    {
+      "start": 676.39,
+      "end": 676.59,
+      "text": "Agora,"
+    },
+    {
+      "start": 676.63,
+      "end": 677.41,
+      "text": "descendo."
+    },
+    {
+      "start": 679.05,
+      "end": 679.33,
+      "text": "Três."
+    },
+    {
+      "start": 685.6,
+      "end": 685.72,
+      "text": "Até"
+    },
+    {
+      "start": 685.72,
+      "end": 685.72,
+      "text": "o"
+    },
+    {
+      "start": 685.72,
+      "end": 685.94,
+      "text": "próximo!"
+    },
+    {
+      "start": 1636.42,
+      "end": 1636.48,
+      "text": "A"
+    },
+    {
+      "start": 1636.48,
+      "end": 1636.8,
+      "text": "estima"
+    },
+    {
+      "start": 1636.8,
+      "end": 1637.0,
+      "text": "que"
+    },
+    {
+      "start": 1637.0,
+      "end": 1637.06,
+      "text": "é"
+    },
+    {
+      "start": 1637.06,
+      "end": 1637.46,
+      "text": "inata,"
+    },
+    {
+      "start": 1637.46,
+      "end": 1637.94,
+      "text": "se"
+    },
+    {
+      "start": 1637.94,
+      "end": 1638.12,
+      "text": "você"
+    },
+    {
+      "start": 1638.12,
+      "end": 1638.3,
+      "text": "não"
+    },
+    {
+      "start": 1638.3,
+      "end": 1638.4,
+      "text": "é"
+    },
+    {
+      "start": 1638.4,
+      "end": 1638.52,
+      "text": "do"
+    },
+    {
+      "start": 1638.52,
+      "end": 1638.7,
+      "text": "outro"
+    },
+    {
+      "start": 1638.7,
+      "end": 1638.8,
+      "text": "lado."
+    },
+    {
+      "start": 1707.46,
+      "end": 1707.46,
+      "text": "O"
+    },
+    {
+      "start": 1707.46,
+      "end": 1707.64,
+      "text": "que"
+    },
+    {
+      "start": 1707.64,
+      "end": 1707.8,
+      "text": "são"
+    },
+    {
+      "start": 1707.8,
+      "end": 1708.0,
+      "text": "com"
+    },
+    {
+      "start": 1708.0,
+      "end": 1708.14,
+      "text": "a"
+    },
+    {
+      "start": 1708.14,
+      "end": 1708.62,
+      "text": "atitude?"
+    },
+    {
+      "start": 2254.66,
+      "end": 2255.16,
+      "text": "Aplausos"
+    }
+  ]
+}

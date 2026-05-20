@@ -1,0 +1,326 @@
+{
+  "source_file": "Quartonat0505_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:03,00:00:03": "Atenção!",
+    "00:24:01,00:24:03": "Ah, eu não vou ficar com isso.",
+    "00:24:06,00:24:09": "Apesar de ser um assunto que é muito conhecido, o que é mais importante é que a gente possa",
+    "00:24:10,00:24:11": "O que é o autismo da coisa?",
+    "00:24:22,00:24:23": "E é o autismo do ser, né?",
+    "00:24:27,00:24:29": "Acompanhe a discussão no Facebook do Câmara.",
+    "00:39:20,00:39:21": "Não se esqueça de deixar seu like e compartilhar o vídeo com seus amigos."
+  },
+  "words": [
+    {
+      "start": 3.3,
+      "end": 3.62,
+      "text": "Atenção!"
+    },
+    {
+      "start": 1441.25,
+      "end": 1441.33,
+      "text": "Ah,"
+    },
+    {
+      "start": 1441.59,
+      "end": 1442.69,
+      "text": "eu"
+    },
+    {
+      "start": 1442.69,
+      "end": 1442.83,
+      "text": "não"
+    },
+    {
+      "start": 1442.83,
+      "end": 1442.99,
+      "text": "vou"
+    },
+    {
+      "start": 1442.99,
+      "end": 1443.09,
+      "text": "ficar"
+    },
+    {
+      "start": 1443.09,
+      "end": 1443.31,
+      "text": "com"
+    },
+    {
+      "start": 1443.31,
+      "end": 1443.57,
+      "text": "isso."
+    },
+    {
+      "start": 1446.66,
+      "end": 1446.94,
+      "text": "Apesar"
+    },
+    {
+      "start": 1446.94,
+      "end": 1447.06,
+      "text": "de"
+    },
+    {
+      "start": 1447.06,
+      "end": 1447.26,
+      "text": "ser"
+    },
+    {
+      "start": 1447.26,
+      "end": 1447.36,
+      "text": "um"
+    },
+    {
+      "start": 1447.36,
+      "end": 1447.62,
+      "text": "assunto"
+    },
+    {
+      "start": 1447.62,
+      "end": 1447.82,
+      "text": "que"
+    },
+    {
+      "start": 1447.82,
+      "end": 1447.82,
+      "text": "é"
+    },
+    {
+      "start": 1447.82,
+      "end": 1447.82,
+      "text": "muito"
+    },
+    {
+      "start": 1447.82,
+      "end": 1448.78,
+      "text": "conhecido,"
+    },
+    {
+      "start": 1448.78,
+      "end": 1448.78,
+      "text": "o"
+    },
+    {
+      "start": 1448.78,
+      "end": 1448.78,
+      "text": "que"
+    },
+    {
+      "start": 1448.78,
+      "end": 1448.78,
+      "text": "é"
+    },
+    {
+      "start": 1448.78,
+      "end": 1448.78,
+      "text": "mais"
+    },
+    {
+      "start": 1448.78,
+      "end": 1448.78,
+      "text": "importante"
+    },
+    {
+      "start": 1448.78,
+      "end": 1449.02,
+      "text": "é"
+    },
+    {
+      "start": 1449.02,
+      "end": 1449.02,
+      "text": "que"
+    },
+    {
+      "start": 1449.02,
+      "end": 1449.02,
+      "text": "a"
+    },
+    {
+      "start": 1449.02,
+      "end": 1449.02,
+      "text": "gente"
+    },
+    {
+      "start": 1449.02,
+      "end": 1449.02,
+      "text": "possa"
+    },
+    {
+      "start": 1450.82,
+      "end": 1450.82,
+      "text": "O"
+    },
+    {
+      "start": 1450.82,
+      "end": 1450.82,
+      "text": "que"
+    },
+    {
+      "start": 1450.82,
+      "end": 1450.82,
+      "text": "é"
+    },
+    {
+      "start": 1450.82,
+      "end": 1450.82,
+      "text": "o"
+    },
+    {
+      "start": 1450.82,
+      "end": 1451.18,
+      "text": "autismo"
+    },
+    {
+      "start": 1451.18,
+      "end": 1451.34,
+      "text": "da"
+    },
+    {
+      "start": 1451.34,
+      "end": 1451.68,
+      "text": "coisa?"
+    },
+    {
+      "start": 1462.05,
+      "end": 1462.13,
+      "text": "E"
+    },
+    {
+      "start": 1462.13,
+      "end": 1462.15,
+      "text": "é"
+    },
+    {
+      "start": 1462.15,
+      "end": 1462.19,
+      "text": "o"
+    },
+    {
+      "start": 1462.19,
+      "end": 1462.55,
+      "text": "autismo"
+    },
+    {
+      "start": 1462.55,
+      "end": 1462.63,
+      "text": "do"
+    },
+    {
+      "start": 1462.63,
+      "end": 1462.85,
+      "text": "ser,"
+    },
+    {
+      "start": 1462.99,
+      "end": 1463.13,
+      "text": "né?"
+    },
+    {
+      "start": 1467.11,
+      "end": 1467.11,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 1467.11,
+      "end": 1467.31,
+      "text": "a"
+    },
+    {
+      "start": 1467.31,
+      "end": 1467.91,
+      "text": "discussão"
+    },
+    {
+      "start": 1467.91,
+      "end": 1468.21,
+      "text": "no"
+    },
+    {
+      "start": 1468.21,
+      "end": 1468.63,
+      "text": "Facebook"
+    },
+    {
+      "start": 1468.63,
+      "end": 1468.97,
+      "text": "do"
+    },
+    {
+      "start": 1468.97,
+      "end": 1469.47,
+      "text": "Câmara."
+    },
+    {
+      "start": 2360.77,
+      "end": 2361.15,
+      "text": "Não"
+    },
+    {
+      "start": 2361.15,
+      "end": 2361.33,
+      "text": "se"
+    },
+    {
+      "start": 2361.33,
+      "end": 2361.33,
+      "text": "esqueça"
+    },
+    {
+      "start": 2361.33,
+      "end": 2361.33,
+      "text": "de"
+    },
+    {
+      "start": 2361.33,
+      "end": 2361.33,
+      "text": "deixar"
+    },
+    {
+      "start": 2361.33,
+      "end": 2361.33,
+      "text": "seu"
+    },
+    {
+      "start": 2361.33,
+      "end": 2361.33,
+      "text": "like"
+    },
+    {
+      "start": 2361.33,
+      "end": 2361.45,
+      "text": "e"
+    },
+    {
+      "start": 2361.45,
+      "end": 2361.45,
+      "text": "compartilhar"
+    },
+    {
+      "start": 2361.45,
+      "end": 2361.45,
+      "text": "o"
+    },
+    {
+      "start": 2361.45,
+      "end": 2361.45,
+      "text": "vídeo"
+    },
+    {
+      "start": 2361.45,
+      "end": 2361.65,
+      "text": "com"
+    },
+    {
+      "start": 2361.65,
+      "end": 2361.65,
+      "text": "seus"
+    },
+    {
+      "start": 2361.65,
+      "end": 2361.65,
+      "text": "amigos."
+    }
+  ]
+}

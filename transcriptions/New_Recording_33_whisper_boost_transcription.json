@@ -1,0 +1,88 @@
+{
+  "source_file": "New_Recording_33_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:30:15,00:30:15": "O povo...",
+    "00:30:18,00:30:19": "Não se esqueça de deixar seu like e compartilhar o vídeo.",
+    "00:39:12,00:39:12": ".",
+    "01:16:40,01:16:40": "."
+  },
+  "words": [
+    {
+      "start": 1815.11,
+      "end": 1815.37,
+      "text": "O"
+    },
+    {
+      "start": 1815.37,
+      "end": 1815.51,
+      "text": "povo..."
+    },
+    {
+      "start": 1818.98,
+      "end": 1819.24,
+      "text": "Não"
+    },
+    {
+      "start": 1819.24,
+      "end": 1819.38,
+      "text": "se"
+    },
+    {
+      "start": 1819.38,
+      "end": 1819.52,
+      "text": "esqueça"
+    },
+    {
+      "start": 1819.52,
+      "end": 1819.52,
+      "text": "de"
+    },
+    {
+      "start": 1819.52,
+      "end": 1819.52,
+      "text": "deixar"
+    },
+    {
+      "start": 1819.52,
+      "end": 1819.52,
+      "text": "seu"
+    },
+    {
+      "start": 1819.52,
+      "end": 1819.52,
+      "text": "like"
+    },
+    {
+      "start": 1819.52,
+      "end": 1819.52,
+      "text": "e"
+    },
+    {
+      "start": 1819.52,
+      "end": 1819.52,
+      "text": "compartilhar"
+    },
+    {
+      "start": 1819.52,
+      "end": 1819.52,
+      "text": "o"
+    },
+    {
+      "start": 1819.52,
+      "end": 1819.52,
+      "text": "vídeo."
+    },
+    {
+      "start": 2352.55,
+      "end": 2352.67,
+      "text": "."
+    },
+    {
+      "start": 4600.42,
+      "end": 4600.52,
+      "text": "."
+    }
+  ]
+}

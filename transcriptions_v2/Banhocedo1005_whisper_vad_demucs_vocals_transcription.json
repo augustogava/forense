@@ -1,0 +1,23 @@
+{
+  "source_file": "Banhocedo1005_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 194.2,
+  "segments": {
+    "00:01:16,00:01:18": "Até mais."
+  },
+  "words": [
+    {
+      "start": 76.84,
+      "end": 77.64,
+      "text": "Até",
+      "probability": 0.531
+    },
+    {
+      "start": 77.8,
+      "end": 78.08,
+      "text": "mais.",
+      "probability": 0.572
+    }
+  ]
+}

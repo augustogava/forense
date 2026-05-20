@@ -1,0 +1,77 @@
+{
+  "source_file": "Mathiasapecarro2904_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 718.5,
+  "segments": {
+    "00:11:11,00:11:38": "Oi Nisse, trabalhador da vovó, trabalhador da vovó, já está chegando."
+  },
+  "words": [
+    {
+      "start": 671.73,
+      "end": 672.73,
+      "text": "Oi",
+      "probability": 0.165
+    },
+    {
+      "start": 680.28,
+      "end": 681.28,
+      "text": "Nisse,",
+      "probability": 0.174
+    },
+    {
+      "start": 685.22,
+      "end": 685.72,
+      "text": "trabalhador",
+      "probability": 0.602
+    },
+    {
+      "start": 685.72,
+      "end": 685.88,
+      "text": "da",
+      "probability": 0.963
+    },
+    {
+      "start": 685.88,
+      "end": 686.38,
+      "text": "vovó,",
+      "probability": 0.848
+    },
+    {
+      "start": 686.92,
+      "end": 688.24,
+      "text": "trabalhador",
+      "probability": 0.944
+    },
+    {
+      "start": 688.24,
+      "end": 688.4,
+      "text": "da",
+      "probability": 1.0
+    },
+    {
+      "start": 688.4,
+      "end": 688.74,
+      "text": "vovó,",
+      "probability": 0.998
+    },
+    {
+      "start": 688.78,
+      "end": 689.42,
+      "text": "já",
+      "probability": 0.995
+    },
+    {
+      "start": 698.25,
+      "end": 698.43,
+      "text": "está",
+      "probability": 0.576
+    },
+    {
+      "start": 698.43,
+      "end": 698.97,
+      "text": "chegando.",
+      "probability": 0.999
+    }
+  ]
+}

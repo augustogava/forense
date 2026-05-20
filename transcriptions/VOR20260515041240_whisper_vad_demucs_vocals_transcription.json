@@ -1,0 +1,35 @@
+{
+  "source_file": "VOR20260515041240_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:58:56,00:58:57": "Atenção, o aluno é um"
+  },
+  "words": [
+    {
+      "start": 3536.32,
+      "end": 3536.56,
+      "text": "Atenção,"
+    },
+    {
+      "start": 3536.56,
+      "end": 3536.86,
+      "text": "o"
+    },
+    {
+      "start": 3536.86,
+      "end": 3537.38,
+      "text": "aluno"
+    },
+    {
+      "start": 3537.38,
+      "end": 3537.44,
+      "text": "é"
+    },
+    {
+      "start": 3537.44,
+      "end": 3537.62,
+      "text": "um"
+    }
+  ]
+}

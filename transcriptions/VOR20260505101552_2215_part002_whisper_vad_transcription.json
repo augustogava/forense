@@ -1,0 +1,25 @@
+{
+  "source_file": "VOR20260505101552_2215_part002_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:25:19,00:25:19": "Não há mais."
+  },
+  "words": [
+    {
+      "start": 1519.2,
+      "end": 1519.3,
+      "text": "Não"
+    },
+    {
+      "start": 1519.3,
+      "end": 1519.42,
+      "text": "há"
+    },
+    {
+      "start": 1519.42,
+      "end": 1519.74,
+      "text": "mais."
+    }
+  ]
+}

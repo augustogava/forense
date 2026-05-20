@@ -1,0 +1,238 @@
+{
+  "source_file": "Descer2_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 382.9,
+  "segments": {
+    "00:00:01,00:00:08": "Você vai cair, você vai cair Matias.",
+    "00:00:10,00:00:12": "Vamos brincar, vem, vem, vem.",
+    "00:00:13,00:00:14": "Vamos dormir.",
+    "00:00:18,00:00:22": "Vamos fazer isso.",
+    "00:00:23,00:00:26": "Aí não tem, você fica cuidado.",
+    "00:00:29,00:02:23": "Três, quatro, três, quatro, cinco, seis, sete, oito, nove, dez, oito, nove, dez, oito,"
+  },
+  "words": [
+    {
+      "start": 1.0,
+      "end": 1.14,
+      "text": "Você",
+      "probability": 0.13
+    },
+    {
+      "start": 1.14,
+      "end": 1.28,
+      "text": "vai",
+      "probability": 0.75
+    },
+    {
+      "start": 1.28,
+      "end": 3.76,
+      "text": "cair,",
+      "probability": 0.888
+    },
+    {
+      "start": 3.86,
+      "end": 4.56,
+      "text": "você",
+      "probability": 0.39
+    },
+    {
+      "start": 4.56,
+      "end": 5.5,
+      "text": "vai",
+      "probability": 0.993
+    },
+    {
+      "start": 8.0,
+      "end": 8.28,
+      "text": "cair",
+      "probability": 0.995
+    },
+    {
+      "start": 8.28,
+      "end": 8.82,
+      "text": "Matias.",
+      "probability": 0.712
+    },
+    {
+      "start": 10.74,
+      "end": 11.38,
+      "text": "Vamos",
+      "probability": 0.673
+    },
+    {
+      "start": 11.38,
+      "end": 11.8,
+      "text": "brincar,",
+      "probability": 0.671
+    },
+    {
+      "start": 11.8,
+      "end": 11.98,
+      "text": "vem,",
+      "probability": 0.795
+    },
+    {
+      "start": 12.02,
+      "end": 12.26,
+      "text": "vem,",
+      "probability": 0.546
+    },
+    {
+      "start": 12.38,
+      "end": 12.44,
+      "text": "vem.",
+      "probability": 0.663
+    },
+    {
+      "start": 13.06,
+      "end": 13.42,
+      "text": "Vamos",
+      "probability": 0.299
+    },
+    {
+      "start": 13.42,
+      "end": 14.24,
+      "text": "dormir.",
+      "probability": 0.889
+    },
+    {
+      "start": 18.78,
+      "end": 19.42,
+      "text": "Vamos",
+      "probability": 0.509
+    },
+    {
+      "start": 22.11,
+      "end": 22.43,
+      "text": "fazer",
+      "probability": 0.669
+    },
+    {
+      "start": 22.43,
+      "end": 22.71,
+      "text": "isso.",
+      "probability": 0.387
+    },
+    {
+      "start": 23.31,
+      "end": 23.95,
+      "text": "Aí",
+      "probability": 0.16
+    },
+    {
+      "start": 25.32,
+      "end": 25.46,
+      "text": "não",
+      "probability": 0.532
+    },
+    {
+      "start": 25.46,
+      "end": 25.64,
+      "text": "tem,",
+      "probability": 0.303
+    },
+    {
+      "start": 25.74,
+      "end": 25.98,
+      "text": "você",
+      "probability": 0.449
+    },
+    {
+      "start": 25.98,
+      "end": 26.16,
+      "text": "fica",
+      "probability": 0.505
+    },
+    {
+      "start": 26.16,
+      "end": 26.46,
+      "text": "cuidado.",
+      "probability": 0.26
+    },
+    {
+      "start": 29.69,
+      "end": 30.27,
+      "text": "Três,",
+      "probability": 0.592
+    },
+    {
+      "start": 30.27,
+      "end": 30.85,
+      "text": "quatro,",
+      "probability": 0.681
+    },
+    {
+      "start": 53.76,
+      "end": 55.22,
+      "text": "três,",
+      "probability": 0.373
+    },
+    {
+      "start": 56.24,
+      "end": 56.24,
+      "text": "quatro,",
+      "probability": 0.383
+    },
+    {
+      "start": 56.24,
+      "end": 56.66,
+      "text": "cinco,",
+      "probability": 0.361
+    },
+    {
+      "start": 56.66,
+      "end": 56.66,
+      "text": "seis,",
+      "probability": 0.866
+    },
+    {
+      "start": 56.78,
+      "end": 56.78,
+      "text": "sete,",
+      "probability": 0.552
+    },
+    {
+      "start": 56.86,
+      "end": 57.96,
+      "text": "oito,",
+      "probability": 0.931
+    },
+    {
+      "start": 58.02,
+      "end": 58.02,
+      "text": "nove,",
+      "probability": 0.503
+    },
+    {
+      "start": 58.4,
+      "end": 58.64,
+      "text": "dez,",
+      "probability": 0.819
+    },
+    {
+      "start": 124.21,
+      "end": 124.79,
+      "text": "oito,",
+      "probability": 0.739
+    },
+    {
+      "start": 125.97,
+      "end": 126.77,
+      "text": "nove,",
+      "probability": 0.476
+    },
+    {
+      "start": 127.09,
+      "end": 127.09,
+      "text": "dez,",
+      "probability": 0.966
+    },
+    {
+      "start": 142.81,
+      "end": 143.29,
+      "text": "oito,",
+      "probability": 0.849
+    }
+  ]
+}

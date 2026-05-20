@@ -1,0 +1,21 @@
+{
+  "source_file": "VOR20260505021551_0215_part003_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:31:35,00:31:35": "Controle.",
+    "00:35:02,00:35:02": "."
+  },
+  "words": [
+    {
+      "start": 1895.23,
+      "end": 1895.53,
+      "text": "Controle."
+    },
+    {
+      "start": 2102.02,
+      "end": 2102.1,
+      "text": "."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "source_file": "VOR20260515101541_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:57,00:01:00": "E aí",
+    "00:02:02,00:02:03": "Atenção!",
+    "00:05:15,00:05:15": ".",
+    "00:30:16,00:30:18": "Agradecimentos a todos os participantes.",
+    "00:52:54,00:52:54": "."
+  },
+  "words": [
+    {
+      "start": 57.71,
+      "end": 59.11,
+      "text": "E"
+    },
+    {
+      "start": 59.11,
+      "end": 60.51,
+      "text": "aí"
+    },
+    {
+      "start": 122.5,
+      "end": 123.6,
+      "text": "Atenção!"
+    },
+    {
+      "start": 315.23,
+      "end": 315.49,
+      "text": "."
+    },
+    {
+      "start": 1816.8,
+      "end": 1817.46,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 1817.46,
+      "end": 1817.46,
+      "text": "a"
+    },
+    {
+      "start": 1817.46,
+      "end": 1817.46,
+      "text": "todos"
+    },
+    {
+      "start": 1817.46,
+      "end": 1817.5,
+      "text": "os"
+    },
+    {
+      "start": 1817.5,
+      "end": 1818.2,
+      "text": "participantes."
+    },
+    {
+      "start": 3174.37,
+      "end": 3174.65,
+      "text": "."
+    }
+  ]
+}

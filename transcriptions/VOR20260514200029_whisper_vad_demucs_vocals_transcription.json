@@ -1,0 +1,143 @@
+{
+  "source_file": "VOR20260514200029_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:12:37,00:12:39": "O que é o sexo?",
+    "00:13:41,00:13:42": "Não há dúvidas.",
+    "00:14:28,00:14:28": "Não se...",
+    "00:14:33,00:14:33": "Não, não, não, não!",
+    "00:33:32,00:33:33": "E aí",
+    "00:47:45,00:47:46": "É verdade.",
+    "00:48:03,00:48:04": "Descansa em voz.",
+    "00:56:41,00:56:42": "Não cabia nenhum!",
+    "00:56:44,00:56:44": "Sim!"
+  },
+  "words": [
+    {
+      "start": 757.86,
+      "end": 758.0,
+      "text": "O"
+    },
+    {
+      "start": 758.0,
+      "end": 758.0,
+      "text": "que"
+    },
+    {
+      "start": 758.0,
+      "end": 758.2,
+      "text": "é"
+    },
+    {
+      "start": 758.2,
+      "end": 758.88,
+      "text": "o"
+    },
+    {
+      "start": 758.88,
+      "end": 759.1,
+      "text": "sexo?"
+    },
+    {
+      "start": 821.51,
+      "end": 821.51,
+      "text": "Não"
+    },
+    {
+      "start": 821.51,
+      "end": 821.63,
+      "text": "há"
+    },
+    {
+      "start": 821.63,
+      "end": 822.01,
+      "text": "dúvidas."
+    },
+    {
+      "start": 868.55,
+      "end": 868.65,
+      "text": "Não"
+    },
+    {
+      "start": 868.65,
+      "end": 868.97,
+      "text": "se..."
+    },
+    {
+      "start": 873.28,
+      "end": 873.42,
+      "text": "Não,"
+    },
+    {
+      "start": 873.54,
+      "end": 873.6,
+      "text": "não,"
+    },
+    {
+      "start": 873.66,
+      "end": 873.78,
+      "text": "não,"
+    },
+    {
+      "start": 873.78,
+      "end": 873.98,
+      "text": "não!"
+    },
+    {
+      "start": 2012.33,
+      "end": 2012.95,
+      "text": "E"
+    },
+    {
+      "start": 2012.95,
+      "end": 2013.17,
+      "text": "aí"
+    },
+    {
+      "start": 2865.83,
+      "end": 2865.93,
+      "text": "É"
+    },
+    {
+      "start": 2865.93,
+      "end": 2866.07,
+      "text": "verdade."
+    },
+    {
+      "start": 2883.52,
+      "end": 2884.04,
+      "text": "Descansa"
+    },
+    {
+      "start": 2884.04,
+      "end": 2884.24,
+      "text": "em"
+    },
+    {
+      "start": 2884.24,
+      "end": 2884.56,
+      "text": "voz."
+    },
+    {
+      "start": 3401.92,
+      "end": 3402.02,
+      "text": "Não"
+    },
+    {
+      "start": 3402.02,
+      "end": 3402.42,
+      "text": "cabia"
+    },
+    {
+      "start": 3402.42,
+      "end": 3402.66,
+      "text": "nenhum!"
+    },
+    {
+      "start": 3404.71,
+      "end": 3404.91,
+      "text": "Sim!"
+    }
+  ]
+}

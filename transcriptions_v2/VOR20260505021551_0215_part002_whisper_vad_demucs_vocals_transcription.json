@@ -1,0 +1,285 @@
+{
+  "source_file": "VOR20260505021551_0215_part002_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 5400.0,
+  "segments": {
+    "00:00:02,00:00:05": "E aí, o que aconteceu?",
+    "00:00:05,00:00:07": "O que aconteceu?",
+    "00:00:07,00:00:08": "E aí, o que aconteceu?",
+    "00:00:08,00:00:14": "Eu não sei.",
+    "00:00:26,00:00:30": "Eu não sei.",
+    "00:05:51,00:07:14": "Não, não, não.",
+    "00:09:55,00:09:58": "Não, não, não, não.",
+    "00:10:18,00:10:19": "A gente vai fazer o que?",
+    "00:10:19,00:10:23": "A gente vai fazer o que?",
+    "00:12:15,00:12:16": "E aí, começou.",
+    "00:20:51,00:20:52": "E aí, começou."
+  },
+  "words": [
+    {
+      "start": 2.9,
+      "end": 3.22,
+      "text": "E",
+      "probability": 0.105
+    },
+    {
+      "start": 3.22,
+      "end": 3.6,
+      "text": "aí,",
+      "probability": 0.289
+    },
+    {
+      "start": 3.72,
+      "end": 3.94,
+      "text": "o",
+      "probability": 0.084
+    },
+    {
+      "start": 3.94,
+      "end": 4.26,
+      "text": "que",
+      "probability": 0.594
+    },
+    {
+      "start": 4.26,
+      "end": 5.2,
+      "text": "aconteceu?",
+      "probability": 0.128
+    },
+    {
+      "start": 5.86,
+      "end": 6.44,
+      "text": "O",
+      "probability": 0.304
+    },
+    {
+      "start": 6.44,
+      "end": 7.02,
+      "text": "que",
+      "probability": 0.521
+    },
+    {
+      "start": 7.02,
+      "end": 7.44,
+      "text": "aconteceu?",
+      "probability": 0.968
+    },
+    {
+      "start": 7.9,
+      "end": 7.9,
+      "text": "E",
+      "probability": 0.033
+    },
+    {
+      "start": 7.9,
+      "end": 7.9,
+      "text": "aí,",
+      "probability": 0.977
+    },
+    {
+      "start": 7.9,
+      "end": 7.92,
+      "text": "o",
+      "probability": 0.988
+    },
+    {
+      "start": 7.92,
+      "end": 7.98,
+      "text": "que",
+      "probability": 0.994
+    },
+    {
+      "start": 7.98,
+      "end": 8.28,
+      "text": "aconteceu?",
+      "probability": 0.998
+    },
+    {
+      "start": 8.66,
+      "end": 9.32,
+      "text": "Eu",
+      "probability": 0.032
+    },
+    {
+      "start": 14.03,
+      "end": 14.37,
+      "text": "não",
+      "probability": 0.193
+    },
+    {
+      "start": 14.37,
+      "end": 14.79,
+      "text": "sei.",
+      "probability": 0.749
+    },
+    {
+      "start": 26.8,
+      "end": 27.56,
+      "text": "Eu",
+      "probability": 0.718
+    },
+    {
+      "start": 29.29,
+      "end": 29.73,
+      "text": "não",
+      "probability": 0.948
+    },
+    {
+      "start": 29.73,
+      "end": 30.11,
+      "text": "sei.",
+      "probability": 0.992
+    },
+    {
+      "start": 351.94,
+      "end": 353.0,
+      "text": "Não,",
+      "probability": 0.035
+    },
+    {
+      "start": 433.91,
+      "end": 434.23,
+      "text": "não,",
+      "probability": 0.831
+    },
+    {
+      "start": 434.57,
+      "end": 434.59,
+      "text": "não.",
+      "probability": 0.909
+    },
+    {
+      "start": 595.71,
+      "end": 596.27,
+      "text": "Não,",
+      "probability": 0.014
+    },
+    {
+      "start": 596.49,
+      "end": 596.75,
+      "text": "não,",
+      "probability": 0.417
+    },
+    {
+      "start": 596.75,
+      "end": 597.09,
+      "text": "não,",
+      "probability": 0.842
+    },
+    {
+      "start": 598.21,
+      "end": 598.69,
+      "text": "não.",
+      "probability": 0.912
+    },
+    {
+      "start": 618.45,
+      "end": 618.55,
+      "text": "A",
+      "probability": 0.033
+    },
+    {
+      "start": 618.55,
+      "end": 618.73,
+      "text": "gente",
+      "probability": 0.034
+    },
+    {
+      "start": 618.73,
+      "end": 619.27,
+      "text": "vai",
+      "probability": 0.193
+    },
+    {
+      "start": 619.27,
+      "end": 619.27,
+      "text": "fazer",
+      "probability": 0.054
+    },
+    {
+      "start": 619.27,
+      "end": 619.27,
+      "text": "o",
+      "probability": 0.111
+    },
+    {
+      "start": 619.27,
+      "end": 619.27,
+      "text": "que?",
+      "probability": 0.227
+    },
+    {
+      "start": 619.85,
+      "end": 620.33,
+      "text": "A",
+      "probability": 0.307
+    },
+    {
+      "start": 621.8,
+      "end": 622.12,
+      "text": "gente",
+      "probability": 0.745
+    },
+    {
+      "start": 622.12,
+      "end": 622.66,
+      "text": "vai",
+      "probability": 0.935
+    },
+    {
+      "start": 622.66,
+      "end": 622.94,
+      "text": "fazer",
+      "probability": 0.724
+    },
+    {
+      "start": 622.94,
+      "end": 623.26,
+      "text": "o",
+      "probability": 0.916
+    },
+    {
+      "start": 623.26,
+      "end": 623.48,
+      "text": "que?",
+      "probability": 0.943
+    },
+    {
+      "start": 735.65,
+      "end": 736.07,
+      "text": "E",
+      "probability": 0.123
+    },
+    {
+      "start": 736.07,
+      "end": 736.17,
+      "text": "aí,",
+      "probability": 0.875
+    },
+    {
+      "start": 736.17,
+      "end": 736.59,
+      "text": "começou.",
+      "probability": 0.032
+    },
+    {
+      "start": 1251.69,
+      "end": 1251.97,
+      "text": "E",
+      "probability": 0.234
+    },
+    {
+      "start": 1251.97,
+      "end": 1252.21,
+      "text": "aí,",
+      "probability": 0.89
+    },
+    {
+      "start": 1252.55,
+      "end": 1252.55,
+      "text": "começou.",
+      "probability": 0.748
+    }
+  ]
+}

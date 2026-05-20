@@ -1,0 +1,180 @@
+{
+  "source_file": "Taquanoite0205_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "01:06:53,01:06:54": "O que é que é isso?",
+    "01:22:56,01:22:56": "Não é possível!",
+    "01:23:08,01:23:08": ".",
+    "01:50:33,01:50:33": "Atenção!",
+    "01:50:38,01:50:38": "Não!",
+    "01:50:45,01:50:47": "Atenção!",
+    "01:50:53,01:50:59": "Agradecimentos a todos os participantes.",
+    "01:51:02,01:51:03": "RESTREITO",
+    "01:51:21,01:51:22": "Aplausos",
+    "01:51:26,01:51:27": "Atenção!",
+    "01:51:38,01:51:39": "UAU!",
+    "01:51:44,01:51:45": "A...",
+    "01:56:30,01:56:30": ".",
+    "01:59:25,01:59:25": "Atenção!",
+    "02:01:51,02:01:51": "Atenção!",
+    "02:06:12,02:06:14": "Agradecimentos a todos os participantes."
+  },
+  "words": [
+    {
+      "start": 4013.22,
+      "end": 4013.32,
+      "text": "O"
+    },
+    {
+      "start": 4013.32,
+      "end": 4013.52,
+      "text": "que"
+    },
+    {
+      "start": 4013.52,
+      "end": 4013.64,
+      "text": "é"
+    },
+    {
+      "start": 4013.64,
+      "end": 4013.64,
+      "text": "que"
+    },
+    {
+      "start": 4013.64,
+      "end": 4013.86,
+      "text": "é"
+    },
+    {
+      "start": 4013.86,
+      "end": 4014.5,
+      "text": "isso?"
+    },
+    {
+      "start": 4976.16,
+      "end": 4976.26,
+      "text": "Não"
+    },
+    {
+      "start": 4976.26,
+      "end": 4976.38,
+      "text": "é"
+    },
+    {
+      "start": 4976.38,
+      "end": 4976.54,
+      "text": "possível!"
+    },
+    {
+      "start": 4988.61,
+      "end": 4988.77,
+      "text": "."
+    },
+    {
+      "start": 6633.35,
+      "end": 6633.77,
+      "text": "Atenção!"
+    },
+    {
+      "start": 6638.02,
+      "end": 6638.44,
+      "text": "Não!"
+    },
+    {
+      "start": 6646.0,
+      "end": 6647.4,
+      "text": "Atenção!"
+    },
+    {
+      "start": 6653.51,
+      "end": 6654.97,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 6654.97,
+      "end": 6654.97,
+      "text": "a"
+    },
+    {
+      "start": 6654.97,
+      "end": 6655.35,
+      "text": "todos"
+    },
+    {
+      "start": 6655.35,
+      "end": 6655.55,
+      "text": "os"
+    },
+    {
+      "start": 6655.55,
+      "end": 6659.11,
+      "text": "participantes."
+    },
+    {
+      "start": 6662.37,
+      "end": 6663.65,
+      "text": "RESTREITO"
+    },
+    {
+      "start": 6681.12,
+      "end": 6682.52,
+      "text": "Aplausos"
+    },
+    {
+      "start": 6686.5,
+      "end": 6687.72,
+      "text": "Atenção!"
+    },
+    {
+      "start": 6698.63,
+      "end": 6699.05,
+      "text": "UAU!"
+    },
+    {
+      "start": 6704.93,
+      "end": 6705.21,
+      "text": "A..."
+    },
+    {
+      "start": 6990.11,
+      "end": 6990.31,
+      "text": "."
+    },
+    {
+      "start": 7165.41,
+      "end": 7165.69,
+      "text": "Atenção!"
+    },
+    {
+      "start": 7311.39,
+      "end": 7311.75,
+      "text": "Atenção!"
+    },
+    {
+      "start": 7572.48,
+      "end": 7572.92,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 7572.92,
+      "end": 7573.0,
+      "text": "a"
+    },
+    {
+      "start": 7573.0,
+      "end": 7573.46,
+      "text": "todos"
+    },
+    {
+      "start": 7573.46,
+      "end": 7574.04,
+      "text": "os"
+    },
+    {
+      "start": 7574.04,
+      "end": 7574.5,
+      "text": "participantes."
+    }
+  ]
+}

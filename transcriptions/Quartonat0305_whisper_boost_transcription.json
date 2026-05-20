@@ -1,0 +1,123 @@
+{
+  "source_file": "Quartonat0305_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:03:01,00:03:02": "Descendo.",
+    "00:26:29,00:26:30": "O que é que é isso?",
+    "00:42:45,00:42:45": "Não se esqueça de deixar seu like, compartilhar e se inscrever no canal.",
+    "01:21:18,01:21:19": "Tem dois..."
+  },
+  "words": [
+    {
+      "start": 181.83,
+      "end": 182.37,
+      "text": "Descendo."
+    },
+    {
+      "start": 1589.25,
+      "end": 1589.35,
+      "text": "O"
+    },
+    {
+      "start": 1589.35,
+      "end": 1589.57,
+      "text": "que"
+    },
+    {
+      "start": 1589.57,
+      "end": 1589.59,
+      "text": "é"
+    },
+    {
+      "start": 1589.59,
+      "end": 1589.59,
+      "text": "que"
+    },
+    {
+      "start": 1589.59,
+      "end": 1589.89,
+      "text": "é"
+    },
+    {
+      "start": 1589.89,
+      "end": 1590.01,
+      "text": "isso?"
+    },
+    {
+      "start": 2565.12,
+      "end": 2565.12,
+      "text": "Não"
+    },
+    {
+      "start": 2565.12,
+      "end": 2565.12,
+      "text": "se"
+    },
+    {
+      "start": 2565.12,
+      "end": 2565.12,
+      "text": "esqueça"
+    },
+    {
+      "start": 2565.12,
+      "end": 2565.12,
+      "text": "de"
+    },
+    {
+      "start": 2565.12,
+      "end": 2565.12,
+      "text": "deixar"
+    },
+    {
+      "start": 2565.12,
+      "end": 2565.12,
+      "text": "seu"
+    },
+    {
+      "start": 2565.12,
+      "end": 2565.12,
+      "text": "like,"
+    },
+    {
+      "start": 2565.12,
+      "end": 2565.16,
+      "text": "compartilhar"
+    },
+    {
+      "start": 2565.16,
+      "end": 2565.16,
+      "text": "e"
+    },
+    {
+      "start": 2565.16,
+      "end": 2565.16,
+      "text": "se"
+    },
+    {
+      "start": 2565.16,
+      "end": 2565.16,
+      "text": "inscrever"
+    },
+    {
+      "start": 2565.16,
+      "end": 2565.3,
+      "text": "no"
+    },
+    {
+      "start": 2565.3,
+      "end": 2565.5,
+      "text": "canal."
+    },
+    {
+      "start": 4878.59,
+      "end": 4878.87,
+      "text": "Tem"
+    },
+    {
+      "start": 4878.87,
+      "end": 4879.29,
+      "text": "dois..."
+    }
+  ]
+}

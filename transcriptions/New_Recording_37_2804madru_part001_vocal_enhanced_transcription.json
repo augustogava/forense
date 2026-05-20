@@ -1,0 +1,45 @@
+{
+  "source_file": "New_Recording_37_2804madru_part001_vocal_enhanced.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:08:30,00:08:31": "Então, dá para ler isso tudo bem."
+  },
+  "words": [
+    {
+      "start": 510.08,
+      "end": 510.4,
+      "text": "Então,"
+    },
+    {
+      "start": 510.4,
+      "end": 510.52,
+      "text": "dá"
+    },
+    {
+      "start": 510.52,
+      "end": 510.7,
+      "text": "para"
+    },
+    {
+      "start": 510.7,
+      "end": 510.84,
+      "text": "ler"
+    },
+    {
+      "start": 510.84,
+      "end": 510.86,
+      "text": "isso"
+    },
+    {
+      "start": 510.86,
+      "end": 511.02,
+      "text": "tudo"
+    },
+    {
+      "start": 511.02,
+      "end": 511.08,
+      "text": "bem."
+    }
+  ]
+}

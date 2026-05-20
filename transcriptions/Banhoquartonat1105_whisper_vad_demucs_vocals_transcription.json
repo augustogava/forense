@@ -1,0 +1,69 @@
+{
+  "source_file": "Banhoquartonat1105_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:01": "Atenção!",
+    "00:00:24,00:00:27": "Não sei o que é isso.",
+    "00:01:01,00:01:01": "Não!",
+    "00:08:40,00:08:40": "Por favor.",
+    "00:16:05,00:16:05": "Não!"
+  },
+  "words": [
+    {
+      "start": 0.13,
+      "end": 1.39,
+      "text": "Atenção!"
+    },
+    {
+      "start": 24.99,
+      "end": 25.09,
+      "text": "Não"
+    },
+    {
+      "start": 25.09,
+      "end": 25.15,
+      "text": "sei"
+    },
+    {
+      "start": 25.15,
+      "end": 25.21,
+      "text": "o"
+    },
+    {
+      "start": 25.21,
+      "end": 25.45,
+      "text": "que"
+    },
+    {
+      "start": 25.45,
+      "end": 25.85,
+      "text": "é"
+    },
+    {
+      "start": 25.85,
+      "end": 27.11,
+      "text": "isso."
+    },
+    {
+      "start": 61.6,
+      "end": 61.68,
+      "text": "Não!"
+    },
+    {
+      "start": 520.55,
+      "end": 520.71,
+      "text": "Por"
+    },
+    {
+      "start": 520.71,
+      "end": 520.81,
+      "text": "favor."
+    },
+    {
+      "start": 965.28,
+      "end": 965.76,
+      "text": "Não!"
+    }
+  ]
+}

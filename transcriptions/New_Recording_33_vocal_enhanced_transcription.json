@@ -1,0 +1,68 @@
+{
+  "source_file": "New_Recording_33_vocal_enhanced.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:30:12,00:30:12": "Eu posso?",
+    "00:30:15,00:30:15": "Até a próxima!",
+    "00:30:37,00:30:38": "Não se não, tá entendendo?",
+    "00:30:48,00:30:48": "Valeu."
+  },
+  "words": [
+    {
+      "start": 1812.45,
+      "end": 1812.59,
+      "text": "Eu"
+    },
+    {
+      "start": 1812.59,
+      "end": 1812.85,
+      "text": "posso?"
+    },
+    {
+      "start": 1815.04,
+      "end": 1815.26,
+      "text": "Até"
+    },
+    {
+      "start": 1815.26,
+      "end": 1815.46,
+      "text": "a"
+    },
+    {
+      "start": 1815.46,
+      "end": 1815.46,
+      "text": "próxima!"
+    },
+    {
+      "start": 1837.73,
+      "end": 1837.89,
+      "text": "Não"
+    },
+    {
+      "start": 1837.89,
+      "end": 1838.03,
+      "text": "se"
+    },
+    {
+      "start": 1838.03,
+      "end": 1838.25,
+      "text": "não,"
+    },
+    {
+      "start": 1838.25,
+      "end": 1838.37,
+      "text": "tá"
+    },
+    {
+      "start": 1838.37,
+      "end": 1838.73,
+      "text": "entendendo?"
+    },
+    {
+      "start": 1848.19,
+      "end": 1848.37,
+      "text": "Valeu."
+    }
+  ]
+}

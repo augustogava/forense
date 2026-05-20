@@ -1,0 +1,1332 @@
+{
+  "source_file": "Discumadru_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:07,00:00:08": "Você me acorda?",
+    "00:00:08,00:00:10": "Não, não é isso.",
+    "00:00:12,00:00:13": "Tá, mas eu vou estar junto.",
+    "00:00:18,00:00:18": "Pode demorar.",
+    "00:00:32,00:00:33": "Nossa, você tá comendo de...",
+    "00:00:35,00:00:35": "de madrugada?",
+    "00:00:36,00:00:36": "Sim.",
+    "00:00:37,00:00:39": "Então eu vou acordar de madrugada agora todo dia com você.",
+    "00:00:39,00:00:40": "Não.",
+    "00:00:40,00:00:40": "Sim.",
+    "00:00:40,00:00:41": "Não? Por quê?",
+    "00:00:46,00:00:50": "Não, mas deixa, não tem problema. Sempre acordei.",
+    "00:00:53,00:00:56": "O que vai mudar na minha vida?",
+    "00:00:57,00:00:58": "Nessa altura.",
+    "00:00:59,00:01:01": "Então, deixa que eu dou a hora de mamar.",
+    "00:01:02,00:01:03": "Deixa o leite.",
+    "00:01:09,00:01:17": "Eu não tô mais reclamando, eu tô pegando jeito já, ele tá dormindo mais rápido, só que é cansativo às vezes, ele não dorme, ou o Matias acorda.",
+    "00:01:18,00:01:19": "Eu perdi do dia, não é todo dia.",
+    "00:01:21,00:01:23": "Eu tô conseguindo dormir à tarde, aí eu fico cansada.",
+    "00:01:24,00:01:27": "Quando eu não consigo dormir à tarde, eu fico cansada, enfim, né?",
+    "00:01:27,00:01:30": "Você acabou de reclamar que a madrugada inteira você fica acordada?",
+    "00:01:31,00:01:32": "Eu não falei isso, que é só o que eu disse.",
+    "00:01:33,00:01:33": "Você acabou de falar?",
+    "00:01:35,00:01:53": "Você passa a madrugada acordada? Não falei. Você falou. Não falei. Você não dorme? Tensativo? Não falei. Você falou isso agora. Acabei de falar. Eu não saí nesse assunto. Porque a Caetano estava conversando, você estava falando que é cansativo, que você passa a madrugada.",
+    "00:01:56,00:01:57": "Eu falei que ia te ajudar. Então...",
+    "00:02:26,00:02:27": "Não?",
+    "00:02:31,00:02:36": "Mas era isso que a gente estava vivendo. Você era um companheiro de casa?",
+    "00:02:36,00:02:42": "Um colega que divide apartamento e me ajuda quando eu preciso.",
+    "00:02:44,00:02:45": "Era isso que a gente estava vivendo.",
+    "00:02:46,00:02:47": "Qual é o seu nome, amor?",
+    "00:02:47,00:02:48": "Marido, mulher.",
+    "00:02:48,00:02:49": "O que?",
+    "00:02:49,00:02:50": "Você está vivendo com a mulher.",
+    "00:02:51,00:02:52": "O que é isso?"
+  },
+  "explicit_segments": {
+    "00:00:59,00:01:01": "Então, deixa que eu dou a hora de mamar."
+  },
+  "explicit_count": 1,
+  "words": [
+    {
+      "start": 7.62,
+      "end": 7.7,
+      "text": "Você"
+    },
+    {
+      "start": 7.7,
+      "end": 7.8,
+      "text": "me"
+    },
+    {
+      "start": 7.8,
+      "end": 8.14,
+      "text": "acorda?"
+    },
+    {
+      "start": 8.82,
+      "end": 9.2,
+      "text": "Não,"
+    },
+    {
+      "start": 9.46,
+      "end": 9.72,
+      "text": "não"
+    },
+    {
+      "start": 9.72,
+      "end": 10.66,
+      "text": "é"
+    },
+    {
+      "start": 10.66,
+      "end": 10.9,
+      "text": "isso."
+    },
+    {
+      "start": 12.32,
+      "end": 12.7,
+      "text": "Tá,"
+    },
+    {
+      "start": 12.88,
+      "end": 12.98,
+      "text": "mas"
+    },
+    {
+      "start": 12.98,
+      "end": 13.1,
+      "text": "eu"
+    },
+    {
+      "start": 13.1,
+      "end": 13.2,
+      "text": "vou"
+    },
+    {
+      "start": 13.2,
+      "end": 13.34,
+      "text": "estar"
+    },
+    {
+      "start": 13.34,
+      "end": 13.52,
+      "text": "junto."
+    },
+    {
+      "start": 18.27,
+      "end": 18.43,
+      "text": "Pode"
+    },
+    {
+      "start": 18.43,
+      "end": 18.93,
+      "text": "demorar."
+    },
+    {
+      "start": 32.61,
+      "end": 32.79,
+      "text": "Nossa,"
+    },
+    {
+      "start": 32.81,
+      "end": 32.87,
+      "text": "você"
+    },
+    {
+      "start": 32.87,
+      "end": 32.95,
+      "text": "tá"
+    },
+    {
+      "start": 32.95,
+      "end": 33.35,
+      "text": "comendo"
+    },
+    {
+      "start": 33.35,
+      "end": 33.65,
+      "text": "de..."
+    },
+    {
+      "start": 35.07,
+      "end": 35.47,
+      "text": "de"
+    },
+    {
+      "start": 35.47,
+      "end": 35.87,
+      "text": "madrugada?"
+    },
+    {
+      "start": 36.21,
+      "end": 36.61,
+      "text": "Sim."
+    },
+    {
+      "start": 37.15,
+      "end": 37.55,
+      "text": "Então"
+    },
+    {
+      "start": 37.55,
+      "end": 37.61,
+      "text": "eu"
+    },
+    {
+      "start": 37.61,
+      "end": 37.69,
+      "text": "vou"
+    },
+    {
+      "start": 37.69,
+      "end": 37.89,
+      "text": "acordar"
+    },
+    {
+      "start": 37.89,
+      "end": 37.97,
+      "text": "de"
+    },
+    {
+      "start": 37.97,
+      "end": 38.33,
+      "text": "madrugada"
+    },
+    {
+      "start": 38.33,
+      "end": 38.49,
+      "text": "agora"
+    },
+    {
+      "start": 38.49,
+      "end": 38.73,
+      "text": "todo"
+    },
+    {
+      "start": 38.73,
+      "end": 38.99,
+      "text": "dia"
+    },
+    {
+      "start": 38.99,
+      "end": 39.13,
+      "text": "com"
+    },
+    {
+      "start": 39.13,
+      "end": 39.37,
+      "text": "você."
+    },
+    {
+      "start": 39.63,
+      "end": 40.03,
+      "text": "Não."
+    },
+    {
+      "start": 40.03,
+      "end": 40.29,
+      "text": "Sim."
+    },
+    {
+      "start": 40.57,
+      "end": 40.87,
+      "text": "Não?"
+    },
+    {
+      "start": 40.91,
+      "end": 40.99,
+      "text": "Por"
+    },
+    {
+      "start": 40.99,
+      "end": 41.13,
+      "text": "quê?"
+    },
+    {
+      "start": 46.11,
+      "end": 46.65,
+      "text": "Não,"
+    },
+    {
+      "start": 46.83,
+      "end": 47.07,
+      "text": "mas"
+    },
+    {
+      "start": 47.07,
+      "end": 47.45,
+      "text": "deixa,"
+    },
+    {
+      "start": 47.63,
+      "end": 48.19,
+      "text": "não"
+    },
+    {
+      "start": 48.19,
+      "end": 48.45,
+      "text": "tem"
+    },
+    {
+      "start": 48.45,
+      "end": 48.69,
+      "text": "problema."
+    },
+    {
+      "start": 49.85,
+      "end": 50.39,
+      "text": "Sempre"
+    },
+    {
+      "start": 50.39,
+      "end": 50.87,
+      "text": "acordei."
+    },
+    {
+      "start": 53.79,
+      "end": 54.33,
+      "text": "O"
+    },
+    {
+      "start": 54.33,
+      "end": 55.23,
+      "text": "que"
+    },
+    {
+      "start": 55.23,
+      "end": 55.69,
+      "text": "vai"
+    },
+    {
+      "start": 55.69,
+      "end": 55.99,
+      "text": "mudar"
+    },
+    {
+      "start": 55.99,
+      "end": 56.17,
+      "text": "na"
+    },
+    {
+      "start": 56.17,
+      "end": 56.31,
+      "text": "minha"
+    },
+    {
+      "start": 56.31,
+      "end": 56.65,
+      "text": "vida?"
+    },
+    {
+      "start": 57.13,
+      "end": 57.61,
+      "text": "Nessa"
+    },
+    {
+      "start": 57.61,
+      "end": 58.69,
+      "text": "altura."
+    },
+    {
+      "start": 59.89,
+      "end": 60.37,
+      "text": "Então,"
+    },
+    {
+      "start": 60.37,
+      "end": 60.85,
+      "text": "deixa"
+    },
+    {
+      "start": 60.85,
+      "end": 61.07,
+      "text": "que"
+    },
+    {
+      "start": 61.07,
+      "end": 61.13,
+      "text": "eu"
+    },
+    {
+      "start": 61.13,
+      "end": 61.15,
+      "text": "dou"
+    },
+    {
+      "start": 61.15,
+      "end": 61.27,
+      "text": "a"
+    },
+    {
+      "start": 61.27,
+      "end": 61.39,
+      "text": "hora"
+    },
+    {
+      "start": 61.39,
+      "end": 61.49,
+      "text": "de"
+    },
+    {
+      "start": 61.49,
+      "end": 61.75,
+      "text": "mamar."
+    },
+    {
+      "start": 62.95,
+      "end": 63.43,
+      "text": "Deixa"
+    },
+    {
+      "start": 63.43,
+      "end": 63.59,
+      "text": "o"
+    },
+    {
+      "start": 63.59,
+      "end": 63.87,
+      "text": "leite."
+    },
+    {
+      "start": 69.79,
+      "end": 69.79,
+      "text": "Eu"
+    },
+    {
+      "start": 69.79,
+      "end": 69.81,
+      "text": "não"
+    },
+    {
+      "start": 69.81,
+      "end": 69.97,
+      "text": "tô"
+    },
+    {
+      "start": 69.97,
+      "end": 70.13,
+      "text": "mais"
+    },
+    {
+      "start": 70.13,
+      "end": 70.67,
+      "text": "reclamando,"
+    },
+    {
+      "start": 70.71,
+      "end": 70.77,
+      "text": "eu"
+    },
+    {
+      "start": 70.77,
+      "end": 70.83,
+      "text": "tô"
+    },
+    {
+      "start": 70.83,
+      "end": 71.19,
+      "text": "pegando"
+    },
+    {
+      "start": 71.19,
+      "end": 71.43,
+      "text": "jeito"
+    },
+    {
+      "start": 71.43,
+      "end": 71.93,
+      "text": "já,"
+    },
+    {
+      "start": 72.05,
+      "end": 72.19,
+      "text": "ele"
+    },
+    {
+      "start": 72.19,
+      "end": 72.33,
+      "text": "tá"
+    },
+    {
+      "start": 72.33,
+      "end": 72.63,
+      "text": "dormindo"
+    },
+    {
+      "start": 72.63,
+      "end": 72.79,
+      "text": "mais"
+    },
+    {
+      "start": 72.79,
+      "end": 73.13,
+      "text": "rápido,"
+    },
+    {
+      "start": 73.27,
+      "end": 73.37,
+      "text": "só"
+    },
+    {
+      "start": 73.37,
+      "end": 73.43,
+      "text": "que"
+    },
+    {
+      "start": 73.43,
+      "end": 73.71,
+      "text": "é"
+    },
+    {
+      "start": 73.71,
+      "end": 74.35,
+      "text": "cansativo"
+    },
+    {
+      "start": 74.35,
+      "end": 74.55,
+      "text": "às"
+    },
+    {
+      "start": 74.55,
+      "end": 74.77,
+      "text": "vezes,"
+    },
+    {
+      "start": 74.83,
+      "end": 74.95,
+      "text": "ele"
+    },
+    {
+      "start": 74.95,
+      "end": 75.09,
+      "text": "não"
+    },
+    {
+      "start": 75.09,
+      "end": 75.65,
+      "text": "dorme,"
+    },
+    {
+      "start": 75.67,
+      "end": 76.11,
+      "text": "ou"
+    },
+    {
+      "start": 76.11,
+      "end": 76.19,
+      "text": "o"
+    },
+    {
+      "start": 76.19,
+      "end": 76.51,
+      "text": "Matias"
+    },
+    {
+      "start": 76.51,
+      "end": 77.25,
+      "text": "acorda."
+    },
+    {
+      "start": 78.29,
+      "end": 78.57,
+      "text": "Eu"
+    },
+    {
+      "start": 78.57,
+      "end": 78.83,
+      "text": "perdi"
+    },
+    {
+      "start": 78.83,
+      "end": 78.97,
+      "text": "do"
+    },
+    {
+      "start": 78.97,
+      "end": 79.23,
+      "text": "dia,"
+    },
+    {
+      "start": 79.27,
+      "end": 79.39,
+      "text": "não"
+    },
+    {
+      "start": 79.39,
+      "end": 79.49,
+      "text": "é"
+    },
+    {
+      "start": 79.49,
+      "end": 79.65,
+      "text": "todo"
+    },
+    {
+      "start": 79.65,
+      "end": 79.99,
+      "text": "dia."
+    },
+    {
+      "start": 81.21,
+      "end": 81.49,
+      "text": "Eu"
+    },
+    {
+      "start": 81.49,
+      "end": 81.61,
+      "text": "tô"
+    },
+    {
+      "start": 81.61,
+      "end": 81.91,
+      "text": "conseguindo"
+    },
+    {
+      "start": 81.91,
+      "end": 82.03,
+      "text": "dormir"
+    },
+    {
+      "start": 82.03,
+      "end": 82.17,
+      "text": "à"
+    },
+    {
+      "start": 82.17,
+      "end": 82.59,
+      "text": "tarde,"
+    },
+    {
+      "start": 82.61,
+      "end": 82.71,
+      "text": "aí"
+    },
+    {
+      "start": 82.71,
+      "end": 82.79,
+      "text": "eu"
+    },
+    {
+      "start": 82.79,
+      "end": 82.87,
+      "text": "fico"
+    },
+    {
+      "start": 82.87,
+      "end": 83.65,
+      "text": "cansada."
+    },
+    {
+      "start": 84.59,
+      "end": 84.87,
+      "text": "Quando"
+    },
+    {
+      "start": 84.87,
+      "end": 84.99,
+      "text": "eu"
+    },
+    {
+      "start": 84.99,
+      "end": 85.07,
+      "text": "não"
+    },
+    {
+      "start": 85.07,
+      "end": 85.21,
+      "text": "consigo"
+    },
+    {
+      "start": 85.21,
+      "end": 85.41,
+      "text": "dormir"
+    },
+    {
+      "start": 85.41,
+      "end": 85.55,
+      "text": "à"
+    },
+    {
+      "start": 85.55,
+      "end": 85.83,
+      "text": "tarde,"
+    },
+    {
+      "start": 85.85,
+      "end": 85.97,
+      "text": "eu"
+    },
+    {
+      "start": 85.97,
+      "end": 86.05,
+      "text": "fico"
+    },
+    {
+      "start": 86.05,
+      "end": 86.69,
+      "text": "cansada,"
+    },
+    {
+      "start": 86.69,
+      "end": 86.91,
+      "text": "enfim,"
+    },
+    {
+      "start": 87.11,
+      "end": 87.33,
+      "text": "né?"
+    },
+    {
+      "start": 87.71,
+      "end": 87.99,
+      "text": "Você"
+    },
+    {
+      "start": 87.99,
+      "end": 88.23,
+      "text": "acabou"
+    },
+    {
+      "start": 88.23,
+      "end": 88.35,
+      "text": "de"
+    },
+    {
+      "start": 88.35,
+      "end": 88.83,
+      "text": "reclamar"
+    },
+    {
+      "start": 88.83,
+      "end": 88.87,
+      "text": "que"
+    },
+    {
+      "start": 88.87,
+      "end": 89.01,
+      "text": "a"
+    },
+    {
+      "start": 89.01,
+      "end": 89.81,
+      "text": "madrugada"
+    },
+    {
+      "start": 89.81,
+      "end": 90.19,
+      "text": "inteira"
+    },
+    {
+      "start": 90.19,
+      "end": 90.31,
+      "text": "você"
+    },
+    {
+      "start": 90.31,
+      "end": 90.45,
+      "text": "fica"
+    },
+    {
+      "start": 90.45,
+      "end": 90.85,
+      "text": "acordada?"
+    },
+    {
+      "start": 91.39,
+      "end": 91.67,
+      "text": "Eu"
+    },
+    {
+      "start": 91.67,
+      "end": 91.75,
+      "text": "não"
+    },
+    {
+      "start": 91.75,
+      "end": 91.99,
+      "text": "falei"
+    },
+    {
+      "start": 91.99,
+      "end": 92.27,
+      "text": "isso,"
+    },
+    {
+      "start": 92.27,
+      "end": 92.35,
+      "text": "que"
+    },
+    {
+      "start": 92.35,
+      "end": 92.41,
+      "text": "é"
+    },
+    {
+      "start": 92.41,
+      "end": 92.51,
+      "text": "só"
+    },
+    {
+      "start": 92.51,
+      "end": 92.61,
+      "text": "o"
+    },
+    {
+      "start": 92.61,
+      "end": 92.67,
+      "text": "que"
+    },
+    {
+      "start": 92.67,
+      "end": 92.75,
+      "text": "eu"
+    },
+    {
+      "start": 92.75,
+      "end": 92.87,
+      "text": "disse."
+    },
+    {
+      "start": 93.05,
+      "end": 93.13,
+      "text": "Você"
+    },
+    {
+      "start": 93.13,
+      "end": 93.33,
+      "text": "acabou"
+    },
+    {
+      "start": 93.33,
+      "end": 93.47,
+      "text": "de"
+    },
+    {
+      "start": 93.47,
+      "end": 93.61,
+      "text": "falar?"
+    },
+    {
+      "start": 95.71,
+      "end": 95.81,
+      "text": "Você"
+    },
+    {
+      "start": 95.81,
+      "end": 95.93,
+      "text": "passa"
+    },
+    {
+      "start": 95.93,
+      "end": 96.07,
+      "text": "a"
+    },
+    {
+      "start": 96.07,
+      "end": 96.47,
+      "text": "madrugada"
+    },
+    {
+      "start": 96.47,
+      "end": 97.35,
+      "text": "acordada?"
+    },
+    {
+      "start": 97.65,
+      "end": 98.13,
+      "text": "Não"
+    },
+    {
+      "start": 98.13,
+      "end": 98.43,
+      "text": "falei."
+    },
+    {
+      "start": 98.71,
+      "end": 98.81,
+      "text": "Você"
+    },
+    {
+      "start": 98.81,
+      "end": 99.09,
+      "text": "falou."
+    },
+    {
+      "start": 99.31,
+      "end": 99.43,
+      "text": "Não"
+    },
+    {
+      "start": 99.43,
+      "end": 99.71,
+      "text": "falei."
+    },
+    {
+      "start": 100.13,
+      "end": 100.55,
+      "text": "Você"
+    },
+    {
+      "start": 100.55,
+      "end": 100.71,
+      "text": "não"
+    },
+    {
+      "start": 100.71,
+      "end": 101.19,
+      "text": "dorme?"
+    },
+    {
+      "start": 101.75,
+      "end": 102.23,
+      "text": "Tensativo?"
+    },
+    {
+      "start": 102.71,
+      "end": 103.19,
+      "text": "Não"
+    },
+    {
+      "start": 103.19,
+      "end": 103.77,
+      "text": "falei."
+    },
+    {
+      "start": 104.01,
+      "end": 104.21,
+      "text": "Você"
+    },
+    {
+      "start": 104.21,
+      "end": 104.47,
+      "text": "falou"
+    },
+    {
+      "start": 104.47,
+      "end": 104.67,
+      "text": "isso"
+    },
+    {
+      "start": 104.67,
+      "end": 104.91,
+      "text": "agora."
+    },
+    {
+      "start": 105.97,
+      "end": 106.45,
+      "text": "Acabei"
+    },
+    {
+      "start": 106.45,
+      "end": 106.57,
+      "text": "de"
+    },
+    {
+      "start": 106.57,
+      "end": 106.77,
+      "text": "falar."
+    },
+    {
+      "start": 106.93,
+      "end": 106.99,
+      "text": "Eu"
+    },
+    {
+      "start": 106.99,
+      "end": 107.19,
+      "text": "não"
+    },
+    {
+      "start": 107.19,
+      "end": 107.61,
+      "text": "saí"
+    },
+    {
+      "start": 107.61,
+      "end": 107.77,
+      "text": "nesse"
+    },
+    {
+      "start": 107.77,
+      "end": 108.17,
+      "text": "assunto."
+    },
+    {
+      "start": 108.81,
+      "end": 109.29,
+      "text": "Porque"
+    },
+    {
+      "start": 109.29,
+      "end": 109.53,
+      "text": "a"
+    },
+    {
+      "start": 109.53,
+      "end": 109.87,
+      "text": "Caetano"
+    },
+    {
+      "start": 109.87,
+      "end": 110.27,
+      "text": "estava"
+    },
+    {
+      "start": 110.27,
+      "end": 110.79,
+      "text": "conversando,"
+    },
+    {
+      "start": 110.83,
+      "end": 110.93,
+      "text": "você"
+    },
+    {
+      "start": 110.93,
+      "end": 111.09,
+      "text": "estava"
+    },
+    {
+      "start": 111.09,
+      "end": 111.33,
+      "text": "falando"
+    },
+    {
+      "start": 111.33,
+      "end": 111.47,
+      "text": "que"
+    },
+    {
+      "start": 111.47,
+      "end": 111.55,
+      "text": "é"
+    },
+    {
+      "start": 111.55,
+      "end": 112.19,
+      "text": "cansativo,"
+    },
+    {
+      "start": 112.21,
+      "end": 112.31,
+      "text": "que"
+    },
+    {
+      "start": 112.31,
+      "end": 112.41,
+      "text": "você"
+    },
+    {
+      "start": 112.41,
+      "end": 112.71,
+      "text": "passa"
+    },
+    {
+      "start": 112.71,
+      "end": 112.85,
+      "text": "a"
+    },
+    {
+      "start": 112.85,
+      "end": 113.33,
+      "text": "madrugada."
+    },
+    {
+      "start": 116.0,
+      "end": 116.06,
+      "text": "Eu"
+    },
+    {
+      "start": 116.06,
+      "end": 116.22,
+      "text": "falei"
+    },
+    {
+      "start": 116.22,
+      "end": 116.3,
+      "text": "que"
+    },
+    {
+      "start": 116.3,
+      "end": 116.42,
+      "text": "ia"
+    },
+    {
+      "start": 116.42,
+      "end": 116.46,
+      "text": "te"
+    },
+    {
+      "start": 116.46,
+      "end": 116.7,
+      "text": "ajudar."
+    },
+    {
+      "start": 117.5,
+      "end": 117.78,
+      "text": "Então..."
+    },
+    {
+      "start": 146.19,
+      "end": 147.59,
+      "text": "Não?"
+    },
+    {
+      "start": 151.75,
+      "end": 151.87,
+      "text": "Mas"
+    },
+    {
+      "start": 151.87,
+      "end": 152.03,
+      "text": "era"
+    },
+    {
+      "start": 152.03,
+      "end": 152.31,
+      "text": "isso"
+    },
+    {
+      "start": 152.31,
+      "end": 152.53,
+      "text": "que"
+    },
+    {
+      "start": 152.53,
+      "end": 152.61,
+      "text": "a"
+    },
+    {
+      "start": 152.61,
+      "end": 152.67,
+      "text": "gente"
+    },
+    {
+      "start": 152.67,
+      "end": 152.93,
+      "text": "estava"
+    },
+    {
+      "start": 152.93,
+      "end": 153.43,
+      "text": "vivendo."
+    },
+    {
+      "start": 153.49,
+      "end": 153.77,
+      "text": "Você"
+    },
+    {
+      "start": 153.77,
+      "end": 154.11,
+      "text": "era"
+    },
+    {
+      "start": 154.11,
+      "end": 154.33,
+      "text": "um"
+    },
+    {
+      "start": 154.33,
+      "end": 156.39,
+      "text": "companheiro"
+    },
+    {
+      "start": 156.39,
+      "end": 156.47,
+      "text": "de"
+    },
+    {
+      "start": 156.47,
+      "end": 156.69,
+      "text": "casa?"
+    },
+    {
+      "start": 156.99,
+      "end": 157.25,
+      "text": "Um"
+    },
+    {
+      "start": 157.25,
+      "end": 160.33,
+      "text": "colega"
+    },
+    {
+      "start": 160.33,
+      "end": 160.45,
+      "text": "que"
+    },
+    {
+      "start": 160.45,
+      "end": 160.69,
+      "text": "divide"
+    },
+    {
+      "start": 160.69,
+      "end": 161.39,
+      "text": "apartamento"
+    },
+    {
+      "start": 161.39,
+      "end": 161.73,
+      "text": "e"
+    },
+    {
+      "start": 161.73,
+      "end": 161.85,
+      "text": "me"
+    },
+    {
+      "start": 161.85,
+      "end": 162.15,
+      "text": "ajuda"
+    },
+    {
+      "start": 162.15,
+      "end": 162.37,
+      "text": "quando"
+    },
+    {
+      "start": 162.37,
+      "end": 162.45,
+      "text": "eu"
+    },
+    {
+      "start": 162.45,
+      "end": 162.71,
+      "text": "preciso."
+    },
+    {
+      "start": 164.11,
+      "end": 164.55,
+      "text": "Era"
+    },
+    {
+      "start": 164.55,
+      "end": 164.73,
+      "text": "isso"
+    },
+    {
+      "start": 164.73,
+      "end": 164.79,
+      "text": "que"
+    },
+    {
+      "start": 164.79,
+      "end": 164.89,
+      "text": "a"
+    },
+    {
+      "start": 164.89,
+      "end": 164.95,
+      "text": "gente"
+    },
+    {
+      "start": 164.95,
+      "end": 165.11,
+      "text": "estava"
+    },
+    {
+      "start": 165.11,
+      "end": 165.47,
+      "text": "vivendo."
+    },
+    {
+      "start": 166.39,
+      "end": 166.83,
+      "text": "Qual"
+    },
+    {
+      "start": 166.83,
+      "end": 166.83,
+      "text": "é"
+    },
+    {
+      "start": 166.83,
+      "end": 166.99,
+      "text": "o"
+    },
+    {
+      "start": 166.99,
+      "end": 167.19,
+      "text": "seu"
+    },
+    {
+      "start": 167.19,
+      "end": 167.35,
+      "text": "nome,"
+    },
+    {
+      "start": 167.45,
+      "end": 167.55,
+      "text": "amor?"
+    },
+    {
+      "start": 167.73,
+      "end": 168.15,
+      "text": "Marido,"
+    },
+    {
+      "start": 168.15,
+      "end": 168.35,
+      "text": "mulher."
+    },
+    {
+      "start": 168.73,
+      "end": 168.97,
+      "text": "O"
+    },
+    {
+      "start": 168.97,
+      "end": 169.13,
+      "text": "que?"
+    },
+    {
+      "start": 169.13,
+      "end": 169.41,
+      "text": "Você"
+    },
+    {
+      "start": 169.41,
+      "end": 169.57,
+      "text": "está"
+    },
+    {
+      "start": 169.57,
+      "end": 169.93,
+      "text": "vivendo"
+    },
+    {
+      "start": 169.93,
+      "end": 170.05,
+      "text": "com"
+    },
+    {
+      "start": 170.05,
+      "end": 170.11,
+      "text": "a"
+    },
+    {
+      "start": 170.11,
+      "end": 170.21,
+      "text": "mulher."
+    },
+    {
+      "start": 171.37,
+      "end": 171.81,
+      "text": "O"
+    },
+    {
+      "start": 171.81,
+      "end": 172.25,
+      "text": "que"
+    },
+    {
+      "start": 172.25,
+      "end": 172.27,
+      "text": "é"
+    },
+    {
+      "start": 172.27,
+      "end": 172.45,
+      "text": "isso?"
+    }
+  ]
+}

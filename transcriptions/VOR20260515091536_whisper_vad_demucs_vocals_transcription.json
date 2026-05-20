@@ -1,0 +1,280 @@
+{
+  "source_file": "VOR20260515091536_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:00": ".",
+    "00:17:20,00:17:21": "Apar...",
+    "00:17:22,00:17:22": "Apar...",
+    "00:17:54,00:17:55": "Obrigado.",
+    "00:18:11,00:18:12": "E aí",
+    "00:19:35,00:19:35": "Nenhum.",
+    "00:19:36,00:19:37": "Não é de nunca.",
+    "00:20:34,00:20:34": "Chegou!",
+    "00:21:19,00:21:21": "Não se preocupe com o que for dito, mas com o que for dito.",
+    "00:28:56,00:28:57": "Acompanhe o programa em seus redes sociais.",
+    "00:29:13,00:29:14": ".",
+    "00:30:01,00:30:01": ".",
+    "00:37:28,00:37:29": "Não se esqueça de deixar seu like e compartilhar o vídeo.",
+    "00:37:32,00:37:34": "Nunca me lirei!",
+    "00:43:45,00:43:45": ".",
+    "00:50:50,00:50:51": "Atenção!"
+  },
+  "words": [
+    {
+      "start": 0.07,
+      "end": 0.67,
+      "text": "."
+    },
+    {
+      "start": 1040.32,
+      "end": 1041.3,
+      "text": "Apar..."
+    },
+    {
+      "start": 1042.0,
+      "end": 1042.64,
+      "text": "Apar..."
+    },
+    {
+      "start": 1074.95,
+      "end": 1075.17,
+      "text": "Obrigado."
+    },
+    {
+      "start": 1091.81,
+      "end": 1091.97,
+      "text": "E"
+    },
+    {
+      "start": 1091.97,
+      "end": 1092.17,
+      "text": "aí"
+    },
+    {
+      "start": 1175.08,
+      "end": 1175.44,
+      "text": "Nenhum."
+    },
+    {
+      "start": 1176.18,
+      "end": 1176.66,
+      "text": "Não"
+    },
+    {
+      "start": 1176.66,
+      "end": 1176.84,
+      "text": "é"
+    },
+    {
+      "start": 1176.84,
+      "end": 1177.02,
+      "text": "de"
+    },
+    {
+      "start": 1177.02,
+      "end": 1177.32,
+      "text": "nunca."
+    },
+    {
+      "start": 1234.31,
+      "end": 1234.73,
+      "text": "Chegou!"
+    },
+    {
+      "start": 1279.11,
+      "end": 1279.43,
+      "text": "Não"
+    },
+    {
+      "start": 1279.43,
+      "end": 1279.43,
+      "text": "se"
+    },
+    {
+      "start": 1279.43,
+      "end": 1279.75,
+      "text": "preocupe"
+    },
+    {
+      "start": 1279.75,
+      "end": 1279.93,
+      "text": "com"
+    },
+    {
+      "start": 1279.93,
+      "end": 1279.93,
+      "text": "o"
+    },
+    {
+      "start": 1279.93,
+      "end": 1279.93,
+      "text": "que"
+    },
+    {
+      "start": 1279.93,
+      "end": 1279.93,
+      "text": "for"
+    },
+    {
+      "start": 1279.93,
+      "end": 1279.93,
+      "text": "dito,"
+    },
+    {
+      "start": 1279.93,
+      "end": 1280.21,
+      "text": "mas"
+    },
+    {
+      "start": 1280.21,
+      "end": 1280.81,
+      "text": "com"
+    },
+    {
+      "start": 1280.81,
+      "end": 1280.95,
+      "text": "o"
+    },
+    {
+      "start": 1280.95,
+      "end": 1280.95,
+      "text": "que"
+    },
+    {
+      "start": 1280.95,
+      "end": 1281.03,
+      "text": "for"
+    },
+    {
+      "start": 1281.03,
+      "end": 1281.33,
+      "text": "dito."
+    },
+    {
+      "start": 1736.26,
+      "end": 1736.48,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 1736.48,
+      "end": 1736.66,
+      "text": "o"
+    },
+    {
+      "start": 1736.66,
+      "end": 1736.68,
+      "text": "programa"
+    },
+    {
+      "start": 1736.68,
+      "end": 1736.68,
+      "text": "em"
+    },
+    {
+      "start": 1736.68,
+      "end": 1737.08,
+      "text": "seus"
+    },
+    {
+      "start": 1737.08,
+      "end": 1737.32,
+      "text": "redes"
+    },
+    {
+      "start": 1737.32,
+      "end": 1737.32,
+      "text": "sociais."
+    },
+    {
+      "start": 1753.92,
+      "end": 1754.06,
+      "text": "."
+    },
+    {
+      "start": 1801.7,
+      "end": 1802.0,
+      "text": "."
+    },
+    {
+      "start": 2248.16,
+      "end": 2248.48,
+      "text": "Não"
+    },
+    {
+      "start": 2248.48,
+      "end": 2248.64,
+      "text": "se"
+    },
+    {
+      "start": 2248.64,
+      "end": 2249.3,
+      "text": "esqueça"
+    },
+    {
+      "start": 2249.3,
+      "end": 2249.34,
+      "text": "de"
+    },
+    {
+      "start": 2249.34,
+      "end": 2249.36,
+      "text": "deixar"
+    },
+    {
+      "start": 2249.36,
+      "end": 2249.36,
+      "text": "seu"
+    },
+    {
+      "start": 2249.36,
+      "end": 2249.36,
+      "text": "like"
+    },
+    {
+      "start": 2249.36,
+      "end": 2249.36,
+      "text": "e"
+    },
+    {
+      "start": 2249.36,
+      "end": 2249.36,
+      "text": "compartilhar"
+    },
+    {
+      "start": 2249.36,
+      "end": 2249.36,
+      "text": "o"
+    },
+    {
+      "start": 2249.36,
+      "end": 2249.36,
+      "text": "vídeo."
+    },
+    {
+      "start": 2252.58,
+      "end": 2253.2,
+      "text": "Nunca"
+    },
+    {
+      "start": 2253.2,
+      "end": 2253.52,
+      "text": "me"
+    },
+    {
+      "start": 2253.52,
+      "end": 2254.56,
+      "text": "lirei!"
+    },
+    {
+      "start": 2625.19,
+      "end": 2625.53,
+      "text": "."
+    },
+    {
+      "start": 3050.31,
+      "end": 3051.69,
+      "text": "Atenção!"
+    }
+  ]
+}

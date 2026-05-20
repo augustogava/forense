@@ -1,0 +1,35 @@
+{
+  "source_file": "VOR20260515020731_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:39:04,00:39:06": "Agradecimentos a todos os participantes."
+  },
+  "words": [
+    {
+      "start": 2344.29,
+      "end": 2345.03,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 2345.03,
+      "end": 2345.31,
+      "text": "a"
+    },
+    {
+      "start": 2345.31,
+      "end": 2345.83,
+      "text": "todos"
+    },
+    {
+      "start": 2345.83,
+      "end": 2345.83,
+      "text": "os"
+    },
+    {
+      "start": 2345.83,
+      "end": 2346.51,
+      "text": "participantes."
+    }
+  ]
+}

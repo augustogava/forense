@@ -1,0 +1,313 @@
+{
+  "source_file": "Banhomanha0905_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:00": "Atenção!",
+    "00:00:37,00:00:40": "Todo mundo tirando noites negras e afetando a hora.",
+    "00:00:41,00:00:42": "Não vou fazer coisa doida.",
+    "00:00:42,00:00:42": "Não sei o que é isso.",
+    "00:00:43,00:00:44": "Não sei o que é isso.",
+    "00:00:48,00:00:48": "Puta!",
+    "00:02:26,00:02:30": "Atenção! O que eu estou dizendo é que a gente tem que fazer uma conversa em português.",
+    "00:02:33,00:02:37": "Acompanhe o programa em seus redes sociais.",
+    "00:02:41,00:02:42": "Não se lembra o que é isso?"
+  },
+  "words": [
+    {
+      "start": 0.23,
+      "end": 0.79,
+      "text": "Atenção!"
+    },
+    {
+      "start": 37.93,
+      "end": 38.17,
+      "text": "Todo"
+    },
+    {
+      "start": 38.17,
+      "end": 38.35,
+      "text": "mundo"
+    },
+    {
+      "start": 38.35,
+      "end": 38.71,
+      "text": "tirando"
+    },
+    {
+      "start": 38.71,
+      "end": 39.03,
+      "text": "noites"
+    },
+    {
+      "start": 39.03,
+      "end": 39.41,
+      "text": "negras"
+    },
+    {
+      "start": 39.41,
+      "end": 39.51,
+      "text": "e"
+    },
+    {
+      "start": 39.51,
+      "end": 39.91,
+      "text": "afetando"
+    },
+    {
+      "start": 39.91,
+      "end": 40.07,
+      "text": "a"
+    },
+    {
+      "start": 40.07,
+      "end": 40.29,
+      "text": "hora."
+    },
+    {
+      "start": 41.01,
+      "end": 41.41,
+      "text": "Não"
+    },
+    {
+      "start": 41.41,
+      "end": 41.55,
+      "text": "vou"
+    },
+    {
+      "start": 41.55,
+      "end": 41.71,
+      "text": "fazer"
+    },
+    {
+      "start": 41.71,
+      "end": 41.93,
+      "text": "coisa"
+    },
+    {
+      "start": 41.93,
+      "end": 42.27,
+      "text": "doida."
+    },
+    {
+      "start": 42.35,
+      "end": 42.51,
+      "text": "Não"
+    },
+    {
+      "start": 42.51,
+      "end": 42.51,
+      "text": "sei"
+    },
+    {
+      "start": 42.51,
+      "end": 42.61,
+      "text": "o"
+    },
+    {
+      "start": 42.61,
+      "end": 42.61,
+      "text": "que"
+    },
+    {
+      "start": 42.61,
+      "end": 42.61,
+      "text": "é"
+    },
+    {
+      "start": 42.61,
+      "end": 42.85,
+      "text": "isso."
+    },
+    {
+      "start": 43.59,
+      "end": 43.99,
+      "text": "Não"
+    },
+    {
+      "start": 43.99,
+      "end": 44.19,
+      "text": "sei"
+    },
+    {
+      "start": 44.19,
+      "end": 44.39,
+      "text": "o"
+    },
+    {
+      "start": 44.39,
+      "end": 44.53,
+      "text": "que"
+    },
+    {
+      "start": 44.53,
+      "end": 44.73,
+      "text": "é"
+    },
+    {
+      "start": 44.73,
+      "end": 44.95,
+      "text": "isso."
+    },
+    {
+      "start": 48.53,
+      "end": 48.93,
+      "text": "Puta!"
+    },
+    {
+      "start": 146.63,
+      "end": 147.29,
+      "text": "Atenção!"
+    },
+    {
+      "start": 147.91,
+      "end": 148.35,
+      "text": "O"
+    },
+    {
+      "start": 148.35,
+      "end": 149.41,
+      "text": "que"
+    },
+    {
+      "start": 149.41,
+      "end": 149.83,
+      "text": "eu"
+    },
+    {
+      "start": 149.83,
+      "end": 150.01,
+      "text": "estou"
+    },
+    {
+      "start": 150.01,
+      "end": 150.01,
+      "text": "dizendo"
+    },
+    {
+      "start": 150.01,
+      "end": 150.01,
+      "text": "é"
+    },
+    {
+      "start": 150.01,
+      "end": 150.01,
+      "text": "que"
+    },
+    {
+      "start": 150.01,
+      "end": 150.01,
+      "text": "a"
+    },
+    {
+      "start": 150.01,
+      "end": 150.01,
+      "text": "gente"
+    },
+    {
+      "start": 150.01,
+      "end": 150.01,
+      "text": "tem"
+    },
+    {
+      "start": 150.01,
+      "end": 150.01,
+      "text": "que"
+    },
+    {
+      "start": 150.01,
+      "end": 150.23,
+      "text": "fazer"
+    },
+    {
+      "start": 150.23,
+      "end": 150.43,
+      "text": "uma"
+    },
+    {
+      "start": 150.43,
+      "end": 150.43,
+      "text": "conversa"
+    },
+    {
+      "start": 150.43,
+      "end": 150.43,
+      "text": "em"
+    },
+    {
+      "start": 150.43,
+      "end": 150.63,
+      "text": "português."
+    },
+    {
+      "start": 153.73,
+      "end": 154.23,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 154.23,
+      "end": 154.43,
+      "text": "o"
+    },
+    {
+      "start": 154.43,
+      "end": 154.55,
+      "text": "programa"
+    },
+    {
+      "start": 154.55,
+      "end": 154.55,
+      "text": "em"
+    },
+    {
+      "start": 154.55,
+      "end": 154.65,
+      "text": "seus"
+    },
+    {
+      "start": 154.65,
+      "end": 155.15,
+      "text": "redes"
+    },
+    {
+      "start": 155.15,
+      "end": 157.57,
+      "text": "sociais."
+    },
+    {
+      "start": 161.95,
+      "end": 162.09,
+      "text": "Não"
+    },
+    {
+      "start": 162.09,
+      "end": 162.23,
+      "text": "se"
+    },
+    {
+      "start": 162.23,
+      "end": 162.23,
+      "text": "lembra"
+    },
+    {
+      "start": 162.23,
+      "end": 162.23,
+      "text": "o"
+    },
+    {
+      "start": 162.23,
+      "end": 162.37,
+      "text": "que"
+    },
+    {
+      "start": 162.37,
+      "end": 162.53,
+      "text": "é"
+    },
+    {
+      "start": 162.53,
+      "end": 162.69,
+      "text": "isso?"
+    }
+  ]
+}

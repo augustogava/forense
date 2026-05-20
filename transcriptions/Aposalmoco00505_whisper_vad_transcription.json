@@ -1,0 +1,752 @@
+{
+  "source_file": "Aposalmoco00505_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:08:50,00:08:51": "Existem duas formas.",
+    "00:09:00,00:09:00": "Não é só...",
+    "00:13:44,00:13:44": "Não há dúvidas.",
+    "00:20:36,00:20:37": "Não há muita coisa.",
+    "00:57:44,00:57:46": "Abre as portas.",
+    "00:57:51,00:57:53": "Agradecimentos a todos os participantes.",
+    "01:24:43,01:24:44": "Obrigada.",
+    "01:34:50,01:34:50": "Não há dúvida.",
+    "01:35:01,01:35:02": "Atenção!",
+    "01:35:07,01:35:22": "É possível que saia de um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um casal, um",
+    "01:35:37,01:35:38": "Atenção!",
+    "01:37:53,01:37:56": "A CIDADE NO BRASIL",
+    "01:37:59,01:37:59": "."
+  },
+  "words": [
+    {
+      "start": 530.4,
+      "end": 530.76,
+      "text": "Existem"
+    },
+    {
+      "start": 530.76,
+      "end": 530.94,
+      "text": "duas"
+    },
+    {
+      "start": 530.94,
+      "end": 531.24,
+      "text": "formas."
+    },
+    {
+      "start": 540.26,
+      "end": 540.44,
+      "text": "Não"
+    },
+    {
+      "start": 540.44,
+      "end": 540.44,
+      "text": "é"
+    },
+    {
+      "start": 540.44,
+      "end": 540.88,
+      "text": "só..."
+    },
+    {
+      "start": 824.26,
+      "end": 824.36,
+      "text": "Não"
+    },
+    {
+      "start": 824.36,
+      "end": 824.44,
+      "text": "há"
+    },
+    {
+      "start": 824.44,
+      "end": 824.88,
+      "text": "dúvidas."
+    },
+    {
+      "start": 1236.55,
+      "end": 1236.87,
+      "text": "Não"
+    },
+    {
+      "start": 1236.87,
+      "end": 1237.01,
+      "text": "há"
+    },
+    {
+      "start": 1237.01,
+      "end": 1237.21,
+      "text": "muita"
+    },
+    {
+      "start": 1237.21,
+      "end": 1237.51,
+      "text": "coisa."
+    },
+    {
+      "start": 3464.77,
+      "end": 3465.11,
+      "text": "Abre"
+    },
+    {
+      "start": 3465.11,
+      "end": 3465.35,
+      "text": "as"
+    },
+    {
+      "start": 3465.35,
+      "end": 3466.67,
+      "text": "portas."
+    },
+    {
+      "start": 3471.94,
+      "end": 3472.54,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 3472.54,
+      "end": 3472.54,
+      "text": "a"
+    },
+    {
+      "start": 3472.54,
+      "end": 3472.54,
+      "text": "todos"
+    },
+    {
+      "start": 3472.54,
+      "end": 3472.78,
+      "text": "os"
+    },
+    {
+      "start": 3472.78,
+      "end": 3473.98,
+      "text": "participantes."
+    },
+    {
+      "start": 5083.05,
+      "end": 5084.35,
+      "text": "Obrigada."
+    },
+    {
+      "start": 5690.11,
+      "end": 5690.35,
+      "text": "Não"
+    },
+    {
+      "start": 5690.35,
+      "end": 5690.41,
+      "text": "há"
+    },
+    {
+      "start": 5690.41,
+      "end": 5690.41,
+      "text": "dúvida."
+    },
+    {
+      "start": 5701.44,
+      "end": 5702.0,
+      "text": "Atenção!"
+    },
+    {
+      "start": 5707.84,
+      "end": 5707.94,
+      "text": "É"
+    },
+    {
+      "start": 5707.94,
+      "end": 5708.56,
+      "text": "possível"
+    },
+    {
+      "start": 5708.56,
+      "end": 5708.82,
+      "text": "que"
+    },
+    {
+      "start": 5708.82,
+      "end": 5709.26,
+      "text": "saia"
+    },
+    {
+      "start": 5709.26,
+      "end": 5710.62,
+      "text": "de"
+    },
+    {
+      "start": 5710.62,
+      "end": 5710.7,
+      "text": "um"
+    },
+    {
+      "start": 5710.7,
+      "end": 5710.94,
+      "text": "casal,"
+    },
+    {
+      "start": 5710.94,
+      "end": 5710.94,
+      "text": "um"
+    },
+    {
+      "start": 5710.94,
+      "end": 5711.26,
+      "text": "casal,"
+    },
+    {
+      "start": 5711.26,
+      "end": 5711.96,
+      "text": "um"
+    },
+    {
+      "start": 5711.96,
+      "end": 5712.74,
+      "text": "casal,"
+    },
+    {
+      "start": 5712.78,
+      "end": 5712.96,
+      "text": "um"
+    },
+    {
+      "start": 5712.96,
+      "end": 5714.42,
+      "text": "casal,"
+    },
+    {
+      "start": 5714.94,
+      "end": 5714.94,
+      "text": "um"
+    },
+    {
+      "start": 5714.94,
+      "end": 5714.94,
+      "text": "casal,"
+    },
+    {
+      "start": 5715.26,
+      "end": 5715.36,
+      "text": "um"
+    },
+    {
+      "start": 5715.36,
+      "end": 5715.7,
+      "text": "casal,"
+    },
+    {
+      "start": 5715.7,
+      "end": 5716.26,
+      "text": "um"
+    },
+    {
+      "start": 5716.26,
+      "end": 5716.58,
+      "text": "casal,"
+    },
+    {
+      "start": 5716.86,
+      "end": 5716.86,
+      "text": "um"
+    },
+    {
+      "start": 5716.86,
+      "end": 5718.32,
+      "text": "casal,"
+    },
+    {
+      "start": 5718.32,
+      "end": 5718.54,
+      "text": "um"
+    },
+    {
+      "start": 5718.54,
+      "end": 5718.54,
+      "text": "casal,"
+    },
+    {
+      "start": 5718.54,
+      "end": 5718.58,
+      "text": "um"
+    },
+    {
+      "start": 5718.58,
+      "end": 5718.98,
+      "text": "casal,"
+    },
+    {
+      "start": 5719.36,
+      "end": 5719.4,
+      "text": "um"
+    },
+    {
+      "start": 5719.4,
+      "end": 5720.14,
+      "text": "casal,"
+    },
+    {
+      "start": 5720.16,
+      "end": 5720.3,
+      "text": "um"
+    },
+    {
+      "start": 5720.3,
+      "end": 5720.3,
+      "text": "casal,"
+    },
+    {
+      "start": 5720.3,
+      "end": 5720.74,
+      "text": "um"
+    },
+    {
+      "start": 5720.74,
+      "end": 5721.12,
+      "text": "casal,"
+    },
+    {
+      "start": 5721.12,
+      "end": 5721.44,
+      "text": "um"
+    },
+    {
+      "start": 5721.44,
+      "end": 5721.44,
+      "text": "casal,"
+    },
+    {
+      "start": 5721.44,
+      "end": 5721.74,
+      "text": "um"
+    },
+    {
+      "start": 5721.74,
+      "end": 5722.06,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.22,
+      "end": 5722.22,
+      "text": "um"
+    },
+    {
+      "start": 5722.22,
+      "end": 5722.22,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.38,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "casal,"
+    },
+    {
+      "start": 5722.68,
+      "end": 5722.68,
+      "text": "um"
+    },
+    {
+      "start": 5737.51,
+      "end": 5738.45,
+      "text": "Atenção!"
+    },
+    {
+      "start": 5873.06,
+      "end": 5874.46,
+      "text": "A"
+    },
+    {
+      "start": 5874.46,
+      "end": 5875.86,
+      "text": "CIDADE"
+    },
+    {
+      "start": 5875.86,
+      "end": 5875.88,
+      "text": "NO"
+    },
+    {
+      "start": 5875.88,
+      "end": 5876.6,
+      "text": "BRASIL"
+    },
+    {
+      "start": 5879.07,
+      "end": 5879.35,
+      "text": "."
+    }
+  ]
+}

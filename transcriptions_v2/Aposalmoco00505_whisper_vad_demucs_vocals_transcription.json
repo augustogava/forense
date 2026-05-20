@@ -1,0 +1,67 @@
+{
+  "source_file": "Aposalmoco00505_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 5967.2,
+  "segments": {
+    "01:07:22,01:08:37": "O que é isso?",
+    "01:08:37,01:08:39": "O que é isso?",
+    "01:19:22,01:19:23": "Obrigada."
+  },
+  "words": [
+    {
+      "start": 4042.98,
+      "end": 4043.54,
+      "text": "O",
+      "probability": 0.214
+    },
+    {
+      "start": 4116.75,
+      "end": 4116.89,
+      "text": "que",
+      "probability": 0.9
+    },
+    {
+      "start": 4116.89,
+      "end": 4116.97,
+      "text": "é",
+      "probability": 0.926
+    },
+    {
+      "start": 4116.97,
+      "end": 4117.13,
+      "text": "isso?",
+      "probability": 0.969
+    },
+    {
+      "start": 4117.45,
+      "end": 4117.85,
+      "text": "O",
+      "probability": 0.743
+    },
+    {
+      "start": 4119.16,
+      "end": 4119.44,
+      "text": "que",
+      "probability": 0.987
+    },
+    {
+      "start": 4119.44,
+      "end": 4119.58,
+      "text": "é",
+      "probability": 0.996
+    },
+    {
+      "start": 4119.58,
+      "end": 4119.78,
+      "text": "isso?",
+      "probability": 0.996
+    },
+    {
+      "start": 4762.11,
+      "end": 4763.41,
+      "text": "Obrigada.",
+      "probability": 0.339
+    }
+  ]
+}

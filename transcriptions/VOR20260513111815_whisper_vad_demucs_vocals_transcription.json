@@ -1,0 +1,77 @@
+{
+  "source_file": "VOR20260513111815_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:02:21,00:02:21": "Atenção!",
+    "00:03:44,00:03:46": "Agradecimentos a todos os convidados.",
+    "00:12:47,00:12:47": ".",
+    "00:27:37,00:27:39": "Música",
+    "00:34:02,00:34:02": ".",
+    "00:38:48,00:38:48": "Obrigado.",
+    "00:39:51,00:39:51": ".",
+    "00:54:19,00:54:20": "Atenção!"
+  },
+  "words": [
+    {
+      "start": 141.03,
+      "end": 141.47,
+      "text": "Atenção!"
+    },
+    {
+      "start": 224.61,
+      "end": 225.37,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 225.37,
+      "end": 225.37,
+      "text": "a"
+    },
+    {
+      "start": 225.37,
+      "end": 225.73,
+      "text": "todos"
+    },
+    {
+      "start": 225.73,
+      "end": 225.73,
+      "text": "os"
+    },
+    {
+      "start": 225.73,
+      "end": 226.31,
+      "text": "convidados."
+    },
+    {
+      "start": 767.55,
+      "end": 767.91,
+      "text": "."
+    },
+    {
+      "start": 1657.61,
+      "end": 1659.01,
+      "text": "Música"
+    },
+    {
+      "start": 2042.53,
+      "end": 2042.95,
+      "text": "."
+    },
+    {
+      "start": 2328.55,
+      "end": 2328.91,
+      "text": "Obrigado."
+    },
+    {
+      "start": 2391.39,
+      "end": 2391.73,
+      "text": "."
+    },
+    {
+      "start": 3259.84,
+      "end": 3260.34,
+      "text": "Atenção!"
+    }
+  ]
+}

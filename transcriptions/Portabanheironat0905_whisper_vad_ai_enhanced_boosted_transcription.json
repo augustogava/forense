@@ -1,0 +1,47 @@
+{
+  "source_file": "Portabanheironat0905_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:32,00:00:34": "Agradecimentos a todos os convidados.",
+    "00:01:17,00:01:17": "Obrigado.",
+    "00:02:36,00:02:38": "Atenção!"
+  },
+  "words": [
+    {
+      "start": 32.19,
+      "end": 33.01,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 33.01,
+      "end": 33.17,
+      "text": "a"
+    },
+    {
+      "start": 33.17,
+      "end": 33.67,
+      "text": "todos"
+    },
+    {
+      "start": 33.67,
+      "end": 33.87,
+      "text": "os"
+    },
+    {
+      "start": 33.87,
+      "end": 34.27,
+      "text": "convidados."
+    },
+    {
+      "start": 77.15,
+      "end": 77.65,
+      "text": "Obrigado."
+    },
+    {
+      "start": 156.71,
+      "end": 158.79,
+      "text": "Atenção!"
+    }
+  ]
+}

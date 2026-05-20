@@ -1,0 +1,99 @@
+{
+  "source_file": "New_Recording_9_vocal_enhanced.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:05:54,00:05:55": "Muito bom, muito bom, muito bom.",
+    "00:11:32,00:11:33": "Atenção menininha!",
+    "00:12:36,00:12:36": ".",
+    "00:28:50,00:28:50": "Abre as portas.",
+    "00:29:09,00:29:10": "Aumenta o imóvel de assistência."
+  },
+  "words": [
+    {
+      "start": 354.08,
+      "end": 354.32,
+      "text": "Muito"
+    },
+    {
+      "start": 354.32,
+      "end": 354.68,
+      "text": "bom,"
+    },
+    {
+      "start": 354.8,
+      "end": 354.9,
+      "text": "muito"
+    },
+    {
+      "start": 354.9,
+      "end": 355.06,
+      "text": "bom,"
+    },
+    {
+      "start": 355.3,
+      "end": 355.32,
+      "text": "muito"
+    },
+    {
+      "start": 355.32,
+      "end": 355.42,
+      "text": "bom."
+    },
+    {
+      "start": 692.45,
+      "end": 692.71,
+      "text": "Atenção"
+    },
+    {
+      "start": 692.71,
+      "end": 693.29,
+      "text": "menininha!"
+    },
+    {
+      "start": 756.51,
+      "end": 756.77,
+      "text": "."
+    },
+    {
+      "start": 1730.05,
+      "end": 1730.15,
+      "text": "Abre"
+    },
+    {
+      "start": 1730.15,
+      "end": 1730.19,
+      "text": "as"
+    },
+    {
+      "start": 1730.19,
+      "end": 1730.73,
+      "text": "portas."
+    },
+    {
+      "start": 1749.19,
+      "end": 1749.55,
+      "text": "Aumenta"
+    },
+    {
+      "start": 1749.55,
+      "end": 1749.55,
+      "text": "o"
+    },
+    {
+      "start": 1749.55,
+      "end": 1749.81,
+      "text": "imóvel"
+    },
+    {
+      "start": 1749.81,
+      "end": 1749.93,
+      "text": "de"
+    },
+    {
+      "start": 1749.93,
+      "end": 1750.31,
+      "text": "assistência."
+    }
+  ]
+}

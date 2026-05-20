@@ -1,0 +1,93 @@
+{
+  "source_file": "VOR20260514210031_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:17:47,00:17:47": "Não me manda ver!",
+    "00:39:54,00:39:55": "Que isso, rapazes!",
+    "00:45:02,00:45:02": "Não há dúvida que isso é um problema.",
+    "00:45:05,00:45:05": "."
+  },
+  "words": [
+    {
+      "start": 1067.27,
+      "end": 1067.39,
+      "text": "Não"
+    },
+    {
+      "start": 1067.39,
+      "end": 1067.39,
+      "text": "me"
+    },
+    {
+      "start": 1067.39,
+      "end": 1067.55,
+      "text": "manda"
+    },
+    {
+      "start": 1067.55,
+      "end": 1067.67,
+      "text": "ver!"
+    },
+    {
+      "start": 2394.08,
+      "end": 2394.22,
+      "text": "Que"
+    },
+    {
+      "start": 2394.22,
+      "end": 2394.46,
+      "text": "isso,"
+    },
+    {
+      "start": 2394.5,
+      "end": 2395.16,
+      "text": "rapazes!"
+    },
+    {
+      "start": 2702.05,
+      "end": 2702.05,
+      "text": "Não"
+    },
+    {
+      "start": 2702.05,
+      "end": 2702.19,
+      "text": "há"
+    },
+    {
+      "start": 2702.19,
+      "end": 2702.31,
+      "text": "dúvida"
+    },
+    {
+      "start": 2702.31,
+      "end": 2702.39,
+      "text": "que"
+    },
+    {
+      "start": 2702.39,
+      "end": 2702.51,
+      "text": "isso"
+    },
+    {
+      "start": 2702.51,
+      "end": 2702.51,
+      "text": "é"
+    },
+    {
+      "start": 2702.51,
+      "end": 2702.51,
+      "text": "um"
+    },
+    {
+      "start": 2702.51,
+      "end": 2702.63,
+      "text": "problema."
+    },
+    {
+      "start": 2705.35,
+      "end": 2705.65,
+      "text": "."
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+{
+  "source_file": "Descicarro_forensic_full.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:07": "Não, não, Matias! Matias! Ele chutou ele.",
+    "00:00:47,00:00:54": "Não, você vai cair, Matias.",
+    "00:00:55,00:00:56": "Vai cair daí.",
+    "00:01:02,00:01:03": "E aí",
+    "00:09:45,00:09:47": "Não tem como não ter, não? É uma perfeição agora, né?",
+    "00:09:53,00:09:53": "É claro tudo.",
+    "00:10:01,00:10:03": "Não, não é assim. Não tem mais?",
+    "00:10:51,00:10:52": "Abre-se e nos reconheça!",
+    "00:10:55,00:10:56": "Obrigado.",
+    "00:11:16,00:11:17": ".",
+    "00:11:22,00:11:24": "O que é isso?",
+    "00:11:26,00:11:26": "O que é isso?",
+    "00:11:39,00:11:40": "Nossa Senhora!",
+    "00:11:45,00:11:46": "Olha, como você guarda.",
+    "00:12:01,00:12:02": "O que é que o fã do FNP quer saber?"
+  },
+  "words": [
+    {
+      "start": 0.03,
+      "end": 1.67,
+      "text": "Não,"
+    },
+    {
+      "start": 1.67,
+      "end": 1.99,
+      "text": "não,"
+    },
+    {
+      "start": 2.01,
+      "end": 2.77,
+      "text": "Matias!"
+    },
+    {
+      "start": 3.35,
+      "end": 4.19,
+      "text": "Matias!"
+    },
+    {
+      "start": 5.67,
+      "end": 6.51,
+      "text": "Ele"
+    },
+    {
+      "start": 6.51,
+      "end": 7.01,
+      "text": "chutou"
+    },
+    {
+      "start": 7.01,
+      "end": 7.21,
+      "text": "ele."
+    },
+    {
+      "start": 47.04,
+      "end": 47.56,
+      "text": "Não,"
+    },
+    {
+      "start": 53.88,
+      "end": 54.14,
+      "text": "você"
+    },
+    {
+      "start": 54.14,
+      "end": 54.24,
+      "text": "vai"
+    },
+    {
+      "start": 54.24,
+      "end": 54.44,
+      "text": "cair,"
+    },
+    {
+      "start": 54.5,
+      "end": 54.78,
+      "text": "Matias."
+    },
+    {
+      "start": 55.32,
+      "end": 55.84,
+      "text": "Vai"
+    },
+    {
+      "start": 55.84,
+      "end": 56.08,
+      "text": "cair"
+    },
+    {
+      "start": 56.08,
+      "end": 56.2,
+      "text": "daí."
+    },
+    {
+      "start": 62.2,
+      "end": 62.84,
+      "text": "E"
+    },
+    {
+      "start": 62.84,
+      "end": 63.7,
+      "text": "aí"
+    },
+    {
+      "start": 585.79,
+      "end": 585.87,
+      "text": "Não"
+    },
+    {
+      "start": 585.87,
+      "end": 585.91,
+      "text": "tem"
+    },
+    {
+      "start": 585.91,
+      "end": 585.91,
+      "text": "como"
+    },
+    {
+      "start": 585.91,
+      "end": 586.11,
+      "text": "não"
+    },
+    {
+      "start": 586.11,
+      "end": 586.25,
+      "text": "ter,"
+    },
+    {
+      "start": 586.37,
+      "end": 586.51,
+      "text": "não?"
+    },
+    {
+      "start": 586.81,
+      "end": 587.07,
+      "text": "É"
+    },
+    {
+      "start": 587.07,
+      "end": 587.15,
+      "text": "uma"
+    },
+    {
+      "start": 587.15,
+      "end": 587.57,
+      "text": "perfeição"
+    },
+    {
+      "start": 587.57,
+      "end": 587.71,
+      "text": "agora,"
+    },
+    {
+      "start": 587.81,
+      "end": 587.95,
+      "text": "né?"
+    },
+    {
+      "start": 593.31,
+      "end": 593.57,
+      "text": "É"
+    },
+    {
+      "start": 593.57,
+      "end": 593.67,
+      "text": "claro"
+    },
+    {
+      "start": 593.67,
+      "end": 593.91,
+      "text": "tudo."
+    },
+    {
+      "start": 601.09,
+      "end": 601.19,
+      "text": "Não,"
+    },
+    {
+      "start": 601.29,
+      "end": 601.51,
+      "text": "não"
+    },
+    {
+      "start": 601.51,
+      "end": 601.59,
+      "text": "é"
+    },
+    {
+      "start": 601.59,
+      "end": 601.75,
+      "text": "assim."
+    },
+    {
+      "start": 602.95,
+      "end": 603.31,
+      "text": "Não"
+    },
+    {
+      "start": 603.31,
+      "end": 603.53,
+      "text": "tem"
+    },
+    {
+      "start": 603.53,
+      "end": 603.73,
+      "text": "mais?"
+    },
+    {
+      "start": 651.14,
+      "end": 651.32,
+      "text": "Abre"
+    },
+    {
+      "start": 651.32,
+      "end": 651.48,
+      "text": "-se"
+    },
+    {
+      "start": 651.48,
+      "end": 651.48,
+      "text": "e"
+    },
+    {
+      "start": 651.48,
+      "end": 651.58,
+      "text": "nos"
+    },
+    {
+      "start": 651.58,
+      "end": 652.18,
+      "text": "reconheça!"
+    },
+    {
+      "start": 655.81,
+      "end": 656.09,
+      "text": "Obrigado."
+    },
+    {
+      "start": 676.9,
+      "end": 677.1,
+      "text": "."
+    },
+    {
+      "start": 682.35,
+      "end": 682.59,
+      "text": "O"
+    },
+    {
+      "start": 682.59,
+      "end": 682.67,
+      "text": "que"
+    },
+    {
+      "start": 682.67,
+      "end": 682.89,
+      "text": "é"
+    },
+    {
+      "start": 682.89,
+      "end": 684.35,
+      "text": "isso?"
+    },
+    {
+      "start": 686.15,
+      "end": 686.29,
+      "text": "O"
+    },
+    {
+      "start": 686.29,
+      "end": 686.47,
+      "text": "que"
+    },
+    {
+      "start": 686.47,
+      "end": 686.71,
+      "text": "é"
+    },
+    {
+      "start": 686.71,
+      "end": 686.73,
+      "text": "isso?"
+    },
+    {
+      "start": 699.07,
+      "end": 700.11,
+      "text": "Nossa"
+    },
+    {
+      "start": 700.11,
+      "end": 700.63,
+      "text": "Senhora!"
+    },
+    {
+      "start": 705.03,
+      "end": 705.73,
+      "text": "Olha,"
+    },
+    {
+      "start": 705.95,
+      "end": 706.21,
+      "text": "como"
+    },
+    {
+      "start": 706.21,
+      "end": 706.39,
+      "text": "você"
+    },
+    {
+      "start": 706.39,
+      "end": 706.91,
+      "text": "guarda."
+    },
+    {
+      "start": 721.99,
+      "end": 722.15,
+      "text": "O"
+    },
+    {
+      "start": 722.15,
+      "end": 722.15,
+      "text": "que"
+    },
+    {
+      "start": 722.15,
+      "end": 722.15,
+      "text": "é"
+    },
+    {
+      "start": 722.15,
+      "end": 722.15,
+      "text": "que"
+    },
+    {
+      "start": 722.15,
+      "end": 722.21,
+      "text": "o"
+    },
+    {
+      "start": 722.21,
+      "end": 722.43,
+      "text": "fã"
+    },
+    {
+      "start": 722.43,
+      "end": 722.49,
+      "text": "do"
+    },
+    {
+      "start": 722.49,
+      "end": 722.67,
+      "text": "FNP"
+    },
+    {
+      "start": 722.67,
+      "end": 722.89,
+      "text": "quer"
+    },
+    {
+      "start": 722.89,
+      "end": 722.97,
+      "text": "saber?"
+    }
+  ]
+}

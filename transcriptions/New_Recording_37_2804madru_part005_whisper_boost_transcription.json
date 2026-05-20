@@ -1,0 +1,15 @@
+{
+  "source_file": "New_Recording_37_2804madru_part005_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "01:15:10,01:15:10": "."
+  },
+  "words": [
+    {
+      "start": 4510.59,
+      "end": 4510.85,
+      "text": "."
+    }
+  ]
+}

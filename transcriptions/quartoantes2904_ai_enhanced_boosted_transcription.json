@@ -1,0 +1,37 @@
+{
+  "source_file": "quartoantes2904_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:01": "Atenção!",
+    "00:00:29,00:00:29": "Não há dúvida.",
+    "00:00:39,00:00:40": "Aplausos"
+  },
+  "words": [
+    {
+      "start": 0.64,
+      "end": 1.38,
+      "text": "Atenção!"
+    },
+    {
+      "start": 29.28,
+      "end": 29.38,
+      "text": "Não"
+    },
+    {
+      "start": 29.38,
+      "end": 29.5,
+      "text": "há"
+    },
+    {
+      "start": 29.5,
+      "end": 29.76,
+      "text": "dúvida."
+    },
+    {
+      "start": 39.14,
+      "end": 40.54,
+      "text": "Aplausos"
+    }
+  ]
+}

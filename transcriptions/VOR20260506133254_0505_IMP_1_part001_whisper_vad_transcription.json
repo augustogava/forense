@@ -1,0 +1,7 @@
+{
+  "source_file": "VOR20260506133254_0505_IMP_1_part001_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "vad": "no_speech_detected",
+  "segments": {}
+}

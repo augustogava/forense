@@ -1,0 +1,287 @@
+{
+  "source_file": "Carro0905_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:04,00:00:05": "Podemos fazer isso no carro?",
+    "00:04:57,00:04:57": "Não tem que dizer nada.",
+    "00:12:10,00:12:10": "Hã?",
+    "00:12:12,00:12:12": "Assédio.",
+    "00:12:16,00:12:16": "Não, pode ir na frente.",
+    "00:12:26,00:12:30": "Não dá pra fumar ali com a gente hoje, né? Aqui no carro. Não dá.",
+    "00:12:38,00:12:39": "Eu sei que...",
+    "00:13:05,00:13:06": "Você...",
+    "00:13:43,00:13:44": "E aí",
+    "00:14:27,00:14:27": "E aí",
+    "00:14:43,00:14:44": "Não há amor.",
+    "00:14:52,00:14:54": "O que é isso?",
+    "00:14:56,00:14:57": "O que é isso?",
+    "00:15:34,00:15:35": "."
+  },
+  "explicit_segments": {
+    "00:12:12,00:12:12": "Assédio."
+  },
+  "explicit_count": 1,
+  "words": [
+    {
+      "start": 4.32,
+      "end": 4.5,
+      "text": "Podemos"
+    },
+    {
+      "start": 4.5,
+      "end": 4.6,
+      "text": "fazer"
+    },
+    {
+      "start": 4.6,
+      "end": 4.76,
+      "text": "isso"
+    },
+    {
+      "start": 4.76,
+      "end": 4.82,
+      "text": "no"
+    },
+    {
+      "start": 4.82,
+      "end": 5.06,
+      "text": "carro?"
+    },
+    {
+      "start": 297.09,
+      "end": 297.19,
+      "text": "Não"
+    },
+    {
+      "start": 297.19,
+      "end": 297.37,
+      "text": "tem"
+    },
+    {
+      "start": 297.37,
+      "end": 297.51,
+      "text": "que"
+    },
+    {
+      "start": 297.51,
+      "end": 297.73,
+      "text": "dizer"
+    },
+    {
+      "start": 297.73,
+      "end": 297.89,
+      "text": "nada."
+    },
+    {
+      "start": 730.27,
+      "end": 730.41,
+      "text": "Hã?"
+    },
+    {
+      "start": 732.01,
+      "end": 732.23,
+      "text": "Assédio."
+    },
+    {
+      "start": 736.16,
+      "end": 736.32,
+      "text": "Não,"
+    },
+    {
+      "start": 736.32,
+      "end": 736.52,
+      "text": "pode"
+    },
+    {
+      "start": 736.52,
+      "end": 736.64,
+      "text": "ir"
+    },
+    {
+      "start": 736.64,
+      "end": 736.66,
+      "text": "na"
+    },
+    {
+      "start": 736.66,
+      "end": 736.88,
+      "text": "frente."
+    },
+    {
+      "start": 746.34,
+      "end": 746.4,
+      "text": "Não"
+    },
+    {
+      "start": 746.4,
+      "end": 746.58,
+      "text": "dá"
+    },
+    {
+      "start": 746.58,
+      "end": 746.74,
+      "text": "pra"
+    },
+    {
+      "start": 746.74,
+      "end": 747.1,
+      "text": "fumar"
+    },
+    {
+      "start": 747.1,
+      "end": 747.24,
+      "text": "ali"
+    },
+    {
+      "start": 747.24,
+      "end": 747.42,
+      "text": "com"
+    },
+    {
+      "start": 747.42,
+      "end": 747.5,
+      "text": "a"
+    },
+    {
+      "start": 747.5,
+      "end": 747.7,
+      "text": "gente"
+    },
+    {
+      "start": 747.7,
+      "end": 748.04,
+      "text": "hoje,"
+    },
+    {
+      "start": 748.18,
+      "end": 749.02,
+      "text": "né?"
+    },
+    {
+      "start": 749.12,
+      "end": 749.38,
+      "text": "Aqui"
+    },
+    {
+      "start": 749.38,
+      "end": 749.5,
+      "text": "no"
+    },
+    {
+      "start": 749.5,
+      "end": 749.8,
+      "text": "carro."
+    },
+    {
+      "start": 750.0,
+      "end": 750.28,
+      "text": "Não"
+    },
+    {
+      "start": 750.28,
+      "end": 750.5,
+      "text": "dá."
+    },
+    {
+      "start": 758.75,
+      "end": 758.85,
+      "text": "Eu"
+    },
+    {
+      "start": 758.85,
+      "end": 758.97,
+      "text": "sei"
+    },
+    {
+      "start": 758.97,
+      "end": 759.19,
+      "text": "que..."
+    },
+    {
+      "start": 785.41,
+      "end": 786.39,
+      "text": "Você..."
+    },
+    {
+      "start": 823.82,
+      "end": 823.96,
+      "text": "E"
+    },
+    {
+      "start": 823.96,
+      "end": 824.14,
+      "text": "aí"
+    },
+    {
+      "start": 867.17,
+      "end": 867.25,
+      "text": "E"
+    },
+    {
+      "start": 867.25,
+      "end": 867.25,
+      "text": "aí"
+    },
+    {
+      "start": 883.87,
+      "end": 884.17,
+      "text": "Não"
+    },
+    {
+      "start": 884.17,
+      "end": 884.37,
+      "text": "há"
+    },
+    {
+      "start": 884.37,
+      "end": 884.63,
+      "text": "amor."
+    },
+    {
+      "start": 892.48,
+      "end": 893.72,
+      "text": "O"
+    },
+    {
+      "start": 893.72,
+      "end": 894.14,
+      "text": "que"
+    },
+    {
+      "start": 894.14,
+      "end": 894.24,
+      "text": "é"
+    },
+    {
+      "start": 894.24,
+      "end": 894.72,
+      "text": "isso?"
+    },
+    {
+      "start": 896.77,
+      "end": 896.89,
+      "text": "O"
+    },
+    {
+      "start": 896.89,
+      "end": 896.95,
+      "text": "que"
+    },
+    {
+      "start": 896.95,
+      "end": 897.21,
+      "text": "é"
+    },
+    {
+      "start": 897.21,
+      "end": 897.41,
+      "text": "isso?"
+    },
+    {
+      "start": 934.69,
+      "end": 935.07,
+      "text": "."
+    }
+  ]
+}

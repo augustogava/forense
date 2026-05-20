@@ -1,0 +1,936 @@
+{
+  "source_file": "Taquaantesbanho0205_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:02,00:00:02": ".",
+    "00:00:35,00:00:41": "Deixa a mamãe tirar essa fraca, tá? Sem baguncinho. Sem baguncinho. Sem baguncinho.",
+    "00:00:41,00:00:48": "Você vai virar cocô pra tudo quanto é lado. Eu não quero cocô pra tudo quanto é lado aqui na cama da vovó. Combinados?",
+    "00:00:51,00:00:52": "Não é possível!",
+    "00:00:58,00:00:59": "Que fedor!",
+    "00:01:12,00:01:16": "Eka, eka, eka, cara de meleca.",
+    "00:01:19,00:01:21": "De... uuuuuh...",
+    "00:01:34,00:01:39": "Nossa filha, essa fralda aqui é meio radical mesmo, você viu?",
+    "00:01:41,00:01:43": "Me arrote o cão.",
+    "00:01:44,00:01:45": "Cão, vaga!",
+    "00:01:49,00:01:50": "Eu vou...",
+    "00:01:51,00:01:52": "Vem aqui!",
+    "00:01:52,00:01:53": "Vai, vai, vai!",
+    "00:01:56,00:01:57": "Que horror!",
+    "00:02:00,00:02:02": "Atenção!",
+    "00:02:04,00:02:11": "O que é que é isso?",
+    "00:02:15,00:02:15": "Atenção!",
+    "00:02:31,00:02:31": "Atenção!",
+    "00:03:11,00:03:12": "Ah, eu vou colocar isso aqui.",
+    "00:03:37,00:03:37": "Porém...",
+    "00:03:44,00:03:44": "Meu céu!",
+    "00:03:53,00:03:53": "Não é possível.",
+    "00:03:57,00:03:58": "Vem, ó o Mickey.",
+    "00:03:59,00:04:01": "Assim ó o Mickey, objeto.",
+    "00:04:39,00:04:41": "É isso aí.",
+    "00:04:51,00:04:53": "A calça que eu meio que criei.",
+    "00:04:53,00:04:54": "Você fala até limpo.",
+    "00:04:59,00:05:00": ".",
+    "00:05:05,00:05:06": "E aí, né? Que que é?",
+    "00:05:06,00:05:07": "Mas, mas, mas...",
+    "00:05:07,00:05:08": "Mas, mas, mas...",
+    "00:05:22,00:05:23": "O que é isso?",
+    "00:05:24,00:05:26": "Você está sapateando, ué?",
+    "00:05:26,00:05:28": "Espera aí, tem que tirar a blusa.",
+    "00:05:28,00:05:32": "Vai fora, cara.",
+    "00:05:40,00:05:42": "o negócio de placa",
+    "00:05:42,00:05:42": "vem",
+    "00:05:42,00:05:44": "vem",
+    "00:05:44,00:05:46": "oi",
+    "00:05:46,00:05:46": "oi",
+    "00:06:06,00:06:07": "Atenção!",
+    "00:06:11,00:06:12": "Não tem como!",
+    "00:06:18,00:06:19": "É isso aí, pessoal.",
+    "00:06:28,00:06:29": "Sim, mamãe!",
+    "00:06:29,00:06:30": "Olha, ela se dá.",
+    "00:06:37,00:06:38": ".",
+    "00:10:48,00:10:48": "Eeeeee..."
+  },
+  "words": [
+    {
+      "start": 2.18,
+      "end": 2.52,
+      "text": "."
+    },
+    {
+      "start": 35.71,
+      "end": 35.81,
+      "text": "Deixa"
+    },
+    {
+      "start": 35.81,
+      "end": 35.85,
+      "text": "a"
+    },
+    {
+      "start": 35.85,
+      "end": 36.15,
+      "text": "mamãe"
+    },
+    {
+      "start": 36.15,
+      "end": 36.31,
+      "text": "tirar"
+    },
+    {
+      "start": 36.31,
+      "end": 36.49,
+      "text": "essa"
+    },
+    {
+      "start": 36.49,
+      "end": 36.85,
+      "text": "fraca,"
+    },
+    {
+      "start": 36.91,
+      "end": 37.03,
+      "text": "tá?"
+    },
+    {
+      "start": 37.55,
+      "end": 38.03,
+      "text": "Sem"
+    },
+    {
+      "start": 38.03,
+      "end": 38.63,
+      "text": "baguncinho."
+    },
+    {
+      "start": 38.83,
+      "end": 39.31,
+      "text": "Sem"
+    },
+    {
+      "start": 39.31,
+      "end": 40.03,
+      "text": "baguncinho."
+    },
+    {
+      "start": 40.31,
+      "end": 40.67,
+      "text": "Sem"
+    },
+    {
+      "start": 40.67,
+      "end": 41.35,
+      "text": "baguncinho."
+    },
+    {
+      "start": 41.39,
+      "end": 41.47,
+      "text": "Você"
+    },
+    {
+      "start": 41.47,
+      "end": 41.59,
+      "text": "vai"
+    },
+    {
+      "start": 41.59,
+      "end": 41.85,
+      "text": "virar"
+    },
+    {
+      "start": 41.85,
+      "end": 42.41,
+      "text": "cocô"
+    },
+    {
+      "start": 42.41,
+      "end": 42.77,
+      "text": "pra"
+    },
+    {
+      "start": 42.77,
+      "end": 43.01,
+      "text": "tudo"
+    },
+    {
+      "start": 43.01,
+      "end": 43.27,
+      "text": "quanto"
+    },
+    {
+      "start": 43.27,
+      "end": 43.43,
+      "text": "é"
+    },
+    {
+      "start": 43.43,
+      "end": 43.77,
+      "text": "lado."
+    },
+    {
+      "start": 44.31,
+      "end": 44.79,
+      "text": "Eu"
+    },
+    {
+      "start": 44.79,
+      "end": 44.97,
+      "text": "não"
+    },
+    {
+      "start": 44.97,
+      "end": 45.25,
+      "text": "quero"
+    },
+    {
+      "start": 45.25,
+      "end": 45.81,
+      "text": "cocô"
+    },
+    {
+      "start": 45.81,
+      "end": 46.05,
+      "text": "pra"
+    },
+    {
+      "start": 46.05,
+      "end": 46.29,
+      "text": "tudo"
+    },
+    {
+      "start": 46.29,
+      "end": 46.45,
+      "text": "quanto"
+    },
+    {
+      "start": 46.45,
+      "end": 46.59,
+      "text": "é"
+    },
+    {
+      "start": 46.59,
+      "end": 46.79,
+      "text": "lado"
+    },
+    {
+      "start": 46.79,
+      "end": 47.03,
+      "text": "aqui"
+    },
+    {
+      "start": 47.03,
+      "end": 47.13,
+      "text": "na"
+    },
+    {
+      "start": 47.13,
+      "end": 47.33,
+      "text": "cama"
+    },
+    {
+      "start": 47.33,
+      "end": 47.45,
+      "text": "da"
+    },
+    {
+      "start": 47.45,
+      "end": 47.87,
+      "text": "vovó."
+    },
+    {
+      "start": 48.29,
+      "end": 48.77,
+      "text": "Combinados?"
+    },
+    {
+      "start": 51.49,
+      "end": 51.83,
+      "text": "Não"
+    },
+    {
+      "start": 51.83,
+      "end": 51.99,
+      "text": "é"
+    },
+    {
+      "start": 51.99,
+      "end": 52.01,
+      "text": "possível!"
+    },
+    {
+      "start": 58.88,
+      "end": 59.08,
+      "text": "Que"
+    },
+    {
+      "start": 59.08,
+      "end": 59.72,
+      "text": "fedor!"
+    },
+    {
+      "start": 72.48,
+      "end": 72.78,
+      "text": "Eka,"
+    },
+    {
+      "start": 72.78,
+      "end": 73.24,
+      "text": "eka,"
+    },
+    {
+      "start": 73.24,
+      "end": 74.12,
+      "text": "eka,"
+    },
+    {
+      "start": 74.12,
+      "end": 74.72,
+      "text": "cara"
+    },
+    {
+      "start": 74.72,
+      "end": 74.98,
+      "text": "de"
+    },
+    {
+      "start": 74.98,
+      "end": 76.0,
+      "text": "meleca."
+    },
+    {
+      "start": 79.07,
+      "end": 79.51,
+      "text": "De..."
+    },
+    {
+      "start": 79.51,
+      "end": 81.23,
+      "text": "uuuuuh..."
+    },
+    {
+      "start": 94.82,
+      "end": 95.0,
+      "text": "Nossa"
+    },
+    {
+      "start": 95.0,
+      "end": 95.44,
+      "text": "filha,"
+    },
+    {
+      "start": 95.44,
+      "end": 95.56,
+      "text": "essa"
+    },
+    {
+      "start": 95.56,
+      "end": 95.96,
+      "text": "fralda"
+    },
+    {
+      "start": 95.96,
+      "end": 96.1,
+      "text": "aqui"
+    },
+    {
+      "start": 96.1,
+      "end": 96.24,
+      "text": "é"
+    },
+    {
+      "start": 96.24,
+      "end": 96.44,
+      "text": "meio"
+    },
+    {
+      "start": 96.44,
+      "end": 98.22,
+      "text": "radical"
+    },
+    {
+      "start": 98.22,
+      "end": 98.94,
+      "text": "mesmo,"
+    },
+    {
+      "start": 99.06,
+      "end": 99.24,
+      "text": "você"
+    },
+    {
+      "start": 99.24,
+      "end": 99.48,
+      "text": "viu?"
+    },
+    {
+      "start": 101.79,
+      "end": 101.87,
+      "text": "Me"
+    },
+    {
+      "start": 101.87,
+      "end": 102.51,
+      "text": "arrote"
+    },
+    {
+      "start": 102.51,
+      "end": 102.61,
+      "text": "o"
+    },
+    {
+      "start": 102.61,
+      "end": 103.43,
+      "text": "cão."
+    },
+    {
+      "start": 104.05,
+      "end": 104.55,
+      "text": "Cão,"
+    },
+    {
+      "start": 104.55,
+      "end": 105.05,
+      "text": "vaga!"
+    },
+    {
+      "start": 109.38,
+      "end": 109.74,
+      "text": "Eu"
+    },
+    {
+      "start": 109.74,
+      "end": 110.58,
+      "text": "vou..."
+    },
+    {
+      "start": 111.66,
+      "end": 112.1,
+      "text": "Vem"
+    },
+    {
+      "start": 112.1,
+      "end": 112.18,
+      "text": "aqui!"
+    },
+    {
+      "start": 112.4,
+      "end": 112.72,
+      "text": "Vai,"
+    },
+    {
+      "start": 112.94,
+      "end": 113.06,
+      "text": "vai,"
+    },
+    {
+      "start": 113.06,
+      "end": 113.16,
+      "text": "vai!"
+    },
+    {
+      "start": 116.13,
+      "end": 116.69,
+      "text": "Que"
+    },
+    {
+      "start": 116.69,
+      "end": 117.07,
+      "text": "horror!"
+    },
+    {
+      "start": 120.87,
+      "end": 122.51,
+      "text": "Atenção!"
+    },
+    {
+      "start": 124.58,
+      "end": 124.94,
+      "text": "O"
+    },
+    {
+      "start": 124.94,
+      "end": 126.4,
+      "text": "que"
+    },
+    {
+      "start": 126.4,
+      "end": 126.42,
+      "text": "é"
+    },
+    {
+      "start": 126.42,
+      "end": 131.54,
+      "text": "que"
+    },
+    {
+      "start": 131.54,
+      "end": 131.54,
+      "text": "é"
+    },
+    {
+      "start": 131.54,
+      "end": 131.54,
+      "text": "isso?"
+    },
+    {
+      "start": 135.49,
+      "end": 135.71,
+      "text": "Atenção!"
+    },
+    {
+      "start": 151.46,
+      "end": 151.76,
+      "text": "Atenção!"
+    },
+    {
+      "start": 191.71,
+      "end": 191.83,
+      "text": "Ah,"
+    },
+    {
+      "start": 191.83,
+      "end": 191.91,
+      "text": "eu"
+    },
+    {
+      "start": 191.91,
+      "end": 192.07,
+      "text": "vou"
+    },
+    {
+      "start": 192.07,
+      "end": 192.15,
+      "text": "colocar"
+    },
+    {
+      "start": 192.15,
+      "end": 192.33,
+      "text": "isso"
+    },
+    {
+      "start": 192.33,
+      "end": 192.43,
+      "text": "aqui."
+    },
+    {
+      "start": 217.03,
+      "end": 217.45,
+      "text": "Porém..."
+    },
+    {
+      "start": 224.13,
+      "end": 224.29,
+      "text": "Meu"
+    },
+    {
+      "start": 224.29,
+      "end": 224.41,
+      "text": "céu!"
+    },
+    {
+      "start": 233.79,
+      "end": 233.79,
+      "text": "Não"
+    },
+    {
+      "start": 233.79,
+      "end": 233.87,
+      "text": "é"
+    },
+    {
+      "start": 233.87,
+      "end": 233.87,
+      "text": "possível."
+    },
+    {
+      "start": 237.67,
+      "end": 237.79,
+      "text": "Vem,"
+    },
+    {
+      "start": 237.85,
+      "end": 238.15,
+      "text": "ó"
+    },
+    {
+      "start": 238.15,
+      "end": 238.25,
+      "text": "o"
+    },
+    {
+      "start": 238.25,
+      "end": 238.37,
+      "text": "Mickey."
+    },
+    {
+      "start": 239.35,
+      "end": 239.79,
+      "text": "Assim"
+    },
+    {
+      "start": 239.79,
+      "end": 240.07,
+      "text": "ó"
+    },
+    {
+      "start": 240.07,
+      "end": 240.23,
+      "text": "o"
+    },
+    {
+      "start": 240.23,
+      "end": 240.69,
+      "text": "Mickey,"
+    },
+    {
+      "start": 240.87,
+      "end": 241.39,
+      "text": "objeto."
+    },
+    {
+      "start": 279.56,
+      "end": 280.4,
+      "text": "É"
+    },
+    {
+      "start": 280.4,
+      "end": 281.0,
+      "text": "isso"
+    },
+    {
+      "start": 281.0,
+      "end": 281.58,
+      "text": "aí."
+    },
+    {
+      "start": 291.71,
+      "end": 292.11,
+      "text": "A"
+    },
+    {
+      "start": 292.11,
+      "end": 292.59,
+      "text": "calça"
+    },
+    {
+      "start": 292.59,
+      "end": 292.67,
+      "text": "que"
+    },
+    {
+      "start": 292.67,
+      "end": 292.77,
+      "text": "eu"
+    },
+    {
+      "start": 292.77,
+      "end": 292.91,
+      "text": "meio"
+    },
+    {
+      "start": 292.91,
+      "end": 293.05,
+      "text": "que"
+    },
+    {
+      "start": 293.05,
+      "end": 293.31,
+      "text": "criei."
+    },
+    {
+      "start": 293.45,
+      "end": 293.67,
+      "text": "Você"
+    },
+    {
+      "start": 293.67,
+      "end": 293.93,
+      "text": "fala"
+    },
+    {
+      "start": 293.93,
+      "end": 294.13,
+      "text": "até"
+    },
+    {
+      "start": 294.13,
+      "end": 294.63,
+      "text": "limpo."
+    },
+    {
+      "start": 299.65,
+      "end": 300.09,
+      "text": "."
+    },
+    {
+      "start": 305.59,
+      "end": 305.61,
+      "text": "E"
+    },
+    {
+      "start": 305.61,
+      "end": 305.71,
+      "text": "aí,"
+    },
+    {
+      "start": 305.71,
+      "end": 305.79,
+      "text": "né?"
+    },
+    {
+      "start": 305.83,
+      "end": 305.95,
+      "text": "Que"
+    },
+    {
+      "start": 305.95,
+      "end": 306.25,
+      "text": "que"
+    },
+    {
+      "start": 306.25,
+      "end": 306.29,
+      "text": "é?"
+    },
+    {
+      "start": 306.33,
+      "end": 306.55,
+      "text": "Mas,"
+    },
+    {
+      "start": 306.55,
+      "end": 306.85,
+      "text": "mas,"
+    },
+    {
+      "start": 306.91,
+      "end": 307.23,
+      "text": "mas..."
+    },
+    {
+      "start": 307.71,
+      "end": 308.11,
+      "text": "Mas,"
+    },
+    {
+      "start": 308.11,
+      "end": 308.27,
+      "text": "mas,"
+    },
+    {
+      "start": 308.39,
+      "end": 308.49,
+      "text": "mas..."
+    },
+    {
+      "start": 322.75,
+      "end": 322.99,
+      "text": "O"
+    },
+    {
+      "start": 322.99,
+      "end": 323.21,
+      "text": "que"
+    },
+    {
+      "start": 323.21,
+      "end": 323.29,
+      "text": "é"
+    },
+    {
+      "start": 323.29,
+      "end": 323.69,
+      "text": "isso?"
+    },
+    {
+      "start": 324.31,
+      "end": 324.75,
+      "text": "Você"
+    },
+    {
+      "start": 324.75,
+      "end": 324.89,
+      "text": "está"
+    },
+    {
+      "start": 324.89,
+      "end": 325.83,
+      "text": "sapateando,"
+    },
+    {
+      "start": 325.89,
+      "end": 326.03,
+      "text": "ué?"
+    },
+    {
+      "start": 326.95,
+      "end": 327.39,
+      "text": "Espera"
+    },
+    {
+      "start": 327.39,
+      "end": 327.43,
+      "text": "aí,"
+    },
+    {
+      "start": 327.51,
+      "end": 327.59,
+      "text": "tem"
+    },
+    {
+      "start": 327.59,
+      "end": 327.71,
+      "text": "que"
+    },
+    {
+      "start": 327.71,
+      "end": 327.83,
+      "text": "tirar"
+    },
+    {
+      "start": 327.83,
+      "end": 327.97,
+      "text": "a"
+    },
+    {
+      "start": 327.97,
+      "end": 328.29,
+      "text": "blusa."
+    },
+    {
+      "start": 328.33,
+      "end": 328.57,
+      "text": "Vai"
+    },
+    {
+      "start": 328.57,
+      "end": 330.57,
+      "text": "fora,"
+    },
+    {
+      "start": 332.59,
+      "end": 332.87,
+      "text": "cara."
+    },
+    {
+      "start": 340.84,
+      "end": 341.82,
+      "text": "o"
+    },
+    {
+      "start": 341.82,
+      "end": 341.82,
+      "text": "negócio"
+    },
+    {
+      "start": 341.82,
+      "end": 342.0,
+      "text": "de"
+    },
+    {
+      "start": 342.0,
+      "end": 342.42,
+      "text": "placa"
+    },
+    {
+      "start": 342.42,
+      "end": 342.86,
+      "text": "vem"
+    },
+    {
+      "start": 342.86,
+      "end": 344.76,
+      "text": "vem"
+    },
+    {
+      "start": 344.76,
+      "end": 346.34,
+      "text": "oi"
+    },
+    {
+      "start": 346.34,
+      "end": 346.98,
+      "text": "oi"
+    },
+    {
+      "start": 366.5,
+      "end": 367.58,
+      "text": "Atenção!"
+    },
+    {
+      "start": 371.43,
+      "end": 371.57,
+      "text": "Não"
+    },
+    {
+      "start": 371.57,
+      "end": 371.71,
+      "text": "tem"
+    },
+    {
+      "start": 371.71,
+      "end": 372.03,
+      "text": "como!"
+    },
+    {
+      "start": 378.43,
+      "end": 378.89,
+      "text": "É"
+    },
+    {
+      "start": 378.89,
+      "end": 379.03,
+      "text": "isso"
+    },
+    {
+      "start": 379.03,
+      "end": 379.55,
+      "text": "aí,"
+    },
+    {
+      "start": 379.57,
+      "end": 379.99,
+      "text": "pessoal."
+    },
+    {
+      "start": 388.23,
+      "end": 388.61,
+      "text": "Sim,"
+    },
+    {
+      "start": 388.61,
+      "end": 389.35,
+      "text": "mamãe!"
+    },
+    {
+      "start": 389.43,
+      "end": 389.75,
+      "text": "Olha,"
+    },
+    {
+      "start": 389.79,
+      "end": 389.91,
+      "text": "ela"
+    },
+    {
+      "start": 389.91,
+      "end": 390.05,
+      "text": "se"
+    },
+    {
+      "start": 390.05,
+      "end": 390.23,
+      "text": "dá."
+    },
+    {
+      "start": 397.86,
+      "end": 398.26,
+      "text": "."
+    },
+    {
+      "start": 648.1,
+      "end": 648.4,
+      "text": "Eeeeee..."
+    }
+  ]
+}

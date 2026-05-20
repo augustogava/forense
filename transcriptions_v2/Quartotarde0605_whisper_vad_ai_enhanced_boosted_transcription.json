@@ -1,0 +1,368 @@
+{
+  "source_file": "Quartotarde0605_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3971.3,
+  "segments": {
+    "00:56:01,00:56:06": "Eu não sei o que eu vou fazer.",
+    "01:00:07,01:00:09": "Obrigada.",
+    "01:00:09,01:00:11": "com a sua esposa, porque isso é o seu amigo dela.",
+    "01:00:12,01:00:13": "Então eles vão falar",
+    "01:00:13,01:00:16": "de ti e a bíblia.",
+    "01:00:16,01:00:17": "Aí eles vão vir e vão...",
+    "01:00:17,01:00:33": "Eles vão vir e vão...",
+    "01:00:35,01:00:36": "Aí eles vão vir e vão...",
+    "01:00:36,01:00:36": "Eles vão vir e vão...",
+    "01:00:36,01:00:41": "ao vivo, ao teixo do meu irmão."
+  },
+  "words": [
+    {
+      "start": 3361.77,
+      "end": 3362.61,
+      "text": "Eu",
+      "probability": 0.047
+    },
+    {
+      "start": 3362.61,
+      "end": 3363.45,
+      "text": "não",
+      "probability": 0.34
+    },
+    {
+      "start": 3363.84,
+      "end": 3364.84,
+      "text": "sei",
+      "probability": 0.43
+    },
+    {
+      "start": 3364.84,
+      "end": 3365.34,
+      "text": "o",
+      "probability": 0.171
+    },
+    {
+      "start": 3365.34,
+      "end": 3365.52,
+      "text": "que",
+      "probability": 0.876
+    },
+    {
+      "start": 3365.52,
+      "end": 3365.74,
+      "text": "eu",
+      "probability": 0.317
+    },
+    {
+      "start": 3365.74,
+      "end": 3365.88,
+      "text": "vou",
+      "probability": 0.421
+    },
+    {
+      "start": 3365.88,
+      "end": 3366.0,
+      "text": "fazer.",
+      "probability": 0.709
+    },
+    {
+      "start": 3607.93,
+      "end": 3609.33,
+      "text": "Obrigada.",
+      "probability": 0.429
+    },
+    {
+      "start": 3609.37,
+      "end": 3609.37,
+      "text": "com",
+      "probability": 0.003
+    },
+    {
+      "start": 3609.37,
+      "end": 3609.37,
+      "text": "a",
+      "probability": 0.168
+    },
+    {
+      "start": 3609.37,
+      "end": 3609.37,
+      "text": "sua",
+      "probability": 0.052
+    },
+    {
+      "start": 3609.37,
+      "end": 3609.63,
+      "text": "esposa,",
+      "probability": 0.562
+    },
+    {
+      "start": 3609.67,
+      "end": 3610.11,
+      "text": "porque",
+      "probability": 0.159
+    },
+    {
+      "start": 3610.11,
+      "end": 3610.39,
+      "text": "isso",
+      "probability": 0.388
+    },
+    {
+      "start": 3610.39,
+      "end": 3610.55,
+      "text": "é",
+      "probability": 0.559
+    },
+    {
+      "start": 3610.55,
+      "end": 3610.65,
+      "text": "o",
+      "probability": 0.624
+    },
+    {
+      "start": 3610.65,
+      "end": 3610.79,
+      "text": "seu",
+      "probability": 0.77
+    },
+    {
+      "start": 3610.79,
+      "end": 3611.09,
+      "text": "amigo",
+      "probability": 0.775
+    },
+    {
+      "start": 3611.09,
+      "end": 3611.45,
+      "text": "dela.",
+      "probability": 0.789
+    },
+    {
+      "start": 3612.14,
+      "end": 3612.7,
+      "text": "Então",
+      "probability": 0.192
+    },
+    {
+      "start": 3612.7,
+      "end": 3612.94,
+      "text": "eles",
+      "probability": 0.247
+    },
+    {
+      "start": 3612.94,
+      "end": 3613.22,
+      "text": "vão",
+      "probability": 0.585
+    },
+    {
+      "start": 3613.22,
+      "end": 3613.58,
+      "text": "falar",
+      "probability": 0.453
+    },
+    {
+      "start": 3613.58,
+      "end": 3614.44,
+      "text": "de",
+      "probability": 0.201
+    },
+    {
+      "start": 3615.12,
+      "end": 3615.42,
+      "text": "ti",
+      "probability": 0.419
+    },
+    {
+      "start": 3615.42,
+      "end": 3615.48,
+      "text": "e",
+      "probability": 0.202
+    },
+    {
+      "start": 3615.48,
+      "end": 3615.62,
+      "text": "a",
+      "probability": 0.26
+    },
+    {
+      "start": 3615.62,
+      "end": 3616.02,
+      "text": "bíblia.",
+      "probability": 0.691
+    },
+    {
+      "start": 3616.02,
+      "end": 3616.44,
+      "text": "Aí",
+      "probability": 0.423
+    },
+    {
+      "start": 3616.44,
+      "end": 3616.56,
+      "text": "eles",
+      "probability": 0.098
+    },
+    {
+      "start": 3616.56,
+      "end": 3616.7,
+      "text": "vão",
+      "probability": 0.523
+    },
+    {
+      "start": 3616.7,
+      "end": 3616.98,
+      "text": "vir",
+      "probability": 0.077
+    },
+    {
+      "start": 3616.98,
+      "end": 3617.12,
+      "text": "e",
+      "probability": 0.179
+    },
+    {
+      "start": 3617.12,
+      "end": 3617.42,
+      "text": "vão...",
+      "probability": 0.23
+    },
+    {
+      "start": 3617.42,
+      "end": 3617.92,
+      "text": "Eles",
+      "probability": 0.067
+    },
+    {
+      "start": 3632.09,
+      "end": 3632.37,
+      "text": "vão",
+      "probability": 0.821
+    },
+    {
+      "start": 3632.37,
+      "end": 3632.65,
+      "text": "vir",
+      "probability": 0.728
+    },
+    {
+      "start": 3632.65,
+      "end": 3632.71,
+      "text": "e",
+      "probability": 0.721
+    },
+    {
+      "start": 3632.71,
+      "end": 3633.41,
+      "text": "vão...",
+      "probability": 0.596
+    },
+    {
+      "start": 3635.27,
+      "end": 3635.55,
+      "text": "Aí",
+      "probability": 0.697
+    },
+    {
+      "start": 3635.55,
+      "end": 3635.73,
+      "text": "eles",
+      "probability": 0.176
+    },
+    {
+      "start": 3635.73,
+      "end": 3635.81,
+      "text": "vão",
+      "probability": 0.964
+    },
+    {
+      "start": 3635.81,
+      "end": 3636.01,
+      "text": "vir",
+      "probability": 0.889
+    },
+    {
+      "start": 3636.01,
+      "end": 3636.15,
+      "text": "e",
+      "probability": 0.818
+    },
+    {
+      "start": 3636.15,
+      "end": 3636.41,
+      "text": "vão...",
+      "probability": 0.841
+    },
+    {
+      "start": 3636.41,
+      "end": 3636.41,
+      "text": "Eles",
+      "probability": 0.136
+    },
+    {
+      "start": 3636.41,
+      "end": 3636.59,
+      "text": "vão",
+      "probability": 0.97
+    },
+    {
+      "start": 3636.59,
+      "end": 3636.79,
+      "text": "vir",
+      "probability": 0.859
+    },
+    {
+      "start": 3636.79,
+      "end": 3636.79,
+      "text": "e",
+      "probability": 0.892
+    },
+    {
+      "start": 3636.79,
+      "end": 3636.93,
+      "text": "vão...",
+      "probability": 0.932
+    },
+    {
+      "start": 3636.93,
+      "end": 3637.85,
+      "text": "ao",
+      "probability": 0.0
+    },
+    {
+      "start": 3637.85,
+      "end": 3639.81,
+      "text": "vivo,",
+      "probability": 0.291
+    },
+    {
+      "start": 3639.81,
+      "end": 3640.13,
+      "text": "ao",
+      "probability": 0.612
+    },
+    {
+      "start": 3640.13,
+      "end": 3640.73,
+      "text": "teixo",
+      "probability": 0.312
+    },
+    {
+      "start": 3640.73,
+      "end": 3640.95,
+      "text": "do",
+      "probability": 0.431
+    },
+    {
+      "start": 3640.95,
+      "end": 3641.13,
+      "text": "meu",
+      "probability": 0.11
+    },
+    {
+      "start": 3641.13,
+      "end": 3641.59,
+      "text": "irmão.",
+      "probability": 0.732
+    }
+  ]
+}

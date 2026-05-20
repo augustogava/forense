@@ -1,0 +1,108 @@
+{
+  "source_file": "Descicomida0905_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:01,00:00:01": "Tchau, tchau.",
+    "00:02:22,00:02:23": "Acompanhe o programa em vários lugares.",
+    "00:04:58,00:04:59": "E aí",
+    "00:05:02,00:05:03": "Atenção, não se preocupe com o que for dito."
+  },
+  "words": [
+    {
+      "start": 1.0,
+      "end": 1.34,
+      "text": "Tchau,"
+    },
+    {
+      "start": 1.34,
+      "end": 1.8,
+      "text": "tchau."
+    },
+    {
+      "start": 142.02,
+      "end": 142.28,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 142.28,
+      "end": 142.56,
+      "text": "o"
+    },
+    {
+      "start": 142.56,
+      "end": 142.56,
+      "text": "programa"
+    },
+    {
+      "start": 142.56,
+      "end": 142.76,
+      "text": "em"
+    },
+    {
+      "start": 142.76,
+      "end": 142.86,
+      "text": "vários"
+    },
+    {
+      "start": 142.86,
+      "end": 143.3,
+      "text": "lugares."
+    },
+    {
+      "start": 298.88,
+      "end": 299.04,
+      "text": "E"
+    },
+    {
+      "start": 299.04,
+      "end": 299.18,
+      "text": "aí"
+    },
+    {
+      "start": 302.75,
+      "end": 302.99,
+      "text": "Atenção,"
+    },
+    {
+      "start": 302.99,
+      "end": 303.09,
+      "text": "não"
+    },
+    {
+      "start": 303.09,
+      "end": 303.21,
+      "text": "se"
+    },
+    {
+      "start": 303.21,
+      "end": 303.45,
+      "text": "preocupe"
+    },
+    {
+      "start": 303.45,
+      "end": 303.45,
+      "text": "com"
+    },
+    {
+      "start": 303.45,
+      "end": 303.45,
+      "text": "o"
+    },
+    {
+      "start": 303.45,
+      "end": 303.45,
+      "text": "que"
+    },
+    {
+      "start": 303.45,
+      "end": 303.45,
+      "text": "for"
+    },
+    {
+      "start": 303.45,
+      "end": 303.45,
+      "text": "dito."
+    }
+  ]
+}

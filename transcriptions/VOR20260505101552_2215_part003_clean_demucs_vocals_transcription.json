@@ -1,0 +1,27 @@
+{
+  "source_file": "VOR20260505101552_2215_part003_clean_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:21:44,00:21:44": "Sim!",
+    "00:21:58,00:21:58": "Valeu!",
+    "00:47:02,00:47:03": "."
+  },
+  "words": [
+    {
+      "start": 1304.13,
+      "end": 1304.33,
+      "text": "Sim!"
+    },
+    {
+      "start": 1318.02,
+      "end": 1318.38,
+      "text": "Valeu!"
+    },
+    {
+      "start": 2822.72,
+      "end": 2823.04,
+      "text": "."
+    }
+  ]
+}

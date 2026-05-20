@@ -1,0 +1,151 @@
+{
+  "source_file": "New_Recording_37_2804madru_part001_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:04:40,00:04:41": "Temos...",
+    "00:07:46,00:07:47": "Aos 20 anos de idade, o governo de São Paulo, em 2013, declarou que a violência não era uma violência.",
+    "00:08:30,00:08:31": "Então, dá para ver se tu..."
+  },
+  "explicit_segments": {
+    "00:07:46,00:07:47": "Aos 20 anos de idade, o governo de São Paulo, em 2013, declarou que a violência não era uma violência."
+  },
+  "explicit_count": 1,
+  "words": [
+    {
+      "start": 280.83,
+      "end": 281.19,
+      "text": "Temos..."
+    },
+    {
+      "start": 466.79,
+      "end": 466.89,
+      "text": "Aos"
+    },
+    {
+      "start": 466.89,
+      "end": 467.11,
+      "text": "20"
+    },
+    {
+      "start": 467.11,
+      "end": 467.31,
+      "text": "anos"
+    },
+    {
+      "start": 467.31,
+      "end": 467.43,
+      "text": "de"
+    },
+    {
+      "start": 467.43,
+      "end": 467.51,
+      "text": "idade,"
+    },
+    {
+      "start": 467.55,
+      "end": 467.55,
+      "text": "o"
+    },
+    {
+      "start": 467.55,
+      "end": 467.55,
+      "text": "governo"
+    },
+    {
+      "start": 467.55,
+      "end": 467.55,
+      "text": "de"
+    },
+    {
+      "start": 467.55,
+      "end": 467.55,
+      "text": "São"
+    },
+    {
+      "start": 467.55,
+      "end": 467.55,
+      "text": "Paulo,"
+    },
+    {
+      "start": 467.55,
+      "end": 467.55,
+      "text": "em"
+    },
+    {
+      "start": 467.55,
+      "end": 467.55,
+      "text": "2013,"
+    },
+    {
+      "start": 467.55,
+      "end": 467.55,
+      "text": "declarou"
+    },
+    {
+      "start": 467.55,
+      "end": 467.55,
+      "text": "que"
+    },
+    {
+      "start": 467.55,
+      "end": 467.55,
+      "text": "a"
+    },
+    {
+      "start": 467.55,
+      "end": 467.55,
+      "text": "violência"
+    },
+    {
+      "start": 467.55,
+      "end": 467.55,
+      "text": "não"
+    },
+    {
+      "start": 467.55,
+      "end": 467.55,
+      "text": "era"
+    },
+    {
+      "start": 467.55,
+      "end": 467.55,
+      "text": "uma"
+    },
+    {
+      "start": 467.55,
+      "end": 467.55,
+      "text": "violência."
+    },
+    {
+      "start": 510.02,
+      "end": 510.38,
+      "text": "Então,"
+    },
+    {
+      "start": 510.38,
+      "end": 510.52,
+      "text": "dá"
+    },
+    {
+      "start": 510.52,
+      "end": 510.72,
+      "text": "para"
+    },
+    {
+      "start": 510.72,
+      "end": 510.82,
+      "text": "ver"
+    },
+    {
+      "start": 510.82,
+      "end": 510.9,
+      "text": "se"
+    },
+    {
+      "start": 510.9,
+      "end": 511.04,
+      "text": "tu..."
+    }
+  ]
+}

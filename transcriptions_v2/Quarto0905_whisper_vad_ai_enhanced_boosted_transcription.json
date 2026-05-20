@@ -1,0 +1,758 @@
+{
+  "source_file": "Quarto0905_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 2506.3,
+  "segments": {
+    "00:05:08,00:05:10": "O que é isso aí?",
+    "00:17:56,00:17:57": "O que é isso?",
+    "00:19:29,00:19:32": "Então eu vou te dar um cheiro de barra.",
+    "00:19:32,00:20:08": "Eu não vou te dar um cheiro de barra.",
+    "00:20:34,00:20:44": "Você não vai me dar um cheiro de barra.",
+    "00:23:14,00:24:02": "Eu não vou te dar um cheiro de barra.",
+    "00:24:02,00:24:11": "Eu vou te dar um cheiro de barra.",
+    "00:24:28,00:24:43": "Você vai me dar um cheiro de barra.",
+    "00:25:08,00:26:30": "Eu não vou te dar um cheiro de barra.",
+    "00:26:31,00:26:31": "Você não vai me dar um cheiro de barra.",
+    "00:27:06,00:27:06": "Você vai me dar um cheiro de barra.",
+    "00:27:07,00:28:08": "Você vai me dar um cheiro de barra.",
+    "00:28:09,00:28:09": "Eu não vou te dar um cheiro de barra.",
+    "00:38:27,00:38:28": "Você vai me dar um cheiro de barra.",
+    "00:38:28,00:39:03": "Você vai me dar um cheiro de barra.",
+    "00:41:46,00:41:46": "E aí"
+  },
+  "words": [
+    {
+      "start": 308.24,
+      "end": 309.18,
+      "text": "O",
+      "probability": 0.032
+    },
+    {
+      "start": 309.28,
+      "end": 310.22,
+      "text": "que",
+      "probability": 0.642
+    },
+    {
+      "start": 310.22,
+      "end": 310.4,
+      "text": "é",
+      "probability": 0.596
+    },
+    {
+      "start": 310.4,
+      "end": 310.6,
+      "text": "isso",
+      "probability": 0.833
+    },
+    {
+      "start": 310.6,
+      "end": 310.86,
+      "text": "aí?",
+      "probability": 0.244
+    },
+    {
+      "start": 1076.36,
+      "end": 1077.0,
+      "text": "O",
+      "probability": 0.198
+    },
+    {
+      "start": 1077.03,
+      "end": 1077.67,
+      "text": "que",
+      "probability": 0.955
+    },
+    {
+      "start": 1077.67,
+      "end": 1077.77,
+      "text": "é",
+      "probability": 0.57
+    },
+    {
+      "start": 1077.77,
+      "end": 1077.99,
+      "text": "isso?",
+      "probability": 0.642
+    },
+    {
+      "start": 1169.44,
+      "end": 1169.68,
+      "text": "Então",
+      "probability": 0.055
+    },
+    {
+      "start": 1169.68,
+      "end": 1169.88,
+      "text": "eu",
+      "probability": 0.227
+    },
+    {
+      "start": 1169.88,
+      "end": 1170.4,
+      "text": "vou",
+      "probability": 0.315
+    },
+    {
+      "start": 1170.4,
+      "end": 1170.9,
+      "text": "te",
+      "probability": 0.167
+    },
+    {
+      "start": 1170.9,
+      "end": 1170.9,
+      "text": "dar",
+      "probability": 0.115
+    },
+    {
+      "start": 1170.9,
+      "end": 1171.06,
+      "text": "um",
+      "probability": 0.359
+    },
+    {
+      "start": 1171.06,
+      "end": 1171.76,
+      "text": "cheiro",
+      "probability": 0.524
+    },
+    {
+      "start": 1171.76,
+      "end": 1172.16,
+      "text": "de",
+      "probability": 0.374
+    },
+    {
+      "start": 1172.16,
+      "end": 1172.92,
+      "text": "barra.",
+      "probability": 0.234
+    },
+    {
+      "start": 1172.92,
+      "end": 1173.3,
+      "text": "Eu",
+      "probability": 0.176
+    },
+    {
+      "start": 1188.02,
+      "end": 1188.32,
+      "text": "não",
+      "probability": 0.402
+    },
+    {
+      "start": 1188.32,
+      "end": 1188.66,
+      "text": "vou",
+      "probability": 0.157
+    },
+    {
+      "start": 1188.66,
+      "end": 1188.78,
+      "text": "te",
+      "probability": 0.661
+    },
+    {
+      "start": 1188.78,
+      "end": 1188.96,
+      "text": "dar",
+      "probability": 0.542
+    },
+    {
+      "start": 1207.55,
+      "end": 1207.93,
+      "text": "um",
+      "probability": 0.397
+    },
+    {
+      "start": 1207.93,
+      "end": 1208.37,
+      "text": "cheiro",
+      "probability": 0.971
+    },
+    {
+      "start": 1208.37,
+      "end": 1208.43,
+      "text": "de",
+      "probability": 0.904
+    },
+    {
+      "start": 1208.43,
+      "end": 1208.59,
+      "text": "barra.",
+      "probability": 0.993
+    },
+    {
+      "start": 1234.58,
+      "end": 1235.14,
+      "text": "Você",
+      "probability": 0.263
+    },
+    {
+      "start": 1243.04,
+      "end": 1243.12,
+      "text": "não",
+      "probability": 0.245
+    },
+    {
+      "start": 1243.12,
+      "end": 1243.38,
+      "text": "vai",
+      "probability": 0.839
+    },
+    {
+      "start": 1243.38,
+      "end": 1243.58,
+      "text": "me",
+      "probability": 0.886
+    },
+    {
+      "start": 1243.58,
+      "end": 1243.96,
+      "text": "dar",
+      "probability": 0.787
+    },
+    {
+      "start": 1243.96,
+      "end": 1243.96,
+      "text": "um",
+      "probability": 0.55
+    },
+    {
+      "start": 1243.96,
+      "end": 1244.38,
+      "text": "cheiro",
+      "probability": 0.806
+    },
+    {
+      "start": 1244.38,
+      "end": 1244.38,
+      "text": "de",
+      "probability": 0.94
+    },
+    {
+      "start": 1244.38,
+      "end": 1244.38,
+      "text": "barra.",
+      "probability": 0.999
+    },
+    {
+      "start": 1394.65,
+      "end": 1394.99,
+      "text": "Eu",
+      "probability": 0.285
+    },
+    {
+      "start": 1394.99,
+      "end": 1395.09,
+      "text": "não",
+      "probability": 0.57
+    },
+    {
+      "start": 1395.09,
+      "end": 1395.83,
+      "text": "vou",
+      "probability": 0.962
+    },
+    {
+      "start": 1440.98,
+      "end": 1441.74,
+      "text": "te",
+      "probability": 0.976
+    },
+    {
+      "start": 1441.74,
+      "end": 1441.98,
+      "text": "dar",
+      "probability": 0.999
+    },
+    {
+      "start": 1441.98,
+      "end": 1442.1,
+      "text": "um",
+      "probability": 0.995
+    },
+    {
+      "start": 1442.1,
+      "end": 1442.7,
+      "text": "cheiro",
+      "probability": 0.996
+    },
+    {
+      "start": 1442.7,
+      "end": 1442.7,
+      "text": "de",
+      "probability": 0.996
+    },
+    {
+      "start": 1442.7,
+      "end": 1442.7,
+      "text": "barra.",
+      "probability": 1.0
+    },
+    {
+      "start": 1442.7,
+      "end": 1443.14,
+      "text": "Eu",
+      "probability": 0.36
+    },
+    {
+      "start": 1443.3,
+      "end": 1443.68,
+      "text": "vou",
+      "probability": 0.155
+    },
+    {
+      "start": 1443.68,
+      "end": 1444.06,
+      "text": "te",
+      "probability": 0.977
+    },
+    {
+      "start": 1444.06,
+      "end": 1444.28,
+      "text": "dar",
+      "probability": 0.994
+    },
+    {
+      "start": 1444.28,
+      "end": 1444.4,
+      "text": "um",
+      "probability": 0.99
+    },
+    {
+      "start": 1444.4,
+      "end": 1444.92,
+      "text": "cheiro",
+      "probability": 0.995
+    },
+    {
+      "start": 1451.2,
+      "end": 1451.6,
+      "text": "de",
+      "probability": 0.996
+    },
+    {
+      "start": 1451.6,
+      "end": 1451.94,
+      "text": "barra.",
+      "probability": 0.998
+    },
+    {
+      "start": 1468.2,
+      "end": 1468.76,
+      "text": "Você",
+      "probability": 0.336
+    },
+    {
+      "start": 1482.65,
+      "end": 1482.79,
+      "text": "vai",
+      "probability": 0.202
+    },
+    {
+      "start": 1482.79,
+      "end": 1482.85,
+      "text": "me",
+      "probability": 0.752
+    },
+    {
+      "start": 1482.85,
+      "end": 1483.09,
+      "text": "dar",
+      "probability": 0.864
+    },
+    {
+      "start": 1483.09,
+      "end": 1483.27,
+      "text": "um",
+      "probability": 0.959
+    },
+    {
+      "start": 1483.27,
+      "end": 1483.83,
+      "text": "cheiro",
+      "probability": 0.976
+    },
+    {
+      "start": 1483.83,
+      "end": 1483.83,
+      "text": "de",
+      "probability": 0.98
+    },
+    {
+      "start": 1483.83,
+      "end": 1483.83,
+      "text": "barra.",
+      "probability": 0.997
+    },
+    {
+      "start": 1508.08,
+      "end": 1508.36,
+      "text": "Eu",
+      "probability": 0.254
+    },
+    {
+      "start": 1508.36,
+      "end": 1508.5,
+      "text": "não",
+      "probability": 0.407
+    },
+    {
+      "start": 1508.5,
+      "end": 1508.78,
+      "text": "vou",
+      "probability": 0.985
+    },
+    {
+      "start": 1508.78,
+      "end": 1509.02,
+      "text": "te",
+      "probability": 0.993
+    },
+    {
+      "start": 1585.86,
+      "end": 1586.56,
+      "text": "dar",
+      "probability": 0.999
+    },
+    {
+      "start": 1586.56,
+      "end": 1586.56,
+      "text": "um",
+      "probability": 0.996
+    },
+    {
+      "start": 1586.56,
+      "end": 1586.74,
+      "text": "cheiro",
+      "probability": 0.998
+    },
+    {
+      "start": 1586.74,
+      "end": 1586.94,
+      "text": "de",
+      "probability": 0.998
+    },
+    {
+      "start": 1589.88,
+      "end": 1590.64,
+      "text": "barra.",
+      "probability": 1.0
+    },
+    {
+      "start": 1591.06,
+      "end": 1591.48,
+      "text": "Você",
+      "probability": 0.412
+    },
+    {
+      "start": 1591.48,
+      "end": 1591.64,
+      "text": "não",
+      "probability": 0.06
+    },
+    {
+      "start": 1591.64,
+      "end": 1591.74,
+      "text": "vai",
+      "probability": 0.996
+    },
+    {
+      "start": 1591.74,
+      "end": 1591.74,
+      "text": "me",
+      "probability": 0.993
+    },
+    {
+      "start": 1591.74,
+      "end": 1591.74,
+      "text": "dar",
+      "probability": 0.998
+    },
+    {
+      "start": 1591.74,
+      "end": 1591.74,
+      "text": "um",
+      "probability": 0.998
+    },
+    {
+      "start": 1591.74,
+      "end": 1591.74,
+      "text": "cheiro",
+      "probability": 0.998
+    },
+    {
+      "start": 1591.74,
+      "end": 1591.74,
+      "text": "de",
+      "probability": 0.998
+    },
+    {
+      "start": 1591.74,
+      "end": 1591.98,
+      "text": "barra.",
+      "probability": 1.0
+    },
+    {
+      "start": 1626.06,
+      "end": 1626.18,
+      "text": "Você",
+      "probability": 0.433
+    },
+    {
+      "start": 1626.18,
+      "end": 1626.18,
+      "text": "vai",
+      "probability": 0.833
+    },
+    {
+      "start": 1626.18,
+      "end": 1626.36,
+      "text": "me",
+      "probability": 0.983
+    },
+    {
+      "start": 1626.36,
+      "end": 1626.36,
+      "text": "dar",
+      "probability": 0.992
+    },
+    {
+      "start": 1626.36,
+      "end": 1626.52,
+      "text": "um",
+      "probability": 0.997
+    },
+    {
+      "start": 1626.52,
+      "end": 1626.52,
+      "text": "cheiro",
+      "probability": 0.997
+    },
+    {
+      "start": 1626.52,
+      "end": 1626.52,
+      "text": "de",
+      "probability": 0.995
+    },
+    {
+      "start": 1626.52,
+      "end": 1626.52,
+      "text": "barra.",
+      "probability": 0.999
+    },
+    {
+      "start": 1627.48,
+      "end": 1628.04,
+      "text": "Você",
+      "probability": 0.546
+    },
+    {
+      "start": 1628.04,
+      "end": 1628.04,
+      "text": "vai",
+      "probability": 0.912
+    },
+    {
+      "start": 1628.04,
+      "end": 1628.38,
+      "text": "me",
+      "probability": 0.987
+    },
+    {
+      "start": 1628.38,
+      "end": 1628.64,
+      "text": "dar",
+      "probability": 0.995
+    },
+    {
+      "start": 1628.64,
+      "end": 1628.68,
+      "text": "um",
+      "probability": 0.996
+    },
+    {
+      "start": 1687.05,
+      "end": 1687.47,
+      "text": "cheiro",
+      "probability": 0.997
+    },
+    {
+      "start": 1687.47,
+      "end": 1687.63,
+      "text": "de",
+      "probability": 0.995
+    },
+    {
+      "start": 1687.63,
+      "end": 1688.51,
+      "text": "barra.",
+      "probability": 0.999
+    },
+    {
+      "start": 1689.28,
+      "end": 1689.48,
+      "text": "Eu",
+      "probability": 0.123
+    },
+    {
+      "start": 1689.48,
+      "end": 1689.48,
+      "text": "não",
+      "probability": 0.487
+    },
+    {
+      "start": 1689.48,
+      "end": 1689.48,
+      "text": "vou",
+      "probability": 0.945
+    },
+    {
+      "start": 1689.48,
+      "end": 1689.48,
+      "text": "te",
+      "probability": 0.995
+    },
+    {
+      "start": 1689.48,
+      "end": 1689.48,
+      "text": "dar",
+      "probability": 0.999
+    },
+    {
+      "start": 1689.48,
+      "end": 1689.48,
+      "text": "um",
+      "probability": 0.994
+    },
+    {
+      "start": 1689.48,
+      "end": 1689.48,
+      "text": "cheiro",
+      "probability": 0.998
+    },
+    {
+      "start": 1689.48,
+      "end": 1689.48,
+      "text": "de",
+      "probability": 0.992
+    },
+    {
+      "start": 1689.48,
+      "end": 1689.88,
+      "text": "barra.",
+      "probability": 0.999
+    },
+    {
+      "start": 2307.47,
+      "end": 2307.61,
+      "text": "Você",
+      "probability": 0.53
+    },
+    {
+      "start": 2307.61,
+      "end": 2308.01,
+      "text": "vai",
+      "probability": 0.946
+    },
+    {
+      "start": 2308.01,
+      "end": 2308.09,
+      "text": "me",
+      "probability": 0.99
+    },
+    {
+      "start": 2308.09,
+      "end": 2308.09,
+      "text": "dar",
+      "probability": 0.998
+    },
+    {
+      "start": 2308.09,
+      "end": 2308.37,
+      "text": "um",
+      "probability": 0.997
+    },
+    {
+      "start": 2308.37,
+      "end": 2308.37,
+      "text": "cheiro",
+      "probability": 0.998
+    },
+    {
+      "start": 2308.37,
+      "end": 2308.37,
+      "text": "de",
+      "probability": 0.998
+    },
+    {
+      "start": 2308.37,
+      "end": 2308.37,
+      "text": "barra.",
+      "probability": 1.0
+    },
+    {
+      "start": 2308.51,
+      "end": 2309.07,
+      "text": "Você",
+      "probability": 0.574
+    },
+    {
+      "start": 2342.83,
+      "end": 2343.01,
+      "text": "vai",
+      "probability": 0.973
+    },
+    {
+      "start": 2343.01,
+      "end": 2343.01,
+      "text": "me",
+      "probability": 0.993
+    },
+    {
+      "start": 2343.01,
+      "end": 2343.01,
+      "text": "dar",
+      "probability": 0.997
+    },
+    {
+      "start": 2343.01,
+      "end": 2343.01,
+      "text": "um",
+      "probability": 0.998
+    },
+    {
+      "start": 2343.01,
+      "end": 2343.01,
+      "text": "cheiro",
+      "probability": 0.998
+    },
+    {
+      "start": 2343.01,
+      "end": 2343.15,
+      "text": "de",
+      "probability": 0.998
+    },
+    {
+      "start": 2343.15,
+      "end": 2343.67,
+      "text": "barra.",
+      "probability": 1.0
+    },
+    {
+      "start": 2506.22,
+      "end": 2506.24,
+      "text": "E",
+      "probability": 0.281
+    },
+    {
+      "start": 2506.24,
+      "end": 2506.24,
+      "text": "aí",
+      "probability": 0.969
+    }
+  ]
+}

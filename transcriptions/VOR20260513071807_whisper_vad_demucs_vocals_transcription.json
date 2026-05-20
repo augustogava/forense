@@ -1,0 +1,274 @@
+{
+  "source_file": "VOR20260513071807_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:11:52,00:11:52": "Atenção!",
+    "00:13:30,00:13:30": ".",
+    "00:14:00,00:14:00": ".",
+    "00:22:37,00:22:37": "Atenção!",
+    "00:23:44,00:23:44": ".",
+    "00:33:39,00:33:39": ".",
+    "00:42:02,00:42:03": "Tchau.",
+    "00:47:30,00:47:34": "O ônibus está aqui, o Mano falou. O Mano vai passear.",
+    "00:47:36,00:47:38": "Você vai dar tchau para o Mano?",
+    "00:47:38,00:47:39": "Os amiguinhos?",
+    "00:48:07,00:48:08": ".",
+    "00:49:51,00:49:53": "Atenção!",
+    "00:55:31,00:55:32": "Não!",
+    "00:58:36,00:58:39": "Acabei de chegar na loja, que não tem nenhum carro.",
+    "00:58:39,00:58:43": "Agora é só eu me atirar para o carro sair."
+  },
+  "words": [
+    {
+      "start": 712.29,
+      "end": 712.55,
+      "text": "Atenção!"
+    },
+    {
+      "start": 810.15,
+      "end": 810.35,
+      "text": "."
+    },
+    {
+      "start": 840.13,
+      "end": 840.39,
+      "text": "."
+    },
+    {
+      "start": 1357.38,
+      "end": 1357.52,
+      "text": "Atenção!"
+    },
+    {
+      "start": 1424.1,
+      "end": 1424.16,
+      "text": "."
+    },
+    {
+      "start": 2019.52,
+      "end": 2019.6,
+      "text": "."
+    },
+    {
+      "start": 2522.76,
+      "end": 2523.64,
+      "text": "Tchau."
+    },
+    {
+      "start": 2850.18,
+      "end": 2850.34,
+      "text": "O"
+    },
+    {
+      "start": 2850.34,
+      "end": 2851.7,
+      "text": "ônibus"
+    },
+    {
+      "start": 2851.7,
+      "end": 2851.86,
+      "text": "está"
+    },
+    {
+      "start": 2851.86,
+      "end": 2852.04,
+      "text": "aqui,"
+    },
+    {
+      "start": 2852.14,
+      "end": 2852.22,
+      "text": "o"
+    },
+    {
+      "start": 2852.22,
+      "end": 2852.44,
+      "text": "Mano"
+    },
+    {
+      "start": 2852.44,
+      "end": 2852.64,
+      "text": "falou."
+    },
+    {
+      "start": 2853.1,
+      "end": 2853.54,
+      "text": "O"
+    },
+    {
+      "start": 2853.54,
+      "end": 2853.84,
+      "text": "Mano"
+    },
+    {
+      "start": 2853.84,
+      "end": 2853.98,
+      "text": "vai"
+    },
+    {
+      "start": 2853.98,
+      "end": 2854.52,
+      "text": "passear."
+    },
+    {
+      "start": 2856.78,
+      "end": 2857.22,
+      "text": "Você"
+    },
+    {
+      "start": 2857.22,
+      "end": 2857.4,
+      "text": "vai"
+    },
+    {
+      "start": 2857.4,
+      "end": 2857.52,
+      "text": "dar"
+    },
+    {
+      "start": 2857.52,
+      "end": 2857.76,
+      "text": "tchau"
+    },
+    {
+      "start": 2857.76,
+      "end": 2857.9,
+      "text": "para"
+    },
+    {
+      "start": 2857.9,
+      "end": 2857.98,
+      "text": "o"
+    },
+    {
+      "start": 2857.98,
+      "end": 2858.22,
+      "text": "Mano?"
+    },
+    {
+      "start": 2858.86,
+      "end": 2859.3,
+      "text": "Os"
+    },
+    {
+      "start": 2859.3,
+      "end": 2859.74,
+      "text": "amiguinhos?"
+    },
+    {
+      "start": 2887.87,
+      "end": 2888.25,
+      "text": "."
+    },
+    {
+      "start": 2991.76,
+      "end": 2993.16,
+      "text": "Atenção!"
+    },
+    {
+      "start": 3331.94,
+      "end": 3332.22,
+      "text": "Não!"
+    },
+    {
+      "start": 3516.74,
+      "end": 3516.94,
+      "text": "Acabei"
+    },
+    {
+      "start": 3516.94,
+      "end": 3517.02,
+      "text": "de"
+    },
+    {
+      "start": 3517.02,
+      "end": 3517.34,
+      "text": "chegar"
+    },
+    {
+      "start": 3517.34,
+      "end": 3517.54,
+      "text": "na"
+    },
+    {
+      "start": 3517.54,
+      "end": 3518.0,
+      "text": "loja,"
+    },
+    {
+      "start": 3518.06,
+      "end": 3518.3,
+      "text": "que"
+    },
+    {
+      "start": 3518.3,
+      "end": 3518.46,
+      "text": "não"
+    },
+    {
+      "start": 3518.46,
+      "end": 3518.62,
+      "text": "tem"
+    },
+    {
+      "start": 3518.62,
+      "end": 3518.84,
+      "text": "nenhum"
+    },
+    {
+      "start": 3518.84,
+      "end": 3519.24,
+      "text": "carro."
+    },
+    {
+      "start": 3519.66,
+      "end": 3520.14,
+      "text": "Agora"
+    },
+    {
+      "start": 3520.14,
+      "end": 3520.22,
+      "text": "é"
+    },
+    {
+      "start": 3520.22,
+      "end": 3520.38,
+      "text": "só"
+    },
+    {
+      "start": 3520.38,
+      "end": 3520.52,
+      "text": "eu"
+    },
+    {
+      "start": 3520.52,
+      "end": 3520.64,
+      "text": "me"
+    },
+    {
+      "start": 3520.64,
+      "end": 3521.08,
+      "text": "atirar"
+    },
+    {
+      "start": 3521.08,
+      "end": 3521.34,
+      "text": "para"
+    },
+    {
+      "start": 3521.34,
+      "end": 3521.64,
+      "text": "o"
+    },
+    {
+      "start": 3521.64,
+      "end": 3522.34,
+      "text": "carro"
+    },
+    {
+      "start": 3522.34,
+      "end": 3523.36,
+      "text": "sair."
+    }
+  ]
+}

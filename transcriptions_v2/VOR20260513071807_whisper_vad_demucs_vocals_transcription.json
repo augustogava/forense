@@ -1,0 +1,418 @@
+{
+  "source_file": "VOR20260513071807_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.1,
+  "segments": {
+    "00:35:47,00:35:48": "Vai lá galera, vai!",
+    "00:36:36,00:36:36": "Ai!",
+    "00:36:36,00:36:37": "Ata-me!",
+    "00:36:37,00:36:39": "Ata-me!",
+    "00:47:30,00:47:32": "Olha, meu amor, aonde você está indo?",
+    "00:47:32,00:47:32": "Não vai me falar?",
+    "00:47:33,00:47:34": "Mano, vai partir?",
+    "00:47:36,00:47:38": "Você vai dar tchau pra Mano?",
+    "00:47:38,00:47:39": "Você já me viu?",
+    "00:51:44,00:51:46": "MÚSICA",
+    "00:52:57,00:52:58": "Música",
+    "00:58:36,00:58:43": "Acabei de chamar ela aqui, porque eu não entendi o que ela estava dizendo, mas eu não entendi o que ela estava dizendo, eu não entendi o que ela estava dizendo."
+  },
+  "words": [
+    {
+      "start": 2147.43,
+      "end": 2147.75,
+      "text": "Vai",
+      "probability": 0.053
+    },
+    {
+      "start": 2147.75,
+      "end": 2147.97,
+      "text": "lá",
+      "probability": 0.637
+    },
+    {
+      "start": 2147.97,
+      "end": 2148.15,
+      "text": "galera,",
+      "probability": 0.385
+    },
+    {
+      "start": 2148.45,
+      "end": 2148.69,
+      "text": "vai!",
+      "probability": 0.482
+    },
+    {
+      "start": 2196.44,
+      "end": 2196.78,
+      "text": "Ai!",
+      "probability": 0.126
+    },
+    {
+      "start": 2196.94,
+      "end": 2197.32,
+      "text": "Ata",
+      "probability": 0.025
+    },
+    {
+      "start": 2197.32,
+      "end": 2197.42,
+      "text": "-me!",
+      "probability": 0.507
+    },
+    {
+      "start": 2197.68,
+      "end": 2198.36,
+      "text": "Ata",
+      "probability": 0.666
+    },
+    {
+      "start": 2198.36,
+      "end": 2199.04,
+      "text": "-me!",
+      "probability": 0.971
+    },
+    {
+      "start": 2850.25,
+      "end": 2850.47,
+      "text": "Olha,",
+      "probability": 0.163
+    },
+    {
+      "start": 2850.51,
+      "end": 2850.63,
+      "text": "meu",
+      "probability": 0.325
+    },
+    {
+      "start": 2850.63,
+      "end": 2850.91,
+      "text": "amor,",
+      "probability": 0.96
+    },
+    {
+      "start": 2850.95,
+      "end": 2851.51,
+      "text": "aonde",
+      "probability": 0.26
+    },
+    {
+      "start": 2851.51,
+      "end": 2851.69,
+      "text": "você",
+      "probability": 0.698
+    },
+    {
+      "start": 2851.69,
+      "end": 2851.91,
+      "text": "está",
+      "probability": 0.597
+    },
+    {
+      "start": 2851.91,
+      "end": 2852.13,
+      "text": "indo?",
+      "probability": 0.505
+    },
+    {
+      "start": 2852.23,
+      "end": 2852.33,
+      "text": "Não",
+      "probability": 0.111
+    },
+    {
+      "start": 2852.33,
+      "end": 2852.43,
+      "text": "vai",
+      "probability": 0.459
+    },
+    {
+      "start": 2852.43,
+      "end": 2852.49,
+      "text": "me",
+      "probability": 0.655
+    },
+    {
+      "start": 2852.49,
+      "end": 2852.67,
+      "text": "falar?",
+      "probability": 0.981
+    },
+    {
+      "start": 2853.39,
+      "end": 2853.83,
+      "text": "Mano,",
+      "probability": 0.77
+    },
+    {
+      "start": 2853.83,
+      "end": 2853.99,
+      "text": "vai",
+      "probability": 0.979
+    },
+    {
+      "start": 2853.99,
+      "end": 2854.33,
+      "text": "partir?",
+      "probability": 0.63
+    },
+    {
+      "start": 2856.76,
+      "end": 2857.2,
+      "text": "Você",
+      "probability": 0.363
+    },
+    {
+      "start": 2857.2,
+      "end": 2857.42,
+      "text": "vai",
+      "probability": 0.973
+    },
+    {
+      "start": 2857.42,
+      "end": 2857.56,
+      "text": "dar",
+      "probability": 0.526
+    },
+    {
+      "start": 2857.56,
+      "end": 2857.78,
+      "text": "tchau",
+      "probability": 0.471
+    },
+    {
+      "start": 2857.78,
+      "end": 2857.9,
+      "text": "pra",
+      "probability": 0.574
+    },
+    {
+      "start": 2857.9,
+      "end": 2858.2,
+      "text": "Mano?",
+      "probability": 0.69
+    },
+    {
+      "start": 2858.7,
+      "end": 2859.14,
+      "text": "Você",
+      "probability": 0.45
+    },
+    {
+      "start": 2859.14,
+      "end": 2859.34,
+      "text": "já",
+      "probability": 0.253
+    },
+    {
+      "start": 2859.34,
+      "end": 2859.44,
+      "text": "me",
+      "probability": 0.978
+    },
+    {
+      "start": 2859.44,
+      "end": 2859.76,
+      "text": "viu?",
+      "probability": 0.985
+    },
+    {
+      "start": 3104.64,
+      "end": 3106.04,
+      "text": "MÚSICA",
+      "probability": 0.541
+    },
+    {
+      "start": 3177.7,
+      "end": 3178.4,
+      "text": "Música",
+      "probability": 0.448
+    },
+    {
+      "start": 3516.47,
+      "end": 3516.95,
+      "text": "Acabei",
+      "probability": 0.742
+    },
+    {
+      "start": 3516.95,
+      "end": 3517.01,
+      "text": "de",
+      "probability": 0.983
+    },
+    {
+      "start": 3517.01,
+      "end": 3517.53,
+      "text": "chamar",
+      "probability": 0.564
+    },
+    {
+      "start": 3517.53,
+      "end": 3517.73,
+      "text": "ela",
+      "probability": 0.13
+    },
+    {
+      "start": 3517.73,
+      "end": 3518.05,
+      "text": "aqui,",
+      "probability": 0.573
+    },
+    {
+      "start": 3518.07,
+      "end": 3518.31,
+      "text": "porque",
+      "probability": 0.409
+    },
+    {
+      "start": 3518.31,
+      "end": 3518.41,
+      "text": "eu",
+      "probability": 0.197
+    },
+    {
+      "start": 3518.41,
+      "end": 3518.71,
+      "text": "não",
+      "probability": 0.329
+    },
+    {
+      "start": 3518.71,
+      "end": 3518.91,
+      "text": "entendi",
+      "probability": 0.468
+    },
+    {
+      "start": 3518.91,
+      "end": 3519.05,
+      "text": "o",
+      "probability": 0.717
+    },
+    {
+      "start": 3519.05,
+      "end": 3519.09,
+      "text": "que",
+      "probability": 0.73
+    },
+    {
+      "start": 3519.09,
+      "end": 3519.21,
+      "text": "ela",
+      "probability": 0.721
+    },
+    {
+      "start": 3519.21,
+      "end": 3519.21,
+      "text": "estava",
+      "probability": 0.445
+    },
+    {
+      "start": 3519.21,
+      "end": 3519.45,
+      "text": "dizendo,",
+      "probability": 0.659
+    },
+    {
+      "start": 3519.45,
+      "end": 3520.11,
+      "text": "mas",
+      "probability": 0.537
+    },
+    {
+      "start": 3520.11,
+      "end": 3520.29,
+      "text": "eu",
+      "probability": 0.66
+    },
+    {
+      "start": 3520.29,
+      "end": 3520.57,
+      "text": "não",
+      "probability": 0.263
+    },
+    {
+      "start": 3520.57,
+      "end": 3520.95,
+      "text": "entendi",
+      "probability": 0.755
+    },
+    {
+      "start": 3520.95,
+      "end": 3521.03,
+      "text": "o",
+      "probability": 0.78
+    },
+    {
+      "start": 3521.03,
+      "end": 3521.15,
+      "text": "que",
+      "probability": 0.995
+    },
+    {
+      "start": 3521.15,
+      "end": 3521.49,
+      "text": "ela",
+      "probability": 0.97
+    },
+    {
+      "start": 3521.49,
+      "end": 3521.49,
+      "text": "estava",
+      "probability": 0.857
+    },
+    {
+      "start": 3521.49,
+      "end": 3521.91,
+      "text": "dizendo,",
+      "probability": 0.943
+    },
+    {
+      "start": 3522.01,
+      "end": 3522.15,
+      "text": "eu",
+      "probability": 0.641
+    },
+    {
+      "start": 3522.15,
+      "end": 3522.35,
+      "text": "não",
+      "probability": 0.845
+    },
+    {
+      "start": 3522.35,
+      "end": 3522.63,
+      "text": "entendi",
+      "probability": 0.988
+    },
+    {
+      "start": 3522.63,
+      "end": 3522.63,
+      "text": "o",
+      "probability": 0.838
+    },
+    {
+      "start": 3522.63,
+      "end": 3522.97,
+      "text": "que",
+      "probability": 0.996
+    },
+    {
+      "start": 3522.97,
+      "end": 3522.97,
+      "text": "ela",
+      "probability": 0.977
+    },
+    {
+      "start": 3522.97,
+      "end": 3523.37,
+      "text": "estava",
+      "probability": 0.975
+    },
+    {
+      "start": 3523.37,
+      "end": 3523.75,
+      "text": "dizendo.",
+      "probability": 0.969
+    }
+  ]
+}

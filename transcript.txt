@@ -1195,3 +1195,24 @@ VOR20260505142032_1420_part002_whisper_vad
 
 VOR20260508063221
 03:08:00 vem amanha
+
+
+
+VOR20260513111815_whisper_vad_demucs_vocals
+20:46
+28:07 gemido
+
+VOR20260513091812_whisper_vad_demucs_vocals
+51:34
+
+
+VOR20260513081811_whisper_vad_demucs_vocals
+49:14
+55
+
+VOR20260513071807_whisper_vad_demucs_vocals
+25
+34 n vem
+39
+47
+56

@@ -1,0 +1,43 @@
+{
+  "source_file": "Antesdormirquarto0505_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1387.5,
+  "segments": {
+    "00:00:47,00:00:50": "Tchau, tchau.",
+    "00:07:31,00:07:35": "Tchau, tchau.",
+    "00:21:51,00:21:53": "Obrigada."
+  },
+  "words": [
+    {
+      "start": 47.49,
+      "end": 48.83,
+      "text": "Tchau,",
+      "probability": 0.489
+    },
+    {
+      "start": 50.18,
+      "end": 50.9,
+      "text": "tchau.",
+      "probability": 0.952
+    },
+    {
+      "start": 451.41,
+      "end": 452.81,
+      "text": "Tchau,",
+      "probability": 0.44
+    },
+    {
+      "start": 453.93,
+      "end": 455.33,
+      "text": "tchau.",
+      "probability": 0.963
+    },
+    {
+      "start": 1311.66,
+      "end": 1313.06,
+      "text": "Obrigada.",
+      "probability": 0.332
+    }
+  ]
+}

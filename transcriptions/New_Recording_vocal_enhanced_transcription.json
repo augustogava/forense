@@ -1,0 +1,676 @@
+{
+  "source_file": "New_Recording_vocal_enhanced.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:03:00,00:03:01": "11 minutos na Forbes Radio.",
+    "00:03:22,00:03:31": "Ainda não foi estimada. Agora a produção deve chegar em 141,71 milhões de toneladas, após um corte de cerca de 1 milhão de toneladas na projeção.",
+    "00:03:31,00:03:41": "Esse novo número divulgado no relatório da consultoria Safras e Mercado é por causa da redução do rendimento esperado para a segunda safra, a chamada safrinha.",
+    "00:03:41,00:03:46": "A queda reflete uma projeção menor de produtividade média da safrinha, que responde pela...",
+    "00:04:42,00:04:45": "Foco em áreas como IA, semicondutores e inovação industrial.",
+    "00:04:46,00:04:54": "A meta é reduzir a dependência de tecnologias estrangeiras, especialmente diante das restrições de exportação impostas pelos Estados Unidos.",
+    "00:04:54,00:04:57": "E aumentar a autossuficiência tecnológica do país.",
+    "00:04:57,00:05:00": "Ao mesmo tempo, a aposta tecnológica...",
+    "00:05:06,00:05:07": "... do setor imobiliário.",
+    "00:08:23,00:08:24": "R$100 gasolina?",
+    "00:09:38,00:09:38": "Obrigado, viu?",
+    "00:11:34,00:11:37": "O que vai nesta sexta-feira ganhar uma moeda."
+  },
+  "words": [
+    {
+      "start": 180.1,
+      "end": 180.18,
+      "text": "11"
+    },
+    {
+      "start": 180.18,
+      "end": 180.42,
+      "text": "minutos"
+    },
+    {
+      "start": 180.42,
+      "end": 180.84,
+      "text": "na"
+    },
+    {
+      "start": 180.84,
+      "end": 181.18,
+      "text": "Forbes"
+    },
+    {
+      "start": 181.18,
+      "end": 181.58,
+      "text": "Radio."
+    },
+    {
+      "start": 202.31,
+      "end": 202.31,
+      "text": "Ainda"
+    },
+    {
+      "start": 202.31,
+      "end": 202.31,
+      "text": "não"
+    },
+    {
+      "start": 202.31,
+      "end": 202.31,
+      "text": "foi"
+    },
+    {
+      "start": 202.31,
+      "end": 202.71,
+      "text": "estimada."
+    },
+    {
+      "start": 202.77,
+      "end": 203.17,
+      "text": "Agora"
+    },
+    {
+      "start": 203.17,
+      "end": 203.41,
+      "text": "a"
+    },
+    {
+      "start": 203.41,
+      "end": 203.69,
+      "text": "produção"
+    },
+    {
+      "start": 203.69,
+      "end": 204.03,
+      "text": "deve"
+    },
+    {
+      "start": 204.03,
+      "end": 204.33,
+      "text": "chegar"
+    },
+    {
+      "start": 204.33,
+      "end": 204.55,
+      "text": "em"
+    },
+    {
+      "start": 204.55,
+      "end": 205.43,
+      "text": "141"
+    },
+    {
+      "start": 205.43,
+      "end": 206.21,
+      "text": ",71"
+    },
+    {
+      "start": 206.21,
+      "end": 206.91,
+      "text": "milhões"
+    },
+    {
+      "start": 206.91,
+      "end": 207.31,
+      "text": "de"
+    },
+    {
+      "start": 207.31,
+      "end": 207.97,
+      "text": "toneladas,"
+    },
+    {
+      "start": 208.03,
+      "end": 208.55,
+      "text": "após"
+    },
+    {
+      "start": 208.55,
+      "end": 208.61,
+      "text": "um"
+    },
+    {
+      "start": 208.61,
+      "end": 209.11,
+      "text": "corte"
+    },
+    {
+      "start": 209.11,
+      "end": 209.17,
+      "text": "de"
+    },
+    {
+      "start": 209.17,
+      "end": 209.43,
+      "text": "cerca"
+    },
+    {
+      "start": 209.43,
+      "end": 209.69,
+      "text": "de"
+    },
+    {
+      "start": 209.69,
+      "end": 209.91,
+      "text": "1"
+    },
+    {
+      "start": 209.91,
+      "end": 210.37,
+      "text": "milhão"
+    },
+    {
+      "start": 210.37,
+      "end": 210.45,
+      "text": "de"
+    },
+    {
+      "start": 210.45,
+      "end": 211.05,
+      "text": "toneladas"
+    },
+    {
+      "start": 211.05,
+      "end": 211.23,
+      "text": "na"
+    },
+    {
+      "start": 211.23,
+      "end": 211.73,
+      "text": "projeção."
+    },
+    {
+      "start": 211.83,
+      "end": 212.15,
+      "text": "Esse"
+    },
+    {
+      "start": 212.15,
+      "end": 212.49,
+      "text": "novo"
+    },
+    {
+      "start": 212.49,
+      "end": 212.83,
+      "text": "número"
+    },
+    {
+      "start": 212.83,
+      "end": 213.49,
+      "text": "divulgado"
+    },
+    {
+      "start": 213.49,
+      "end": 213.65,
+      "text": "no"
+    },
+    {
+      "start": 213.65,
+      "end": 214.17,
+      "text": "relatório"
+    },
+    {
+      "start": 214.17,
+      "end": 214.35,
+      "text": "da"
+    },
+    {
+      "start": 214.35,
+      "end": 214.95,
+      "text": "consultoria"
+    },
+    {
+      "start": 214.95,
+      "end": 215.51,
+      "text": "Safras"
+    },
+    {
+      "start": 215.51,
+      "end": 215.55,
+      "text": "e"
+    },
+    {
+      "start": 215.55,
+      "end": 216.11,
+      "text": "Mercado"
+    },
+    {
+      "start": 216.11,
+      "end": 216.31,
+      "text": "é"
+    },
+    {
+      "start": 216.31,
+      "end": 216.47,
+      "text": "por"
+    },
+    {
+      "start": 216.47,
+      "end": 216.75,
+      "text": "causa"
+    },
+    {
+      "start": 216.75,
+      "end": 216.97,
+      "text": "da"
+    },
+    {
+      "start": 216.97,
+      "end": 217.55,
+      "text": "redução"
+    },
+    {
+      "start": 217.55,
+      "end": 217.73,
+      "text": "do"
+    },
+    {
+      "start": 217.73,
+      "end": 218.19,
+      "text": "rendimento"
+    },
+    {
+      "start": 218.19,
+      "end": 218.77,
+      "text": "esperado"
+    },
+    {
+      "start": 218.77,
+      "end": 218.97,
+      "text": "para"
+    },
+    {
+      "start": 218.97,
+      "end": 219.05,
+      "text": "a"
+    },
+    {
+      "start": 219.05,
+      "end": 219.31,
+      "text": "segunda"
+    },
+    {
+      "start": 219.31,
+      "end": 219.89,
+      "text": "safra,"
+    },
+    {
+      "start": 219.91,
+      "end": 220.09,
+      "text": "a"
+    },
+    {
+      "start": 220.09,
+      "end": 220.57,
+      "text": "chamada"
+    },
+    {
+      "start": 220.57,
+      "end": 221.23,
+      "text": "safrinha."
+    },
+    {
+      "start": 221.27,
+      "end": 221.47,
+      "text": "A"
+    },
+    {
+      "start": 221.47,
+      "end": 221.87,
+      "text": "queda"
+    },
+    {
+      "start": 221.87,
+      "end": 222.41,
+      "text": "reflete"
+    },
+    {
+      "start": 222.41,
+      "end": 222.49,
+      "text": "uma"
+    },
+    {
+      "start": 222.49,
+      "end": 222.99,
+      "text": "projeção"
+    },
+    {
+      "start": 222.99,
+      "end": 223.31,
+      "text": "menor"
+    },
+    {
+      "start": 223.31,
+      "end": 223.69,
+      "text": "de"
+    },
+    {
+      "start": 223.69,
+      "end": 224.21,
+      "text": "produtividade"
+    },
+    {
+      "start": 224.21,
+      "end": 224.73,
+      "text": "média"
+    },
+    {
+      "start": 224.73,
+      "end": 225.07,
+      "text": "da"
+    },
+    {
+      "start": 225.07,
+      "end": 225.61,
+      "text": "safrinha,"
+    },
+    {
+      "start": 225.71,
+      "end": 225.91,
+      "text": "que"
+    },
+    {
+      "start": 225.91,
+      "end": 226.51,
+      "text": "responde"
+    },
+    {
+      "start": 226.51,
+      "end": 226.73,
+      "text": "pela..."
+    },
+    {
+      "start": 282.24,
+      "end": 282.46,
+      "text": "Foco"
+    },
+    {
+      "start": 282.46,
+      "end": 282.6,
+      "text": "em"
+    },
+    {
+      "start": 282.6,
+      "end": 282.86,
+      "text": "áreas"
+    },
+    {
+      "start": 282.86,
+      "end": 283.2,
+      "text": "como"
+    },
+    {
+      "start": 283.2,
+      "end": 283.52,
+      "text": "IA,"
+    },
+    {
+      "start": 283.64,
+      "end": 284.7,
+      "text": "semicondutores"
+    },
+    {
+      "start": 284.7,
+      "end": 284.88,
+      "text": "e"
+    },
+    {
+      "start": 284.88,
+      "end": 285.46,
+      "text": "inovação"
+    },
+    {
+      "start": 285.46,
+      "end": 285.8,
+      "text": "industrial."
+    },
+    {
+      "start": 286.02,
+      "end": 286.3,
+      "text": "A"
+    },
+    {
+      "start": 286.3,
+      "end": 286.52,
+      "text": "meta"
+    },
+    {
+      "start": 286.52,
+      "end": 286.66,
+      "text": "é"
+    },
+    {
+      "start": 286.66,
+      "end": 287.16,
+      "text": "reduzir"
+    },
+    {
+      "start": 287.16,
+      "end": 287.22,
+      "text": "a"
+    },
+    {
+      "start": 287.22,
+      "end": 287.78,
+      "text": "dependência"
+    },
+    {
+      "start": 287.78,
+      "end": 287.92,
+      "text": "de"
+    },
+    {
+      "start": 287.92,
+      "end": 288.58,
+      "text": "tecnologias"
+    },
+    {
+      "start": 288.58,
+      "end": 289.28,
+      "text": "estrangeiras,"
+    },
+    {
+      "start": 289.36,
+      "end": 290.02,
+      "text": "especialmente"
+    },
+    {
+      "start": 290.02,
+      "end": 290.84,
+      "text": "diante"
+    },
+    {
+      "start": 290.84,
+      "end": 291.0,
+      "text": "das"
+    },
+    {
+      "start": 291.0,
+      "end": 291.74,
+      "text": "restrições"
+    },
+    {
+      "start": 291.74,
+      "end": 292.0,
+      "text": "de"
+    },
+    {
+      "start": 292.0,
+      "end": 292.68,
+      "text": "exportação"
+    },
+    {
+      "start": 292.68,
+      "end": 293.52,
+      "text": "impostas"
+    },
+    {
+      "start": 293.52,
+      "end": 293.72,
+      "text": "pelos"
+    },
+    {
+      "start": 293.72,
+      "end": 294.06,
+      "text": "Estados"
+    },
+    {
+      "start": 294.06,
+      "end": 294.46,
+      "text": "Unidos."
+    },
+    {
+      "start": 294.62,
+      "end": 294.88,
+      "text": "E"
+    },
+    {
+      "start": 294.88,
+      "end": 295.22,
+      "text": "aumentar"
+    },
+    {
+      "start": 295.22,
+      "end": 295.56,
+      "text": "a"
+    },
+    {
+      "start": 295.56,
+      "end": 296.5,
+      "text": "autossuficiência"
+    },
+    {
+      "start": 296.5,
+      "end": 297.24,
+      "text": "tecnológica"
+    },
+    {
+      "start": 297.24,
+      "end": 297.34,
+      "text": "do"
+    },
+    {
+      "start": 297.34,
+      "end": 297.6,
+      "text": "país."
+    },
+    {
+      "start": 297.68,
+      "end": 298.12,
+      "text": "Ao"
+    },
+    {
+      "start": 298.12,
+      "end": 298.3,
+      "text": "mesmo"
+    },
+    {
+      "start": 298.3,
+      "end": 298.8,
+      "text": "tempo,"
+    },
+    {
+      "start": 298.8,
+      "end": 299.0,
+      "text": "a"
+    },
+    {
+      "start": 299.0,
+      "end": 299.62,
+      "text": "aposta"
+    },
+    {
+      "start": 299.62,
+      "end": 300.06,
+      "text": "tecnológica..."
+    },
+    {
+      "start": 306.69,
+      "end": 306.71,
+      "text": "..."
+    },
+    {
+      "start": 306.71,
+      "end": 306.77,
+      "text": "do"
+    },
+    {
+      "start": 306.77,
+      "end": 306.91,
+      "text": "setor"
+    },
+    {
+      "start": 306.91,
+      "end": 307.49,
+      "text": "imobiliário."
+    },
+    {
+      "start": 503.81,
+      "end": 503.95,
+      "text": "R"
+    },
+    {
+      "start": 503.95,
+      "end": 504.09,
+      "text": "$100"
+    },
+    {
+      "start": 504.09,
+      "end": 504.49,
+      "text": "gasolina?"
+    },
+    {
+      "start": 578.05,
+      "end": 578.33,
+      "text": "Obrigado,"
+    },
+    {
+      "start": 578.33,
+      "end": 578.45,
+      "text": "viu?"
+    },
+    {
+      "start": 694.37,
+      "end": 694.37,
+      "text": "O"
+    },
+    {
+      "start": 694.37,
+      "end": 694.49,
+      "text": "que"
+    },
+    {
+      "start": 694.49,
+      "end": 694.73,
+      "text": "vai"
+    },
+    {
+      "start": 694.73,
+      "end": 695.13,
+      "text": "nesta"
+    },
+    {
+      "start": 695.13,
+      "end": 695.85,
+      "text": "sexta"
+    },
+    {
+      "start": 695.85,
+      "end": 696.25,
+      "text": "-feira"
+    },
+    {
+      "start": 696.25,
+      "end": 696.47,
+      "text": "ganhar"
+    },
+    {
+      "start": 696.47,
+      "end": 696.83,
+      "text": "uma"
+    },
+    {
+      "start": 696.83,
+      "end": 697.19,
+      "text": "moeda."
+    }
+  ]
+}

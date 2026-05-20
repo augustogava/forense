@@ -1,0 +1,2875 @@
+{
+  "source_file": "audio_toprocess_vocal_enhanced.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:35,00:00:40": "Não tem mais como controlar, a gente para tudo e sai da mandando-a.",
+    "00:00:40,00:00:44": "Quer dizer que se eu puxasse a pista aqui e apertasse agora, ia acabar um estrago ou mais ou menos.",
+    "00:00:44,00:00:47": "Olha, a gente ia ter que controlar você e desembarcar.",
+    "00:00:48,00:00:52": "É melhor não fazer isso, que a autoridade aqui agora mostrou que funciona.",
+    "00:00:52,00:00:54": "Galera, é isso aí, espero que vocês tenham gostado.",
+    "00:00:54,00:00:57": "Não esquece de dar aquele joinha...",
+    "00:00:57,00:00:57": "Eu também?",
+    "00:00:57,00:00:58": "Espera, espera.",
+    "00:00:58,00:01:03": "A gente viu toda a produção de petróleo, toda essa fábrica que a porta forma, mas",
+    "00:01:05,00:01:09": "Uma vida, uma cidade, com mais de 150 pessoas que trabalham aqui.",
+    "00:01:10,00:01:15": "Às vezes esse negócio de movimentar por 24 horas, às vezes elas ficam por 14 dias dentro da plataforma.",
+    "00:01:15,00:01:20": "Onde essas pessoas comem? Onde elas dormem? Onde elas fazem durante todo esse tempo?",
+    "00:01:20,00:01:26": "Vamos conhecer agora o casa aí, que é onde ficam os escritórios, mas é onde ficam os trombos também, para dormir, comer e tudo mais.",
+    "00:01:28,00:01:29": "Obrigado!",
+    "00:01:33,00:01:38": "A gente não quer recomenda, mas vai conceder alguns detalhes que lembram o que a gente quer.",
+    "00:01:38,00:01:41": "É um avião ou uma plataforma de petróleo.",
+    "00:01:41,00:01:45": "O principal é que praticamente todas as portas são portas de fogo.",
+    "00:01:45,00:01:49": "Aqui na porta tem uma inscrição que mostra quantos minutos ela tem de fogo.",
+    "00:01:49,00:01:51": "Nesse caso, essa porta consegue ficar 30 minutos.",
+    "00:01:52,00:01:56": "E a coisa bacana é que todo o interior aqui é pressurizado.",
+    "00:01:56,00:01:59": "Isso quer dizer que se você pegar fogo lá fora, a fumaça não consegue virar.",
+    "00:01:59,00:02:02": "vai sair meio que pra fora. Mas tem uma área mais",
+    "00:02:02,00:02:05": "pressurizada ainda que é a das escadas. Porque se o próprio",
+    "00:02:05,00:02:08": "casarinho pegar fogo, não vai entrar fumaça na região das",
+    "00:02:08,00:02:11": "escadas, as pessoas conseguem sair. Aliás, essa porta",
+    "00:02:11,00:02:16": "tem 60 limões. Aqui é um repertório que só os caras",
+    "00:02:16,00:02:19": "podem ver, está mais reduzido, tem 40 horários, as pessoas se",
+    "00:02:19,00:02:20": "revestem.",
+    "00:02:22,00:02:23": "E aí",
+    "00:02:23,00:02:28": "E aí",
+    "00:02:32,00:02:37": "Uma coisa muito legal que tem aqui é um telefone em toda a sala que você digita no normal.",
+    "00:02:37,00:02:41": "Você consegue dar um recado em um telefone inteirinho.",
+    "00:02:41,00:02:45": "Você pode ver se funciona.",
+    "00:02:45,00:02:46": "Se trata, Isabel.",
+    "00:02:47,00:02:48": "Se trata.",
+    "00:02:50,00:02:51": "Se trata.",
+    "00:02:53,00:02:56": "Traga primeiro, estraga, estraga, estraga.",
+    "00:02:57,00:02:58": "Vem!",
+    "00:03:06,00:03:06": "Ferrou!",
+    "00:03:15,00:03:19": "Vamos na natação!",
+    "00:03:28,00:03:30": "Fala de música",
+    "00:03:30,00:03:32": "E aí",
+    "00:03:33,00:03:33": "E aí",
+    "00:04:10,00:04:13": "A gente tem que falar baixinho, não tem jeito de dormir, não.",
+    "00:04:13,00:04:15": "As pessoas que trabalham, não tem nada de lado, né?",
+    "00:04:15,00:04:16": "A gente tem que falar baixo.",
+    "00:04:24,00:04:26": "E aí",
+    "00:04:26,00:04:29": "E aí",
+    "00:04:43,00:04:45": "nunca se diga uma cabeça debaixo da cama do outro.",
+    "00:04:46,00:04:48": "Outra coisa bacana é que tem uma coitina",
+    "00:04:48,00:04:53": "pra usar de privacidade, pra servir a cidade, tudo mais.",
+    "00:04:53,00:04:56": "Tem ainda uma escrivaninha, uma gaveta pra cada letra",
+    "00:04:56,00:04:57": "e o banheiro de um em dois.",
+    "00:04:57,00:04:59": "Tem um lado e um outro dentro.",
+    "00:05:01,00:05:04": "Mas de onde é que vem a energia pra tudo isso?",
+    "00:05:04,00:05:06": "Vem de uma extensão que sai lá do Rio de Janeiro,",
+    "00:05:06,00:05:08": "bate no mar e chega até a pisoeira.",
+    "00:05:08,00:05:13": "A gente tem quatro termoelétricas aqui de 25 megawatts cada uma.",
+    "00:05:13,00:05:16": "Elas são alimentadas com gás natural ou com óleo diesel.",
+    "00:05:17,00:05:21": "Elas estão aqui do meu lado e seriam suficientes para alimentar mais ou menos 10 vezes a cidade de piedade.",
+    "00:05:21,00:05:23": "Eu tenho mais de 60 mil habitantes.",
+    "00:05:30,00:05:33": "Atenção para ver aqui, com o rosto.",
+    "00:05:34,00:05:36": "Com o rosto.",
+    "00:05:43,00:05:44": "O que?",
+    "00:05:52,00:05:54": "Ah, é meu!",
+    "00:06:05,00:06:06": "Tchau!",
+    "00:27:21,00:27:21": ".",
+    "00:57:56,00:57:56": "Meu amor!",
+    "01:19:19,01:19:19": "Hã?",
+    "01:19:19,01:19:21": "Eu tô sem nada.",
+    "01:19:26,01:19:26": "Obrigado."
+  },
+  "words": [
+    {
+      "start": 35.09,
+      "end": 35.29,
+      "text": "Não"
+    },
+    {
+      "start": 35.29,
+      "end": 35.47,
+      "text": "tem"
+    },
+    {
+      "start": 35.47,
+      "end": 35.85,
+      "text": "mais"
+    },
+    {
+      "start": 35.85,
+      "end": 36.03,
+      "text": "como"
+    },
+    {
+      "start": 36.03,
+      "end": 36.49,
+      "text": "controlar,"
+    },
+    {
+      "start": 36.73,
+      "end": 36.87,
+      "text": "a"
+    },
+    {
+      "start": 36.87,
+      "end": 36.91,
+      "text": "gente"
+    },
+    {
+      "start": 36.91,
+      "end": 37.45,
+      "text": "para"
+    },
+    {
+      "start": 37.45,
+      "end": 38.37,
+      "text": "tudo"
+    },
+    {
+      "start": 38.37,
+      "end": 38.87,
+      "text": "e"
+    },
+    {
+      "start": 38.87,
+      "end": 39.73,
+      "text": "sai"
+    },
+    {
+      "start": 39.73,
+      "end": 39.89,
+      "text": "da"
+    },
+    {
+      "start": 39.89,
+      "end": 40.15,
+      "text": "mandando"
+    },
+    {
+      "start": 40.15,
+      "end": 40.33,
+      "text": "-a."
+    },
+    {
+      "start": 40.59,
+      "end": 40.99,
+      "text": "Quer"
+    },
+    {
+      "start": 40.99,
+      "end": 41.13,
+      "text": "dizer"
+    },
+    {
+      "start": 41.13,
+      "end": 41.23,
+      "text": "que"
+    },
+    {
+      "start": 41.23,
+      "end": 41.33,
+      "text": "se"
+    },
+    {
+      "start": 41.33,
+      "end": 41.43,
+      "text": "eu"
+    },
+    {
+      "start": 41.43,
+      "end": 41.77,
+      "text": "puxasse"
+    },
+    {
+      "start": 41.77,
+      "end": 41.89,
+      "text": "a"
+    },
+    {
+      "start": 41.89,
+      "end": 42.47,
+      "text": "pista"
+    },
+    {
+      "start": 42.47,
+      "end": 42.75,
+      "text": "aqui"
+    },
+    {
+      "start": 42.75,
+      "end": 42.77,
+      "text": "e"
+    },
+    {
+      "start": 42.77,
+      "end": 43.17,
+      "text": "apertasse"
+    },
+    {
+      "start": 43.17,
+      "end": 43.37,
+      "text": "agora,"
+    },
+    {
+      "start": 43.41,
+      "end": 43.53,
+      "text": "ia"
+    },
+    {
+      "start": 43.53,
+      "end": 43.69,
+      "text": "acabar"
+    },
+    {
+      "start": 43.69,
+      "end": 43.81,
+      "text": "um"
+    },
+    {
+      "start": 43.81,
+      "end": 44.17,
+      "text": "estrago"
+    },
+    {
+      "start": 44.17,
+      "end": 44.29,
+      "text": "ou"
+    },
+    {
+      "start": 44.29,
+      "end": 44.43,
+      "text": "mais"
+    },
+    {
+      "start": 44.43,
+      "end": 44.57,
+      "text": "ou"
+    },
+    {
+      "start": 44.57,
+      "end": 44.65,
+      "text": "menos."
+    },
+    {
+      "start": 44.91,
+      "end": 45.31,
+      "text": "Olha,"
+    },
+    {
+      "start": 45.39,
+      "end": 45.49,
+      "text": "a"
+    },
+    {
+      "start": 45.49,
+      "end": 45.71,
+      "text": "gente"
+    },
+    {
+      "start": 45.71,
+      "end": 45.77,
+      "text": "ia"
+    },
+    {
+      "start": 45.77,
+      "end": 45.89,
+      "text": "ter"
+    },
+    {
+      "start": 45.89,
+      "end": 46.07,
+      "text": "que"
+    },
+    {
+      "start": 46.07,
+      "end": 46.53,
+      "text": "controlar"
+    },
+    {
+      "start": 46.53,
+      "end": 46.91,
+      "text": "você"
+    },
+    {
+      "start": 46.91,
+      "end": 47.13,
+      "text": "e"
+    },
+    {
+      "start": 47.13,
+      "end": 47.71,
+      "text": "desembarcar."
+    },
+    {
+      "start": 48.03,
+      "end": 48.35,
+      "text": "É"
+    },
+    {
+      "start": 48.35,
+      "end": 48.67,
+      "text": "melhor"
+    },
+    {
+      "start": 48.67,
+      "end": 48.91,
+      "text": "não"
+    },
+    {
+      "start": 48.91,
+      "end": 49.55,
+      "text": "fazer"
+    },
+    {
+      "start": 49.55,
+      "end": 50.11,
+      "text": "isso,"
+    },
+    {
+      "start": 50.13,
+      "end": 50.21,
+      "text": "que"
+    },
+    {
+      "start": 50.21,
+      "end": 50.21,
+      "text": "a"
+    },
+    {
+      "start": 50.21,
+      "end": 50.61,
+      "text": "autoridade"
+    },
+    {
+      "start": 50.61,
+      "end": 50.87,
+      "text": "aqui"
+    },
+    {
+      "start": 50.87,
+      "end": 51.03,
+      "text": "agora"
+    },
+    {
+      "start": 51.03,
+      "end": 51.49,
+      "text": "mostrou"
+    },
+    {
+      "start": 51.49,
+      "end": 51.65,
+      "text": "que"
+    },
+    {
+      "start": 51.65,
+      "end": 52.03,
+      "text": "funciona."
+    },
+    {
+      "start": 52.79,
+      "end": 53.19,
+      "text": "Galera,"
+    },
+    {
+      "start": 53.19,
+      "end": 53.29,
+      "text": "é"
+    },
+    {
+      "start": 53.29,
+      "end": 53.41,
+      "text": "isso"
+    },
+    {
+      "start": 53.41,
+      "end": 53.57,
+      "text": "aí,"
+    },
+    {
+      "start": 53.67,
+      "end": 53.87,
+      "text": "espero"
+    },
+    {
+      "start": 53.87,
+      "end": 53.97,
+      "text": "que"
+    },
+    {
+      "start": 53.97,
+      "end": 54.07,
+      "text": "vocês"
+    },
+    {
+      "start": 54.07,
+      "end": 54.25,
+      "text": "tenham"
+    },
+    {
+      "start": 54.25,
+      "end": 54.67,
+      "text": "gostado."
+    },
+    {
+      "start": 54.81,
+      "end": 54.95,
+      "text": "Não"
+    },
+    {
+      "start": 54.95,
+      "end": 55.75,
+      "text": "esquece"
+    },
+    {
+      "start": 55.75,
+      "end": 55.91,
+      "text": "de"
+    },
+    {
+      "start": 55.91,
+      "end": 56.17,
+      "text": "dar"
+    },
+    {
+      "start": 56.17,
+      "end": 56.47,
+      "text": "aquele"
+    },
+    {
+      "start": 56.47,
+      "end": 57.01,
+      "text": "joinha..."
+    },
+    {
+      "start": 57.01,
+      "end": 57.01,
+      "text": "Eu"
+    },
+    {
+      "start": 57.01,
+      "end": 57.21,
+      "text": "também?"
+    },
+    {
+      "start": 57.45,
+      "end": 57.85,
+      "text": "Espera,"
+    },
+    {
+      "start": 57.85,
+      "end": 58.11,
+      "text": "espera."
+    },
+    {
+      "start": 58.85,
+      "end": 59.25,
+      "text": "A"
+    },
+    {
+      "start": 59.25,
+      "end": 59.37,
+      "text": "gente"
+    },
+    {
+      "start": 59.37,
+      "end": 59.61,
+      "text": "viu"
+    },
+    {
+      "start": 59.61,
+      "end": 59.87,
+      "text": "toda"
+    },
+    {
+      "start": 59.87,
+      "end": 59.99,
+      "text": "a"
+    },
+    {
+      "start": 59.99,
+      "end": 60.23,
+      "text": "produção"
+    },
+    {
+      "start": 60.23,
+      "end": 60.63,
+      "text": "de"
+    },
+    {
+      "start": 60.63,
+      "end": 61.09,
+      "text": "petróleo,"
+    },
+    {
+      "start": 61.15,
+      "end": 61.27,
+      "text": "toda"
+    },
+    {
+      "start": 61.27,
+      "end": 61.47,
+      "text": "essa"
+    },
+    {
+      "start": 61.47,
+      "end": 62.19,
+      "text": "fábrica"
+    },
+    {
+      "start": 62.19,
+      "end": 62.35,
+      "text": "que"
+    },
+    {
+      "start": 62.35,
+      "end": 62.37,
+      "text": "a"
+    },
+    {
+      "start": 62.37,
+      "end": 62.53,
+      "text": "porta"
+    },
+    {
+      "start": 62.53,
+      "end": 62.89,
+      "text": "forma,"
+    },
+    {
+      "start": 62.97,
+      "end": 63.19,
+      "text": "mas"
+    },
+    {
+      "start": 65.09,
+      "end": 65.51,
+      "text": "Uma"
+    },
+    {
+      "start": 65.51,
+      "end": 65.83,
+      "text": "vida,"
+    },
+    {
+      "start": 66.05,
+      "end": 66.23,
+      "text": "uma"
+    },
+    {
+      "start": 66.23,
+      "end": 66.77,
+      "text": "cidade,"
+    },
+    {
+      "start": 66.99,
+      "end": 67.41,
+      "text": "com"
+    },
+    {
+      "start": 67.41,
+      "end": 67.61,
+      "text": "mais"
+    },
+    {
+      "start": 67.61,
+      "end": 67.71,
+      "text": "de"
+    },
+    {
+      "start": 67.71,
+      "end": 68.19,
+      "text": "150"
+    },
+    {
+      "start": 68.19,
+      "end": 68.93,
+      "text": "pessoas"
+    },
+    {
+      "start": 68.93,
+      "end": 69.15,
+      "text": "que"
+    },
+    {
+      "start": 69.15,
+      "end": 69.61,
+      "text": "trabalham"
+    },
+    {
+      "start": 69.61,
+      "end": 69.91,
+      "text": "aqui."
+    },
+    {
+      "start": 70.13,
+      "end": 70.57,
+      "text": "Às"
+    },
+    {
+      "start": 70.57,
+      "end": 70.65,
+      "text": "vezes"
+    },
+    {
+      "start": 70.65,
+      "end": 70.77,
+      "text": "esse"
+    },
+    {
+      "start": 70.77,
+      "end": 70.99,
+      "text": "negócio"
+    },
+    {
+      "start": 70.99,
+      "end": 71.11,
+      "text": "de"
+    },
+    {
+      "start": 71.11,
+      "end": 71.49,
+      "text": "movimentar"
+    },
+    {
+      "start": 71.49,
+      "end": 71.59,
+      "text": "por"
+    },
+    {
+      "start": 71.59,
+      "end": 71.89,
+      "text": "24"
+    },
+    {
+      "start": 71.89,
+      "end": 72.47,
+      "text": "horas,"
+    },
+    {
+      "start": 72.57,
+      "end": 72.69,
+      "text": "às"
+    },
+    {
+      "start": 72.69,
+      "end": 72.77,
+      "text": "vezes"
+    },
+    {
+      "start": 72.77,
+      "end": 72.93,
+      "text": "elas"
+    },
+    {
+      "start": 72.93,
+      "end": 73.25,
+      "text": "ficam"
+    },
+    {
+      "start": 73.25,
+      "end": 73.37,
+      "text": "por"
+    },
+    {
+      "start": 73.37,
+      "end": 73.77,
+      "text": "14"
+    },
+    {
+      "start": 73.77,
+      "end": 74.41,
+      "text": "dias"
+    },
+    {
+      "start": 74.41,
+      "end": 74.69,
+      "text": "dentro"
+    },
+    {
+      "start": 74.69,
+      "end": 74.81,
+      "text": "da"
+    },
+    {
+      "start": 74.81,
+      "end": 75.09,
+      "text": "plataforma."
+    },
+    {
+      "start": 75.57,
+      "end": 76.01,
+      "text": "Onde"
+    },
+    {
+      "start": 76.01,
+      "end": 76.13,
+      "text": "essas"
+    },
+    {
+      "start": 76.13,
+      "end": 76.47,
+      "text": "pessoas"
+    },
+    {
+      "start": 76.47,
+      "end": 77.05,
+      "text": "comem?"
+    },
+    {
+      "start": 77.07,
+      "end": 77.25,
+      "text": "Onde"
+    },
+    {
+      "start": 77.25,
+      "end": 77.33,
+      "text": "elas"
+    },
+    {
+      "start": 77.33,
+      "end": 78.15,
+      "text": "dormem?"
+    },
+    {
+      "start": 78.19,
+      "end": 78.39,
+      "text": "Onde"
+    },
+    {
+      "start": 78.39,
+      "end": 78.53,
+      "text": "elas"
+    },
+    {
+      "start": 78.53,
+      "end": 79.11,
+      "text": "fazem"
+    },
+    {
+      "start": 79.11,
+      "end": 79.43,
+      "text": "durante"
+    },
+    {
+      "start": 79.43,
+      "end": 79.71,
+      "text": "todo"
+    },
+    {
+      "start": 79.71,
+      "end": 79.89,
+      "text": "esse"
+    },
+    {
+      "start": 79.89,
+      "end": 80.13,
+      "text": "tempo?"
+    },
+    {
+      "start": 80.31,
+      "end": 80.53,
+      "text": "Vamos"
+    },
+    {
+      "start": 80.53,
+      "end": 80.77,
+      "text": "conhecer"
+    },
+    {
+      "start": 80.77,
+      "end": 81.13,
+      "text": "agora"
+    },
+    {
+      "start": 81.13,
+      "end": 81.23,
+      "text": "o"
+    },
+    {
+      "start": 81.23,
+      "end": 81.53,
+      "text": "casa"
+    },
+    {
+      "start": 81.53,
+      "end": 81.91,
+      "text": "aí,"
+    },
+    {
+      "start": 82.01,
+      "end": 82.25,
+      "text": "que"
+    },
+    {
+      "start": 82.25,
+      "end": 82.39,
+      "text": "é"
+    },
+    {
+      "start": 82.39,
+      "end": 82.47,
+      "text": "onde"
+    },
+    {
+      "start": 82.47,
+      "end": 82.83,
+      "text": "ficam"
+    },
+    {
+      "start": 82.83,
+      "end": 82.87,
+      "text": "os"
+    },
+    {
+      "start": 82.87,
+      "end": 83.53,
+      "text": "escritórios,"
+    },
+    {
+      "start": 83.55,
+      "end": 83.81,
+      "text": "mas"
+    },
+    {
+      "start": 83.81,
+      "end": 83.89,
+      "text": "é"
+    },
+    {
+      "start": 83.89,
+      "end": 84.03,
+      "text": "onde"
+    },
+    {
+      "start": 84.03,
+      "end": 84.31,
+      "text": "ficam"
+    },
+    {
+      "start": 84.31,
+      "end": 84.35,
+      "text": "os"
+    },
+    {
+      "start": 84.35,
+      "end": 84.75,
+      "text": "trombos"
+    },
+    {
+      "start": 84.75,
+      "end": 84.97,
+      "text": "também,"
+    },
+    {
+      "start": 85.07,
+      "end": 85.19,
+      "text": "para"
+    },
+    {
+      "start": 85.19,
+      "end": 85.51,
+      "text": "dormir,"
+    },
+    {
+      "start": 85.81,
+      "end": 86.15,
+      "text": "comer"
+    },
+    {
+      "start": 86.15,
+      "end": 86.37,
+      "text": "e"
+    },
+    {
+      "start": 86.37,
+      "end": 86.55,
+      "text": "tudo"
+    },
+    {
+      "start": 86.55,
+      "end": 86.75,
+      "text": "mais."
+    },
+    {
+      "start": 88.71,
+      "end": 89.09,
+      "text": "Obrigado!"
+    },
+    {
+      "start": 93.55,
+      "end": 93.99,
+      "text": "A"
+    },
+    {
+      "start": 93.99,
+      "end": 94.23,
+      "text": "gente"
+    },
+    {
+      "start": 94.23,
+      "end": 94.45,
+      "text": "não"
+    },
+    {
+      "start": 94.45,
+      "end": 94.73,
+      "text": "quer"
+    },
+    {
+      "start": 94.73,
+      "end": 96.13,
+      "text": "recomenda,"
+    },
+    {
+      "start": 96.47,
+      "end": 96.71,
+      "text": "mas"
+    },
+    {
+      "start": 96.71,
+      "end": 96.83,
+      "text": "vai"
+    },
+    {
+      "start": 96.83,
+      "end": 97.19,
+      "text": "conceder"
+    },
+    {
+      "start": 97.19,
+      "end": 97.33,
+      "text": "alguns"
+    },
+    {
+      "start": 97.33,
+      "end": 97.85,
+      "text": "detalhes"
+    },
+    {
+      "start": 97.85,
+      "end": 98.03,
+      "text": "que"
+    },
+    {
+      "start": 98.03,
+      "end": 98.35,
+      "text": "lembram"
+    },
+    {
+      "start": 98.35,
+      "end": 98.45,
+      "text": "o"
+    },
+    {
+      "start": 98.45,
+      "end": 98.51,
+      "text": "que"
+    },
+    {
+      "start": 98.51,
+      "end": 98.59,
+      "text": "a"
+    },
+    {
+      "start": 98.59,
+      "end": 98.67,
+      "text": "gente"
+    },
+    {
+      "start": 98.67,
+      "end": 98.79,
+      "text": "quer."
+    },
+    {
+      "start": 98.87,
+      "end": 98.91,
+      "text": "É"
+    },
+    {
+      "start": 98.91,
+      "end": 99.05,
+      "text": "um"
+    },
+    {
+      "start": 99.05,
+      "end": 99.73,
+      "text": "avião"
+    },
+    {
+      "start": 99.73,
+      "end": 100.19,
+      "text": "ou"
+    },
+    {
+      "start": 100.19,
+      "end": 100.41,
+      "text": "uma"
+    },
+    {
+      "start": 100.41,
+      "end": 100.75,
+      "text": "plataforma"
+    },
+    {
+      "start": 100.75,
+      "end": 100.99,
+      "text": "de"
+    },
+    {
+      "start": 100.99,
+      "end": 101.43,
+      "text": "petróleo."
+    },
+    {
+      "start": 101.55,
+      "end": 101.87,
+      "text": "O"
+    },
+    {
+      "start": 101.87,
+      "end": 102.27,
+      "text": "principal"
+    },
+    {
+      "start": 102.27,
+      "end": 102.49,
+      "text": "é"
+    },
+    {
+      "start": 102.49,
+      "end": 102.55,
+      "text": "que"
+    },
+    {
+      "start": 102.55,
+      "end": 102.81,
+      "text": "praticamente"
+    },
+    {
+      "start": 102.81,
+      "end": 103.17,
+      "text": "todas"
+    },
+    {
+      "start": 103.17,
+      "end": 103.33,
+      "text": "as"
+    },
+    {
+      "start": 103.33,
+      "end": 103.81,
+      "text": "portas"
+    },
+    {
+      "start": 103.81,
+      "end": 103.95,
+      "text": "são"
+    },
+    {
+      "start": 103.95,
+      "end": 104.37,
+      "text": "portas"
+    },
+    {
+      "start": 104.37,
+      "end": 104.39,
+      "text": "de"
+    },
+    {
+      "start": 104.39,
+      "end": 105.41,
+      "text": "fogo."
+    },
+    {
+      "start": 105.51,
+      "end": 105.51,
+      "text": "Aqui"
+    },
+    {
+      "start": 105.51,
+      "end": 105.57,
+      "text": "na"
+    },
+    {
+      "start": 105.57,
+      "end": 105.91,
+      "text": "porta"
+    },
+    {
+      "start": 105.91,
+      "end": 106.23,
+      "text": "tem"
+    },
+    {
+      "start": 106.23,
+      "end": 106.37,
+      "text": "uma"
+    },
+    {
+      "start": 106.37,
+      "end": 106.77,
+      "text": "inscrição"
+    },
+    {
+      "start": 106.77,
+      "end": 106.93,
+      "text": "que"
+    },
+    {
+      "start": 106.93,
+      "end": 107.37,
+      "text": "mostra"
+    },
+    {
+      "start": 107.37,
+      "end": 107.87,
+      "text": "quantos"
+    },
+    {
+      "start": 107.87,
+      "end": 108.11,
+      "text": "minutos"
+    },
+    {
+      "start": 108.11,
+      "end": 108.71,
+      "text": "ela"
+    },
+    {
+      "start": 108.71,
+      "end": 108.91,
+      "text": "tem"
+    },
+    {
+      "start": 108.91,
+      "end": 109.15,
+      "text": "de"
+    },
+    {
+      "start": 109.15,
+      "end": 109.49,
+      "text": "fogo."
+    },
+    {
+      "start": 109.53,
+      "end": 109.69,
+      "text": "Nesse"
+    },
+    {
+      "start": 109.69,
+      "end": 109.95,
+      "text": "caso,"
+    },
+    {
+      "start": 109.97,
+      "end": 110.15,
+      "text": "essa"
+    },
+    {
+      "start": 110.15,
+      "end": 110.37,
+      "text": "porta"
+    },
+    {
+      "start": 110.37,
+      "end": 110.61,
+      "text": "consegue"
+    },
+    {
+      "start": 110.61,
+      "end": 110.85,
+      "text": "ficar"
+    },
+    {
+      "start": 110.85,
+      "end": 111.11,
+      "text": "30"
+    },
+    {
+      "start": 111.11,
+      "end": 111.63,
+      "text": "minutos."
+    },
+    {
+      "start": 112.05,
+      "end": 112.49,
+      "text": "E"
+    },
+    {
+      "start": 112.49,
+      "end": 112.63,
+      "text": "a"
+    },
+    {
+      "start": 112.63,
+      "end": 112.81,
+      "text": "coisa"
+    },
+    {
+      "start": 112.81,
+      "end": 114.07,
+      "text": "bacana"
+    },
+    {
+      "start": 114.07,
+      "end": 114.23,
+      "text": "é"
+    },
+    {
+      "start": 114.23,
+      "end": 114.35,
+      "text": "que"
+    },
+    {
+      "start": 114.35,
+      "end": 114.73,
+      "text": "todo"
+    },
+    {
+      "start": 114.73,
+      "end": 114.81,
+      "text": "o"
+    },
+    {
+      "start": 114.81,
+      "end": 115.07,
+      "text": "interior"
+    },
+    {
+      "start": 115.07,
+      "end": 115.33,
+      "text": "aqui"
+    },
+    {
+      "start": 115.33,
+      "end": 115.43,
+      "text": "é"
+    },
+    {
+      "start": 115.43,
+      "end": 116.13,
+      "text": "pressurizado."
+    },
+    {
+      "start": 116.27,
+      "end": 116.37,
+      "text": "Isso"
+    },
+    {
+      "start": 116.37,
+      "end": 116.49,
+      "text": "quer"
+    },
+    {
+      "start": 116.49,
+      "end": 116.63,
+      "text": "dizer"
+    },
+    {
+      "start": 116.63,
+      "end": 116.77,
+      "text": "que"
+    },
+    {
+      "start": 116.77,
+      "end": 116.85,
+      "text": "se"
+    },
+    {
+      "start": 116.85,
+      "end": 116.93,
+      "text": "você"
+    },
+    {
+      "start": 116.93,
+      "end": 117.15,
+      "text": "pegar"
+    },
+    {
+      "start": 117.15,
+      "end": 117.45,
+      "text": "fogo"
+    },
+    {
+      "start": 117.45,
+      "end": 117.53,
+      "text": "lá"
+    },
+    {
+      "start": 117.53,
+      "end": 117.83,
+      "text": "fora,"
+    },
+    {
+      "start": 117.95,
+      "end": 118.01,
+      "text": "a"
+    },
+    {
+      "start": 118.01,
+      "end": 118.49,
+      "text": "fumaça"
+    },
+    {
+      "start": 118.49,
+      "end": 118.61,
+      "text": "não"
+    },
+    {
+      "start": 118.61,
+      "end": 118.93,
+      "text": "consegue"
+    },
+    {
+      "start": 118.93,
+      "end": 119.43,
+      "text": "virar."
+    },
+    {
+      "start": 119.43,
+      "end": 119.43,
+      "text": "vai"
+    },
+    {
+      "start": 119.43,
+      "end": 120.41,
+      "text": "sair"
+    },
+    {
+      "start": 120.41,
+      "end": 120.67,
+      "text": "meio"
+    },
+    {
+      "start": 120.67,
+      "end": 120.77,
+      "text": "que"
+    },
+    {
+      "start": 120.77,
+      "end": 120.87,
+      "text": "pra"
+    },
+    {
+      "start": 120.87,
+      "end": 121.17,
+      "text": "fora."
+    },
+    {
+      "start": 121.37,
+      "end": 121.77,
+      "text": "Mas"
+    },
+    {
+      "start": 121.77,
+      "end": 121.93,
+      "text": "tem"
+    },
+    {
+      "start": 121.93,
+      "end": 122.03,
+      "text": "uma"
+    },
+    {
+      "start": 122.03,
+      "end": 122.17,
+      "text": "área"
+    },
+    {
+      "start": 122.17,
+      "end": 122.43,
+      "text": "mais"
+    },
+    {
+      "start": 122.43,
+      "end": 123.01,
+      "text": "pressurizada"
+    },
+    {
+      "start": 123.01,
+      "end": 123.19,
+      "text": "ainda"
+    },
+    {
+      "start": 123.19,
+      "end": 123.37,
+      "text": "que"
+    },
+    {
+      "start": 123.37,
+      "end": 123.45,
+      "text": "é"
+    },
+    {
+      "start": 123.45,
+      "end": 123.53,
+      "text": "a"
+    },
+    {
+      "start": 123.53,
+      "end": 123.59,
+      "text": "das"
+    },
+    {
+      "start": 123.59,
+      "end": 124.27,
+      "text": "escadas."
+    },
+    {
+      "start": 124.55,
+      "end": 124.95,
+      "text": "Porque"
+    },
+    {
+      "start": 124.95,
+      "end": 125.13,
+      "text": "se"
+    },
+    {
+      "start": 125.13,
+      "end": 125.23,
+      "text": "o"
+    },
+    {
+      "start": 125.23,
+      "end": 125.43,
+      "text": "próprio"
+    },
+    {
+      "start": 125.43,
+      "end": 125.85,
+      "text": "casarinho"
+    },
+    {
+      "start": 125.85,
+      "end": 126.01,
+      "text": "pegar"
+    },
+    {
+      "start": 126.01,
+      "end": 126.55,
+      "text": "fogo,"
+    },
+    {
+      "start": 126.55,
+      "end": 127.15,
+      "text": "não"
+    },
+    {
+      "start": 127.15,
+      "end": 127.35,
+      "text": "vai"
+    },
+    {
+      "start": 127.35,
+      "end": 127.53,
+      "text": "entrar"
+    },
+    {
+      "start": 127.53,
+      "end": 127.87,
+      "text": "fumaça"
+    },
+    {
+      "start": 127.87,
+      "end": 128.15,
+      "text": "na"
+    },
+    {
+      "start": 128.15,
+      "end": 128.41,
+      "text": "região"
+    },
+    {
+      "start": 128.41,
+      "end": 128.63,
+      "text": "das"
+    },
+    {
+      "start": 128.63,
+      "end": 129.05,
+      "text": "escadas,"
+    },
+    {
+      "start": 129.07,
+      "end": 129.13,
+      "text": "as"
+    },
+    {
+      "start": 129.13,
+      "end": 129.31,
+      "text": "pessoas"
+    },
+    {
+      "start": 129.31,
+      "end": 129.81,
+      "text": "conseguem"
+    },
+    {
+      "start": 129.81,
+      "end": 129.99,
+      "text": "sair."
+    },
+    {
+      "start": 130.41,
+      "end": 130.81,
+      "text": "Aliás,"
+    },
+    {
+      "start": 130.81,
+      "end": 131.13,
+      "text": "essa"
+    },
+    {
+      "start": 131.13,
+      "end": 131.49,
+      "text": "porta"
+    },
+    {
+      "start": 131.49,
+      "end": 132.09,
+      "text": "tem"
+    },
+    {
+      "start": 132.09,
+      "end": 132.81,
+      "text": "60"
+    },
+    {
+      "start": 132.81,
+      "end": 135.07,
+      "text": "limões."
+    },
+    {
+      "start": 135.27,
+      "end": 135.67,
+      "text": "Aqui"
+    },
+    {
+      "start": 135.67,
+      "end": 135.75,
+      "text": "é"
+    },
+    {
+      "start": 135.75,
+      "end": 135.81,
+      "text": "um"
+    },
+    {
+      "start": 135.81,
+      "end": 136.35,
+      "text": "repertório"
+    },
+    {
+      "start": 136.35,
+      "end": 136.49,
+      "text": "que"
+    },
+    {
+      "start": 136.49,
+      "end": 136.73,
+      "text": "só"
+    },
+    {
+      "start": 136.73,
+      "end": 136.81,
+      "text": "os"
+    },
+    {
+      "start": 136.81,
+      "end": 136.93,
+      "text": "caras"
+    },
+    {
+      "start": 136.93,
+      "end": 137.11,
+      "text": "podem"
+    },
+    {
+      "start": 137.11,
+      "end": 137.29,
+      "text": "ver,"
+    },
+    {
+      "start": 137.29,
+      "end": 137.45,
+      "text": "está"
+    },
+    {
+      "start": 137.45,
+      "end": 137.65,
+      "text": "mais"
+    },
+    {
+      "start": 137.65,
+      "end": 138.15,
+      "text": "reduzido,"
+    },
+    {
+      "start": 138.15,
+      "end": 138.29,
+      "text": "tem"
+    },
+    {
+      "start": 138.29,
+      "end": 138.71,
+      "text": "40"
+    },
+    {
+      "start": 138.71,
+      "end": 139.17,
+      "text": "horários,"
+    },
+    {
+      "start": 139.25,
+      "end": 139.35,
+      "text": "as"
+    },
+    {
+      "start": 139.35,
+      "end": 139.49,
+      "text": "pessoas"
+    },
+    {
+      "start": 139.49,
+      "end": 139.81,
+      "text": "se"
+    },
+    {
+      "start": 139.81,
+      "end": 140.35,
+      "text": "revestem."
+    },
+    {
+      "start": 142.35,
+      "end": 142.63,
+      "text": "E"
+    },
+    {
+      "start": 142.63,
+      "end": 143.33,
+      "text": "aí"
+    },
+    {
+      "start": 143.33,
+      "end": 143.33,
+      "text": "E"
+    },
+    {
+      "start": 143.33,
+      "end": 148.63,
+      "text": "aí"
+    },
+    {
+      "start": 152.59,
+      "end": 153.15,
+      "text": "Uma"
+    },
+    {
+      "start": 153.15,
+      "end": 153.33,
+      "text": "coisa"
+    },
+    {
+      "start": 153.33,
+      "end": 153.65,
+      "text": "muito"
+    },
+    {
+      "start": 153.65,
+      "end": 154.09,
+      "text": "legal"
+    },
+    {
+      "start": 154.09,
+      "end": 154.19,
+      "text": "que"
+    },
+    {
+      "start": 154.19,
+      "end": 154.35,
+      "text": "tem"
+    },
+    {
+      "start": 154.35,
+      "end": 154.55,
+      "text": "aqui"
+    },
+    {
+      "start": 154.55,
+      "end": 154.79,
+      "text": "é"
+    },
+    {
+      "start": 154.79,
+      "end": 154.91,
+      "text": "um"
+    },
+    {
+      "start": 154.91,
+      "end": 155.55,
+      "text": "telefone"
+    },
+    {
+      "start": 155.55,
+      "end": 155.61,
+      "text": "em"
+    },
+    {
+      "start": 155.61,
+      "end": 155.77,
+      "text": "toda"
+    },
+    {
+      "start": 155.77,
+      "end": 155.89,
+      "text": "a"
+    },
+    {
+      "start": 155.89,
+      "end": 156.27,
+      "text": "sala"
+    },
+    {
+      "start": 156.27,
+      "end": 156.71,
+      "text": "que"
+    },
+    {
+      "start": 156.71,
+      "end": 156.99,
+      "text": "você"
+    },
+    {
+      "start": 156.99,
+      "end": 157.27,
+      "text": "digita"
+    },
+    {
+      "start": 157.27,
+      "end": 157.51,
+      "text": "no"
+    },
+    {
+      "start": 157.51,
+      "end": 157.79,
+      "text": "normal."
+    },
+    {
+      "start": 157.99,
+      "end": 158.13,
+      "text": "Você"
+    },
+    {
+      "start": 158.13,
+      "end": 158.49,
+      "text": "consegue"
+    },
+    {
+      "start": 158.49,
+      "end": 158.65,
+      "text": "dar"
+    },
+    {
+      "start": 158.65,
+      "end": 158.73,
+      "text": "um"
+    },
+    {
+      "start": 158.73,
+      "end": 159.09,
+      "text": "recado"
+    },
+    {
+      "start": 159.09,
+      "end": 159.23,
+      "text": "em"
+    },
+    {
+      "start": 159.23,
+      "end": 159.41,
+      "text": "um"
+    },
+    {
+      "start": 159.41,
+      "end": 160.33,
+      "text": "telefone"
+    },
+    {
+      "start": 160.33,
+      "end": 161.03,
+      "text": "inteirinho."
+    },
+    {
+      "start": 161.17,
+      "end": 161.45,
+      "text": "Você"
+    },
+    {
+      "start": 161.45,
+      "end": 161.97,
+      "text": "pode"
+    },
+    {
+      "start": 161.97,
+      "end": 163.01,
+      "text": "ver"
+    },
+    {
+      "start": 163.01,
+      "end": 164.67,
+      "text": "se"
+    },
+    {
+      "start": 164.67,
+      "end": 165.01,
+      "text": "funciona."
+    },
+    {
+      "start": 165.23,
+      "end": 165.47,
+      "text": "Se"
+    },
+    {
+      "start": 165.47,
+      "end": 165.79,
+      "text": "trata,"
+    },
+    {
+      "start": 165.79,
+      "end": 166.09,
+      "text": "Isabel."
+    },
+    {
+      "start": 167.95,
+      "end": 168.51,
+      "text": "Se"
+    },
+    {
+      "start": 168.51,
+      "end": 168.79,
+      "text": "trata."
+    },
+    {
+      "start": 170.21,
+      "end": 170.77,
+      "text": "Se"
+    },
+    {
+      "start": 170.77,
+      "end": 171.33,
+      "text": "trata."
+    },
+    {
+      "start": 173.6,
+      "end": 173.8,
+      "text": "Traga"
+    },
+    {
+      "start": 173.8,
+      "end": 173.98,
+      "text": "primeiro,"
+    },
+    {
+      "start": 174.28,
+      "end": 175.0,
+      "text": "estraga,"
+    },
+    {
+      "start": 175.06,
+      "end": 175.7,
+      "text": "estraga,"
+    },
+    {
+      "start": 175.84,
+      "end": 176.8,
+      "text": "estraga."
+    },
+    {
+      "start": 177.12,
+      "end": 178.52,
+      "text": "Vem!"
+    },
+    {
+      "start": 186.08,
+      "end": 186.78,
+      "text": "Ferrou!"
+    },
+    {
+      "start": 195.04,
+      "end": 196.44,
+      "text": "Vamos"
+    },
+    {
+      "start": 196.44,
+      "end": 197.84,
+      "text": "na"
+    },
+    {
+      "start": 197.84,
+      "end": 199.1,
+      "text": "natação!"
+    },
+    {
+      "start": 208.34,
+      "end": 209.1,
+      "text": "Fala"
+    },
+    {
+      "start": 209.1,
+      "end": 209.7,
+      "text": "de"
+    },
+    {
+      "start": 209.7,
+      "end": 210.12,
+      "text": "música"
+    },
+    {
+      "start": 210.12,
+      "end": 210.64,
+      "text": "E"
+    },
+    {
+      "start": 210.64,
+      "end": 212.56,
+      "text": "aí"
+    },
+    {
+      "start": 212.94,
+      "end": 213.32,
+      "text": "E"
+    },
+    {
+      "start": 213.32,
+      "end": 213.42,
+      "text": "aí"
+    },
+    {
+      "start": 250.38,
+      "end": 250.38,
+      "text": "A"
+    },
+    {
+      "start": 250.38,
+      "end": 250.46,
+      "text": "gente"
+    },
+    {
+      "start": 250.46,
+      "end": 250.52,
+      "text": "tem"
+    },
+    {
+      "start": 250.52,
+      "end": 250.62,
+      "text": "que"
+    },
+    {
+      "start": 250.62,
+      "end": 251.0,
+      "text": "falar"
+    },
+    {
+      "start": 251.0,
+      "end": 251.52,
+      "text": "baixinho,"
+    },
+    {
+      "start": 251.6,
+      "end": 251.82,
+      "text": "não"
+    },
+    {
+      "start": 251.82,
+      "end": 251.9,
+      "text": "tem"
+    },
+    {
+      "start": 251.9,
+      "end": 252.16,
+      "text": "jeito"
+    },
+    {
+      "start": 252.16,
+      "end": 252.4,
+      "text": "de"
+    },
+    {
+      "start": 252.4,
+      "end": 252.7,
+      "text": "dormir,"
+    },
+    {
+      "start": 252.84,
+      "end": 253.06,
+      "text": "não."
+    },
+    {
+      "start": 253.2,
+      "end": 253.48,
+      "text": "As"
+    },
+    {
+      "start": 253.48,
+      "end": 253.7,
+      "text": "pessoas"
+    },
+    {
+      "start": 253.7,
+      "end": 253.88,
+      "text": "que"
+    },
+    {
+      "start": 253.88,
+      "end": 254.34,
+      "text": "trabalham,"
+    },
+    {
+      "start": 254.36,
+      "end": 254.46,
+      "text": "não"
+    },
+    {
+      "start": 254.46,
+      "end": 254.6,
+      "text": "tem"
+    },
+    {
+      "start": 254.6,
+      "end": 254.64,
+      "text": "nada"
+    },
+    {
+      "start": 254.64,
+      "end": 254.92,
+      "text": "de"
+    },
+    {
+      "start": 254.92,
+      "end": 254.96,
+      "text": "lado,"
+    },
+    {
+      "start": 255.02,
+      "end": 255.16,
+      "text": "né?"
+    },
+    {
+      "start": 255.7,
+      "end": 255.98,
+      "text": "A"
+    },
+    {
+      "start": 255.98,
+      "end": 256.08,
+      "text": "gente"
+    },
+    {
+      "start": 256.08,
+      "end": 256.18,
+      "text": "tem"
+    },
+    {
+      "start": 256.18,
+      "end": 256.36,
+      "text": "que"
+    },
+    {
+      "start": 256.36,
+      "end": 256.48,
+      "text": "falar"
+    },
+    {
+      "start": 256.48,
+      "end": 256.94,
+      "text": "baixo."
+    },
+    {
+      "start": 264.0,
+      "end": 265.4,
+      "text": "E"
+    },
+    {
+      "start": 265.4,
+      "end": 266.8,
+      "text": "aí"
+    },
+    {
+      "start": 266.8,
+      "end": 268.66,
+      "text": "E"
+    },
+    {
+      "start": 268.66,
+      "end": 269.7,
+      "text": "aí"
+    },
+    {
+      "start": 283.46,
+      "end": 283.48,
+      "text": "nunca"
+    },
+    {
+      "start": 283.48,
+      "end": 283.66,
+      "text": "se"
+    },
+    {
+      "start": 283.66,
+      "end": 283.9,
+      "text": "diga"
+    },
+    {
+      "start": 283.9,
+      "end": 284.0,
+      "text": "uma"
+    },
+    {
+      "start": 284.0,
+      "end": 284.34,
+      "text": "cabeça"
+    },
+    {
+      "start": 284.34,
+      "end": 284.88,
+      "text": "debaixo"
+    },
+    {
+      "start": 284.88,
+      "end": 285.0,
+      "text": "da"
+    },
+    {
+      "start": 285.0,
+      "end": 285.22,
+      "text": "cama"
+    },
+    {
+      "start": 285.22,
+      "end": 285.36,
+      "text": "do"
+    },
+    {
+      "start": 285.36,
+      "end": 285.62,
+      "text": "outro."
+    },
+    {
+      "start": 286.02,
+      "end": 286.46,
+      "text": "Outra"
+    },
+    {
+      "start": 286.46,
+      "end": 286.62,
+      "text": "coisa"
+    },
+    {
+      "start": 286.62,
+      "end": 287.1,
+      "text": "bacana"
+    },
+    {
+      "start": 287.1,
+      "end": 287.2,
+      "text": "é"
+    },
+    {
+      "start": 287.2,
+      "end": 287.26,
+      "text": "que"
+    },
+    {
+      "start": 287.26,
+      "end": 287.36,
+      "text": "tem"
+    },
+    {
+      "start": 287.36,
+      "end": 287.46,
+      "text": "uma"
+    },
+    {
+      "start": 287.46,
+      "end": 288.04,
+      "text": "coitina"
+    },
+    {
+      "start": 288.62,
+      "end": 289.06,
+      "text": "pra"
+    },
+    {
+      "start": 289.06,
+      "end": 289.2,
+      "text": "usar"
+    },
+    {
+      "start": 289.2,
+      "end": 289.42,
+      "text": "de"
+    },
+    {
+      "start": 289.42,
+      "end": 290.72,
+      "text": "privacidade,"
+    },
+    {
+      "start": 290.72,
+      "end": 291.12,
+      "text": "pra"
+    },
+    {
+      "start": 291.12,
+      "end": 291.38,
+      "text": "servir"
+    },
+    {
+      "start": 291.38,
+      "end": 291.56,
+      "text": "a"
+    },
+    {
+      "start": 291.56,
+      "end": 291.66,
+      "text": "cidade,"
+    },
+    {
+      "start": 292.8,
+      "end": 293.06,
+      "text": "tudo"
+    },
+    {
+      "start": 293.06,
+      "end": 293.28,
+      "text": "mais."
+    },
+    {
+      "start": 293.36,
+      "end": 293.62,
+      "text": "Tem"
+    },
+    {
+      "start": 293.62,
+      "end": 293.84,
+      "text": "ainda"
+    },
+    {
+      "start": 293.84,
+      "end": 294.06,
+      "text": "uma"
+    },
+    {
+      "start": 294.06,
+      "end": 294.58,
+      "text": "escrivaninha,"
+    },
+    {
+      "start": 294.7,
+      "end": 294.92,
+      "text": "uma"
+    },
+    {
+      "start": 294.92,
+      "end": 295.28,
+      "text": "gaveta"
+    },
+    {
+      "start": 295.28,
+      "end": 295.48,
+      "text": "pra"
+    },
+    {
+      "start": 295.48,
+      "end": 295.64,
+      "text": "cada"
+    },
+    {
+      "start": 295.64,
+      "end": 296.16,
+      "text": "letra"
+    },
+    {
+      "start": 296.16,
+      "end": 296.3,
+      "text": "e"
+    },
+    {
+      "start": 296.3,
+      "end": 296.5,
+      "text": "o"
+    },
+    {
+      "start": 296.5,
+      "end": 296.8,
+      "text": "banheiro"
+    },
+    {
+      "start": 296.8,
+      "end": 297.1,
+      "text": "de"
+    },
+    {
+      "start": 297.1,
+      "end": 297.18,
+      "text": "um"
+    },
+    {
+      "start": 297.18,
+      "end": 297.42,
+      "text": "em"
+    },
+    {
+      "start": 297.42,
+      "end": 297.68,
+      "text": "dois."
+    },
+    {
+      "start": 297.9,
+      "end": 298.12,
+      "text": "Tem"
+    },
+    {
+      "start": 298.12,
+      "end": 298.12,
+      "text": "um"
+    },
+    {
+      "start": 298.12,
+      "end": 298.42,
+      "text": "lado"
+    },
+    {
+      "start": 298.42,
+      "end": 298.74,
+      "text": "e"
+    },
+    {
+      "start": 298.74,
+      "end": 299.0,
+      "text": "um"
+    },
+    {
+      "start": 299.0,
+      "end": 299.08,
+      "text": "outro"
+    },
+    {
+      "start": 299.08,
+      "end": 299.34,
+      "text": "dentro."
+    },
+    {
+      "start": 301.52,
+      "end": 301.96,
+      "text": "Mas"
+    },
+    {
+      "start": 301.96,
+      "end": 302.14,
+      "text": "de"
+    },
+    {
+      "start": 302.14,
+      "end": 302.42,
+      "text": "onde"
+    },
+    {
+      "start": 302.42,
+      "end": 302.54,
+      "text": "é"
+    },
+    {
+      "start": 302.54,
+      "end": 302.54,
+      "text": "que"
+    },
+    {
+      "start": 302.54,
+      "end": 302.78,
+      "text": "vem"
+    },
+    {
+      "start": 302.78,
+      "end": 302.84,
+      "text": "a"
+    },
+    {
+      "start": 302.84,
+      "end": 303.28,
+      "text": "energia"
+    },
+    {
+      "start": 303.28,
+      "end": 303.6,
+      "text": "pra"
+    },
+    {
+      "start": 303.6,
+      "end": 303.78,
+      "text": "tudo"
+    },
+    {
+      "start": 303.78,
+      "end": 304.1,
+      "text": "isso?"
+    },
+    {
+      "start": 304.2,
+      "end": 304.54,
+      "text": "Vem"
+    },
+    {
+      "start": 304.54,
+      "end": 304.64,
+      "text": "de"
+    },
+    {
+      "start": 304.64,
+      "end": 304.72,
+      "text": "uma"
+    },
+    {
+      "start": 304.72,
+      "end": 305.36,
+      "text": "extensão"
+    },
+    {
+      "start": 305.36,
+      "end": 305.48,
+      "text": "que"
+    },
+    {
+      "start": 305.48,
+      "end": 305.74,
+      "text": "sai"
+    },
+    {
+      "start": 305.74,
+      "end": 305.94,
+      "text": "lá"
+    },
+    {
+      "start": 305.94,
+      "end": 306.06,
+      "text": "do"
+    },
+    {
+      "start": 306.06,
+      "end": 306.2,
+      "text": "Rio"
+    },
+    {
+      "start": 306.2,
+      "end": 306.38,
+      "text": "de"
+    },
+    {
+      "start": 306.38,
+      "end": 306.62,
+      "text": "Janeiro,"
+    },
+    {
+      "start": 306.74,
+      "end": 306.94,
+      "text": "bate"
+    },
+    {
+      "start": 306.94,
+      "end": 307.26,
+      "text": "no"
+    },
+    {
+      "start": 307.26,
+      "end": 307.5,
+      "text": "mar"
+    },
+    {
+      "start": 307.5,
+      "end": 307.62,
+      "text": "e"
+    },
+    {
+      "start": 307.62,
+      "end": 307.84,
+      "text": "chega"
+    },
+    {
+      "start": 307.84,
+      "end": 308.06,
+      "text": "até"
+    },
+    {
+      "start": 308.06,
+      "end": 308.18,
+      "text": "a"
+    },
+    {
+      "start": 308.18,
+      "end": 308.94,
+      "text": "pisoeira."
+    },
+    {
+      "start": 308.94,
+      "end": 309.04,
+      "text": "A"
+    },
+    {
+      "start": 309.04,
+      "end": 309.16,
+      "text": "gente"
+    },
+    {
+      "start": 309.16,
+      "end": 309.36,
+      "text": "tem"
+    },
+    {
+      "start": 309.36,
+      "end": 309.54,
+      "text": "quatro"
+    },
+    {
+      "start": 309.54,
+      "end": 310.56,
+      "text": "termoelétricas"
+    },
+    {
+      "start": 310.56,
+      "end": 310.76,
+      "text": "aqui"
+    },
+    {
+      "start": 310.76,
+      "end": 311.04,
+      "text": "de"
+    },
+    {
+      "start": 311.04,
+      "end": 311.62,
+      "text": "25"
+    },
+    {
+      "start": 311.62,
+      "end": 312.7,
+      "text": "megawatts"
+    },
+    {
+      "start": 312.7,
+      "end": 312.88,
+      "text": "cada"
+    },
+    {
+      "start": 312.88,
+      "end": 313.3,
+      "text": "uma."
+    },
+    {
+      "start": 313.46,
+      "end": 313.88,
+      "text": "Elas"
+    },
+    {
+      "start": 313.88,
+      "end": 313.98,
+      "text": "são"
+    },
+    {
+      "start": 313.98,
+      "end": 314.5,
+      "text": "alimentadas"
+    },
+    {
+      "start": 314.5,
+      "end": 314.7,
+      "text": "com"
+    },
+    {
+      "start": 314.7,
+      "end": 315.02,
+      "text": "gás"
+    },
+    {
+      "start": 315.02,
+      "end": 315.36,
+      "text": "natural"
+    },
+    {
+      "start": 315.36,
+      "end": 316.08,
+      "text": "ou"
+    },
+    {
+      "start": 316.08,
+      "end": 316.3,
+      "text": "com"
+    },
+    {
+      "start": 316.3,
+      "end": 316.6,
+      "text": "óleo"
+    },
+    {
+      "start": 316.6,
+      "end": 316.9,
+      "text": "diesel."
+    },
+    {
+      "start": 317.22,
+      "end": 317.54,
+      "text": "Elas"
+    },
+    {
+      "start": 317.54,
+      "end": 317.68,
+      "text": "estão"
+    },
+    {
+      "start": 317.68,
+      "end": 317.84,
+      "text": "aqui"
+    },
+    {
+      "start": 317.84,
+      "end": 317.96,
+      "text": "do"
+    },
+    {
+      "start": 317.96,
+      "end": 318.1,
+      "text": "meu"
+    },
+    {
+      "start": 318.1,
+      "end": 318.3,
+      "text": "lado"
+    },
+    {
+      "start": 318.3,
+      "end": 318.42,
+      "text": "e"
+    },
+    {
+      "start": 318.42,
+      "end": 318.64,
+      "text": "seriam"
+    },
+    {
+      "start": 318.64,
+      "end": 319.12,
+      "text": "suficientes"
+    },
+    {
+      "start": 319.12,
+      "end": 319.26,
+      "text": "para"
+    },
+    {
+      "start": 319.26,
+      "end": 319.66,
+      "text": "alimentar"
+    },
+    {
+      "start": 319.66,
+      "end": 319.78,
+      "text": "mais"
+    },
+    {
+      "start": 319.78,
+      "end": 319.86,
+      "text": "ou"
+    },
+    {
+      "start": 319.86,
+      "end": 320.06,
+      "text": "menos"
+    },
+    {
+      "start": 320.06,
+      "end": 320.34,
+      "text": "10"
+    },
+    {
+      "start": 320.34,
+      "end": 320.74,
+      "text": "vezes"
+    },
+    {
+      "start": 320.74,
+      "end": 320.94,
+      "text": "a"
+    },
+    {
+      "start": 320.94,
+      "end": 321.18,
+      "text": "cidade"
+    },
+    {
+      "start": 321.18,
+      "end": 321.32,
+      "text": "de"
+    },
+    {
+      "start": 321.32,
+      "end": 321.92,
+      "text": "piedade."
+    },
+    {
+      "start": 321.96,
+      "end": 322.1,
+      "text": "Eu"
+    },
+    {
+      "start": 322.1,
+      "end": 322.2,
+      "text": "tenho"
+    },
+    {
+      "start": 322.2,
+      "end": 322.44,
+      "text": "mais"
+    },
+    {
+      "start": 322.44,
+      "end": 322.56,
+      "text": "de"
+    },
+    {
+      "start": 322.56,
+      "end": 322.9,
+      "text": "60"
+    },
+    {
+      "start": 322.9,
+      "end": 323.42,
+      "text": "mil"
+    },
+    {
+      "start": 323.42,
+      "end": 323.86,
+      "text": "habitantes."
+    },
+    {
+      "start": 330.69,
+      "end": 331.09,
+      "text": "Atenção"
+    },
+    {
+      "start": 331.09,
+      "end": 331.39,
+      "text": "para"
+    },
+    {
+      "start": 331.39,
+      "end": 331.67,
+      "text": "ver"
+    },
+    {
+      "start": 331.67,
+      "end": 331.97,
+      "text": "aqui,"
+    },
+    {
+      "start": 332.11,
+      "end": 332.45,
+      "text": "com"
+    },
+    {
+      "start": 332.45,
+      "end": 332.55,
+      "text": "o"
+    },
+    {
+      "start": 332.55,
+      "end": 333.57,
+      "text": "rosto."
+    },
+    {
+      "start": 334.69,
+      "end": 335.37,
+      "text": "Com"
+    },
+    {
+      "start": 335.37,
+      "end": 335.57,
+      "text": "o"
+    },
+    {
+      "start": 335.57,
+      "end": 336.21,
+      "text": "rosto."
+    },
+    {
+      "start": 343.62,
+      "end": 344.16,
+      "text": "O"
+    },
+    {
+      "start": 344.16,
+      "end": 344.2,
+      "text": "que?"
+    },
+    {
+      "start": 352.96,
+      "end": 353.6,
+      "text": "Ah,"
+    },
+    {
+      "start": 353.74,
+      "end": 354.08,
+      "text": "é"
+    },
+    {
+      "start": 354.08,
+      "end": 354.5,
+      "text": "meu!"
+    },
+    {
+      "start": 365.73,
+      "end": 366.15,
+      "text": "Tchau!"
+    },
+    {
+      "start": 1641.15,
+      "end": 1641.43,
+      "text": "."
+    },
+    {
+      "start": 3476.23,
+      "end": 3476.43,
+      "text": "Meu"
+    },
+    {
+      "start": 3476.43,
+      "end": 3476.69,
+      "text": "amor!"
+    },
+    {
+      "start": 4759.55,
+      "end": 4759.67,
+      "text": "Hã?"
+    },
+    {
+      "start": 4759.73,
+      "end": 4760.05,
+      "text": "Eu"
+    },
+    {
+      "start": 4760.05,
+      "end": 4760.21,
+      "text": "tô"
+    },
+    {
+      "start": 4760.21,
+      "end": 4761.59,
+      "text": "sem"
+    },
+    {
+      "start": 4761.59,
+      "end": 4761.83,
+      "text": "nada."
+    },
+    {
+      "start": 4766.05,
+      "end": 4766.27,
+      "text": "Obrigado."
+    }
+  ]
+}

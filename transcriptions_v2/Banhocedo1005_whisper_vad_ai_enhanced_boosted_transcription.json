@@ -1,0 +1,23 @@
+{
+  "source_file": "Banhocedo1005_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 194.2,
+  "segments": {
+    "00:02:45,00:02:51": "Um abraço."
+  },
+  "words": [
+    {
+      "start": 165.06,
+      "end": 166.0,
+      "text": "Um",
+      "probability": 0.09
+    },
+    {
+      "start": 170.52,
+      "end": 171.1,
+      "text": "abraço.",
+      "probability": 0.944
+    }
+  ]
+}

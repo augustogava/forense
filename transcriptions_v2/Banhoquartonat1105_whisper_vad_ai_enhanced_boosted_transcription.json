@@ -1,0 +1,48 @@
+{
+  "source_file": "Banhoquartonat1105_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 967.1,
+  "segments": {
+    "00:02:04,00:02:05": "É isso aí, gente.",
+    "00:15:47,00:15:51": "Tchau, tchau."
+  },
+  "words": [
+    {
+      "start": 124.66,
+      "end": 125.08,
+      "text": "É",
+      "probability": 0.154
+    },
+    {
+      "start": 125.08,
+      "end": 125.36,
+      "text": "isso",
+      "probability": 0.115
+    },
+    {
+      "start": 125.36,
+      "end": 125.42,
+      "text": "aí,",
+      "probability": 0.727
+    },
+    {
+      "start": 125.54,
+      "end": 125.68,
+      "text": "gente.",
+      "probability": 0.199
+    },
+    {
+      "start": 947.38,
+      "end": 948.78,
+      "text": "Tchau,",
+      "probability": 0.548
+    },
+    {
+      "start": 949.94,
+      "end": 951.34,
+      "text": "tchau.",
+      "probability": 0.807
+    }
+  ]
+}

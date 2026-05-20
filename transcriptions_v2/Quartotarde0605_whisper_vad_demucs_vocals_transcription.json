@@ -1,0 +1,494 @@
+{
+  "source_file": "Quartotarde0605_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3971.3,
+  "segments": {
+    "00:59:40,00:59:42": "Está no chão da espirulina.",
+    "00:59:42,00:59:44": "O amigo dela chegou lá no quinto.",
+    "00:59:49,00:59:51": "Ela está ali. Ela está aqui.",
+    "00:59:51,00:59:52": "Ela foi virar o atleta.",
+    "00:59:53,00:59:55": "A escola está aqui.",
+    "00:59:55,00:59:56": "A escola está aqui.",
+    "01:00:03,01:00:08": "E os caras mal feitos saem lá na avenida, porque elas ficavam desmanteladas,",
+    "01:00:08,01:00:15": "e a loja, eles falam assim, ali no barco, e eles só falam na hora de tirar a vez.",
+    "01:00:24,01:00:33": "Aí, a gente foi lá, e a gente ficou, e a gente ficou lá também.",
+    "01:00:33,01:00:34": "Obrigada."
+  },
+  "words": [
+    {
+      "start": 3580.14,
+      "end": 3580.54,
+      "text": "Está",
+      "probability": 0.192
+    },
+    {
+      "start": 3580.54,
+      "end": 3581.02,
+      "text": "no",
+      "probability": 0.205
+    },
+    {
+      "start": 3581.02,
+      "end": 3581.42,
+      "text": "chão",
+      "probability": 0.802
+    },
+    {
+      "start": 3581.42,
+      "end": 3581.62,
+      "text": "da",
+      "probability": 0.144
+    },
+    {
+      "start": 3581.62,
+      "end": 3582.12,
+      "text": "espirulina.",
+      "probability": 0.548
+    },
+    {
+      "start": 3582.3,
+      "end": 3582.52,
+      "text": "O",
+      "probability": 0.365
+    },
+    {
+      "start": 3582.52,
+      "end": 3582.86,
+      "text": "amigo",
+      "probability": 0.361
+    },
+    {
+      "start": 3582.86,
+      "end": 3583.26,
+      "text": "dela",
+      "probability": 0.677
+    },
+    {
+      "start": 3583.26,
+      "end": 3583.62,
+      "text": "chegou",
+      "probability": 0.909
+    },
+    {
+      "start": 3583.62,
+      "end": 3583.88,
+      "text": "lá",
+      "probability": 0.87
+    },
+    {
+      "start": 3583.88,
+      "end": 3584.04,
+      "text": "no",
+      "probability": 0.336
+    },
+    {
+      "start": 3584.04,
+      "end": 3584.52,
+      "text": "quinto.",
+      "probability": 0.506
+    },
+    {
+      "start": 3589.67,
+      "end": 3589.93,
+      "text": "Ela",
+      "probability": 0.244
+    },
+    {
+      "start": 3589.93,
+      "end": 3590.07,
+      "text": "está",
+      "probability": 0.29
+    },
+    {
+      "start": 3590.07,
+      "end": 3590.09,
+      "text": "ali.",
+      "probability": 0.513
+    },
+    {
+      "start": 3590.37,
+      "end": 3590.73,
+      "text": "Ela",
+      "probability": 0.979
+    },
+    {
+      "start": 3590.73,
+      "end": 3590.93,
+      "text": "está",
+      "probability": 0.553
+    },
+    {
+      "start": 3590.93,
+      "end": 3591.05,
+      "text": "aqui.",
+      "probability": 0.415
+    },
+    {
+      "start": 3591.25,
+      "end": 3591.85,
+      "text": "Ela",
+      "probability": 0.964
+    },
+    {
+      "start": 3591.85,
+      "end": 3592.15,
+      "text": "foi",
+      "probability": 0.81
+    },
+    {
+      "start": 3592.15,
+      "end": 3592.55,
+      "text": "virar",
+      "probability": 0.5
+    },
+    {
+      "start": 3592.55,
+      "end": 3592.63,
+      "text": "o",
+      "probability": 0.157
+    },
+    {
+      "start": 3592.63,
+      "end": 3592.91,
+      "text": "atleta.",
+      "probability": 0.921
+    },
+    {
+      "start": 3593.39,
+      "end": 3593.71,
+      "text": "A",
+      "probability": 0.705
+    },
+    {
+      "start": 3594.32,
+      "end": 3594.7,
+      "text": "escola",
+      "probability": 0.98
+    },
+    {
+      "start": 3594.7,
+      "end": 3595.0,
+      "text": "está",
+      "probability": 0.408
+    },
+    {
+      "start": 3595.0,
+      "end": 3595.38,
+      "text": "aqui.",
+      "probability": 0.937
+    },
+    {
+      "start": 3595.4,
+      "end": 3595.76,
+      "text": "A",
+      "probability": 0.093
+    },
+    {
+      "start": 3595.76,
+      "end": 3596.06,
+      "text": "escola",
+      "probability": 0.84
+    },
+    {
+      "start": 3596.06,
+      "end": 3596.32,
+      "text": "está",
+      "probability": 0.883
+    },
+    {
+      "start": 3596.32,
+      "end": 3596.64,
+      "text": "aqui.",
+      "probability": 0.612
+    },
+    {
+      "start": 3603.1,
+      "end": 3603.38,
+      "text": "E",
+      "probability": 0.193
+    },
+    {
+      "start": 3603.38,
+      "end": 3604.12,
+      "text": "os",
+      "probability": 0.078
+    },
+    {
+      "start": 3604.12,
+      "end": 3604.42,
+      "text": "caras",
+      "probability": 0.479
+    },
+    {
+      "start": 3604.42,
+      "end": 3604.62,
+      "text": "mal",
+      "probability": 0.141
+    },
+    {
+      "start": 3604.62,
+      "end": 3604.9,
+      "text": "feitos",
+      "probability": 0.693
+    },
+    {
+      "start": 3604.9,
+      "end": 3605.46,
+      "text": "saem",
+      "probability": 0.507
+    },
+    {
+      "start": 3605.46,
+      "end": 3605.62,
+      "text": "lá",
+      "probability": 0.289
+    },
+    {
+      "start": 3605.62,
+      "end": 3605.72,
+      "text": "na",
+      "probability": 0.481
+    },
+    {
+      "start": 3605.72,
+      "end": 3606.22,
+      "text": "avenida,",
+      "probability": 0.644
+    },
+    {
+      "start": 3606.28,
+      "end": 3606.56,
+      "text": "porque",
+      "probability": 0.258
+    },
+    {
+      "start": 3606.56,
+      "end": 3606.68,
+      "text": "elas",
+      "probability": 0.313
+    },
+    {
+      "start": 3606.68,
+      "end": 3607.28,
+      "text": "ficavam",
+      "probability": 0.298
+    },
+    {
+      "start": 3607.28,
+      "end": 3608.08,
+      "text": "desmanteladas,",
+      "probability": 0.458
+    },
+    {
+      "start": 3608.4,
+      "end": 3608.4,
+      "text": "e",
+      "probability": 0.327
+    },
+    {
+      "start": 3608.4,
+      "end": 3609.04,
+      "text": "a",
+      "probability": 0.077
+    },
+    {
+      "start": 3609.04,
+      "end": 3609.6,
+      "text": "loja,",
+      "probability": 0.374
+    },
+    {
+      "start": 3609.66,
+      "end": 3610.28,
+      "text": "eles",
+      "probability": 0.526
+    },
+    {
+      "start": 3610.28,
+      "end": 3610.62,
+      "text": "falam",
+      "probability": 0.437
+    },
+    {
+      "start": 3610.62,
+      "end": 3610.76,
+      "text": "assim,",
+      "probability": 0.458
+    },
+    {
+      "start": 3610.8,
+      "end": 3610.98,
+      "text": "ali",
+      "probability": 0.348
+    },
+    {
+      "start": 3610.98,
+      "end": 3611.22,
+      "text": "no",
+      "probability": 0.601
+    },
+    {
+      "start": 3611.22,
+      "end": 3611.68,
+      "text": "barco,",
+      "probability": 0.391
+    },
+    {
+      "start": 3611.72,
+      "end": 3612.6,
+      "text": "e",
+      "probability": 0.743
+    },
+    {
+      "start": 3612.6,
+      "end": 3612.84,
+      "text": "eles",
+      "probability": 0.145
+    },
+    {
+      "start": 3612.84,
+      "end": 3613.22,
+      "text": "só",
+      "probability": 0.107
+    },
+    {
+      "start": 3613.22,
+      "end": 3613.48,
+      "text": "falam",
+      "probability": 0.436
+    },
+    {
+      "start": 3613.48,
+      "end": 3613.68,
+      "text": "na",
+      "probability": 0.311
+    },
+    {
+      "start": 3613.68,
+      "end": 3614.12,
+      "text": "hora",
+      "probability": 0.135
+    },
+    {
+      "start": 3614.12,
+      "end": 3614.86,
+      "text": "de",
+      "probability": 0.502
+    },
+    {
+      "start": 3615.18,
+      "end": 3615.58,
+      "text": "tirar",
+      "probability": 0.492
+    },
+    {
+      "start": 3615.58,
+      "end": 3615.64,
+      "text": "a",
+      "probability": 0.317
+    },
+    {
+      "start": 3615.64,
+      "end": 3615.84,
+      "text": "vez.",
+      "probability": 0.043
+    },
+    {
+      "start": 3624.62,
+      "end": 3625.14,
+      "text": "Aí,",
+      "probability": 0.787
+    },
+    {
+      "start": 3625.3,
+      "end": 3625.7,
+      "text": "a",
+      "probability": 0.396
+    },
+    {
+      "start": 3625.7,
+      "end": 3625.92,
+      "text": "gente",
+      "probability": 0.951
+    },
+    {
+      "start": 3625.92,
+      "end": 3626.12,
+      "text": "foi",
+      "probability": 0.501
+    },
+    {
+      "start": 3626.12,
+      "end": 3626.26,
+      "text": "lá,",
+      "probability": 0.846
+    },
+    {
+      "start": 3626.54,
+      "end": 3626.54,
+      "text": "e",
+      "probability": 0.881
+    },
+    {
+      "start": 3626.54,
+      "end": 3626.66,
+      "text": "a",
+      "probability": 0.909
+    },
+    {
+      "start": 3626.66,
+      "end": 3626.66,
+      "text": "gente",
+      "probability": 0.992
+    },
+    {
+      "start": 3626.66,
+      "end": 3627.5,
+      "text": "ficou,",
+      "probability": 0.195
+    },
+    {
+      "start": 3628.1,
+      "end": 3628.94,
+      "text": "e",
+      "probability": 0.964
+    },
+    {
+      "start": 3629.54,
+      "end": 3629.74,
+      "text": "a",
+      "probability": 0.835
+    },
+    {
+      "start": 3629.74,
+      "end": 3630.74,
+      "text": "gente",
+      "probability": 0.978
+    },
+    {
+      "start": 3632.63,
+      "end": 3632.99,
+      "text": "ficou",
+      "probability": 0.309
+    },
+    {
+      "start": 3632.99,
+      "end": 3633.25,
+      "text": "lá",
+      "probability": 0.37
+    },
+    {
+      "start": 3633.25,
+      "end": 3633.45,
+      "text": "também.",
+      "probability": 0.88
+    },
+    {
+      "start": 3633.45,
+      "end": 3634.95,
+      "text": "Obrigada.",
+      "probability": 0.374
+    }
+  ]
+}

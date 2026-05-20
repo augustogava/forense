@@ -1,0 +1,312 @@
+{
+  "source_file": "transa_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:21,00:00:21": "Atenção!",
+    "00:00:34,00:00:41": "Acompanhe o próximo vídeo para saber mais sobre o que aconteceu com o homem.",
+    "00:00:50,00:00:51": ".",
+    "00:01:25,00:01:26": "Obrigado.",
+    "00:02:11,00:02:13": "Mãe, eu não acho que você pode me ver.",
+    "00:02:13,00:02:16": "Mãe, eu não acho que você pode me ver.",
+    "00:02:17,00:02:19": "Eu não acho que você pode me ver.",
+    "00:02:19,00:02:21": "Eu não acho que você pode me ver.",
+    "00:02:37,00:02:39": "E aí",
+    "00:02:39,00:02:39": "E aí",
+    "00:03:03,00:03:04": "Atenção!",
+    "00:03:08,00:03:08": ".",
+    "00:03:18,00:03:18": "."
+  },
+  "words": [
+    {
+      "start": 21.15,
+      "end": 21.87,
+      "text": "Atenção!"
+    },
+    {
+      "start": 34.63,
+      "end": 36.03,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 36.03,
+      "end": 36.81,
+      "text": "o"
+    },
+    {
+      "start": 36.81,
+      "end": 37.13,
+      "text": "próximo"
+    },
+    {
+      "start": 37.13,
+      "end": 37.99,
+      "text": "vídeo"
+    },
+    {
+      "start": 37.99,
+      "end": 37.99,
+      "text": "para"
+    },
+    {
+      "start": 37.99,
+      "end": 38.01,
+      "text": "saber"
+    },
+    {
+      "start": 38.01,
+      "end": 38.17,
+      "text": "mais"
+    },
+    {
+      "start": 38.17,
+      "end": 38.17,
+      "text": "sobre"
+    },
+    {
+      "start": 38.17,
+      "end": 38.17,
+      "text": "o"
+    },
+    {
+      "start": 38.17,
+      "end": 38.89,
+      "text": "que"
+    },
+    {
+      "start": 38.89,
+      "end": 38.95,
+      "text": "aconteceu"
+    },
+    {
+      "start": 38.95,
+      "end": 39.93,
+      "text": "com"
+    },
+    {
+      "start": 39.93,
+      "end": 41.41,
+      "text": "o"
+    },
+    {
+      "start": 41.41,
+      "end": 41.41,
+      "text": "homem."
+    },
+    {
+      "start": 50.95,
+      "end": 51.43,
+      "text": "."
+    },
+    {
+      "start": 85.41,
+      "end": 86.81,
+      "text": "Obrigado."
+    },
+    {
+      "start": 131.29,
+      "end": 131.59,
+      "text": "Mãe,"
+    },
+    {
+      "start": 131.59,
+      "end": 131.75,
+      "text": "eu"
+    },
+    {
+      "start": 131.75,
+      "end": 131.91,
+      "text": "não"
+    },
+    {
+      "start": 131.91,
+      "end": 132.29,
+      "text": "acho"
+    },
+    {
+      "start": 132.29,
+      "end": 132.35,
+      "text": "que"
+    },
+    {
+      "start": 132.35,
+      "end": 132.63,
+      "text": "você"
+    },
+    {
+      "start": 132.63,
+      "end": 132.87,
+      "text": "pode"
+    },
+    {
+      "start": 132.87,
+      "end": 133.15,
+      "text": "me"
+    },
+    {
+      "start": 133.15,
+      "end": 133.29,
+      "text": "ver."
+    },
+    {
+      "start": 133.31,
+      "end": 133.79,
+      "text": "Mãe,"
+    },
+    {
+      "start": 133.91,
+      "end": 134.09,
+      "text": "eu"
+    },
+    {
+      "start": 134.09,
+      "end": 134.39,
+      "text": "não"
+    },
+    {
+      "start": 134.39,
+      "end": 134.77,
+      "text": "acho"
+    },
+    {
+      "start": 134.77,
+      "end": 135.09,
+      "text": "que"
+    },
+    {
+      "start": 135.09,
+      "end": 135.29,
+      "text": "você"
+    },
+    {
+      "start": 135.29,
+      "end": 135.67,
+      "text": "pode"
+    },
+    {
+      "start": 135.67,
+      "end": 136.11,
+      "text": "me"
+    },
+    {
+      "start": 136.11,
+      "end": 136.87,
+      "text": "ver."
+    },
+    {
+      "start": 137.89,
+      "end": 138.41,
+      "text": "Eu"
+    },
+    {
+      "start": 138.41,
+      "end": 138.93,
+      "text": "não"
+    },
+    {
+      "start": 138.93,
+      "end": 139.37,
+      "text": "acho"
+    },
+    {
+      "start": 139.37,
+      "end": 139.37,
+      "text": "que"
+    },
+    {
+      "start": 139.37,
+      "end": 139.37,
+      "text": "você"
+    },
+    {
+      "start": 139.37,
+      "end": 139.37,
+      "text": "pode"
+    },
+    {
+      "start": 139.37,
+      "end": 139.37,
+      "text": "me"
+    },
+    {
+      "start": 139.37,
+      "end": 139.43,
+      "text": "ver."
+    },
+    {
+      "start": 139.79,
+      "end": 139.79,
+      "text": "Eu"
+    },
+    {
+      "start": 139.79,
+      "end": 140.09,
+      "text": "não"
+    },
+    {
+      "start": 140.09,
+      "end": 140.53,
+      "text": "acho"
+    },
+    {
+      "start": 140.53,
+      "end": 140.53,
+      "text": "que"
+    },
+    {
+      "start": 140.53,
+      "end": 140.53,
+      "text": "você"
+    },
+    {
+      "start": 140.53,
+      "end": 140.53,
+      "text": "pode"
+    },
+    {
+      "start": 140.53,
+      "end": 141.09,
+      "text": "me"
+    },
+    {
+      "start": 141.09,
+      "end": 141.49,
+      "text": "ver."
+    },
+    {
+      "start": 157.84,
+      "end": 158.64,
+      "text": "E"
+    },
+    {
+      "start": 158.64,
+      "end": 159.04,
+      "text": "aí"
+    },
+    {
+      "start": 159.04,
+      "end": 159.24,
+      "text": "E"
+    },
+    {
+      "start": 159.24,
+      "end": 159.8,
+      "text": "aí"
+    },
+    {
+      "start": 183.18,
+      "end": 184.58,
+      "text": "Atenção!"
+    },
+    {
+      "start": 188.58,
+      "end": 188.9,
+      "text": "."
+    },
+    {
+      "start": 198.11,
+      "end": 198.21,
+      "text": "."
+    }
+  ]
+}

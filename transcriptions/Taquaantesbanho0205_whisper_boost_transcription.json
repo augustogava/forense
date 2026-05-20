@@ -1,0 +1,683 @@
+{
+  "source_file": "Taquaantesbanho0205_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:01,00:00:01": ".",
+    "00:00:50,00:00:52": "Atenção!",
+    "00:00:56,00:00:56": "Sim?",
+    "00:00:58,00:00:59": "Que fedor!",
+    "00:01:05,00:01:05": "OUF!",
+    "00:01:12,00:01:16": "Eka, eka, eka, cara de meleza.",
+    "00:01:19,00:01:21": "Atenção! Atenção!",
+    "00:01:23,00:01:24": "Atenção!",
+    "00:01:25,00:01:26": "Atenção!",
+    "00:01:34,00:01:39": "Nossa, essa floda aqui é meio radical mesmo, você viu?",
+    "00:01:41,00:01:42": "Meio radical.",
+    "00:01:43,00:01:45": "Não fazer!",
+    "00:03:03,00:03:04": "Atenção!",
+    "00:03:11,00:03:12": "Ah, eu quero cheirinho.",
+    "00:03:24,00:03:26": "Atenção!",
+    "00:03:31,00:03:32": "Ah, o Mickey!",
+    "00:03:32,00:03:34": "Não, o Mickey!",
+    "00:03:34,00:03:35": "A mamãe vai trocar de roupa.",
+    "00:03:36,00:03:37": "A mamãe vai trocar de roupa.",
+    "00:03:37,00:03:38": "O que é isso?",
+    "00:03:40,00:03:41": "O que é isso?",
+    "00:03:43,00:03:44": "Oh, meu Deus do céu!",
+    "00:03:46,00:03:48": "Ai, eu queria um pouquinho.",
+    "00:03:49,00:03:50": "Hum, meu Deus do céu.",
+    "00:03:50,00:03:51": "Não, não.",
+    "00:03:52,00:03:53": "Só que...",
+    "00:03:53,00:03:58": "Olha, olha o Mickey.",
+    "00:03:58,00:04:01": "A sua amiga e o chato",
+    "00:04:28,00:04:29": "Eu quero falar com a mamãe.",
+    "00:04:30,00:04:30": "O que?",
+    "00:04:31,00:04:35": "Eu quero falar com a mamãe.",
+    "00:04:36,00:04:37": "Responde.",
+    "00:04:37,00:04:38": "Responde.",
+    "00:04:55,00:04:55": "Obrigado.",
+    "00:04:58,00:04:59": "Atenção!",
+    "00:05:06,00:05:07": "Não, não, não.",
+    "00:05:07,00:05:08": "Desperta.",
+    "00:05:09,00:05:11": "Não, não, não.",
+    "00:05:12,00:05:13": "Não, não, não.",
+    "00:06:09,00:06:11": "E aí",
+    "00:06:15,00:06:16": "E aí",
+    "00:07:57,00:07:58": "Aplausos",
+    "00:08:18,00:08:20": "Atenção!",
+    "00:08:23,00:08:23": "."
+  },
+  "words": [
+    {
+      "start": 1.41,
+      "end": 1.63,
+      "text": "."
+    },
+    {
+      "start": 50.95,
+      "end": 52.35,
+      "text": "Atenção!"
+    },
+    {
+      "start": 56.35,
+      "end": 56.53,
+      "text": "Sim?"
+    },
+    {
+      "start": 58.91,
+      "end": 59.11,
+      "text": "Que"
+    },
+    {
+      "start": 59.11,
+      "end": 59.79,
+      "text": "fedor!"
+    },
+    {
+      "start": 65.12,
+      "end": 65.58,
+      "text": "OUF!"
+    },
+    {
+      "start": 72.48,
+      "end": 72.64,
+      "text": "Eka,"
+    },
+    {
+      "start": 72.76,
+      "end": 73.24,
+      "text": "eka,"
+    },
+    {
+      "start": 73.28,
+      "end": 74.14,
+      "text": "eka,"
+    },
+    {
+      "start": 74.14,
+      "end": 74.76,
+      "text": "cara"
+    },
+    {
+      "start": 74.76,
+      "end": 75.02,
+      "text": "de"
+    },
+    {
+      "start": 75.02,
+      "end": 76.08,
+      "text": "meleza."
+    },
+    {
+      "start": 79.01,
+      "end": 79.57,
+      "text": "Atenção!"
+    },
+    {
+      "start": 80.89,
+      "end": 81.59,
+      "text": "Atenção!"
+    },
+    {
+      "start": 83.05,
+      "end": 84.09,
+      "text": "Atenção!"
+    },
+    {
+      "start": 85.17,
+      "end": 86.57,
+      "text": "Atenção!"
+    },
+    {
+      "start": 94.15,
+      "end": 95.03,
+      "text": "Nossa,"
+    },
+    {
+      "start": 95.03,
+      "end": 95.37,
+      "text": "essa"
+    },
+    {
+      "start": 95.37,
+      "end": 95.95,
+      "text": "floda"
+    },
+    {
+      "start": 95.95,
+      "end": 96.11,
+      "text": "aqui"
+    },
+    {
+      "start": 96.11,
+      "end": 96.25,
+      "text": "é"
+    },
+    {
+      "start": 96.25,
+      "end": 96.47,
+      "text": "meio"
+    },
+    {
+      "start": 96.47,
+      "end": 98.29,
+      "text": "radical"
+    },
+    {
+      "start": 98.29,
+      "end": 98.91,
+      "text": "mesmo,"
+    },
+    {
+      "start": 99.09,
+      "end": 99.25,
+      "text": "você"
+    },
+    {
+      "start": 99.25,
+      "end": 99.47,
+      "text": "viu?"
+    },
+    {
+      "start": 101.54,
+      "end": 102.01,
+      "text": "Meio"
+    },
+    {
+      "start": 102.01,
+      "end": 102.81,
+      "text": "radical."
+    },
+    {
+      "start": 103.91,
+      "end": 104.43,
+      "text": "Não"
+    },
+    {
+      "start": 104.43,
+      "end": 105.03,
+      "text": "fazer!"
+    },
+    {
+      "start": 183.4,
+      "end": 184.8,
+      "text": "Atenção!"
+    },
+    {
+      "start": 191.71,
+      "end": 191.85,
+      "text": "Ah,"
+    },
+    {
+      "start": 191.85,
+      "end": 191.93,
+      "text": "eu"
+    },
+    {
+      "start": 191.93,
+      "end": 192.15,
+      "text": "quero"
+    },
+    {
+      "start": 192.15,
+      "end": 192.53,
+      "text": "cheirinho."
+    },
+    {
+      "start": 204.94,
+      "end": 206.34,
+      "text": "Atenção!"
+    },
+    {
+      "start": 211.59,
+      "end": 211.79,
+      "text": "Ah,"
+    },
+    {
+      "start": 211.91,
+      "end": 212.13,
+      "text": "o"
+    },
+    {
+      "start": 212.13,
+      "end": 212.45,
+      "text": "Mickey!"
+    },
+    {
+      "start": 212.91,
+      "end": 213.35,
+      "text": "Não,"
+    },
+    {
+      "start": 213.65,
+      "end": 213.69,
+      "text": "o"
+    },
+    {
+      "start": 213.69,
+      "end": 214.07,
+      "text": "Mickey!"
+    },
+    {
+      "start": 214.25,
+      "end": 214.71,
+      "text": "A"
+    },
+    {
+      "start": 214.71,
+      "end": 214.89,
+      "text": "mamãe"
+    },
+    {
+      "start": 214.89,
+      "end": 215.03,
+      "text": "vai"
+    },
+    {
+      "start": 215.03,
+      "end": 215.37,
+      "text": "trocar"
+    },
+    {
+      "start": 215.37,
+      "end": 215.55,
+      "text": "de"
+    },
+    {
+      "start": 215.55,
+      "end": 215.89,
+      "text": "roupa."
+    },
+    {
+      "start": 216.03,
+      "end": 216.29,
+      "text": "A"
+    },
+    {
+      "start": 216.29,
+      "end": 216.61,
+      "text": "mamãe"
+    },
+    {
+      "start": 216.61,
+      "end": 216.71,
+      "text": "vai"
+    },
+    {
+      "start": 216.71,
+      "end": 216.93,
+      "text": "trocar"
+    },
+    {
+      "start": 216.93,
+      "end": 217.15,
+      "text": "de"
+    },
+    {
+      "start": 217.15,
+      "end": 217.15,
+      "text": "roupa."
+    },
+    {
+      "start": 217.21,
+      "end": 217.69,
+      "text": "O"
+    },
+    {
+      "start": 217.69,
+      "end": 217.73,
+      "text": "que"
+    },
+    {
+      "start": 217.73,
+      "end": 217.75,
+      "text": "é"
+    },
+    {
+      "start": 217.75,
+      "end": 218.05,
+      "text": "isso?"
+    },
+    {
+      "start": 220.13,
+      "end": 220.73,
+      "text": "O"
+    },
+    {
+      "start": 220.73,
+      "end": 221.03,
+      "text": "que"
+    },
+    {
+      "start": 221.03,
+      "end": 221.21,
+      "text": "é"
+    },
+    {
+      "start": 221.21,
+      "end": 221.41,
+      "text": "isso?"
+    },
+    {
+      "start": 223.65,
+      "end": 223.65,
+      "text": "Oh,"
+    },
+    {
+      "start": 223.65,
+      "end": 223.71,
+      "text": "meu"
+    },
+    {
+      "start": 223.71,
+      "end": 223.93,
+      "text": "Deus"
+    },
+    {
+      "start": 223.93,
+      "end": 224.11,
+      "text": "do"
+    },
+    {
+      "start": 224.11,
+      "end": 224.31,
+      "text": "céu!"
+    },
+    {
+      "start": 226.33,
+      "end": 226.93,
+      "text": "Ai,"
+    },
+    {
+      "start": 227.09,
+      "end": 227.31,
+      "text": "eu"
+    },
+    {
+      "start": 227.31,
+      "end": 227.65,
+      "text": "queria"
+    },
+    {
+      "start": 227.65,
+      "end": 227.83,
+      "text": "um"
+    },
+    {
+      "start": 227.83,
+      "end": 228.27,
+      "text": "pouquinho."
+    },
+    {
+      "start": 229.13,
+      "end": 229.45,
+      "text": "Hum,"
+    },
+    {
+      "start": 229.45,
+      "end": 229.75,
+      "text": "meu"
+    },
+    {
+      "start": 229.75,
+      "end": 229.95,
+      "text": "Deus"
+    },
+    {
+      "start": 229.95,
+      "end": 230.13,
+      "text": "do"
+    },
+    {
+      "start": 230.13,
+      "end": 230.51,
+      "text": "céu."
+    },
+    {
+      "start": 230.87,
+      "end": 231.47,
+      "text": "Não,"
+    },
+    {
+      "start": 231.49,
+      "end": 231.77,
+      "text": "não."
+    },
+    {
+      "start": 232.83,
+      "end": 233.43,
+      "text": "Só"
+    },
+    {
+      "start": 233.43,
+      "end": 233.85,
+      "text": "que..."
+    },
+    {
+      "start": 233.85,
+      "end": 234.89,
+      "text": "Olha,"
+    },
+    {
+      "start": 237.89,
+      "end": 238.19,
+      "text": "olha"
+    },
+    {
+      "start": 238.19,
+      "end": 238.25,
+      "text": "o"
+    },
+    {
+      "start": 238.25,
+      "end": 238.39,
+      "text": "Mickey."
+    },
+    {
+      "start": 238.39,
+      "end": 239.57,
+      "text": "A"
+    },
+    {
+      "start": 239.57,
+      "end": 239.97,
+      "text": "sua"
+    },
+    {
+      "start": 239.97,
+      "end": 240.51,
+      "text": "amiga"
+    },
+    {
+      "start": 240.51,
+      "end": 240.89,
+      "text": "e"
+    },
+    {
+      "start": 240.89,
+      "end": 241.11,
+      "text": "o"
+    },
+    {
+      "start": 241.11,
+      "end": 241.61,
+      "text": "chato"
+    },
+    {
+      "start": 268.39,
+      "end": 268.39,
+      "text": "Eu"
+    },
+    {
+      "start": 268.39,
+      "end": 268.43,
+      "text": "quero"
+    },
+    {
+      "start": 268.43,
+      "end": 268.57,
+      "text": "falar"
+    },
+    {
+      "start": 268.57,
+      "end": 268.73,
+      "text": "com"
+    },
+    {
+      "start": 268.73,
+      "end": 268.83,
+      "text": "a"
+    },
+    {
+      "start": 268.83,
+      "end": 269.13,
+      "text": "mamãe."
+    },
+    {
+      "start": 270.53,
+      "end": 270.79,
+      "text": "O"
+    },
+    {
+      "start": 270.79,
+      "end": 270.85,
+      "text": "que?"
+    },
+    {
+      "start": 271.09,
+      "end": 271.31,
+      "text": "Eu"
+    },
+    {
+      "start": 271.31,
+      "end": 273.63,
+      "text": "quero"
+    },
+    {
+      "start": 273.63,
+      "end": 273.63,
+      "text": "falar"
+    },
+    {
+      "start": 273.63,
+      "end": 273.63,
+      "text": "com"
+    },
+    {
+      "start": 273.63,
+      "end": 273.63,
+      "text": "a"
+    },
+    {
+      "start": 273.63,
+      "end": 275.43,
+      "text": "mamãe."
+    },
+    {
+      "start": 276.47,
+      "end": 277.03,
+      "text": "Responde."
+    },
+    {
+      "start": 277.89,
+      "end": 278.45,
+      "text": "Responde."
+    },
+    {
+      "start": 295.37,
+      "end": 295.75,
+      "text": "Obrigado."
+    },
+    {
+      "start": 298.88,
+      "end": 299.76,
+      "text": "Atenção!"
+    },
+    {
+      "start": 306.25,
+      "end": 306.55,
+      "text": "Não,"
+    },
+    {
+      "start": 306.69,
+      "end": 306.69,
+      "text": "não,"
+    },
+    {
+      "start": 306.83,
+      "end": 307.07,
+      "text": "não."
+    },
+    {
+      "start": 307.77,
+      "end": 308.31,
+      "text": "Desperta."
+    },
+    {
+      "start": 309.31,
+      "end": 309.85,
+      "text": "Não,"
+    },
+    {
+      "start": 311.47,
+      "end": 311.47,
+      "text": "não,"
+    },
+    {
+      "start": 311.47,
+      "end": 311.89,
+      "text": "não."
+    },
+    {
+      "start": 312.09,
+      "end": 312.51,
+      "text": "Não,"
+    },
+    {
+      "start": 312.79,
+      "end": 312.79,
+      "text": "não,"
+    },
+    {
+      "start": 312.93,
+      "end": 313.09,
+      "text": "não."
+    },
+    {
+      "start": 369.53,
+      "end": 370.33,
+      "text": "E"
+    },
+    {
+      "start": 370.33,
+      "end": 371.13,
+      "text": "aí"
+    },
+    {
+      "start": 375.27,
+      "end": 376.07,
+      "text": "E"
+    },
+    {
+      "start": 376.07,
+      "end": 376.87,
+      "text": "aí"
+    },
+    {
+      "start": 477.39,
+      "end": 478.79,
+      "text": "Aplausos"
+    },
+    {
+      "start": 498.47,
+      "end": 500.11,
+      "text": "Atenção!"
+    },
+    {
+      "start": 503.11,
+      "end": 503.33,
+      "text": "."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "source_file": "Banhocedo1005_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:11,00:00:12": "Atenção!"
+  },
+  "words": [
+    {
+      "start": 11.26,
+      "end": 12.66,
+      "text": "Atenção!"
+    }
+  ]
+}

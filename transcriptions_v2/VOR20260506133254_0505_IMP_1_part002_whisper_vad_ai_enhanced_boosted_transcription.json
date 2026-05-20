@@ -1,0 +1,24 @@
+{
+  "source_file": "VOR20260506133254_0505_IMP_1_part002_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3679.7,
+  "segments": {
+    "00:57:02,00:57:02": "Não!",
+    "00:57:02,00:57:03": "Não!"
+  },
+  "words": [
+    {
+      "start": 3422.27,
+      "end": 3422.35,
+      "text": "Não!",
+      "probability": 0.059
+    },
+    {
+      "start": 3422.93,
+      "end": 3423.89,
+      "text": "Não!",
+      "probability": 0.703
+    }
+  ]
+}

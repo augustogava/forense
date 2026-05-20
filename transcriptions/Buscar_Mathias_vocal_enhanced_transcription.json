@@ -1,0 +1,76 @@
+{
+  "source_file": "Buscar_Mathias_vocal_enhanced.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:56,00:00:56": ".",
+    "00:01:03,00:01:04": "O que é o sexo? É um tipo de sexo.",
+    "00:03:49,00:03:49": "."
+  },
+  "explicit_segments": {
+    "00:01:03,00:01:04": "O que é o sexo? É um tipo de sexo."
+  },
+  "explicit_count": 1,
+  "words": [
+    {
+      "start": 56.45,
+      "end": 56.71,
+      "text": "."
+    },
+    {
+      "start": 63.11,
+      "end": 63.11,
+      "text": "O"
+    },
+    {
+      "start": 63.11,
+      "end": 63.11,
+      "text": "que"
+    },
+    {
+      "start": 63.11,
+      "end": 63.11,
+      "text": "é"
+    },
+    {
+      "start": 63.11,
+      "end": 63.11,
+      "text": "o"
+    },
+    {
+      "start": 63.11,
+      "end": 63.11,
+      "text": "sexo?"
+    },
+    {
+      "start": 63.23,
+      "end": 63.45,
+      "text": "É"
+    },
+    {
+      "start": 63.45,
+      "end": 63.61,
+      "text": "um"
+    },
+    {
+      "start": 63.61,
+      "end": 64.01,
+      "text": "tipo"
+    },
+    {
+      "start": 64.01,
+      "end": 64.15,
+      "text": "de"
+    },
+    {
+      "start": 64.15,
+      "end": 64.37,
+      "text": "sexo."
+    },
+    {
+      "start": 229.7,
+      "end": 229.9,
+      "text": "."
+    }
+  ]
+}

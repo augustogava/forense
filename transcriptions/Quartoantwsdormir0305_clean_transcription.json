@@ -1,0 +1,46 @@
+{
+  "source_file": "Quartoantwsdormir0305_clean.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:02:36,00:02:36": "A ideia do bebê.",
+    "00:04:42,00:04:43": "Então, tá bom."
+  },
+  "words": [
+    {
+      "start": 156.39,
+      "end": 156.39,
+      "text": "A"
+    },
+    {
+      "start": 156.39,
+      "end": 156.45,
+      "text": "ideia"
+    },
+    {
+      "start": 156.45,
+      "end": 156.53,
+      "text": "do"
+    },
+    {
+      "start": 156.53,
+      "end": 156.83,
+      "text": "bebê."
+    },
+    {
+      "start": 282.31,
+      "end": 282.77,
+      "text": "Então,"
+    },
+    {
+      "start": 282.85,
+      "end": 283.03,
+      "text": "tá"
+    },
+    {
+      "start": 283.03,
+      "end": 283.19,
+      "text": "bom."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "source_file": "VOR20260505101552_2215_part001_clean_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "vad": "no_speech_detected",
+  "segments": {}
+}

@@ -1,0 +1,643 @@
+{
+  "source_file": "Descicarro_whisper_boost.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 892.4,
+  "segments": {
+    "00:00:01,00:00:11": "Não, não, Matias! Matias! Escutou ele! Não! Matias!",
+    "00:00:29,00:00:56": "Não, você vai cair, Matias! Vai cair daí!",
+    "00:09:46,00:09:47": "Eu vou ter que ensinar uma coisa?",
+    "00:09:48,00:09:49": "Bom?",
+    "00:10:01,00:10:01": "Nossa, mas que é!",
+    "00:10:02,00:10:03": "Você não quer mais?",
+    "00:10:13,00:10:14": "Não vai?",
+    "00:10:14,00:10:27": "O que é isso aí?",
+    "00:10:27,00:10:51": "Nossa, mas que é isso aí?",
+    "00:10:51,00:10:51": "Acabei de ver o filho.",
+    "00:10:51,00:10:52": "O que é isso aí?",
+    "00:10:52,00:10:54": "Não quero ensinar, meu irmão.",
+    "00:10:55,00:10:56": "O que é isso aí?",
+    "00:10:56,00:11:17": "Eu não quero ensinar.",
+    "00:11:21,00:11:21": "O que é isso aí?",
+    "00:11:22,00:11:22": "O que é isso aí?",
+    "00:11:22,00:11:23": "Eu falo normal, você não vai me falar.",
+    "00:11:23,00:11:24": "Eu não sei o que.",
+    "00:11:25,00:11:25": "Eu não quero ensinar.",
+    "00:11:25,00:11:26": "Eu não quero ensinar.",
+    "00:11:39,00:11:40": "Nossa senhora!"
+  },
+  "words": [
+    {
+      "start": 1.18,
+      "end": 1.74,
+      "text": "Não,",
+      "probability": 0.587
+    },
+    {
+      "start": 1.74,
+      "end": 2.02,
+      "text": "não,",
+      "probability": 0.762
+    },
+    {
+      "start": 2.02,
+      "end": 2.78,
+      "text": "Matias!",
+      "probability": 0.826
+    },
+    {
+      "start": 3.63,
+      "end": 4.19,
+      "text": "Matias!",
+      "probability": 0.817
+    },
+    {
+      "start": 6.42,
+      "end": 6.98,
+      "text": "Escutou",
+      "probability": 0.695
+    },
+    {
+      "start": 6.98,
+      "end": 7.18,
+      "text": "ele!",
+      "probability": 0.937
+    },
+    {
+      "start": 10.37,
+      "end": 10.93,
+      "text": "Não!",
+      "probability": 0.969
+    },
+    {
+      "start": 11.29,
+      "end": 11.85,
+      "text": "Matias!",
+      "probability": 0.85
+    },
+    {
+      "start": 29.39,
+      "end": 29.95,
+      "text": "Não,",
+      "probability": 0.68
+    },
+    {
+      "start": 53.96,
+      "end": 54.12,
+      "text": "você",
+      "probability": 0.749
+    },
+    {
+      "start": 54.12,
+      "end": 54.26,
+      "text": "vai",
+      "probability": 0.989
+    },
+    {
+      "start": 54.26,
+      "end": 54.46,
+      "text": "cair,",
+      "probability": 0.998
+    },
+    {
+      "start": 54.5,
+      "end": 54.82,
+      "text": "Matias!",
+      "probability": 0.999
+    },
+    {
+      "start": 55.28,
+      "end": 55.84,
+      "text": "Vai",
+      "probability": 0.688
+    },
+    {
+      "start": 55.84,
+      "end": 56.1,
+      "text": "cair",
+      "probability": 0.982
+    },
+    {
+      "start": 56.1,
+      "end": 56.2,
+      "text": "daí!",
+      "probability": 0.979
+    },
+    {
+      "start": 586.65,
+      "end": 587.01,
+      "text": "Eu",
+      "probability": 0.057
+    },
+    {
+      "start": 587.01,
+      "end": 587.19,
+      "text": "vou",
+      "probability": 0.723
+    },
+    {
+      "start": 587.19,
+      "end": 587.33,
+      "text": "ter",
+      "probability": 0.922
+    },
+    {
+      "start": 587.33,
+      "end": 587.43,
+      "text": "que",
+      "probability": 0.975
+    },
+    {
+      "start": 587.43,
+      "end": 587.63,
+      "text": "ensinar",
+      "probability": 0.542
+    },
+    {
+      "start": 587.63,
+      "end": 587.67,
+      "text": "uma",
+      "probability": 0.252
+    },
+    {
+      "start": 587.67,
+      "end": 587.87,
+      "text": "coisa?",
+      "probability": 0.979
+    },
+    {
+      "start": 588.92,
+      "end": 589.28,
+      "text": "Bom?",
+      "probability": 0.359
+    },
+    {
+      "start": 601.0,
+      "end": 601.36,
+      "text": "Nossa,",
+      "probability": 0.665
+    },
+    {
+      "start": 601.36,
+      "end": 601.66,
+      "text": "mas",
+      "probability": 0.803
+    },
+    {
+      "start": 601.66,
+      "end": 601.66,
+      "text": "que",
+      "probability": 0.716
+    },
+    {
+      "start": 601.66,
+      "end": 601.86,
+      "text": "é!",
+      "probability": 0.778
+    },
+    {
+      "start": 602.24,
+      "end": 602.6,
+      "text": "Você",
+      "probability": 0.3
+    },
+    {
+      "start": 603.27,
+      "end": 603.37,
+      "text": "não",
+      "probability": 0.878
+    },
+    {
+      "start": 603.37,
+      "end": 603.57,
+      "text": "quer",
+      "probability": 0.973
+    },
+    {
+      "start": 603.57,
+      "end": 603.77,
+      "text": "mais?",
+      "probability": 1.0
+    },
+    {
+      "start": 613.59,
+      "end": 613.95,
+      "text": "Não",
+      "probability": 0.926
+    },
+    {
+      "start": 613.95,
+      "end": 614.13,
+      "text": "vai?",
+      "probability": 0.783
+    },
+    {
+      "start": 614.39,
+      "end": 614.63,
+      "text": "O",
+      "probability": 0.104
+    },
+    {
+      "start": 627.4,
+      "end": 627.48,
+      "text": "que",
+      "probability": 0.988
+    },
+    {
+      "start": 627.48,
+      "end": 627.6,
+      "text": "é",
+      "probability": 0.869
+    },
+    {
+      "start": 627.6,
+      "end": 627.72,
+      "text": "isso",
+      "probability": 0.89
+    },
+    {
+      "start": 627.72,
+      "end": 627.74,
+      "text": "aí?",
+      "probability": 0.759
+    },
+    {
+      "start": 627.74,
+      "end": 627.9,
+      "text": "Nossa,",
+      "probability": 0.84
+    },
+    {
+      "start": 628.04,
+      "end": 628.18,
+      "text": "mas",
+      "probability": 0.09
+    },
+    {
+      "start": 628.18,
+      "end": 628.42,
+      "text": "que",
+      "probability": 0.188
+    },
+    {
+      "start": 650.95,
+      "end": 650.97,
+      "text": "é",
+      "probability": 0.117
+    },
+    {
+      "start": 650.97,
+      "end": 651.03,
+      "text": "isso",
+      "probability": 0.916
+    },
+    {
+      "start": 651.03,
+      "end": 651.03,
+      "text": "aí?",
+      "probability": 0.284
+    },
+    {
+      "start": 651.03,
+      "end": 651.33,
+      "text": "Acabei",
+      "probability": 0.694
+    },
+    {
+      "start": 651.33,
+      "end": 651.41,
+      "text": "de",
+      "probability": 0.862
+    },
+    {
+      "start": 651.41,
+      "end": 651.51,
+      "text": "ver",
+      "probability": 0.302
+    },
+    {
+      "start": 651.51,
+      "end": 651.59,
+      "text": "o",
+      "probability": 0.543
+    },
+    {
+      "start": 651.59,
+      "end": 651.79,
+      "text": "filho.",
+      "probability": 0.046
+    },
+    {
+      "start": 651.97,
+      "end": 652.13,
+      "text": "O",
+      "probability": 0.76
+    },
+    {
+      "start": 652.13,
+      "end": 652.15,
+      "text": "que",
+      "probability": 0.961
+    },
+    {
+      "start": 652.15,
+      "end": 652.31,
+      "text": "é",
+      "probability": 0.974
+    },
+    {
+      "start": 652.31,
+      "end": 652.47,
+      "text": "isso",
+      "probability": 0.98
+    },
+    {
+      "start": 652.47,
+      "end": 652.77,
+      "text": "aí?",
+      "probability": 0.337
+    },
+    {
+      "start": 652.89,
+      "end": 653.03,
+      "text": "Não",
+      "probability": 0.154
+    },
+    {
+      "start": 653.92,
+      "end": 654.08,
+      "text": "quero",
+      "probability": 0.168
+    },
+    {
+      "start": 654.08,
+      "end": 654.42,
+      "text": "ensinar,",
+      "probability": 0.482
+    },
+    {
+      "start": 654.44,
+      "end": 654.66,
+      "text": "meu",
+      "probability": 0.22
+    },
+    {
+      "start": 654.66,
+      "end": 654.86,
+      "text": "irmão.",
+      "probability": 0.785
+    },
+    {
+      "start": 655.4,
+      "end": 655.76,
+      "text": "O",
+      "probability": 0.842
+    },
+    {
+      "start": 655.76,
+      "end": 655.76,
+      "text": "que",
+      "probability": 0.986
+    },
+    {
+      "start": 655.76,
+      "end": 655.9,
+      "text": "é",
+      "probability": 0.976
+    },
+    {
+      "start": 655.9,
+      "end": 655.94,
+      "text": "isso",
+      "probability": 0.992
+    },
+    {
+      "start": 655.94,
+      "end": 656.12,
+      "text": "aí?",
+      "probability": 0.624
+    },
+    {
+      "start": 656.2,
+      "end": 656.28,
+      "text": "Eu",
+      "probability": 0.17
+    },
+    {
+      "start": 656.28,
+      "end": 656.28,
+      "text": "não",
+      "probability": 0.742
+    },
+    {
+      "start": 656.28,
+      "end": 656.44,
+      "text": "quero",
+      "probability": 0.885
+    },
+    {
+      "start": 676.7,
+      "end": 677.12,
+      "text": "ensinar.",
+      "probability": 0.77
+    },
+    {
+      "start": 681.02,
+      "end": 681.38,
+      "text": "O",
+      "probability": 0.411
+    },
+    {
+      "start": 681.38,
+      "end": 681.52,
+      "text": "que",
+      "probability": 0.991
+    },
+    {
+      "start": 681.52,
+      "end": 681.62,
+      "text": "é",
+      "probability": 0.987
+    },
+    {
+      "start": 681.62,
+      "end": 681.68,
+      "text": "isso",
+      "probability": 0.778
+    },
+    {
+      "start": 681.68,
+      "end": 681.96,
+      "text": "aí?",
+      "probability": 0.963
+    },
+    {
+      "start": 682.0,
+      "end": 682.0,
+      "text": "O",
+      "probability": 0.036
+    },
+    {
+      "start": 682.0,
+      "end": 682.0,
+      "text": "que",
+      "probability": 0.899
+    },
+    {
+      "start": 682.0,
+      "end": 682.0,
+      "text": "é",
+      "probability": 0.979
+    },
+    {
+      "start": 682.0,
+      "end": 682.0,
+      "text": "isso",
+      "probability": 0.755
+    },
+    {
+      "start": 682.0,
+      "end": 682.04,
+      "text": "aí?",
+      "probability": 0.983
+    },
+    {
+      "start": 682.6,
+      "end": 682.6,
+      "text": "Eu",
+      "probability": 0.356
+    },
+    {
+      "start": 682.6,
+      "end": 682.8,
+      "text": "falo",
+      "probability": 0.592
+    },
+    {
+      "start": 682.8,
+      "end": 683.0,
+      "text": "normal,",
+      "probability": 0.678
+    },
+    {
+      "start": 683.18,
+      "end": 683.32,
+      "text": "você",
+      "probability": 0.287
+    },
+    {
+      "start": 683.32,
+      "end": 683.46,
+      "text": "não",
+      "probability": 0.813
+    },
+    {
+      "start": 683.46,
+      "end": 683.64,
+      "text": "vai",
+      "probability": 0.345
+    },
+    {
+      "start": 683.64,
+      "end": 683.76,
+      "text": "me",
+      "probability": 0.357
+    },
+    {
+      "start": 683.76,
+      "end": 683.88,
+      "text": "falar.",
+      "probability": 0.463
+    },
+    {
+      "start": 683.88,
+      "end": 684.0,
+      "text": "Eu",
+      "probability": 0.613
+    },
+    {
+      "start": 684.0,
+      "end": 684.16,
+      "text": "não",
+      "probability": 0.929
+    },
+    {
+      "start": 684.16,
+      "end": 684.76,
+      "text": "sei",
+      "probability": 0.342
+    },
+    {
+      "start": 684.76,
+      "end": 684.88,
+      "text": "o",
+      "probability": 0.919
+    },
+    {
+      "start": 684.88,
+      "end": 684.96,
+      "text": "que.",
+      "probability": 0.845
+    },
+    {
+      "start": 685.08,
+      "end": 685.1,
+      "text": "Eu",
+      "probability": 0.79
+    },
+    {
+      "start": 685.1,
+      "end": 685.24,
+      "text": "não",
+      "probability": 0.643
+    },
+    {
+      "start": 685.24,
+      "end": 685.24,
+      "text": "quero",
+      "probability": 0.392
+    },
+    {
+      "start": 685.24,
+      "end": 685.4,
+      "text": "ensinar.",
+      "probability": 0.908
+    },
+    {
+      "start": 685.66,
+      "end": 686.02,
+      "text": "Eu",
+      "probability": 0.78
+    },
+    {
+      "start": 686.02,
+      "end": 686.42,
+      "text": "não",
+      "probability": 0.883
+    },
+    {
+      "start": 686.42,
+      "end": 686.74,
+      "text": "quero",
+      "probability": 0.973
+    },
+    {
+      "start": 686.74,
+      "end": 686.88,
+      "text": "ensinar.",
+      "probability": 0.993
+    },
+    {
+      "start": 699.88,
+      "end": 700.24,
+      "text": "Nossa",
+      "probability": 0.387
+    },
+    {
+      "start": 700.24,
+      "end": 700.6,
+      "text": "senhora!",
+      "probability": 0.815
+    }
+  ]
+}

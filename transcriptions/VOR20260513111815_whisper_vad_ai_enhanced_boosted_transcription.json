@@ -1,0 +1,224 @@
+{
+  "source_file": "VOR20260513111815_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:13:29,00:13:29": ".",
+    "00:16:35,00:16:35": "Valeu!",
+    "00:19:23,00:19:24": "E aí",
+    "00:22:05,00:22:05": ".",
+    "00:22:33,00:22:34": "Não há nada.",
+    "00:22:35,00:22:36": "Não há nada.",
+    "00:24:56,00:24:56": ".",
+    "00:25:30,00:25:31": ".",
+    "00:27:37,00:27:42": "Muito mais música rádio 96FM.",
+    "00:28:17,00:28:23": "Atenção! O que se passa é que o sexo é um problema de todos os sexos.",
+    "00:29:51,00:29:55": "Acompanhe a transmissão em português brasileiro."
+  },
+  "explicit_segments": {
+    "00:28:17,00:28:23": "Atenção! O que se passa é que o sexo é um problema de todos os sexos."
+  },
+  "explicit_count": 1,
+  "words": [
+    {
+      "start": 809.51,
+      "end": 809.69,
+      "text": "."
+    },
+    {
+      "start": 995.01,
+      "end": 995.57,
+      "text": "Valeu!"
+    },
+    {
+      "start": 1163.84,
+      "end": 1163.94,
+      "text": "E"
+    },
+    {
+      "start": 1163.94,
+      "end": 1164.02,
+      "text": "aí"
+    },
+    {
+      "start": 1325.22,
+      "end": 1325.5,
+      "text": "."
+    },
+    {
+      "start": 1353.89,
+      "end": 1354.19,
+      "text": "Não"
+    },
+    {
+      "start": 1354.19,
+      "end": 1354.37,
+      "text": "há"
+    },
+    {
+      "start": 1354.37,
+      "end": 1354.61,
+      "text": "nada."
+    },
+    {
+      "start": 1355.59,
+      "end": 1356.05,
+      "text": "Não"
+    },
+    {
+      "start": 1356.05,
+      "end": 1356.27,
+      "text": "há"
+    },
+    {
+      "start": 1356.27,
+      "end": 1356.43,
+      "text": "nada."
+    },
+    {
+      "start": 1496.26,
+      "end": 1496.44,
+      "text": "."
+    },
+    {
+      "start": 1530.56,
+      "end": 1531.02,
+      "text": "."
+    },
+    {
+      "start": 1657.1,
+      "end": 1658.5,
+      "text": "Muito"
+    },
+    {
+      "start": 1658.5,
+      "end": 1659.2,
+      "text": "mais"
+    },
+    {
+      "start": 1659.2,
+      "end": 1659.94,
+      "text": "música"
+    },
+    {
+      "start": 1659.94,
+      "end": 1660.8,
+      "text": "rádio"
+    },
+    {
+      "start": 1660.8,
+      "end": 1662.48,
+      "text": "96FM."
+    },
+    {
+      "start": 1697.57,
+      "end": 1697.83,
+      "text": "Atenção!"
+    },
+    {
+      "start": 1697.83,
+      "end": 1697.83,
+      "text": "O"
+    },
+    {
+      "start": 1697.83,
+      "end": 1697.97,
+      "text": "que"
+    },
+    {
+      "start": 1697.97,
+      "end": 1698.29,
+      "text": "se"
+    },
+    {
+      "start": 1698.29,
+      "end": 1698.61,
+      "text": "passa"
+    },
+    {
+      "start": 1698.61,
+      "end": 1699.05,
+      "text": "é"
+    },
+    {
+      "start": 1699.05,
+      "end": 1699.51,
+      "text": "que"
+    },
+    {
+      "start": 1699.51,
+      "end": 1699.77,
+      "text": "o"
+    },
+    {
+      "start": 1699.77,
+      "end": 1700.27,
+      "text": "sexo"
+    },
+    {
+      "start": 1700.27,
+      "end": 1701.19,
+      "text": "é"
+    },
+    {
+      "start": 1701.19,
+      "end": 1701.53,
+      "text": "um"
+    },
+    {
+      "start": 1701.53,
+      "end": 1701.55,
+      "text": "problema"
+    },
+    {
+      "start": 1701.55,
+      "end": 1702.01,
+      "text": "de"
+    },
+    {
+      "start": 1702.01,
+      "end": 1702.61,
+      "text": "todos"
+    },
+    {
+      "start": 1702.61,
+      "end": 1702.79,
+      "text": "os"
+    },
+    {
+      "start": 1702.79,
+      "end": 1703.01,
+      "text": "sexos."
+    },
+    {
+      "start": 1791.59,
+      "end": 1792.01,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 1792.01,
+      "end": 1792.09,
+      "text": "a"
+    },
+    {
+      "start": 1792.09,
+      "end": 1792.51,
+      "text": "transmissão"
+    },
+    {
+      "start": 1792.51,
+      "end": 1792.77,
+      "text": "em"
+    },
+    {
+      "start": 1792.77,
+      "end": 1793.53,
+      "text": "português"
+    },
+    {
+      "start": 1793.53,
+      "end": 1795.49,
+      "text": "brasileiro."
+    }
+  ]
+}

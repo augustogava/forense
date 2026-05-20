@@ -1,0 +1,70 @@
+{
+  "source_file": "Descicomida0905_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:25,00:00:28": "Não se esqueça de deixar seu like e se inscrever no canal."
+  },
+  "words": [
+    {
+      "start": 25.79,
+      "end": 27.17,
+      "text": "Não"
+    },
+    {
+      "start": 27.17,
+      "end": 27.47,
+      "text": "se"
+    },
+    {
+      "start": 27.47,
+      "end": 28.25,
+      "text": "esqueça"
+    },
+    {
+      "start": 28.25,
+      "end": 28.25,
+      "text": "de"
+    },
+    {
+      "start": 28.25,
+      "end": 28.25,
+      "text": "deixar"
+    },
+    {
+      "start": 28.25,
+      "end": 28.25,
+      "text": "seu"
+    },
+    {
+      "start": 28.25,
+      "end": 28.57,
+      "text": "like"
+    },
+    {
+      "start": 28.57,
+      "end": 28.57,
+      "text": "e"
+    },
+    {
+      "start": 28.57,
+      "end": 28.57,
+      "text": "se"
+    },
+    {
+      "start": 28.57,
+      "end": 28.57,
+      "text": "inscrever"
+    },
+    {
+      "start": 28.57,
+      "end": 28.57,
+      "text": "no"
+    },
+    {
+      "start": 28.57,
+      "end": 28.57,
+      "text": "canal."
+    }
+  ]
+}
