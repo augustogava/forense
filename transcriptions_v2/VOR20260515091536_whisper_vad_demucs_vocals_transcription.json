@@ -1,0 +1,388 @@
+{
+  "source_file": "VOR20260515091536_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.1,
+  "segments": {
+    "00:17:23,00:17:54": "O que eu faço?",
+    "00:17:55,00:18:13": "Eu vou fazer uma coisa.",
+    "00:18:15,00:18:18": "Eu vou fazer uma coisa.",
+    "00:18:19,00:18:25": "Você vai fazer o quê?",
+    "00:18:29,00:18:30": "Dois.",
+    "00:18:30,00:18:31": "Três.",
+    "00:18:33,00:18:46": "Você vai fazer o quê?",
+    "00:18:46,00:18:47": "Dois.",
+    "00:18:47,00:19:34": "Você vai fazer o quê?",
+    "00:19:34,00:19:35": "FEMININO",
+    "00:19:35,00:19:37": "Tá perdendo o que?",
+    "00:19:39,00:19:40": "NÃO!",
+    "00:19:40,00:20:12": "Eu não.",
+    "00:20:13,00:20:34": "Eu não.",
+    "00:22:27,00:23:01": "Tchau, gente.",
+    "00:29:49,00:30:01": "Tchau, tchau.",
+    "00:32:13,00:32:14": "O que é que eu vou fazer?",
+    "00:37:33,00:37:35": "O que é que eu vou fazer?"
+  },
+  "words": [
+    {
+      "start": 1043.02,
+      "end": 1043.98,
+      "text": "O",
+      "probability": 0.059
+    },
+    {
+      "start": 1047.5,
+      "end": 1047.82,
+      "text": "que",
+      "probability": 0.823
+    },
+    {
+      "start": 1072.84,
+      "end": 1073.78,
+      "text": "eu",
+      "probability": 0.404
+    },
+    {
+      "start": 1073.78,
+      "end": 1074.3,
+      "text": "faço?",
+      "probability": 0.675
+    },
+    {
+      "start": 1075.02,
+      "end": 1076.34,
+      "text": "Eu",
+      "probability": 0.119
+    },
+    {
+      "start": 1087.51,
+      "end": 1088.57,
+      "text": "vou",
+      "probability": 0.178
+    },
+    {
+      "start": 1091.13,
+      "end": 1091.71,
+      "text": "fazer",
+      "probability": 0.21
+    },
+    {
+      "start": 1091.71,
+      "end": 1092.87,
+      "text": "uma",
+      "probability": 0.404
+    },
+    {
+      "start": 1092.87,
+      "end": 1093.19,
+      "text": "coisa.",
+      "probability": 0.048
+    },
+    {
+      "start": 1095.11,
+      "end": 1095.15,
+      "text": "Eu",
+      "probability": 0.547
+    },
+    {
+      "start": 1095.15,
+      "end": 1095.15,
+      "text": "vou",
+      "probability": 0.789
+    },
+    {
+      "start": 1095.15,
+      "end": 1096.75,
+      "text": "fazer",
+      "probability": 0.915
+    },
+    {
+      "start": 1097.77,
+      "end": 1097.81,
+      "text": "uma",
+      "probability": 0.943
+    },
+    {
+      "start": 1097.81,
+      "end": 1098.49,
+      "text": "coisa.",
+      "probability": 0.978
+    },
+    {
+      "start": 1099.47,
+      "end": 1099.97,
+      "text": "Você",
+      "probability": 0.042
+    },
+    {
+      "start": 1103.14,
+      "end": 1103.8,
+      "text": "vai",
+      "probability": 0.712
+    },
+    {
+      "start": 1103.8,
+      "end": 1104.56,
+      "text": "fazer",
+      "probability": 0.103
+    },
+    {
+      "start": 1104.66,
+      "end": 1104.82,
+      "text": "o",
+      "probability": 0.045
+    },
+    {
+      "start": 1104.82,
+      "end": 1105.14,
+      "text": "quê?",
+      "probability": 0.253
+    },
+    {
+      "start": 1109.01,
+      "end": 1110.33,
+      "text": "Dois.",
+      "probability": 0.49
+    },
+    {
+      "start": 1110.49,
+      "end": 1111.15,
+      "text": "Três.",
+      "probability": 0.771
+    },
+    {
+      "start": 1113.94,
+      "end": 1114.52,
+      "text": "Você",
+      "probability": 0.119
+    },
+    {
+      "start": 1125.31,
+      "end": 1125.55,
+      "text": "vai",
+      "probability": 0.978
+    },
+    {
+      "start": 1125.55,
+      "end": 1125.73,
+      "text": "fazer",
+      "probability": 0.984
+    },
+    {
+      "start": 1125.73,
+      "end": 1126.13,
+      "text": "o",
+      "probability": 0.638
+    },
+    {
+      "start": 1126.13,
+      "end": 1126.13,
+      "text": "quê?",
+      "probability": 0.984
+    },
+    {
+      "start": 1126.16,
+      "end": 1127.0,
+      "text": "Dois.",
+      "probability": 0.753
+    },
+    {
+      "start": 1127.34,
+      "end": 1127.92,
+      "text": "Você",
+      "probability": 0.049
+    },
+    {
+      "start": 1146.42,
+      "end": 1147.66,
+      "text": "vai",
+      "probability": 0.993
+    },
+    {
+      "start": 1171.66,
+      "end": 1174.18,
+      "text": "fazer",
+      "probability": 0.99
+    },
+    {
+      "start": 1174.18,
+      "end": 1174.34,
+      "text": "o",
+      "probability": 0.98
+    },
+    {
+      "start": 1174.34,
+      "end": 1174.66,
+      "text": "quê?",
+      "probability": 0.965
+    },
+    {
+      "start": 1174.66,
+      "end": 1175.52,
+      "text": "FEMININO",
+      "probability": 0.379
+    },
+    {
+      "start": 1175.52,
+      "end": 1176.56,
+      "text": "Tá",
+      "probability": 0.016
+    },
+    {
+      "start": 1176.56,
+      "end": 1177.18,
+      "text": "perdendo",
+      "probability": 0.614
+    },
+    {
+      "start": 1177.18,
+      "end": 1177.36,
+      "text": "o",
+      "probability": 0.84
+    },
+    {
+      "start": 1177.36,
+      "end": 1177.5,
+      "text": "que?",
+      "probability": 0.393
+    },
+    {
+      "start": 1179.92,
+      "end": 1180.32,
+      "text": "NÃO!",
+      "probability": 0.733
+    },
+    {
+      "start": 1180.32,
+      "end": 1180.98,
+      "text": "Eu",
+      "probability": 0.098
+    },
+    {
+      "start": 1212.43,
+      "end": 1212.69,
+      "text": "não.",
+      "probability": 0.789
+    },
+    {
+      "start": 1213.09,
+      "end": 1213.49,
+      "text": "Eu",
+      "probability": 0.059
+    },
+    {
+      "start": 1233.97,
+      "end": 1234.61,
+      "text": "não.",
+      "probability": 0.269
+    },
+    {
+      "start": 1347.24,
+      "end": 1348.64,
+      "text": "Tchau,",
+      "probability": 0.528
+    },
+    {
+      "start": 1379.62,
+      "end": 1381.02,
+      "text": "gente.",
+      "probability": 0.272
+    },
+    {
+      "start": 1789.58,
+      "end": 1790.98,
+      "text": "Tchau,",
+      "probability": 0.505
+    },
+    {
+      "start": 1801.32,
+      "end": 1801.66,
+      "text": "tchau.",
+      "probability": 0.961
+    },
+    {
+      "start": 1933.23,
+      "end": 1933.35,
+      "text": "O",
+      "probability": 0.031
+    },
+    {
+      "start": 1933.35,
+      "end": 1933.35,
+      "text": "que",
+      "probability": 0.51
+    },
+    {
+      "start": 1933.35,
+      "end": 1933.35,
+      "text": "é",
+      "probability": 0.543
+    },
+    {
+      "start": 1933.35,
+      "end": 1933.53,
+      "text": "que",
+      "probability": 0.216
+    },
+    {
+      "start": 1933.53,
+      "end": 1933.57,
+      "text": "eu",
+      "probability": 0.219
+    },
+    {
+      "start": 1933.57,
+      "end": 1933.75,
+      "text": "vou",
+      "probability": 0.506
+    },
+    {
+      "start": 1933.75,
+      "end": 1934.11,
+      "text": "fazer?",
+      "probability": 0.789
+    },
+    {
+      "start": 2253.13,
+      "end": 2253.27,
+      "text": "O",
+      "probability": 0.484
+    },
+    {
+      "start": 2253.27,
+      "end": 2253.61,
+      "text": "que",
+      "probability": 0.974
+    },
+    {
+      "start": 2253.61,
+      "end": 2253.93,
+      "text": "é",
+      "probability": 0.935
+    },
+    {
+      "start": 2253.93,
+      "end": 2254.07,
+      "text": "que",
+      "probability": 0.997
+    },
+    {
+      "start": 2254.07,
+      "end": 2254.29,
+      "text": "eu",
+      "probability": 0.989
+    },
+    {
+      "start": 2254.29,
+      "end": 2254.63,
+      "text": "vou",
+      "probability": 0.989
+    },
+    {
+      "start": 2254.63,
+      "end": 2255.03,
+      "text": "fazer?",
+      "probability": 0.999
+    }
+  ]
+}

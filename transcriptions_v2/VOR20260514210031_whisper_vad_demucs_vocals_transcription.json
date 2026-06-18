@@ -1,0 +1,95 @@
+{
+  "source_file": "VOR20260514210031_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.3,
+  "segments": {
+    "00:00:03,00:00:04": "Tchau, tchau.",
+    "00:41:38,00:41:39": "Valeu, galera.",
+    "00:41:41,00:41:42": "Gente, valeu, galera.",
+    "00:41:44,00:41:46": "Valeu, galera.",
+    "00:41:46,00:41:47": "Valeu, galera.",
+    "00:41:49,00:41:49": "Tchau.",
+    "00:41:53,00:41:54": "Tchau."
+  },
+  "words": [
+    {
+      "start": 3.2,
+      "end": 3.92,
+      "text": "Tchau,",
+      "probability": 0.509
+    },
+    {
+      "start": 4.14,
+      "end": 4.38,
+      "text": "tchau.",
+      "probability": 0.895
+    },
+    {
+      "start": 2498.77,
+      "end": 2499.3,
+      "text": "Valeu,",
+      "probability": 0.607
+    },
+    {
+      "start": 2499.42,
+      "end": 2499.72,
+      "text": "galera.",
+      "probability": 0.159
+    },
+    {
+      "start": 2501.06,
+      "end": 2501.59,
+      "text": "Gente,",
+      "probability": 0.18
+    },
+    {
+      "start": 2501.59,
+      "end": 2502.15,
+      "text": "valeu,",
+      "probability": 0.728
+    },
+    {
+      "start": 2502.27,
+      "end": 2502.45,
+      "text": "galera.",
+      "probability": 0.548
+    },
+    {
+      "start": 2504.99,
+      "end": 2506.05,
+      "text": "Valeu,",
+      "probability": 0.978
+    },
+    {
+      "start": 2506.05,
+      "end": 2506.65,
+      "text": "galera.",
+      "probability": 0.74
+    },
+    {
+      "start": 2506.91,
+      "end": 2507.21,
+      "text": "Valeu,",
+      "probability": 0.672
+    },
+    {
+      "start": 2507.37,
+      "end": 2507.37,
+      "text": "galera.",
+      "probability": 0.998
+    },
+    {
+      "start": 2509.12,
+      "end": 2509.65,
+      "text": "Tchau.",
+      "probability": 0.513
+    },
+    {
+      "start": 2513.46,
+      "end": 2514.52,
+      "text": "Tchau.",
+      "probability": 0.917
+    }
+  ]
+}

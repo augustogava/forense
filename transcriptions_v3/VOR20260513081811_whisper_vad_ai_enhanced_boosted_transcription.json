@@ -1,0 +1,44 @@
+{
+  "source_file": "VOR20260513081811_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.1,
+  "segments": {
+    "00:39:17,00:39:18": "E aí",
+    "00:56:19,00:56:19": "E aí",
+    "00:56:19,00:56:20": "Obrigado."
+  },
+  "hallucinations_filtered": 1,
+  "words": [
+    {
+      "start": 2357.1,
+      "end": 2358.66,
+      "text": "E",
+      "confidence": 0.131
+    },
+    {
+      "start": 2358.66,
+      "end": 2358.68,
+      "text": "aí",
+      "confidence": 0.956
+    },
+    {
+      "start": 3379.32,
+      "end": 3379.34,
+      "text": "E",
+      "confidence": 0.187
+    },
+    {
+      "start": 3379.34,
+      "end": 3379.36,
+      "text": "aí",
+      "confidence": 0.963
+    },
+    {
+      "start": 3379.36,
+      "end": 3380.34,
+      "text": "Obrigado.",
+      "confidence": 0.451
+    }
+  ]
+}

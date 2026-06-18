@@ -1,0 +1,6 @@
+{
+  "source_file": "0906_noite_part002_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {}
+}

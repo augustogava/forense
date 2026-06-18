@@ -1,0 +1,197 @@
+{
+  "source_file": "VOR20260519191921_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.0,
+  "segments": {
+    "00:02:45,00:04:06": "Não, não, não, não, não.",
+    "00:07:11,00:07:14": "O que é isso?",
+    "00:08:01,00:08:05": "E aí, você gostou?",
+    "00:08:06,00:08:08": "Você não gostou, mas você gostou.",
+    "00:08:08,00:08:10": "Não, eu não gostei muito.",
+    "00:08:10,00:08:12": "Eu gostei muito.",
+    "00:08:13,00:08:16": "Eu gostei muito."
+  },
+  "words": [
+    {
+      "start": 165.46,
+      "end": 166.68,
+      "text": "Não,",
+      "probability": 0.036
+    },
+    {
+      "start": 188.34,
+      "end": 188.34,
+      "text": "não,",
+      "probability": 0.749
+    },
+    {
+      "start": 243.38,
+      "end": 245.08,
+      "text": "não,",
+      "probability": 0.934
+    },
+    {
+      "start": 245.08,
+      "end": 245.74,
+      "text": "não,",
+      "probability": 0.947
+    },
+    {
+      "start": 245.74,
+      "end": 246.3,
+      "text": "não.",
+      "probability": 0.974
+    },
+    {
+      "start": 431.4,
+      "end": 432.24,
+      "text": "O",
+      "probability": 0.026
+    },
+    {
+      "start": 433.39,
+      "end": 433.81,
+      "text": "que",
+      "probability": 0.419
+    },
+    {
+      "start": 433.81,
+      "end": 434.23,
+      "text": "é",
+      "probability": 0.546
+    },
+    {
+      "start": 434.23,
+      "end": 434.39,
+      "text": "isso?",
+      "probability": 0.633
+    },
+    {
+      "start": 481.79,
+      "end": 482.51,
+      "text": "E",
+      "probability": 0.146
+    },
+    {
+      "start": 482.51,
+      "end": 483.13,
+      "text": "aí,",
+      "probability": 0.568
+    },
+    {
+      "start": 483.45,
+      "end": 484.69,
+      "text": "você",
+      "probability": 0.319
+    },
+    {
+      "start": 485.3,
+      "end": 485.7,
+      "text": "gostou?",
+      "probability": 0.559
+    },
+    {
+      "start": 486.62,
+      "end": 487.34,
+      "text": "Você",
+      "probability": 0.245
+    },
+    {
+      "start": 487.34,
+      "end": 487.5,
+      "text": "não",
+      "probability": 0.469
+    },
+    {
+      "start": 487.5,
+      "end": 487.86,
+      "text": "gostou,",
+      "probability": 0.832
+    },
+    {
+      "start": 487.88,
+      "end": 488.04,
+      "text": "mas",
+      "probability": 0.608
+    },
+    {
+      "start": 488.04,
+      "end": 488.12,
+      "text": "você",
+      "probability": 0.698
+    },
+    {
+      "start": 488.12,
+      "end": 488.44,
+      "text": "gostou.",
+      "probability": 0.888
+    },
+    {
+      "start": 488.68,
+      "end": 489.22,
+      "text": "Não,",
+      "probability": 0.41
+    },
+    {
+      "start": 489.38,
+      "end": 489.52,
+      "text": "eu",
+      "probability": 0.591
+    },
+    {
+      "start": 489.52,
+      "end": 489.6,
+      "text": "não",
+      "probability": 0.7
+    },
+    {
+      "start": 489.6,
+      "end": 490.14,
+      "text": "gostei",
+      "probability": 0.989
+    },
+    {
+      "start": 490.14,
+      "end": 490.36,
+      "text": "muito.",
+      "probability": 0.29
+    },
+    {
+      "start": 490.96,
+      "end": 491.24,
+      "text": "Eu",
+      "probability": 0.521
+    },
+    {
+      "start": 491.52,
+      "end": 492.04,
+      "text": "gostei",
+      "probability": 0.79
+    },
+    {
+      "start": 492.04,
+      "end": 492.34,
+      "text": "muito.",
+      "probability": 0.422
+    },
+    {
+      "start": 493.66,
+      "end": 494.38,
+      "text": "Eu",
+      "probability": 0.529
+    },
+    {
+      "start": 496.53,
+      "end": 496.63,
+      "text": "gostei",
+      "probability": 0.964
+    },
+    {
+      "start": 496.63,
+      "end": 496.99,
+      "text": "muito.",
+      "probability": 0.886
+    }
+  ]
+}

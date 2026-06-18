@@ -1,0 +1,48 @@
+{
+  "source_file": "VOR20260513081811_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.1,
+  "segments": {
+    "00:05:52,00:07:13": "O que é isso?",
+    "00:29:29,00:30:12": "E aí"
+  },
+  "words": [
+    {
+      "start": 352.98,
+      "end": 354.38,
+      "text": "O",
+      "probability": 0.044
+    },
+    {
+      "start": 354.38,
+      "end": 355.78,
+      "text": "que",
+      "probability": 0.65
+    },
+    {
+      "start": 356.19,
+      "end": 357.99,
+      "text": "é",
+      "probability": 0.611
+    },
+    {
+      "start": 433.06,
+      "end": 433.9,
+      "text": "isso?",
+      "probability": 0.83
+    },
+    {
+      "start": 1769.85,
+      "end": 1770.23,
+      "text": "E",
+      "probability": 0.162
+    },
+    {
+      "start": 1812.38,
+      "end": 1812.86,
+      "text": "aí",
+      "probability": 0.864
+    }
+  ]
+}

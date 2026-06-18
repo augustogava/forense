@@ -1,0 +1,153 @@
+{
+  "source_file": "VOR20260528183756_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.0,
+  "segments": {
+    "00:25:40,00:25:43": "Eu não sei o que eu estou fazendo, eu não sei o que eu estou fazendo.",
+    "00:41:25,00:41:26": "Tchau, tchau.",
+    "00:45:15,00:45:15": "Obrigado.",
+    "00:54:57,00:54:59": "O que é isso?"
+  },
+  "hallucinations_filtered": 7,
+  "words": [
+    {
+      "start": 1540.97,
+      "end": 1542.29,
+      "text": "Eu",
+      "confidence": 0.031
+    },
+    {
+      "start": 1543.64,
+      "end": 1543.66,
+      "text": "não",
+      "confidence": 0.213
+    },
+    {
+      "start": 1543.66,
+      "end": 1543.68,
+      "text": "sei",
+      "confidence": 0.544
+    },
+    {
+      "start": 1543.68,
+      "end": 1543.7,
+      "text": "o",
+      "confidence": 0.196
+    },
+    {
+      "start": 1543.7,
+      "end": 1543.72,
+      "text": "que",
+      "confidence": 0.985
+    },
+    {
+      "start": 1543.72,
+      "end": 1543.74,
+      "text": "eu",
+      "confidence": 0.348
+    },
+    {
+      "start": 1543.74,
+      "end": 1543.76,
+      "text": "estou",
+      "confidence": 0.274
+    },
+    {
+      "start": 1543.76,
+      "end": 1543.78,
+      "text": "fazendo,",
+      "confidence": 0.229
+    },
+    {
+      "start": 1543.78,
+      "end": 1543.8,
+      "text": "eu",
+      "confidence": 0.221
+    },
+    {
+      "start": 1543.8,
+      "end": 1543.82,
+      "text": "não",
+      "confidence": 0.762
+    },
+    {
+      "start": 1543.82,
+      "end": 1543.84,
+      "text": "sei",
+      "confidence": 0.978
+    },
+    {
+      "start": 1543.84,
+      "end": 1543.86,
+      "text": "o",
+      "confidence": 0.896
+    },
+    {
+      "start": 1543.86,
+      "end": 1543.88,
+      "text": "que",
+      "confidence": 0.998
+    },
+    {
+      "start": 1543.88,
+      "end": 1543.9,
+      "text": "eu",
+      "confidence": 0.878
+    },
+    {
+      "start": 1543.9,
+      "end": 1543.92,
+      "text": "estou",
+      "confidence": 0.975
+    },
+    {
+      "start": 1543.92,
+      "end": 1543.94,
+      "text": "fazendo.",
+      "confidence": 0.84
+    },
+    {
+      "start": 2485.68,
+      "end": 2485.89,
+      "text": "Tchau,",
+      "confidence": 0.169
+    },
+    {
+      "start": 2486.07,
+      "end": 2486.67,
+      "text": "tchau.",
+      "confidence": 0.889
+    },
+    {
+      "start": 2715.06,
+      "end": 2715.54,
+      "text": "Obrigado.",
+      "confidence": 0.552
+    },
+    {
+      "start": 3297.01,
+      "end": 3298.83,
+      "text": "O",
+      "confidence": 0.037
+    },
+    {
+      "start": 3298.83,
+      "end": 3299.01,
+      "text": "que",
+      "confidence": 0.62
+    },
+    {
+      "start": 3299.01,
+      "end": 3299.03,
+      "text": "é",
+      "confidence": 0.417
+    },
+    {
+      "start": 3299.03,
+      "end": 3299.27,
+      "text": "isso?",
+      "confidence": 0.824
+    }
+  ]
+}

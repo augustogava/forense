@@ -1,0 +1,714 @@
+{
+  "source_file": "VOR20260521082903_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.0,
+  "segments": {
+    "00:18:42,00:18:47": "E aí, a gente vai fazer o mesmo.",
+    "00:20:30,00:20:32": "Eu ia te abrir na hora do almoço,",
+    "00:22:03,00:22:03": "O que é isso?",
+    "00:23:18,00:23:41": "Eu não entendo o que você está dizendo, eu não sei o que você está dizendo, eu não sei o que você está dizendo, eu não sei o que você está dizendo.",
+    "00:24:38,00:24:39": "Obrigada.",
+    "00:25:33,00:25:33": "O que é isso?",
+    "00:27:10,00:27:15": "O que é isso?",
+    "00:28:09,00:28:11": "Enxergar o que eu tenho a ver com o que eu tenho a ver com o que eu tenho a ver.",
+    "00:44:28,00:44:30": "O que é isso?",
+    "00:52:55,00:52:56": "Eu não sei o que é isso, mas eu não sei o que é isso, mas eu não sei o que é isso.",
+    "00:52:56,00:52:57": "Obrigado.",
+    "00:55:17,00:55:18": "É isso aí.",
+    "00:59:58,00:59:59": "Tchau, tchau."
+  },
+  "hallucinations_filtered": 81,
+  "words": [
+    {
+      "start": 1122.7,
+      "end": 1126.0,
+      "text": "E",
+      "confidence": 0.146
+    },
+    {
+      "start": 1126.0,
+      "end": 1126.3,
+      "text": "aí,",
+      "confidence": 0.398
+    },
+    {
+      "start": 1126.3,
+      "end": 1126.32,
+      "text": "a",
+      "confidence": 0.082
+    },
+    {
+      "start": 1126.32,
+      "end": 1126.7,
+      "text": "gente",
+      "confidence": 0.79
+    },
+    {
+      "start": 1126.7,
+      "end": 1126.82,
+      "text": "vai",
+      "confidence": 0.679
+    },
+    {
+      "start": 1126.82,
+      "end": 1126.84,
+      "text": "fazer",
+      "confidence": 0.32
+    },
+    {
+      "start": 1126.84,
+      "end": 1126.98,
+      "text": "o",
+      "confidence": 0.286
+    },
+    {
+      "start": 1126.98,
+      "end": 1127.18,
+      "text": "mesmo.",
+      "confidence": 0.418
+    },
+    {
+      "start": 1230.15,
+      "end": 1230.63,
+      "text": "Eu",
+      "confidence": 0.043
+    },
+    {
+      "start": 1230.63,
+      "end": 1230.87,
+      "text": "ia",
+      "confidence": 0.282
+    },
+    {
+      "start": 1230.87,
+      "end": 1231.01,
+      "text": "te",
+      "confidence": 0.86
+    },
+    {
+      "start": 1231.01,
+      "end": 1231.23,
+      "text": "abrir",
+      "confidence": 0.718
+    },
+    {
+      "start": 1231.23,
+      "end": 1231.41,
+      "text": "na",
+      "confidence": 0.014
+    },
+    {
+      "start": 1231.41,
+      "end": 1231.61,
+      "text": "hora",
+      "confidence": 0.998
+    },
+    {
+      "start": 1231.61,
+      "end": 1231.77,
+      "text": "do",
+      "confidence": 0.99
+    },
+    {
+      "start": 1231.77,
+      "end": 1232.23,
+      "text": "almoço,",
+      "confidence": 0.527
+    },
+    {
+      "start": 1323.33,
+      "end": 1323.35,
+      "text": "O",
+      "confidence": 0.016
+    },
+    {
+      "start": 1323.35,
+      "end": 1323.37,
+      "text": "que",
+      "confidence": 0.732
+    },
+    {
+      "start": 1323.37,
+      "end": 1323.39,
+      "text": "é",
+      "confidence": 0.559
+    },
+    {
+      "start": 1323.39,
+      "end": 1323.41,
+      "text": "isso?",
+      "confidence": 0.783
+    },
+    {
+      "start": 1398.96,
+      "end": 1400.16,
+      "text": "Eu",
+      "confidence": 0.05
+    },
+    {
+      "start": 1400.16,
+      "end": 1400.4,
+      "text": "não",
+      "confidence": 0.311
+    },
+    {
+      "start": 1400.4,
+      "end": 1400.86,
+      "text": "entendo",
+      "confidence": 0.185
+    },
+    {
+      "start": 1400.86,
+      "end": 1401.08,
+      "text": "o",
+      "confidence": 0.493
+    },
+    {
+      "start": 1401.08,
+      "end": 1401.14,
+      "text": "que",
+      "confidence": 0.944
+    },
+    {
+      "start": 1401.14,
+      "end": 1401.26,
+      "text": "você",
+      "confidence": 0.284
+    },
+    {
+      "start": 1401.26,
+      "end": 1401.62,
+      "text": "está",
+      "confidence": 0.26
+    },
+    {
+      "start": 1401.62,
+      "end": 1401.7,
+      "text": "dizendo,",
+      "confidence": 0.412
+    },
+    {
+      "start": 1401.84,
+      "end": 1402.06,
+      "text": "eu",
+      "confidence": 0.176
+    },
+    {
+      "start": 1402.06,
+      "end": 1402.48,
+      "text": "não",
+      "confidence": 0.285
+    },
+    {
+      "start": 1402.48,
+      "end": 1402.56,
+      "text": "sei",
+      "confidence": 0.292
+    },
+    {
+      "start": 1402.56,
+      "end": 1402.78,
+      "text": "o",
+      "confidence": 0.405
+    },
+    {
+      "start": 1402.78,
+      "end": 1402.88,
+      "text": "que",
+      "confidence": 0.97
+    },
+    {
+      "start": 1402.88,
+      "end": 1402.96,
+      "text": "você",
+      "confidence": 0.293
+    },
+    {
+      "start": 1402.96,
+      "end": 1402.98,
+      "text": "está",
+      "confidence": 0.878
+    },
+    {
+      "start": 1402.98,
+      "end": 1403.3,
+      "text": "dizendo,",
+      "confidence": 0.337
+    },
+    {
+      "start": 1403.42,
+      "end": 1403.62,
+      "text": "eu",
+      "confidence": 0.616
+    },
+    {
+      "start": 1403.62,
+      "end": 1404.2,
+      "text": "não",
+      "confidence": 0.692
+    },
+    {
+      "start": 1404.2,
+      "end": 1404.22,
+      "text": "sei",
+      "confidence": 0.86
+    },
+    {
+      "start": 1404.22,
+      "end": 1404.32,
+      "text": "o",
+      "confidence": 0.777
+    },
+    {
+      "start": 1404.32,
+      "end": 1404.44,
+      "text": "que",
+      "confidence": 0.989
+    },
+    {
+      "start": 1404.44,
+      "end": 1404.58,
+      "text": "você",
+      "confidence": 0.714
+    },
+    {
+      "start": 1404.58,
+      "end": 1404.64,
+      "text": "está",
+      "confidence": 0.947
+    },
+    {
+      "start": 1404.64,
+      "end": 1404.66,
+      "text": "dizendo,",
+      "confidence": 0.378
+    },
+    {
+      "start": 1405.36,
+      "end": 1405.56,
+      "text": "eu",
+      "confidence": 0.853
+    },
+    {
+      "start": 1405.56,
+      "end": 1405.98,
+      "text": "não",
+      "confidence": 0.961
+    },
+    {
+      "start": 1405.98,
+      "end": 1420.3,
+      "text": "sei",
+      "confidence": 0.961
+    },
+    {
+      "start": 1420.3,
+      "end": 1420.32,
+      "text": "o",
+      "confidence": 0.898
+    },
+    {
+      "start": 1420.32,
+      "end": 1421.42,
+      "text": "que",
+      "confidence": 0.993
+    },
+    {
+      "start": 1421.42,
+      "end": 1421.44,
+      "text": "você",
+      "confidence": 0.835
+    },
+    {
+      "start": 1421.44,
+      "end": 1421.46,
+      "text": "está",
+      "confidence": 0.974
+    },
+    {
+      "start": 1421.46,
+      "end": 1421.96,
+      "text": "dizendo.",
+      "confidence": 0.803
+    },
+    {
+      "start": 1478.55,
+      "end": 1479.55,
+      "text": "Obrigada.",
+      "confidence": 0.522
+    },
+    {
+      "start": 1533.55,
+      "end": 1533.57,
+      "text": "O",
+      "confidence": 0.047
+    },
+    {
+      "start": 1533.57,
+      "end": 1533.63,
+      "text": "que",
+      "confidence": 0.549
+    },
+    {
+      "start": 1533.63,
+      "end": 1533.81,
+      "text": "é",
+      "confidence": 0.633
+    },
+    {
+      "start": 1533.81,
+      "end": 1533.95,
+      "text": "isso?",
+      "confidence": 0.822
+    },
+    {
+      "start": 1630.91,
+      "end": 1635.45,
+      "text": "O",
+      "confidence": 0.039
+    },
+    {
+      "start": 1635.45,
+      "end": 1635.57,
+      "text": "que",
+      "confidence": 0.51
+    },
+    {
+      "start": 1635.57,
+      "end": 1635.59,
+      "text": "é",
+      "confidence": 0.621
+    },
+    {
+      "start": 1635.59,
+      "end": 1635.61,
+      "text": "isso?",
+      "confidence": 0.883
+    },
+    {
+      "start": 1689.01,
+      "end": 1691.59,
+      "text": "Enxergar",
+      "confidence": 0.099
+    },
+    {
+      "start": 1691.59,
+      "end": 1691.61,
+      "text": "o",
+      "confidence": 0.255
+    },
+    {
+      "start": 1691.61,
+      "end": 1691.63,
+      "text": "que",
+      "confidence": 0.103
+    },
+    {
+      "start": 1691.63,
+      "end": 1691.65,
+      "text": "eu",
+      "confidence": 0.206
+    },
+    {
+      "start": 1691.65,
+      "end": 1691.67,
+      "text": "tenho",
+      "confidence": 0.069
+    },
+    {
+      "start": 1691.67,
+      "end": 1691.69,
+      "text": "a",
+      "confidence": 0.203
+    },
+    {
+      "start": 1691.69,
+      "end": 1691.71,
+      "text": "ver",
+      "confidence": 0.152
+    },
+    {
+      "start": 1691.71,
+      "end": 1691.73,
+      "text": "com",
+      "confidence": 0.581
+    },
+    {
+      "start": 1691.73,
+      "end": 1691.75,
+      "text": "o",
+      "confidence": 0.288
+    },
+    {
+      "start": 1691.75,
+      "end": 1691.77,
+      "text": "que",
+      "confidence": 0.266
+    },
+    {
+      "start": 1691.77,
+      "end": 1691.79,
+      "text": "eu",
+      "confidence": 0.625
+    },
+    {
+      "start": 1691.79,
+      "end": 1691.81,
+      "text": "tenho",
+      "confidence": 0.226
+    },
+    {
+      "start": 1691.81,
+      "end": 1691.83,
+      "text": "a",
+      "confidence": 0.646
+    },
+    {
+      "start": 1691.83,
+      "end": 1691.85,
+      "text": "ver",
+      "confidence": 0.842
+    },
+    {
+      "start": 1691.85,
+      "end": 1691.87,
+      "text": "com",
+      "confidence": 0.652
+    },
+    {
+      "start": 1691.87,
+      "end": 1691.89,
+      "text": "o",
+      "confidence": 0.663
+    },
+    {
+      "start": 1691.89,
+      "end": 1691.91,
+      "text": "que",
+      "confidence": 0.854
+    },
+    {
+      "start": 1691.91,
+      "end": 1691.93,
+      "text": "eu",
+      "confidence": 0.897
+    },
+    {
+      "start": 1691.93,
+      "end": 1691.95,
+      "text": "tenho",
+      "confidence": 0.957
+    },
+    {
+      "start": 1691.95,
+      "end": 1691.97,
+      "text": "a",
+      "confidence": 0.581
+    },
+    {
+      "start": 1691.97,
+      "end": 1691.99,
+      "text": "ver.",
+      "confidence": 0.598
+    },
+    {
+      "start": 2668.41,
+      "end": 2669.67,
+      "text": "O",
+      "confidence": 0.054
+    },
+    {
+      "start": 2669.67,
+      "end": 2669.91,
+      "text": "que",
+      "confidence": 0.511
+    },
+    {
+      "start": 2669.91,
+      "end": 2670.07,
+      "text": "é",
+      "confidence": 0.259
+    },
+    {
+      "start": 2670.07,
+      "end": 2670.23,
+      "text": "isso?",
+      "confidence": 0.784
+    },
+    {
+      "start": 3175.18,
+      "end": 3175.2,
+      "text": "Eu",
+      "confidence": 0.079
+    },
+    {
+      "start": 3175.2,
+      "end": 3175.22,
+      "text": "não",
+      "confidence": 0.287
+    },
+    {
+      "start": 3175.22,
+      "end": 3175.24,
+      "text": "sei",
+      "confidence": 0.431
+    },
+    {
+      "start": 3175.24,
+      "end": 3175.26,
+      "text": "o",
+      "confidence": 0.104
+    },
+    {
+      "start": 3175.26,
+      "end": 3175.28,
+      "text": "que",
+      "confidence": 0.953
+    },
+    {
+      "start": 3175.28,
+      "end": 3175.3,
+      "text": "é",
+      "confidence": 0.297
+    },
+    {
+      "start": 3175.3,
+      "end": 3175.32,
+      "text": "isso,",
+      "confidence": 0.26
+    },
+    {
+      "start": 3175.32,
+      "end": 3175.34,
+      "text": "mas",
+      "confidence": 0.906
+    },
+    {
+      "start": 3175.34,
+      "end": 3175.36,
+      "text": "eu",
+      "confidence": 0.401
+    },
+    {
+      "start": 3175.36,
+      "end": 3175.38,
+      "text": "não",
+      "confidence": 0.431
+    },
+    {
+      "start": 3175.38,
+      "end": 3175.4,
+      "text": "sei",
+      "confidence": 0.863
+    },
+    {
+      "start": 3175.4,
+      "end": 3175.42,
+      "text": "o",
+      "confidence": 0.475
+    },
+    {
+      "start": 3175.42,
+      "end": 3175.44,
+      "text": "que",
+      "confidence": 0.964
+    },
+    {
+      "start": 3175.44,
+      "end": 3175.46,
+      "text": "é",
+      "confidence": 0.894
+    },
+    {
+      "start": 3175.46,
+      "end": 3175.48,
+      "text": "isso,",
+      "confidence": 0.241
+    },
+    {
+      "start": 3175.48,
+      "end": 3175.5,
+      "text": "mas",
+      "confidence": 0.718
+    },
+    {
+      "start": 3175.5,
+      "end": 3175.52,
+      "text": "eu",
+      "confidence": 0.782
+    },
+    {
+      "start": 3175.52,
+      "end": 3175.54,
+      "text": "não",
+      "confidence": 0.816
+    },
+    {
+      "start": 3175.54,
+      "end": 3175.56,
+      "text": "sei",
+      "confidence": 0.993
+    },
+    {
+      "start": 3175.56,
+      "end": 3175.58,
+      "text": "o",
+      "confidence": 0.882
+    },
+    {
+      "start": 3175.58,
+      "end": 3175.6,
+      "text": "que",
+      "confidence": 0.993
+    },
+    {
+      "start": 3175.6,
+      "end": 3175.9,
+      "text": "é",
+      "confidence": 0.986
+    },
+    {
+      "start": 3175.9,
+      "end": 3176.16,
+      "text": "isso.",
+      "confidence": 0.847
+    },
+    {
+      "start": 3176.3,
+      "end": 3177.16,
+      "text": "Obrigado.",
+      "confidence": 0.393
+    },
+    {
+      "start": 3317.49,
+      "end": 3317.51,
+      "text": "É",
+      "confidence": 0.021
+    },
+    {
+      "start": 3317.51,
+      "end": 3317.71,
+      "text": "isso",
+      "confidence": 0.89
+    },
+    {
+      "start": 3317.71,
+      "end": 3318.05,
+      "text": "aí.",
+      "confidence": 0.778
+    },
+    {
+      "start": 3598.44,
+      "end": 3598.56,
+      "text": "Tchau,",
+      "confidence": 0.233
+    },
+    {
+      "start": 3598.74,
+      "end": 3599.06,
+      "text": "tchau.",
+      "confidence": 0.908
+    }
+  ]
+}

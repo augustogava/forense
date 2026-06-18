@@ -1,0 +1,597 @@
+{
+  "source_file": "VOR20260524083614_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:02": "Não há que não se despreze.",
+    "00:00:02,00:00:05": "Não há que não se despreze.",
+    "00:05:30,00:05:32": "E não esqueça a campainha, tá?",
+    "00:05:32,00:05:33": "Sim.",
+    "00:05:33,00:05:34": "E aquele lixo que eu comprei para tomar.",
+    "00:05:35,00:05:36": "Tá bom?",
+    "00:05:36,00:05:36": "Tá bom.",
+    "00:05:39,00:05:39": "Não há uma homogênea.",
+    "00:44:25,00:44:26": "O que é o que é chamado, né?",
+    "00:44:31,00:44:31": "Atenção!",
+    "00:45:26,00:45:26": "E aí",
+    "00:53:17,00:53:18": "AAAAAAAH!",
+    "00:53:22,00:53:22": "AAAAAAAA",
+    "00:53:24,00:53:25": "Valeu!",
+    "00:53:27,00:53:28": "Não há dúvidas, não há dúvidas.",
+    "00:53:52,00:53:53": "Mas tudo é a nossa.",
+    "00:53:55,00:53:58": "Lembrem-se que a nossa família é...",
+    "00:54:01,00:54:01": "Desculpa.",
+    "00:54:04,00:54:17": "Atenção, o que eu estou dizendo é que a gente tem que ter uma relação de sexo.",
+    "00:54:19,00:54:20": "Não há problema, não há problema.",
+    "00:54:21,00:54:23": "Não há mais que eu te ouvir.",
+    "00:54:27,00:54:36": "Acompanhe o programa em vários lugares do Brasil.",
+    "00:54:41,00:54:42": "Atenção, velho, se vê.",
+    "00:58:04,00:58:04": "Muito obrigado."
+  },
+  "explicit_segments": {
+    "00:54:04,00:54:17": "Atenção, o que eu estou dizendo é que a gente tem que ter uma relação de sexo."
+  },
+  "explicit_count": 1,
+  "words": [
+    {
+      "start": 0.23,
+      "end": 0.31,
+      "text": "Não"
+    },
+    {
+      "start": 0.31,
+      "end": 0.55,
+      "text": "há"
+    },
+    {
+      "start": 0.55,
+      "end": 1.01,
+      "text": "que"
+    },
+    {
+      "start": 1.01,
+      "end": 1.39,
+      "text": "não"
+    },
+    {
+      "start": 1.39,
+      "end": 1.77,
+      "text": "se"
+    },
+    {
+      "start": 1.77,
+      "end": 2.57,
+      "text": "despreze."
+    },
+    {
+      "start": 2.57,
+      "end": 3.25,
+      "text": "Não"
+    },
+    {
+      "start": 3.25,
+      "end": 3.65,
+      "text": "há"
+    },
+    {
+      "start": 3.65,
+      "end": 3.93,
+      "text": "que"
+    },
+    {
+      "start": 3.93,
+      "end": 4.41,
+      "text": "não"
+    },
+    {
+      "start": 4.41,
+      "end": 4.57,
+      "text": "se"
+    },
+    {
+      "start": 4.57,
+      "end": 5.01,
+      "text": "despreze."
+    },
+    {
+      "start": 330.7,
+      "end": 330.94,
+      "text": "E"
+    },
+    {
+      "start": 330.94,
+      "end": 331.1,
+      "text": "não"
+    },
+    {
+      "start": 331.1,
+      "end": 331.56,
+      "text": "esqueça"
+    },
+    {
+      "start": 331.56,
+      "end": 331.68,
+      "text": "a"
+    },
+    {
+      "start": 331.68,
+      "end": 332.46,
+      "text": "campainha,"
+    },
+    {
+      "start": 332.46,
+      "end": 332.58,
+      "text": "tá?"
+    },
+    {
+      "start": 332.7,
+      "end": 333.02,
+      "text": "Sim."
+    },
+    {
+      "start": 333.26,
+      "end": 333.46,
+      "text": "E"
+    },
+    {
+      "start": 333.46,
+      "end": 333.66,
+      "text": "aquele"
+    },
+    {
+      "start": 333.66,
+      "end": 334.1,
+      "text": "lixo"
+    },
+    {
+      "start": 334.1,
+      "end": 334.16,
+      "text": "que"
+    },
+    {
+      "start": 334.16,
+      "end": 334.26,
+      "text": "eu"
+    },
+    {
+      "start": 334.26,
+      "end": 334.54,
+      "text": "comprei"
+    },
+    {
+      "start": 334.54,
+      "end": 334.62,
+      "text": "para"
+    },
+    {
+      "start": 334.62,
+      "end": 334.9,
+      "text": "tomar."
+    },
+    {
+      "start": 335.62,
+      "end": 336.02,
+      "text": "Tá"
+    },
+    {
+      "start": 336.02,
+      "end": 336.26,
+      "text": "bom?"
+    },
+    {
+      "start": 336.38,
+      "end": 336.62,
+      "text": "Tá"
+    },
+    {
+      "start": 336.62,
+      "end": 336.76,
+      "text": "bom."
+    },
+    {
+      "start": 339.23,
+      "end": 339.37,
+      "text": "Não"
+    },
+    {
+      "start": 339.37,
+      "end": 339.37,
+      "text": "há"
+    },
+    {
+      "start": 339.37,
+      "end": 339.51,
+      "text": "uma"
+    },
+    {
+      "start": 339.51,
+      "end": 339.91,
+      "text": "homogênea."
+    },
+    {
+      "start": 2665.28,
+      "end": 2665.36,
+      "text": "O"
+    },
+    {
+      "start": 2665.36,
+      "end": 2665.36,
+      "text": "que"
+    },
+    {
+      "start": 2665.36,
+      "end": 2665.36,
+      "text": "é"
+    },
+    {
+      "start": 2665.36,
+      "end": 2665.44,
+      "text": "o"
+    },
+    {
+      "start": 2665.44,
+      "end": 2665.66,
+      "text": "que"
+    },
+    {
+      "start": 2665.66,
+      "end": 2665.8,
+      "text": "é"
+    },
+    {
+      "start": 2665.8,
+      "end": 2666.06,
+      "text": "chamado,"
+    },
+    {
+      "start": 2666.12,
+      "end": 2666.3,
+      "text": "né?"
+    },
+    {
+      "start": 2671.27,
+      "end": 2671.57,
+      "text": "Atenção!"
+    },
+    {
+      "start": 2726.11,
+      "end": 2726.29,
+      "text": "E"
+    },
+    {
+      "start": 2726.29,
+      "end": 2726.31,
+      "text": "aí"
+    },
+    {
+      "start": 3197.22,
+      "end": 3198.54,
+      "text": "AAAAAAAH!"
+    },
+    {
+      "start": 3202.15,
+      "end": 3202.59,
+      "text": "AAAAAAAA"
+    },
+    {
+      "start": 3204.64,
+      "end": 3205.14,
+      "text": "Valeu!"
+    },
+    {
+      "start": 3207.2,
+      "end": 3207.28,
+      "text": "Não"
+    },
+    {
+      "start": 3207.28,
+      "end": 3207.36,
+      "text": "há"
+    },
+    {
+      "start": 3207.36,
+      "end": 3207.74,
+      "text": "dúvidas,"
+    },
+    {
+      "start": 3207.78,
+      "end": 3207.86,
+      "text": "não"
+    },
+    {
+      "start": 3207.86,
+      "end": 3208.0,
+      "text": "há"
+    },
+    {
+      "start": 3208.0,
+      "end": 3208.58,
+      "text": "dúvidas."
+    },
+    {
+      "start": 3232.51,
+      "end": 3233.11,
+      "text": "Mas"
+    },
+    {
+      "start": 3233.11,
+      "end": 3233.39,
+      "text": "tudo"
+    },
+    {
+      "start": 3233.39,
+      "end": 3233.63,
+      "text": "é"
+    },
+    {
+      "start": 3233.63,
+      "end": 3233.65,
+      "text": "a"
+    },
+    {
+      "start": 3233.65,
+      "end": 3233.77,
+      "text": "nossa."
+    },
+    {
+      "start": 3235.46,
+      "end": 3235.98,
+      "text": "Lembrem"
+    },
+    {
+      "start": 3235.98,
+      "end": 3236.56,
+      "text": "-se"
+    },
+    {
+      "start": 3236.56,
+      "end": 3236.72,
+      "text": "que"
+    },
+    {
+      "start": 3236.72,
+      "end": 3236.94,
+      "text": "a"
+    },
+    {
+      "start": 3236.94,
+      "end": 3237.16,
+      "text": "nossa"
+    },
+    {
+      "start": 3237.16,
+      "end": 3237.58,
+      "text": "família"
+    },
+    {
+      "start": 3237.58,
+      "end": 3238.4,
+      "text": "é..."
+    },
+    {
+      "start": 3241.38,
+      "end": 3242.0,
+      "text": "Desculpa."
+    },
+    {
+      "start": 3244.51,
+      "end": 3245.69,
+      "text": "Atenção,"
+    },
+    {
+      "start": 3246.73,
+      "end": 3246.75,
+      "text": "o"
+    },
+    {
+      "start": 3246.75,
+      "end": 3255.67,
+      "text": "que"
+    },
+    {
+      "start": 3255.67,
+      "end": 3255.81,
+      "text": "eu"
+    },
+    {
+      "start": 3255.81,
+      "end": 3255.91,
+      "text": "estou"
+    },
+    {
+      "start": 3255.91,
+      "end": 3256.21,
+      "text": "dizendo"
+    },
+    {
+      "start": 3256.21,
+      "end": 3256.43,
+      "text": "é"
+    },
+    {
+      "start": 3256.43,
+      "end": 3256.73,
+      "text": "que"
+    },
+    {
+      "start": 3256.73,
+      "end": 3257.11,
+      "text": "a"
+    },
+    {
+      "start": 3257.11,
+      "end": 3257.11,
+      "text": "gente"
+    },
+    {
+      "start": 3257.11,
+      "end": 3257.11,
+      "text": "tem"
+    },
+    {
+      "start": 3257.11,
+      "end": 3257.11,
+      "text": "que"
+    },
+    {
+      "start": 3257.11,
+      "end": 3257.11,
+      "text": "ter"
+    },
+    {
+      "start": 3257.11,
+      "end": 3257.11,
+      "text": "uma"
+    },
+    {
+      "start": 3257.11,
+      "end": 3257.11,
+      "text": "relação"
+    },
+    {
+      "start": 3257.11,
+      "end": 3257.11,
+      "text": "de"
+    },
+    {
+      "start": 3257.11,
+      "end": 3257.11,
+      "text": "sexo."
+    },
+    {
+      "start": 3259.07,
+      "end": 3259.23,
+      "text": "Não"
+    },
+    {
+      "start": 3259.23,
+      "end": 3259.31,
+      "text": "há"
+    },
+    {
+      "start": 3259.31,
+      "end": 3259.41,
+      "text": "problema,"
+    },
+    {
+      "start": 3259.73,
+      "end": 3259.87,
+      "text": "não"
+    },
+    {
+      "start": 3259.87,
+      "end": 3260.03,
+      "text": "há"
+    },
+    {
+      "start": 3260.03,
+      "end": 3260.15,
+      "text": "problema."
+    },
+    {
+      "start": 3261.59,
+      "end": 3261.91,
+      "text": "Não"
+    },
+    {
+      "start": 3261.91,
+      "end": 3262.21,
+      "text": "há"
+    },
+    {
+      "start": 3262.21,
+      "end": 3262.37,
+      "text": "mais"
+    },
+    {
+      "start": 3262.37,
+      "end": 3262.43,
+      "text": "que"
+    },
+    {
+      "start": 3262.43,
+      "end": 3262.57,
+      "text": "eu"
+    },
+    {
+      "start": 3262.57,
+      "end": 3262.83,
+      "text": "te"
+    },
+    {
+      "start": 3262.83,
+      "end": 3263.23,
+      "text": "ouvir."
+    },
+    {
+      "start": 3267.04,
+      "end": 3267.2,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 3267.2,
+      "end": 3267.22,
+      "text": "o"
+    },
+    {
+      "start": 3267.22,
+      "end": 3267.62,
+      "text": "programa"
+    },
+    {
+      "start": 3267.62,
+      "end": 3267.82,
+      "text": "em"
+    },
+    {
+      "start": 3267.82,
+      "end": 3271.82,
+      "text": "vários"
+    },
+    {
+      "start": 3271.82,
+      "end": 3271.84,
+      "text": "lugares"
+    },
+    {
+      "start": 3271.84,
+      "end": 3275.96,
+      "text": "do"
+    },
+    {
+      "start": 3275.96,
+      "end": 3276.36,
+      "text": "Brasil."
+    },
+    {
+      "start": 3281.41,
+      "end": 3281.55,
+      "text": "Atenção,"
+    },
+    {
+      "start": 3281.55,
+      "end": 3281.87,
+      "text": "velho,"
+    },
+    {
+      "start": 3281.89,
+      "end": 3281.91,
+      "text": "se"
+    },
+    {
+      "start": 3281.91,
+      "end": 3282.07,
+      "text": "vê."
+    },
+    {
+      "start": 3484.16,
+      "end": 3484.32,
+      "text": "Muito"
+    },
+    {
+      "start": 3484.32,
+      "end": 3484.44,
+      "text": "obrigado."
+    }
+  ]
+}

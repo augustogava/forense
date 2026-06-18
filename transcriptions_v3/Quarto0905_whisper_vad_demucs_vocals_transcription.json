@@ -1,0 +1,105 @@
+{
+  "source_file": "Quarto0905_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 2506.3,
+  "segments": {
+    "00:05:34,00:05:44": "Aqui, ó.",
+    "00:05:53,00:05:57": "Vou lá aqui, ó.",
+    "00:07:34,00:07:36": "O cabelo não, a roupa.",
+    "00:20:06,00:20:08": "O que é isso?"
+  },
+  "hallucinations_filtered": 35,
+  "words": [
+    {
+      "start": 334.01,
+      "end": 335.47,
+      "text": "Aqui,",
+      "confidence": 0.244
+    },
+    {
+      "start": 344.53,
+      "end": 344.79,
+      "text": "ó.",
+      "confidence": 0.64
+    },
+    {
+      "start": 353.6,
+      "end": 354.32,
+      "text": "Vou",
+      "confidence": 0.188
+    },
+    {
+      "start": 357.05,
+      "end": 357.27,
+      "text": "lá",
+      "confidence": 0.77
+    },
+    {
+      "start": 357.27,
+      "end": 357.45,
+      "text": "aqui,",
+      "confidence": 0.675
+    },
+    {
+      "start": 357.57,
+      "end": 357.75,
+      "text": "ó.",
+      "confidence": 0.642
+    },
+    {
+      "start": 454.65,
+      "end": 454.67,
+      "text": "O",
+      "confidence": 0.13
+    },
+    {
+      "start": 454.67,
+      "end": 455.29,
+      "text": "cabelo",
+      "confidence": 0.978
+    },
+    {
+      "start": 455.29,
+      "end": 455.53,
+      "text": "não,",
+      "confidence": 0.746
+    },
+    {
+      "start": 455.69,
+      "end": 456.03,
+      "text": "a",
+      "confidence": 0.894
+    },
+    {
+      "start": 456.03,
+      "end": 456.49,
+      "text": "roupa.",
+      "confidence": 0.814
+    },
+    {
+      "start": 1206.01,
+      "end": 1207.55,
+      "text": "O",
+      "confidence": 0.048
+    },
+    {
+      "start": 1207.55,
+      "end": 1208.43,
+      "text": "que",
+      "confidence": 0.579
+    },
+    {
+      "start": 1208.43,
+      "end": 1208.45,
+      "text": "é",
+      "confidence": 0.69
+    },
+    {
+      "start": 1208.45,
+      "end": 1208.47,
+      "text": "isso?",
+      "confidence": 0.874
+    }
+  ]
+}

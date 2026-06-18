@@ -1,0 +1,171 @@
+{
+  "source_file": "VOR20260529064016_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.0,
+  "segments": {
+    "00:13:48,00:13:49": "Obrigado.",
+    "00:19:35,00:19:35": "O que é isso?",
+    "00:20:07,00:20:07": "Eu não sei o que eu estou falando, mas eu não sei o que eu estou dizendo.",
+    "00:41:19,00:41:19": "O que é isso?"
+  },
+  "hallucinations_filtered": 59,
+  "words": [
+    {
+      "start": 828.93,
+      "end": 829.13,
+      "text": "Obrigado.",
+      "confidence": 0.324
+    },
+    {
+      "start": 1175.37,
+      "end": 1175.45,
+      "text": "O",
+      "confidence": 0.04
+    },
+    {
+      "start": 1175.45,
+      "end": 1175.47,
+      "text": "que",
+      "confidence": 0.444
+    },
+    {
+      "start": 1175.47,
+      "end": 1175.49,
+      "text": "é",
+      "confidence": 0.449
+    },
+    {
+      "start": 1175.49,
+      "end": 1175.51,
+      "text": "isso?",
+      "confidence": 0.561
+    },
+    {
+      "start": 1207.33,
+      "end": 1207.37,
+      "text": "Eu",
+      "confidence": 0.028
+    },
+    {
+      "start": 1207.37,
+      "end": 1207.39,
+      "text": "não",
+      "confidence": 0.107
+    },
+    {
+      "start": 1207.39,
+      "end": 1207.41,
+      "text": "sei",
+      "confidence": 0.333
+    },
+    {
+      "start": 1207.41,
+      "end": 1207.43,
+      "text": "o",
+      "confidence": 0.187
+    },
+    {
+      "start": 1207.43,
+      "end": 1207.45,
+      "text": "que",
+      "confidence": 0.941
+    },
+    {
+      "start": 1207.45,
+      "end": 1207.47,
+      "text": "eu",
+      "confidence": 0.187
+    },
+    {
+      "start": 1207.47,
+      "end": 1207.49,
+      "text": "estou",
+      "confidence": 0.281
+    },
+    {
+      "start": 1207.49,
+      "end": 1207.51,
+      "text": "falando,",
+      "confidence": 0.241
+    },
+    {
+      "start": 1207.51,
+      "end": 1207.53,
+      "text": "mas",
+      "confidence": 0.622
+    },
+    {
+      "start": 1207.53,
+      "end": 1207.55,
+      "text": "eu",
+      "confidence": 0.662
+    },
+    {
+      "start": 1207.55,
+      "end": 1207.57,
+      "text": "não",
+      "confidence": 0.191
+    },
+    {
+      "start": 1207.57,
+      "end": 1207.59,
+      "text": "sei",
+      "confidence": 0.901
+    },
+    {
+      "start": 1207.59,
+      "end": 1207.61,
+      "text": "o",
+      "confidence": 0.799
+    },
+    {
+      "start": 1207.61,
+      "end": 1207.63,
+      "text": "que",
+      "confidence": 0.993
+    },
+    {
+      "start": 1207.63,
+      "end": 1207.65,
+      "text": "eu",
+      "confidence": 0.822
+    },
+    {
+      "start": 1207.65,
+      "end": 1207.67,
+      "text": "estou",
+      "confidence": 0.946
+    },
+    {
+      "start": 1207.67,
+      "end": 1207.69,
+      "text": "dizendo.",
+      "confidence": 0.677
+    },
+    {
+      "start": 2479.33,
+      "end": 2479.81,
+      "text": "O",
+      "confidence": 0.066
+    },
+    {
+      "start": 2479.81,
+      "end": 2479.83,
+      "text": "que",
+      "confidence": 0.621
+    },
+    {
+      "start": 2479.83,
+      "end": 2479.85,
+      "text": "é",
+      "confidence": 0.64
+    },
+    {
+      "start": 2479.85,
+      "end": 2479.87,
+      "text": "isso?",
+      "confidence": 0.811
+    }
+  ]
+}

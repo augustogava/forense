@@ -1,0 +1,61 @@
+{
+  "source_file": "VOR20260528123659_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.0,
+  "segments": {
+    "00:28:47,00:30:17": "O que é isso?",
+    "00:48:18,00:48:52": "O que é isso?"
+  },
+  "hallucinations_filtered": 3,
+  "words": [
+    {
+      "start": 1727.85,
+      "end": 1729.11,
+      "text": "O",
+      "confidence": 0.04
+    },
+    {
+      "start": 1815.02,
+      "end": 1816.43,
+      "text": "que",
+      "confidence": 0.572
+    },
+    {
+      "start": 1817.21,
+      "end": 1817.23,
+      "text": "é",
+      "confidence": 0.343
+    },
+    {
+      "start": 1817.23,
+      "end": 1817.93,
+      "text": "isso?",
+      "confidence": 0.739
+    },
+    {
+      "start": 2898.94,
+      "end": 2899.94,
+      "text": "O",
+      "confidence": 0.04
+    },
+    {
+      "start": 2899.94,
+      "end": 2900.08,
+      "text": "que",
+      "confidence": 0.541
+    },
+    {
+      "start": 2932.61,
+      "end": 2932.63,
+      "text": "é",
+      "confidence": 0.74
+    },
+    {
+      "start": 2932.63,
+      "end": 2932.65,
+      "text": "isso?",
+      "confidence": 0.755
+    }
+  ]
+}

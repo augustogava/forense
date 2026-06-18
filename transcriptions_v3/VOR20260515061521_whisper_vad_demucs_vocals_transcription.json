@@ -1,0 +1,206 @@
+{
+  "source_file": "VOR20260515061521_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.3,
+  "segments": {
+    "00:29:47,00:29:52": "Você precisava de mamãe também.",
+    "00:30:56,00:31:38": "Esse tá pedindo e não tá tomando, né?",
+    "00:34:46,00:34:57": "E aí a gente entra, né, só o mesmo agente, mesmo melhor, faz uns 5 dias, 7 de madrugada"
+  },
+  "hallucinations_filtered": 13,
+  "words": [
+    {
+      "start": 1787.62,
+      "end": 1787.96,
+      "text": "Você",
+      "confidence": 0.027
+    },
+    {
+      "start": 1790.57,
+      "end": 1791.23,
+      "text": "precisava",
+      "confidence": 0.894
+    },
+    {
+      "start": 1791.23,
+      "end": 1791.43,
+      "text": "de",
+      "confidence": 0.983
+    },
+    {
+      "start": 1791.43,
+      "end": 1791.81,
+      "text": "mamãe",
+      "confidence": 0.32
+    },
+    {
+      "start": 1791.81,
+      "end": 1792.11,
+      "text": "também.",
+      "confidence": 0.33
+    },
+    {
+      "start": 1856.12,
+      "end": 1856.4,
+      "text": "Esse",
+      "confidence": 0.223
+    },
+    {
+      "start": 1896.71,
+      "end": 1896.89,
+      "text": "tá",
+      "confidence": 0.124
+    },
+    {
+      "start": 1896.89,
+      "end": 1897.33,
+      "text": "pedindo",
+      "confidence": 0.995
+    },
+    {
+      "start": 1897.33,
+      "end": 1897.39,
+      "text": "e",
+      "confidence": 0.151
+    },
+    {
+      "start": 1897.39,
+      "end": 1897.53,
+      "text": "não",
+      "confidence": 0.32
+    },
+    {
+      "start": 1897.53,
+      "end": 1897.61,
+      "text": "tá",
+      "confidence": 0.945
+    },
+    {
+      "start": 1897.61,
+      "end": 1898.11,
+      "text": "tomando,",
+      "confidence": 0.445
+    },
+    {
+      "start": 1898.15,
+      "end": 1898.33,
+      "text": "né?",
+      "confidence": 0.902
+    },
+    {
+      "start": 2086.56,
+      "end": 2086.58,
+      "text": "E",
+      "confidence": 0.138
+    },
+    {
+      "start": 2086.58,
+      "end": 2086.84,
+      "text": "aí",
+      "confidence": 0.659
+    },
+    {
+      "start": 2086.84,
+      "end": 2087.16,
+      "text": "a",
+      "confidence": 0.522
+    },
+    {
+      "start": 2087.16,
+      "end": 2087.52,
+      "text": "gente",
+      "confidence": 0.994
+    },
+    {
+      "start": 2087.52,
+      "end": 2088.28,
+      "text": "entra,",
+      "confidence": 0.179
+    },
+    {
+      "start": 2088.6,
+      "end": 2088.86,
+      "text": "né,",
+      "confidence": 0.702
+    },
+    {
+      "start": 2088.94,
+      "end": 2089.12,
+      "text": "só",
+      "confidence": 0.835
+    },
+    {
+      "start": 2089.12,
+      "end": 2089.34,
+      "text": "o",
+      "confidence": 0.687
+    },
+    {
+      "start": 2089.34,
+      "end": 2090.06,
+      "text": "mesmo",
+      "confidence": 0.836
+    },
+    {
+      "start": 2090.06,
+      "end": 2090.7,
+      "text": "agente,",
+      "confidence": 0.673
+    },
+    {
+      "start": 2090.84,
+      "end": 2091.2,
+      "text": "mesmo",
+      "confidence": 0.681
+    },
+    {
+      "start": 2091.2,
+      "end": 2091.7,
+      "text": "melhor,",
+      "confidence": 0.554
+    },
+    {
+      "start": 2092.1,
+      "end": 2092.64,
+      "text": "faz",
+      "confidence": 0.643
+    },
+    {
+      "start": 2092.64,
+      "end": 2093.12,
+      "text": "uns",
+      "confidence": 0.76
+    },
+    {
+      "start": 2093.12,
+      "end": 2094.9,
+      "text": "5",
+      "confidence": 0.403
+    },
+    {
+      "start": 2094.9,
+      "end": 2095.52,
+      "text": "dias,",
+      "confidence": 0.86
+    },
+    {
+      "start": 2095.68,
+      "end": 2096.62,
+      "text": "7",
+      "confidence": 0.527
+    },
+    {
+      "start": 2096.62,
+      "end": 2096.76,
+      "text": "de",
+      "confidence": 0.005
+    },
+    {
+      "start": 2096.76,
+      "end": 2097.12,
+      "text": "madrugada",
+      "confidence": 0.572
+    }
+  ]
+}

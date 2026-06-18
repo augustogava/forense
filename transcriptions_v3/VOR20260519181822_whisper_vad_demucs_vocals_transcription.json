@@ -1,0 +1,119 @@
+{
+  "source_file": "VOR20260519181822_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.1,
+  "segments": {
+    "00:02:45,00:03:15": "Não se esqueça de se inscrever no canal e ativar as notificações para receber notificações de novos vídeos."
+  },
+  "words": [
+    {
+      "start": 165.71,
+      "end": 165.91,
+      "text": "Não",
+      "confidence": 0.012
+    },
+    {
+      "start": 165.91,
+      "end": 165.93,
+      "text": "se",
+      "confidence": 0.071
+    },
+    {
+      "start": 165.93,
+      "end": 166.11,
+      "text": "esqueça",
+      "confidence": 0.65
+    },
+    {
+      "start": 166.11,
+      "end": 166.37,
+      "text": "de",
+      "confidence": 0.242
+    },
+    {
+      "start": 166.37,
+      "end": 166.75,
+      "text": "se",
+      "confidence": 0.05
+    },
+    {
+      "start": 192.33,
+      "end": 192.91,
+      "text": "inscrever",
+      "confidence": 0.786
+    },
+    {
+      "start": 192.91,
+      "end": 193.21,
+      "text": "no",
+      "confidence": 0.524
+    },
+    {
+      "start": 193.21,
+      "end": 194.31,
+      "text": "canal",
+      "confidence": 0.861
+    },
+    {
+      "start": 194.31,
+      "end": 194.77,
+      "text": "e",
+      "confidence": 0.592
+    },
+    {
+      "start": 194.77,
+      "end": 195.05,
+      "text": "ativar",
+      "confidence": 0.831
+    },
+    {
+      "start": 195.05,
+      "end": 195.07,
+      "text": "as",
+      "confidence": 0.731
+    },
+    {
+      "start": 195.07,
+      "end": 195.09,
+      "text": "notificações",
+      "confidence": 0.999
+    },
+    {
+      "start": 195.09,
+      "end": 195.11,
+      "text": "para",
+      "confidence": 0.008
+    },
+    {
+      "start": 195.11,
+      "end": 195.13,
+      "text": "receber",
+      "confidence": 0.81
+    },
+    {
+      "start": 195.13,
+      "end": 195.61,
+      "text": "notificações",
+      "confidence": 0.825
+    },
+    {
+      "start": 195.61,
+      "end": 195.63,
+      "text": "de",
+      "confidence": 0.489
+    },
+    {
+      "start": 195.63,
+      "end": 195.65,
+      "text": "novos",
+      "confidence": 0.976
+    },
+    {
+      "start": 195.65,
+      "end": 195.77,
+      "text": "vídeos.",
+      "confidence": 0.965
+    }
+  ]
+}

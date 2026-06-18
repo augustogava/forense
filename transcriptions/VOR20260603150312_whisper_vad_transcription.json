@@ -1,0 +1,176 @@
+{
+  "source_file": "VOR20260603150312_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:06:32,00:06:34": "Atenção!",
+    "00:06:53,00:06:54": "Não há dúvidas.",
+    "00:07:50,00:07:52": "Não há que dizer. É feliz.",
+    "00:25:19,00:25:21": "Não é possível entender nada, ou é só ser daninho?",
+    "00:25:24,00:25:24": "Não é isso que dá.",
+    "00:25:58,00:25:59": "Atenção, não se esqueça de assistir.",
+    "00:37:42,00:37:42": "Atenção!"
+  },
+  "words": [
+    {
+      "start": 392.07,
+      "end": 394.25,
+      "text": "Atenção!"
+    },
+    {
+      "start": 413.92,
+      "end": 414.04,
+      "text": "Não"
+    },
+    {
+      "start": 414.04,
+      "end": 414.04,
+      "text": "há"
+    },
+    {
+      "start": 414.04,
+      "end": 414.36,
+      "text": "dúvidas."
+    },
+    {
+      "start": 470.24,
+      "end": 470.24,
+      "text": "Não"
+    },
+    {
+      "start": 470.24,
+      "end": 470.42,
+      "text": "há"
+    },
+    {
+      "start": 470.42,
+      "end": 470.44,
+      "text": "que"
+    },
+    {
+      "start": 470.44,
+      "end": 470.76,
+      "text": "dizer."
+    },
+    {
+      "start": 471.76,
+      "end": 472.4,
+      "text": "É"
+    },
+    {
+      "start": 472.4,
+      "end": 472.88,
+      "text": "feliz."
+    },
+    {
+      "start": 1519.71,
+      "end": 1519.87,
+      "text": "Não"
+    },
+    {
+      "start": 1519.87,
+      "end": 1520.09,
+      "text": "é"
+    },
+    {
+      "start": 1520.09,
+      "end": 1520.09,
+      "text": "possível"
+    },
+    {
+      "start": 1520.09,
+      "end": 1520.09,
+      "text": "entender"
+    },
+    {
+      "start": 1520.09,
+      "end": 1520.43,
+      "text": "nada,"
+    },
+    {
+      "start": 1520.57,
+      "end": 1520.63,
+      "text": "ou"
+    },
+    {
+      "start": 1520.63,
+      "end": 1520.73,
+      "text": "é"
+    },
+    {
+      "start": 1520.73,
+      "end": 1520.91,
+      "text": "só"
+    },
+    {
+      "start": 1520.91,
+      "end": 1521.13,
+      "text": "ser"
+    },
+    {
+      "start": 1521.13,
+      "end": 1521.61,
+      "text": "daninho?"
+    },
+    {
+      "start": 1524.0,
+      "end": 1524.08,
+      "text": "Não"
+    },
+    {
+      "start": 1524.08,
+      "end": 1524.22,
+      "text": "é"
+    },
+    {
+      "start": 1524.22,
+      "end": 1524.34,
+      "text": "isso"
+    },
+    {
+      "start": 1524.34,
+      "end": 1524.48,
+      "text": "que"
+    },
+    {
+      "start": 1524.48,
+      "end": 1524.78,
+      "text": "dá."
+    },
+    {
+      "start": 1558.18,
+      "end": 1558.4,
+      "text": "Atenção,"
+    },
+    {
+      "start": 1558.42,
+      "end": 1558.62,
+      "text": "não"
+    },
+    {
+      "start": 1558.62,
+      "end": 1558.78,
+      "text": "se"
+    },
+    {
+      "start": 1558.78,
+      "end": 1559.06,
+      "text": "esqueça"
+    },
+    {
+      "start": 1559.06,
+      "end": 1559.18,
+      "text": "de"
+    },
+    {
+      "start": 1559.18,
+      "end": 1559.5,
+      "text": "assistir."
+    },
+    {
+      "start": 2262.27,
+      "end": 2262.97,
+      "text": "Atenção!"
+    }
+  ]
+}

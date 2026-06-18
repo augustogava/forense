@@ -1,0 +1,55 @@
+{
+  "source_file": "VOR20260513081811_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.1,
+  "segments": {
+    "00:24:21,00:24:22": "Ainda não consegui.",
+    "00:30:12,00:30:17": "Ainda não consegui.",
+    "00:53:24,00:53:25": "Tchau."
+  },
+  "words": [
+    {
+      "start": 1461.54,
+      "end": 1461.66,
+      "text": "Ainda",
+      "probability": 0.037
+    },
+    {
+      "start": 1461.66,
+      "end": 1461.82,
+      "text": "não",
+      "probability": 0.276
+    },
+    {
+      "start": 1461.82,
+      "end": 1462.08,
+      "text": "consegui.",
+      "probability": 0.257
+    },
+    {
+      "start": 1812.28,
+      "end": 1812.74,
+      "text": "Ainda",
+      "probability": 0.736
+    },
+    {
+      "start": 1812.74,
+      "end": 1814.52,
+      "text": "não",
+      "probability": 0.998
+    },
+    {
+      "start": 1817.46,
+      "end": 1817.92,
+      "text": "consegui.",
+      "probability": 0.991
+    },
+    {
+      "start": 3204.17,
+      "end": 3205.57,
+      "text": "Tchau.",
+      "probability": 0.497
+    }
+  ]
+}

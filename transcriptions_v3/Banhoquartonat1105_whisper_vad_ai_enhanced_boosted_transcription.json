@@ -1,0 +1,154 @@
+{
+  "source_file": "Banhoquartonat1105_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 967.1,
+  "segments": {
+    "00:13:29,00:13:30": "Não se esqueça de assinar o canal e ativar as notificações.",
+    "00:14:00,00:14:03": "Tchau, tchau.",
+    "00:15:04,00:15:04": "O que é isso?",
+    "00:15:30,00:15:30": "O que é isso?",
+    "00:16:04,00:16:05": "É tchau."
+  },
+  "hallucinations_filtered": 2,
+  "words": [
+    {
+      "start": 809.2,
+      "end": 809.56,
+      "text": "Não",
+      "confidence": 0.01
+    },
+    {
+      "start": 809.56,
+      "end": 809.7,
+      "text": "se",
+      "confidence": 0.024
+    },
+    {
+      "start": 809.7,
+      "end": 809.96,
+      "text": "esqueça",
+      "confidence": 0.328
+    },
+    {
+      "start": 809.96,
+      "end": 810.54,
+      "text": "de",
+      "confidence": 0.925
+    },
+    {
+      "start": 810.54,
+      "end": 810.74,
+      "text": "assinar",
+      "confidence": 0.32
+    },
+    {
+      "start": 810.74,
+      "end": 810.76,
+      "text": "o",
+      "confidence": 0.882
+    },
+    {
+      "start": 810.76,
+      "end": 810.78,
+      "text": "canal",
+      "confidence": 0.853
+    },
+    {
+      "start": 810.78,
+      "end": 810.8,
+      "text": "e",
+      "confidence": 0.317
+    },
+    {
+      "start": 810.8,
+      "end": 810.82,
+      "text": "ativar",
+      "confidence": 0.65
+    },
+    {
+      "start": 810.82,
+      "end": 810.84,
+      "text": "as",
+      "confidence": 0.611
+    },
+    {
+      "start": 810.84,
+      "end": 810.86,
+      "text": "notificações.",
+      "confidence": 0.857
+    },
+    {
+      "start": 840.26,
+      "end": 840.28,
+      "text": "Tchau,",
+      "confidence": 0.2
+    },
+    {
+      "start": 842.88,
+      "end": 843.2,
+      "text": "tchau.",
+      "confidence": 0.924
+    },
+    {
+      "start": 904.02,
+      "end": 904.04,
+      "text": "O",
+      "confidence": 0.075
+    },
+    {
+      "start": 904.04,
+      "end": 904.06,
+      "text": "que",
+      "confidence": 0.894
+    },
+    {
+      "start": 904.06,
+      "end": 904.08,
+      "text": "é",
+      "confidence": 0.79
+    },
+    {
+      "start": 904.08,
+      "end": 904.1,
+      "text": "isso?",
+      "confidence": 0.801
+    },
+    {
+      "start": 930.06,
+      "end": 930.2,
+      "text": "O",
+      "confidence": 0.065
+    },
+    {
+      "start": 930.2,
+      "end": 930.44,
+      "text": "que",
+      "confidence": 0.727
+    },
+    {
+      "start": 930.44,
+      "end": 930.58,
+      "text": "é",
+      "confidence": 0.694
+    },
+    {
+      "start": 930.58,
+      "end": 930.66,
+      "text": "isso?",
+      "confidence": 0.942
+    },
+    {
+      "start": 964.36,
+      "end": 964.44,
+      "text": "É",
+      "confidence": 0.539
+    },
+    {
+      "start": 964.44,
+      "end": 965.16,
+      "text": "tchau.",
+      "confidence": 0.257
+    }
+  ]
+}

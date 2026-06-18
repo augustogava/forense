@@ -1,0 +1,946 @@
+{
+  "source_file": "VOR20260528193807_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:01:16,00:01:17": "Aprecie.",
+    "00:04:46,00:04:46": ".",
+    "00:06:12,00:06:12": "Não há, não tem?",
+    "00:06:40,00:06:41": "Agradecimentos a todos os que participaram do programa.",
+    "00:10:06,00:10:06": "Tchau!",
+    "00:10:40,00:10:41": ".",
+    "00:11:04,00:11:04": "Não tem nome.",
+    "00:14:40,00:14:43": "Sim, o governo do Espírito Santo é uma harmonia genuína.",
+    "00:16:17,00:16:18": "O que é que é isso?",
+    "00:16:23,00:16:23": "Não tem.",
+    "00:16:26,00:16:26": "Não!",
+    "00:16:47,00:16:48": "Não sei, já tem...",
+    "00:16:56,00:16:56": "Iniciado.",
+    "00:17:10,00:17:10": "O que é o que?",
+    "00:24:05,00:24:06": "Seja bem-vindo ao canal!",
+    "00:25:45,00:25:47": "Acompanhe o processo em sua família e no site.",
+    "00:29:37,00:29:37": "Não há problema.",
+    "00:31:27,00:31:28": "Sim, amém.",
+    "00:35:31,00:35:32": "Atenção!",
+    "00:35:36,00:35:37": "Acompanhe a análise de um vídeo.",
+    "00:40:11,00:40:11": "Não há medo.",
+    "00:46:04,00:46:06": "Obrigada.",
+    "00:46:18,00:46:19": "Você não me resolveu!",
+    "00:46:29,00:46:30": "Jurons!",
+    "00:46:33,00:46:33": "Obrigada.",
+    "00:47:26,00:47:29": "O que é que é isso?",
+    "00:49:40,00:49:41": "Não.",
+    "00:49:55,00:49:55": "Atenção!",
+    "00:50:59,00:51:01": "E aí",
+    "00:57:38,00:57:39": "Seria...",
+    "00:57:46,00:57:46": "Tá?",
+    "00:58:32,00:58:39": "A filosofia que faz ficar para a teoria da humanidade, como organizações terroristas",
+    "00:58:39,00:58:44": "e estrangeiras, o governo americano, que era só na sua escura, suave, para determinar",
+    "00:58:44,00:58:49": "o terrorismo, que ele disse lá na oficina humanitária, a lei do terrorismo de 2016,",
+    "00:58:49,00:58:55": "definiu o terrorismo como a parte de rapos motivados, cheio de polia, discriminação,",
+    "00:59:25,00:59:29": "a política é que nem uma concepção de direito público indivídua e econômica",
+    "00:59:30,00:59:35": "fecha a decisão de ordenar a melhor avaliação, eis o que está a dormir no Brasil."
+  },
+  "words": [
+    {
+      "start": 76.61,
+      "end": 77.03,
+      "text": "Aprecie."
+    },
+    {
+      "start": 286.24,
+      "end": 286.32,
+      "text": "."
+    },
+    {
+      "start": 372.03,
+      "end": 372.11,
+      "text": "Não"
+    },
+    {
+      "start": 372.11,
+      "end": 372.23,
+      "text": "há,"
+    },
+    {
+      "start": 372.27,
+      "end": 372.41,
+      "text": "não"
+    },
+    {
+      "start": 372.41,
+      "end": 372.57,
+      "text": "tem?"
+    },
+    {
+      "start": 400.8,
+      "end": 401.24,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 401.24,
+      "end": 401.48,
+      "text": "a"
+    },
+    {
+      "start": 401.48,
+      "end": 401.62,
+      "text": "todos"
+    },
+    {
+      "start": 401.62,
+      "end": 401.62,
+      "text": "os"
+    },
+    {
+      "start": 401.62,
+      "end": 401.72,
+      "text": "que"
+    },
+    {
+      "start": 401.72,
+      "end": 401.76,
+      "text": "participaram"
+    },
+    {
+      "start": 401.76,
+      "end": 401.92,
+      "text": "do"
+    },
+    {
+      "start": 401.92,
+      "end": 401.92,
+      "text": "programa."
+    },
+    {
+      "start": 606.5,
+      "end": 606.82,
+      "text": "Tchau!"
+    },
+    {
+      "start": 640.87,
+      "end": 641.09,
+      "text": "."
+    },
+    {
+      "start": 664.23,
+      "end": 664.33,
+      "text": "Não"
+    },
+    {
+      "start": 664.33,
+      "end": 664.37,
+      "text": "tem"
+    },
+    {
+      "start": 664.37,
+      "end": 664.61,
+      "text": "nome."
+    },
+    {
+      "start": 880.16,
+      "end": 880.4,
+      "text": "Sim,"
+    },
+    {
+      "start": 880.46,
+      "end": 880.68,
+      "text": "o"
+    },
+    {
+      "start": 880.68,
+      "end": 880.88,
+      "text": "governo"
+    },
+    {
+      "start": 880.88,
+      "end": 881.14,
+      "text": "do"
+    },
+    {
+      "start": 881.14,
+      "end": 881.56,
+      "text": "Espírito"
+    },
+    {
+      "start": 881.56,
+      "end": 881.8,
+      "text": "Santo"
+    },
+    {
+      "start": 881.8,
+      "end": 882.02,
+      "text": "é"
+    },
+    {
+      "start": 882.02,
+      "end": 882.24,
+      "text": "uma"
+    },
+    {
+      "start": 882.24,
+      "end": 883.24,
+      "text": "harmonia"
+    },
+    {
+      "start": 883.24,
+      "end": 883.84,
+      "text": "genuína."
+    },
+    {
+      "start": 977.83,
+      "end": 978.05,
+      "text": "O"
+    },
+    {
+      "start": 978.05,
+      "end": 978.15,
+      "text": "que"
+    },
+    {
+      "start": 978.15,
+      "end": 978.21,
+      "text": "é"
+    },
+    {
+      "start": 978.21,
+      "end": 978.31,
+      "text": "que"
+    },
+    {
+      "start": 978.31,
+      "end": 978.47,
+      "text": "é"
+    },
+    {
+      "start": 978.47,
+      "end": 978.47,
+      "text": "isso?"
+    },
+    {
+      "start": 983.36,
+      "end": 983.5,
+      "text": "Não"
+    },
+    {
+      "start": 983.5,
+      "end": 983.76,
+      "text": "tem."
+    },
+    {
+      "start": 986.24,
+      "end": 986.42,
+      "text": "Não!"
+    },
+    {
+      "start": 1007.68,
+      "end": 1007.76,
+      "text": "Não"
+    },
+    {
+      "start": 1007.76,
+      "end": 1007.84,
+      "text": "sei,"
+    },
+    {
+      "start": 1007.9,
+      "end": 1008.0,
+      "text": "já"
+    },
+    {
+      "start": 1008.0,
+      "end": 1008.38,
+      "text": "tem..."
+    },
+    {
+      "start": 1016.16,
+      "end": 1016.74,
+      "text": "Iniciado."
+    },
+    {
+      "start": 1030.18,
+      "end": 1030.18,
+      "text": "O"
+    },
+    {
+      "start": 1030.18,
+      "end": 1030.3,
+      "text": "que"
+    },
+    {
+      "start": 1030.3,
+      "end": 1030.48,
+      "text": "é"
+    },
+    {
+      "start": 1030.48,
+      "end": 1030.72,
+      "text": "o"
+    },
+    {
+      "start": 1030.72,
+      "end": 1030.72,
+      "text": "que?"
+    },
+    {
+      "start": 1445.57,
+      "end": 1445.79,
+      "text": "Seja"
+    },
+    {
+      "start": 1445.79,
+      "end": 1446.09,
+      "text": "bem"
+    },
+    {
+      "start": 1446.09,
+      "end": 1446.63,
+      "text": "-vindo"
+    },
+    {
+      "start": 1446.63,
+      "end": 1446.63,
+      "text": "ao"
+    },
+    {
+      "start": 1446.63,
+      "end": 1446.65,
+      "text": "canal!"
+    },
+    {
+      "start": 1545.22,
+      "end": 1545.58,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 1545.58,
+      "end": 1545.58,
+      "text": "o"
+    },
+    {
+      "start": 1545.58,
+      "end": 1545.86,
+      "text": "processo"
+    },
+    {
+      "start": 1545.86,
+      "end": 1546.06,
+      "text": "em"
+    },
+    {
+      "start": 1546.06,
+      "end": 1546.32,
+      "text": "sua"
+    },
+    {
+      "start": 1546.32,
+      "end": 1546.64,
+      "text": "família"
+    },
+    {
+      "start": 1546.64,
+      "end": 1546.76,
+      "text": "e"
+    },
+    {
+      "start": 1546.76,
+      "end": 1546.96,
+      "text": "no"
+    },
+    {
+      "start": 1546.96,
+      "end": 1547.18,
+      "text": "site."
+    },
+    {
+      "start": 1777.44,
+      "end": 1777.54,
+      "text": "Não"
+    },
+    {
+      "start": 1777.54,
+      "end": 1777.54,
+      "text": "há"
+    },
+    {
+      "start": 1777.54,
+      "end": 1777.74,
+      "text": "problema."
+    },
+    {
+      "start": 1887.43,
+      "end": 1887.59,
+      "text": "Sim,"
+    },
+    {
+      "start": 1887.59,
+      "end": 1888.23,
+      "text": "amém."
+    },
+    {
+      "start": 2131.75,
+      "end": 2132.35,
+      "text": "Atenção!"
+    },
+    {
+      "start": 2136.0,
+      "end": 2136.56,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 2136.56,
+      "end": 2136.62,
+      "text": "a"
+    },
+    {
+      "start": 2136.62,
+      "end": 2136.66,
+      "text": "análise"
+    },
+    {
+      "start": 2136.66,
+      "end": 2136.96,
+      "text": "de"
+    },
+    {
+      "start": 2136.96,
+      "end": 2137.26,
+      "text": "um"
+    },
+    {
+      "start": 2137.26,
+      "end": 2137.38,
+      "text": "vídeo."
+    },
+    {
+      "start": 2411.62,
+      "end": 2411.86,
+      "text": "Não"
+    },
+    {
+      "start": 2411.86,
+      "end": 2411.86,
+      "text": "há"
+    },
+    {
+      "start": 2411.86,
+      "end": 2412.0,
+      "text": "medo."
+    },
+    {
+      "start": 2764.82,
+      "end": 2766.22,
+      "text": "Obrigada."
+    },
+    {
+      "start": 2778.61,
+      "end": 2778.71,
+      "text": "Você"
+    },
+    {
+      "start": 2778.71,
+      "end": 2778.89,
+      "text": "não"
+    },
+    {
+      "start": 2778.89,
+      "end": 2779.07,
+      "text": "me"
+    },
+    {
+      "start": 2779.07,
+      "end": 2779.71,
+      "text": "resolveu!"
+    },
+    {
+      "start": 2789.31,
+      "end": 2790.07,
+      "text": "Jurons!"
+    },
+    {
+      "start": 2793.35,
+      "end": 2793.75,
+      "text": "Obrigada."
+    },
+    {
+      "start": 2846.56,
+      "end": 2846.56,
+      "text": "O"
+    },
+    {
+      "start": 2846.56,
+      "end": 2846.72,
+      "text": "que"
+    },
+    {
+      "start": 2846.72,
+      "end": 2846.94,
+      "text": "é"
+    },
+    {
+      "start": 2846.94,
+      "end": 2847.34,
+      "text": "que"
+    },
+    {
+      "start": 2847.34,
+      "end": 2848.3,
+      "text": "é"
+    },
+    {
+      "start": 2848.3,
+      "end": 2849.64,
+      "text": "isso?"
+    },
+    {
+      "start": 2980.93,
+      "end": 2981.35,
+      "text": "Não."
+    },
+    {
+      "start": 2995.43,
+      "end": 2995.59,
+      "text": "Atenção!"
+    },
+    {
+      "start": 3059.08,
+      "end": 3060.42,
+      "text": "E"
+    },
+    {
+      "start": 3060.42,
+      "end": 3061.12,
+      "text": "aí"
+    },
+    {
+      "start": 3458.95,
+      "end": 3459.25,
+      "text": "Seria..."
+    },
+    {
+      "start": 3466.4,
+      "end": 3466.74,
+      "text": "Tá?"
+    },
+    {
+      "start": 3512.35,
+      "end": 3512.35,
+      "text": "A"
+    },
+    {
+      "start": 3512.35,
+      "end": 3512.91,
+      "text": "filosofia"
+    },
+    {
+      "start": 3512.91,
+      "end": 3513.51,
+      "text": "que"
+    },
+    {
+      "start": 3513.51,
+      "end": 3514.21,
+      "text": "faz"
+    },
+    {
+      "start": 3514.21,
+      "end": 3515.81,
+      "text": "ficar"
+    },
+    {
+      "start": 3515.81,
+      "end": 3516.25,
+      "text": "para"
+    },
+    {
+      "start": 3516.25,
+      "end": 3516.41,
+      "text": "a"
+    },
+    {
+      "start": 3516.41,
+      "end": 3516.69,
+      "text": "teoria"
+    },
+    {
+      "start": 3516.69,
+      "end": 3516.89,
+      "text": "da"
+    },
+    {
+      "start": 3516.89,
+      "end": 3517.41,
+      "text": "humanidade,"
+    },
+    {
+      "start": 3517.49,
+      "end": 3518.11,
+      "text": "como"
+    },
+    {
+      "start": 3518.11,
+      "end": 3518.99,
+      "text": "organizações"
+    },
+    {
+      "start": 3518.99,
+      "end": 3519.73,
+      "text": "terroristas"
+    },
+    {
+      "start": 3519.73,
+      "end": 3519.89,
+      "text": "e"
+    },
+    {
+      "start": 3519.89,
+      "end": 3520.73,
+      "text": "estrangeiras,"
+    },
+    {
+      "start": 3520.79,
+      "end": 3521.17,
+      "text": "o"
+    },
+    {
+      "start": 3521.17,
+      "end": 3521.43,
+      "text": "governo"
+    },
+    {
+      "start": 3521.43,
+      "end": 3521.97,
+      "text": "americano,"
+    },
+    {
+      "start": 3522.07,
+      "end": 3522.13,
+      "text": "que"
+    },
+    {
+      "start": 3522.13,
+      "end": 3522.25,
+      "text": "era"
+    },
+    {
+      "start": 3522.25,
+      "end": 3522.49,
+      "text": "só"
+    },
+    {
+      "start": 3522.49,
+      "end": 3522.59,
+      "text": "na"
+    },
+    {
+      "start": 3522.59,
+      "end": 3522.75,
+      "text": "sua"
+    },
+    {
+      "start": 3522.75,
+      "end": 3523.11,
+      "text": "escura,"
+    },
+    {
+      "start": 3523.19,
+      "end": 3523.63,
+      "text": "suave,"
+    },
+    {
+      "start": 3523.85,
+      "end": 3524.21,
+      "text": "para"
+    },
+    {
+      "start": 3524.21,
+      "end": 3524.77,
+      "text": "determinar"
+    },
+    {
+      "start": 3524.77,
+      "end": 3524.87,
+      "text": "o"
+    },
+    {
+      "start": 3524.87,
+      "end": 3525.43,
+      "text": "terrorismo,"
+    },
+    {
+      "start": 3525.49,
+      "end": 3525.53,
+      "text": "que"
+    },
+    {
+      "start": 3525.53,
+      "end": 3525.65,
+      "text": "ele"
+    },
+    {
+      "start": 3525.65,
+      "end": 3525.89,
+      "text": "disse"
+    },
+    {
+      "start": 3525.89,
+      "end": 3526.01,
+      "text": "lá"
+    },
+    {
+      "start": 3526.01,
+      "end": 3526.19,
+      "text": "na"
+    },
+    {
+      "start": 3526.19,
+      "end": 3526.47,
+      "text": "oficina"
+    },
+    {
+      "start": 3526.47,
+      "end": 3527.03,
+      "text": "humanitária,"
+    },
+    {
+      "start": 3527.11,
+      "end": 3527.53,
+      "text": "a"
+    },
+    {
+      "start": 3527.53,
+      "end": 3527.79,
+      "text": "lei"
+    },
+    {
+      "start": 3527.79,
+      "end": 3528.01,
+      "text": "do"
+    },
+    {
+      "start": 3528.01,
+      "end": 3528.69,
+      "text": "terrorismo"
+    },
+    {
+      "start": 3528.69,
+      "end": 3528.83,
+      "text": "de"
+    },
+    {
+      "start": 3528.83,
+      "end": 3529.45,
+      "text": "2016,"
+    },
+    {
+      "start": 3529.85,
+      "end": 3530.51,
+      "text": "definiu"
+    },
+    {
+      "start": 3530.51,
+      "end": 3530.63,
+      "text": "o"
+    },
+    {
+      "start": 3530.63,
+      "end": 3531.19,
+      "text": "terrorismo"
+    },
+    {
+      "start": 3531.19,
+      "end": 3531.47,
+      "text": "como"
+    },
+    {
+      "start": 3531.47,
+      "end": 3531.67,
+      "text": "a"
+    },
+    {
+      "start": 3531.67,
+      "end": 3532.09,
+      "text": "parte"
+    },
+    {
+      "start": 3532.09,
+      "end": 3532.33,
+      "text": "de"
+    },
+    {
+      "start": 3532.33,
+      "end": 3532.79,
+      "text": "rapos"
+    },
+    {
+      "start": 3532.79,
+      "end": 3533.45,
+      "text": "motivados,"
+    },
+    {
+      "start": 3533.55,
+      "end": 3534.01,
+      "text": "cheio"
+    },
+    {
+      "start": 3534.01,
+      "end": 3534.07,
+      "text": "de"
+    },
+    {
+      "start": 3534.07,
+      "end": 3534.49,
+      "text": "polia,"
+    },
+    {
+      "start": 3534.69,
+      "end": 3535.61,
+      "text": "discriminação,"
+    },
+    {
+      "start": 3565.61,
+      "end": 3565.61,
+      "text": "a"
+    },
+    {
+      "start": 3565.61,
+      "end": 3565.95,
+      "text": "política"
+    },
+    {
+      "start": 3565.95,
+      "end": 3566.19,
+      "text": "é"
+    },
+    {
+      "start": 3566.19,
+      "end": 3566.29,
+      "text": "que"
+    },
+    {
+      "start": 3566.29,
+      "end": 3566.57,
+      "text": "nem"
+    },
+    {
+      "start": 3566.57,
+      "end": 3566.77,
+      "text": "uma"
+    },
+    {
+      "start": 3566.77,
+      "end": 3567.33,
+      "text": "concepção"
+    },
+    {
+      "start": 3567.33,
+      "end": 3567.57,
+      "text": "de"
+    },
+    {
+      "start": 3567.57,
+      "end": 3567.79,
+      "text": "direito"
+    },
+    {
+      "start": 3567.79,
+      "end": 3568.17,
+      "text": "público"
+    },
+    {
+      "start": 3568.17,
+      "end": 3568.79,
+      "text": "indivídua"
+    },
+    {
+      "start": 3568.79,
+      "end": 3568.81,
+      "text": "e"
+    },
+    {
+      "start": 3568.81,
+      "end": 3569.67,
+      "text": "econômica"
+    },
+    {
+      "start": 3570.33,
+      "end": 3570.61,
+      "text": "fecha"
+    },
+    {
+      "start": 3570.61,
+      "end": 3570.75,
+      "text": "a"
+    },
+    {
+      "start": 3570.75,
+      "end": 3571.25,
+      "text": "decisão"
+    },
+    {
+      "start": 3571.25,
+      "end": 3571.37,
+      "text": "de"
+    },
+    {
+      "start": 3571.37,
+      "end": 3571.81,
+      "text": "ordenar"
+    },
+    {
+      "start": 3571.81,
+      "end": 3571.89,
+      "text": "a"
+    },
+    {
+      "start": 3571.89,
+      "end": 3572.13,
+      "text": "melhor"
+    },
+    {
+      "start": 3572.13,
+      "end": 3573.19,
+      "text": "avaliação,"
+    },
+    {
+      "start": 3573.31,
+      "end": 3573.73,
+      "text": "eis"
+    },
+    {
+      "start": 3573.73,
+      "end": 3573.79,
+      "text": "o"
+    },
+    {
+      "start": 3573.79,
+      "end": 3573.97,
+      "text": "que"
+    },
+    {
+      "start": 3573.97,
+      "end": 3574.15,
+      "text": "está"
+    },
+    {
+      "start": 3574.15,
+      "end": 3574.17,
+      "text": "a"
+    },
+    {
+      "start": 3574.17,
+      "end": 3574.33,
+      "text": "dormir"
+    },
+    {
+      "start": 3574.33,
+      "end": 3574.59,
+      "text": "no"
+    },
+    {
+      "start": 3574.59,
+      "end": 3575.31,
+      "text": "Brasil."
+    }
+  ]
+}

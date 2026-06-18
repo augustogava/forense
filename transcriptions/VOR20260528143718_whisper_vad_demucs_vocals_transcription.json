@@ -1,0 +1,191 @@
+{
+  "source_file": "VOR20260528143718_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:10,00:00:10": "O que é isso?",
+    "00:05:34,00:05:34": "Não!",
+    "00:05:39,00:05:40": "Não é isso.",
+    "00:05:46,00:05:46": "Atenção!",
+    "00:24:26,00:24:26": "É isso aí!",
+    "00:24:30,00:24:33": "Agradecimentos a todos os convidados.",
+    "00:24:36,00:24:36": "E aí",
+    "00:29:53,00:29:53": "Obrigado.",
+    "00:49:38,00:49:39": "Não se esqueça de deixar seu like e compartilhar o vídeo.",
+    "00:53:00,00:53:00": ".",
+    "00:54:56,00:54:57": "Atenção!",
+    "00:56:00,00:56:00": "."
+  },
+  "words": [
+    {
+      "start": 10.4,
+      "end": 10.48,
+      "text": "O"
+    },
+    {
+      "start": 10.48,
+      "end": 10.52,
+      "text": "que"
+    },
+    {
+      "start": 10.52,
+      "end": 10.66,
+      "text": "é"
+    },
+    {
+      "start": 10.66,
+      "end": 10.94,
+      "text": "isso?"
+    },
+    {
+      "start": 334.47,
+      "end": 334.79,
+      "text": "Não!"
+    },
+    {
+      "start": 339.65,
+      "end": 339.83,
+      "text": "Não"
+    },
+    {
+      "start": 339.83,
+      "end": 340.15,
+      "text": "é"
+    },
+    {
+      "start": 340.15,
+      "end": 340.19,
+      "text": "isso."
+    },
+    {
+      "start": 346.5,
+      "end": 346.8,
+      "text": "Atenção!"
+    },
+    {
+      "start": 1466.08,
+      "end": 1466.18,
+      "text": "É"
+    },
+    {
+      "start": 1466.18,
+      "end": 1466.4,
+      "text": "isso"
+    },
+    {
+      "start": 1466.4,
+      "end": 1466.72,
+      "text": "aí!"
+    },
+    {
+      "start": 1470.66,
+      "end": 1471.08,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 1471.08,
+      "end": 1471.24,
+      "text": "a"
+    },
+    {
+      "start": 1471.24,
+      "end": 1471.52,
+      "text": "todos"
+    },
+    {
+      "start": 1471.52,
+      "end": 1471.66,
+      "text": "os"
+    },
+    {
+      "start": 1471.66,
+      "end": 1473.22,
+      "text": "convidados."
+    },
+    {
+      "start": 1476.2,
+      "end": 1476.28,
+      "text": "E"
+    },
+    {
+      "start": 1476.28,
+      "end": 1476.96,
+      "text": "aí"
+    },
+    {
+      "start": 1793.25,
+      "end": 1793.51,
+      "text": "Obrigado."
+    },
+    {
+      "start": 2978.47,
+      "end": 2978.69,
+      "text": "Não"
+    },
+    {
+      "start": 2978.69,
+      "end": 2978.89,
+      "text": "se"
+    },
+    {
+      "start": 2978.89,
+      "end": 2979.33,
+      "text": "esqueça"
+    },
+    {
+      "start": 2979.33,
+      "end": 2979.47,
+      "text": "de"
+    },
+    {
+      "start": 2979.47,
+      "end": 2979.47,
+      "text": "deixar"
+    },
+    {
+      "start": 2979.47,
+      "end": 2979.47,
+      "text": "seu"
+    },
+    {
+      "start": 2979.47,
+      "end": 2979.47,
+      "text": "like"
+    },
+    {
+      "start": 2979.47,
+      "end": 2979.47,
+      "text": "e"
+    },
+    {
+      "start": 2979.47,
+      "end": 2979.47,
+      "text": "compartilhar"
+    },
+    {
+      "start": 2979.47,
+      "end": 2979.47,
+      "text": "o"
+    },
+    {
+      "start": 2979.47,
+      "end": 2979.47,
+      "text": "vídeo."
+    },
+    {
+      "start": 3180.03,
+      "end": 3180.35,
+      "text": "."
+    },
+    {
+      "start": 3296.83,
+      "end": 3297.17,
+      "text": "Atenção!"
+    },
+    {
+      "start": 3360.35,
+      "end": 3360.69,
+      "text": "."
+    }
+  ]
+}

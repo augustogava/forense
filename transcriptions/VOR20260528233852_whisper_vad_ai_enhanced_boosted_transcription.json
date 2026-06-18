@@ -1,0 +1,349 @@
+{
+  "source_file": "VOR20260528233852_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:26,00:00:26": "Boa Gela!",
+    "00:02:26,00:02:26": ".",
+    "00:03:19,00:03:22": "Não há vontade de ser violento.",
+    "00:06:35,00:06:35": "Obrigado.",
+    "00:09:07,00:09:09": "Não há nada.",
+    "00:16:12,00:16:15": "Não há dúvidas sobre o que é sexo.",
+    "00:20:03,00:20:03": ".",
+    "00:21:02,00:21:03": "Apenas...",
+    "00:21:03,00:21:04": "Apenas...",
+    "00:24:29,00:24:30": "Não é um absurdo.",
+    "00:26:03,00:26:03": "Atenção!",
+    "00:26:09,00:26:10": "Não há dúvida.",
+    "00:31:30,00:31:30": "Não há dúvida.",
+    "00:36:13,00:36:15": "Agradecimentos a todos os convidados.",
+    "00:36:17,00:36:19": "Abre as portas!",
+    "00:39:46,00:39:46": "Atenção!",
+    "00:41:21,00:41:21": ".",
+    "00:41:53,00:41:53": "Atenção!",
+    "00:46:47,00:46:48": "Não há nenhum problema.",
+    "00:50:02,00:50:05": "Não há mais um pedaço de chifre.",
+    "00:59:11,00:59:12": "O que é que eu faço?"
+  },
+  "explicit_segments": {
+    "00:16:12,00:16:15": "Não há dúvidas sobre o que é sexo."
+  },
+  "explicit_count": 1,
+  "words": [
+    {
+      "start": 26.34,
+      "end": 26.48,
+      "text": "Boa"
+    },
+    {
+      "start": 26.48,
+      "end": 26.8,
+      "text": "Gela!"
+    },
+    {
+      "start": 146.4,
+      "end": 146.54,
+      "text": "."
+    },
+    {
+      "start": 199.81,
+      "end": 199.93,
+      "text": "Não"
+    },
+    {
+      "start": 199.93,
+      "end": 200.11,
+      "text": "há"
+    },
+    {
+      "start": 200.11,
+      "end": 200.35,
+      "text": "vontade"
+    },
+    {
+      "start": 200.35,
+      "end": 200.87,
+      "text": "de"
+    },
+    {
+      "start": 200.87,
+      "end": 201.09,
+      "text": "ser"
+    },
+    {
+      "start": 201.09,
+      "end": 202.07,
+      "text": "violento."
+    },
+    {
+      "start": 395.14,
+      "end": 395.52,
+      "text": "Obrigado."
+    },
+    {
+      "start": 547.97,
+      "end": 548.51,
+      "text": "Não"
+    },
+    {
+      "start": 548.51,
+      "end": 548.77,
+      "text": "há"
+    },
+    {
+      "start": 548.77,
+      "end": 549.07,
+      "text": "nada."
+    },
+    {
+      "start": 972.51,
+      "end": 973.11,
+      "text": "Não"
+    },
+    {
+      "start": 973.11,
+      "end": 973.31,
+      "text": "há"
+    },
+    {
+      "start": 973.31,
+      "end": 973.71,
+      "text": "dúvidas"
+    },
+    {
+      "start": 973.71,
+      "end": 973.91,
+      "text": "sobre"
+    },
+    {
+      "start": 973.91,
+      "end": 974.17,
+      "text": "o"
+    },
+    {
+      "start": 974.17,
+      "end": 974.33,
+      "text": "que"
+    },
+    {
+      "start": 974.33,
+      "end": 974.55,
+      "text": "é"
+    },
+    {
+      "start": 974.55,
+      "end": 975.17,
+      "text": "sexo."
+    },
+    {
+      "start": 1203.36,
+      "end": 1203.62,
+      "text": "."
+    },
+    {
+      "start": 1262.56,
+      "end": 1263.26,
+      "text": "Apenas..."
+    },
+    {
+      "start": 1263.26,
+      "end": 1264.5,
+      "text": "Apenas..."
+    },
+    {
+      "start": 1469.51,
+      "end": 1469.71,
+      "text": "Não"
+    },
+    {
+      "start": 1469.71,
+      "end": 1469.79,
+      "text": "é"
+    },
+    {
+      "start": 1469.79,
+      "end": 1469.91,
+      "text": "um"
+    },
+    {
+      "start": 1469.91,
+      "end": 1470.29,
+      "text": "absurdo."
+    },
+    {
+      "start": 1563.11,
+      "end": 1563.77,
+      "text": "Atenção!"
+    },
+    {
+      "start": 1569.06,
+      "end": 1569.62,
+      "text": "Não"
+    },
+    {
+      "start": 1569.62,
+      "end": 1569.76,
+      "text": "há"
+    },
+    {
+      "start": 1569.76,
+      "end": 1570.42,
+      "text": "dúvida."
+    },
+    {
+      "start": 1890.43,
+      "end": 1890.61,
+      "text": "Não"
+    },
+    {
+      "start": 1890.61,
+      "end": 1890.61,
+      "text": "há"
+    },
+    {
+      "start": 1890.61,
+      "end": 1890.85,
+      "text": "dúvida."
+    },
+    {
+      "start": 2173.89,
+      "end": 2174.51,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 2174.51,
+      "end": 2174.69,
+      "text": "a"
+    },
+    {
+      "start": 2174.69,
+      "end": 2174.89,
+      "text": "todos"
+    },
+    {
+      "start": 2174.89,
+      "end": 2175.21,
+      "text": "os"
+    },
+    {
+      "start": 2175.21,
+      "end": 2175.79,
+      "text": "convidados."
+    },
+    {
+      "start": 2177.73,
+      "end": 2178.31,
+      "text": "Abre"
+    },
+    {
+      "start": 2178.31,
+      "end": 2178.53,
+      "text": "as"
+    },
+    {
+      "start": 2178.53,
+      "end": 2179.25,
+      "text": "portas!"
+    },
+    {
+      "start": 2386.15,
+      "end": 2386.91,
+      "text": "Atenção!"
+    },
+    {
+      "start": 2481.28,
+      "end": 2481.54,
+      "text": "."
+    },
+    {
+      "start": 2513.25,
+      "end": 2513.99,
+      "text": "Atenção!"
+    },
+    {
+      "start": 2807.08,
+      "end": 2807.6,
+      "text": "Não"
+    },
+    {
+      "start": 2807.6,
+      "end": 2807.82,
+      "text": "há"
+    },
+    {
+      "start": 2807.82,
+      "end": 2808.08,
+      "text": "nenhum"
+    },
+    {
+      "start": 2808.08,
+      "end": 2808.36,
+      "text": "problema."
+    },
+    {
+      "start": 3002.32,
+      "end": 3003.08,
+      "text": "Não"
+    },
+    {
+      "start": 3003.08,
+      "end": 3003.72,
+      "text": "há"
+    },
+    {
+      "start": 3003.72,
+      "end": 3004.14,
+      "text": "mais"
+    },
+    {
+      "start": 3004.14,
+      "end": 3004.14,
+      "text": "um"
+    },
+    {
+      "start": 3004.14,
+      "end": 3004.82,
+      "text": "pedaço"
+    },
+    {
+      "start": 3004.82,
+      "end": 3005.0,
+      "text": "de"
+    },
+    {
+      "start": 3005.0,
+      "end": 3005.3,
+      "text": "chifre."
+    },
+    {
+      "start": 3551.46,
+      "end": 3551.46,
+      "text": "O"
+    },
+    {
+      "start": 3551.46,
+      "end": 3551.54,
+      "text": "que"
+    },
+    {
+      "start": 3551.54,
+      "end": 3551.56,
+      "text": "é"
+    },
+    {
+      "start": 3551.56,
+      "end": 3551.8,
+      "text": "que"
+    },
+    {
+      "start": 3551.8,
+      "end": 3552.24,
+      "text": "eu"
+    },
+    {
+      "start": 3552.24,
+      "end": 3552.6,
+      "text": "faço?"
+    }
+  ]
+}

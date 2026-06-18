@@ -1,0 +1,23 @@
+{
+  "source_file": "VOR20260513111815_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.0,
+  "segments": {
+    "00:30:02,00:30:04": "Tchau, tchau."
+  },
+  "words": [
+    {
+      "start": 1802.56,
+      "end": 1803.22,
+      "text": "Tchau,",
+      "probability": 0.522
+    },
+    {
+      "start": 1803.22,
+      "end": 1804.5,
+      "text": "tchau.",
+      "probability": 0.952
+    }
+  ]
+}

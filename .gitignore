@@ -44,3 +44,6 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+# DNSMOS model cache (auto-downloaded by forensic_audio_validate.py)
+models/dnsmos/

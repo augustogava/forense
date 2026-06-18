@@ -1,0 +1,224 @@
+{
+  "source_file": "VOR20260519191921_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.0,
+  "segments": {
+    "00:01:00,00:01:00": "O que é isso?",
+    "00:01:00,00:01:01": "O que é isso?",
+    "00:07:45,00:07:52": "Tchau, gente.",
+    "00:08:03,00:08:12": "Eu não sei o que eu vou fazer, mas eu não sei o que eu vou fazer, eu não sei o que eu vou fazer."
+  },
+  "words": [
+    {
+      "start": 60.09,
+      "end": 60.09,
+      "text": "O",
+      "probability": 0.048
+    },
+    {
+      "start": 60.09,
+      "end": 60.09,
+      "text": "que",
+      "probability": 0.642
+    },
+    {
+      "start": 60.09,
+      "end": 60.51,
+      "text": "é",
+      "probability": 0.391
+    },
+    {
+      "start": 60.51,
+      "end": 60.51,
+      "text": "isso?",
+      "probability": 0.488
+    },
+    {
+      "start": 60.51,
+      "end": 60.75,
+      "text": "O",
+      "probability": 0.396
+    },
+    {
+      "start": 60.75,
+      "end": 60.81,
+      "text": "que",
+      "probability": 0.869
+    },
+    {
+      "start": 60.81,
+      "end": 60.97,
+      "text": "é",
+      "probability": 0.929
+    },
+    {
+      "start": 60.97,
+      "end": 61.31,
+      "text": "isso?",
+      "probability": 0.937
+    },
+    {
+      "start": 465.06,
+      "end": 466.46,
+      "text": "Tchau,",
+      "probability": 0.512
+    },
+    {
+      "start": 472.44,
+      "end": 472.9,
+      "text": "gente.",
+      "probability": 0.223
+    },
+    {
+      "start": 483.32,
+      "end": 483.96,
+      "text": "Eu",
+      "probability": 0.063
+    },
+    {
+      "start": 484.66,
+      "end": 485.3,
+      "text": "não",
+      "probability": 0.319
+    },
+    {
+      "start": 485.3,
+      "end": 485.62,
+      "text": "sei",
+      "probability": 0.115
+    },
+    {
+      "start": 485.62,
+      "end": 485.92,
+      "text": "o",
+      "probability": 0.203
+    },
+    {
+      "start": 485.92,
+      "end": 486.08,
+      "text": "que",
+      "probability": 0.921
+    },
+    {
+      "start": 486.46,
+      "end": 487.46,
+      "text": "eu",
+      "probability": 0.337
+    },
+    {
+      "start": 487.46,
+      "end": 487.78,
+      "text": "vou",
+      "probability": 0.213
+    },
+    {
+      "start": 487.78,
+      "end": 488.28,
+      "text": "fazer,",
+      "probability": 0.618
+    },
+    {
+      "start": 488.54,
+      "end": 488.94,
+      "text": "mas",
+      "probability": 0.342
+    },
+    {
+      "start": 488.94,
+      "end": 489.24,
+      "text": "eu",
+      "probability": 0.635
+    },
+    {
+      "start": 489.24,
+      "end": 489.42,
+      "text": "não",
+      "probability": 0.21
+    },
+    {
+      "start": 489.42,
+      "end": 489.8,
+      "text": "sei",
+      "probability": 0.805
+    },
+    {
+      "start": 489.8,
+      "end": 490.16,
+      "text": "o",
+      "probability": 0.688
+    },
+    {
+      "start": 490.16,
+      "end": 490.44,
+      "text": "que",
+      "probability": 0.993
+    },
+    {
+      "start": 490.44,
+      "end": 490.46,
+      "text": "eu",
+      "probability": 0.851
+    },
+    {
+      "start": 490.46,
+      "end": 490.46,
+      "text": "vou",
+      "probability": 0.975
+    },
+    {
+      "start": 490.46,
+      "end": 491.12,
+      "text": "fazer,",
+      "probability": 0.988
+    },
+    {
+      "start": 491.44,
+      "end": 491.44,
+      "text": "eu",
+      "probability": 0.249
+    },
+    {
+      "start": 491.44,
+      "end": 491.92,
+      "text": "não",
+      "probability": 0.721
+    },
+    {
+      "start": 491.92,
+      "end": 491.92,
+      "text": "sei",
+      "probability": 0.978
+    },
+    {
+      "start": 491.92,
+      "end": 491.92,
+      "text": "o",
+      "probability": 0.854
+    },
+    {
+      "start": 491.92,
+      "end": 492.42,
+      "text": "que",
+      "probability": 0.995
+    },
+    {
+      "start": 492.42,
+      "end": 492.74,
+      "text": "eu",
+      "probability": 0.97
+    },
+    {
+      "start": 492.74,
+      "end": 492.74,
+      "text": "vou",
+      "probability": 0.988
+    },
+    {
+      "start": 492.74,
+      "end": 492.78,
+      "text": "fazer.",
+      "probability": 0.994
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "source_file": "VOR20260519171807_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.0,
+  "segments": {
+    "00:03:03,00:03:04": "Tchau.",
+    "00:29:01,00:29:03": "Obrigado.",
+    "00:29:14,00:29:15": "Vamos lá.",
+    "00:30:54,00:30:56": "E isso é nóis, hum!",
+    "00:30:56,00:30:57": "É verdade!",
+    "00:30:58,00:31:20": "É a minha vida!",
+    "00:31:21,00:31:22": "E eu vivo!",
+    "00:31:23,00:31:28": "E eu não vou ficar!",
+    "00:31:29,00:31:35": "Eu vou continuar!",
+    "00:31:40,00:31:42": "Eu vou ficar!",
+    "00:31:42,00:31:43": "Eu vou continuar!",
+    "00:31:43,00:31:44": "Eu vou continuar!",
+    "00:57:44,00:57:45": "Música",
+    "00:57:54,00:58:12": "Vamos lá."
+  },
+  "words": [
+    {
+      "start": 183.33,
+      "end": 184.73,
+      "text": "Tchau.",
+      "probability": 0.474
+    },
+    {
+      "start": 1741.92,
+      "end": 1743.32,
+      "text": "Obrigado.",
+      "probability": 0.366
+    },
+    {
+      "start": 1754.39,
+      "end": 1755.13,
+      "text": "Vamos",
+      "probability": 0.051
+    },
+    {
+      "start": 1755.84,
+      "end": 1755.96,
+      "text": "lá.",
+      "probability": 0.306
+    },
+    {
+      "start": 1854.9,
+      "end": 1854.98,
+      "text": "E",
+      "probability": 0.133
+    },
+    {
+      "start": 1854.98,
+      "end": 1855.3,
+      "text": "isso",
+      "probability": 0.09
+    },
+    {
+      "start": 1855.3,
+      "end": 1855.44,
+      "text": "é",
+      "probability": 0.559
+    },
+    {
+      "start": 1855.44,
+      "end": 1856.0,
+      "text": "nóis,",
+      "probability": 0.421
+    },
+    {
+      "start": 1856.18,
+      "end": 1856.36,
+      "text": "hum!",
+      "probability": 0.107
+    },
+    {
+      "start": 1856.7,
+      "end": 1856.96,
+      "text": "É",
+      "probability": 0.059
+    },
+    {
+      "start": 1856.96,
+      "end": 1857.4,
+      "text": "verdade!",
+      "probability": 0.164
+    },
+    {
+      "start": 1858.16,
+      "end": 1858.92,
+      "text": "É",
+      "probability": 0.241
+    },
+    {
+      "start": 1880.1,
+      "end": 1880.18,
+      "text": "a",
+      "probability": 0.127
+    },
+    {
+      "start": 1880.18,
+      "end": 1880.5,
+      "text": "minha",
+      "probability": 0.218
+    },
+    {
+      "start": 1880.5,
+      "end": 1880.96,
+      "text": "vida!",
+      "probability": 0.952
+    },
+    {
+      "start": 1881.24,
+      "end": 1881.88,
+      "text": "E",
+      "probability": 0.123
+    },
+    {
+      "start": 1881.94,
+      "end": 1882.32,
+      "text": "eu",
+      "probability": 0.435
+    },
+    {
+      "start": 1882.32,
+      "end": 1882.6,
+      "text": "vivo!",
+      "probability": 0.111
+    },
+    {
+      "start": 1883.26,
+      "end": 1883.5,
+      "text": "E",
+      "probability": 0.21
+    },
+    {
+      "start": 1887.66,
+      "end": 1887.96,
+      "text": "eu",
+      "probability": 0.461
+    },
+    {
+      "start": 1887.96,
+      "end": 1888.16,
+      "text": "não",
+      "probability": 0.41
+    },
+    {
+      "start": 1888.16,
+      "end": 1888.48,
+      "text": "vou",
+      "probability": 0.342
+    },
+    {
+      "start": 1888.48,
+      "end": 1888.86,
+      "text": "ficar!",
+      "probability": 0.239
+    },
+    {
+      "start": 1889.1,
+      "end": 1889.86,
+      "text": "Eu",
+      "probability": 0.225
+    },
+    {
+      "start": 1894.02,
+      "end": 1894.5,
+      "text": "vou",
+      "probability": 0.227
+    },
+    {
+      "start": 1894.95,
+      "end": 1895.71,
+      "text": "continuar!",
+      "probability": 0.207
+    },
+    {
+      "start": 1900.52,
+      "end": 1901.28,
+      "text": "Eu",
+      "probability": 0.457
+    },
+    {
+      "start": 1901.28,
+      "end": 1901.68,
+      "text": "vou",
+      "probability": 0.614
+    },
+    {
+      "start": 1901.68,
+      "end": 1902.1,
+      "text": "ficar!",
+      "probability": 0.276
+    },
+    {
+      "start": 1902.92,
+      "end": 1903.18,
+      "text": "Eu",
+      "probability": 0.438
+    },
+    {
+      "start": 1903.18,
+      "end": 1903.58,
+      "text": "vou",
+      "probability": 0.729
+    },
+    {
+      "start": 1903.58,
+      "end": 1903.96,
+      "text": "continuar!",
+      "probability": 0.792
+    },
+    {
+      "start": 1903.96,
+      "end": 1903.96,
+      "text": "Eu",
+      "probability": 0.527
+    },
+    {
+      "start": 1903.96,
+      "end": 1903.96,
+      "text": "vou",
+      "probability": 0.866
+    },
+    {
+      "start": 1903.96,
+      "end": 1904.38,
+      "text": "continuar!",
+      "probability": 0.921
+    },
+    {
+      "start": 3464.26,
+      "end": 3465.66,
+      "text": "Música",
+      "probability": 0.445
+    },
+    {
+      "start": 3474.19,
+      "end": 3475.59,
+      "text": "Vamos",
+      "probability": 0.03
+    },
+    {
+      "start": 3491.49,
+      "end": 3492.89,
+      "text": "lá.",
+      "probability": 0.712
+    }
+  ]
+}

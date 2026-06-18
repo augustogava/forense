@@ -1,0 +1,25 @@
+{
+  "source_file": "VOR20260616032444_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:25:31,00:25:31": "Não há dúvida."
+  },
+  "words": [
+    {
+      "start": 1531.17,
+      "end": 1531.25,
+      "text": "Não"
+    },
+    {
+      "start": 1531.25,
+      "end": 1531.45,
+      "text": "há"
+    },
+    {
+      "start": 1531.45,
+      "end": 1531.69,
+      "text": "dúvida."
+    }
+  ]
+}

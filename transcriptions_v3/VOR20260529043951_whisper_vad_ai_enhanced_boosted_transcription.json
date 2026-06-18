@@ -1,0 +1,49 @@
+{
+  "source_file": "VOR20260529043951_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.1,
+  "segments": {
+    "00:34:48,00:34:51": "E aí",
+    "00:47:28,00:47:30": "O que é isso?"
+  },
+  "hallucinations_filtered": 2,
+  "words": [
+    {
+      "start": 2088.69,
+      "end": 2091.1,
+      "text": "E",
+      "confidence": 0.198
+    },
+    {
+      "start": 2091.1,
+      "end": 2091.12,
+      "text": "aí",
+      "confidence": 0.94
+    },
+    {
+      "start": 2848.65,
+      "end": 2850.26,
+      "text": "O",
+      "confidence": 0.053
+    },
+    {
+      "start": 2850.26,
+      "end": 2850.28,
+      "text": "que",
+      "confidence": 0.423
+    },
+    {
+      "start": 2850.28,
+      "end": 2850.3,
+      "text": "é",
+      "confidence": 0.63
+    },
+    {
+      "start": 2850.3,
+      "end": 2850.32,
+      "text": "isso?",
+      "confidence": 0.826
+    }
+  ]
+}

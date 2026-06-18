@@ -1,0 +1,232 @@
+{
+  "source_file": "VOR20260508063221_0805_part002_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.0,
+  "segments": {
+    "00:22:26,00:22:29": "Ele já não tem nada a ver com você.",
+    "00:22:30,00:22:32": "Ele está insensível.",
+    "00:22:32,00:22:34": "Ele não sei o que eu estou dizendo.",
+    "00:22:35,00:22:45": "O meu amor é inútil.",
+    "00:23:35,00:25:07": "O que você acha?",
+    "00:25:07,00:25:09": "Eu não sei o que você acha."
+  },
+  "words": [
+    {
+      "start": 1346.84,
+      "end": 1347.44,
+      "text": "Ele",
+      "probability": 0.037
+    },
+    {
+      "start": 1347.44,
+      "end": 1347.74,
+      "text": "já",
+      "probability": 0.524
+    },
+    {
+      "start": 1347.74,
+      "end": 1347.92,
+      "text": "não",
+      "probability": 0.06
+    },
+    {
+      "start": 1347.92,
+      "end": 1348.22,
+      "text": "tem",
+      "probability": 0.937
+    },
+    {
+      "start": 1348.22,
+      "end": 1348.34,
+      "text": "nada",
+      "probability": 0.269
+    },
+    {
+      "start": 1348.34,
+      "end": 1348.54,
+      "text": "a",
+      "probability": 0.554
+    },
+    {
+      "start": 1348.54,
+      "end": 1348.74,
+      "text": "ver",
+      "probability": 0.975
+    },
+    {
+      "start": 1348.74,
+      "end": 1348.92,
+      "text": "com",
+      "probability": 0.854
+    },
+    {
+      "start": 1348.92,
+      "end": 1349.32,
+      "text": "você.",
+      "probability": 0.613
+    },
+    {
+      "start": 1350.9,
+      "end": 1351.5,
+      "text": "Ele",
+      "probability": 0.309
+    },
+    {
+      "start": 1351.5,
+      "end": 1351.84,
+      "text": "está",
+      "probability": 0.492
+    },
+    {
+      "start": 1351.84,
+      "end": 1352.5,
+      "text": "insensível.",
+      "probability": 0.522
+    },
+    {
+      "start": 1352.84,
+      "end": 1353.22,
+      "text": "Ele",
+      "probability": 0.578
+    },
+    {
+      "start": 1353.22,
+      "end": 1353.36,
+      "text": "não",
+      "probability": 0.292
+    },
+    {
+      "start": 1353.36,
+      "end": 1353.64,
+      "text": "sei",
+      "probability": 0.418
+    },
+    {
+      "start": 1353.64,
+      "end": 1353.82,
+      "text": "o",
+      "probability": 0.557
+    },
+    {
+      "start": 1353.82,
+      "end": 1353.94,
+      "text": "que",
+      "probability": 0.968
+    },
+    {
+      "start": 1353.94,
+      "end": 1354.14,
+      "text": "eu",
+      "probability": 0.363
+    },
+    {
+      "start": 1354.14,
+      "end": 1354.38,
+      "text": "estou",
+      "probability": 0.537
+    },
+    {
+      "start": 1354.38,
+      "end": 1354.62,
+      "text": "dizendo.",
+      "probability": 0.482
+    },
+    {
+      "start": 1355.22,
+      "end": 1355.36,
+      "text": "O",
+      "probability": 0.353
+    },
+    {
+      "start": 1364.45,
+      "end": 1364.63,
+      "text": "meu",
+      "probability": 0.387
+    },
+    {
+      "start": 1364.63,
+      "end": 1364.97,
+      "text": "amor",
+      "probability": 0.249
+    },
+    {
+      "start": 1364.97,
+      "end": 1365.23,
+      "text": "é",
+      "probability": 0.945
+    },
+    {
+      "start": 1365.23,
+      "end": 1365.63,
+      "text": "inútil.",
+      "probability": 0.605
+    },
+    {
+      "start": 1415.41,
+      "end": 1415.77,
+      "text": "O",
+      "probability": 0.171
+    },
+    {
+      "start": 1425.92,
+      "end": 1438.58,
+      "text": "que",
+      "probability": 0.444
+    },
+    {
+      "start": 1498.0,
+      "end": 1502.16,
+      "text": "você",
+      "probability": 0.538
+    },
+    {
+      "start": 1506.99,
+      "end": 1507.43,
+      "text": "acha?",
+      "probability": 0.479
+    },
+    {
+      "start": 1507.77,
+      "end": 1508.07,
+      "text": "Eu",
+      "probability": 0.129
+    },
+    {
+      "start": 1508.07,
+      "end": 1508.39,
+      "text": "não",
+      "probability": 0.512
+    },
+    {
+      "start": 1508.39,
+      "end": 1508.63,
+      "text": "sei",
+      "probability": 0.949
+    },
+    {
+      "start": 1508.63,
+      "end": 1508.71,
+      "text": "o",
+      "probability": 0.638
+    },
+    {
+      "start": 1508.71,
+      "end": 1508.71,
+      "text": "que",
+      "probability": 0.998
+    },
+    {
+      "start": 1508.71,
+      "end": 1509.27,
+      "text": "você",
+      "probability": 0.382
+    },
+    {
+      "start": 1509.27,
+      "end": 1509.59,
+      "text": "acha.",
+      "probability": 0.978
+    }
+  ]
+}

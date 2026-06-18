@@ -13,12 +13,18 @@ scipy>=1.11.0
 matplotlib>=3.7.0
 imageio-ffmpeg>=0.4.0
 noisereduce>=3.0.0
-# AI audio enhancement (forensic_audio_ai.py):
+# AI audio enhancement (forensic_audio_ai.py, forensic_audio_processor_v2.py):
 demucs>=4.0
 clearvoice>=0.1
 # GPU: pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
 torch>=2.0
 torchaudio>=2.0
+# Realce/loudness e validacao (forensic_audio_processor_v2.py + forensic_audio_validate.py):
+pyloudnorm>=0.1
+torchmetrics>=1.0
+onnxruntime>=1.16
+# Opcional (realce de fala alternativo):
+# deepfilternet
 # Audio transcription (forensic_audio_transcriber.py):
 openai-whisper
 # Opcional para análise de IA via API:

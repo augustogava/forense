@@ -1,0 +1,74 @@
+{
+  "source_file": "VOR20260519212806_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1978.1,
+  "segments": {
+    "00:29:32,00:29:33": "Oi, amor.",
+    "00:32:54,00:32:55": "O que é isso?",
+    "00:32:55,00:32:56": "O que é isso?"
+  },
+  "hallucinations_filtered": 118,
+  "words": [
+    {
+      "start": 1772.69,
+      "end": 1772.71,
+      "text": "Oi,",
+      "confidence": 0.345
+    },
+    {
+      "start": 1772.93,
+      "end": 1773.25,
+      "text": "amor.",
+      "confidence": 0.495
+    },
+    {
+      "start": 1974.26,
+      "end": 1974.42,
+      "text": "O",
+      "confidence": 0.052
+    },
+    {
+      "start": 1974.42,
+      "end": 1974.58,
+      "text": "que",
+      "confidence": 0.505
+    },
+    {
+      "start": 1974.58,
+      "end": 1974.98,
+      "text": "é",
+      "confidence": 0.521
+    },
+    {
+      "start": 1974.98,
+      "end": 1975.14,
+      "text": "isso?",
+      "confidence": 0.806
+    },
+    {
+      "start": 1975.72,
+      "end": 1975.74,
+      "text": "O",
+      "confidence": 0.041
+    },
+    {
+      "start": 1975.74,
+      "end": 1975.98,
+      "text": "que",
+      "confidence": 0.457
+    },
+    {
+      "start": 1975.98,
+      "end": 1976.2,
+      "text": "é",
+      "confidence": 0.262
+    },
+    {
+      "start": 1976.2,
+      "end": 1976.4,
+      "text": "isso?",
+      "confidence": 0.745
+    }
+  ]
+}

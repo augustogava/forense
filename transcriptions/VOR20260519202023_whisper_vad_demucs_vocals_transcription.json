@@ -1,0 +1,101 @@
+{
+  "source_file": "VOR20260519202023_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:00": "Atenção!",
+    "00:10:58,00:10:59": "Atenção!",
+    "00:19:48,00:19:49": "Aplausos",
+    "00:19:56,00:19:56": "Não se esqueça de deixar seu like e compartilhar o vídeo.",
+    "00:40:34,00:40:36": "Obrigado.",
+    "00:41:02,00:41:04": "Atenção!",
+    "00:44:41,00:44:42": "Atenção!"
+  },
+  "words": [
+    {
+      "start": 0.16,
+      "end": 0.86,
+      "text": "Atenção!"
+    },
+    {
+      "start": 658.34,
+      "end": 659.28,
+      "text": "Atenção!"
+    },
+    {
+      "start": 1188.32,
+      "end": 1189.5,
+      "text": "Aplausos"
+    },
+    {
+      "start": 1196.13,
+      "end": 1196.21,
+      "text": "Não"
+    },
+    {
+      "start": 1196.21,
+      "end": 1196.31,
+      "text": "se"
+    },
+    {
+      "start": 1196.31,
+      "end": 1196.73,
+      "text": "esqueça"
+    },
+    {
+      "start": 1196.73,
+      "end": 1196.75,
+      "text": "de"
+    },
+    {
+      "start": 1196.75,
+      "end": 1196.75,
+      "text": "deixar"
+    },
+    {
+      "start": 1196.75,
+      "end": 1196.81,
+      "text": "seu"
+    },
+    {
+      "start": 1196.81,
+      "end": 1196.81,
+      "text": "like"
+    },
+    {
+      "start": 1196.81,
+      "end": 1196.81,
+      "text": "e"
+    },
+    {
+      "start": 1196.81,
+      "end": 1196.81,
+      "text": "compartilhar"
+    },
+    {
+      "start": 1196.81,
+      "end": 1196.81,
+      "text": "o"
+    },
+    {
+      "start": 1196.81,
+      "end": 1196.81,
+      "text": "vídeo."
+    },
+    {
+      "start": 2434.7,
+      "end": 2436.1,
+      "text": "Obrigado."
+    },
+    {
+      "start": 2462.31,
+      "end": 2464.23,
+      "text": "Atenção!"
+    },
+    {
+      "start": 2681.99,
+      "end": 2682.41,
+      "text": "Atenção!"
+    }
+  ]
+}

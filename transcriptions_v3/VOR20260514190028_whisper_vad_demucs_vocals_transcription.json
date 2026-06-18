@@ -1,0 +1,8 @@
+{
+  "source_file": "VOR20260514190028_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.1,
+  "segments": {},
+  "hallucinations_filtered": 1
+}

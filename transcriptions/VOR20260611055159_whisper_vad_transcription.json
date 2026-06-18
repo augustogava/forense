@@ -1,0 +1,150 @@
+{
+  "source_file": "VOR20260611055159_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:05:57,00:05:58": "O que é o sexo?",
+    "00:31:19,00:31:21": "O que se apresenta.",
+    "00:31:23,00:31:24": "Não é possível.",
+    "00:41:27,00:41:28": ".",
+    "00:41:32,00:41:33": "Oh, shit!",
+    "00:41:35,00:41:38": "Não se esqueça de deixar o seu like e compartilhar o vídeo."
+  },
+  "words": [
+    {
+      "start": 357.79,
+      "end": 357.97,
+      "text": "O"
+    },
+    {
+      "start": 357.97,
+      "end": 358.03,
+      "text": "que"
+    },
+    {
+      "start": 358.03,
+      "end": 358.15,
+      "text": "é"
+    },
+    {
+      "start": 358.15,
+      "end": 358.29,
+      "text": "o"
+    },
+    {
+      "start": 358.29,
+      "end": 358.57,
+      "text": "sexo?"
+    },
+    {
+      "start": 1879.68,
+      "end": 1879.68,
+      "text": "O"
+    },
+    {
+      "start": 1879.68,
+      "end": 1879.74,
+      "text": "que"
+    },
+    {
+      "start": 1879.74,
+      "end": 1879.98,
+      "text": "se"
+    },
+    {
+      "start": 1879.98,
+      "end": 1881.34,
+      "text": "apresenta."
+    },
+    {
+      "start": 1883.84,
+      "end": 1883.84,
+      "text": "Não"
+    },
+    {
+      "start": 1883.84,
+      "end": 1883.92,
+      "text": "é"
+    },
+    {
+      "start": 1883.92,
+      "end": 1884.02,
+      "text": "possível."
+    },
+    {
+      "start": 2487.71,
+      "end": 2488.03,
+      "text": "."
+    },
+    {
+      "start": 2492.64,
+      "end": 2492.86,
+      "text": "Oh,"
+    },
+    {
+      "start": 2492.86,
+      "end": 2493.04,
+      "text": "shit!"
+    },
+    {
+      "start": 2495.81,
+      "end": 2496.01,
+      "text": "Não"
+    },
+    {
+      "start": 2496.01,
+      "end": 2496.03,
+      "text": "se"
+    },
+    {
+      "start": 2496.03,
+      "end": 2496.49,
+      "text": "esqueça"
+    },
+    {
+      "start": 2496.49,
+      "end": 2497.09,
+      "text": "de"
+    },
+    {
+      "start": 2497.09,
+      "end": 2497.09,
+      "text": "deixar"
+    },
+    {
+      "start": 2497.09,
+      "end": 2497.09,
+      "text": "o"
+    },
+    {
+      "start": 2497.09,
+      "end": 2497.09,
+      "text": "seu"
+    },
+    {
+      "start": 2497.09,
+      "end": 2497.09,
+      "text": "like"
+    },
+    {
+      "start": 2497.09,
+      "end": 2497.09,
+      "text": "e"
+    },
+    {
+      "start": 2497.09,
+      "end": 2498.47,
+      "text": "compartilhar"
+    },
+    {
+      "start": 2498.47,
+      "end": 2498.47,
+      "text": "o"
+    },
+    {
+      "start": 2498.47,
+      "end": 2498.47,
+      "text": "vídeo."
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "source_file": "VOR20260513111815_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.0,
+  "segments": {
+    "00:26:49,00:27:36": "O que é isso?",
+    "00:27:38,00:27:42": "Muito mais do que a rádio, eu não sei de que coisa é essa.",
+    "00:30:03,00:30:05": "Tchau."
+  },
+  "words": [
+    {
+      "start": 1609.92,
+      "end": 1610.44,
+      "text": "O",
+      "probability": 0.04
+    },
+    {
+      "start": 1610.44,
+      "end": 1610.96,
+      "text": "que",
+      "probability": 0.686
+    },
+    {
+      "start": 1655.86,
+      "end": 1656.12,
+      "text": "é",
+      "probability": 0.56
+    },
+    {
+      "start": 1656.12,
+      "end": 1656.24,
+      "text": "isso?",
+      "probability": 0.628
+    },
+    {
+      "start": 1658.52,
+      "end": 1658.78,
+      "text": "Muito",
+      "probability": 0.027
+    },
+    {
+      "start": 1658.78,
+      "end": 1659.3,
+      "text": "mais",
+      "probability": 0.25
+    },
+    {
+      "start": 1659.3,
+      "end": 1659.56,
+      "text": "do",
+      "probability": 0.13
+    },
+    {
+      "start": 1659.56,
+      "end": 1659.78,
+      "text": "que",
+      "probability": 0.917
+    },
+    {
+      "start": 1659.78,
+      "end": 1660.04,
+      "text": "a",
+      "probability": 0.187
+    },
+    {
+      "start": 1660.04,
+      "end": 1660.78,
+      "text": "rádio,",
+      "probability": 0.763
+    },
+    {
+      "start": 1660.86,
+      "end": 1661.0,
+      "text": "eu",
+      "probability": 0.449
+    },
+    {
+      "start": 1661.0,
+      "end": 1661.08,
+      "text": "não",
+      "probability": 0.24
+    },
+    {
+      "start": 1661.08,
+      "end": 1661.42,
+      "text": "sei",
+      "probability": 0.427
+    },
+    {
+      "start": 1661.42,
+      "end": 1661.54,
+      "text": "de",
+      "probability": 0.286
+    },
+    {
+      "start": 1661.54,
+      "end": 1661.68,
+      "text": "que",
+      "probability": 0.454
+    },
+    {
+      "start": 1661.68,
+      "end": 1662.0,
+      "text": "coisa",
+      "probability": 0.25
+    },
+    {
+      "start": 1662.0,
+      "end": 1662.24,
+      "text": "é",
+      "probability": 0.628
+    },
+    {
+      "start": 1662.24,
+      "end": 1662.48,
+      "text": "essa.",
+      "probability": 0.568
+    },
+    {
+      "start": 1803.94,
+      "end": 1805.34,
+      "text": "Tchau.",
+      "probability": 0.522
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "source_file": "VOR20260513121817_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.1,
+  "segments": {
+    "00:28:52,00:29:24": "Tchau, tchau.",
+    "00:38:56,00:38:58": "E com a tia, eu tô ficando quieta, meu bem.",
+    "00:39:01,00:39:02": "Eu vou marcar o seu time.",
+    "00:40:38,00:40:39": "Oi?",
+    "00:40:41,00:40:48": "No modo da chuva não aparece os nomes, só aparece a entrada, a rola, não sei o que, entendeu?",
+    "00:40:53,00:40:58": "Mas e qual foi o número da zona que é o corredor?",
+    "00:41:58,00:42:00": "O que é o senha se tocar lá em cima?"
+  },
+  "hallucinations_filtered": 67,
+  "explicit_segments": {
+    "00:40:41,00:40:48": "No modo da chuva não aparece os nomes, só aparece a entrada, a rola, não sei o que, entendeu?"
+  },
+  "explicit_count": 1,
+  "words": [
+    {
+      "start": 1732.23,
+      "end": 1732.37,
+      "text": "Tchau,",
+      "confidence": 0.249
+    },
+    {
+      "start": 1764.31,
+      "end": 1764.33,
+      "text": "tchau.",
+      "confidence": 0.881
+    },
+    {
+      "start": 2336.18,
+      "end": 2336.28,
+      "text": "E",
+      "confidence": 0.052
+    },
+    {
+      "start": 2336.28,
+      "end": 2336.62,
+      "text": "com",
+      "confidence": 0.226
+    },
+    {
+      "start": 2336.62,
+      "end": 2336.78,
+      "text": "a",
+      "confidence": 0.513
+    },
+    {
+      "start": 2336.78,
+      "end": 2337.16,
+      "text": "tia,",
+      "confidence": 0.335
+    },
+    {
+      "start": 2337.26,
+      "end": 2337.36,
+      "text": "eu",
+      "confidence": 0.357
+    },
+    {
+      "start": 2337.36,
+      "end": 2337.46,
+      "text": "tô",
+      "confidence": 0.104
+    },
+    {
+      "start": 2337.46,
+      "end": 2337.74,
+      "text": "ficando",
+      "confidence": 0.594
+    },
+    {
+      "start": 2337.74,
+      "end": 2338.24,
+      "text": "quieta,",
+      "confidence": 0.433
+    },
+    {
+      "start": 2338.36,
+      "end": 2338.42,
+      "text": "meu",
+      "confidence": 0.292
+    },
+    {
+      "start": 2338.42,
+      "end": 2338.64,
+      "text": "bem.",
+      "confidence": 0.42
+    },
+    {
+      "start": 2341.36,
+      "end": 2341.38,
+      "text": "Eu",
+      "confidence": 0.076
+    },
+    {
+      "start": 2341.38,
+      "end": 2341.48,
+      "text": "vou",
+      "confidence": 0.579
+    },
+    {
+      "start": 2341.48,
+      "end": 2341.64,
+      "text": "marcar",
+      "confidence": 0.554
+    },
+    {
+      "start": 2341.64,
+      "end": 2341.78,
+      "text": "o",
+      "confidence": 0.687
+    },
+    {
+      "start": 2341.78,
+      "end": 2341.96,
+      "text": "seu",
+      "confidence": 0.785
+    },
+    {
+      "start": 2341.96,
+      "end": 2342.1,
+      "text": "time.",
+      "confidence": 0.12
+    },
+    {
+      "start": 2438.3,
+      "end": 2439.12,
+      "text": "Oi?",
+      "confidence": 0.312
+    },
+    {
+      "start": 2441.98,
+      "end": 2442.8,
+      "text": "No",
+      "confidence": 0.241
+    },
+    {
+      "start": 2442.8,
+      "end": 2443.6,
+      "text": "modo",
+      "confidence": 0.188
+    },
+    {
+      "start": 2443.6,
+      "end": 2443.74,
+      "text": "da",
+      "confidence": 0.073
+    },
+    {
+      "start": 2443.74,
+      "end": 2444.22,
+      "text": "chuva",
+      "confidence": 0.698
+    },
+    {
+      "start": 2444.22,
+      "end": 2444.34,
+      "text": "não",
+      "confidence": 0.78
+    },
+    {
+      "start": 2444.34,
+      "end": 2444.8,
+      "text": "aparece",
+      "confidence": 0.396
+    },
+    {
+      "start": 2444.8,
+      "end": 2445.38,
+      "text": "os",
+      "confidence": 0.733
+    },
+    {
+      "start": 2445.38,
+      "end": 2445.8,
+      "text": "nomes,",
+      "confidence": 0.682
+    },
+    {
+      "start": 2445.96,
+      "end": 2446.14,
+      "text": "só",
+      "confidence": 0.908
+    },
+    {
+      "start": 2446.14,
+      "end": 2446.52,
+      "text": "aparece",
+      "confidence": 0.922
+    },
+    {
+      "start": 2446.52,
+      "end": 2447.0,
+      "text": "a",
+      "confidence": 0.72
+    },
+    {
+      "start": 2447.0,
+      "end": 2447.5,
+      "text": "entrada,",
+      "confidence": 0.957
+    },
+    {
+      "start": 2447.62,
+      "end": 2447.82,
+      "text": "a",
+      "confidence": 0.766
+    },
+    {
+      "start": 2447.82,
+      "end": 2448.18,
+      "text": "rola,",
+      "confidence": 0.544
+    },
+    {
+      "start": 2448.18,
+      "end": 2448.36,
+      "text": "não",
+      "confidence": 0.54
+    },
+    {
+      "start": 2448.36,
+      "end": 2448.48,
+      "text": "sei",
+      "confidence": 0.989
+    },
+    {
+      "start": 2448.48,
+      "end": 2448.52,
+      "text": "o",
+      "confidence": 0.774
+    },
+    {
+      "start": 2448.52,
+      "end": 2448.64,
+      "text": "que,",
+      "confidence": 0.37
+    },
+    {
+      "start": 2448.76,
+      "end": 2448.92,
+      "text": "entendeu?",
+      "confidence": 0.716
+    },
+    {
+      "start": 2453.62,
+      "end": 2455.48,
+      "text": "Mas",
+      "confidence": 0.446
+    },
+    {
+      "start": 2455.48,
+      "end": 2455.74,
+      "text": "e",
+      "confidence": 0.077
+    },
+    {
+      "start": 2455.74,
+      "end": 2455.88,
+      "text": "qual",
+      "confidence": 0.997
+    },
+    {
+      "start": 2455.88,
+      "end": 2456.18,
+      "text": "foi",
+      "confidence": 0.955
+    },
+    {
+      "start": 2456.18,
+      "end": 2456.32,
+      "text": "o",
+      "confidence": 0.991
+    },
+    {
+      "start": 2456.32,
+      "end": 2456.74,
+      "text": "número",
+      "confidence": 0.954
+    },
+    {
+      "start": 2456.74,
+      "end": 2456.98,
+      "text": "da",
+      "confidence": 0.387
+    },
+    {
+      "start": 2456.98,
+      "end": 2457.34,
+      "text": "zona",
+      "confidence": 0.747
+    },
+    {
+      "start": 2457.34,
+      "end": 2457.52,
+      "text": "que",
+      "confidence": 0.468
+    },
+    {
+      "start": 2457.52,
+      "end": 2457.66,
+      "text": "é",
+      "confidence": 0.427
+    },
+    {
+      "start": 2457.66,
+      "end": 2457.8,
+      "text": "o",
+      "confidence": 0.941
+    },
+    {
+      "start": 2457.8,
+      "end": 2458.68,
+      "text": "corredor?",
+      "confidence": 0.784
+    },
+    {
+      "start": 2518.43,
+      "end": 2518.45,
+      "text": "O",
+      "confidence": 0.043
+    },
+    {
+      "start": 2518.45,
+      "end": 2518.51,
+      "text": "que",
+      "confidence": 0.884
+    },
+    {
+      "start": 2518.51,
+      "end": 2518.61,
+      "text": "é",
+      "confidence": 0.38
+    },
+    {
+      "start": 2518.61,
+      "end": 2518.69,
+      "text": "o",
+      "confidence": 0.241
+    },
+    {
+      "start": 2518.69,
+      "end": 2519.13,
+      "text": "senha",
+      "confidence": 0.527
+    },
+    {
+      "start": 2519.13,
+      "end": 2519.21,
+      "text": "se",
+      "confidence": 0.358
+    },
+    {
+      "start": 2519.21,
+      "end": 2519.47,
+      "text": "tocar",
+      "confidence": 0.182
+    },
+    {
+      "start": 2519.47,
+      "end": 2519.73,
+      "text": "lá",
+      "confidence": 0.4
+    },
+    {
+      "start": 2519.73,
+      "end": 2519.87,
+      "text": "em",
+      "confidence": 0.101
+    },
+    {
+      "start": 2519.87,
+      "end": 2520.07,
+      "text": "cima?",
+      "confidence": 0.697
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "source_file": "VOR20260524043553_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:53:15,00:53:15": "Não!",
+    "00:54:41,00:54:42": "Não há dúvida.",
+    "00:55:26,00:55:27": "Acompanhe o programa em nosso site.",
+    "00:56:20,00:56:21": "É o que dizemos."
+  },
+  "words": [
+    {
+      "start": 3195.2,
+      "end": 3195.66,
+      "text": "Não!"
+    },
+    {
+      "start": 3281.6,
+      "end": 3281.7,
+      "text": "Não"
+    },
+    {
+      "start": 3281.7,
+      "end": 3281.96,
+      "text": "há"
+    },
+    {
+      "start": 3281.96,
+      "end": 3282.76,
+      "text": "dúvida."
+    },
+    {
+      "start": 3326.79,
+      "end": 3327.01,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 3327.01,
+      "end": 3327.05,
+      "text": "o"
+    },
+    {
+      "start": 3327.05,
+      "end": 3327.39,
+      "text": "programa"
+    },
+    {
+      "start": 3327.39,
+      "end": 3327.57,
+      "text": "em"
+    },
+    {
+      "start": 3327.57,
+      "end": 3327.59,
+      "text": "nosso"
+    },
+    {
+      "start": 3327.59,
+      "end": 3327.79,
+      "text": "site."
+    },
+    {
+      "start": 3380.96,
+      "end": 3381.04,
+      "text": "É"
+    },
+    {
+      "start": 3381.04,
+      "end": 3381.04,
+      "text": "o"
+    },
+    {
+      "start": 3381.04,
+      "end": 3381.14,
+      "text": "que"
+    },
+    {
+      "start": 3381.14,
+      "end": 3381.5,
+      "text": "dizemos."
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "source_file": "VOR20260519181822_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:24,00:00:24": ".",
+    "00:02:45,00:02:48": "Não se esqueça de deixar seu like e se inscrever no canal.",
+    "00:03:09,00:03:10": "Seja preparado!",
+    "00:03:13,00:03:16": "A gente tem uma casa que fica na rua de Inscreva-se.",
+    "00:03:44,00:03:44": "Não!",
+    "00:12:28,00:12:28": "Atenção!",
+    "00:26:27,00:26:27": "."
+  },
+  "words": [
+    {
+      "start": 24.51,
+      "end": 24.61,
+      "text": "."
+    },
+    {
+      "start": 165.92,
+      "end": 165.92,
+      "text": "Não"
+    },
+    {
+      "start": 165.92,
+      "end": 166.1,
+      "text": "se"
+    },
+    {
+      "start": 166.1,
+      "end": 166.58,
+      "text": "esqueça"
+    },
+    {
+      "start": 166.58,
+      "end": 166.92,
+      "text": "de"
+    },
+    {
+      "start": 166.92,
+      "end": 166.92,
+      "text": "deixar"
+    },
+    {
+      "start": 166.92,
+      "end": 167.58,
+      "text": "seu"
+    },
+    {
+      "start": 167.58,
+      "end": 167.58,
+      "text": "like"
+    },
+    {
+      "start": 167.58,
+      "end": 167.66,
+      "text": "e"
+    },
+    {
+      "start": 167.66,
+      "end": 167.66,
+      "text": "se"
+    },
+    {
+      "start": 167.66,
+      "end": 167.66,
+      "text": "inscrever"
+    },
+    {
+      "start": 167.66,
+      "end": 167.66,
+      "text": "no"
+    },
+    {
+      "start": 167.66,
+      "end": 168.0,
+      "text": "canal."
+    },
+    {
+      "start": 189.67,
+      "end": 189.77,
+      "text": "Seja"
+    },
+    {
+      "start": 189.77,
+      "end": 190.11,
+      "text": "preparado!"
+    },
+    {
+      "start": 193.1,
+      "end": 193.1,
+      "text": "A"
+    },
+    {
+      "start": 193.1,
+      "end": 193.36,
+      "text": "gente"
+    },
+    {
+      "start": 193.36,
+      "end": 193.68,
+      "text": "tem"
+    },
+    {
+      "start": 193.68,
+      "end": 193.98,
+      "text": "uma"
+    },
+    {
+      "start": 193.98,
+      "end": 194.52,
+      "text": "casa"
+    },
+    {
+      "start": 194.52,
+      "end": 194.84,
+      "text": "que"
+    },
+    {
+      "start": 194.84,
+      "end": 195.02,
+      "text": "fica"
+    },
+    {
+      "start": 195.02,
+      "end": 195.3,
+      "text": "na"
+    },
+    {
+      "start": 195.3,
+      "end": 195.54,
+      "text": "rua"
+    },
+    {
+      "start": 195.54,
+      "end": 195.72,
+      "text": "de"
+    },
+    {
+      "start": 195.72,
+      "end": 196.18,
+      "text": "Inscreva"
+    },
+    {
+      "start": 196.18,
+      "end": 196.38,
+      "text": "-se."
+    },
+    {
+      "start": 224.71,
+      "end": 224.95,
+      "text": "Não!"
+    },
+    {
+      "start": 748.29,
+      "end": 748.89,
+      "text": "Atenção!"
+    },
+    {
+      "start": 1587.33,
+      "end": 1587.67,
+      "text": "."
+    }
+  ]
+}

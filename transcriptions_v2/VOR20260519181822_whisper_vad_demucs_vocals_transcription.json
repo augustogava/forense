@@ -1,0 +1,380 @@
+{
+  "source_file": "VOR20260519181822_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.1,
+  "segments": {
+    "00:01:36,00:01:45": "O que é isso?",
+    "00:01:51,00:01:56": "Não, não, não, não.",
+    "00:03:19,00:03:44": "O que eu vou fazer?",
+    "00:06:09,00:06:12": "O que é a sensação?",
+    "00:07:05,00:07:06": "Vamos lá.",
+    "00:07:49,00:07:49": "É a minha.",
+    "00:08:00,00:08:02": "Ai, que alegria.",
+    "00:08:07,00:08:08": "Você não vai me ver de novo?",
+    "00:08:09,00:08:10": "Ai, que alegria.",
+    "00:08:18,00:08:20": "Eu não quero que você me faça um foco de palmas.",
+    "00:08:22,00:08:23": "Não, por favor.",
+    "00:08:23,00:08:24": "Por favor.",
+    "00:08:25,00:08:26": "Por favor.",
+    "00:08:55,00:08:58": "Vamos lá.",
+    "00:15:07,00:15:31": "Tchau, tchau.",
+    "00:33:49,00:33:50": "Tchau."
+  },
+  "words": [
+    {
+      "start": 96.81,
+      "end": 98.21,
+      "text": "O",
+      "probability": 0.035
+    },
+    {
+      "start": 100.26,
+      "end": 101.66,
+      "text": "que",
+      "probability": 0.652
+    },
+    {
+      "start": 101.66,
+      "end": 104.8,
+      "text": "é",
+      "probability": 0.593
+    },
+    {
+      "start": 105.63,
+      "end": 105.85,
+      "text": "isso?",
+      "probability": 0.835
+    },
+    {
+      "start": 111.38,
+      "end": 112.22,
+      "text": "Não,",
+      "probability": 0.028
+    },
+    {
+      "start": 115.46,
+      "end": 115.66,
+      "text": "não,",
+      "probability": 0.586
+    },
+    {
+      "start": 115.8,
+      "end": 115.88,
+      "text": "não,",
+      "probability": 0.939
+    },
+    {
+      "start": 116.38,
+      "end": 116.8,
+      "text": "não.",
+      "probability": 0.967
+    },
+    {
+      "start": 199.34,
+      "end": 199.92,
+      "text": "O",
+      "probability": 0.062
+    },
+    {
+      "start": 222.64,
+      "end": 222.9,
+      "text": "que",
+      "probability": 0.454
+    },
+    {
+      "start": 222.9,
+      "end": 223.12,
+      "text": "eu",
+      "probability": 0.225
+    },
+    {
+      "start": 223.12,
+      "end": 223.42,
+      "text": "vou",
+      "probability": 0.259
+    },
+    {
+      "start": 223.42,
+      "end": 224.08,
+      "text": "fazer?",
+      "probability": 0.877
+    },
+    {
+      "start": 369.52,
+      "end": 370.64,
+      "text": "O",
+      "probability": 0.072
+    },
+    {
+      "start": 371.05,
+      "end": 371.05,
+      "text": "que",
+      "probability": 0.611
+    },
+    {
+      "start": 371.05,
+      "end": 372.11,
+      "text": "é",
+      "probability": 0.767
+    },
+    {
+      "start": 372.11,
+      "end": 372.33,
+      "text": "a",
+      "probability": 0.247
+    },
+    {
+      "start": 372.33,
+      "end": 372.81,
+      "text": "sensação?",
+      "probability": 0.684
+    },
+    {
+      "start": 425.92,
+      "end": 426.48,
+      "text": "Vamos",
+      "probability": 0.014
+    },
+    {
+      "start": 426.48,
+      "end": 426.76,
+      "text": "lá.",
+      "probability": 0.705
+    },
+    {
+      "start": 469.06,
+      "end": 469.14,
+      "text": "É",
+      "probability": 0.034
+    },
+    {
+      "start": 469.14,
+      "end": 469.4,
+      "text": "a",
+      "probability": 0.218
+    },
+    {
+      "start": 469.4,
+      "end": 469.8,
+      "text": "minha.",
+      "probability": 0.101
+    },
+    {
+      "start": 480.66,
+      "end": 481.3,
+      "text": "Ai,",
+      "probability": 0.056
+    },
+    {
+      "start": 481.42,
+      "end": 481.74,
+      "text": "que",
+      "probability": 0.393
+    },
+    {
+      "start": 481.74,
+      "end": 482.3,
+      "text": "alegria.",
+      "probability": 0.506
+    },
+    {
+      "start": 487.24,
+      "end": 487.88,
+      "text": "Você",
+      "probability": 0.037
+    },
+    {
+      "start": 487.88,
+      "end": 488.08,
+      "text": "não",
+      "probability": 0.278
+    },
+    {
+      "start": 488.08,
+      "end": 488.16,
+      "text": "vai",
+      "probability": 0.129
+    },
+    {
+      "start": 488.16,
+      "end": 488.24,
+      "text": "me",
+      "probability": 0.297
+    },
+    {
+      "start": 488.24,
+      "end": 488.32,
+      "text": "ver",
+      "probability": 0.188
+    },
+    {
+      "start": 488.32,
+      "end": 488.48,
+      "text": "de",
+      "probability": 0.084
+    },
+    {
+      "start": 488.48,
+      "end": 488.7,
+      "text": "novo?",
+      "probability": 0.552
+    },
+    {
+      "start": 489.45,
+      "end": 490.09,
+      "text": "Ai,",
+      "probability": 0.849
+    },
+    {
+      "start": 490.09,
+      "end": 490.31,
+      "text": "que",
+      "probability": 0.888
+    },
+    {
+      "start": 490.31,
+      "end": 490.45,
+      "text": "alegria.",
+      "probability": 0.939
+    },
+    {
+      "start": 498.58,
+      "end": 499.08,
+      "text": "Eu",
+      "probability": 0.397
+    },
+    {
+      "start": 499.08,
+      "end": 499.26,
+      "text": "não",
+      "probability": 0.372
+    },
+    {
+      "start": 499.26,
+      "end": 499.44,
+      "text": "quero",
+      "probability": 0.457
+    },
+    {
+      "start": 499.44,
+      "end": 499.68,
+      "text": "que",
+      "probability": 0.342
+    },
+    {
+      "start": 499.68,
+      "end": 499.86,
+      "text": "você",
+      "probability": 0.882
+    },
+    {
+      "start": 499.86,
+      "end": 499.98,
+      "text": "me",
+      "probability": 0.223
+    },
+    {
+      "start": 499.98,
+      "end": 499.98,
+      "text": "faça",
+      "probability": 0.583
+    },
+    {
+      "start": 499.98,
+      "end": 499.98,
+      "text": "um",
+      "probability": 0.642
+    },
+    {
+      "start": 499.98,
+      "end": 500.32,
+      "text": "foco",
+      "probability": 0.376
+    },
+    {
+      "start": 500.32,
+      "end": 500.64,
+      "text": "de",
+      "probability": 0.22
+    },
+    {
+      "start": 500.64,
+      "end": 500.64,
+      "text": "palmas.",
+      "probability": 0.393
+    },
+    {
+      "start": 502.19,
+      "end": 502.83,
+      "text": "Não,",
+      "probability": 0.319
+    },
+    {
+      "start": 502.93,
+      "end": 503.13,
+      "text": "por",
+      "probability": 0.145
+    },
+    {
+      "start": 503.13,
+      "end": 503.35,
+      "text": "favor.",
+      "probability": 0.727
+    },
+    {
+      "start": 503.71,
+      "end": 504.31,
+      "text": "Por",
+      "probability": 0.475
+    },
+    {
+      "start": 504.31,
+      "end": 504.55,
+      "text": "favor.",
+      "probability": 0.985
+    },
+    {
+      "start": 505.6,
+      "end": 506.24,
+      "text": "Por",
+      "probability": 0.825
+    },
+    {
+      "start": 506.24,
+      "end": 506.52,
+      "text": "favor.",
+      "probability": 1.0
+    },
+    {
+      "start": 535.13,
+      "end": 535.95,
+      "text": "Vamos",
+      "probability": 0.026
+    },
+    {
+      "start": 536.27,
+      "end": 538.25,
+      "text": "lá.",
+      "probability": 0.804
+    },
+    {
+      "start": 907.51,
+      "end": 908.91,
+      "text": "Tchau,",
+      "probability": 0.475
+    },
+    {
+      "start": 930.54,
+      "end": 931.94,
+      "text": "tchau.",
+      "probability": 0.924
+    },
+    {
+      "start": 2029.07,
+      "end": 2030.25,
+      "text": "Tchau.",
+      "probability": 0.542
+    }
+  ]
+}

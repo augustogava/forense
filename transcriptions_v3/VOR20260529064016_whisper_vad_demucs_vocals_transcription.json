@@ -1,0 +1,55 @@
+{
+  "source_file": "VOR20260529064016_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.0,
+  "segments": {
+    "00:39:22,00:39:50": "Com licença, tudo bem?",
+    "00:40:41,00:40:41": "É isso aí."
+  },
+  "hallucinations_filtered": 14,
+  "words": [
+    {
+      "start": 2362.17,
+      "end": 2362.19,
+      "text": "Com",
+      "confidence": 0.037
+    },
+    {
+      "start": 2390.83,
+      "end": 2390.85,
+      "text": "licença,",
+      "confidence": 0.891
+    },
+    {
+      "start": 2390.85,
+      "end": 2390.87,
+      "text": "tudo",
+      "confidence": 0.417
+    },
+    {
+      "start": 2390.87,
+      "end": 2390.89,
+      "text": "bem?",
+      "confidence": 0.424
+    },
+    {
+      "start": 2441.08,
+      "end": 2441.1,
+      "text": "É",
+      "confidence": 0.078
+    },
+    {
+      "start": 2441.1,
+      "end": 2441.12,
+      "text": "isso",
+      "confidence": 0.576
+    },
+    {
+      "start": 2441.12,
+      "end": 2441.14,
+      "text": "aí.",
+      "confidence": 0.603
+    }
+  ]
+}

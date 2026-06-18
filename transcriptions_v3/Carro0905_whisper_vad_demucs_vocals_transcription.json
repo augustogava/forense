@@ -1,0 +1,244 @@
+{
+  "source_file": "Carro0905_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1548.1,
+  "segments": {
+    "00:12:54,00:12:57": "E a sua única chance vai ser",
+    "00:13:23,00:13:25": "Se ele escapar da mão, cai no chão",
+    "00:13:25,00:13:29": "Antes de sumir da sua vida, só mais uma coisa vai ter no coração",
+    "00:14:59,00:15:02": "Nath, agora não tem mais uma coisa.",
+    "00:15:29,00:15:30": "Tchau, tchau."
+  },
+  "hallucinations_filtered": 24,
+  "words": [
+    {
+      "start": 774.43,
+      "end": 774.95,
+      "text": "E",
+      "confidence": 0.094
+    },
+    {
+      "start": 774.95,
+      "end": 775.25,
+      "text": "a",
+      "confidence": 0.888
+    },
+    {
+      "start": 775.25,
+      "end": 775.53,
+      "text": "sua",
+      "confidence": 0.915
+    },
+    {
+      "start": 775.53,
+      "end": 775.89,
+      "text": "única",
+      "confidence": 0.992
+    },
+    {
+      "start": 775.89,
+      "end": 776.53,
+      "text": "chance",
+      "confidence": 0.838
+    },
+    {
+      "start": 776.53,
+      "end": 777.01,
+      "text": "vai",
+      "confidence": 0.99
+    },
+    {
+      "start": 777.01,
+      "end": 777.53,
+      "text": "ser",
+      "confidence": 0.949
+    },
+    {
+      "start": 803.72,
+      "end": 803.92,
+      "text": "Se",
+      "confidence": 0.352
+    },
+    {
+      "start": 803.92,
+      "end": 804.14,
+      "text": "ele",
+      "confidence": 0.018
+    },
+    {
+      "start": 804.14,
+      "end": 804.52,
+      "text": "escapar",
+      "confidence": 0.946
+    },
+    {
+      "start": 804.52,
+      "end": 804.74,
+      "text": "da",
+      "confidence": 0.494
+    },
+    {
+      "start": 804.74,
+      "end": 805.02,
+      "text": "mão,",
+      "confidence": 0.659
+    },
+    {
+      "start": 805.08,
+      "end": 805.28,
+      "text": "cai",
+      "confidence": 0.197
+    },
+    {
+      "start": 805.28,
+      "end": 805.42,
+      "text": "no",
+      "confidence": 0.599
+    },
+    {
+      "start": 805.42,
+      "end": 805.82,
+      "text": "chão",
+      "confidence": 0.999
+    },
+    {
+      "start": 805.82,
+      "end": 807.38,
+      "text": "Antes",
+      "confidence": 0.003
+    },
+    {
+      "start": 807.38,
+      "end": 807.76,
+      "text": "de",
+      "confidence": 0.936
+    },
+    {
+      "start": 807.76,
+      "end": 808.1,
+      "text": "sumir",
+      "confidence": 0.336
+    },
+    {
+      "start": 808.1,
+      "end": 808.18,
+      "text": "da",
+      "confidence": 0.458
+    },
+    {
+      "start": 808.18,
+      "end": 808.3,
+      "text": "sua",
+      "confidence": 0.994
+    },
+    {
+      "start": 808.3,
+      "end": 808.48,
+      "text": "vida,",
+      "confidence": 0.744
+    },
+    {
+      "start": 808.54,
+      "end": 808.68,
+      "text": "só",
+      "confidence": 0.939
+    },
+    {
+      "start": 808.68,
+      "end": 808.82,
+      "text": "mais",
+      "confidence": 0.997
+    },
+    {
+      "start": 808.82,
+      "end": 809.0,
+      "text": "uma",
+      "confidence": 0.995
+    },
+    {
+      "start": 809.0,
+      "end": 809.22,
+      "text": "coisa",
+      "confidence": 0.995
+    },
+    {
+      "start": 809.22,
+      "end": 809.34,
+      "text": "vai",
+      "confidence": 0.013
+    },
+    {
+      "start": 809.34,
+      "end": 809.48,
+      "text": "ter",
+      "confidence": 0.3
+    },
+    {
+      "start": 809.48,
+      "end": 809.64,
+      "text": "no",
+      "confidence": 0.629
+    },
+    {
+      "start": 809.64,
+      "end": 809.88,
+      "text": "coração",
+      "confidence": 0.947
+    },
+    {
+      "start": 899.83,
+      "end": 900.33,
+      "text": "Nath,",
+      "confidence": 0.237
+    },
+    {
+      "start": 900.37,
+      "end": 900.61,
+      "text": "agora",
+      "confidence": 0.977
+    },
+    {
+      "start": 900.61,
+      "end": 900.83,
+      "text": "não",
+      "confidence": 0.362
+    },
+    {
+      "start": 900.83,
+      "end": 901.11,
+      "text": "tem",
+      "confidence": 0.127
+    },
+    {
+      "start": 901.11,
+      "end": 901.49,
+      "text": "mais",
+      "confidence": 0.948
+    },
+    {
+      "start": 901.49,
+      "end": 901.79,
+      "text": "uma",
+      "confidence": 0.255
+    },
+    {
+      "start": 901.79,
+      "end": 902.17,
+      "text": "coisa.",
+      "confidence": 0.715
+    },
+    {
+      "start": 929.36,
+      "end": 929.68,
+      "text": "Tchau,",
+      "confidence": 0.265
+    },
+    {
+      "start": 929.84,
+      "end": 930.3,
+      "text": "tchau.",
+      "confidence": 0.865
+    }
+  ]
+}

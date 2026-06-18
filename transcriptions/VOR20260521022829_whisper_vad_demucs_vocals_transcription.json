@@ -1,0 +1,9 @@
+{
+  "source_file": "VOR20260521022829_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:01,00:00:01": ".",
+    "00:55:03,00:55:03": "Alvozinho."
+  }
+}

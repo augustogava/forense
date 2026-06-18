@@ -322,26 +322,75 @@ def stage_clearvoice(input_wav: Path, work_dir: Path) -> Optional[Path]:
     print("    [clearvoice] Carregando modelo MossFormer2_SE_48K...")
     cv = ClearVoice(task="speech_enhancement", model_names=["MossFormer2_SE_48K"])
 
+    out_sr = 48000
     print("    [clearvoice] Realçando fala...")
-    enhanced_audio = cv(str(input_wav))
+
+    try:
+        info = sf.info(str(input_wav))
+    except Exception as exc:
+        logger.error(f"clearvoice: falha ao ler info do áudio: {exc}")
+        return None
+
+    in_sr = info.samplerate
+    total_frames = info.frames
+
+    chunk_seconds = 120
+    overlap_seconds = 2
+    chunk_frames = chunk_seconds * in_sr
+    overlap_frames = overlap_seconds * in_sr
+    n_chunks = max(1, (total_frames + chunk_frames - 1) // chunk_frames)
+    print(f"    [clearvoice] Áudio longo ({total_frames / in_sr:.0f}s), dividindo em {n_chunks} chunks de {chunk_seconds}s")
+
+    tmp_chunk = work_dir / "_cv_chunk_in.wav"
+    enhanced_parts: list = []
+
+    try:
+        for i in range(n_chunks):
+            start = max(0, i * chunk_frames - overlap_frames) if i > 0 else 0
+            end = min(total_frames, (i + 1) * chunk_frames + overlap_frames)
+
+            chunk_data, _ = sf.read(str(input_wav), start=start, stop=end, dtype="float32")
+            sf.write(str(tmp_chunk), chunk_data, in_sr, subtype="PCM_16")
+            del chunk_data
+
+            print(f"    [clearvoice] Chunk {i + 1}/{n_chunks} ({start / in_sr:.0f}s-{end / in_sr:.0f}s)...")
+            enhanced_audio = cv(str(tmp_chunk))
+            if enhanced_audio is None:
+                logger.error(f"clearvoice: sem resultado no chunk {i + 1}/{n_chunks}")
+                return None
+
+            enhanced_np = enhanced_audio if isinstance(enhanced_audio, np.ndarray) else enhanced_audio.cpu().numpy()
+            if enhanced_np.ndim == 1:
+                enhanced_np = enhanced_np[np.newaxis, :]
+            enhanced_np = enhanced_np.astype(np.float32)
+            seg = enhanced_np if enhanced_np.shape[0] <= 2 else enhanced_np.T
+            del enhanced_audio, enhanced_np
+
+            trim_start = int(overlap_seconds * out_sr) if i > 0 else 0
+            trim_end = seg.shape[-1] - (int(overlap_seconds * out_sr) if end < total_frames else 0)
+            enhanced_parts.append(seg[:, trim_start:trim_end].copy())
+            del seg
+    finally:
+        if tmp_chunk.exists():
+            tmp_chunk.unlink()
+
+    if not enhanced_parts:
+        logger.error("clearvoice: nenhum chunk processado")
+        return None
+
+    full = np.concatenate(enhanced_parts, axis=-1)
+    del enhanced_parts
+
+    audio_out = full.T
+    del full
+    peak = np.max(np.abs(audio_out))
+    if peak > 1.0:
+        audio_out = audio_out / peak
 
     output_path = work_dir / "_stage2_enhanced.wav"
-    if enhanced_audio is not None:
-        enhanced_np = enhanced_audio if isinstance(enhanced_audio, np.ndarray) else enhanced_audio.cpu().numpy()
-        if enhanced_np.ndim == 1:
-            enhanced_np = enhanced_np[np.newaxis, :]
-        enhanced_np = enhanced_np.astype(np.float32)
-        audio_out = enhanced_np.T if enhanced_np.shape[0] <= 2 else enhanced_np
-        peak = np.max(np.abs(audio_out))
-        if peak > 1.0:
-            audio_out = audio_out / peak
-        sr = 48000
-        sf.write(str(output_path), audio_out, sr, subtype="FLOAT")
-        print("    [clearvoice] Fala realçada")
-        return output_path
-
-    print("    [clearvoice] Sem resultado")
-    return None
+    sf.write(str(output_path), audio_out, out_sr, subtype="FLOAT")
+    print("    [clearvoice] Fala realçada")
+    return output_path
 
 
 def stage_enhance(input_wav: Path, work_dir: Path, deps: Dict[str, bool]) -> Optional[Path]:
@@ -362,6 +411,19 @@ def stage_enhance(input_wav: Path, work_dir: Path, deps: Dict[str, bool]) -> Opt
 # ---------------------------------------------------------------------------
 # Stage 3 – Normalization (minimal traditional DSP)
 # ---------------------------------------------------------------------------
+
+def _apply_frame_gain(audio: np.ndarray, frame_gain: np.ndarray, hop: int, n_frames: int) -> np.ndarray:
+    xp = np.arange(n_frames) * hop + hop // 2
+    fp = frame_gain
+    block = 1 << 22
+    for start in range(0, len(audio), block):
+        end = min(start + block, len(audio))
+        idx = np.arange(start, end)
+        gain = np.interp(idx, xp, fp).astype(np.float32)
+        audio[start:end] = (audio[start:end] * gain).astype(audio.dtype, copy=False)
+        del idx, gain
+    return audio
+
 
 def gentle_compress(audio: np.ndarray, sr: int) -> np.ndarray:
     threshold_db = -20
@@ -388,12 +450,7 @@ def gentle_compress(audio: np.ndarray, sr: int) -> np.ndarray:
 
     frame_gain = uniform_filter1d(frame_gain.astype(np.float64), size=7)
 
-    sample_gain = np.interp(
-        np.arange(len(audio)),
-        np.arange(n_frames) * hop + hop // 2,
-        frame_gain,
-    )
-    return audio * sample_gain
+    return _apply_frame_gain(audio, frame_gain, hop, n_frames)
 
 
 def loudness_normalize(audio: np.ndarray, target_db: float = -6.0) -> np.ndarray:
@@ -433,12 +490,7 @@ def agc_boost(audio: np.ndarray, sr: int, max_gain: float = 6.0) -> np.ndarray:
     frame_gain[active] = np.clip(target / (rms[active] + 1e-10), 1.0, max_gain)
     frame_gain = uniform_filter1d(frame_gain.astype(np.float64), size=7)
 
-    sample_gain = np.interp(
-        np.arange(len(audio)),
-        np.arange(n_frames) * hop + hop // 2,
-        frame_gain,
-    )
-    return audio * sample_gain
+    return _apply_frame_gain(audio, frame_gain, hop, n_frames)
 
 
 def _load_for_normalize(wav_path: Path) -> tuple:
@@ -530,10 +582,6 @@ def process_audio(input_path: Path, output_dir: Path, deps: Dict[str, bool]) -> 
     print("  ── Etapa 3: Normalização e compressão ──")
     t3 = time.time()
 
-    final_path = stage_normalize(current_wav, output_dir, base_name)
-    results["files"].append(final_path.name)
-    print(f"    -> {final_path.name}")
-
     boosted_path = stage_normalize_boosted(current_wav, output_dir, base_name)
     results["files"].append(boosted_path.name)
     print(f"    -> {boosted_path.name}")
@@ -610,7 +658,7 @@ def main() -> int:
         skipped = 0
         for idx, af in enumerate(audio_files, 1):
             base_name = af.stem
-            expected_out = output_dir / f"{base_name}_ai_enhanced.mp3"
+            expected_out = output_dir / f"{base_name}_ai_enhanced_boosted.mp3"
             if expected_out.exists() and expected_out.stat().st_size > 0:
                 print(f"  [{idx}/{len(audio_files)}] {af.name} — já processado, pulando")
                 skipped += 1

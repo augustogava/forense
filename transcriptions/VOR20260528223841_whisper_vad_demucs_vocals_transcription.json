@@ -1,0 +1,77 @@
+{
+  "source_file": "VOR20260528223841_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:17:48,00:17:48": "Obrigado.",
+    "00:19:56,00:19:57": "Atenção!",
+    "00:32:44,00:32:45": "Atenção!",
+    "00:36:00,00:36:00": ".",
+    "00:38:02,00:38:02": ".",
+    "00:46:31,00:46:33": "Agradecimentos a todos os participantes.",
+    "00:47:47,00:47:47": ".",
+    "00:58:03,00:58:03": "."
+  },
+  "words": [
+    {
+      "start": 1068.48,
+      "end": 1068.92,
+      "text": "Obrigado."
+    },
+    {
+      "start": 1196.71,
+      "end": 1197.23,
+      "text": "Atenção!"
+    },
+    {
+      "start": 1964.58,
+      "end": 1965.78,
+      "text": "Atenção!"
+    },
+    {
+      "start": 2160.64,
+      "end": 2160.88,
+      "text": "."
+    },
+    {
+      "start": 2282.02,
+      "end": 2282.22,
+      "text": "."
+    },
+    {
+      "start": 2791.17,
+      "end": 2792.01,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 2792.01,
+      "end": 2792.21,
+      "text": "a"
+    },
+    {
+      "start": 2792.21,
+      "end": 2792.93,
+      "text": "todos"
+    },
+    {
+      "start": 2792.93,
+      "end": 2793.07,
+      "text": "os"
+    },
+    {
+      "start": 2793.07,
+      "end": 2793.69,
+      "text": "participantes."
+    },
+    {
+      "start": 2867.43,
+      "end": 2867.75,
+      "text": "."
+    },
+    {
+      "start": 3483.2,
+      "end": 3483.36,
+      "text": "."
+    }
+  ]
+}

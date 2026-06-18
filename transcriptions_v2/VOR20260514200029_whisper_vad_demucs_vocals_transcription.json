@@ -1,0 +1,303 @@
+{
+  "source_file": "VOR20260514200029_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.0,
+  "segments": {
+    "00:14:20,00:14:22": "Que amor secreto!",
+    "00:14:23,00:14:24": "Tchichinho!",
+    "00:14:24,00:14:26": "Que que é isso?",
+    "00:14:26,00:14:27": "Isso é nada!",
+    "00:14:27,00:14:28": "Pra você?",
+    "00:14:29,00:14:30": "Que que é isso?",
+    "00:14:31,00:14:33": "Que que é isso?",
+    "00:19:38,00:19:38": "O que é isso?",
+    "00:19:38,00:19:43": "O que é isso?",
+    "00:23:08,00:23:09": "É isso aí.",
+    "00:38:16,00:38:27": "O que é isso?",
+    "00:38:29,00:38:34": "O que é isso?",
+    "00:41:48,00:41:50": "Matias, peraí!",
+    "00:41:50,00:41:51": "Ah!",
+    "00:41:53,00:41:54": "Não!",
+    "00:41:56,00:41:56": "Não!",
+    "00:48:04,00:48:05": "Obrigada."
+  },
+  "words": [
+    {
+      "start": 860.82,
+      "end": 861.38,
+      "text": "Que",
+      "probability": 0.066
+    },
+    {
+      "start": 861.38,
+      "end": 861.84,
+      "text": "amor",
+      "probability": 0.174
+    },
+    {
+      "start": 861.84,
+      "end": 862.84,
+      "text": "secreto!",
+      "probability": 0.624
+    },
+    {
+      "start": 863.68,
+      "end": 864.24,
+      "text": "Tchichinho!",
+      "probability": 0.445
+    },
+    {
+      "start": 864.46,
+      "end": 864.98,
+      "text": "Que",
+      "probability": 0.171
+    },
+    {
+      "start": 864.98,
+      "end": 865.52,
+      "text": "que",
+      "probability": 0.243
+    },
+    {
+      "start": 865.52,
+      "end": 865.88,
+      "text": "é",
+      "probability": 0.751
+    },
+    {
+      "start": 865.88,
+      "end": 866.26,
+      "text": "isso?",
+      "probability": 0.655
+    },
+    {
+      "start": 866.54,
+      "end": 866.94,
+      "text": "Isso",
+      "probability": 0.448
+    },
+    {
+      "start": 866.94,
+      "end": 867.1,
+      "text": "é",
+      "probability": 0.625
+    },
+    {
+      "start": 867.1,
+      "end": 867.44,
+      "text": "nada!",
+      "probability": 0.402
+    },
+    {
+      "start": 867.96,
+      "end": 868.52,
+      "text": "Pra",
+      "probability": 0.417
+    },
+    {
+      "start": 868.52,
+      "end": 868.86,
+      "text": "você?",
+      "probability": 0.939
+    },
+    {
+      "start": 869.5,
+      "end": 869.98,
+      "text": "Que",
+      "probability": 0.234
+    },
+    {
+      "start": 869.98,
+      "end": 870.28,
+      "text": "que",
+      "probability": 0.594
+    },
+    {
+      "start": 870.28,
+      "end": 870.32,
+      "text": "é",
+      "probability": 0.417
+    },
+    {
+      "start": 870.32,
+      "end": 870.54,
+      "text": "isso?",
+      "probability": 0.931
+    },
+    {
+      "start": 871.54,
+      "end": 872.1,
+      "text": "Que",
+      "probability": 0.084
+    },
+    {
+      "start": 872.1,
+      "end": 872.28,
+      "text": "que",
+      "probability": 0.521
+    },
+    {
+      "start": 872.28,
+      "end": 872.86,
+      "text": "é",
+      "probability": 0.928
+    },
+    {
+      "start": 873.02,
+      "end": 873.24,
+      "text": "isso?",
+      "probability": 0.901
+    },
+    {
+      "start": 1178.04,
+      "end": 1178.36,
+      "text": "O",
+      "probability": 0.048
+    },
+    {
+      "start": 1178.36,
+      "end": 1178.78,
+      "text": "que",
+      "probability": 0.608
+    },
+    {
+      "start": 1178.78,
+      "end": 1178.8,
+      "text": "é",
+      "probability": 0.508
+    },
+    {
+      "start": 1178.8,
+      "end": 1178.8,
+      "text": "isso?",
+      "probability": 0.8
+    },
+    {
+      "start": 1178.9,
+      "end": 1179.28,
+      "text": "O",
+      "probability": 0.291
+    },
+    {
+      "start": 1179.28,
+      "end": 1179.68,
+      "text": "que",
+      "probability": 0.961
+    },
+    {
+      "start": 1179.68,
+      "end": 1181.26,
+      "text": "é",
+      "probability": 0.935
+    },
+    {
+      "start": 1183.56,
+      "end": 1183.72,
+      "text": "isso?",
+      "probability": 0.982
+    },
+    {
+      "start": 1388.67,
+      "end": 1388.89,
+      "text": "É",
+      "probability": 0.014
+    },
+    {
+      "start": 1388.89,
+      "end": 1389.27,
+      "text": "isso",
+      "probability": 0.285
+    },
+    {
+      "start": 1389.27,
+      "end": 1389.43,
+      "text": "aí.",
+      "probability": 0.868
+    },
+    {
+      "start": 2296.62,
+      "end": 2298.02,
+      "text": "O",
+      "probability": 0.04
+    },
+    {
+      "start": 2300.45,
+      "end": 2301.85,
+      "text": "que",
+      "probability": 0.711
+    },
+    {
+      "start": 2304.98,
+      "end": 2307.08,
+      "text": "é",
+      "probability": 0.557
+    },
+    {
+      "start": 2307.08,
+      "end": 2307.32,
+      "text": "isso?",
+      "probability": 0.854
+    },
+    {
+      "start": 2309.89,
+      "end": 2310.41,
+      "text": "O",
+      "probability": 0.066
+    },
+    {
+      "start": 2310.41,
+      "end": 2310.89,
+      "text": "que",
+      "probability": 0.716
+    },
+    {
+      "start": 2313.07,
+      "end": 2314.03,
+      "text": "é",
+      "probability": 0.27
+    },
+    {
+      "start": 2314.03,
+      "end": 2314.25,
+      "text": "isso?",
+      "probability": 0.774
+    },
+    {
+      "start": 2508.58,
+      "end": 2509.62,
+      "text": "Matias,",
+      "probability": 0.429
+    },
+    {
+      "start": 2509.64,
+      "end": 2510.28,
+      "text": "peraí!",
+      "probability": 0.747
+    },
+    {
+      "start": 2510.6,
+      "end": 2511.16,
+      "text": "Ah!",
+      "probability": 0.012
+    },
+    {
+      "start": 2513.81,
+      "end": 2514.85,
+      "text": "Não!",
+      "probability": 0.233
+    },
+    {
+      "start": 2516.1,
+      "end": 2516.62,
+      "text": "Não!",
+      "probability": 0.457
+    },
+    {
+      "start": 2884.22,
+      "end": 2885.62,
+      "text": "Obrigada.",
+      "probability": 0.309
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "source_file": "VOR20260611090813_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:56:52,00:57:07": "Atenção, o que você está vendo aqui é um vídeo de um dos maiores atletas brasileiros."
+  },
+  "words": [
+    {
+      "start": 3412.45,
+      "end": 3412.97,
+      "text": "Atenção,"
+    },
+    {
+      "start": 3413.15,
+      "end": 3413.47,
+      "text": "o"
+    },
+    {
+      "start": 3413.47,
+      "end": 3413.47,
+      "text": "que"
+    },
+    {
+      "start": 3413.47,
+      "end": 3413.73,
+      "text": "você"
+    },
+    {
+      "start": 3413.73,
+      "end": 3413.73,
+      "text": "está"
+    },
+    {
+      "start": 3413.73,
+      "end": 3414.03,
+      "text": "vendo"
+    },
+    {
+      "start": 3414.03,
+      "end": 3414.43,
+      "text": "aqui"
+    },
+    {
+      "start": 3414.43,
+      "end": 3414.43,
+      "text": "é"
+    },
+    {
+      "start": 3414.43,
+      "end": 3418.37,
+      "text": "um"
+    },
+    {
+      "start": 3418.37,
+      "end": 3421.79,
+      "text": "vídeo"
+    },
+    {
+      "start": 3421.79,
+      "end": 3421.97,
+      "text": "de"
+    },
+    {
+      "start": 3421.97,
+      "end": 3422.63,
+      "text": "um"
+    },
+    {
+      "start": 3422.63,
+      "end": 3422.75,
+      "text": "dos"
+    },
+    {
+      "start": 3422.75,
+      "end": 3425.31,
+      "text": "maiores"
+    },
+    {
+      "start": 3425.31,
+      "end": 3426.23,
+      "text": "atletas"
+    },
+    {
+      "start": 3426.23,
+      "end": 3427.39,
+      "text": "brasileiros."
+    }
+  ]
+}

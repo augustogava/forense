@@ -1,0 +1,78 @@
+{
+  "source_file": "VOR20260528133709_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:11:59,00:12:00": "Não há dúvida que o que é feito é possível.",
+    "00:14:18,00:14:18": ".",
+    "00:42:19,00:42:19": ".",
+    "00:59:36,00:59:36": "Atenção!"
+  },
+  "words": [
+    {
+      "start": 719.71,
+      "end": 719.87,
+      "text": "Não"
+    },
+    {
+      "start": 719.87,
+      "end": 720.11,
+      "text": "há"
+    },
+    {
+      "start": 720.11,
+      "end": 720.17,
+      "text": "dúvida"
+    },
+    {
+      "start": 720.17,
+      "end": 720.25,
+      "text": "que"
+    },
+    {
+      "start": 720.25,
+      "end": 720.49,
+      "text": "o"
+    },
+    {
+      "start": 720.49,
+      "end": 720.53,
+      "text": "que"
+    },
+    {
+      "start": 720.53,
+      "end": 720.63,
+      "text": "é"
+    },
+    {
+      "start": 720.63,
+      "end": 720.79,
+      "text": "feito"
+    },
+    {
+      "start": 720.79,
+      "end": 720.95,
+      "text": "é"
+    },
+    {
+      "start": 720.95,
+      "end": 720.95,
+      "text": "possível."
+    },
+    {
+      "start": 858.43,
+      "end": 858.87,
+      "text": "."
+    },
+    {
+      "start": 2539.14,
+      "end": 2539.32,
+      "text": "."
+    },
+    {
+      "start": 3576.45,
+      "end": 3576.89,
+      "text": "Atenção!"
+    }
+  ]
+}

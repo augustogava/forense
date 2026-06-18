@@ -1,0 +1,261 @@
+{
+  "source_file": "VOR20260529054003_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:13:08,00:13:08": ".",
+    "00:14:31,00:14:31": "E aí",
+    "00:16:53,00:16:54": ".",
+    "00:23:30,00:23:33": "Não há dúvida que o que é absurdo é tipo de violência.",
+    "00:25:21,00:25:22": "Jogando na faléia amputada.",
+    "00:27:58,00:27:59": "Nunca opina, cara.",
+    "00:32:00,00:32:00": ".",
+    "00:37:01,00:37:02": "Não há nada a dizer.",
+    "00:42:11,00:42:12": "Abre as janelas!",
+    "00:43:57,00:43:57": "Atenção!",
+    "00:48:45,00:48:46": "Não se preocupe com a comunicação.",
+    "00:50:52,00:50:53": "Acompanhe o programa em todos os lugares.",
+    "00:55:42,00:55:43": "."
+  },
+  "explicit_segments": {
+    "00:23:30,00:23:33": "Não há dúvida que o que é absurdo é tipo de violência."
+  },
+  "explicit_count": 1,
+  "words": [
+    {
+      "start": 788.16,
+      "end": 788.48,
+      "text": "."
+    },
+    {
+      "start": 871.75,
+      "end": 871.87,
+      "text": "E"
+    },
+    {
+      "start": 871.87,
+      "end": 871.87,
+      "text": "aí"
+    },
+    {
+      "start": 1013.95,
+      "end": 1014.11,
+      "text": "."
+    },
+    {
+      "start": 1410.91,
+      "end": 1411.03,
+      "text": "Não"
+    },
+    {
+      "start": 1411.03,
+      "end": 1411.11,
+      "text": "há"
+    },
+    {
+      "start": 1411.11,
+      "end": 1411.25,
+      "text": "dúvida"
+    },
+    {
+      "start": 1411.25,
+      "end": 1411.49,
+      "text": "que"
+    },
+    {
+      "start": 1411.49,
+      "end": 1411.49,
+      "text": "o"
+    },
+    {
+      "start": 1411.49,
+      "end": 1411.49,
+      "text": "que"
+    },
+    {
+      "start": 1411.49,
+      "end": 1411.53,
+      "text": "é"
+    },
+    {
+      "start": 1411.53,
+      "end": 1412.17,
+      "text": "absurdo"
+    },
+    {
+      "start": 1412.17,
+      "end": 1412.37,
+      "text": "é"
+    },
+    {
+      "start": 1412.37,
+      "end": 1412.63,
+      "text": "tipo"
+    },
+    {
+      "start": 1412.63,
+      "end": 1412.73,
+      "text": "de"
+    },
+    {
+      "start": 1412.73,
+      "end": 1413.19,
+      "text": "violência."
+    },
+    {
+      "start": 1521.12,
+      "end": 1521.46,
+      "text": "Jogando"
+    },
+    {
+      "start": 1521.46,
+      "end": 1521.66,
+      "text": "na"
+    },
+    {
+      "start": 1521.66,
+      "end": 1522.14,
+      "text": "faléia"
+    },
+    {
+      "start": 1522.14,
+      "end": 1522.8,
+      "text": "amputada."
+    },
+    {
+      "start": 1678.05,
+      "end": 1678.43,
+      "text": "Nunca"
+    },
+    {
+      "start": 1678.43,
+      "end": 1678.99,
+      "text": "opina,"
+    },
+    {
+      "start": 1679.05,
+      "end": 1679.25,
+      "text": "cara."
+    },
+    {
+      "start": 1920.51,
+      "end": 1920.73,
+      "text": "."
+    },
+    {
+      "start": 2221.99,
+      "end": 2222.11,
+      "text": "Não"
+    },
+    {
+      "start": 2222.11,
+      "end": 2222.15,
+      "text": "há"
+    },
+    {
+      "start": 2222.15,
+      "end": 2222.41,
+      "text": "nada"
+    },
+    {
+      "start": 2222.41,
+      "end": 2222.53,
+      "text": "a"
+    },
+    {
+      "start": 2222.53,
+      "end": 2222.83,
+      "text": "dizer."
+    },
+    {
+      "start": 2531.23,
+      "end": 2531.41,
+      "text": "Abre"
+    },
+    {
+      "start": 2531.41,
+      "end": 2531.41,
+      "text": "as"
+    },
+    {
+      "start": 2531.41,
+      "end": 2532.27,
+      "text": "janelas!"
+    },
+    {
+      "start": 2637.19,
+      "end": 2637.59,
+      "text": "Atenção!"
+    },
+    {
+      "start": 2925.31,
+      "end": 2925.39,
+      "text": "Não"
+    },
+    {
+      "start": 2925.39,
+      "end": 2925.43,
+      "text": "se"
+    },
+    {
+      "start": 2925.43,
+      "end": 2925.69,
+      "text": "preocupe"
+    },
+    {
+      "start": 2925.69,
+      "end": 2925.79,
+      "text": "com"
+    },
+    {
+      "start": 2925.79,
+      "end": 2925.83,
+      "text": "a"
+    },
+    {
+      "start": 2925.83,
+      "end": 2926.31,
+      "text": "comunicação."
+    },
+    {
+      "start": 3052.8,
+      "end": 3053.24,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 3053.24,
+      "end": 3053.24,
+      "text": "o"
+    },
+    {
+      "start": 3053.24,
+      "end": 3053.24,
+      "text": "programa"
+    },
+    {
+      "start": 3053.24,
+      "end": 3053.5,
+      "text": "em"
+    },
+    {
+      "start": 3053.5,
+      "end": 3053.78,
+      "text": "todos"
+    },
+    {
+      "start": 3053.78,
+      "end": 3053.78,
+      "text": "os"
+    },
+    {
+      "start": 3053.78,
+      "end": 3053.78,
+      "text": "lugares."
+    },
+    {
+      "start": 3342.59,
+      "end": 3343.67,
+      "text": "."
+    }
+  ]
+}

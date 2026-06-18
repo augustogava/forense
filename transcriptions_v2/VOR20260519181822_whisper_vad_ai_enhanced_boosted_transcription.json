@@ -1,0 +1,74 @@
+{
+  "source_file": "VOR20260519181822_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.1,
+  "segments": {
+    "00:01:51,00:01:51": "Amém.",
+    "00:14:42,00:14:44": "O que é isso?",
+    "00:14:45,00:14:45": "O que é isso?",
+    "00:33:48,00:33:49": "Obrigado."
+  },
+  "words": [
+    {
+      "start": 111.05,
+      "end": 111.97,
+      "text": "Amém.",
+      "probability": 0.503
+    },
+    {
+      "start": 882.07,
+      "end": 882.71,
+      "text": "O",
+      "probability": 0.27
+    },
+    {
+      "start": 884.34,
+      "end": 884.42,
+      "text": "que",
+      "probability": 0.915
+    },
+    {
+      "start": 884.42,
+      "end": 884.74,
+      "text": "é",
+      "probability": 0.922
+    },
+    {
+      "start": 884.74,
+      "end": 884.74,
+      "text": "isso?",
+      "probability": 0.965
+    },
+    {
+      "start": 885.02,
+      "end": 885.56,
+      "text": "O",
+      "probability": 0.758
+    },
+    {
+      "start": 885.56,
+      "end": 885.56,
+      "text": "que",
+      "probability": 0.982
+    },
+    {
+      "start": 885.56,
+      "end": 885.56,
+      "text": "é",
+      "probability": 0.996
+    },
+    {
+      "start": 885.56,
+      "end": 885.56,
+      "text": "isso?",
+      "probability": 0.996
+    },
+    {
+      "start": 2028.4,
+      "end": 2029.8,
+      "text": "Obrigado.",
+      "probability": 0.505
+    }
+  ]
+}

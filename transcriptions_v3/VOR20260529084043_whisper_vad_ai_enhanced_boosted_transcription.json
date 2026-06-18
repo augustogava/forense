@@ -1,0 +1,113 @@
+{
+  "source_file": "VOR20260529084043_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.0,
+  "segments": {
+    "00:03:43,00:03:44": "Obrigada.",
+    "00:07:37,00:07:40": "O que é que é?",
+    "00:13:05,00:13:05": "Boa noite.",
+    "00:16:37,00:16:37": "O que é isso?",
+    "00:19:15,00:19:15": "Boa noite.",
+    "00:57:20,00:57:42": "o número"
+  },
+  "hallucinations_filtered": 125,
+  "words": [
+    {
+      "start": 223.85,
+      "end": 224.47,
+      "text": "Obrigada.",
+      "confidence": 0.328
+    },
+    {
+      "start": 457.98,
+      "end": 460.64,
+      "text": "O",
+      "confidence": 0.05
+    },
+    {
+      "start": 460.64,
+      "end": 460.66,
+      "text": "que",
+      "confidence": 0.494
+    },
+    {
+      "start": 460.66,
+      "end": 460.68,
+      "text": "é",
+      "confidence": 0.709
+    },
+    {
+      "start": 460.68,
+      "end": 460.7,
+      "text": "que",
+      "confidence": 0.245
+    },
+    {
+      "start": 460.7,
+      "end": 460.72,
+      "text": "é?",
+      "confidence": 0.553
+    },
+    {
+      "start": 785.36,
+      "end": 785.38,
+      "text": "Boa",
+      "confidence": 0.123
+    },
+    {
+      "start": 785.38,
+      "end": 785.4,
+      "text": "noite.",
+      "confidence": 0.841
+    },
+    {
+      "start": 997.04,
+      "end": 997.06,
+      "text": "O",
+      "confidence": 0.05
+    },
+    {
+      "start": 997.06,
+      "end": 997.08,
+      "text": "que",
+      "confidence": 0.51
+    },
+    {
+      "start": 997.08,
+      "end": 997.1,
+      "text": "é",
+      "confidence": 0.468
+    },
+    {
+      "start": 997.1,
+      "end": 997.12,
+      "text": "isso?",
+      "confidence": 0.891
+    },
+    {
+      "start": 1155.39,
+      "end": 1155.41,
+      "text": "Boa",
+      "confidence": 0.249
+    },
+    {
+      "start": 1155.41,
+      "end": 1155.43,
+      "text": "noite.",
+      "confidence": 0.912
+    },
+    {
+      "start": 3440.57,
+      "end": 3441.04,
+      "text": "o",
+      "confidence": 0.133
+    },
+    {
+      "start": 3461.69,
+      "end": 3462.19,
+      "text": "número",
+      "confidence": 0.856
+    }
+  ]
+}

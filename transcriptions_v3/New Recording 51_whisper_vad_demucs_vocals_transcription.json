@@ -1,0 +1,88 @@
+{
+  "source_file": "New Recording 51_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 2453.0,
+  "segments": {
+    "00:09:31,00:09:45": "O que é isso?",
+    "00:10:12,00:10:15": "Vamos lá.",
+    "00:15:32,00:15:38": "O que é isso?",
+    "00:21:22,00:21:22": "Obrigado.",
+    "00:21:22,00:21:24": "Obrigado."
+  },
+  "hallucinations_filtered": 34,
+  "words": [
+    {
+      "start": 571.69,
+      "end": 573.55,
+      "text": "O",
+      "confidence": 0.039
+    },
+    {
+      "start": 585.7,
+      "end": 585.72,
+      "text": "que",
+      "confidence": 0.552
+    },
+    {
+      "start": 585.72,
+      "end": 585.74,
+      "text": "é",
+      "confidence": 0.562
+    },
+    {
+      "start": 585.74,
+      "end": 585.76,
+      "text": "isso?",
+      "confidence": 0.863
+    },
+    {
+      "start": 612.9,
+      "end": 612.92,
+      "text": "Vamos",
+      "confidence": 0.036
+    },
+    {
+      "start": 612.92,
+      "end": 615.8,
+      "text": "lá.",
+      "confidence": 0.877
+    },
+    {
+      "start": 932.73,
+      "end": 934.19,
+      "text": "O",
+      "confidence": 0.045
+    },
+    {
+      "start": 938.46,
+      "end": 938.62,
+      "text": "que",
+      "confidence": 0.601
+    },
+    {
+      "start": 938.62,
+      "end": 938.72,
+      "text": "é",
+      "confidence": 0.587
+    },
+    {
+      "start": 938.72,
+      "end": 938.74,
+      "text": "isso?",
+      "confidence": 0.843
+    },
+    {
+      "start": 1282.25,
+      "end": 1282.95,
+      "text": "Obrigado.",
+      "confidence": 0.422
+    },
+    {
+      "start": 1282.95,
+      "end": 1284.13,
+      "text": "Obrigado.",
+      "confidence": 0.367
+    }
+  ]
+}

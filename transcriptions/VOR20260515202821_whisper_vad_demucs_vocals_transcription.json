@@ -1,0 +1,31 @@
+{
+  "source_file": "VOR20260515202821_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:01,00:00:01": ".",
+    "00:00:04,00:00:04": "Abre as portas!"
+  },
+  "words": [
+    {
+      "start": 1.35,
+      "end": 1.67,
+      "text": "."
+    },
+    {
+      "start": 4.07,
+      "end": 4.33,
+      "text": "Abre"
+    },
+    {
+      "start": 4.33,
+      "end": 4.53,
+      "text": "as"
+    },
+    {
+      "start": 4.53,
+      "end": 4.93,
+      "text": "portas!"
+    }
+  ]
+}

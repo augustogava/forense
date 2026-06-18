@@ -1,0 +1,2140 @@
+{
+  "source_file": "VOR20260528213829_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:01,00:00:04": "A luta que a gente vai fazer é a luta que a gente vai fazer.",
+    "00:00:04,00:00:07": "Porque a luta que a gente vai fazer é a luta que a gente vai fazer.",
+    "00:03:36,00:03:36": "Obrigado.",
+    "00:03:44,00:03:45": "Não me engana!",
+    "00:04:10,00:04:10": "Repara a questão.",
+    "00:04:16,00:04:16": "Não é possível.",
+    "00:04:34,00:04:34": "Não tem problema.",
+    "00:04:48,00:04:49": "Não é possível.",
+    "00:04:53,00:04:53": "Não há desfiles.",
+    "00:05:04,00:05:05": "Muito bem.",
+    "00:05:07,00:05:08": "Em cura.",
+    "00:05:11,00:05:12": "Agradecimentos a todos os convidados.",
+    "00:05:18,00:05:21": "Atenção, o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que eu estou dizendo é que o que",
+    "00:05:23,00:05:25": "Agradeço a presença de todos.",
+    "00:05:33,00:05:34": "A minha tia, ela...",
+    "00:05:36,00:05:37": "Ela escreveu um livro na sua página.",
+    "00:05:57,00:06:03": "Apenas o que é possível de uma pessoa que não conhece o sexo.",
+    "00:06:06,00:06:08": "Agradecimentos a todos os participantes.",
+    "00:06:29,00:06:33": "Atenção, o que eu estou dizendo é que a gente precisa de um ator de violência.",
+    "00:06:36,00:06:38": "O governo de Estado, de um detalhe,",
+    "00:06:47,00:06:50": "Se você quiser ouvir, você tem que encontrar a resposta.",
+    "00:06:59,00:07:04": "Agradecimentos a todos os que assistiram até o final.",
+    "00:07:14,00:07:16": "Não há problema, é tudo bem.",
+    "00:07:20,00:07:21": "Atenção, a definição...",
+    "00:07:33,00:07:34": "Atenção!",
+    "00:07:37,00:07:38": "Não há nenhum estupro naquilo que eu saiba que não existe.",
+    "00:07:56,00:07:57": "E sempre no interesse.",
+    "00:08:06,00:08:07": "Atenção!",
+    "00:08:27,00:08:29": "O que é o sexo?",
+    "00:08:36,00:08:37": "Obrigado.",
+    "00:08:46,00:08:47": "Agradecimentos a todos os participantes.",
+    "00:08:53,00:08:54": "Em nome de Jesus.",
+    "00:10:03,00:10:05": "Acompanhe a transmissão em português.",
+    "00:10:09,00:10:12": "Não há mais níveis de repassamento.",
+    "00:10:24,00:10:25": "Não é possível.",
+    "00:21:59,00:21:59": ".",
+    "00:23:56,00:23:56": "Não há dúvida.",
+    "00:37:18,00:37:20": "Obrigado.",
+    "00:42:12,00:42:12": ".",
+    "00:54:31,00:54:31": "."
+  },
+  "explicit_segments": {
+    "00:05:57,00:06:03": "Apenas o que é possível de uma pessoa que não conhece o sexo.",
+    "00:06:29,00:06:33": "Atenção, o que eu estou dizendo é que a gente precisa de um ator de violência.",
+    "00:07:37,00:07:38": "Não há nenhum estupro naquilo que eu saiba que não existe."
+  },
+  "explicit_count": 3,
+  "words": [
+    {
+      "start": 1.71,
+      "end": 1.85,
+      "text": "A"
+    },
+    {
+      "start": 1.85,
+      "end": 2.17,
+      "text": "luta"
+    },
+    {
+      "start": 2.17,
+      "end": 2.49,
+      "text": "que"
+    },
+    {
+      "start": 2.49,
+      "end": 2.67,
+      "text": "a"
+    },
+    {
+      "start": 2.67,
+      "end": 2.85,
+      "text": "gente"
+    },
+    {
+      "start": 2.85,
+      "end": 3.11,
+      "text": "vai"
+    },
+    {
+      "start": 3.11,
+      "end": 3.43,
+      "text": "fazer"
+    },
+    {
+      "start": 3.43,
+      "end": 3.73,
+      "text": "é"
+    },
+    {
+      "start": 3.73,
+      "end": 3.73,
+      "text": "a"
+    },
+    {
+      "start": 3.73,
+      "end": 3.73,
+      "text": "luta"
+    },
+    {
+      "start": 3.73,
+      "end": 3.91,
+      "text": "que"
+    },
+    {
+      "start": 3.91,
+      "end": 4.07,
+      "text": "a"
+    },
+    {
+      "start": 4.07,
+      "end": 4.07,
+      "text": "gente"
+    },
+    {
+      "start": 4.07,
+      "end": 4.33,
+      "text": "vai"
+    },
+    {
+      "start": 4.33,
+      "end": 4.35,
+      "text": "fazer."
+    },
+    {
+      "start": 4.49,
+      "end": 4.93,
+      "text": "Porque"
+    },
+    {
+      "start": 4.93,
+      "end": 5.15,
+      "text": "a"
+    },
+    {
+      "start": 5.15,
+      "end": 5.61,
+      "text": "luta"
+    },
+    {
+      "start": 5.61,
+      "end": 5.83,
+      "text": "que"
+    },
+    {
+      "start": 5.83,
+      "end": 5.85,
+      "text": "a"
+    },
+    {
+      "start": 5.85,
+      "end": 6.05,
+      "text": "gente"
+    },
+    {
+      "start": 6.05,
+      "end": 6.27,
+      "text": "vai"
+    },
+    {
+      "start": 6.27,
+      "end": 6.43,
+      "text": "fazer"
+    },
+    {
+      "start": 6.43,
+      "end": 6.71,
+      "text": "é"
+    },
+    {
+      "start": 6.71,
+      "end": 6.95,
+      "text": "a"
+    },
+    {
+      "start": 6.95,
+      "end": 7.37,
+      "text": "luta"
+    },
+    {
+      "start": 7.37,
+      "end": 7.79,
+      "text": "que"
+    },
+    {
+      "start": 7.79,
+      "end": 7.85,
+      "text": "a"
+    },
+    {
+      "start": 7.85,
+      "end": 7.97,
+      "text": "gente"
+    },
+    {
+      "start": 7.97,
+      "end": 7.97,
+      "text": "vai"
+    },
+    {
+      "start": 7.97,
+      "end": 7.97,
+      "text": "fazer."
+    },
+    {
+      "start": 216.07,
+      "end": 216.51,
+      "text": "Obrigado."
+    },
+    {
+      "start": 224.74,
+      "end": 224.84,
+      "text": "Não"
+    },
+    {
+      "start": 224.84,
+      "end": 224.9,
+      "text": "me"
+    },
+    {
+      "start": 224.9,
+      "end": 225.48,
+      "text": "engana!"
+    },
+    {
+      "start": 250.18,
+      "end": 250.6,
+      "text": "Repara"
+    },
+    {
+      "start": 250.6,
+      "end": 250.6,
+      "text": "a"
+    },
+    {
+      "start": 250.6,
+      "end": 250.86,
+      "text": "questão."
+    },
+    {
+      "start": 256.26,
+      "end": 256.36,
+      "text": "Não"
+    },
+    {
+      "start": 256.36,
+      "end": 256.56,
+      "text": "é"
+    },
+    {
+      "start": 256.56,
+      "end": 256.62,
+      "text": "possível."
+    },
+    {
+      "start": 274.21,
+      "end": 274.39,
+      "text": "Não"
+    },
+    {
+      "start": 274.39,
+      "end": 274.39,
+      "text": "tem"
+    },
+    {
+      "start": 274.39,
+      "end": 274.69,
+      "text": "problema."
+    },
+    {
+      "start": 288.96,
+      "end": 289.1,
+      "text": "Não"
+    },
+    {
+      "start": 289.1,
+      "end": 289.16,
+      "text": "é"
+    },
+    {
+      "start": 289.16,
+      "end": 289.36,
+      "text": "possível."
+    },
+    {
+      "start": 293.12,
+      "end": 293.28,
+      "text": "Não"
+    },
+    {
+      "start": 293.28,
+      "end": 293.36,
+      "text": "há"
+    },
+    {
+      "start": 293.36,
+      "end": 293.84,
+      "text": "desfiles."
+    },
+    {
+      "start": 304.51,
+      "end": 304.75,
+      "text": "Muito"
+    },
+    {
+      "start": 304.75,
+      "end": 305.05,
+      "text": "bem."
+    },
+    {
+      "start": 307.55,
+      "end": 307.85,
+      "text": "Em"
+    },
+    {
+      "start": 307.85,
+      "end": 308.09,
+      "text": "cura."
+    },
+    {
+      "start": 311.55,
+      "end": 311.75,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 311.75,
+      "end": 311.81,
+      "text": "a"
+    },
+    {
+      "start": 311.81,
+      "end": 311.81,
+      "text": "todos"
+    },
+    {
+      "start": 311.81,
+      "end": 311.81,
+      "text": "os"
+    },
+    {
+      "start": 311.81,
+      "end": 312.15,
+      "text": "convidados."
+    },
+    {
+      "start": 318.75,
+      "end": 319.01,
+      "text": "Atenção,"
+    },
+    {
+      "start": 319.01,
+      "end": 319.11,
+      "text": "o"
+    },
+    {
+      "start": 319.11,
+      "end": 319.33,
+      "text": "que"
+    },
+    {
+      "start": 319.33,
+      "end": 319.61,
+      "text": "eu"
+    },
+    {
+      "start": 319.61,
+      "end": 319.73,
+      "text": "estou"
+    },
+    {
+      "start": 319.73,
+      "end": 319.87,
+      "text": "dizendo"
+    },
+    {
+      "start": 319.87,
+      "end": 319.87,
+      "text": "é"
+    },
+    {
+      "start": 319.87,
+      "end": 319.87,
+      "text": "que"
+    },
+    {
+      "start": 319.87,
+      "end": 320.23,
+      "text": "o"
+    },
+    {
+      "start": 320.23,
+      "end": 320.39,
+      "text": "que"
+    },
+    {
+      "start": 320.39,
+      "end": 320.45,
+      "text": "eu"
+    },
+    {
+      "start": 320.45,
+      "end": 320.61,
+      "text": "estou"
+    },
+    {
+      "start": 320.61,
+      "end": 320.85,
+      "text": "dizendo"
+    },
+    {
+      "start": 320.85,
+      "end": 321.09,
+      "text": "é"
+    },
+    {
+      "start": 321.09,
+      "end": 321.15,
+      "text": "que"
+    },
+    {
+      "start": 321.15,
+      "end": 321.39,
+      "text": "o"
+    },
+    {
+      "start": 321.39,
+      "end": 321.41,
+      "text": "que"
+    },
+    {
+      "start": 321.41,
+      "end": 321.41,
+      "text": "eu"
+    },
+    {
+      "start": 321.41,
+      "end": 321.41,
+      "text": "estou"
+    },
+    {
+      "start": 321.41,
+      "end": 321.41,
+      "text": "dizendo"
+    },
+    {
+      "start": 321.41,
+      "end": 321.41,
+      "text": "é"
+    },
+    {
+      "start": 321.41,
+      "end": 321.41,
+      "text": "que"
+    },
+    {
+      "start": 321.41,
+      "end": 321.57,
+      "text": "o"
+    },
+    {
+      "start": 321.57,
+      "end": 321.57,
+      "text": "que"
+    },
+    {
+      "start": 321.57,
+      "end": 321.57,
+      "text": "eu"
+    },
+    {
+      "start": 321.57,
+      "end": 321.57,
+      "text": "estou"
+    },
+    {
+      "start": 321.57,
+      "end": 321.57,
+      "text": "dizendo"
+    },
+    {
+      "start": 321.57,
+      "end": 321.57,
+      "text": "é"
+    },
+    {
+      "start": 321.57,
+      "end": 321.57,
+      "text": "que"
+    },
+    {
+      "start": 321.57,
+      "end": 321.63,
+      "text": "o"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "que"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "eu"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "estou"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "dizendo"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "é"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "que"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "o"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "que"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "eu"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "estou"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "dizendo"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "é"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "que"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "o"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "que"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "eu"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "estou"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "dizendo"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "é"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "que"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "o"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "que"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "eu"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "estou"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "dizendo"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "é"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "que"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "o"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "que"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "eu"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "estou"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "dizendo"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "é"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "que"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "o"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "que"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "eu"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "estou"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "dizendo"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "é"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "que"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "o"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "que"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "eu"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "estou"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "dizendo"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "é"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "que"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "o"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "que"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "eu"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "estou"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "dizendo"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "é"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "que"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "o"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "que"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "eu"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "estou"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "dizendo"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "é"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "que"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "o"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "que"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "eu"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "estou"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "dizendo"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "é"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "que"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "o"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "que"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "eu"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "estou"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "dizendo"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "é"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "que"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "o"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "que"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "eu"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "estou"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "dizendo"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "é"
+    },
+    {
+      "start": 321.63,
+      "end": 321.63,
+      "text": "que"
+    },
+    {
+      "start": 321.63,
+      "end": 321.79,
+      "text": "o"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "que"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "eu"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "estou"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "dizendo"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "é"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "que"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "o"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "que"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "eu"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "estou"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "dizendo"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "é"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "que"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "o"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "que"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "eu"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "estou"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "dizendo"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "é"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "que"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "o"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "que"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "eu"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "estou"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "dizendo"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "é"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "que"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "o"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "que"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "eu"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "estou"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "dizendo"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "é"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "que"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "o"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "que"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "eu"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "estou"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "dizendo"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "é"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "que"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "o"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "que"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "eu"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "estou"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "dizendo"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "é"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "que"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "o"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "que"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "eu"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "estou"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "dizendo"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "é"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "que"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "o"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "que"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "eu"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "estou"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "dizendo"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "é"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "que"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "o"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "que"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "eu"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "estou"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "dizendo"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "é"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "que"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "o"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "que"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "eu"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "estou"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "dizendo"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "é"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "que"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "o"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "que"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "eu"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "estou"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "dizendo"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "é"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "que"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "o"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "que"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "eu"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "estou"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "dizendo"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "é"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "que"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "o"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "que"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "eu"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "estou"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "dizendo"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "é"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "que"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "o"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "que"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "eu"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "estou"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "dizendo"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "é"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "que"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "o"
+    },
+    {
+      "start": 321.79,
+      "end": 321.79,
+      "text": "que"
+    },
+    {
+      "start": 323.52,
+      "end": 324.0,
+      "text": "Agradeço"
+    },
+    {
+      "start": 324.0,
+      "end": 324.28,
+      "text": "a"
+    },
+    {
+      "start": 324.28,
+      "end": 324.7,
+      "text": "presença"
+    },
+    {
+      "start": 324.7,
+      "end": 325.24,
+      "text": "de"
+    },
+    {
+      "start": 325.24,
+      "end": 325.92,
+      "text": "todos."
+    },
+    {
+      "start": 333.57,
+      "end": 333.57,
+      "text": "A"
+    },
+    {
+      "start": 333.57,
+      "end": 333.77,
+      "text": "minha"
+    },
+    {
+      "start": 333.77,
+      "end": 334.13,
+      "text": "tia,"
+    },
+    {
+      "start": 334.37,
+      "end": 334.67,
+      "text": "ela..."
+    },
+    {
+      "start": 336.01,
+      "end": 336.49,
+      "text": "Ela"
+    },
+    {
+      "start": 336.49,
+      "end": 336.97,
+      "text": "escreveu"
+    },
+    {
+      "start": 336.97,
+      "end": 337.09,
+      "text": "um"
+    },
+    {
+      "start": 337.09,
+      "end": 337.21,
+      "text": "livro"
+    },
+    {
+      "start": 337.21,
+      "end": 337.41,
+      "text": "na"
+    },
+    {
+      "start": 337.41,
+      "end": 337.71,
+      "text": "sua"
+    },
+    {
+      "start": 337.71,
+      "end": 337.93,
+      "text": "página."
+    },
+    {
+      "start": 357.86,
+      "end": 358.28,
+      "text": "Apenas"
+    },
+    {
+      "start": 358.28,
+      "end": 358.3,
+      "text": "o"
+    },
+    {
+      "start": 358.3,
+      "end": 358.52,
+      "text": "que"
+    },
+    {
+      "start": 358.52,
+      "end": 358.6,
+      "text": "é"
+    },
+    {
+      "start": 358.6,
+      "end": 361.0,
+      "text": "possível"
+    },
+    {
+      "start": 361.0,
+      "end": 361.74,
+      "text": "de"
+    },
+    {
+      "start": 361.74,
+      "end": 362.08,
+      "text": "uma"
+    },
+    {
+      "start": 362.08,
+      "end": 362.08,
+      "text": "pessoa"
+    },
+    {
+      "start": 362.08,
+      "end": 362.08,
+      "text": "que"
+    },
+    {
+      "start": 362.08,
+      "end": 362.08,
+      "text": "não"
+    },
+    {
+      "start": 362.08,
+      "end": 362.08,
+      "text": "conhece"
+    },
+    {
+      "start": 362.08,
+      "end": 362.26,
+      "text": "o"
+    },
+    {
+      "start": 362.26,
+      "end": 363.32,
+      "text": "sexo."
+    },
+    {
+      "start": 366.69,
+      "end": 367.29,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 367.29,
+      "end": 367.75,
+      "text": "a"
+    },
+    {
+      "start": 367.75,
+      "end": 368.05,
+      "text": "todos"
+    },
+    {
+      "start": 368.05,
+      "end": 368.05,
+      "text": "os"
+    },
+    {
+      "start": 368.05,
+      "end": 368.37,
+      "text": "participantes."
+    },
+    {
+      "start": 389.89,
+      "end": 390.29,
+      "text": "Atenção,"
+    },
+    {
+      "start": 390.37,
+      "end": 390.47,
+      "text": "o"
+    },
+    {
+      "start": 390.47,
+      "end": 390.61,
+      "text": "que"
+    },
+    {
+      "start": 390.61,
+      "end": 390.63,
+      "text": "eu"
+    },
+    {
+      "start": 390.63,
+      "end": 390.75,
+      "text": "estou"
+    },
+    {
+      "start": 390.75,
+      "end": 390.75,
+      "text": "dizendo"
+    },
+    {
+      "start": 390.75,
+      "end": 390.75,
+      "text": "é"
+    },
+    {
+      "start": 390.75,
+      "end": 391.17,
+      "text": "que"
+    },
+    {
+      "start": 391.17,
+      "end": 391.43,
+      "text": "a"
+    },
+    {
+      "start": 391.43,
+      "end": 391.75,
+      "text": "gente"
+    },
+    {
+      "start": 391.75,
+      "end": 391.95,
+      "text": "precisa"
+    },
+    {
+      "start": 391.95,
+      "end": 392.19,
+      "text": "de"
+    },
+    {
+      "start": 392.19,
+      "end": 392.19,
+      "text": "um"
+    },
+    {
+      "start": 392.19,
+      "end": 392.49,
+      "text": "ator"
+    },
+    {
+      "start": 392.49,
+      "end": 392.51,
+      "text": "de"
+    },
+    {
+      "start": 392.51,
+      "end": 393.01,
+      "text": "violência."
+    },
+    {
+      "start": 396.29,
+      "end": 396.37,
+      "text": "O"
+    },
+    {
+      "start": 396.37,
+      "end": 396.61,
+      "text": "governo"
+    },
+    {
+      "start": 396.61,
+      "end": 396.81,
+      "text": "de"
+    },
+    {
+      "start": 396.81,
+      "end": 397.23,
+      "text": "Estado,"
+    },
+    {
+      "start": 397.43,
+      "end": 397.73,
+      "text": "de"
+    },
+    {
+      "start": 397.73,
+      "end": 397.95,
+      "text": "um"
+    },
+    {
+      "start": 397.95,
+      "end": 398.67,
+      "text": "detalhe,"
+    },
+    {
+      "start": 407.2,
+      "end": 407.2,
+      "text": "Se"
+    },
+    {
+      "start": 407.2,
+      "end": 407.36,
+      "text": "você"
+    },
+    {
+      "start": 407.36,
+      "end": 407.62,
+      "text": "quiser"
+    },
+    {
+      "start": 407.62,
+      "end": 408.06,
+      "text": "ouvir,"
+    },
+    {
+      "start": 408.06,
+      "end": 408.84,
+      "text": "você"
+    },
+    {
+      "start": 408.84,
+      "end": 409.06,
+      "text": "tem"
+    },
+    {
+      "start": 409.06,
+      "end": 409.24,
+      "text": "que"
+    },
+    {
+      "start": 409.24,
+      "end": 409.58,
+      "text": "encontrar"
+    },
+    {
+      "start": 409.58,
+      "end": 409.8,
+      "text": "a"
+    },
+    {
+      "start": 409.8,
+      "end": 410.1,
+      "text": "resposta."
+    },
+    {
+      "start": 419.91,
+      "end": 420.79,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 420.79,
+      "end": 420.97,
+      "text": "a"
+    },
+    {
+      "start": 420.97,
+      "end": 421.13,
+      "text": "todos"
+    },
+    {
+      "start": 421.13,
+      "end": 421.13,
+      "text": "os"
+    },
+    {
+      "start": 421.13,
+      "end": 421.83,
+      "text": "que"
+    },
+    {
+      "start": 421.83,
+      "end": 422.73,
+      "text": "assistiram"
+    },
+    {
+      "start": 422.73,
+      "end": 423.55,
+      "text": "até"
+    },
+    {
+      "start": 423.55,
+      "end": 423.83,
+      "text": "o"
+    },
+    {
+      "start": 423.83,
+      "end": 424.03,
+      "text": "final."
+    },
+    {
+      "start": 434.34,
+      "end": 434.56,
+      "text": "Não"
+    },
+    {
+      "start": 434.56,
+      "end": 434.56,
+      "text": "há"
+    },
+    {
+      "start": 434.56,
+      "end": 434.92,
+      "text": "problema,"
+    },
+    {
+      "start": 435.2,
+      "end": 435.52,
+      "text": "é"
+    },
+    {
+      "start": 435.52,
+      "end": 435.74,
+      "text": "tudo"
+    },
+    {
+      "start": 435.74,
+      "end": 436.12,
+      "text": "bem."
+    },
+    {
+      "start": 440.07,
+      "end": 440.45,
+      "text": "Atenção,"
+    },
+    {
+      "start": 440.45,
+      "end": 440.63,
+      "text": "a"
+    },
+    {
+      "start": 440.63,
+      "end": 441.65,
+      "text": "definição..."
+    },
+    {
+      "start": 453.54,
+      "end": 454.1,
+      "text": "Atenção!"
+    },
+    {
+      "start": 457.25,
+      "end": 457.41,
+      "text": "Não"
+    },
+    {
+      "start": 457.41,
+      "end": 457.41,
+      "text": "há"
+    },
+    {
+      "start": 457.41,
+      "end": 457.41,
+      "text": "nenhum"
+    },
+    {
+      "start": 457.41,
+      "end": 457.61,
+      "text": "estupro"
+    },
+    {
+      "start": 457.61,
+      "end": 458.05,
+      "text": "naquilo"
+    },
+    {
+      "start": 458.05,
+      "end": 458.27,
+      "text": "que"
+    },
+    {
+      "start": 458.27,
+      "end": 458.27,
+      "text": "eu"
+    },
+    {
+      "start": 458.27,
+      "end": 458.47,
+      "text": "saiba"
+    },
+    {
+      "start": 458.47,
+      "end": 458.59,
+      "text": "que"
+    },
+    {
+      "start": 458.59,
+      "end": 458.71,
+      "text": "não"
+    },
+    {
+      "start": 458.71,
+      "end": 458.95,
+      "text": "existe."
+    },
+    {
+      "start": 476.39,
+      "end": 476.59,
+      "text": "E"
+    },
+    {
+      "start": 476.59,
+      "end": 476.69,
+      "text": "sempre"
+    },
+    {
+      "start": 476.69,
+      "end": 476.89,
+      "text": "no"
+    },
+    {
+      "start": 476.89,
+      "end": 477.55,
+      "text": "interesse."
+    },
+    {
+      "start": 486.32,
+      "end": 487.72,
+      "text": "Atenção!"
+    },
+    {
+      "start": 507.52,
+      "end": 507.6,
+      "text": "O"
+    },
+    {
+      "start": 507.6,
+      "end": 507.6,
+      "text": "que"
+    },
+    {
+      "start": 507.6,
+      "end": 507.72,
+      "text": "é"
+    },
+    {
+      "start": 507.72,
+      "end": 507.72,
+      "text": "o"
+    },
+    {
+      "start": 507.72,
+      "end": 509.68,
+      "text": "sexo?"
+    },
+    {
+      "start": 516.71,
+      "end": 517.31,
+      "text": "Obrigado."
+    },
+    {
+      "start": 526.47,
+      "end": 526.69,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 526.69,
+      "end": 526.83,
+      "text": "a"
+    },
+    {
+      "start": 526.83,
+      "end": 526.95,
+      "text": "todos"
+    },
+    {
+      "start": 526.95,
+      "end": 527.15,
+      "text": "os"
+    },
+    {
+      "start": 527.15,
+      "end": 527.61,
+      "text": "participantes."
+    },
+    {
+      "start": 533.6,
+      "end": 533.68,
+      "text": "Em"
+    },
+    {
+      "start": 533.68,
+      "end": 533.76,
+      "text": "nome"
+    },
+    {
+      "start": 533.76,
+      "end": 533.82,
+      "text": "de"
+    },
+    {
+      "start": 533.82,
+      "end": 534.04,
+      "text": "Jesus."
+    },
+    {
+      "start": 603.46,
+      "end": 603.92,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 603.92,
+      "end": 604.14,
+      "text": "a"
+    },
+    {
+      "start": 604.14,
+      "end": 604.5,
+      "text": "transmissão"
+    },
+    {
+      "start": 604.5,
+      "end": 604.66,
+      "text": "em"
+    },
+    {
+      "start": 604.66,
+      "end": 605.02,
+      "text": "português."
+    },
+    {
+      "start": 609.35,
+      "end": 609.95,
+      "text": "Não"
+    },
+    {
+      "start": 609.95,
+      "end": 610.29,
+      "text": "há"
+    },
+    {
+      "start": 610.29,
+      "end": 610.29,
+      "text": "mais"
+    },
+    {
+      "start": 610.29,
+      "end": 610.91,
+      "text": "níveis"
+    },
+    {
+      "start": 610.91,
+      "end": 611.09,
+      "text": "de"
+    },
+    {
+      "start": 611.09,
+      "end": 612.25,
+      "text": "repassamento."
+    },
+    {
+      "start": 624.9,
+      "end": 624.98,
+      "text": "Não"
+    },
+    {
+      "start": 624.98,
+      "end": 625.0,
+      "text": "é"
+    },
+    {
+      "start": 625.0,
+      "end": 625.38,
+      "text": "possível."
+    },
+    {
+      "start": 1319.55,
+      "end": 1319.75,
+      "text": "."
+    },
+    {
+      "start": 1436.26,
+      "end": 1436.46,
+      "text": "Não"
+    },
+    {
+      "start": 1436.46,
+      "end": 1436.46,
+      "text": "há"
+    },
+    {
+      "start": 1436.46,
+      "end": 1436.86,
+      "text": "dúvida."
+    },
+    {
+      "start": 2238.75,
+      "end": 2240.15,
+      "text": "Obrigado."
+    },
+    {
+      "start": 2532.35,
+      "end": 2532.51,
+      "text": "."
+    },
+    {
+      "start": 3271.55,
+      "end": 3271.75,
+      "text": "."
+    }
+  ]
+}

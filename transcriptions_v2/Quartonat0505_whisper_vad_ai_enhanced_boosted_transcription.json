@@ -1,0 +1,62 @@
+{
+  "source_file": "Quartonat0505_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 5288.6,
+  "segments": {
+    "00:42:39,00:42:40": "Vamos lá.",
+    "01:01:10,01:01:10": "Deixe-me.",
+    "01:01:10,01:01:11": "Deixe-me.",
+    "01:22:48,01:22:49": "Boa noite."
+  },
+  "words": [
+    {
+      "start": 2559.71,
+      "end": 2560.11,
+      "text": "Vamos",
+      "probability": 0.049
+    },
+    {
+      "start": 2560.11,
+      "end": 2560.53,
+      "text": "lá.",
+      "probability": 0.32
+    },
+    {
+      "start": 3670.26,
+      "end": 3670.36,
+      "text": "Deixe",
+      "probability": 0.189
+    },
+    {
+      "start": 3670.36,
+      "end": 3670.54,
+      "text": "-me.",
+      "probability": 0.572
+    },
+    {
+      "start": 3670.86,
+      "end": 3671.28,
+      "text": "Deixe",
+      "probability": 0.634
+    },
+    {
+      "start": 3671.28,
+      "end": 3671.5,
+      "text": "-me.",
+      "probability": 0.965
+    },
+    {
+      "start": 4968.2,
+      "end": 4968.88,
+      "text": "Boa",
+      "probability": 0.487
+    },
+    {
+      "start": 4968.88,
+      "end": 4969.3,
+      "text": "noite.",
+      "probability": 0.853
+    }
+  ]
+}

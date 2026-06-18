@@ -1,0 +1,280 @@
+{
+  "source_file": "VOR20260603070216_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:17,00:00:19": "Agradecimentos a todos os convidados.",
+    "00:06:34,00:06:35": "Não é isso que eu estou me perguntando.",
+    "00:10:27,00:10:27": "Não tem isso a ver?",
+    "00:16:07,00:16:08": "Atenção!",
+    "00:19:00,00:19:00": ".",
+    "00:19:04,00:19:05": "Não há mais que dizer isso.",
+    "00:30:22,00:30:23": "Não é nada.",
+    "00:44:09,00:44:11": "Atenção, o que eu fiz foi visitar um menino.",
+    "00:44:12,00:44:13": "Ai, tá igual, hein?",
+    "00:44:17,00:44:18": "quando eu não sou nova.",
+    "00:44:19,00:44:20": "Ai, meu Deus do céu."
+  },
+  "words": [
+    {
+      "start": 17.7,
+      "end": 18.0,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 18.0,
+      "end": 18.68,
+      "text": "a"
+    },
+    {
+      "start": 18.68,
+      "end": 18.78,
+      "text": "todos"
+    },
+    {
+      "start": 18.78,
+      "end": 19.02,
+      "text": "os"
+    },
+    {
+      "start": 19.02,
+      "end": 19.22,
+      "text": "convidados."
+    },
+    {
+      "start": 394.27,
+      "end": 394.43,
+      "text": "Não"
+    },
+    {
+      "start": 394.43,
+      "end": 394.49,
+      "text": "é"
+    },
+    {
+      "start": 394.49,
+      "end": 394.63,
+      "text": "isso"
+    },
+    {
+      "start": 394.63,
+      "end": 394.95,
+      "text": "que"
+    },
+    {
+      "start": 394.95,
+      "end": 395.01,
+      "text": "eu"
+    },
+    {
+      "start": 395.01,
+      "end": 395.07,
+      "text": "estou"
+    },
+    {
+      "start": 395.07,
+      "end": 395.07,
+      "text": "me"
+    },
+    {
+      "start": 395.07,
+      "end": 395.41,
+      "text": "perguntando."
+    },
+    {
+      "start": 627.49,
+      "end": 627.49,
+      "text": "Não"
+    },
+    {
+      "start": 627.49,
+      "end": 627.57,
+      "text": "tem"
+    },
+    {
+      "start": 627.57,
+      "end": 627.71,
+      "text": "isso"
+    },
+    {
+      "start": 627.71,
+      "end": 627.75,
+      "text": "a"
+    },
+    {
+      "start": 627.75,
+      "end": 627.89,
+      "text": "ver?"
+    },
+    {
+      "start": 967.2,
+      "end": 968.28,
+      "text": "Atenção!"
+    },
+    {
+      "start": 1140.55,
+      "end": 1140.67,
+      "text": "."
+    },
+    {
+      "start": 1144.0,
+      "end": 1144.2,
+      "text": "Não"
+    },
+    {
+      "start": 1144.2,
+      "end": 1144.28,
+      "text": "há"
+    },
+    {
+      "start": 1144.28,
+      "end": 1144.56,
+      "text": "mais"
+    },
+    {
+      "start": 1144.56,
+      "end": 1144.74,
+      "text": "que"
+    },
+    {
+      "start": 1144.74,
+      "end": 1145.04,
+      "text": "dizer"
+    },
+    {
+      "start": 1145.04,
+      "end": 1145.42,
+      "text": "isso."
+    },
+    {
+      "start": 1822.88,
+      "end": 1823.02,
+      "text": "Não"
+    },
+    {
+      "start": 1823.02,
+      "end": 1823.02,
+      "text": "é"
+    },
+    {
+      "start": 1823.02,
+      "end": 1823.24,
+      "text": "nada."
+    },
+    {
+      "start": 2649.76,
+      "end": 2650.18,
+      "text": "Atenção,"
+    },
+    {
+      "start": 2650.18,
+      "end": 2650.18,
+      "text": "o"
+    },
+    {
+      "start": 2650.18,
+      "end": 2650.36,
+      "text": "que"
+    },
+    {
+      "start": 2650.36,
+      "end": 2650.46,
+      "text": "eu"
+    },
+    {
+      "start": 2650.46,
+      "end": 2650.62,
+      "text": "fiz"
+    },
+    {
+      "start": 2650.62,
+      "end": 2650.88,
+      "text": "foi"
+    },
+    {
+      "start": 2650.88,
+      "end": 2651.18,
+      "text": "visitar"
+    },
+    {
+      "start": 2651.18,
+      "end": 2651.32,
+      "text": "um"
+    },
+    {
+      "start": 2651.32,
+      "end": 2651.86,
+      "text": "menino."
+    },
+    {
+      "start": 2652.1,
+      "end": 2652.52,
+      "text": "Ai,"
+    },
+    {
+      "start": 2652.52,
+      "end": 2652.68,
+      "text": "tá"
+    },
+    {
+      "start": 2652.68,
+      "end": 2653.08,
+      "text": "igual,"
+    },
+    {
+      "start": 2653.12,
+      "end": 2653.34,
+      "text": "hein?"
+    },
+    {
+      "start": 2657.32,
+      "end": 2657.5,
+      "text": "quando"
+    },
+    {
+      "start": 2657.5,
+      "end": 2657.58,
+      "text": "eu"
+    },
+    {
+      "start": 2657.58,
+      "end": 2657.7,
+      "text": "não"
+    },
+    {
+      "start": 2657.7,
+      "end": 2657.9,
+      "text": "sou"
+    },
+    {
+      "start": 2657.9,
+      "end": 2658.22,
+      "text": "nova."
+    },
+    {
+      "start": 2659.48,
+      "end": 2659.72,
+      "text": "Ai,"
+    },
+    {
+      "start": 2659.78,
+      "end": 2659.9,
+      "text": "meu"
+    },
+    {
+      "start": 2659.9,
+      "end": 2660.2,
+      "text": "Deus"
+    },
+    {
+      "start": 2660.2,
+      "end": 2660.28,
+      "text": "do"
+    },
+    {
+      "start": 2660.28,
+      "end": 2660.4,
+      "text": "céu."
+    }
+  ]
+}

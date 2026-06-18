@@ -1,0 +1,370 @@
+{
+  "source_file": "VOR20260521092909_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.1,
+  "segments": {
+    "00:09:03,00:09:06": "O que é isso?",
+    "00:09:34,00:09:36": "O que é isso?",
+    "00:13:36,00:13:38": "Tchau, tchau.",
+    "00:13:47,00:13:48": "O que é que é isso?",
+    "00:14:12,00:14:19": "É uma coisa que dá no mim, é a minha cozinha com a carteirinha que dá no meu negócio.",
+    "00:15:54,00:15:57": "O que é isso?",
+    "00:16:06,00:16:07": "É.",
+    "00:17:00,00:17:13": "Ah, mais um ovo, tá?",
+    "00:20:37,00:20:38": "O que é isso?",
+    "00:24:28,00:24:29": "Não?",
+    "00:24:44,00:24:45": "Não?",
+    "00:26:24,00:26:25": "Obrigada",
+    "00:41:07,00:41:08": "Não.",
+    "00:41:09,00:41:10": "Não?",
+    "00:42:56,00:42:57": "Obrigada.",
+    "00:55:22,00:55:23": "Não?",
+    "00:57:42,00:57:43": "Obrigado."
+  },
+  "hallucinations_filtered": 196,
+  "words": [
+    {
+      "start": 543.26,
+      "end": 544.22,
+      "text": "O",
+      "confidence": 0.031
+    },
+    {
+      "start": 544.22,
+      "end": 544.54,
+      "text": "que",
+      "confidence": 0.443
+    },
+    {
+      "start": 544.54,
+      "end": 544.68,
+      "text": "é",
+      "confidence": 0.549
+    },
+    {
+      "start": 544.68,
+      "end": 546.28,
+      "text": "isso?",
+      "confidence": 0.777
+    },
+    {
+      "start": 574.48,
+      "end": 576.27,
+      "text": "O",
+      "confidence": 0.052
+    },
+    {
+      "start": 576.41,
+      "end": 576.45,
+      "text": "que",
+      "confidence": 0.625
+    },
+    {
+      "start": 576.45,
+      "end": 576.47,
+      "text": "é",
+      "confidence": 0.649
+    },
+    {
+      "start": 576.47,
+      "end": 576.49,
+      "text": "isso?",
+      "confidence": 0.824
+    },
+    {
+      "start": 816.22,
+      "end": 818.34,
+      "text": "Tchau,",
+      "confidence": 0.164
+    },
+    {
+      "start": 818.34,
+      "end": 818.36,
+      "text": "tchau.",
+      "confidence": 0.902
+    },
+    {
+      "start": 827.89,
+      "end": 827.91,
+      "text": "O",
+      "confidence": 0.06
+    },
+    {
+      "start": 827.91,
+      "end": 827.93,
+      "text": "que",
+      "confidence": 0.571
+    },
+    {
+      "start": 827.93,
+      "end": 827.95,
+      "text": "é",
+      "confidence": 0.634
+    },
+    {
+      "start": 827.95,
+      "end": 827.97,
+      "text": "que",
+      "confidence": 0.094
+    },
+    {
+      "start": 827.97,
+      "end": 827.99,
+      "text": "é",
+      "confidence": 0.276
+    },
+    {
+      "start": 827.99,
+      "end": 828.01,
+      "text": "isso?",
+      "confidence": 0.809
+    },
+    {
+      "start": 852.13,
+      "end": 852.15,
+      "text": "É",
+      "confidence": 0.025
+    },
+    {
+      "start": 853.88,
+      "end": 853.96,
+      "text": "uma",
+      "confidence": 0.116
+    },
+    {
+      "start": 853.96,
+      "end": 854.16,
+      "text": "coisa",
+      "confidence": 0.293
+    },
+    {
+      "start": 854.16,
+      "end": 854.2,
+      "text": "que",
+      "confidence": 0.364
+    },
+    {
+      "start": 854.2,
+      "end": 854.3,
+      "text": "dá",
+      "confidence": 0.185
+    },
+    {
+      "start": 854.3,
+      "end": 854.44,
+      "text": "no",
+      "confidence": 0.654
+    },
+    {
+      "start": 854.44,
+      "end": 854.7,
+      "text": "mim,",
+      "confidence": 0.281
+    },
+    {
+      "start": 854.8,
+      "end": 855.51,
+      "text": "é",
+      "confidence": 0.667
+    },
+    {
+      "start": 857.21,
+      "end": 857.51,
+      "text": "a",
+      "confidence": 0.6
+    },
+    {
+      "start": 857.51,
+      "end": 857.67,
+      "text": "minha",
+      "confidence": 0.661
+    },
+    {
+      "start": 857.67,
+      "end": 858.01,
+      "text": "cozinha",
+      "confidence": 0.342
+    },
+    {
+      "start": 858.01,
+      "end": 858.21,
+      "text": "com",
+      "confidence": 0.056
+    },
+    {
+      "start": 858.21,
+      "end": 858.31,
+      "text": "a",
+      "confidence": 0.632
+    },
+    {
+      "start": 858.31,
+      "end": 858.81,
+      "text": "carteirinha",
+      "confidence": 0.343
+    },
+    {
+      "start": 858.81,
+      "end": 858.97,
+      "text": "que",
+      "confidence": 0.867
+    },
+    {
+      "start": 858.97,
+      "end": 859.17,
+      "text": "dá",
+      "confidence": 0.661
+    },
+    {
+      "start": 859.17,
+      "end": 859.29,
+      "text": "no",
+      "confidence": 0.969
+    },
+    {
+      "start": 859.29,
+      "end": 859.49,
+      "text": "meu",
+      "confidence": 0.595
+    },
+    {
+      "start": 859.49,
+      "end": 859.71,
+      "text": "negócio.",
+      "confidence": 0.625
+    },
+    {
+      "start": 954.77,
+      "end": 955.13,
+      "text": "O",
+      "confidence": 0.035
+    },
+    {
+      "start": 955.13,
+      "end": 956.57,
+      "text": "que",
+      "confidence": 0.531
+    },
+    {
+      "start": 956.57,
+      "end": 956.67,
+      "text": "é",
+      "confidence": 0.504
+    },
+    {
+      "start": 956.67,
+      "end": 957.01,
+      "text": "isso?",
+      "confidence": 0.546
+    },
+    {
+      "start": 966.77,
+      "end": 967.23,
+      "text": "É.",
+      "confidence": 0.302
+    },
+    {
+      "start": 1020.15,
+      "end": 1024.75,
+      "text": "Ah,",
+      "confidence": 0.517
+    },
+    {
+      "start": 1032.52,
+      "end": 1033.08,
+      "text": "mais",
+      "confidence": 0.138
+    },
+    {
+      "start": 1033.08,
+      "end": 1033.3,
+      "text": "um",
+      "confidence": 0.763
+    },
+    {
+      "start": 1033.3,
+      "end": 1033.6,
+      "text": "ovo,",
+      "confidence": 0.195
+    },
+    {
+      "start": 1033.64,
+      "end": 1033.74,
+      "text": "tá?",
+      "confidence": 0.471
+    },
+    {
+      "start": 1237.63,
+      "end": 1238.01,
+      "text": "O",
+      "confidence": 0.023
+    },
+    {
+      "start": 1238.01,
+      "end": 1238.03,
+      "text": "que",
+      "confidence": 0.399
+    },
+    {
+      "start": 1238.03,
+      "end": 1238.05,
+      "text": "é",
+      "confidence": 0.432
+    },
+    {
+      "start": 1238.05,
+      "end": 1238.07,
+      "text": "isso?",
+      "confidence": 0.839
+    },
+    {
+      "start": 1468.67,
+      "end": 1469.25,
+      "text": "Não?",
+      "confidence": 0.424
+    },
+    {
+      "start": 1484.69,
+      "end": 1485.45,
+      "text": "Não?",
+      "confidence": 0.383
+    },
+    {
+      "start": 1584.97,
+      "end": 1585.76,
+      "text": "Obrigada",
+      "confidence": 0.903
+    },
+    {
+      "start": 2467.88,
+      "end": 2468.28,
+      "text": "Não.",
+      "confidence": 0.329
+    },
+    {
+      "start": 2469.88,
+      "end": 2470.04,
+      "text": "Não?",
+      "confidence": 0.571
+    },
+    {
+      "start": 2576.64,
+      "end": 2577.12,
+      "text": "Obrigada.",
+      "confidence": 0.458
+    },
+    {
+      "start": 3322.27,
+      "end": 3323.15,
+      "text": "Não?",
+      "confidence": 0.61
+    },
+    {
+      "start": 3462.98,
+      "end": 3463.82,
+      "text": "Obrigado.",
+      "confidence": 0.308
+    }
+  ]
+}

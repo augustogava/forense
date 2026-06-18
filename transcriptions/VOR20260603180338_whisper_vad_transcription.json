@@ -1,0 +1,190 @@
+{
+  "source_file": "VOR20260603180338_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:30:44,00:30:44": "Acabou?",
+    "00:54:01,00:54:02": "Não é possível.",
+    "00:54:07,00:54:08": "A...",
+    "00:54:09,00:54:10": "O que é um homem?",
+    "00:54:38,00:54:39": "Abre as portas!",
+    "00:54:44,00:54:48": "Atenção! Atenção!",
+    "00:54:56,00:54:59": "Agradecimentos a todos os que participaram no evento.",
+    "00:55:03,00:55:05": "Apenas o que você quer.",
+    "00:55:07,00:55:08": "O que você quer.",
+    "00:55:37,00:55:37": "Atenção!",
+    "00:55:43,00:55:44": "."
+  },
+  "words": [
+    {
+      "start": 1844.03,
+      "end": 1844.31,
+      "text": "Acabou?"
+    },
+    {
+      "start": 3241.95,
+      "end": 3242.03,
+      "text": "Não"
+    },
+    {
+      "start": 3242.03,
+      "end": 3242.13,
+      "text": "é"
+    },
+    {
+      "start": 3242.13,
+      "end": 3242.15,
+      "text": "possível."
+    },
+    {
+      "start": 3247.55,
+      "end": 3248.05,
+      "text": "A..."
+    },
+    {
+      "start": 3249.86,
+      "end": 3249.9,
+      "text": "O"
+    },
+    {
+      "start": 3249.9,
+      "end": 3250.12,
+      "text": "que"
+    },
+    {
+      "start": 3250.12,
+      "end": 3250.3,
+      "text": "é"
+    },
+    {
+      "start": 3250.3,
+      "end": 3250.3,
+      "text": "um"
+    },
+    {
+      "start": 3250.3,
+      "end": 3250.56,
+      "text": "homem?"
+    },
+    {
+      "start": 3278.69,
+      "end": 3278.89,
+      "text": "Abre"
+    },
+    {
+      "start": 3278.89,
+      "end": 3278.95,
+      "text": "as"
+    },
+    {
+      "start": 3278.95,
+      "end": 3279.83,
+      "text": "portas!"
+    },
+    {
+      "start": 3284.55,
+      "end": 3285.15,
+      "text": "Atenção!"
+    },
+    {
+      "start": 3286.97,
+      "end": 3288.17,
+      "text": "Atenção!"
+    },
+    {
+      "start": 3296.42,
+      "end": 3296.8,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 3296.8,
+      "end": 3296.94,
+      "text": "a"
+    },
+    {
+      "start": 3296.94,
+      "end": 3297.86,
+      "text": "todos"
+    },
+    {
+      "start": 3297.86,
+      "end": 3298.06,
+      "text": "os"
+    },
+    {
+      "start": 3298.06,
+      "end": 3298.06,
+      "text": "que"
+    },
+    {
+      "start": 3298.06,
+      "end": 3298.94,
+      "text": "participaram"
+    },
+    {
+      "start": 3298.94,
+      "end": 3299.1,
+      "text": "no"
+    },
+    {
+      "start": 3299.1,
+      "end": 3299.26,
+      "text": "evento."
+    },
+    {
+      "start": 3303.14,
+      "end": 3303.64,
+      "text": "Apenas"
+    },
+    {
+      "start": 3303.64,
+      "end": 3303.72,
+      "text": "o"
+    },
+    {
+      "start": 3303.72,
+      "end": 3304.08,
+      "text": "que"
+    },
+    {
+      "start": 3304.08,
+      "end": 3304.3,
+      "text": "você"
+    },
+    {
+      "start": 3304.3,
+      "end": 3305.02,
+      "text": "quer."
+    },
+    {
+      "start": 3306.66,
+      "end": 3307.16,
+      "text": "O"
+    },
+    {
+      "start": 3307.16,
+      "end": 3307.66,
+      "text": "que"
+    },
+    {
+      "start": 3307.66,
+      "end": 3307.9,
+      "text": "você"
+    },
+    {
+      "start": 3307.9,
+      "end": 3308.58,
+      "text": "quer."
+    },
+    {
+      "start": 3337.41,
+      "end": 3337.65,
+      "text": "Atenção!"
+    },
+    {
+      "start": 3343.94,
+      "end": 3344.26,
+      "text": "."
+    }
+  ]
+}

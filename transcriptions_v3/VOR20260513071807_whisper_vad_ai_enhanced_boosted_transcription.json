@@ -1,0 +1,49 @@
+{
+  "source_file": "VOR20260513071807_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.1,
+  "segments": {
+    "00:29:25,00:29:49": "Vamos lá.",
+    "00:52:57,00:52:57": "O que é isso?"
+  },
+  "hallucinations_filtered": 18,
+  "words": [
+    {
+      "start": 1765.63,
+      "end": 1765.81,
+      "text": "Vamos",
+      "confidence": 0.053
+    },
+    {
+      "start": 1788.42,
+      "end": 1789.76,
+      "text": "lá.",
+      "confidence": 0.915
+    },
+    {
+      "start": 3177.08,
+      "end": 3177.28,
+      "text": "O",
+      "confidence": 0.054
+    },
+    {
+      "start": 3177.28,
+      "end": 3177.3,
+      "text": "que",
+      "confidence": 0.535
+    },
+    {
+      "start": 3177.3,
+      "end": 3177.32,
+      "text": "é",
+      "confidence": 0.403
+    },
+    {
+      "start": 3177.32,
+      "end": 3177.34,
+      "text": "isso?",
+      "confidence": 0.752
+    }
+  ]
+}

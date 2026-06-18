@@ -1,0 +1,893 @@
+{
+  "source_file": "VOR20260515061521_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.3,
+  "segments": {
+    "00:25:56,00:25:57": "Eu tinha sido muito frágil, né?",
+    "00:25:57,00:25:58": "Não, mas...",
+    "00:25:58,00:26:01": "Deve ter falido que eu era frágil, né?",
+    "00:26:01,00:26:01": "Sim.",
+    "00:26:02,00:26:04": "Não, eu não sou frágil.",
+    "00:26:04,00:26:05": "Eu não sou frágil.",
+    "00:26:06,00:26:07": "Eu não sou frágil.",
+    "00:29:47,00:29:48": "que seja feita com licença",
+    "00:29:48,00:29:52": "vai precisar de mamãe também",
+    "00:29:52,00:29:55": "vai precisar de psicóloga também",
+    "00:29:55,00:30:38": "eu não queria voltar aqui",
+    "00:30:38,00:30:40": "porque eu não ia ter licença",
+    "00:30:40,00:30:55": "só que eu tenho a sabedoria",
+    "00:30:55,00:31:35": "você vai tomar?",
+    "00:31:35,00:31:38": "porque você está pedindo e não está tomando",
+    "00:31:38,00:31:40": "óbvio, eu mentirei e me jogava fora",
+    "00:31:40,00:31:41": "porque você não tomou",
+    "00:31:41,00:31:42": "vai",
+    "00:32:32,00:32:33": "ele quer ser cego",
+    "00:32:33,00:32:34": "o que?",
+    "00:32:35,00:32:40": "ai meu Deus",
+    "00:34:23,00:34:52": "E aí veio o tomássaro, e aí a gente, ainda nada, né, só o chifre mesmo melhora.",
+    "00:34:52,00:35:04": "Faz uns cinco dias, a gente estava chamando para ir no hospital, febre, molestia, e ela",
+    "00:35:04,00:35:11": "assim, tá bem, uma coisa que tosse muito, gago comente, acho que vocês conhecem, sabe?",
+    "00:38:44,00:38:44": "Tchau."
+  },
+  "words": [
+    {
+      "start": 1556.1,
+      "end": 1556.1,
+      "text": "Eu",
+      "probability": 0.044
+    },
+    {
+      "start": 1556.1,
+      "end": 1556.26,
+      "text": "tinha",
+      "probability": 0.044
+    },
+    {
+      "start": 1556.26,
+      "end": 1556.52,
+      "text": "sido",
+      "probability": 0.551
+    },
+    {
+      "start": 1556.52,
+      "end": 1556.82,
+      "text": "muito",
+      "probability": 0.96
+    },
+    {
+      "start": 1556.82,
+      "end": 1557.32,
+      "text": "frágil,",
+      "probability": 0.486
+    },
+    {
+      "start": 1557.4,
+      "end": 1557.6,
+      "text": "né?",
+      "probability": 0.313
+    },
+    {
+      "start": 1557.78,
+      "end": 1558.3,
+      "text": "Não,",
+      "probability": 0.097
+    },
+    {
+      "start": 1558.58,
+      "end": 1558.7,
+      "text": "mas...",
+      "probability": 0.755
+    },
+    {
+      "start": 1558.92,
+      "end": 1559.46,
+      "text": "Deve",
+      "probability": 0.299
+    },
+    {
+      "start": 1559.46,
+      "end": 1559.62,
+      "text": "ter",
+      "probability": 0.4
+    },
+    {
+      "start": 1559.62,
+      "end": 1559.92,
+      "text": "falido",
+      "probability": 0.543
+    },
+    {
+      "start": 1559.92,
+      "end": 1560.08,
+      "text": "que",
+      "probability": 0.194
+    },
+    {
+      "start": 1560.08,
+      "end": 1560.22,
+      "text": "eu",
+      "probability": 0.416
+    },
+    {
+      "start": 1560.22,
+      "end": 1560.46,
+      "text": "era",
+      "probability": 0.914
+    },
+    {
+      "start": 1560.46,
+      "end": 1560.88,
+      "text": "frágil,",
+      "probability": 0.669
+    },
+    {
+      "start": 1560.96,
+      "end": 1561.12,
+      "text": "né?",
+      "probability": 0.252
+    },
+    {
+      "start": 1561.14,
+      "end": 1561.38,
+      "text": "Sim.",
+      "probability": 0.71
+    },
+    {
+      "start": 1562.72,
+      "end": 1563.24,
+      "text": "Não,",
+      "probability": 0.393
+    },
+    {
+      "start": 1563.34,
+      "end": 1563.42,
+      "text": "eu",
+      "probability": 0.303
+    },
+    {
+      "start": 1563.42,
+      "end": 1563.72,
+      "text": "não",
+      "probability": 0.344
+    },
+    {
+      "start": 1563.72,
+      "end": 1563.88,
+      "text": "sou",
+      "probability": 0.26
+    },
+    {
+      "start": 1563.88,
+      "end": 1564.14,
+      "text": "frágil.",
+      "probability": 0.835
+    },
+    {
+      "start": 1564.36,
+      "end": 1564.88,
+      "text": "Eu",
+      "probability": 0.608
+    },
+    {
+      "start": 1564.88,
+      "end": 1564.94,
+      "text": "não",
+      "probability": 0.866
+    },
+    {
+      "start": 1564.94,
+      "end": 1565.14,
+      "text": "sou",
+      "probability": 0.243
+    },
+    {
+      "start": 1565.14,
+      "end": 1565.56,
+      "text": "frágil.",
+      "probability": 0.965
+    },
+    {
+      "start": 1566.04,
+      "end": 1566.56,
+      "text": "Eu",
+      "probability": 0.468
+    },
+    {
+      "start": 1566.56,
+      "end": 1566.56,
+      "text": "não",
+      "probability": 0.792
+    },
+    {
+      "start": 1566.56,
+      "end": 1566.74,
+      "text": "sou",
+      "probability": 0.54
+    },
+    {
+      "start": 1566.74,
+      "end": 1567.02,
+      "text": "frágil.",
+      "probability": 0.968
+    },
+    {
+      "start": 1787.05,
+      "end": 1787.05,
+      "text": "que",
+      "probability": 0.03
+    },
+    {
+      "start": 1787.05,
+      "end": 1787.33,
+      "text": "seja",
+      "probability": 0.556
+    },
+    {
+      "start": 1787.33,
+      "end": 1787.69,
+      "text": "feita",
+      "probability": 0.439
+    },
+    {
+      "start": 1787.69,
+      "end": 1787.93,
+      "text": "com",
+      "probability": 0.496
+    },
+    {
+      "start": 1787.93,
+      "end": 1788.47,
+      "text": "licença",
+      "probability": 0.512
+    },
+    {
+      "start": 1788.82,
+      "end": 1789.28,
+      "text": "vai",
+      "probability": 0.037
+    },
+    {
+      "start": 1789.28,
+      "end": 1790.28,
+      "text": "precisar",
+      "probability": 0.627
+    },
+    {
+      "start": 1791.18,
+      "end": 1791.36,
+      "text": "de",
+      "probability": 0.953
+    },
+    {
+      "start": 1791.36,
+      "end": 1791.76,
+      "text": "mamãe",
+      "probability": 0.791
+    },
+    {
+      "start": 1791.76,
+      "end": 1792.24,
+      "text": "também",
+      "probability": 0.903
+    },
+    {
+      "start": 1792.24,
+      "end": 1792.74,
+      "text": "vai",
+      "probability": 0.307
+    },
+    {
+      "start": 1793.57,
+      "end": 1794.05,
+      "text": "precisar",
+      "probability": 0.983
+    },
+    {
+      "start": 1794.05,
+      "end": 1794.29,
+      "text": "de",
+      "probability": 0.902
+    },
+    {
+      "start": 1794.29,
+      "end": 1795.09,
+      "text": "psicóloga",
+      "probability": 0.875
+    },
+    {
+      "start": 1795.09,
+      "end": 1795.41,
+      "text": "também",
+      "probability": 0.94
+    },
+    {
+      "start": 1795.41,
+      "end": 1796.25,
+      "text": "eu",
+      "probability": 0.092
+    },
+    {
+      "start": 1838.07,
+      "end": 1838.17,
+      "text": "não",
+      "probability": 0.547
+    },
+    {
+      "start": 1838.17,
+      "end": 1838.37,
+      "text": "queria",
+      "probability": 0.729
+    },
+    {
+      "start": 1838.37,
+      "end": 1838.67,
+      "text": "voltar",
+      "probability": 0.49
+    },
+    {
+      "start": 1838.67,
+      "end": 1838.93,
+      "text": "aqui",
+      "probability": 0.198
+    },
+    {
+      "start": 1838.93,
+      "end": 1839.13,
+      "text": "porque",
+      "probability": 0.082
+    },
+    {
+      "start": 1839.13,
+      "end": 1839.31,
+      "text": "eu",
+      "probability": 0.222
+    },
+    {
+      "start": 1839.31,
+      "end": 1839.41,
+      "text": "não",
+      "probability": 0.517
+    },
+    {
+      "start": 1839.41,
+      "end": 1839.49,
+      "text": "ia",
+      "probability": 0.146
+    },
+    {
+      "start": 1839.49,
+      "end": 1839.77,
+      "text": "ter",
+      "probability": 0.478
+    },
+    {
+      "start": 1839.77,
+      "end": 1840.27,
+      "text": "licença",
+      "probability": 0.696
+    },
+    {
+      "start": 1840.73,
+      "end": 1841.03,
+      "text": "só",
+      "probability": 0.098
+    },
+    {
+      "start": 1854.38,
+      "end": 1854.48,
+      "text": "que",
+      "probability": 0.697
+    },
+    {
+      "start": 1854.48,
+      "end": 1854.62,
+      "text": "eu",
+      "probability": 0.427
+    },
+    {
+      "start": 1854.62,
+      "end": 1854.8,
+      "text": "tenho",
+      "probability": 0.403
+    },
+    {
+      "start": 1854.8,
+      "end": 1854.88,
+      "text": "a",
+      "probability": 0.383
+    },
+    {
+      "start": 1854.88,
+      "end": 1855.4,
+      "text": "sabedoria",
+      "probability": 0.608
+    },
+    {
+      "start": 1855.4,
+      "end": 1855.78,
+      "text": "você",
+      "probability": 0.386
+    },
+    {
+      "start": 1855.78,
+      "end": 1857.0,
+      "text": "vai",
+      "probability": 0.963
+    },
+    {
+      "start": 1895.27,
+      "end": 1895.47,
+      "text": "tomar?",
+      "probability": 0.986
+    },
+    {
+      "start": 1895.83,
+      "end": 1896.33,
+      "text": "porque",
+      "probability": 0.064
+    },
+    {
+      "start": 1896.55,
+      "end": 1896.79,
+      "text": "você",
+      "probability": 0.786
+    },
+    {
+      "start": 1896.79,
+      "end": 1896.95,
+      "text": "está",
+      "probability": 0.49
+    },
+    {
+      "start": 1896.95,
+      "end": 1897.35,
+      "text": "pedindo",
+      "probability": 0.992
+    },
+    {
+      "start": 1897.35,
+      "end": 1897.41,
+      "text": "e",
+      "probability": 0.893
+    },
+    {
+      "start": 1897.41,
+      "end": 1897.51,
+      "text": "não",
+      "probability": 0.931
+    },
+    {
+      "start": 1897.51,
+      "end": 1897.61,
+      "text": "está",
+      "probability": 0.949
+    },
+    {
+      "start": 1897.61,
+      "end": 1898.05,
+      "text": "tomando",
+      "probability": 0.996
+    },
+    {
+      "start": 1898.89,
+      "end": 1899.49,
+      "text": "óbvio,",
+      "probability": 0.772
+    },
+    {
+      "start": 1899.51,
+      "end": 1899.63,
+      "text": "eu",
+      "probability": 0.426
+    },
+    {
+      "start": 1899.63,
+      "end": 1900.07,
+      "text": "mentirei",
+      "probability": 0.566
+    },
+    {
+      "start": 1900.07,
+      "end": 1900.13,
+      "text": "e",
+      "probability": 0.194
+    },
+    {
+      "start": 1900.13,
+      "end": 1900.21,
+      "text": "me",
+      "probability": 0.585
+    },
+    {
+      "start": 1900.21,
+      "end": 1900.45,
+      "text": "jogava",
+      "probability": 0.948
+    },
+    {
+      "start": 1900.45,
+      "end": 1900.81,
+      "text": "fora",
+      "probability": 0.965
+    },
+    {
+      "start": 1900.81,
+      "end": 1901.01,
+      "text": "porque",
+      "probability": 0.27
+    },
+    {
+      "start": 1901.01,
+      "end": 1901.09,
+      "text": "você",
+      "probability": 0.673
+    },
+    {
+      "start": 1901.09,
+      "end": 1901.15,
+      "text": "não",
+      "probability": 0.924
+    },
+    {
+      "start": 1901.15,
+      "end": 1901.51,
+      "text": "tomou",
+      "probability": 0.972
+    },
+    {
+      "start": 1901.51,
+      "end": 1902.13,
+      "text": "vai",
+      "probability": 0.028
+    },
+    {
+      "start": 1952.14,
+      "end": 1952.74,
+      "text": "ele",
+      "probability": 0.026
+    },
+    {
+      "start": 1952.74,
+      "end": 1953.04,
+      "text": "quer",
+      "probability": 0.923
+    },
+    {
+      "start": 1953.04,
+      "end": 1953.24,
+      "text": "ser",
+      "probability": 0.546
+    },
+    {
+      "start": 1953.24,
+      "end": 1953.86,
+      "text": "cego",
+      "probability": 0.985
+    },
+    {
+      "start": 1953.86,
+      "end": 1954.52,
+      "text": "o",
+      "probability": 0.062
+    },
+    {
+      "start": 1954.52,
+      "end": 1954.6,
+      "text": "que?",
+      "probability": 0.839
+    },
+    {
+      "start": 1955.18,
+      "end": 1955.78,
+      "text": "ai",
+      "probability": 0.066
+    },
+    {
+      "start": 1958.18,
+      "end": 1959.18,
+      "text": "meu",
+      "probability": 0.608
+    },
+    {
+      "start": 1959.62,
+      "end": 1960.48,
+      "text": "Deus",
+      "probability": 0.726
+    },
+    {
+      "start": 2063.14,
+      "end": 2063.66,
+      "text": "E",
+      "probability": 0.156
+    },
+    {
+      "start": 2079.4,
+      "end": 2079.64,
+      "text": "aí",
+      "probability": 0.776
+    },
+    {
+      "start": 2079.64,
+      "end": 2079.82,
+      "text": "veio",
+      "probability": 0.067
+    },
+    {
+      "start": 2079.82,
+      "end": 2079.92,
+      "text": "o",
+      "probability": 0.708
+    },
+    {
+      "start": 2079.92,
+      "end": 2080.42,
+      "text": "tomássaro,",
+      "probability": 0.58
+    },
+    {
+      "start": 2080.48,
+      "end": 2080.92,
+      "text": "e",
+      "probability": 0.501
+    },
+    {
+      "start": 2086.52,
+      "end": 2086.86,
+      "text": "aí",
+      "probability": 0.6
+    },
+    {
+      "start": 2086.86,
+      "end": 2087.14,
+      "text": "a",
+      "probability": 0.778
+    },
+    {
+      "start": 2087.14,
+      "end": 2087.5,
+      "text": "gente,",
+      "probability": 0.996
+    },
+    {
+      "start": 2087.91,
+      "end": 2088.29,
+      "text": "ainda",
+      "probability": 0.162
+    },
+    {
+      "start": 2088.29,
+      "end": 2088.75,
+      "text": "nada,",
+      "probability": 0.951
+    },
+    {
+      "start": 2088.79,
+      "end": 2088.95,
+      "text": "né,",
+      "probability": 0.534
+    },
+    {
+      "start": 2088.97,
+      "end": 2089.13,
+      "text": "só",
+      "probability": 0.97
+    },
+    {
+      "start": 2089.13,
+      "end": 2089.35,
+      "text": "o",
+      "probability": 0.449
+    },
+    {
+      "start": 2089.35,
+      "end": 2090.03,
+      "text": "chifre",
+      "probability": 0.628
+    },
+    {
+      "start": 2090.96,
+      "end": 2091.38,
+      "text": "mesmo",
+      "probability": 0.639
+    },
+    {
+      "start": 2091.38,
+      "end": 2092.0,
+      "text": "melhora.",
+      "probability": 0.501
+    },
+    {
+      "start": 2092.26,
+      "end": 2092.58,
+      "text": "Faz",
+      "probability": 0.485
+    },
+    {
+      "start": 2094.66,
+      "end": 2094.76,
+      "text": "uns",
+      "probability": 0.987
+    },
+    {
+      "start": 2094.76,
+      "end": 2095.02,
+      "text": "cinco",
+      "probability": 0.639
+    },
+    {
+      "start": 2095.02,
+      "end": 2095.56,
+      "text": "dias,",
+      "probability": 0.999
+    },
+    {
+      "start": 2095.76,
+      "end": 2096.3,
+      "text": "a",
+      "probability": 0.184
+    },
+    {
+      "start": 2096.3,
+      "end": 2096.68,
+      "text": "gente",
+      "probability": 0.561
+    },
+    {
+      "start": 2096.68,
+      "end": 2096.74,
+      "text": "estava",
+      "probability": 0.287
+    },
+    {
+      "start": 2096.74,
+      "end": 2096.94,
+      "text": "chamando",
+      "probability": 0.773
+    },
+    {
+      "start": 2096.94,
+      "end": 2097.16,
+      "text": "para",
+      "probability": 0.29
+    },
+    {
+      "start": 2097.16,
+      "end": 2097.34,
+      "text": "ir",
+      "probability": 0.996
+    },
+    {
+      "start": 2097.34,
+      "end": 2097.44,
+      "text": "no",
+      "probability": 0.558
+    },
+    {
+      "start": 2097.44,
+      "end": 2097.78,
+      "text": "hospital,",
+      "probability": 0.997
+    },
+    {
+      "start": 2100.63,
+      "end": 2102.05,
+      "text": "febre,",
+      "probability": 0.954
+    },
+    {
+      "start": 2103.46,
+      "end": 2104.22,
+      "text": "molestia,",
+      "probability": 0.507
+    },
+    {
+      "start": 2104.46,
+      "end": 2104.62,
+      "text": "e",
+      "probability": 0.365
+    },
+    {
+      "start": 2104.62,
+      "end": 2104.74,
+      "text": "ela",
+      "probability": 0.751
+    },
+    {
+      "start": 2104.74,
+      "end": 2105.02,
+      "text": "assim,",
+      "probability": 0.362
+    },
+    {
+      "start": 2105.06,
+      "end": 2105.22,
+      "text": "tá",
+      "probability": 0.197
+    },
+    {
+      "start": 2105.22,
+      "end": 2105.46,
+      "text": "bem,",
+      "probability": 0.953
+    },
+    {
+      "start": 2105.68,
+      "end": 2106.1,
+      "text": "uma",
+      "probability": 0.756
+    },
+    {
+      "start": 2106.45,
+      "end": 2106.71,
+      "text": "coisa",
+      "probability": 1.0
+    },
+    {
+      "start": 2106.71,
+      "end": 2107.03,
+      "text": "que",
+      "probability": 0.991
+    },
+    {
+      "start": 2107.03,
+      "end": 2107.87,
+      "text": "tosse",
+      "probability": 0.754
+    },
+    {
+      "start": 2107.87,
+      "end": 2108.13,
+      "text": "muito,",
+      "probability": 0.995
+    },
+    {
+      "start": 2108.61,
+      "end": 2109.13,
+      "text": "gago",
+      "probability": 0.24
+    },
+    {
+      "start": 2109.13,
+      "end": 2109.63,
+      "text": "comente,",
+      "probability": 0.809
+    },
+    {
+      "start": 2109.91,
+      "end": 2110.15,
+      "text": "acho",
+      "probability": 0.468
+    },
+    {
+      "start": 2110.15,
+      "end": 2110.35,
+      "text": "que",
+      "probability": 0.958
+    },
+    {
+      "start": 2110.35,
+      "end": 2110.73,
+      "text": "vocês",
+      "probability": 0.471
+    },
+    {
+      "start": 2110.73,
+      "end": 2111.49,
+      "text": "conhecem,",
+      "probability": 0.629
+    },
+    {
+      "start": 2111.63,
+      "end": 2111.73,
+      "text": "sabe?",
+      "probability": 0.881
+    },
+    {
+      "start": 2324.0,
+      "end": 2324.22,
+      "text": "Tchau.",
+      "probability": 0.54
+    }
+  ]
+}

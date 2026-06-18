@@ -1,0 +1,8 @@
+{
+  "source_file": "Banhoquartonat1105_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 967.1,
+  "segments": {},
+  "hallucinations_filtered": 1
+}

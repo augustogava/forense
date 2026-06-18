@@ -1,0 +1,23 @@
+{
+  "source_file": "VOR20260505142032_1420_part001_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 5400.0,
+  "segments": {
+    "00:58:55,00:58:57": "Vamos lá."
+  },
+  "words": [
+    {
+      "start": 3535.12,
+      "end": 3536.52,
+      "text": "Vamos",
+      "probability": 0.056
+    },
+    {
+      "start": 3536.52,
+      "end": 3537.92,
+      "text": "lá.",
+      "probability": 0.849
+    }
+  ]
+}

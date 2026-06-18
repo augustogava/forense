@@ -1,0 +1,96 @@
+{
+  "source_file": "VOR20260515091536_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.1,
+  "segments": {
+    "00:29:00,00:30:19": "Com um jeitinho de excelência, essa é uma desesperança que eu nunca senti antes."
+  },
+  "hallucinations_filtered": 1,
+  "words": [
+    {
+      "start": 1740.29,
+      "end": 1740.59,
+      "text": "Com",
+      "confidence": 0.125
+    },
+    {
+      "start": 1743.47,
+      "end": 1743.73,
+      "text": "um",
+      "confidence": 0.735
+    },
+    {
+      "start": 1743.73,
+      "end": 1744.53,
+      "text": "jeitinho",
+      "confidence": 0.765
+    },
+    {
+      "start": 1744.53,
+      "end": 1744.75,
+      "text": "de",
+      "confidence": 0.452
+    },
+    {
+      "start": 1744.75,
+      "end": 1746.07,
+      "text": "excelência,",
+      "confidence": 0.55
+    },
+    {
+      "start": 1746.15,
+      "end": 1746.89,
+      "text": "essa",
+      "confidence": 0.273
+    },
+    {
+      "start": 1746.89,
+      "end": 1747.05,
+      "text": "é",
+      "confidence": 0.22
+    },
+    {
+      "start": 1747.05,
+      "end": 1747.25,
+      "text": "uma",
+      "confidence": 0.452
+    },
+    {
+      "start": 1752.97,
+      "end": 1753.66,
+      "text": "desesperança",
+      "confidence": 0.507
+    },
+    {
+      "start": 1753.66,
+      "end": 1753.82,
+      "text": "que",
+      "confidence": 0.6
+    },
+    {
+      "start": 1753.82,
+      "end": 1754.08,
+      "text": "eu",
+      "confidence": 0.476
+    },
+    {
+      "start": 1754.08,
+      "end": 1754.52,
+      "text": "nunca",
+      "confidence": 0.123
+    },
+    {
+      "start": 1754.52,
+      "end": 1755.47,
+      "text": "senti",
+      "confidence": 0.75
+    },
+    {
+      "start": 1819.24,
+      "end": 1819.74,
+      "text": "antes.",
+      "confidence": 0.826
+    }
+  ]
+}

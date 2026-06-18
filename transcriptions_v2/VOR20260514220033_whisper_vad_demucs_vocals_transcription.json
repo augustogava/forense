@@ -1,0 +1,200 @@
+{
+  "source_file": "VOR20260514220033_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.0,
+  "segments": {
+    "00:20:36,00:20:36": "O que é isso?",
+    "00:20:36,00:20:39": "Não, isso é a vida.",
+    "00:20:40,00:20:41": "O que é isso?",
+    "00:20:42,00:20:43": "O que é isso?",
+    "00:38:36,00:38:36": "A?",
+    "00:38:37,00:38:39": "Você deixou a obra em mim?",
+    "00:38:51,00:38:51": "Sim.",
+    "00:38:59,00:39:00": "Eu não.",
+    "00:44:36,00:44:47": "Eu não.",
+    "00:56:54,00:56:54": "Tchau."
+  },
+  "words": [
+    {
+      "start": 1236.25,
+      "end": 1236.25,
+      "text": "O",
+      "probability": 0.031
+    },
+    {
+      "start": 1236.25,
+      "end": 1236.41,
+      "text": "que",
+      "probability": 0.678
+    },
+    {
+      "start": 1236.41,
+      "end": 1236.61,
+      "text": "é",
+      "probability": 0.342
+    },
+    {
+      "start": 1236.61,
+      "end": 1236.61,
+      "text": "isso?",
+      "probability": 0.7
+    },
+    {
+      "start": 1236.99,
+      "end": 1237.33,
+      "text": "Não,",
+      "probability": 0.08
+    },
+    {
+      "start": 1238.84,
+      "end": 1239.08,
+      "text": "isso",
+      "probability": 0.198
+    },
+    {
+      "start": 1239.08,
+      "end": 1239.2,
+      "text": "é",
+      "probability": 0.837
+    },
+    {
+      "start": 1239.2,
+      "end": 1239.34,
+      "text": "a",
+      "probability": 0.509
+    },
+    {
+      "start": 1239.34,
+      "end": 1239.52,
+      "text": "vida.",
+      "probability": 0.636
+    },
+    {
+      "start": 1240.24,
+      "end": 1240.66,
+      "text": "O",
+      "probability": 0.124
+    },
+    {
+      "start": 1240.66,
+      "end": 1240.76,
+      "text": "que",
+      "probability": 0.849
+    },
+    {
+      "start": 1240.76,
+      "end": 1240.86,
+      "text": "é",
+      "probability": 0.818
+    },
+    {
+      "start": 1240.86,
+      "end": 1241.06,
+      "text": "isso?",
+      "probability": 0.648
+    },
+    {
+      "start": 1242.08,
+      "end": 1242.5,
+      "text": "O",
+      "probability": 0.231
+    },
+    {
+      "start": 1242.5,
+      "end": 1242.92,
+      "text": "que",
+      "probability": 0.93
+    },
+    {
+      "start": 1242.92,
+      "end": 1243.0,
+      "text": "é",
+      "probability": 0.914
+    },
+    {
+      "start": 1243.0,
+      "end": 1243.1,
+      "text": "isso?",
+      "probability": 0.97
+    },
+    {
+      "start": 2316.0,
+      "end": 2316.44,
+      "text": "A?",
+      "probability": 0.064
+    },
+    {
+      "start": 2317.56,
+      "end": 2318.0,
+      "text": "Você",
+      "probability": 0.152
+    },
+    {
+      "start": 2318.0,
+      "end": 2318.44,
+      "text": "deixou",
+      "probability": 0.548
+    },
+    {
+      "start": 2318.44,
+      "end": 2318.54,
+      "text": "a",
+      "probability": 0.27
+    },
+    {
+      "start": 2318.54,
+      "end": 2318.78,
+      "text": "obra",
+      "probability": 0.082
+    },
+    {
+      "start": 2318.78,
+      "end": 2318.96,
+      "text": "em",
+      "probability": 0.128
+    },
+    {
+      "start": 2318.96,
+      "end": 2319.16,
+      "text": "mim?",
+      "probability": 0.406
+    },
+    {
+      "start": 2331.3,
+      "end": 2331.68,
+      "text": "Sim.",
+      "probability": 0.195
+    },
+    {
+      "start": 2339.4,
+      "end": 2339.84,
+      "text": "Eu",
+      "probability": 0.121
+    },
+    {
+      "start": 2339.84,
+      "end": 2340.12,
+      "text": "não.",
+      "probability": 0.128
+    },
+    {
+      "start": 2676.69,
+      "end": 2676.87,
+      "text": "Eu",
+      "probability": 0.528
+    },
+    {
+      "start": 2687.37,
+      "end": 2687.59,
+      "text": "não.",
+      "probability": 0.968
+    },
+    {
+      "start": 3414.46,
+      "end": 3414.64,
+      "text": "Tchau.",
+      "probability": 0.542
+    }
+  ]
+}

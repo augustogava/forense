@@ -1,0 +1,110 @@
+{
+  "source_file": "VOR20260519212806_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1978.1,
+  "segments": {
+    "00:13:15,00:13:15": "Obrigado.",
+    "00:28:30,00:28:33": "Nossa, olha o rio, olha o rio, olha o rio.",
+    "00:28:33,00:28:35": "Ai, eu tô com fome."
+  },
+  "hallucinations_filtered": 90,
+  "words": [
+    {
+      "start": 795.28,
+      "end": 795.76,
+      "text": "Obrigado.",
+      "confidence": 0.465
+    },
+    {
+      "start": 1710.96,
+      "end": 1711.55,
+      "text": "Nossa,",
+      "confidence": 0.064
+    },
+    {
+      "start": 1711.67,
+      "end": 1711.91,
+      "text": "olha",
+      "confidence": 0.025
+    },
+    {
+      "start": 1711.91,
+      "end": 1712.09,
+      "text": "o",
+      "confidence": 0.341
+    },
+    {
+      "start": 1712.09,
+      "end": 1712.11,
+      "text": "rio,",
+      "confidence": 0.194
+    },
+    {
+      "start": 1712.15,
+      "end": 1712.51,
+      "text": "olha",
+      "confidence": 0.848
+    },
+    {
+      "start": 1712.51,
+      "end": 1712.69,
+      "text": "o",
+      "confidence": 0.896
+    },
+    {
+      "start": 1712.69,
+      "end": 1712.75,
+      "text": "rio,",
+      "confidence": 0.764
+    },
+    {
+      "start": 1712.81,
+      "end": 1713.01,
+      "text": "olha",
+      "confidence": 0.794
+    },
+    {
+      "start": 1713.01,
+      "end": 1713.29,
+      "text": "o",
+      "confidence": 0.974
+    },
+    {
+      "start": 1713.29,
+      "end": 1713.31,
+      "text": "rio.",
+      "confidence": 0.806
+    },
+    {
+      "start": 1713.75,
+      "end": 1714.39,
+      "text": "Ai,",
+      "confidence": 0.478
+    },
+    {
+      "start": 1714.47,
+      "end": 1714.61,
+      "text": "eu",
+      "confidence": 0.394
+    },
+    {
+      "start": 1714.61,
+      "end": 1714.77,
+      "text": "tô",
+      "confidence": 0.171
+    },
+    {
+      "start": 1714.77,
+      "end": 1714.97,
+      "text": "com",
+      "confidence": 0.616
+    },
+    {
+      "start": 1714.97,
+      "end": 1715.55,
+      "text": "fome.",
+      "confidence": 0.746
+    }
+  ]
+}

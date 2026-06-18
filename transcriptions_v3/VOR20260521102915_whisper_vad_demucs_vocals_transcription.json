@@ -1,0 +1,301 @@
+{
+  "source_file": "VOR20260521102915_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.1,
+  "segments": {
+    "00:02:31,00:02:32": "O que é isso?",
+    "00:08:34,00:08:39": "Eu quero pedir, é, que você dê essa bota de cabeça, né?",
+    "00:10:04,00:10:06": "O que é isso?",
+    "00:10:07,00:10:08": "Não, não, não, não, não.",
+    "00:40:58,00:40:58": "Sim, eu vou te levar para a igreja.",
+    "00:42:03,00:42:10": "O que é isso?",
+    "00:43:17,00:43:18": "Isso é o que eu faço.",
+    "00:59:50,00:59:55": "O que é isso?"
+  },
+  "hallucinations_filtered": 91,
+  "words": [
+    {
+      "start": 151.73,
+      "end": 152.43,
+      "text": "O",
+      "confidence": 0.039
+    },
+    {
+      "start": 152.43,
+      "end": 152.45,
+      "text": "que",
+      "confidence": 0.438
+    },
+    {
+      "start": 152.45,
+      "end": 152.47,
+      "text": "é",
+      "confidence": 0.46
+    },
+    {
+      "start": 152.47,
+      "end": 152.49,
+      "text": "isso?",
+      "confidence": 0.597
+    },
+    {
+      "start": 514.64,
+      "end": 516.26,
+      "text": "Eu",
+      "confidence": 0.021
+    },
+    {
+      "start": 516.26,
+      "end": 516.64,
+      "text": "quero",
+      "confidence": 0.201
+    },
+    {
+      "start": 516.64,
+      "end": 516.94,
+      "text": "pedir,",
+      "confidence": 0.695
+    },
+    {
+      "start": 517.08,
+      "end": 517.3,
+      "text": "é,",
+      "confidence": 0.296
+    },
+    {
+      "start": 517.44,
+      "end": 517.58,
+      "text": "que",
+      "confidence": 0.509
+    },
+    {
+      "start": 517.58,
+      "end": 517.8,
+      "text": "você",
+      "confidence": 0.525
+    },
+    {
+      "start": 517.8,
+      "end": 517.96,
+      "text": "dê",
+      "confidence": 0.122
+    },
+    {
+      "start": 517.96,
+      "end": 518.06,
+      "text": "essa",
+      "confidence": 0.297
+    },
+    {
+      "start": 518.06,
+      "end": 518.22,
+      "text": "bota",
+      "confidence": 0.207
+    },
+    {
+      "start": 518.22,
+      "end": 518.32,
+      "text": "de",
+      "confidence": 0.595
+    },
+    {
+      "start": 518.32,
+      "end": 518.62,
+      "text": "cabeça,",
+      "confidence": 0.984
+    },
+    {
+      "start": 518.82,
+      "end": 519.02,
+      "text": "né?",
+      "confidence": 0.882
+    },
+    {
+      "start": 604.31,
+      "end": 605.84,
+      "text": "O",
+      "confidence": 0.034
+    },
+    {
+      "start": 606.65,
+      "end": 606.83,
+      "text": "que",
+      "confidence": 0.452
+    },
+    {
+      "start": 606.83,
+      "end": 606.93,
+      "text": "é",
+      "confidence": 0.524
+    },
+    {
+      "start": 606.93,
+      "end": 606.99,
+      "text": "isso?",
+      "confidence": 0.702
+    },
+    {
+      "start": 607.09,
+      "end": 607.39,
+      "text": "Não,",
+      "confidence": 0.034
+    },
+    {
+      "start": 607.49,
+      "end": 607.69,
+      "text": "não,",
+      "confidence": 0.696
+    },
+    {
+      "start": 607.79,
+      "end": 607.97,
+      "text": "não,",
+      "confidence": 0.652
+    },
+    {
+      "start": 608.11,
+      "end": 608.21,
+      "text": "não,",
+      "confidence": 0.567
+    },
+    {
+      "start": 608.23,
+      "end": 608.43,
+      "text": "não.",
+      "confidence": 0.724
+    },
+    {
+      "start": 2458.79,
+      "end": 2458.81,
+      "text": "Sim,",
+      "confidence": 0.185
+    },
+    {
+      "start": 2458.81,
+      "end": 2458.83,
+      "text": "eu",
+      "confidence": 0.417
+    },
+    {
+      "start": 2458.83,
+      "end": 2458.85,
+      "text": "vou",
+      "confidence": 0.601
+    },
+    {
+      "start": 2458.85,
+      "end": 2458.87,
+      "text": "te",
+      "confidence": 0.613
+    },
+    {
+      "start": 2458.87,
+      "end": 2458.89,
+      "text": "levar",
+      "confidence": 0.028
+    },
+    {
+      "start": 2458.89,
+      "end": 2458.91,
+      "text": "para",
+      "confidence": 0.521
+    },
+    {
+      "start": 2458.91,
+      "end": 2458.93,
+      "text": "a",
+      "confidence": 0.454
+    },
+    {
+      "start": 2458.93,
+      "end": 2458.95,
+      "text": "igreja.",
+      "confidence": 0.695
+    },
+    {
+      "start": 2523.99,
+      "end": 2525.17,
+      "text": "O",
+      "confidence": 0.052
+    },
+    {
+      "start": 2529.61,
+      "end": 2529.93,
+      "text": "que",
+      "confidence": 0.613
+    },
+    {
+      "start": 2529.93,
+      "end": 2530.15,
+      "text": "é",
+      "confidence": 0.505
+    },
+    {
+      "start": 2530.15,
+      "end": 2530.93,
+      "text": "isso?",
+      "confidence": 0.803
+    },
+    {
+      "start": 2597.64,
+      "end": 2597.66,
+      "text": "Isso",
+      "confidence": 0.014
+    },
+    {
+      "start": 2597.66,
+      "end": 2597.82,
+      "text": "é",
+      "confidence": 0.514
+    },
+    {
+      "start": 2597.82,
+      "end": 2597.96,
+      "text": "o",
+      "confidence": 0.398
+    },
+    {
+      "start": 2597.96,
+      "end": 2597.98,
+      "text": "que",
+      "confidence": 0.878
+    },
+    {
+      "start": 2597.98,
+      "end": 2598.0,
+      "text": "eu",
+      "confidence": 0.867
+    },
+    {
+      "start": 2598.0,
+      "end": 2598.02,
+      "text": "faço.",
+      "confidence": 0.571
+    },
+    {
+      "start": 3590.73,
+      "end": 3591.99,
+      "text": "O",
+      "confidence": 0.026
+    },
+    {
+      "start": 3595.14,
+      "end": 3595.66,
+      "text": "que",
+      "confidence": 0.765
+    },
+    {
+      "start": 3595.66,
+      "end": 3595.68,
+      "text": "é",
+      "confidence": 0.417
+    },
+    {
+      "start": 3595.68,
+      "end": 3595.7,
+      "text": "isso?",
+      "confidence": 0.841
+    }
+  ]
+}

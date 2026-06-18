@@ -1,0 +1,443 @@
+{
+  "source_file": "VOR20260519161802_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:10:26,00:10:26": "Atenção!",
+    "00:11:47,00:11:47": ".",
+    "00:17:18,00:17:18": ".",
+    "00:17:46,00:17:47": "Interessante!",
+    "00:25:14,00:25:15": "Atenção!",
+    "00:29:31,00:29:32": "Obrigado.",
+    "00:29:38,00:29:38": "É isso aí, pessoal.",
+    "00:38:05,00:38:06": "Não há mais nenhum.",
+    "00:39:39,00:39:39": ".",
+    "00:40:47,00:40:47": ".",
+    "00:48:04,00:48:09": "Agradecimentos a todos os que participaram do programa.",
+    "00:53:39,00:53:46": "O que é o sexo? É o uso. E o que é o sexo? É a arma.",
+    "00:53:50,00:53:52": "Não é da boa, é horrível isso que eu sei.",
+    "00:53:58,00:54:09": "O que é o sexo? É o sexo de um homem que está em um lugar de violência, é o sexo de um homem que está em um lugar de violência.",
+    "00:54:12,00:54:12": "Não!"
+  },
+  "explicit_segments": {
+    "00:53:58,00:54:09": "O que é o sexo? É o sexo de um homem que está em um lugar de violência, é o sexo de um homem que está em um lugar de violência."
+  },
+  "explicit_count": 1,
+  "words": [
+    {
+      "start": 626.21,
+      "end": 626.51,
+      "text": "Atenção!"
+    },
+    {
+      "start": 707.49,
+      "end": 707.71,
+      "text": "."
+    },
+    {
+      "start": 1038.4,
+      "end": 1038.68,
+      "text": "."
+    },
+    {
+      "start": 1066.59,
+      "end": 1067.63,
+      "text": "Interessante!"
+    },
+    {
+      "start": 1514.69,
+      "end": 1515.13,
+      "text": "Atenção!"
+    },
+    {
+      "start": 1771.41,
+      "end": 1772.81,
+      "text": "Obrigado."
+    },
+    {
+      "start": 1778.24,
+      "end": 1778.32,
+      "text": "É"
+    },
+    {
+      "start": 1778.32,
+      "end": 1778.42,
+      "text": "isso"
+    },
+    {
+      "start": 1778.42,
+      "end": 1778.48,
+      "text": "aí,"
+    },
+    {
+      "start": 1778.48,
+      "end": 1778.62,
+      "text": "pessoal."
+    },
+    {
+      "start": 2285.19,
+      "end": 2285.53,
+      "text": "Não"
+    },
+    {
+      "start": 2285.53,
+      "end": 2285.97,
+      "text": "há"
+    },
+    {
+      "start": 2285.97,
+      "end": 2286.41,
+      "text": "mais"
+    },
+    {
+      "start": 2286.41,
+      "end": 2286.97,
+      "text": "nenhum."
+    },
+    {
+      "start": 2379.52,
+      "end": 2379.8,
+      "text": "."
+    },
+    {
+      "start": 2447.23,
+      "end": 2447.91,
+      "text": "."
+    },
+    {
+      "start": 2884.9,
+      "end": 2885.52,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 2885.52,
+      "end": 2885.64,
+      "text": "a"
+    },
+    {
+      "start": 2885.64,
+      "end": 2886.12,
+      "text": "todos"
+    },
+    {
+      "start": 2886.12,
+      "end": 2887.34,
+      "text": "os"
+    },
+    {
+      "start": 2887.34,
+      "end": 2887.84,
+      "text": "que"
+    },
+    {
+      "start": 2887.84,
+      "end": 2889.18,
+      "text": "participaram"
+    },
+    {
+      "start": 2889.18,
+      "end": 2889.18,
+      "text": "do"
+    },
+    {
+      "start": 2889.18,
+      "end": 2889.18,
+      "text": "programa."
+    },
+    {
+      "start": 3219.87,
+      "end": 3219.95,
+      "text": "O"
+    },
+    {
+      "start": 3219.95,
+      "end": 3220.17,
+      "text": "que"
+    },
+    {
+      "start": 3220.17,
+      "end": 3220.29,
+      "text": "é"
+    },
+    {
+      "start": 3220.29,
+      "end": 3220.43,
+      "text": "o"
+    },
+    {
+      "start": 3220.43,
+      "end": 3222.01,
+      "text": "sexo?"
+    },
+    {
+      "start": 3222.85,
+      "end": 3223.29,
+      "text": "É"
+    },
+    {
+      "start": 3223.29,
+      "end": 3223.53,
+      "text": "o"
+    },
+    {
+      "start": 3223.53,
+      "end": 3223.79,
+      "text": "uso."
+    },
+    {
+      "start": 3224.73,
+      "end": 3225.17,
+      "text": "E"
+    },
+    {
+      "start": 3225.17,
+      "end": 3225.35,
+      "text": "o"
+    },
+    {
+      "start": 3225.35,
+      "end": 3225.53,
+      "text": "que"
+    },
+    {
+      "start": 3225.53,
+      "end": 3225.71,
+      "text": "é"
+    },
+    {
+      "start": 3225.71,
+      "end": 3225.71,
+      "text": "o"
+    },
+    {
+      "start": 3225.71,
+      "end": 3226.11,
+      "text": "sexo?"
+    },
+    {
+      "start": 3226.25,
+      "end": 3226.25,
+      "text": "É"
+    },
+    {
+      "start": 3226.25,
+      "end": 3226.25,
+      "text": "a"
+    },
+    {
+      "start": 3226.25,
+      "end": 3226.35,
+      "text": "arma."
+    },
+    {
+      "start": 3230.43,
+      "end": 3230.53,
+      "text": "Não"
+    },
+    {
+      "start": 3230.53,
+      "end": 3230.63,
+      "text": "é"
+    },
+    {
+      "start": 3230.63,
+      "end": 3230.71,
+      "text": "da"
+    },
+    {
+      "start": 3230.71,
+      "end": 3231.15,
+      "text": "boa,"
+    },
+    {
+      "start": 3231.21,
+      "end": 3231.49,
+      "text": "é"
+    },
+    {
+      "start": 3231.49,
+      "end": 3232.03,
+      "text": "horrível"
+    },
+    {
+      "start": 3232.03,
+      "end": 3232.27,
+      "text": "isso"
+    },
+    {
+      "start": 3232.27,
+      "end": 3232.33,
+      "text": "que"
+    },
+    {
+      "start": 3232.33,
+      "end": 3232.43,
+      "text": "eu"
+    },
+    {
+      "start": 3232.43,
+      "end": 3232.65,
+      "text": "sei."
+    },
+    {
+      "start": 3238.63,
+      "end": 3238.63,
+      "text": "O"
+    },
+    {
+      "start": 3238.63,
+      "end": 3238.75,
+      "text": "que"
+    },
+    {
+      "start": 3238.75,
+      "end": 3238.85,
+      "text": "é"
+    },
+    {
+      "start": 3238.85,
+      "end": 3238.95,
+      "text": "o"
+    },
+    {
+      "start": 3238.95,
+      "end": 3239.13,
+      "text": "sexo?"
+    },
+    {
+      "start": 3239.39,
+      "end": 3239.39,
+      "text": "É"
+    },
+    {
+      "start": 3239.39,
+      "end": 3239.89,
+      "text": "o"
+    },
+    {
+      "start": 3239.89,
+      "end": 3242.21,
+      "text": "sexo"
+    },
+    {
+      "start": 3242.21,
+      "end": 3242.29,
+      "text": "de"
+    },
+    {
+      "start": 3242.29,
+      "end": 3242.83,
+      "text": "um"
+    },
+    {
+      "start": 3242.83,
+      "end": 3242.83,
+      "text": "homem"
+    },
+    {
+      "start": 3242.83,
+      "end": 3244.69,
+      "text": "que"
+    },
+    {
+      "start": 3244.69,
+      "end": 3244.77,
+      "text": "está"
+    },
+    {
+      "start": 3244.77,
+      "end": 3245.13,
+      "text": "em"
+    },
+    {
+      "start": 3245.13,
+      "end": 3245.33,
+      "text": "um"
+    },
+    {
+      "start": 3245.33,
+      "end": 3245.33,
+      "text": "lugar"
+    },
+    {
+      "start": 3245.33,
+      "end": 3245.57,
+      "text": "de"
+    },
+    {
+      "start": 3245.57,
+      "end": 3247.07,
+      "text": "violência,"
+    },
+    {
+      "start": 3247.07,
+      "end": 3247.07,
+      "text": "é"
+    },
+    {
+      "start": 3247.07,
+      "end": 3247.07,
+      "text": "o"
+    },
+    {
+      "start": 3247.07,
+      "end": 3247.07,
+      "text": "sexo"
+    },
+    {
+      "start": 3247.07,
+      "end": 3247.07,
+      "text": "de"
+    },
+    {
+      "start": 3247.07,
+      "end": 3247.07,
+      "text": "um"
+    },
+    {
+      "start": 3247.07,
+      "end": 3247.07,
+      "text": "homem"
+    },
+    {
+      "start": 3247.07,
+      "end": 3247.07,
+      "text": "que"
+    },
+    {
+      "start": 3247.07,
+      "end": 3247.07,
+      "text": "está"
+    },
+    {
+      "start": 3247.07,
+      "end": 3247.07,
+      "text": "em"
+    },
+    {
+      "start": 3247.07,
+      "end": 3247.07,
+      "text": "um"
+    },
+    {
+      "start": 3247.07,
+      "end": 3247.17,
+      "text": "lugar"
+    },
+    {
+      "start": 3247.17,
+      "end": 3247.35,
+      "text": "de"
+    },
+    {
+      "start": 3247.35,
+      "end": 3249.85,
+      "text": "violência."
+    },
+    {
+      "start": 3252.23,
+      "end": 3252.49,
+      "text": "Não!"
+    }
+  ]
+}

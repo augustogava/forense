@@ -1,0 +1,236 @@
+{
+  "source_file": "Carro1405_whisper_vad_cut_ai_enhanced.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3969.4,
+  "segments": {
+    "00:02:35,00:02:35": "Aalto, aalto, aalto, aalto, aalto.",
+    "00:03:39,00:03:40": "Obrigada.",
+    "00:04:39,00:04:54": "Vai, seu amor, se você não vira bem com esse amuleto.",
+    "00:31:17,00:31:19": "O que é isso?",
+    "00:33:11,00:33:13": "atualizando o Congresso de Ordem.",
+    "00:34:18,00:34:18": "Obrigado.",
+    "00:43:03,00:43:04": "O que é isso?",
+    "00:50:14,00:50:38": "O que é isso?",
+    "01:04:04,01:04:05": "Obrigado."
+  },
+  "hallucinations_filtered": 70,
+  "words": [
+    {
+      "start": 155.85,
+      "end": 155.87,
+      "text": "Aalto,",
+      "confidence": 0.069
+    },
+    {
+      "start": 155.87,
+      "end": 155.89,
+      "text": "aalto,",
+      "confidence": 0.421
+    },
+    {
+      "start": 155.89,
+      "end": 155.91,
+      "text": "aalto,",
+      "confidence": 0.746
+    },
+    {
+      "start": 155.91,
+      "end": 155.93,
+      "text": "aalto,",
+      "confidence": 0.833
+    },
+    {
+      "start": 155.93,
+      "end": 155.95,
+      "text": "aalto.",
+      "confidence": 0.734
+    },
+    {
+      "start": 219.63,
+      "end": 220.5,
+      "text": "Obrigada.",
+      "confidence": 0.572
+    },
+    {
+      "start": 279.6,
+      "end": 291.08,
+      "text": "Vai,",
+      "confidence": 0.172
+    },
+    {
+      "start": 291.18,
+      "end": 291.36,
+      "text": "seu",
+      "confidence": 0.486
+    },
+    {
+      "start": 291.36,
+      "end": 291.68,
+      "text": "amor,",
+      "confidence": 0.541
+    },
+    {
+      "start": 291.76,
+      "end": 292.28,
+      "text": "se",
+      "confidence": 0.123
+    },
+    {
+      "start": 292.28,
+      "end": 292.56,
+      "text": "você",
+      "confidence": 0.436
+    },
+    {
+      "start": 292.56,
+      "end": 292.76,
+      "text": "não",
+      "confidence": 0.939
+    },
+    {
+      "start": 292.76,
+      "end": 292.98,
+      "text": "vira",
+      "confidence": 0.555
+    },
+    {
+      "start": 292.98,
+      "end": 293.18,
+      "text": "bem",
+      "confidence": 0.532
+    },
+    {
+      "start": 293.18,
+      "end": 293.32,
+      "text": "com",
+      "confidence": 0.332
+    },
+    {
+      "start": 293.32,
+      "end": 293.44,
+      "text": "esse",
+      "confidence": 0.638
+    },
+    {
+      "start": 293.44,
+      "end": 294.0,
+      "text": "amuleto.",
+      "confidence": 0.377
+    },
+    {
+      "start": 1877.84,
+      "end": 1878.84,
+      "text": "O",
+      "confidence": 0.064
+    },
+    {
+      "start": 1878.84,
+      "end": 1878.92,
+      "text": "que",
+      "confidence": 0.426
+    },
+    {
+      "start": 1878.92,
+      "end": 1878.96,
+      "text": "é",
+      "confidence": 0.469
+    },
+    {
+      "start": 1878.96,
+      "end": 1879.34,
+      "text": "isso?",
+      "confidence": 0.843
+    },
+    {
+      "start": 1991.6,
+      "end": 1992.9,
+      "text": "atualizando",
+      "confidence": 0.334
+    },
+    {
+      "start": 1992.9,
+      "end": 1993.0,
+      "text": "o",
+      "confidence": 0.217
+    },
+    {
+      "start": 1993.0,
+      "end": 1993.38,
+      "text": "Congresso",
+      "confidence": 0.76
+    },
+    {
+      "start": 1993.38,
+      "end": 1993.52,
+      "text": "de",
+      "confidence": 0.271
+    },
+    {
+      "start": 1993.52,
+      "end": 1993.88,
+      "text": "Ordem.",
+      "confidence": 0.239
+    },
+    {
+      "start": 2058.51,
+      "end": 2058.91,
+      "text": "Obrigado.",
+      "confidence": 0.388
+    },
+    {
+      "start": 2583.15,
+      "end": 2583.58,
+      "text": "O",
+      "confidence": 0.045
+    },
+    {
+      "start": 2583.58,
+      "end": 2583.76,
+      "text": "que",
+      "confidence": 0.508
+    },
+    {
+      "start": 2583.76,
+      "end": 2583.88,
+      "text": "é",
+      "confidence": 0.666
+    },
+    {
+      "start": 2583.88,
+      "end": 2584.02,
+      "text": "isso?",
+      "confidence": 0.862
+    },
+    {
+      "start": 3014.65,
+      "end": 3014.67,
+      "text": "O",
+      "confidence": 0.057
+    },
+    {
+      "start": 3037.93,
+      "end": 3038.23,
+      "text": "que",
+      "confidence": 0.532
+    },
+    {
+      "start": 3038.23,
+      "end": 3038.25,
+      "text": "é",
+      "confidence": 0.446
+    },
+    {
+      "start": 3038.25,
+      "end": 3038.27,
+      "text": "isso?",
+      "confidence": 0.883
+    },
+    {
+      "start": 3844.4,
+      "end": 3845.24,
+      "text": "Obrigado.",
+      "confidence": 0.525
+    }
+  ]
+}

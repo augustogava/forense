@@ -1,0 +1,307 @@
+{
+  "source_file": "VOR20260519161802_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.0,
+  "segments": {
+    "00:44:50,00:45:17": "Não, não, não, não.",
+    "00:50:46,00:51:06": "Eu não conseguia entender...",
+    "00:51:06,00:51:10": "Eu não conseguia entender...",
+    "00:51:10,00:51:42": "E eu não conseguia entender...",
+    "00:51:42,00:51:43": "Eu não conseguia entender...",
+    "00:51:43,00:52:15": "Eu não conseguia entender...",
+    "00:54:04,00:54:09": "Então, eu vou te dar uma dica para que você não se enlouquece e não se enlouquece.",
+    "00:54:11,00:54:13": "Não se enlouquece.",
+    "00:54:13,00:54:18": "Não se enlouquece."
+  },
+  "words": [
+    {
+      "start": 2690.65,
+      "end": 2691.75,
+      "text": "Não,",
+      "probability": 0.038
+    },
+    {
+      "start": 2715.53,
+      "end": 2716.05,
+      "text": "não,",
+      "probability": 0.529
+    },
+    {
+      "start": 2716.05,
+      "end": 2716.51,
+      "text": "não,",
+      "probability": 0.944
+    },
+    {
+      "start": 2716.97,
+      "end": 2717.55,
+      "text": "não.",
+      "probability": 0.925
+    },
+    {
+      "start": 3046.08,
+      "end": 3046.42,
+      "text": "Eu",
+      "probability": 0.043
+    },
+    {
+      "start": 3065.39,
+      "end": 3065.71,
+      "text": "não",
+      "probability": 0.127
+    },
+    {
+      "start": 3065.71,
+      "end": 3065.71,
+      "text": "conseguia",
+      "probability": 0.202
+    },
+    {
+      "start": 3065.71,
+      "end": 3066.43,
+      "text": "entender...",
+      "probability": 0.163
+    },
+    {
+      "start": 3066.43,
+      "end": 3066.89,
+      "text": "Eu",
+      "probability": 0.207
+    },
+    {
+      "start": 3069.55,
+      "end": 3069.75,
+      "text": "não",
+      "probability": 0.623
+    },
+    {
+      "start": 3069.75,
+      "end": 3070.11,
+      "text": "conseguia",
+      "probability": 0.921
+    },
+    {
+      "start": 3070.11,
+      "end": 3070.59,
+      "text": "entender...",
+      "probability": 0.556
+    },
+    {
+      "start": 3070.59,
+      "end": 3070.97,
+      "text": "E",
+      "probability": 0.036
+    },
+    {
+      "start": 3100.34,
+      "end": 3100.56,
+      "text": "eu",
+      "probability": 0.394
+    },
+    {
+      "start": 3100.56,
+      "end": 3100.78,
+      "text": "não",
+      "probability": 0.393
+    },
+    {
+      "start": 3100.78,
+      "end": 3101.2,
+      "text": "conseguia",
+      "probability": 0.802
+    },
+    {
+      "start": 3101.2,
+      "end": 3102.2,
+      "text": "entender...",
+      "probability": 0.741
+    },
+    {
+      "start": 3102.56,
+      "end": 3102.56,
+      "text": "Eu",
+      "probability": 0.186
+    },
+    {
+      "start": 3102.56,
+      "end": 3102.86,
+      "text": "não",
+      "probability": 0.902
+    },
+    {
+      "start": 3102.86,
+      "end": 3102.86,
+      "text": "conseguia",
+      "probability": 0.992
+    },
+    {
+      "start": 3102.86,
+      "end": 3103.18,
+      "text": "entender...",
+      "probability": 0.967
+    },
+    {
+      "start": 3103.18,
+      "end": 3103.8,
+      "text": "Eu",
+      "probability": 0.274
+    },
+    {
+      "start": 3134.36,
+      "end": 3134.54,
+      "text": "não",
+      "probability": 0.881
+    },
+    {
+      "start": 3134.54,
+      "end": 3134.9,
+      "text": "conseguia",
+      "probability": 0.994
+    },
+    {
+      "start": 3134.9,
+      "end": 3135.6,
+      "text": "entender...",
+      "probability": 0.982
+    },
+    {
+      "start": 3244.64,
+      "end": 3244.98,
+      "text": "Então,",
+      "probability": 0.016
+    },
+    {
+      "start": 3244.98,
+      "end": 3245.16,
+      "text": "eu",
+      "probability": 0.481
+    },
+    {
+      "start": 3245.16,
+      "end": 3245.34,
+      "text": "vou",
+      "probability": 0.411
+    },
+    {
+      "start": 3245.34,
+      "end": 3245.54,
+      "text": "te",
+      "probability": 0.079
+    },
+    {
+      "start": 3245.54,
+      "end": 3245.86,
+      "text": "dar",
+      "probability": 0.564
+    },
+    {
+      "start": 3245.86,
+      "end": 3246.24,
+      "text": "uma",
+      "probability": 0.291
+    },
+    {
+      "start": 3246.24,
+      "end": 3246.56,
+      "text": "dica",
+      "probability": 0.529
+    },
+    {
+      "start": 3246.56,
+      "end": 3246.7,
+      "text": "para",
+      "probability": 0.363
+    },
+    {
+      "start": 3246.7,
+      "end": 3246.8,
+      "text": "que",
+      "probability": 0.178
+    },
+    {
+      "start": 3246.8,
+      "end": 3247.06,
+      "text": "você",
+      "probability": 0.827
+    },
+    {
+      "start": 3247.06,
+      "end": 3247.12,
+      "text": "não",
+      "probability": 0.385
+    },
+    {
+      "start": 3247.12,
+      "end": 3247.44,
+      "text": "se",
+      "probability": 0.731
+    },
+    {
+      "start": 3247.44,
+      "end": 3247.96,
+      "text": "enlouquece",
+      "probability": 0.655
+    },
+    {
+      "start": 3247.96,
+      "end": 3247.96,
+      "text": "e",
+      "probability": 0.209
+    },
+    {
+      "start": 3247.96,
+      "end": 3248.1,
+      "text": "não",
+      "probability": 0.709
+    },
+    {
+      "start": 3248.1,
+      "end": 3248.72,
+      "text": "se",
+      "probability": 0.235
+    },
+    {
+      "start": 3248.72,
+      "end": 3249.52,
+      "text": "enlouquece.",
+      "probability": 0.714
+    },
+    {
+      "start": 3251.6,
+      "end": 3252.28,
+      "text": "Não",
+      "probability": 0.207
+    },
+    {
+      "start": 3252.28,
+      "end": 3252.58,
+      "text": "se",
+      "probability": 0.854
+    },
+    {
+      "start": 3252.58,
+      "end": 3253.0,
+      "text": "enlouquece.",
+      "probability": 0.888
+    },
+    {
+      "start": 3253.68,
+      "end": 3254.36,
+      "text": "Não",
+      "probability": 0.204
+    },
+    {
+      "start": 3258.07,
+      "end": 3258.37,
+      "text": "se",
+      "probability": 0.94
+    },
+    {
+      "start": 3258.37,
+      "end": 3258.83,
+      "text": "enlouquece.",
+      "probability": 0.997
+    }
+  ]
+}

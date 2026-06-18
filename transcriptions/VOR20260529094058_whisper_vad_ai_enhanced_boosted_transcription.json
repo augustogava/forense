@@ -1,0 +1,481 @@
+{
+  "source_file": "VOR20260529094058_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:02": "Agradecimentos a todos os que participaram.",
+    "00:03:31,00:03:32": "Apoio na comunidade.",
+    "00:04:37,00:04:38": "Obrigada.",
+    "00:04:44,00:04:44": ".",
+    "00:04:46,00:04:47": "Tchim, bom, bom.",
+    "00:07:18,00:07:18": "Atenção!",
+    "00:07:56,00:07:59": "Não.",
+    "00:08:27,00:08:27": ".",
+    "00:08:30,00:08:30": "Obrigado.",
+    "00:09:09,00:09:15": "Eu vou caminhando, sendo letra do pernil. Eu vou caminhando, sendo letra do pernil.",
+    "00:09:25,00:09:26": "Atenção!",
+    "00:09:30,00:09:32": "Obrigada.",
+    "00:09:36,00:09:39": "E, por isso, eu vou deixar a linha na tela.",
+    "00:09:43,00:09:44": "Não, não vai dar tudo.",
+    "00:12:14,00:12:14": "Valeu!",
+    "00:12:41,00:12:41": "Cais do...",
+    "00:14:44,00:14:45": "Obrigada.",
+    "00:15:01,00:15:01": "Atenção!",
+    "00:15:42,00:15:42": ".",
+    "00:17:04,00:17:05": "Atenção!",
+    "00:17:24,00:17:24": "Obrigado.",
+    "00:17:27,00:17:31": "Acompanhe o programa em português.",
+    "00:17:35,00:17:35": "Obrigado.",
+    "00:18:51,00:18:51": "Atenção!",
+    "00:19:29,00:19:30": "Não se esqueça de se inscrever no canal.",
+    "00:20:04,00:20:05": "Não há mais nada.",
+    "00:21:23,00:21:23": "Obrigado.",
+    "00:23:47,00:23:47": "Não.",
+    "00:24:12,00:24:12": "É possível?",
+    "00:27:54,00:27:55": ".",
+    "00:33:19,00:33:20": "Obrigada, bom...",
+    "00:33:46,00:33:47": "Somente a que eu já..."
+  },
+  "words": [
+    {
+      "start": 0.13,
+      "end": 0.39,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 0.39,
+      "end": 0.55,
+      "text": "a"
+    },
+    {
+      "start": 0.55,
+      "end": 0.71,
+      "text": "todos"
+    },
+    {
+      "start": 0.71,
+      "end": 0.93,
+      "text": "os"
+    },
+    {
+      "start": 0.93,
+      "end": 1.13,
+      "text": "que"
+    },
+    {
+      "start": 1.13,
+      "end": 2.01,
+      "text": "participaram."
+    },
+    {
+      "start": 211.87,
+      "end": 212.07,
+      "text": "Apoio"
+    },
+    {
+      "start": 212.07,
+      "end": 212.17,
+      "text": "na"
+    },
+    {
+      "start": 212.17,
+      "end": 212.69,
+      "text": "comunidade."
+    },
+    {
+      "start": 277.66,
+      "end": 278.36,
+      "text": "Obrigada."
+    },
+    {
+      "start": 284.51,
+      "end": 284.69,
+      "text": "."
+    },
+    {
+      "start": 286.95,
+      "end": 287.21,
+      "text": "Tchim,"
+    },
+    {
+      "start": 287.25,
+      "end": 287.49,
+      "text": "bom,"
+    },
+    {
+      "start": 287.55,
+      "end": 287.73,
+      "text": "bom."
+    },
+    {
+      "start": 438.08,
+      "end": 438.4,
+      "text": "Atenção!"
+    },
+    {
+      "start": 476.45,
+      "end": 479.03,
+      "text": "Não."
+    },
+    {
+      "start": 507.59,
+      "end": 507.89,
+      "text": "."
+    },
+    {
+      "start": 510.18,
+      "end": 510.66,
+      "text": "Obrigado."
+    },
+    {
+      "start": 549.22,
+      "end": 549.5,
+      "text": "Eu"
+    },
+    {
+      "start": 549.5,
+      "end": 549.8,
+      "text": "vou"
+    },
+    {
+      "start": 549.8,
+      "end": 550.7,
+      "text": "caminhando,"
+    },
+    {
+      "start": 550.7,
+      "end": 551.22,
+      "text": "sendo"
+    },
+    {
+      "start": 551.22,
+      "end": 551.7,
+      "text": "letra"
+    },
+    {
+      "start": 551.7,
+      "end": 551.84,
+      "text": "do"
+    },
+    {
+      "start": 551.84,
+      "end": 552.26,
+      "text": "pernil."
+    },
+    {
+      "start": 552.98,
+      "end": 553.74,
+      "text": "Eu"
+    },
+    {
+      "start": 553.74,
+      "end": 554.02,
+      "text": "vou"
+    },
+    {
+      "start": 554.02,
+      "end": 554.7,
+      "text": "caminhando,"
+    },
+    {
+      "start": 554.7,
+      "end": 555.04,
+      "text": "sendo"
+    },
+    {
+      "start": 555.04,
+      "end": 555.48,
+      "text": "letra"
+    },
+    {
+      "start": 555.48,
+      "end": 555.48,
+      "text": "do"
+    },
+    {
+      "start": 555.48,
+      "end": 555.48,
+      "text": "pernil."
+    },
+    {
+      "start": 565.92,
+      "end": 566.3,
+      "text": "Atenção!"
+    },
+    {
+      "start": 570.86,
+      "end": 572.04,
+      "text": "Obrigada."
+    },
+    {
+      "start": 576.74,
+      "end": 577.24,
+      "text": "E,"
+    },
+    {
+      "start": 577.26,
+      "end": 577.34,
+      "text": "por"
+    },
+    {
+      "start": 577.34,
+      "end": 577.56,
+      "text": "isso,"
+    },
+    {
+      "start": 577.74,
+      "end": 577.86,
+      "text": "eu"
+    },
+    {
+      "start": 577.86,
+      "end": 578.36,
+      "text": "vou"
+    },
+    {
+      "start": 578.36,
+      "end": 578.52,
+      "text": "deixar"
+    },
+    {
+      "start": 578.52,
+      "end": 578.66,
+      "text": "a"
+    },
+    {
+      "start": 578.66,
+      "end": 578.86,
+      "text": "linha"
+    },
+    {
+      "start": 578.86,
+      "end": 579.08,
+      "text": "na"
+    },
+    {
+      "start": 579.08,
+      "end": 579.36,
+      "text": "tela."
+    },
+    {
+      "start": 583.23,
+      "end": 583.37,
+      "text": "Não,"
+    },
+    {
+      "start": 583.37,
+      "end": 583.51,
+      "text": "não"
+    },
+    {
+      "start": 583.51,
+      "end": 583.71,
+      "text": "vai"
+    },
+    {
+      "start": 583.71,
+      "end": 583.89,
+      "text": "dar"
+    },
+    {
+      "start": 583.89,
+      "end": 584.17,
+      "text": "tudo."
+    },
+    {
+      "start": 734.56,
+      "end": 734.88,
+      "text": "Valeu!"
+    },
+    {
+      "start": 761.19,
+      "end": 761.49,
+      "text": "Cais"
+    },
+    {
+      "start": 761.49,
+      "end": 761.79,
+      "text": "do..."
+    },
+    {
+      "start": 884.59,
+      "end": 885.59,
+      "text": "Obrigada."
+    },
+    {
+      "start": 901.12,
+      "end": 901.88,
+      "text": "Atenção!"
+    },
+    {
+      "start": 942.21,
+      "end": 942.51,
+      "text": "."
+    },
+    {
+      "start": 1024.07,
+      "end": 1025.25,
+      "text": "Atenção!"
+    },
+    {
+      "start": 1044.39,
+      "end": 1044.63,
+      "text": "Obrigado."
+    },
+    {
+      "start": 1047.59,
+      "end": 1048.33,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 1048.33,
+      "end": 1048.55,
+      "text": "o"
+    },
+    {
+      "start": 1048.55,
+      "end": 1050.25,
+      "text": "programa"
+    },
+    {
+      "start": 1050.25,
+      "end": 1050.25,
+      "text": "em"
+    },
+    {
+      "start": 1050.25,
+      "end": 1051.09,
+      "text": "português."
+    },
+    {
+      "start": 1055.23,
+      "end": 1055.77,
+      "text": "Obrigado."
+    },
+    {
+      "start": 1131.07,
+      "end": 1131.81,
+      "text": "Atenção!"
+    },
+    {
+      "start": 1169.51,
+      "end": 1169.51,
+      "text": "Não"
+    },
+    {
+      "start": 1169.51,
+      "end": 1169.51,
+      "text": "se"
+    },
+    {
+      "start": 1169.51,
+      "end": 1169.77,
+      "text": "esqueça"
+    },
+    {
+      "start": 1169.77,
+      "end": 1169.85,
+      "text": "de"
+    },
+    {
+      "start": 1169.85,
+      "end": 1169.85,
+      "text": "se"
+    },
+    {
+      "start": 1169.85,
+      "end": 1169.85,
+      "text": "inscrever"
+    },
+    {
+      "start": 1169.85,
+      "end": 1169.85,
+      "text": "no"
+    },
+    {
+      "start": 1169.85,
+      "end": 1170.03,
+      "text": "canal."
+    },
+    {
+      "start": 1204.23,
+      "end": 1204.31,
+      "text": "Não"
+    },
+    {
+      "start": 1204.31,
+      "end": 1204.49,
+      "text": "há"
+    },
+    {
+      "start": 1204.49,
+      "end": 1204.97,
+      "text": "mais"
+    },
+    {
+      "start": 1204.97,
+      "end": 1205.25,
+      "text": "nada."
+    },
+    {
+      "start": 1283.01,
+      "end": 1283.45,
+      "text": "Obrigado."
+    },
+    {
+      "start": 1427.71,
+      "end": 1427.89,
+      "text": "Não."
+    },
+    {
+      "start": 1452.23,
+      "end": 1452.33,
+      "text": "É"
+    },
+    {
+      "start": 1452.33,
+      "end": 1452.57,
+      "text": "possível?"
+    },
+    {
+      "start": 1674.79,
+      "end": 1675.03,
+      "text": "."
+    },
+    {
+      "start": 1999.75,
+      "end": 2000.19,
+      "text": "Obrigada,"
+    },
+    {
+      "start": 2000.19,
+      "end": 2000.69,
+      "text": "bom..."
+    },
+    {
+      "start": 2026.66,
+      "end": 2026.96,
+      "text": "Somente"
+    },
+    {
+      "start": 2026.96,
+      "end": 2027.04,
+      "text": "a"
+    },
+    {
+      "start": 2027.04,
+      "end": 2027.12,
+      "text": "que"
+    },
+    {
+      "start": 2027.12,
+      "end": 2027.26,
+      "text": "eu"
+    },
+    {
+      "start": 2027.26,
+      "end": 2027.56,
+      "text": "já..."
+    }
+  ]
+}

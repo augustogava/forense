@@ -1,0 +1,8 @@
+{
+  "source_file": "Banhocedo1005_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 194.2,
+  "segments": {},
+  "hallucinations_filtered": 1
+}

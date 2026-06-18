@@ -1,0 +1,29 @@
+{
+  "source_file": "VOR20260513091812_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.1,
+  "segments": {
+    "00:37:16,00:37:50": "A CIDADE NOVA"
+  },
+  "words": [
+    {
+      "start": 2236.78,
+      "end": 2237.0,
+      "text": "A",
+      "probability": 0.077
+    },
+    {
+      "start": 2268.77,
+      "end": 2269.41,
+      "text": "CIDADE",
+      "probability": 0.653
+    },
+    {
+      "start": 2269.41,
+      "end": 2270.53,
+      "text": "NOVA",
+      "probability": 0.49
+    }
+  ]
+}

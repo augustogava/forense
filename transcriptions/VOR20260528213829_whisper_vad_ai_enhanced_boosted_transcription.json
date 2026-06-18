@@ -1,0 +1,1663 @@
+{
+  "source_file": "VOR20260528213829_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:02": "Não há problema.",
+    "00:00:07,00:00:08": "Obrigado.",
+    "00:03:30,00:03:30": "Não!",
+    "00:03:36,00:03:36": "Até mais!",
+    "00:03:44,00:03:45": "Não me engana!",
+    "00:04:01,00:04:02": "Não há problema.",
+    "00:04:09,00:04:10": "Não é possível.",
+    "00:04:24,00:04:26": "Agradecimentos a todos os que assistiram até aqui.",
+    "00:04:26,00:04:27": "Até a próxima!",
+    "00:04:34,00:04:34": "Pergunte-me.",
+    "00:04:48,00:04:49": "Não é possível!",
+    "00:04:53,00:04:53": "Não há descanso.",
+    "00:04:57,00:04:58": "Não se preocupe com os atores, nada bem?",
+    "00:05:04,00:05:04": "O que é o que?",
+    "00:05:07,00:05:08": "Um abraço.",
+    "00:05:11,00:05:11": "Obrigado.",
+    "00:05:17,00:05:21": "Não, não é perigoso, não é perigoso, não é perigoso.",
+    "00:05:27,00:05:28": "Obrigado.",
+    "00:05:33,00:05:38": "A minha atitude é a seguinte, eu não me lembro o que eu fiz comigo.",
+    "00:05:44,00:05:47": "E... ter como voltar.",
+    "00:05:51,00:05:55": "Acompanhe o programa em todos os lugares.",
+    "00:05:57,00:06:04": "Acompanhe o vídeo em sua rede social e no seu celular.",
+    "00:06:06,00:06:08": "Não é possível, não é possível, é impossível.",
+    "00:06:14,00:06:16": "E o que você achou, Filipe?",
+    "00:06:17,00:06:19": "Eu gostei muito do que você falou.",
+    "00:06:19,00:06:20": "Eu gostei muito do que você falou.",
+    "00:06:30,00:06:31": "Obrigado.",
+    "00:06:36,00:06:38": "O problema é que está no detalhe.",
+    "00:06:42,00:06:43": "Tchau.",
+    "00:06:46,00:06:50": "É preciso saber tudo, e de um bom contrário, não é?",
+    "00:06:59,00:07:04": "Eu vou fazer uma análise do meu trabalho, inclusive, e vou ver se...",
+    "00:07:14,00:07:15": "Seja bem-vindo.",
+    "00:07:15,00:07:16": "É isso que eu quero dizer.",
+    "00:07:19,00:07:21": "Em geral, não é possível...",
+    "00:07:33,00:07:34": "O que vai vir a fazer o mundo?",
+    "00:07:37,00:07:39": "Não sei se vai vir mais um vídeo para isso.",
+    "00:07:43,00:07:44": "Valeu!",
+    "00:07:51,00:07:52": "Vou te dar em breve.",
+    "00:07:56,00:07:57": "Muito obrigado, Carlos.",
+    "00:08:01,00:08:02": "Não há mais isso.",
+    "00:08:03,00:08:05": "Não há mais nada.",
+    "00:08:06,00:08:07": "Não há mais nada.",
+    "00:08:21,00:08:21": "Obrigado.",
+    "00:08:27,00:08:30": "Agradecimentos a todos os que assistiram até o final.",
+    "00:08:36,00:08:38": "Não se esqueça de assinar o canal e deixar o seu like.",
+    "00:08:46,00:08:47": "Não existe essa violência.",
+    "00:08:50,00:08:50": "Oito.",
+    "00:08:52,00:08:54": "Não é isso, não.",
+    "00:09:04,00:09:05": "É a resposta do meu dinheiro.",
+    "00:09:20,00:09:20": "Desculpe, senhor presidente.",
+    "00:09:29,00:09:29": "Não é possível.",
+    "00:09:32,00:09:33": "Obrigado.",
+    "00:09:54,00:09:57": "O que é o sexo em palavrões?",
+    "00:10:03,00:10:05": "Acompanhe a transmissão em português.",
+    "00:10:09,00:10:12": "Não há violência em esta educação do povo.",
+    "00:10:24,00:10:25": "O problema é que o livro...",
+    "00:10:43,00:10:44": "O que você precisa de um homem?",
+    "00:11:06,00:11:07": "Atenção!",
+    "00:13:18,00:13:18": ".",
+    "00:18:06,00:18:07": "O que é o sexo?",
+    "00:22:48,00:22:49": ".",
+    "00:27:35,00:27:36": "Não é possível!",
+    "00:31:27,00:31:27": "Não!",
+    "00:32:31,00:32:31": ".",
+    "00:35:23,00:35:23": "Obrigado.",
+    "00:35:29,00:35:30": "Assino.",
+    "00:37:19,00:37:21": "Não há dúvida.",
+    "00:38:47,00:38:48": "E aí",
+    "00:40:18,00:40:18": ".",
+    "00:44:57,00:44:57": ".",
+    "00:45:01,00:45:02": "Não!",
+    "00:49:54,00:49:55": "Atenção!",
+    "00:57:00,00:57:01": "Obrigado."
+  },
+  "explicit_segments": {
+    "00:08:46,00:08:47": "Não existe essa violência.",
+    "00:09:54,00:09:57": "O que é o sexo em palavrões?",
+    "00:10:09,00:10:12": "Não há violência em esta educação do povo."
+  },
+  "explicit_count": 3,
+  "words": [
+    {
+      "start": 0.74,
+      "end": 0.86,
+      "text": "Não"
+    },
+    {
+      "start": 0.86,
+      "end": 1.24,
+      "text": "há"
+    },
+    {
+      "start": 1.24,
+      "end": 2.1,
+      "text": "problema."
+    },
+    {
+      "start": 7.68,
+      "end": 8.06,
+      "text": "Obrigado."
+    },
+    {
+      "start": 210.72,
+      "end": 210.98,
+      "text": "Não!"
+    },
+    {
+      "start": 216.07,
+      "end": 216.21,
+      "text": "Até"
+    },
+    {
+      "start": 216.21,
+      "end": 216.27,
+      "text": "mais!"
+    },
+    {
+      "start": 224.74,
+      "end": 224.84,
+      "text": "Não"
+    },
+    {
+      "start": 224.84,
+      "end": 224.88,
+      "text": "me"
+    },
+    {
+      "start": 224.88,
+      "end": 225.42,
+      "text": "engana!"
+    },
+    {
+      "start": 241.41,
+      "end": 241.63,
+      "text": "Não"
+    },
+    {
+      "start": 241.63,
+      "end": 241.83,
+      "text": "há"
+    },
+    {
+      "start": 241.83,
+      "end": 242.03,
+      "text": "problema."
+    },
+    {
+      "start": 249.7,
+      "end": 249.86,
+      "text": "Não"
+    },
+    {
+      "start": 249.86,
+      "end": 249.86,
+      "text": "é"
+    },
+    {
+      "start": 249.86,
+      "end": 250.08,
+      "text": "possível."
+    },
+    {
+      "start": 264.32,
+      "end": 264.8,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 264.8,
+      "end": 264.84,
+      "text": "a"
+    },
+    {
+      "start": 264.84,
+      "end": 265.06,
+      "text": "todos"
+    },
+    {
+      "start": 265.06,
+      "end": 265.38,
+      "text": "os"
+    },
+    {
+      "start": 265.38,
+      "end": 265.48,
+      "text": "que"
+    },
+    {
+      "start": 265.48,
+      "end": 266.46,
+      "text": "assistiram"
+    },
+    {
+      "start": 266.46,
+      "end": 266.5,
+      "text": "até"
+    },
+    {
+      "start": 266.5,
+      "end": 266.5,
+      "text": "aqui."
+    },
+    {
+      "start": 266.52,
+      "end": 267.08,
+      "text": "Até"
+    },
+    {
+      "start": 267.08,
+      "end": 267.44,
+      "text": "a"
+    },
+    {
+      "start": 267.44,
+      "end": 267.46,
+      "text": "próxima!"
+    },
+    {
+      "start": 274.02,
+      "end": 274.42,
+      "text": "Pergunte"
+    },
+    {
+      "start": 274.42,
+      "end": 274.58,
+      "text": "-me."
+    },
+    {
+      "start": 288.9,
+      "end": 289.02,
+      "text": "Não"
+    },
+    {
+      "start": 289.02,
+      "end": 289.12,
+      "text": "é"
+    },
+    {
+      "start": 289.12,
+      "end": 289.32,
+      "text": "possível!"
+    },
+    {
+      "start": 293.09,
+      "end": 293.21,
+      "text": "Não"
+    },
+    {
+      "start": 293.21,
+      "end": 293.29,
+      "text": "há"
+    },
+    {
+      "start": 293.29,
+      "end": 293.95,
+      "text": "descanso."
+    },
+    {
+      "start": 297.22,
+      "end": 297.3,
+      "text": "Não"
+    },
+    {
+      "start": 297.3,
+      "end": 297.52,
+      "text": "se"
+    },
+    {
+      "start": 297.52,
+      "end": 297.68,
+      "text": "preocupe"
+    },
+    {
+      "start": 297.68,
+      "end": 297.78,
+      "text": "com"
+    },
+    {
+      "start": 297.78,
+      "end": 297.84,
+      "text": "os"
+    },
+    {
+      "start": 297.84,
+      "end": 298.16,
+      "text": "atores,"
+    },
+    {
+      "start": 298.2,
+      "end": 298.48,
+      "text": "nada"
+    },
+    {
+      "start": 298.48,
+      "end": 298.74,
+      "text": "bem?"
+    },
+    {
+      "start": 304.39,
+      "end": 304.49,
+      "text": "O"
+    },
+    {
+      "start": 304.49,
+      "end": 304.53,
+      "text": "que"
+    },
+    {
+      "start": 304.53,
+      "end": 304.67,
+      "text": "é"
+    },
+    {
+      "start": 304.67,
+      "end": 304.77,
+      "text": "o"
+    },
+    {
+      "start": 304.77,
+      "end": 304.83,
+      "text": "que?"
+    },
+    {
+      "start": 307.46,
+      "end": 307.62,
+      "text": "Um"
+    },
+    {
+      "start": 307.62,
+      "end": 308.22,
+      "text": "abraço."
+    },
+    {
+      "start": 311.36,
+      "end": 311.76,
+      "text": "Obrigado."
+    },
+    {
+      "start": 317.86,
+      "end": 318.3,
+      "text": "Não,"
+    },
+    {
+      "start": 318.36,
+      "end": 318.86,
+      "text": "não"
+    },
+    {
+      "start": 318.86,
+      "end": 319.14,
+      "text": "é"
+    },
+    {
+      "start": 319.14,
+      "end": 319.66,
+      "text": "perigoso,"
+    },
+    {
+      "start": 319.78,
+      "end": 320.24,
+      "text": "não"
+    },
+    {
+      "start": 320.24,
+      "end": 320.42,
+      "text": "é"
+    },
+    {
+      "start": 320.42,
+      "end": 320.68,
+      "text": "perigoso,"
+    },
+    {
+      "start": 320.84,
+      "end": 320.84,
+      "text": "não"
+    },
+    {
+      "start": 320.84,
+      "end": 321.1,
+      "text": "é"
+    },
+    {
+      "start": 321.1,
+      "end": 321.78,
+      "text": "perigoso."
+    },
+    {
+      "start": 327.53,
+      "end": 328.93,
+      "text": "Obrigado."
+    },
+    {
+      "start": 333.54,
+      "end": 333.6,
+      "text": "A"
+    },
+    {
+      "start": 333.6,
+      "end": 333.74,
+      "text": "minha"
+    },
+    {
+      "start": 333.74,
+      "end": 334.44,
+      "text": "atitude"
+    },
+    {
+      "start": 334.44,
+      "end": 334.94,
+      "text": "é"
+    },
+    {
+      "start": 334.94,
+      "end": 336.24,
+      "text": "a"
+    },
+    {
+      "start": 336.24,
+      "end": 336.64,
+      "text": "seguinte,"
+    },
+    {
+      "start": 336.64,
+      "end": 337.02,
+      "text": "eu"
+    },
+    {
+      "start": 337.02,
+      "end": 337.14,
+      "text": "não"
+    },
+    {
+      "start": 337.14,
+      "end": 337.3,
+      "text": "me"
+    },
+    {
+      "start": 337.3,
+      "end": 337.54,
+      "text": "lembro"
+    },
+    {
+      "start": 337.54,
+      "end": 337.68,
+      "text": "o"
+    },
+    {
+      "start": 337.68,
+      "end": 337.78,
+      "text": "que"
+    },
+    {
+      "start": 337.78,
+      "end": 337.92,
+      "text": "eu"
+    },
+    {
+      "start": 337.92,
+      "end": 338.1,
+      "text": "fiz"
+    },
+    {
+      "start": 338.1,
+      "end": 338.32,
+      "text": "comigo."
+    },
+    {
+      "start": 344.61,
+      "end": 345.51,
+      "text": "E..."
+    },
+    {
+      "start": 345.51,
+      "end": 346.21,
+      "text": "ter"
+    },
+    {
+      "start": 346.21,
+      "end": 346.65,
+      "text": "como"
+    },
+    {
+      "start": 346.65,
+      "end": 347.27,
+      "text": "voltar."
+    },
+    {
+      "start": 351.04,
+      "end": 351.48,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 351.48,
+      "end": 351.68,
+      "text": "o"
+    },
+    {
+      "start": 351.68,
+      "end": 351.68,
+      "text": "programa"
+    },
+    {
+      "start": 351.68,
+      "end": 351.84,
+      "text": "em"
+    },
+    {
+      "start": 351.84,
+      "end": 352.32,
+      "text": "todos"
+    },
+    {
+      "start": 352.32,
+      "end": 352.44,
+      "text": "os"
+    },
+    {
+      "start": 352.44,
+      "end": 355.96,
+      "text": "lugares."
+    },
+    {
+      "start": 357.83,
+      "end": 358.19,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 358.19,
+      "end": 358.19,
+      "text": "o"
+    },
+    {
+      "start": 358.19,
+      "end": 358.43,
+      "text": "vídeo"
+    },
+    {
+      "start": 358.43,
+      "end": 358.99,
+      "text": "em"
+    },
+    {
+      "start": 358.99,
+      "end": 361.13,
+      "text": "sua"
+    },
+    {
+      "start": 361.13,
+      "end": 361.43,
+      "text": "rede"
+    },
+    {
+      "start": 361.43,
+      "end": 362.13,
+      "text": "social"
+    },
+    {
+      "start": 362.13,
+      "end": 362.23,
+      "text": "e"
+    },
+    {
+      "start": 362.23,
+      "end": 363.63,
+      "text": "no"
+    },
+    {
+      "start": 363.63,
+      "end": 364.19,
+      "text": "seu"
+    },
+    {
+      "start": 364.19,
+      "end": 364.63,
+      "text": "celular."
+    },
+    {
+      "start": 366.5,
+      "end": 366.68,
+      "text": "Não"
+    },
+    {
+      "start": 366.68,
+      "end": 366.9,
+      "text": "é"
+    },
+    {
+      "start": 366.9,
+      "end": 367.22,
+      "text": "possível,"
+    },
+    {
+      "start": 367.34,
+      "end": 367.5,
+      "text": "não"
+    },
+    {
+      "start": 367.5,
+      "end": 367.66,
+      "text": "é"
+    },
+    {
+      "start": 367.66,
+      "end": 367.82,
+      "text": "possível,"
+    },
+    {
+      "start": 368.04,
+      "end": 368.12,
+      "text": "é"
+    },
+    {
+      "start": 368.12,
+      "end": 368.66,
+      "text": "impossível."
+    },
+    {
+      "start": 374.83,
+      "end": 374.97,
+      "text": "E"
+    },
+    {
+      "start": 374.97,
+      "end": 375.01,
+      "text": "o"
+    },
+    {
+      "start": 375.01,
+      "end": 375.19,
+      "text": "que"
+    },
+    {
+      "start": 375.19,
+      "end": 375.43,
+      "text": "você"
+    },
+    {
+      "start": 375.43,
+      "end": 375.85,
+      "text": "achou,"
+    },
+    {
+      "start": 375.85,
+      "end": 376.53,
+      "text": "Filipe?"
+    },
+    {
+      "start": 377.21,
+      "end": 377.63,
+      "text": "Eu"
+    },
+    {
+      "start": 377.63,
+      "end": 378.07,
+      "text": "gostei"
+    },
+    {
+      "start": 378.07,
+      "end": 378.55,
+      "text": "muito"
+    },
+    {
+      "start": 378.55,
+      "end": 378.55,
+      "text": "do"
+    },
+    {
+      "start": 378.55,
+      "end": 378.61,
+      "text": "que"
+    },
+    {
+      "start": 378.61,
+      "end": 379.17,
+      "text": "você"
+    },
+    {
+      "start": 379.17,
+      "end": 379.71,
+      "text": "falou."
+    },
+    {
+      "start": 379.71,
+      "end": 380.17,
+      "text": "Eu"
+    },
+    {
+      "start": 380.17,
+      "end": 380.47,
+      "text": "gostei"
+    },
+    {
+      "start": 380.47,
+      "end": 380.47,
+      "text": "muito"
+    },
+    {
+      "start": 380.47,
+      "end": 380.63,
+      "text": "do"
+    },
+    {
+      "start": 380.63,
+      "end": 380.63,
+      "text": "que"
+    },
+    {
+      "start": 380.63,
+      "end": 380.63,
+      "text": "você"
+    },
+    {
+      "start": 380.63,
+      "end": 380.93,
+      "text": "falou."
+    },
+    {
+      "start": 390.79,
+      "end": 391.49,
+      "text": "Obrigado."
+    },
+    {
+      "start": 396.29,
+      "end": 396.35,
+      "text": "O"
+    },
+    {
+      "start": 396.35,
+      "end": 396.61,
+      "text": "problema"
+    },
+    {
+      "start": 396.61,
+      "end": 396.73,
+      "text": "é"
+    },
+    {
+      "start": 396.73,
+      "end": 396.87,
+      "text": "que"
+    },
+    {
+      "start": 396.87,
+      "end": 397.19,
+      "text": "está"
+    },
+    {
+      "start": 397.19,
+      "end": 397.77,
+      "text": "no"
+    },
+    {
+      "start": 397.77,
+      "end": 398.59,
+      "text": "detalhe."
+    },
+    {
+      "start": 402.31,
+      "end": 403.71,
+      "text": "Tchau."
+    },
+    {
+      "start": 406.95,
+      "end": 407.05,
+      "text": "É"
+    },
+    {
+      "start": 407.05,
+      "end": 407.17,
+      "text": "preciso"
+    },
+    {
+      "start": 407.17,
+      "end": 407.61,
+      "text": "saber"
+    },
+    {
+      "start": 407.61,
+      "end": 407.97,
+      "text": "tudo,"
+    },
+    {
+      "start": 407.97,
+      "end": 408.71,
+      "text": "e"
+    },
+    {
+      "start": 408.71,
+      "end": 408.99,
+      "text": "de"
+    },
+    {
+      "start": 408.99,
+      "end": 409.13,
+      "text": "um"
+    },
+    {
+      "start": 409.13,
+      "end": 409.33,
+      "text": "bom"
+    },
+    {
+      "start": 409.33,
+      "end": 409.89,
+      "text": "contrário,"
+    },
+    {
+      "start": 409.89,
+      "end": 410.11,
+      "text": "não"
+    },
+    {
+      "start": 410.11,
+      "end": 410.29,
+      "text": "é?"
+    },
+    {
+      "start": 419.55,
+      "end": 419.65,
+      "text": "Eu"
+    },
+    {
+      "start": 419.65,
+      "end": 419.81,
+      "text": "vou"
+    },
+    {
+      "start": 419.81,
+      "end": 419.99,
+      "text": "fazer"
+    },
+    {
+      "start": 419.99,
+      "end": 420.23,
+      "text": "uma"
+    },
+    {
+      "start": 420.23,
+      "end": 420.67,
+      "text": "análise"
+    },
+    {
+      "start": 420.67,
+      "end": 420.89,
+      "text": "do"
+    },
+    {
+      "start": 420.89,
+      "end": 421.05,
+      "text": "meu"
+    },
+    {
+      "start": 421.05,
+      "end": 421.53,
+      "text": "trabalho,"
+    },
+    {
+      "start": 421.53,
+      "end": 422.25,
+      "text": "inclusive,"
+    },
+    {
+      "start": 422.77,
+      "end": 423.67,
+      "text": "e"
+    },
+    {
+      "start": 423.67,
+      "end": 423.95,
+      "text": "vou"
+    },
+    {
+      "start": 423.95,
+      "end": 424.15,
+      "text": "ver"
+    },
+    {
+      "start": 424.15,
+      "end": 424.75,
+      "text": "se..."
+    },
+    {
+      "start": 434.18,
+      "end": 434.48,
+      "text": "Seja"
+    },
+    {
+      "start": 434.48,
+      "end": 434.74,
+      "text": "bem"
+    },
+    {
+      "start": 434.74,
+      "end": 435.22,
+      "text": "-vindo."
+    },
+    {
+      "start": 435.26,
+      "end": 435.56,
+      "text": "É"
+    },
+    {
+      "start": 435.56,
+      "end": 435.76,
+      "text": "isso"
+    },
+    {
+      "start": 435.76,
+      "end": 435.76,
+      "text": "que"
+    },
+    {
+      "start": 435.76,
+      "end": 435.84,
+      "text": "eu"
+    },
+    {
+      "start": 435.84,
+      "end": 436.16,
+      "text": "quero"
+    },
+    {
+      "start": 436.16,
+      "end": 436.18,
+      "text": "dizer."
+    },
+    {
+      "start": 439.87,
+      "end": 440.01,
+      "text": "Em"
+    },
+    {
+      "start": 440.01,
+      "end": 440.37,
+      "text": "geral,"
+    },
+    {
+      "start": 440.39,
+      "end": 440.63,
+      "text": "não"
+    },
+    {
+      "start": 440.63,
+      "end": 440.79,
+      "text": "é"
+    },
+    {
+      "start": 440.79,
+      "end": 441.33,
+      "text": "possível..."
+    },
+    {
+      "start": 453.19,
+      "end": 453.27,
+      "text": "O"
+    },
+    {
+      "start": 453.27,
+      "end": 453.31,
+      "text": "que"
+    },
+    {
+      "start": 453.31,
+      "end": 453.41,
+      "text": "vai"
+    },
+    {
+      "start": 453.41,
+      "end": 453.57,
+      "text": "vir"
+    },
+    {
+      "start": 453.57,
+      "end": 453.73,
+      "text": "a"
+    },
+    {
+      "start": 453.73,
+      "end": 453.87,
+      "text": "fazer"
+    },
+    {
+      "start": 453.87,
+      "end": 454.07,
+      "text": "o"
+    },
+    {
+      "start": 454.07,
+      "end": 454.35,
+      "text": "mundo?"
+    },
+    {
+      "start": 457.19,
+      "end": 457.31,
+      "text": "Não"
+    },
+    {
+      "start": 457.31,
+      "end": 457.47,
+      "text": "sei"
+    },
+    {
+      "start": 457.47,
+      "end": 457.63,
+      "text": "se"
+    },
+    {
+      "start": 457.63,
+      "end": 457.81,
+      "text": "vai"
+    },
+    {
+      "start": 457.81,
+      "end": 458.01,
+      "text": "vir"
+    },
+    {
+      "start": 458.01,
+      "end": 458.29,
+      "text": "mais"
+    },
+    {
+      "start": 458.29,
+      "end": 458.57,
+      "text": "um"
+    },
+    {
+      "start": 458.57,
+      "end": 458.75,
+      "text": "vídeo"
+    },
+    {
+      "start": 458.75,
+      "end": 458.97,
+      "text": "para"
+    },
+    {
+      "start": 458.97,
+      "end": 459.13,
+      "text": "isso."
+    },
+    {
+      "start": 463.78,
+      "end": 464.02,
+      "text": "Valeu!"
+    },
+    {
+      "start": 471.14,
+      "end": 471.3,
+      "text": "Vou"
+    },
+    {
+      "start": 471.3,
+      "end": 471.62,
+      "text": "te"
+    },
+    {
+      "start": 471.62,
+      "end": 471.96,
+      "text": "dar"
+    },
+    {
+      "start": 471.96,
+      "end": 472.1,
+      "text": "em"
+    },
+    {
+      "start": 472.1,
+      "end": 472.36,
+      "text": "breve."
+    },
+    {
+      "start": 476.23,
+      "end": 476.47,
+      "text": "Muito"
+    },
+    {
+      "start": 476.47,
+      "end": 476.81,
+      "text": "obrigado,"
+    },
+    {
+      "start": 476.97,
+      "end": 477.31,
+      "text": "Carlos."
+    },
+    {
+      "start": 481.95,
+      "end": 482.11,
+      "text": "Não"
+    },
+    {
+      "start": 482.11,
+      "end": 482.33,
+      "text": "há"
+    },
+    {
+      "start": 482.33,
+      "end": 482.53,
+      "text": "mais"
+    },
+    {
+      "start": 482.53,
+      "end": 482.93,
+      "text": "isso."
+    },
+    {
+      "start": 483.17,
+      "end": 483.25,
+      "text": "Não"
+    },
+    {
+      "start": 483.25,
+      "end": 483.87,
+      "text": "há"
+    },
+    {
+      "start": 483.87,
+      "end": 484.83,
+      "text": "mais"
+    },
+    {
+      "start": 484.83,
+      "end": 485.17,
+      "text": "nada."
+    },
+    {
+      "start": 486.59,
+      "end": 487.27,
+      "text": "Não"
+    },
+    {
+      "start": 487.27,
+      "end": 487.27,
+      "text": "há"
+    },
+    {
+      "start": 487.27,
+      "end": 487.27,
+      "text": "mais"
+    },
+    {
+      "start": 487.27,
+      "end": 487.27,
+      "text": "nada."
+    },
+    {
+      "start": 501.64,
+      "end": 501.98,
+      "text": "Obrigado."
+    },
+    {
+      "start": 507.14,
+      "end": 507.56,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 507.56,
+      "end": 508.14,
+      "text": "a"
+    },
+    {
+      "start": 508.14,
+      "end": 508.38,
+      "text": "todos"
+    },
+    {
+      "start": 508.38,
+      "end": 508.38,
+      "text": "os"
+    },
+    {
+      "start": 508.38,
+      "end": 508.9,
+      "text": "que"
+    },
+    {
+      "start": 508.9,
+      "end": 509.7,
+      "text": "assistiram"
+    },
+    {
+      "start": 509.7,
+      "end": 510.04,
+      "text": "até"
+    },
+    {
+      "start": 510.04,
+      "end": 510.16,
+      "text": "o"
+    },
+    {
+      "start": 510.16,
+      "end": 510.34,
+      "text": "final."
+    },
+    {
+      "start": 516.35,
+      "end": 516.45,
+      "text": "Não"
+    },
+    {
+      "start": 516.45,
+      "end": 516.59,
+      "text": "se"
+    },
+    {
+      "start": 516.59,
+      "end": 517.03,
+      "text": "esqueça"
+    },
+    {
+      "start": 517.03,
+      "end": 517.03,
+      "text": "de"
+    },
+    {
+      "start": 517.03,
+      "end": 517.53,
+      "text": "assinar"
+    },
+    {
+      "start": 517.53,
+      "end": 517.53,
+      "text": "o"
+    },
+    {
+      "start": 517.53,
+      "end": 517.71,
+      "text": "canal"
+    },
+    {
+      "start": 517.71,
+      "end": 518.09,
+      "text": "e"
+    },
+    {
+      "start": 518.09,
+      "end": 518.45,
+      "text": "deixar"
+    },
+    {
+      "start": 518.45,
+      "end": 518.53,
+      "text": "o"
+    },
+    {
+      "start": 518.53,
+      "end": 518.53,
+      "text": "seu"
+    },
+    {
+      "start": 518.53,
+      "end": 518.79,
+      "text": "like."
+    },
+    {
+      "start": 526.18,
+      "end": 526.26,
+      "text": "Não"
+    },
+    {
+      "start": 526.26,
+      "end": 526.52,
+      "text": "existe"
+    },
+    {
+      "start": 526.52,
+      "end": 526.8,
+      "text": "essa"
+    },
+    {
+      "start": 526.8,
+      "end": 527.38,
+      "text": "violência."
+    },
+    {
+      "start": 530.21,
+      "end": 530.61,
+      "text": "Oito."
+    },
+    {
+      "start": 532.96,
+      "end": 533.64,
+      "text": "Não"
+    },
+    {
+      "start": 533.64,
+      "end": 533.7,
+      "text": "é"
+    },
+    {
+      "start": 533.7,
+      "end": 533.9,
+      "text": "isso,"
+    },
+    {
+      "start": 533.96,
+      "end": 534.16,
+      "text": "não."
+    },
+    {
+      "start": 544.07,
+      "end": 544.21,
+      "text": "É"
+    },
+    {
+      "start": 544.21,
+      "end": 544.33,
+      "text": "a"
+    },
+    {
+      "start": 544.33,
+      "end": 544.91,
+      "text": "resposta"
+    },
+    {
+      "start": 544.91,
+      "end": 545.15,
+      "text": "do"
+    },
+    {
+      "start": 545.15,
+      "end": 545.39,
+      "text": "meu"
+    },
+    {
+      "start": 545.39,
+      "end": 545.73,
+      "text": "dinheiro."
+    },
+    {
+      "start": 560.03,
+      "end": 560.45,
+      "text": "Desculpe,"
+    },
+    {
+      "start": 560.47,
+      "end": 560.59,
+      "text": "senhor"
+    },
+    {
+      "start": 560.59,
+      "end": 560.91,
+      "text": "presidente."
+    },
+    {
+      "start": 569.12,
+      "end": 569.26,
+      "text": "Não"
+    },
+    {
+      "start": 569.26,
+      "end": 569.3,
+      "text": "é"
+    },
+    {
+      "start": 569.3,
+      "end": 569.56,
+      "text": "possível."
+    },
+    {
+      "start": 572.64,
+      "end": 573.36,
+      "text": "Obrigado."
+    },
+    {
+      "start": 594.73,
+      "end": 595.17,
+      "text": "O"
+    },
+    {
+      "start": 595.17,
+      "end": 595.39,
+      "text": "que"
+    },
+    {
+      "start": 595.39,
+      "end": 595.49,
+      "text": "é"
+    },
+    {
+      "start": 595.49,
+      "end": 595.61,
+      "text": "o"
+    },
+    {
+      "start": 595.61,
+      "end": 596.21,
+      "text": "sexo"
+    },
+    {
+      "start": 596.21,
+      "end": 596.43,
+      "text": "em"
+    },
+    {
+      "start": 596.43,
+      "end": 597.11,
+      "text": "palavrões?"
+    },
+    {
+      "start": 603.36,
+      "end": 603.88,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 603.88,
+      "end": 603.96,
+      "text": "a"
+    },
+    {
+      "start": 603.96,
+      "end": 604.38,
+      "text": "transmissão"
+    },
+    {
+      "start": 604.38,
+      "end": 604.38,
+      "text": "em"
+    },
+    {
+      "start": 604.38,
+      "end": 605.04,
+      "text": "português."
+    },
+    {
+      "start": 609.28,
+      "end": 609.48,
+      "text": "Não"
+    },
+    {
+      "start": 609.48,
+      "end": 609.62,
+      "text": "há"
+    },
+    {
+      "start": 609.62,
+      "end": 610.52,
+      "text": "violência"
+    },
+    {
+      "start": 610.52,
+      "end": 610.96,
+      "text": "em"
+    },
+    {
+      "start": 610.96,
+      "end": 611.26,
+      "text": "esta"
+    },
+    {
+      "start": 611.26,
+      "end": 612.06,
+      "text": "educação"
+    },
+    {
+      "start": 612.06,
+      "end": 612.34,
+      "text": "do"
+    },
+    {
+      "start": 612.34,
+      "end": 612.6,
+      "text": "povo."
+    },
+    {
+      "start": 624.51,
+      "end": 624.67,
+      "text": "O"
+    },
+    {
+      "start": 624.67,
+      "end": 624.81,
+      "text": "problema"
+    },
+    {
+      "start": 624.81,
+      "end": 625.03,
+      "text": "é"
+    },
+    {
+      "start": 625.03,
+      "end": 625.21,
+      "text": "que"
+    },
+    {
+      "start": 625.21,
+      "end": 625.37,
+      "text": "o"
+    },
+    {
+      "start": 625.37,
+      "end": 625.79,
+      "text": "livro..."
+    },
+    {
+      "start": 643.04,
+      "end": 643.04,
+      "text": "O"
+    },
+    {
+      "start": 643.04,
+      "end": 643.32,
+      "text": "que"
+    },
+    {
+      "start": 643.32,
+      "end": 643.42,
+      "text": "você"
+    },
+    {
+      "start": 643.42,
+      "end": 643.98,
+      "text": "precisa"
+    },
+    {
+      "start": 643.98,
+      "end": 644.12,
+      "text": "de"
+    },
+    {
+      "start": 644.12,
+      "end": 644.24,
+      "text": "um"
+    },
+    {
+      "start": 644.24,
+      "end": 644.5,
+      "text": "homem?"
+    },
+    {
+      "start": 666.56,
+      "end": 667.34,
+      "text": "Atenção!"
+    },
+    {
+      "start": 798.34,
+      "end": 798.5,
+      "text": "."
+    },
+    {
+      "start": 1086.51,
+      "end": 1086.95,
+      "text": "O"
+    },
+    {
+      "start": 1086.95,
+      "end": 1087.17,
+      "text": "que"
+    },
+    {
+      "start": 1087.17,
+      "end": 1087.27,
+      "text": "é"
+    },
+    {
+      "start": 1087.27,
+      "end": 1087.47,
+      "text": "o"
+    },
+    {
+      "start": 1087.47,
+      "end": 1087.93,
+      "text": "sexo?"
+    },
+    {
+      "start": 1368.8,
+      "end": 1369.04,
+      "text": "."
+    },
+    {
+      "start": 1655.97,
+      "end": 1656.51,
+      "text": "Não"
+    },
+    {
+      "start": 1656.51,
+      "end": 1656.63,
+      "text": "é"
+    },
+    {
+      "start": 1656.63,
+      "end": 1656.89,
+      "text": "possível!"
+    },
+    {
+      "start": 1887.3,
+      "end": 1887.46,
+      "text": "Não!"
+    },
+    {
+      "start": 1951.59,
+      "end": 1951.73,
+      "text": "."
+    },
+    {
+      "start": 2123.27,
+      "end": 2123.49,
+      "text": "Obrigado."
+    },
+    {
+      "start": 2129.63,
+      "end": 2130.05,
+      "text": "Assino."
+    },
+    {
+      "start": 2239.01,
+      "end": 2239.55,
+      "text": "Não"
+    },
+    {
+      "start": 2239.55,
+      "end": 2239.57,
+      "text": "há"
+    },
+    {
+      "start": 2239.57,
+      "end": 2241.35,
+      "text": "dúvida."
+    },
+    {
+      "start": 2327.11,
+      "end": 2328.49,
+      "text": "E"
+    },
+    {
+      "start": 2328.49,
+      "end": 2328.61,
+      "text": "aí"
+    },
+    {
+      "start": 2418.02,
+      "end": 2418.42,
+      "text": "."
+    },
+    {
+      "start": 2697.6,
+      "end": 2697.82,
+      "text": "."
+    },
+    {
+      "start": 2701.86,
+      "end": 2702.96,
+      "text": "Não!"
+    },
+    {
+      "start": 2994.53,
+      "end": 2995.95,
+      "text": "Atenção!"
+    },
+    {
+      "start": 3420.99,
+      "end": 3421.29,
+      "text": "Obrigado."
+    }
+  ]
+}

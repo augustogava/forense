@@ -1,0 +1,85 @@
+{
+  "source_file": "0906_noite_part004_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "01:19:53,01:19:54": "Não se esqueça de deixar seu like, compartilhar e se inscrever no canal. Até mais!"
+  },
+  "words": [
+    {
+      "start": 4793.25,
+      "end": 4793.45,
+      "text": "Não"
+    },
+    {
+      "start": 4793.45,
+      "end": 4793.51,
+      "text": "se"
+    },
+    {
+      "start": 4793.51,
+      "end": 4793.91,
+      "text": "esqueça"
+    },
+    {
+      "start": 4793.91,
+      "end": 4794.01,
+      "text": "de"
+    },
+    {
+      "start": 4794.01,
+      "end": 4794.01,
+      "text": "deixar"
+    },
+    {
+      "start": 4794.01,
+      "end": 4794.07,
+      "text": "seu"
+    },
+    {
+      "start": 4794.07,
+      "end": 4794.07,
+      "text": "like,"
+    },
+    {
+      "start": 4794.07,
+      "end": 4794.07,
+      "text": "compartilhar"
+    },
+    {
+      "start": 4794.07,
+      "end": 4794.07,
+      "text": "e"
+    },
+    {
+      "start": 4794.07,
+      "end": 4794.07,
+      "text": "se"
+    },
+    {
+      "start": 4794.07,
+      "end": 4794.07,
+      "text": "inscrever"
+    },
+    {
+      "start": 4794.07,
+      "end": 4794.07,
+      "text": "no"
+    },
+    {
+      "start": 4794.07,
+      "end": 4794.07,
+      "text": "canal."
+    },
+    {
+      "start": 4794.07,
+      "end": 4794.07,
+      "text": "Até"
+    },
+    {
+      "start": 4794.07,
+      "end": 4794.07,
+      "text": "mais!"
+    }
+  ]
+}

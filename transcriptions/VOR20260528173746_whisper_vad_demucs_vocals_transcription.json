@@ -1,0 +1,163 @@
+{
+  "source_file": "VOR20260528173746_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:23,00:00:25": "Obrigado.",
+    "00:02:18,00:02:19": "Acompanhe a edição!",
+    "00:02:28,00:02:31": "E aí",
+    "00:02:48,00:02:49": "Não há dúvida.",
+    "00:03:35,00:03:36": "Obrigado.",
+    "00:04:18,00:04:18": "Obrigado.",
+    "00:06:01,00:06:02": "Ah, que bom!",
+    "00:06:16,00:06:17": "Obrigado.",
+    "00:11:42,00:11:45": "Aos convidados ao concurso, a gente se despede.",
+    "00:13:16,00:13:17": "Atenção!",
+    "00:15:26,00:15:27": ".",
+    "00:15:32,00:15:32": ".",
+    "00:27:18,00:27:20": "Atenção!",
+    "00:30:52,00:30:53": "."
+  },
+  "words": [
+    {
+      "start": 23.87,
+      "end": 25.35,
+      "text": "Obrigado."
+    },
+    {
+      "start": 138.65,
+      "end": 139.25,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 139.25,
+      "end": 139.51,
+      "text": "a"
+    },
+    {
+      "start": 139.51,
+      "end": 139.97,
+      "text": "edição!"
+    },
+    {
+      "start": 148.71,
+      "end": 150.11,
+      "text": "E"
+    },
+    {
+      "start": 150.11,
+      "end": 151.51,
+      "text": "aí"
+    },
+    {
+      "start": 168.64,
+      "end": 168.74,
+      "text": "Não"
+    },
+    {
+      "start": 168.74,
+      "end": 168.98,
+      "text": "há"
+    },
+    {
+      "start": 168.98,
+      "end": 169.34,
+      "text": "dúvida."
+    },
+    {
+      "start": 215.58,
+      "end": 216.3,
+      "text": "Obrigado."
+    },
+    {
+      "start": 258.68,
+      "end": 258.72,
+      "text": "Obrigado."
+    },
+    {
+      "start": 361.33,
+      "end": 362.07,
+      "text": "Ah,"
+    },
+    {
+      "start": 362.07,
+      "end": 362.45,
+      "text": "que"
+    },
+    {
+      "start": 362.45,
+      "end": 362.81,
+      "text": "bom!"
+    },
+    {
+      "start": 376.55,
+      "end": 377.95,
+      "text": "Obrigado."
+    },
+    {
+      "start": 702.81,
+      "end": 702.99,
+      "text": "Aos"
+    },
+    {
+      "start": 702.99,
+      "end": 703.47,
+      "text": "convidados"
+    },
+    {
+      "start": 703.47,
+      "end": 703.67,
+      "text": "ao"
+    },
+    {
+      "start": 703.67,
+      "end": 704.05,
+      "text": "concurso,"
+    },
+    {
+      "start": 704.05,
+      "end": 704.25,
+      "text": "a"
+    },
+    {
+      "start": 704.25,
+      "end": 704.53,
+      "text": "gente"
+    },
+    {
+      "start": 704.53,
+      "end": 704.67,
+      "text": "se"
+    },
+    {
+      "start": 704.67,
+      "end": 705.05,
+      "text": "despede."
+    },
+    {
+      "start": 796.99,
+      "end": 797.67,
+      "text": "Atenção!"
+    },
+    {
+      "start": 926.85,
+      "end": 927.49,
+      "text": "."
+    },
+    {
+      "start": 932.16,
+      "end": 932.54,
+      "text": "."
+    },
+    {
+      "start": 1638.4,
+      "end": 1640.02,
+      "text": "Atenção!"
+    },
+    {
+      "start": 1852.74,
+      "end": 1853.26,
+      "text": "."
+    }
+  ]
+}

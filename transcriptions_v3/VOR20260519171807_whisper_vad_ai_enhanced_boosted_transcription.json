@@ -1,0 +1,36 @@
+{
+  "source_file": "VOR20260519171807_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.0,
+  "segments": {
+    "00:58:58,00:59:01": "1, 2, 3, 4."
+  },
+  "hallucinations_filtered": 3,
+  "words": [
+    {
+      "start": 3538.38,
+      "end": 3538.58,
+      "text": "1,",
+      "confidence": 0.132
+    },
+    {
+      "start": 3538.9,
+      "end": 3539.36,
+      "text": "2,",
+      "confidence": 0.956
+    },
+    {
+      "start": 3539.6,
+      "end": 3540.0,
+      "text": "3,",
+      "confidence": 0.91
+    },
+    {
+      "start": 3540.38,
+      "end": 3541.7,
+      "text": "4.",
+      "confidence": 0.358
+    }
+  ]
+}

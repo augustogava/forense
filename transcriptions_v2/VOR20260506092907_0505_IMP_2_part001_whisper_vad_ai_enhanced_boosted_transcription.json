@@ -1,0 +1,35 @@
+{
+  "source_file": "VOR20260506092907_0505_IMP_2_part001_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 5400.0,
+  "segments": {
+    "00:39:12,00:39:34": "O que é isso?"
+  },
+  "words": [
+    {
+      "start": 2352.5,
+      "end": 2352.86,
+      "text": "O",
+      "probability": 0.045
+    },
+    {
+      "start": 2373.7,
+      "end": 2373.82,
+      "text": "que",
+      "probability": 0.699
+    },
+    {
+      "start": 2373.82,
+      "end": 2374.0,
+      "text": "é",
+      "probability": 0.36
+    },
+    {
+      "start": 2374.0,
+      "end": 2374.14,
+      "text": "isso?",
+      "probability": 0.78
+    }
+  ]
+}

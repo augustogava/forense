@@ -1,0 +1,71 @@
+{
+  "source_file": "VOR20260603130253_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:01:48,00:01:49": "Acesse o link do vídeo em baixo.",
+    "00:23:38,00:23:39": "Não é de gozo, né?"
+  },
+  "words": [
+    {
+      "start": 108.64,
+      "end": 108.66,
+      "text": "Acesse"
+    },
+    {
+      "start": 108.66,
+      "end": 108.66,
+      "text": "o"
+    },
+    {
+      "start": 108.66,
+      "end": 108.76,
+      "text": "link"
+    },
+    {
+      "start": 108.76,
+      "end": 108.76,
+      "text": "do"
+    },
+    {
+      "start": 108.76,
+      "end": 108.86,
+      "text": "vídeo"
+    },
+    {
+      "start": 108.86,
+      "end": 109.0,
+      "text": "em"
+    },
+    {
+      "start": 109.0,
+      "end": 109.14,
+      "text": "baixo."
+    },
+    {
+      "start": 1418.79,
+      "end": 1418.89,
+      "text": "Não"
+    },
+    {
+      "start": 1418.89,
+      "end": 1419.05,
+      "text": "é"
+    },
+    {
+      "start": 1419.05,
+      "end": 1419.13,
+      "text": "de"
+    },
+    {
+      "start": 1419.13,
+      "end": 1419.57,
+      "text": "gozo,"
+    },
+    {
+      "start": 1419.59,
+      "end": 1419.67,
+      "text": "né?"
+    }
+  ]
+}

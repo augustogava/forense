@@ -1,0 +1,102 @@
+{
+  "source_file": "Quarto1105_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 7152.1,
+  "segments": {
+    "00:22:07,00:22:08": "O que é isso?",
+    "00:51:19,00:51:20": "O que é isso?",
+    "00:53:47,00:53:47": "Obrigado.",
+    "01:15:09,01:16:41": "Tchau, tchau.",
+    "01:16:53,01:16:54": "Obrigado.",
+    "01:30:44,01:30:45": "Obrigado.",
+    "01:51:52,01:51:52": "Obrigada."
+  },
+  "hallucinations_filtered": 4,
+  "words": [
+    {
+      "start": 1327.87,
+      "end": 1327.89,
+      "text": "O",
+      "confidence": 0.036
+    },
+    {
+      "start": 1327.89,
+      "end": 1328.11,
+      "text": "que",
+      "confidence": 0.439
+    },
+    {
+      "start": 1328.11,
+      "end": 1328.37,
+      "text": "é",
+      "confidence": 0.636
+    },
+    {
+      "start": 1328.37,
+      "end": 1328.39,
+      "text": "isso?",
+      "confidence": 0.826
+    },
+    {
+      "start": 3079.66,
+      "end": 3079.68,
+      "text": "O",
+      "confidence": 0.044
+    },
+    {
+      "start": 3079.68,
+      "end": 3080.32,
+      "text": "que",
+      "confidence": 0.5
+    },
+    {
+      "start": 3080.32,
+      "end": 3080.34,
+      "text": "é",
+      "confidence": 0.631
+    },
+    {
+      "start": 3080.34,
+      "end": 3080.48,
+      "text": "isso?",
+      "confidence": 0.885
+    },
+    {
+      "start": 3227.73,
+      "end": 3227.75,
+      "text": "Obrigado.",
+      "confidence": 0.372
+    },
+    {
+      "start": 4509.52,
+      "end": 4510.03,
+      "text": "Tchau,",
+      "confidence": 0.211
+    },
+    {
+      "start": 4600.69,
+      "end": 4601.87,
+      "text": "tchau.",
+      "confidence": 0.916
+    },
+    {
+      "start": 4613.63,
+      "end": 4614.39,
+      "text": "Obrigado.",
+      "confidence": 0.45
+    },
+    {
+      "start": 5444.57,
+      "end": 5445.55,
+      "text": "Obrigado.",
+      "confidence": 0.739
+    },
+    {
+      "start": 6712.21,
+      "end": 6712.56,
+      "text": "Obrigada.",
+      "confidence": 0.302
+    }
+  ]
+}

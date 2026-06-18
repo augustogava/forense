@@ -1,0 +1,121 @@
+{
+  "source_file": "VOR20260528193807_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.0,
+  "segments": {
+    "00:04:36,00:05:21": "Seja bem-vindo ao nosso canal e compartilhe este vídeo com seus amigos e amigas.",
+    "00:52:48,00:53:43": "O que é isso?"
+  },
+  "hallucinations_filtered": 17,
+  "words": [
+    {
+      "start": 276.62,
+      "end": 277.3,
+      "text": "Seja",
+      "confidence": 0.013
+    },
+    {
+      "start": 277.3,
+      "end": 277.81,
+      "text": "bem-vindo",
+      "confidence": 0.509
+    },
+    {
+      "start": 305.41,
+      "end": 305.43,
+      "text": "ao",
+      "confidence": 0.409
+    },
+    {
+      "start": 305.43,
+      "end": 305.73,
+      "text": "nosso",
+      "confidence": 0.078
+    },
+    {
+      "start": 305.73,
+      "end": 306.35,
+      "text": "canal",
+      "confidence": 0.944
+    },
+    {
+      "start": 306.35,
+      "end": 306.81,
+      "text": "e",
+      "confidence": 0.086
+    },
+    {
+      "start": 306.81,
+      "end": 308.27,
+      "text": "compartilhe",
+      "confidence": 0.307
+    },
+    {
+      "start": 311.55,
+      "end": 311.79,
+      "text": "este",
+      "confidence": 0.369
+    },
+    {
+      "start": 311.79,
+      "end": 312.03,
+      "text": "vídeo",
+      "confidence": 0.901
+    },
+    {
+      "start": 312.03,
+      "end": 312.31,
+      "text": "com",
+      "confidence": 0.571
+    },
+    {
+      "start": 312.31,
+      "end": 312.85,
+      "text": "seus",
+      "confidence": 0.769
+    },
+    {
+      "start": 313.33,
+      "end": 314.23,
+      "text": "amigos",
+      "confidence": 0.947
+    },
+    {
+      "start": 314.23,
+      "end": 314.25,
+      "text": "e",
+      "confidence": 0.421
+    },
+    {
+      "start": 318.64,
+      "end": 321.68,
+      "text": "amigas.",
+      "confidence": 0.61
+    },
+    {
+      "start": 3168.62,
+      "end": 3170.1,
+      "text": "O",
+      "confidence": 0.035
+    },
+    {
+      "start": 3223.55,
+      "end": 3223.57,
+      "text": "que",
+      "confidence": 0.527
+    },
+    {
+      "start": 3223.57,
+      "end": 3223.59,
+      "text": "é",
+      "confidence": 0.467
+    },
+    {
+      "start": 3223.59,
+      "end": 3223.61,
+      "text": "isso?",
+      "confidence": 0.81
+    }
+  ]
+}

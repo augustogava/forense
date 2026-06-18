@@ -1,0 +1,36 @@
+{
+  "source_file": "VOR20260529094058_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 2031.2,
+  "segments": {
+    "00:32:08,00:33:20": "O que é isso?"
+  },
+  "hallucinations_filtered": 2,
+  "words": [
+    {
+      "start": 1928.17,
+      "end": 1929.4,
+      "text": "O",
+      "confidence": 0.022
+    },
+    {
+      "start": 1930.45,
+      "end": 1932.34,
+      "text": "que",
+      "confidence": 0.629
+    },
+    {
+      "start": 1998.9,
+      "end": 2000.02,
+      "text": "é",
+      "confidence": 0.553
+    },
+    {
+      "start": 2000.02,
+      "end": 2000.28,
+      "text": "isso?",
+      "confidence": 0.823
+    }
+  ]
+}

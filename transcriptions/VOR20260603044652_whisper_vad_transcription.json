@@ -1,0 +1,21 @@
+{
+  "source_file": "VOR20260603044652_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:01,00:00:01": ".",
+    "00:00:07,00:00:07": "CREDITOS"
+  },
+  "words": [
+    {
+      "start": 1.89,
+      "end": 1.99,
+      "text": "."
+    },
+    {
+      "start": 7.14,
+      "end": 7.54,
+      "text": "CREDITOS"
+    }
+  ]
+}

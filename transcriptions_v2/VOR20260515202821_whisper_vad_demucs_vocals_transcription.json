@@ -1,0 +1,178 @@
+{
+  "source_file": "VOR20260515202821_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 899.8,
+  "segments": {
+    "00:10:01,00:10:03": "A gente vai ver se a gente...",
+    "00:10:04,00:10:05": "A gente...",
+    "00:10:05,00:10:08": "A gente vai ver se a gente...",
+    "00:10:08,00:10:41": "A gente vai ver se a gente...",
+    "00:12:29,00:12:38": "Tchau, tchau.",
+    "00:14:55,00:14:56": "Ah, mas..."
+  },
+  "words": [
+    {
+      "start": 601.44,
+      "end": 601.44,
+      "text": "A",
+      "probability": 0.069
+    },
+    {
+      "start": 601.44,
+      "end": 601.7,
+      "text": "gente",
+      "probability": 0.071
+    },
+    {
+      "start": 601.7,
+      "end": 601.7,
+      "text": "vai",
+      "probability": 0.481
+    },
+    {
+      "start": 601.7,
+      "end": 601.7,
+      "text": "ver",
+      "probability": 0.221
+    },
+    {
+      "start": 601.7,
+      "end": 602.12,
+      "text": "se",
+      "probability": 0.164
+    },
+    {
+      "start": 602.12,
+      "end": 602.7,
+      "text": "a",
+      "probability": 0.48
+    },
+    {
+      "start": 602.7,
+      "end": 603.44,
+      "text": "gente...",
+      "probability": 0.595
+    },
+    {
+      "start": 604.62,
+      "end": 605.44,
+      "text": "A",
+      "probability": 0.321
+    },
+    {
+      "start": 605.44,
+      "end": 605.64,
+      "text": "gente...",
+      "probability": 0.515
+    },
+    {
+      "start": 605.64,
+      "end": 606.4,
+      "text": "A",
+      "probability": 0.701
+    },
+    {
+      "start": 606.4,
+      "end": 606.76,
+      "text": "gente",
+      "probability": 0.996
+    },
+    {
+      "start": 606.76,
+      "end": 607.1,
+      "text": "vai",
+      "probability": 0.765
+    },
+    {
+      "start": 607.1,
+      "end": 607.3,
+      "text": "ver",
+      "probability": 0.896
+    },
+    {
+      "start": 607.3,
+      "end": 607.9,
+      "text": "se",
+      "probability": 0.672
+    },
+    {
+      "start": 607.9,
+      "end": 608.08,
+      "text": "a",
+      "probability": 0.648
+    },
+    {
+      "start": 608.08,
+      "end": 608.08,
+      "text": "gente...",
+      "probability": 0.967
+    },
+    {
+      "start": 608.08,
+      "end": 608.8,
+      "text": "A",
+      "probability": 0.858
+    },
+    {
+      "start": 608.8,
+      "end": 610.52,
+      "text": "gente",
+      "probability": 1.0
+    },
+    {
+      "start": 637.27,
+      "end": 637.77,
+      "text": "vai",
+      "probability": 0.842
+    },
+    {
+      "start": 637.77,
+      "end": 637.91,
+      "text": "ver",
+      "probability": 0.99
+    },
+    {
+      "start": 637.91,
+      "end": 638.13,
+      "text": "se",
+      "probability": 0.884
+    },
+    {
+      "start": 638.13,
+      "end": 638.39,
+      "text": "a",
+      "probability": 0.921
+    },
+    {
+      "start": 638.39,
+      "end": 641.27,
+      "text": "gente...",
+      "probability": 0.987
+    },
+    {
+      "start": 749.17,
+      "end": 750.57,
+      "text": "Tchau,",
+      "probability": 0.51
+    },
+    {
+      "start": 756.78,
+      "end": 758.18,
+      "text": "tchau.",
+      "probability": 0.922
+    },
+    {
+      "start": 895.83,
+      "end": 896.01,
+      "text": "Ah,",
+      "probability": 0.065
+    },
+    {
+      "start": 896.01,
+      "end": 896.91,
+      "text": "mas...",
+      "probability": 0.532
+    }
+  ]
+}

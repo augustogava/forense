@@ -1,0 +1,103 @@
+{
+  "source_file": "VOR20260513121817_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.1,
+  "segments": {
+    "00:38:50,00:38:50": "Não, pode vir.",
+    "00:38:50,00:38:54": "Eu já avisei a mãe aí pra não dar banho nele, não."
+  },
+  "hallucinations_filtered": 4,
+  "words": [
+    {
+      "start": 2330.03,
+      "end": 2330.05,
+      "text": "Não,",
+      "confidence": 0.269
+    },
+    {
+      "start": 2330.27,
+      "end": 2330.47,
+      "text": "pode",
+      "confidence": 0.957
+    },
+    {
+      "start": 2330.47,
+      "end": 2330.69,
+      "text": "vir.",
+      "confidence": 0.716
+    },
+    {
+      "start": 2330.89,
+      "end": 2331.39,
+      "text": "Eu",
+      "confidence": 0.077
+    },
+    {
+      "start": 2331.92,
+      "end": 2332.39,
+      "text": "já",
+      "confidence": 0.845
+    },
+    {
+      "start": 2332.39,
+      "end": 2332.67,
+      "text": "avisei",
+      "confidence": 0.335
+    },
+    {
+      "start": 2332.67,
+      "end": 2332.85,
+      "text": "a",
+      "confidence": 0.688
+    },
+    {
+      "start": 2332.85,
+      "end": 2332.95,
+      "text": "mãe",
+      "confidence": 0.212
+    },
+    {
+      "start": 2332.95,
+      "end": 2333.15,
+      "text": "aí",
+      "confidence": 0.161
+    },
+    {
+      "start": 2333.15,
+      "end": 2333.31,
+      "text": "pra",
+      "confidence": 0.27
+    },
+    {
+      "start": 2333.31,
+      "end": 2333.51,
+      "text": "não",
+      "confidence": 0.928
+    },
+    {
+      "start": 2333.51,
+      "end": 2333.61,
+      "text": "dar",
+      "confidence": 0.952
+    },
+    {
+      "start": 2333.61,
+      "end": 2333.95,
+      "text": "banho",
+      "confidence": 0.99
+    },
+    {
+      "start": 2333.95,
+      "end": 2334.13,
+      "text": "nele,",
+      "confidence": 0.686
+    },
+    {
+      "start": 2334.21,
+      "end": 2334.39,
+      "text": "não.",
+      "confidence": 0.906
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "source_file": "VOR20260515051356_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.0,
+  "segments": {
+    "00:55:46,00:55:49": "Tchau, tchau."
+  },
+  "words": [
+    {
+      "start": 3346.0,
+      "end": 3347.4,
+      "text": "Tchau,",
+      "probability": 0.423
+    },
+    {
+      "start": 3347.82,
+      "end": 3349.02,
+      "text": "tchau.",
+      "probability": 0.957
+    }
+  ]
+}

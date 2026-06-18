@@ -1,0 +1,171 @@
+{
+  "source_file": "VOR20260529033939_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:05:26,00:05:26": ".",
+    "00:12:32,00:12:32": ".",
+    "00:12:37,00:12:40": "Agradecimentos a todos os que participaram do evento.",
+    "00:12:43,00:12:43": "Atenção!",
+    "00:20:41,00:20:41": "Atenção!",
+    "00:33:01,00:33:01": ".",
+    "00:55:00,00:55:01": "Atenção!",
+    "00:55:08,00:55:12": "Atenção, o que está sendo comentado aqui no canal é um estudo de violência e assédio."
+  },
+  "explicit_segments": {
+    "00:55:08,00:55:12": "Atenção, o que está sendo comentado aqui no canal é um estudo de violência e assédio."
+  },
+  "explicit_count": 1,
+  "words": [
+    {
+      "start": 326.24,
+      "end": 326.46,
+      "text": "."
+    },
+    {
+      "start": 752.07,
+      "end": 752.43,
+      "text": "."
+    },
+    {
+      "start": 757.44,
+      "end": 757.8,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 757.8,
+      "end": 757.94,
+      "text": "a"
+    },
+    {
+      "start": 757.94,
+      "end": 758.5,
+      "text": "todos"
+    },
+    {
+      "start": 758.5,
+      "end": 758.72,
+      "text": "os"
+    },
+    {
+      "start": 758.72,
+      "end": 758.78,
+      "text": "que"
+    },
+    {
+      "start": 758.78,
+      "end": 759.88,
+      "text": "participaram"
+    },
+    {
+      "start": 759.88,
+      "end": 759.96,
+      "text": "do"
+    },
+    {
+      "start": 759.96,
+      "end": 760.32,
+      "text": "evento."
+    },
+    {
+      "start": 763.36,
+      "end": 763.76,
+      "text": "Atenção!"
+    },
+    {
+      "start": 1241.06,
+      "end": 1241.5,
+      "text": "Atenção!"
+    },
+    {
+      "start": 1981.22,
+      "end": 1981.62,
+      "text": "."
+    },
+    {
+      "start": 3300.71,
+      "end": 3301.45,
+      "text": "Atenção!"
+    },
+    {
+      "start": 3308.51,
+      "end": 3308.95,
+      "text": "Atenção,"
+    },
+    {
+      "start": 3308.95,
+      "end": 3308.95,
+      "text": "o"
+    },
+    {
+      "start": 3308.95,
+      "end": 3308.95,
+      "text": "que"
+    },
+    {
+      "start": 3308.95,
+      "end": 3308.95,
+      "text": "está"
+    },
+    {
+      "start": 3308.95,
+      "end": 3309.41,
+      "text": "sendo"
+    },
+    {
+      "start": 3309.41,
+      "end": 3310.05,
+      "text": "comentado"
+    },
+    {
+      "start": 3310.05,
+      "end": 3310.57,
+      "text": "aqui"
+    },
+    {
+      "start": 3310.57,
+      "end": 3310.71,
+      "text": "no"
+    },
+    {
+      "start": 3310.71,
+      "end": 3311.13,
+      "text": "canal"
+    },
+    {
+      "start": 3311.13,
+      "end": 3311.25,
+      "text": "é"
+    },
+    {
+      "start": 3311.25,
+      "end": 3311.25,
+      "text": "um"
+    },
+    {
+      "start": 3311.25,
+      "end": 3312.01,
+      "text": "estudo"
+    },
+    {
+      "start": 3312.01,
+      "end": 3312.01,
+      "text": "de"
+    },
+    {
+      "start": 3312.01,
+      "end": 3312.55,
+      "text": "violência"
+    },
+    {
+      "start": 3312.55,
+      "end": 3312.85,
+      "text": "e"
+    },
+    {
+      "start": 3312.85,
+      "end": 3312.99,
+      "text": "assédio."
+    }
+  ]
+}

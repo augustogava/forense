@@ -1,0 +1,464 @@
+{
+  "source_file": "Carro1405_whisper_vad_cut_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3969.4,
+  "segments": {
+    "00:01:34,00:01:35": "E aí, como é que foi?",
+    "00:04:31,00:04:35": "O que é isso?",
+    "00:30:53,00:30:57": "Eu não tenho como acreditar que eu tenho Deus, não.",
+    "00:31:02,00:31:03": "O que?",
+    "00:31:03,00:31:04": "O que é isso?",
+    "00:31:55,00:31:55": "Obrigado.",
+    "00:33:14,00:33:18": "Essa quinta-feira, eu coloquei no CV da Codem Curitiba,",
+    "00:34:02,00:34:20": "Deus te abençoe.",
+    "00:35:15,00:35:19": "O que é isso?",
+    "00:35:49,00:35:50": "Obrigado.",
+    "00:37:23,00:37:27": "O que é isso?",
+    "00:44:47,00:45:00": "O que é isso?",
+    "00:45:21,00:45:24": "E aí",
+    "01:02:27,01:02:35": "Ela mandou isso, aí a Gabriela disse que chegou no salto dela, do nada, assim, o salto",
+    "01:04:45,01:04:57": "Tchau, tchau."
+  },
+  "hallucinations_filtered": 61,
+  "words": [
+    {
+      "start": 94.64,
+      "end": 94.66,
+      "text": "E",
+      "confidence": 0.09
+    },
+    {
+      "start": 94.66,
+      "end": 94.94,
+      "text": "aí,",
+      "confidence": 0.592
+    },
+    {
+      "start": 94.94,
+      "end": 94.96,
+      "text": "como",
+      "confidence": 0.421
+    },
+    {
+      "start": 94.96,
+      "end": 94.98,
+      "text": "é",
+      "confidence": 0.123
+    },
+    {
+      "start": 94.98,
+      "end": 95.04,
+      "text": "que",
+      "confidence": 0.713
+    },
+    {
+      "start": 95.04,
+      "end": 95.06,
+      "text": "foi?",
+      "confidence": 0.425
+    },
+    {
+      "start": 271.84,
+      "end": 275.28,
+      "text": "O",
+      "confidence": 0.035
+    },
+    {
+      "start": 275.28,
+      "end": 275.3,
+      "text": "que",
+      "confidence": 0.612
+    },
+    {
+      "start": 275.3,
+      "end": 275.32,
+      "text": "é",
+      "confidence": 0.356
+    },
+    {
+      "start": 275.32,
+      "end": 275.34,
+      "text": "isso?",
+      "confidence": 0.81
+    },
+    {
+      "start": 1853.7,
+      "end": 1854.26,
+      "text": "Eu",
+      "confidence": 0.212
+    },
+    {
+      "start": 1854.26,
+      "end": 1854.42,
+      "text": "não",
+      "confidence": 0.359
+    },
+    {
+      "start": 1854.42,
+      "end": 1854.72,
+      "text": "tenho",
+      "confidence": 0.646
+    },
+    {
+      "start": 1854.72,
+      "end": 1855.06,
+      "text": "como",
+      "confidence": 0.172
+    },
+    {
+      "start": 1855.06,
+      "end": 1855.9,
+      "text": "acreditar",
+      "confidence": 0.507
+    },
+    {
+      "start": 1855.9,
+      "end": 1856.14,
+      "text": "que",
+      "confidence": 0.457
+    },
+    {
+      "start": 1856.14,
+      "end": 1856.2,
+      "text": "eu",
+      "confidence": 0.441
+    },
+    {
+      "start": 1856.2,
+      "end": 1856.32,
+      "text": "tenho",
+      "confidence": 0.284
+    },
+    {
+      "start": 1856.32,
+      "end": 1856.64,
+      "text": "Deus,",
+      "confidence": 0.174
+    },
+    {
+      "start": 1856.74,
+      "end": 1857.04,
+      "text": "não.",
+      "confidence": 0.754
+    },
+    {
+      "start": 1862.74,
+      "end": 1863.42,
+      "text": "O",
+      "confidence": 0.099
+    },
+    {
+      "start": 1863.42,
+      "end": 1863.74,
+      "text": "que?",
+      "confidence": 0.577
+    },
+    {
+      "start": 1863.8,
+      "end": 1864.02,
+      "text": "O",
+      "confidence": 0.048
+    },
+    {
+      "start": 1864.02,
+      "end": 1864.04,
+      "text": "que",
+      "confidence": 0.498
+    },
+    {
+      "start": 1864.04,
+      "end": 1864.42,
+      "text": "é",
+      "confidence": 0.516
+    },
+    {
+      "start": 1864.42,
+      "end": 1864.72,
+      "text": "isso?",
+      "confidence": 0.931
+    },
+    {
+      "start": 1915.66,
+      "end": 1915.68,
+      "text": "Obrigado.",
+      "confidence": 0.442
+    },
+    {
+      "start": 1994.95,
+      "end": 1995.35,
+      "text": "Essa",
+      "confidence": 0.299
+    },
+    {
+      "start": 1995.35,
+      "end": 1996.15,
+      "text": "quinta-feira,",
+      "confidence": 0.526
+    },
+    {
+      "start": 1996.17,
+      "end": 1996.29,
+      "text": "eu",
+      "confidence": 0.376
+    },
+    {
+      "start": 1996.29,
+      "end": 1996.59,
+      "text": "coloquei",
+      "confidence": 0.432
+    },
+    {
+      "start": 1996.59,
+      "end": 1996.71,
+      "text": "no",
+      "confidence": 0.207
+    },
+    {
+      "start": 1996.71,
+      "end": 1997.03,
+      "text": "CV",
+      "confidence": 0.545
+    },
+    {
+      "start": 1997.03,
+      "end": 1997.31,
+      "text": "da",
+      "confidence": 0.242
+    },
+    {
+      "start": 1997.31,
+      "end": 1997.63,
+      "text": "Codem",
+      "confidence": 0.592
+    },
+    {
+      "start": 1997.63,
+      "end": 1998.01,
+      "text": "Curitiba,",
+      "confidence": 0.318
+    },
+    {
+      "start": 2042.67,
+      "end": 2042.69,
+      "text": "Deus",
+      "confidence": 0.018
+    },
+    {
+      "start": 2042.69,
+      "end": 2042.89,
+      "text": "te",
+      "confidence": 0.339
+    },
+    {
+      "start": 2042.89,
+      "end": 2060.01,
+      "text": "abençoe.",
+      "confidence": 0.95
+    },
+    {
+      "start": 2115.83,
+      "end": 2115.85,
+      "text": "O",
+      "confidence": 0.037
+    },
+    {
+      "start": 2115.85,
+      "end": 2116.67,
+      "text": "que",
+      "confidence": 0.646
+    },
+    {
+      "start": 2116.67,
+      "end": 2116.81,
+      "text": "é",
+      "confidence": 0.418
+    },
+    {
+      "start": 2116.81,
+      "end": 2119.53,
+      "text": "isso?",
+      "confidence": 0.791
+    },
+    {
+      "start": 2149.93,
+      "end": 2150.53,
+      "text": "Obrigado.",
+      "confidence": 0.393
+    },
+    {
+      "start": 2243.28,
+      "end": 2245.62,
+      "text": "O",
+      "confidence": 0.043
+    },
+    {
+      "start": 2247.01,
+      "end": 2247.03,
+      "text": "que",
+      "confidence": 0.654
+    },
+    {
+      "start": 2247.03,
+      "end": 2247.05,
+      "text": "é",
+      "confidence": 0.721
+    },
+    {
+      "start": 2247.05,
+      "end": 2247.07,
+      "text": "isso?",
+      "confidence": 0.904
+    },
+    {
+      "start": 2687.49,
+      "end": 2687.51,
+      "text": "O",
+      "confidence": 0.05
+    },
+    {
+      "start": 2699.47,
+      "end": 2699.85,
+      "text": "que",
+      "confidence": 0.633
+    },
+    {
+      "start": 2699.85,
+      "end": 2700.07,
+      "text": "é",
+      "confidence": 0.705
+    },
+    {
+      "start": 2700.07,
+      "end": 2700.31,
+      "text": "isso?",
+      "confidence": 0.883
+    },
+    {
+      "start": 2721.23,
+      "end": 2721.49,
+      "text": "E",
+      "confidence": 0.178
+    },
+    {
+      "start": 2722.38,
+      "end": 2724.43,
+      "text": "aí",
+      "confidence": 0.961
+    },
+    {
+      "start": 3747.33,
+      "end": 3747.81,
+      "text": "Ela",
+      "confidence": 0.032
+    },
+    {
+      "start": 3747.81,
+      "end": 3748.61,
+      "text": "mandou",
+      "confidence": 0.883
+    },
+    {
+      "start": 3748.61,
+      "end": 3749.51,
+      "text": "isso,",
+      "confidence": 0.265
+    },
+    {
+      "start": 3751.89,
+      "end": 3752.03,
+      "text": "aí",
+      "confidence": 0.149
+    },
+    {
+      "start": 3752.03,
+      "end": 3752.17,
+      "text": "a",
+      "confidence": 0.197
+    },
+    {
+      "start": 3752.17,
+      "end": 3752.51,
+      "text": "Gabriela",
+      "confidence": 0.272
+    },
+    {
+      "start": 3752.51,
+      "end": 3752.67,
+      "text": "disse",
+      "confidence": 0.549
+    },
+    {
+      "start": 3752.67,
+      "end": 3752.77,
+      "text": "que",
+      "confidence": 0.912
+    },
+    {
+      "start": 3752.77,
+      "end": 3752.97,
+      "text": "chegou",
+      "confidence": 0.9
+    },
+    {
+      "start": 3752.97,
+      "end": 3753.11,
+      "text": "no",
+      "confidence": 0.514
+    },
+    {
+      "start": 3753.11,
+      "end": 3753.49,
+      "text": "salto",
+      "confidence": 0.235
+    },
+    {
+      "start": 3753.49,
+      "end": 3753.89,
+      "text": "dela,",
+      "confidence": 0.848
+    },
+    {
+      "start": 3753.93,
+      "end": 3754.19,
+      "text": "do",
+      "confidence": 0.589
+    },
+    {
+      "start": 3754.19,
+      "end": 3754.65,
+      "text": "nada,",
+      "confidence": 0.82
+    },
+    {
+      "start": 3754.73,
+      "end": 3755.05,
+      "text": "assim,",
+      "confidence": 0.875
+    },
+    {
+      "start": 3755.15,
+      "end": 3755.33,
+      "text": "o",
+      "confidence": 0.459
+    },
+    {
+      "start": 3755.33,
+      "end": 3755.65,
+      "text": "salto",
+      "confidence": 0.95
+    },
+    {
+      "start": 3885.49,
+      "end": 3889.55,
+      "text": "Tchau,",
+      "confidence": 0.205
+    },
+    {
+      "start": 3897.17,
+      "end": 3897.67,
+      "text": "tchau.",
+      "confidence": 0.936
+    }
+  ]
+}

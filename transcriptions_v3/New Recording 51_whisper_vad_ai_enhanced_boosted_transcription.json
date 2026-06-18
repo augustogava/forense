@@ -1,0 +1,135 @@
+{
+  "source_file": "New Recording 51_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 2453.0,
+  "segments": {
+    "00:09:03,00:09:08": "O que você quer dizer com isso?",
+    "00:13:46,00:13:48": "O que é isso?",
+    "00:28:14,00:28:14": "O que é que você está fazendo?",
+    "00:39:08,00:39:11": "Tchau, tchau."
+  },
+  "hallucinations_filtered": 30,
+  "words": [
+    {
+      "start": 543.84,
+      "end": 547.51,
+      "text": "O",
+      "confidence": 0.049
+    },
+    {
+      "start": 548.56,
+      "end": 548.58,
+      "text": "que",
+      "confidence": 0.68
+    },
+    {
+      "start": 548.58,
+      "end": 548.6,
+      "text": "você",
+      "confidence": 0.473
+    },
+    {
+      "start": 548.6,
+      "end": 548.62,
+      "text": "quer",
+      "confidence": 0.19
+    },
+    {
+      "start": 548.62,
+      "end": 548.64,
+      "text": "dizer",
+      "confidence": 0.584
+    },
+    {
+      "start": 548.64,
+      "end": 548.66,
+      "text": "com",
+      "confidence": 0.16
+    },
+    {
+      "start": 548.66,
+      "end": 548.68,
+      "text": "isso?",
+      "confidence": 0.848
+    },
+    {
+      "start": 826.73,
+      "end": 828.11,
+      "text": "O",
+      "confidence": 0.051
+    },
+    {
+      "start": 828.11,
+      "end": 828.13,
+      "text": "que",
+      "confidence": 0.499
+    },
+    {
+      "start": 828.13,
+      "end": 828.15,
+      "text": "é",
+      "confidence": 0.491
+    },
+    {
+      "start": 828.15,
+      "end": 828.17,
+      "text": "isso?",
+      "confidence": 0.79
+    },
+    {
+      "start": 1694.77,
+      "end": 1694.79,
+      "text": "O",
+      "confidence": 0.041
+    },
+    {
+      "start": 1694.79,
+      "end": 1694.81,
+      "text": "que",
+      "confidence": 0.645
+    },
+    {
+      "start": 1694.81,
+      "end": 1694.83,
+      "text": "é",
+      "confidence": 0.065
+    },
+    {
+      "start": 1694.83,
+      "end": 1694.85,
+      "text": "que",
+      "confidence": 0.673
+    },
+    {
+      "start": 1694.85,
+      "end": 1694.87,
+      "text": "você",
+      "confidence": 0.186
+    },
+    {
+      "start": 1694.87,
+      "end": 1694.89,
+      "text": "está",
+      "confidence": 0.453
+    },
+    {
+      "start": 1694.89,
+      "end": 1694.91,
+      "text": "fazendo?",
+      "confidence": 0.906
+    },
+    {
+      "start": 2348.85,
+      "end": 2350.66,
+      "text": "Tchau,",
+      "confidence": 0.257
+    },
+    {
+      "start": 2350.82,
+      "end": 2351.2,
+      "text": "tchau.",
+      "confidence": 0.903
+    }
+  ]
+}

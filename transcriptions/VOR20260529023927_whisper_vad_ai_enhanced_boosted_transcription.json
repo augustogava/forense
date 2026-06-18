@@ -1,0 +1,252 @@
+{
+  "source_file": "VOR20260529023927_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:01:29,00:01:30": "Abre as portas.",
+    "00:12:37,00:12:38": "Exato.",
+    "00:29:15,00:29:16": "Atenção, o atendimento é presencial e não é necessário.",
+    "00:31:24,00:31:24": "Saúde!",
+    "00:34:40,00:34:40": ".",
+    "00:35:50,00:35:50": "VIVA!",
+    "00:37:52,00:37:52": "Clareza.",
+    "00:39:00,00:39:02": "Não se esqueça de se inscrever no canal.",
+    "00:39:42,00:39:43": "Seja alovado.",
+    "00:41:34,00:41:34": "Atenção!",
+    "00:43:19,00:43:20": "Não há dúvida.",
+    "00:44:14,00:44:14": "Obrigado.",
+    "00:45:44,00:45:44": ".",
+    "00:50:20,00:50:21": "Não é possível.",
+    "00:50:30,00:50:30": "Atenção!",
+    "00:52:49,00:52:49": "CREI-ME!",
+    "00:54:58,00:54:58": "Apoio da Rádio ONU.",
+    "00:59:47,00:59:47": "."
+  },
+  "words": [
+    {
+      "start": 89.6,
+      "end": 89.76,
+      "text": "Abre"
+    },
+    {
+      "start": 89.76,
+      "end": 89.88,
+      "text": "as"
+    },
+    {
+      "start": 89.88,
+      "end": 90.08,
+      "text": "portas."
+    },
+    {
+      "start": 757.76,
+      "end": 758.36,
+      "text": "Exato."
+    },
+    {
+      "start": 1755.11,
+      "end": 1755.31,
+      "text": "Atenção,"
+    },
+    {
+      "start": 1755.31,
+      "end": 1755.31,
+      "text": "o"
+    },
+    {
+      "start": 1755.31,
+      "end": 1755.31,
+      "text": "atendimento"
+    },
+    {
+      "start": 1755.31,
+      "end": 1755.41,
+      "text": "é"
+    },
+    {
+      "start": 1755.41,
+      "end": 1755.83,
+      "text": "presencial"
+    },
+    {
+      "start": 1755.83,
+      "end": 1756.13,
+      "text": "e"
+    },
+    {
+      "start": 1756.13,
+      "end": 1756.21,
+      "text": "não"
+    },
+    {
+      "start": 1756.21,
+      "end": 1756.29,
+      "text": "é"
+    },
+    {
+      "start": 1756.29,
+      "end": 1756.99,
+      "text": "necessário."
+    },
+    {
+      "start": 1884.39,
+      "end": 1884.63,
+      "text": "Saúde!"
+    },
+    {
+      "start": 2080.45,
+      "end": 2080.69,
+      "text": "."
+    },
+    {
+      "start": 2150.37,
+      "end": 2150.75,
+      "text": "VIVA!"
+    },
+    {
+      "start": 2272.26,
+      "end": 2272.58,
+      "text": "Clareza."
+    },
+    {
+      "start": 2340.61,
+      "end": 2340.69,
+      "text": "Não"
+    },
+    {
+      "start": 2340.69,
+      "end": 2340.81,
+      "text": "se"
+    },
+    {
+      "start": 2340.81,
+      "end": 2341.37,
+      "text": "esqueça"
+    },
+    {
+      "start": 2341.37,
+      "end": 2341.43,
+      "text": "de"
+    },
+    {
+      "start": 2341.43,
+      "end": 2341.43,
+      "text": "se"
+    },
+    {
+      "start": 2341.43,
+      "end": 2341.73,
+      "text": "inscrever"
+    },
+    {
+      "start": 2341.73,
+      "end": 2341.75,
+      "text": "no"
+    },
+    {
+      "start": 2341.75,
+      "end": 2342.29,
+      "text": "canal."
+    },
+    {
+      "start": 2382.75,
+      "end": 2382.87,
+      "text": "Seja"
+    },
+    {
+      "start": 2382.87,
+      "end": 2383.21,
+      "text": "alovado."
+    },
+    {
+      "start": 2494.18,
+      "end": 2494.38,
+      "text": "Atenção!"
+    },
+    {
+      "start": 2494.48,
+      "end": 2494.86,
+      "text": "Atenção!"
+    },
+    {
+      "start": 2599.62,
+      "end": 2599.72,
+      "text": "Não"
+    },
+    {
+      "start": 2599.72,
+      "end": 2599.72,
+      "text": "há"
+    },
+    {
+      "start": 2599.72,
+      "end": 2600.04,
+      "text": "dúvida."
+    },
+    {
+      "start": 2654.37,
+      "end": 2654.59,
+      "text": "Obrigado."
+    },
+    {
+      "start": 2744.29,
+      "end": 2744.59,
+      "text": "."
+    },
+    {
+      "start": 3020.39,
+      "end": 3020.75,
+      "text": "Não"
+    },
+    {
+      "start": 3020.75,
+      "end": 3020.93,
+      "text": "é"
+    },
+    {
+      "start": 3020.93,
+      "end": 3021.19,
+      "text": "possível."
+    },
+    {
+      "start": 3030.26,
+      "end": 3030.96,
+      "text": "Atenção!"
+    },
+    {
+      "start": 3169.12,
+      "end": 3169.32,
+      "text": "CREI"
+    },
+    {
+      "start": 3169.32,
+      "end": 3169.44,
+      "text": "-ME!"
+    },
+    {
+      "start": 3298.15,
+      "end": 3298.39,
+      "text": "Apoio"
+    },
+    {
+      "start": 3298.39,
+      "end": 3298.51,
+      "text": "da"
+    },
+    {
+      "start": 3298.51,
+      "end": 3298.73,
+      "text": "Rádio"
+    },
+    {
+      "start": 3298.73,
+      "end": 3298.87,
+      "text": "ONU."
+    },
+    {
+      "start": 3587.3,
+      "end": 3587.64,
+      "text": "."
+    }
+  ]
+}

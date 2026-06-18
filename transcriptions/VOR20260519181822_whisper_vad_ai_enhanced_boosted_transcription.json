@@ -1,0 +1,330 @@
+{
+  "source_file": "VOR20260519181822_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:08,00:00:08": ".",
+    "00:02:03,00:02:05": "Atenção!",
+    "00:03:12,00:03:17": "Não há nenhum caso de que o abuso seja opcional e que o abuso seja um fato.",
+    "00:03:44,00:03:44": "Não!",
+    "00:06:59,00:06:59": "O que é que é isso?",
+    "00:10:07,00:10:08": "Ainda não está vindo.",
+    "00:12:28,00:12:28": "Não há abuso.",
+    "00:14:41,00:14:42": "É tudo bom!",
+    "00:15:03,00:15:03": ".",
+    "00:15:44,00:15:46": "Não é possível falar o que você está dizendo.",
+    "00:20:54,00:20:55": ".",
+    "00:32:42,00:32:42": "Pessoal.",
+    "00:34:44,00:34:44": ".",
+    "00:35:23,00:35:23": "Morre!",
+    "00:37:22,00:37:23": "Papai!",
+    "00:40:42,00:40:42": "Atenção!",
+    "00:42:41,00:42:41": "Atenção!",
+    "00:43:42,00:43:42": ".",
+    "00:54:51,00:54:51": ".",
+    "00:57:42,00:57:44": "Atenção!",
+    "00:59:39,00:59:39": "Não é possível."
+  },
+  "explicit_segments": {
+    "00:03:12,00:03:17": "Não há nenhum caso de que o abuso seja opcional e que o abuso seja um fato.",
+    "00:12:28,00:12:28": "Não há abuso."
+  },
+  "explicit_count": 2,
+  "words": [
+    {
+      "start": 8.48,
+      "end": 8.72,
+      "text": "."
+    },
+    {
+      "start": 123.55,
+      "end": 125.55,
+      "text": "Atenção!"
+    },
+    {
+      "start": 192.83,
+      "end": 192.99,
+      "text": "Não"
+    },
+    {
+      "start": 192.99,
+      "end": 193.13,
+      "text": "há"
+    },
+    {
+      "start": 193.13,
+      "end": 193.71,
+      "text": "nenhum"
+    },
+    {
+      "start": 193.71,
+      "end": 194.31,
+      "text": "caso"
+    },
+    {
+      "start": 194.31,
+      "end": 194.83,
+      "text": "de"
+    },
+    {
+      "start": 194.83,
+      "end": 194.97,
+      "text": "que"
+    },
+    {
+      "start": 194.97,
+      "end": 195.13,
+      "text": "o"
+    },
+    {
+      "start": 195.13,
+      "end": 195.61,
+      "text": "abuso"
+    },
+    {
+      "start": 195.61,
+      "end": 195.99,
+      "text": "seja"
+    },
+    {
+      "start": 195.99,
+      "end": 196.29,
+      "text": "opcional"
+    },
+    {
+      "start": 196.29,
+      "end": 196.49,
+      "text": "e"
+    },
+    {
+      "start": 196.49,
+      "end": 196.61,
+      "text": "que"
+    },
+    {
+      "start": 196.61,
+      "end": 196.81,
+      "text": "o"
+    },
+    {
+      "start": 196.81,
+      "end": 196.99,
+      "text": "abuso"
+    },
+    {
+      "start": 196.99,
+      "end": 197.27,
+      "text": "seja"
+    },
+    {
+      "start": 197.27,
+      "end": 197.45,
+      "text": "um"
+    },
+    {
+      "start": 197.45,
+      "end": 197.69,
+      "text": "fato."
+    },
+    {
+      "start": 224.71,
+      "end": 224.97,
+      "text": "Não!"
+    },
+    {
+      "start": 419.07,
+      "end": 419.15,
+      "text": "O"
+    },
+    {
+      "start": 419.15,
+      "end": 419.21,
+      "text": "que"
+    },
+    {
+      "start": 419.21,
+      "end": 419.33,
+      "text": "é"
+    },
+    {
+      "start": 419.33,
+      "end": 419.49,
+      "text": "que"
+    },
+    {
+      "start": 419.49,
+      "end": 419.49,
+      "text": "é"
+    },
+    {
+      "start": 419.49,
+      "end": 419.59,
+      "text": "isso?"
+    },
+    {
+      "start": 607.67,
+      "end": 608.07,
+      "text": "Ainda"
+    },
+    {
+      "start": 608.07,
+      "end": 608.27,
+      "text": "não"
+    },
+    {
+      "start": 608.27,
+      "end": 608.45,
+      "text": "está"
+    },
+    {
+      "start": 608.45,
+      "end": 608.89,
+      "text": "vindo."
+    },
+    {
+      "start": 748.23,
+      "end": 748.35,
+      "text": "Não"
+    },
+    {
+      "start": 748.35,
+      "end": 748.45,
+      "text": "há"
+    },
+    {
+      "start": 748.45,
+      "end": 748.91,
+      "text": "abuso."
+    },
+    {
+      "start": 881.51,
+      "end": 881.67,
+      "text": "É"
+    },
+    {
+      "start": 881.67,
+      "end": 881.79,
+      "text": "tudo"
+    },
+    {
+      "start": 881.79,
+      "end": 882.09,
+      "text": "bom!"
+    },
+    {
+      "start": 903.65,
+      "end": 903.91,
+      "text": "."
+    },
+    {
+      "start": 944.64,
+      "end": 944.78,
+      "text": "Não"
+    },
+    {
+      "start": 944.78,
+      "end": 944.82,
+      "text": "é"
+    },
+    {
+      "start": 944.82,
+      "end": 945.06,
+      "text": "possível"
+    },
+    {
+      "start": 945.06,
+      "end": 945.54,
+      "text": "falar"
+    },
+    {
+      "start": 945.54,
+      "end": 945.54,
+      "text": "o"
+    },
+    {
+      "start": 945.54,
+      "end": 945.72,
+      "text": "que"
+    },
+    {
+      "start": 945.72,
+      "end": 946.02,
+      "text": "você"
+    },
+    {
+      "start": 946.02,
+      "end": 946.28,
+      "text": "está"
+    },
+    {
+      "start": 946.28,
+      "end": 946.46,
+      "text": "dizendo."
+    },
+    {
+      "start": 1254.91,
+      "end": 1255.09,
+      "text": "."
+    },
+    {
+      "start": 1962.43,
+      "end": 1962.87,
+      "text": "Pessoal."
+    },
+    {
+      "start": 2084.45,
+      "end": 2084.75,
+      "text": "."
+    },
+    {
+      "start": 2123.75,
+      "end": 2123.99,
+      "text": "Morre!"
+    },
+    {
+      "start": 2242.82,
+      "end": 2243.24,
+      "text": "Papai!"
+    },
+    {
+      "start": 2442.08,
+      "end": 2442.78,
+      "text": "Atenção!"
+    },
+    {
+      "start": 2561.22,
+      "end": 2561.58,
+      "text": "Atenção!"
+    },
+    {
+      "start": 2622.85,
+      "end": 2622.97,
+      "text": "."
+    },
+    {
+      "start": 3291.49,
+      "end": 3291.79,
+      "text": "."
+    },
+    {
+      "start": 3462.82,
+      "end": 3464.54,
+      "text": "Atenção!"
+    },
+    {
+      "start": 3579.36,
+      "end": 3579.5,
+      "text": "Não"
+    },
+    {
+      "start": 3579.5,
+      "end": 3579.6,
+      "text": "é"
+    },
+    {
+      "start": 3579.6,
+      "end": 3579.82,
+      "text": "possível."
+    }
+  ]
+}

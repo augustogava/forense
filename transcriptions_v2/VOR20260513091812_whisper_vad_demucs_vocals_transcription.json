@@ -1,0 +1,30 @@
+{
+  "source_file": "VOR20260513091812_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.1,
+  "segments": {
+    "00:07:05,00:08:25": "E agora?",
+    "00:58:50,00:58:52": "MÚSICA"
+  },
+  "words": [
+    {
+      "start": 425.92,
+      "end": 426.74,
+      "text": "E",
+      "probability": 0.212
+    },
+    {
+      "start": 505.04,
+      "end": 505.42,
+      "text": "agora?",
+      "probability": 0.101
+    },
+    {
+      "start": 3530.84,
+      "end": 3532.24,
+      "text": "MÚSICA",
+      "probability": 0.551
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "source_file": "VOR20260528213829_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.1,
+  "segments": {
+    "00:07:34,00:07:38": "Não sei o que eu vou fazer agora, mas vou fazer.",
+    "00:37:18,00:37:20": "Eu não sei o que eu vou fazer."
+  },
+  "hallucinations_filtered": 26,
+  "words": [
+    {
+      "start": 454.46,
+      "end": 455.28,
+      "text": "Não",
+      "confidence": 0.032
+    },
+    {
+      "start": 457.24,
+      "end": 457.46,
+      "text": "sei",
+      "confidence": 0.173
+    },
+    {
+      "start": 457.46,
+      "end": 457.56,
+      "text": "o",
+      "confidence": 0.187
+    },
+    {
+      "start": 457.56,
+      "end": 457.78,
+      "text": "que",
+      "confidence": 0.974
+    },
+    {
+      "start": 457.78,
+      "end": 457.86,
+      "text": "eu",
+      "confidence": 0.588
+    },
+    {
+      "start": 457.86,
+      "end": 457.94,
+      "text": "vou",
+      "confidence": 0.436
+    },
+    {
+      "start": 457.94,
+      "end": 458.08,
+      "text": "fazer",
+      "confidence": 0.496
+    },
+    {
+      "start": 458.08,
+      "end": 458.36,
+      "text": "agora,",
+      "confidence": 0.353
+    },
+    {
+      "start": 458.36,
+      "end": 458.6,
+      "text": "mas",
+      "confidence": 0.544
+    },
+    {
+      "start": 458.6,
+      "end": 458.68,
+      "text": "vou",
+      "confidence": 0.422
+    },
+    {
+      "start": 458.68,
+      "end": 458.92,
+      "text": "fazer.",
+      "confidence": 0.423
+    },
+    {
+      "start": 2238.62,
+      "end": 2238.64,
+      "text": "Eu",
+      "confidence": 0.039
+    },
+    {
+      "start": 2238.64,
+      "end": 2238.88,
+      "text": "não",
+      "confidence": 0.393
+    },
+    {
+      "start": 2238.88,
+      "end": 2239.12,
+      "text": "sei",
+      "confidence": 0.321
+    },
+    {
+      "start": 2239.12,
+      "end": 2239.4,
+      "text": "o",
+      "confidence": 0.184
+    },
+    {
+      "start": 2239.4,
+      "end": 2239.62,
+      "text": "que",
+      "confidence": 0.976
+    },
+    {
+      "start": 2239.62,
+      "end": 2239.74,
+      "text": "eu",
+      "confidence": 0.375
+    },
+    {
+      "start": 2239.74,
+      "end": 2239.86,
+      "text": "vou",
+      "confidence": 0.379
+    },
+    {
+      "start": 2239.86,
+      "end": 2240.18,
+      "text": "fazer.",
+      "confidence": 0.603
+    }
+  ]
+}

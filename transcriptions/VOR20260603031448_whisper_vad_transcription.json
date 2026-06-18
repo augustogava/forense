@@ -1,0 +1,26 @@
+{
+  "source_file": "VOR20260603031448_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:08:16,00:08:17": "Fui desgraçado.",
+    "00:20:29,00:20:29": "."
+  },
+  "words": [
+    {
+      "start": 496.58,
+      "end": 496.72,
+      "text": "Fui"
+    },
+    {
+      "start": 496.72,
+      "end": 497.38,
+      "text": "desgraçado."
+    },
+    {
+      "start": 1229.7,
+      "end": 1229.92,
+      "text": "."
+    }
+  ]
+}

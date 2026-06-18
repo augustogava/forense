@@ -1,0 +1,35 @@
+{
+  "source_file": "VOR20260519202023_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.0,
+  "segments": {
+    "00:49:50,00:49:52": "O que é isso?"
+  },
+  "words": [
+    {
+      "start": 2990.03,
+      "end": 2990.33,
+      "text": "O",
+      "probability": 0.422
+    },
+    {
+      "start": 2991.06,
+      "end": 2991.32,
+      "text": "que",
+      "probability": 0.986
+    },
+    {
+      "start": 2991.32,
+      "end": 2991.64,
+      "text": "é",
+      "probability": 0.983
+    },
+    {
+      "start": 2991.64,
+      "end": 2992.12,
+      "text": "isso?",
+      "probability": 0.99
+    }
+  ]
+}

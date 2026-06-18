@@ -1,0 +1,376 @@
+{
+  "source_file": "VOR20260515121553_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 1286.5,
+  "segments": {
+    "00:08:31,00:08:32": "Fica aqui!",
+    "00:08:35,00:08:37": "E aí, vamos lá!",
+    "00:08:38,00:08:39": "E aí!",
+    "00:08:40,00:08:43": "E aí, eu trouxe a banheira pra você tomar banho!",
+    "00:08:55,00:08:55": "E aí!",
+    "00:10:16,00:10:17": "E aí!",
+    "00:11:08,00:11:13": "E aí, eu trouxe a banheira pra você tomar banho!",
+    "00:11:13,00:11:28": "E aí, eu trouxe a banheira pra você tomar banho!",
+    "00:12:55,00:13:04": "E todos os dias eu me abrindo, mas o fone está chegando.",
+    "00:19:36,00:19:36": "Vai lá.",
+    "00:19:45,00:19:45": "Vai lá.",
+    "00:20:40,00:20:43": "Música"
+  },
+  "words": [
+    {
+      "start": 511.12,
+      "end": 511.66,
+      "text": "Fica",
+      "probability": 0.509
+    },
+    {
+      "start": 511.66,
+      "end": 512.06,
+      "text": "aqui!",
+      "probability": 0.974
+    },
+    {
+      "start": 515.73,
+      "end": 516.27,
+      "text": "E",
+      "probability": 0.307
+    },
+    {
+      "start": 516.27,
+      "end": 516.73,
+      "text": "aí,",
+      "probability": 0.328
+    },
+    {
+      "start": 517.03,
+      "end": 517.03,
+      "text": "vamos",
+      "probability": 0.04
+    },
+    {
+      "start": 517.03,
+      "end": 517.03,
+      "text": "lá!",
+      "probability": 0.031
+    },
+    {
+      "start": 518.21,
+      "end": 518.75,
+      "text": "E",
+      "probability": 0.496
+    },
+    {
+      "start": 518.75,
+      "end": 519.13,
+      "text": "aí!",
+      "probability": 0.976
+    },
+    {
+      "start": 520.62,
+      "end": 521.16,
+      "text": "E",
+      "probability": 0.566
+    },
+    {
+      "start": 521.16,
+      "end": 521.38,
+      "text": "aí,",
+      "probability": 0.987
+    },
+    {
+      "start": 521.38,
+      "end": 521.48,
+      "text": "eu",
+      "probability": 0.143
+    },
+    {
+      "start": 521.48,
+      "end": 521.62,
+      "text": "trouxe",
+      "probability": 0.503
+    },
+    {
+      "start": 521.62,
+      "end": 521.7,
+      "text": "a",
+      "probability": 0.728
+    },
+    {
+      "start": 521.7,
+      "end": 522.06,
+      "text": "banheira",
+      "probability": 0.877
+    },
+    {
+      "start": 522.06,
+      "end": 522.24,
+      "text": "pra",
+      "probability": 0.117
+    },
+    {
+      "start": 522.24,
+      "end": 522.54,
+      "text": "você",
+      "probability": 0.803
+    },
+    {
+      "start": 522.54,
+      "end": 522.72,
+      "text": "tomar",
+      "probability": 0.876
+    },
+    {
+      "start": 522.72,
+      "end": 523.32,
+      "text": "banho!",
+      "probability": 0.995
+    },
+    {
+      "start": 535.06,
+      "end": 535.58,
+      "text": "E",
+      "probability": 0.936
+    },
+    {
+      "start": 535.58,
+      "end": 535.64,
+      "text": "aí!",
+      "probability": 0.996
+    },
+    {
+      "start": 616.82,
+      "end": 617.36,
+      "text": "E",
+      "probability": 0.917
+    },
+    {
+      "start": 617.36,
+      "end": 617.6,
+      "text": "aí!",
+      "probability": 0.998
+    },
+    {
+      "start": 668.57,
+      "end": 669.11,
+      "text": "E",
+      "probability": 0.844
+    },
+    {
+      "start": 669.11,
+      "end": 669.33,
+      "text": "aí,",
+      "probability": 0.998
+    },
+    {
+      "start": 669.39,
+      "end": 669.73,
+      "text": "eu",
+      "probability": 0.491
+    },
+    {
+      "start": 669.73,
+      "end": 669.81,
+      "text": "trouxe",
+      "probability": 0.91
+    },
+    {
+      "start": 669.81,
+      "end": 669.95,
+      "text": "a",
+      "probability": 0.764
+    },
+    {
+      "start": 669.95,
+      "end": 670.05,
+      "text": "banheira",
+      "probability": 0.887
+    },
+    {
+      "start": 672.93,
+      "end": 672.93,
+      "text": "pra",
+      "probability": 0.989
+    },
+    {
+      "start": 672.93,
+      "end": 672.93,
+      "text": "você",
+      "probability": 0.974
+    },
+    {
+      "start": 672.93,
+      "end": 673.01,
+      "text": "tomar",
+      "probability": 0.999
+    },
+    {
+      "start": 673.01,
+      "end": 673.69,
+      "text": "banho!",
+      "probability": 0.999
+    },
+    {
+      "start": 673.89,
+      "end": 674.31,
+      "text": "E",
+      "probability": 0.603
+    },
+    {
+      "start": 687.72,
+      "end": 688.16,
+      "text": "aí,",
+      "probability": 0.998
+    },
+    {
+      "start": 688.16,
+      "end": 688.32,
+      "text": "eu",
+      "probability": 0.902
+    },
+    {
+      "start": 688.32,
+      "end": 688.46,
+      "text": "trouxe",
+      "probability": 0.961
+    },
+    {
+      "start": 688.46,
+      "end": 688.54,
+      "text": "a",
+      "probability": 0.996
+    },
+    {
+      "start": 688.54,
+      "end": 688.86,
+      "text": "banheira",
+      "probability": 0.998
+    },
+    {
+      "start": 688.86,
+      "end": 688.86,
+      "text": "pra",
+      "probability": 0.991
+    },
+    {
+      "start": 688.86,
+      "end": 688.86,
+      "text": "você",
+      "probability": 0.998
+    },
+    {
+      "start": 688.86,
+      "end": 688.86,
+      "text": "tomar",
+      "probability": 0.997
+    },
+    {
+      "start": 688.86,
+      "end": 688.96,
+      "text": "banho!",
+      "probability": 0.999
+    },
+    {
+      "start": 775.82,
+      "end": 776.82,
+      "text": "E",
+      "probability": 0.09
+    },
+    {
+      "start": 780.15,
+      "end": 781.15,
+      "text": "todos",
+      "probability": 0.561
+    },
+    {
+      "start": 781.15,
+      "end": 781.55,
+      "text": "os",
+      "probability": 0.793
+    },
+    {
+      "start": 781.55,
+      "end": 781.89,
+      "text": "dias",
+      "probability": 0.333
+    },
+    {
+      "start": 781.89,
+      "end": 782.07,
+      "text": "eu",
+      "probability": 0.378
+    },
+    {
+      "start": 782.07,
+      "end": 782.23,
+      "text": "me",
+      "probability": 0.505
+    },
+    {
+      "start": 782.23,
+      "end": 782.91,
+      "text": "abrindo,",
+      "probability": 0.575
+    },
+    {
+      "start": 782.99,
+      "end": 783.23,
+      "text": "mas",
+      "probability": 0.86
+    },
+    {
+      "start": 783.23,
+      "end": 783.31,
+      "text": "o",
+      "probability": 0.334
+    },
+    {
+      "start": 783.31,
+      "end": 783.67,
+      "text": "fone",
+      "probability": 0.294
+    },
+    {
+      "start": 783.86,
+      "end": 784.04,
+      "text": "está",
+      "probability": 0.46
+    },
+    {
+      "start": 784.04,
+      "end": 784.82,
+      "text": "chegando.",
+      "probability": 0.934
+    },
+    {
+      "start": 1176.3,
+      "end": 1176.48,
+      "text": "Vai",
+      "probability": 0.008
+    },
+    {
+      "start": 1176.48,
+      "end": 1176.48,
+      "text": "lá.",
+      "probability": 0.089
+    },
+    {
+      "start": 1185.02,
+      "end": 1185.62,
+      "text": "Vai",
+      "probability": 0.171
+    },
+    {
+      "start": 1185.62,
+      "end": 1185.94,
+      "text": "lá.",
+      "probability": 0.412
+    },
+    {
+      "start": 1240.92,
+      "end": 1243.32,
+      "text": "Música",
+      "probability": 0.358
+    }
+  ]
+}

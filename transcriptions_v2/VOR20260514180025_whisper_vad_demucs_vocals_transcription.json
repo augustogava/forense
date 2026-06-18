@@ -1,0 +1,35 @@
+{
+  "source_file": "VOR20260514180025_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.0,
+  "segments": {
+    "00:05:40,00:05:42": "Oi, vem ainda, vem"
+  },
+  "words": [
+    {
+      "start": 340.16,
+      "end": 340.66,
+      "text": "Oi,",
+      "probability": 0.137
+    },
+    {
+      "start": 341.26,
+      "end": 341.76,
+      "text": "vem",
+      "probability": 0.16
+    },
+    {
+      "start": 341.76,
+      "end": 342.0,
+      "text": "ainda,",
+      "probability": 0.075
+    },
+    {
+      "start": 342.04,
+      "end": 342.18,
+      "text": "vem",
+      "probability": 0.344
+    }
+  ]
+}

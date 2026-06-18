@@ -1,0 +1,13 @@
+{
+  "source_file": "VOR20260521072856_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:23:01,00:23:02": ".",
+    "00:25:40,00:25:40": ".",
+    "00:36:26,00:36:26": "Obrigada.",
+    "00:37:11,00:37:12": "Acompanhe o programa em seus redes sociais.",
+    "00:37:13,00:37:14": "É...",
+    "00:48:51,00:48:53": "Não há mais questões."
+  }
+}

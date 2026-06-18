@@ -1,0 +1,608 @@
+{
+  "source_file": "Carro1405_whisper_vad_cut_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3969.4,
+  "segments": {
+    "00:02:40,00:02:45": "Que saudade que toma, que toma, que toma na boca de mim",
+    "00:30:39,00:30:40": "Eu estou sendo atacado!",
+    "00:32:32,00:32:36": "Só que nessas cegas não vou me achar",
+    "00:33:13,00:33:20": "Máxima pressa quinta-feira, de acordo com o CVE, da Prefeitura, de 26 graus, mínima 12.",
+    "00:33:27,00:33:34": "Raço de desemprego subiu em 15 dos 27 estados brasileiros no primeiro trimestre deste ano,",
+    "00:33:37,00:33:46": "Na média nacional, o índice passou de 5,1% a 6,1% na comparação com o fim de 2005.",
+    "00:33:46,00:33:55": "Então, Paulo, eu acho que o índice de 4,7% a 6%, enquanto no Rio de Janeiro o indicador ficou em 5%.",
+    "00:34:35,00:34:36": "O que é isso?",
+    "00:35:34,00:35:36": "Tchau, tchau."
+  },
+  "hallucinations_filtered": 84,
+  "words": [
+    {
+      "start": 160.47,
+      "end": 161.17,
+      "text": "Que",
+      "confidence": 0.144
+    },
+    {
+      "start": 161.17,
+      "end": 161.99,
+      "text": "saudade",
+      "confidence": 0.994
+    },
+    {
+      "start": 161.99,
+      "end": 162.17,
+      "text": "que",
+      "confidence": 0.846
+    },
+    {
+      "start": 162.17,
+      "end": 162.67,
+      "text": "toma,",
+      "confidence": 0.363
+    },
+    {
+      "start": 162.87,
+      "end": 163.21,
+      "text": "que",
+      "confidence": 0.8
+    },
+    {
+      "start": 163.21,
+      "end": 163.45,
+      "text": "toma,",
+      "confidence": 0.873
+    },
+    {
+      "start": 163.49,
+      "end": 163.69,
+      "text": "que",
+      "confidence": 0.981
+    },
+    {
+      "start": 163.69,
+      "end": 164.07,
+      "text": "toma",
+      "confidence": 0.995
+    },
+    {
+      "start": 164.07,
+      "end": 164.47,
+      "text": "na",
+      "confidence": 0.418
+    },
+    {
+      "start": 164.47,
+      "end": 164.83,
+      "text": "boca",
+      "confidence": 0.947
+    },
+    {
+      "start": 164.83,
+      "end": 164.99,
+      "text": "de",
+      "confidence": 0.996
+    },
+    {
+      "start": 164.99,
+      "end": 165.31,
+      "text": "mim",
+      "confidence": 0.965
+    },
+    {
+      "start": 1839.68,
+      "end": 1839.78,
+      "text": "Eu",
+      "confidence": 0.067
+    },
+    {
+      "start": 1839.78,
+      "end": 1839.9,
+      "text": "estou",
+      "confidence": 0.268
+    },
+    {
+      "start": 1839.9,
+      "end": 1840.12,
+      "text": "sendo",
+      "confidence": 0.735
+    },
+    {
+      "start": 1840.12,
+      "end": 1840.7,
+      "text": "atacado!",
+      "confidence": 0.589
+    },
+    {
+      "start": 1952.85,
+      "end": 1953.69,
+      "text": "Só",
+      "confidence": 0.499
+    },
+    {
+      "start": 1953.69,
+      "end": 1953.95,
+      "text": "que",
+      "confidence": 0.495
+    },
+    {
+      "start": 1953.95,
+      "end": 1954.55,
+      "text": "nessas",
+      "confidence": 0.248
+    },
+    {
+      "start": 1954.55,
+      "end": 1955.21,
+      "text": "cegas",
+      "confidence": 0.249
+    },
+    {
+      "start": 1955.21,
+      "end": 1955.37,
+      "text": "não",
+      "confidence": 0.609
+    },
+    {
+      "start": 1955.37,
+      "end": 1955.59,
+      "text": "vou",
+      "confidence": 0.723
+    },
+    {
+      "start": 1955.59,
+      "end": 1955.75,
+      "text": "me",
+      "confidence": 0.239
+    },
+    {
+      "start": 1955.75,
+      "end": 1956.51,
+      "text": "achar",
+      "confidence": 0.975
+    },
+    {
+      "start": 1993.16,
+      "end": 1994.94,
+      "text": "Máxima",
+      "confidence": 0.273
+    },
+    {
+      "start": 1994.94,
+      "end": 1995.46,
+      "text": "pressa",
+      "confidence": 0.316
+    },
+    {
+      "start": 1995.46,
+      "end": 1996.14,
+      "text": "quinta-feira,",
+      "confidence": 0.841
+    },
+    {
+      "start": 1996.14,
+      "end": 1996.32,
+      "text": "de",
+      "confidence": 0.953
+    },
+    {
+      "start": 1996.32,
+      "end": 1996.5,
+      "text": "acordo",
+      "confidence": 0.999
+    },
+    {
+      "start": 1996.5,
+      "end": 1996.68,
+      "text": "com",
+      "confidence": 0.992
+    },
+    {
+      "start": 1996.68,
+      "end": 1996.76,
+      "text": "o",
+      "confidence": 0.992
+    },
+    {
+      "start": 1996.76,
+      "end": 1997.14,
+      "text": "CVE,",
+      "confidence": 0.281
+    },
+    {
+      "start": 1997.2,
+      "end": 1997.34,
+      "text": "da",
+      "confidence": 0.634
+    },
+    {
+      "start": 1997.34,
+      "end": 1997.84,
+      "text": "Prefeitura,",
+      "confidence": 0.773
+    },
+    {
+      "start": 1997.86,
+      "end": 1997.98,
+      "text": "de",
+      "confidence": 0.8
+    },
+    {
+      "start": 1997.98,
+      "end": 1998.32,
+      "text": "26",
+      "confidence": 0.955
+    },
+    {
+      "start": 1998.32,
+      "end": 1999.26,
+      "text": "graus,",
+      "confidence": 0.959
+    },
+    {
+      "start": 1999.28,
+      "end": 1999.72,
+      "text": "mínima",
+      "confidence": 0.998
+    },
+    {
+      "start": 1999.72,
+      "end": 2000.08,
+      "text": "12.",
+      "confidence": 0.893
+    },
+    {
+      "start": 2007.78,
+      "end": 2008.8,
+      "text": "Raço",
+      "confidence": 0.01
+    },
+    {
+      "start": 2008.8,
+      "end": 2008.94,
+      "text": "de",
+      "confidence": 0.959
+    },
+    {
+      "start": 2008.94,
+      "end": 2009.9,
+      "text": "desemprego",
+      "confidence": 0.742
+    },
+    {
+      "start": 2009.9,
+      "end": 2010.5,
+      "text": "subiu",
+      "confidence": 0.623
+    },
+    {
+      "start": 2010.5,
+      "end": 2010.62,
+      "text": "em",
+      "confidence": 0.97
+    },
+    {
+      "start": 2010.62,
+      "end": 2010.94,
+      "text": "15",
+      "confidence": 0.957
+    },
+    {
+      "start": 2010.94,
+      "end": 2011.16,
+      "text": "dos",
+      "confidence": 0.924
+    },
+    {
+      "start": 2011.16,
+      "end": 2011.48,
+      "text": "27",
+      "confidence": 0.971
+    },
+    {
+      "start": 2011.48,
+      "end": 2012.18,
+      "text": "estados",
+      "confidence": 0.845
+    },
+    {
+      "start": 2012.18,
+      "end": 2012.86,
+      "text": "brasileiros",
+      "confidence": 0.993
+    },
+    {
+      "start": 2012.86,
+      "end": 2012.98,
+      "text": "no",
+      "confidence": 0.834
+    },
+    {
+      "start": 2012.98,
+      "end": 2013.32,
+      "text": "primeiro",
+      "confidence": 0.273
+    },
+    {
+      "start": 2013.32,
+      "end": 2014.0,
+      "text": "trimestre",
+      "confidence": 0.966
+    },
+    {
+      "start": 2014.0,
+      "end": 2014.42,
+      "text": "deste",
+      "confidence": 0.986
+    },
+    {
+      "start": 2014.42,
+      "end": 2014.76,
+      "text": "ano,",
+      "confidence": 0.279
+    },
+    {
+      "start": 2017.54,
+      "end": 2018.24,
+      "text": "Na",
+      "confidence": 0.599
+    },
+    {
+      "start": 2018.24,
+      "end": 2018.56,
+      "text": "média",
+      "confidence": 0.98
+    },
+    {
+      "start": 2018.56,
+      "end": 2019.06,
+      "text": "nacional,",
+      "confidence": 0.823
+    },
+    {
+      "start": 2019.2,
+      "end": 2019.34,
+      "text": "o",
+      "confidence": 0.041
+    },
+    {
+      "start": 2019.34,
+      "end": 2019.52,
+      "text": "índice",
+      "confidence": 0.914
+    },
+    {
+      "start": 2019.52,
+      "end": 2019.86,
+      "text": "passou",
+      "confidence": 0.995
+    },
+    {
+      "start": 2019.86,
+      "end": 2020.14,
+      "text": "de",
+      "confidence": 0.995
+    },
+    {
+      "start": 2020.14,
+      "end": 2021.14,
+      "text": "5,1%",
+      "confidence": 0.967
+    },
+    {
+      "start": 2021.34,
+      "end": 2021.6,
+      "text": "a",
+      "confidence": 0.785
+    },
+    {
+      "start": 2021.6,
+      "end": 2022.94,
+      "text": "6,1%",
+      "confidence": 0.93
+    },
+    {
+      "start": 2023.34,
+      "end": 2024.1,
+      "text": "na",
+      "confidence": 0.894
+    },
+    {
+      "start": 2024.1,
+      "end": 2024.84,
+      "text": "comparação",
+      "confidence": 1.0
+    },
+    {
+      "start": 2024.84,
+      "end": 2024.96,
+      "text": "com",
+      "confidence": 0.986
+    },
+    {
+      "start": 2024.96,
+      "end": 2025.08,
+      "text": "o",
+      "confidence": 0.987
+    },
+    {
+      "start": 2025.08,
+      "end": 2025.4,
+      "text": "fim",
+      "confidence": 0.86
+    },
+    {
+      "start": 2025.4,
+      "end": 2025.52,
+      "text": "de",
+      "confidence": 1.0
+    },
+    {
+      "start": 2025.52,
+      "end": 2026.04,
+      "text": "2005.",
+      "confidence": 0.803
+    },
+    {
+      "start": 2026.82,
+      "end": 2027.5,
+      "text": "Então,",
+      "confidence": 0.617
+    },
+    {
+      "start": 2027.62,
+      "end": 2027.88,
+      "text": "Paulo,",
+      "confidence": 0.745
+    },
+    {
+      "start": 2027.94,
+      "end": 2028.08,
+      "text": "eu",
+      "confidence": 0.802
+    },
+    {
+      "start": 2028.08,
+      "end": 2028.26,
+      "text": "acho",
+      "confidence": 0.678
+    },
+    {
+      "start": 2028.26,
+      "end": 2028.38,
+      "text": "que",
+      "confidence": 0.947
+    },
+    {
+      "start": 2028.38,
+      "end": 2028.56,
+      "text": "o",
+      "confidence": 0.853
+    },
+    {
+      "start": 2028.56,
+      "end": 2028.92,
+      "text": "índice",
+      "confidence": 0.167
+    },
+    {
+      "start": 2028.92,
+      "end": 2029.12,
+      "text": "de",
+      "confidence": 0.606
+    },
+    {
+      "start": 2029.12,
+      "end": 2030.3,
+      "text": "4,7%",
+      "confidence": 0.887
+    },
+    {
+      "start": 2030.52,
+      "end": 2031.02,
+      "text": "a",
+      "confidence": 0.007
+    },
+    {
+      "start": 2031.02,
+      "end": 2032.02,
+      "text": "6%,",
+      "confidence": 0.811
+    },
+    {
+      "start": 2032.02,
+      "end": 2032.78,
+      "text": "enquanto",
+      "confidence": 0.737
+    },
+    {
+      "start": 2032.78,
+      "end": 2032.98,
+      "text": "no",
+      "confidence": 0.624
+    },
+    {
+      "start": 2032.98,
+      "end": 2033.2,
+      "text": "Rio",
+      "confidence": 0.522
+    },
+    {
+      "start": 2033.2,
+      "end": 2033.32,
+      "text": "de",
+      "confidence": 0.999
+    },
+    {
+      "start": 2033.32,
+      "end": 2033.48,
+      "text": "Janeiro",
+      "confidence": 1.0
+    },
+    {
+      "start": 2033.48,
+      "end": 2033.68,
+      "text": "o",
+      "confidence": 0.858
+    },
+    {
+      "start": 2033.68,
+      "end": 2034.14,
+      "text": "indicador",
+      "confidence": 0.991
+    },
+    {
+      "start": 2034.14,
+      "end": 2034.42,
+      "text": "ficou",
+      "confidence": 0.941
+    },
+    {
+      "start": 2034.42,
+      "end": 2034.66,
+      "text": "em",
+      "confidence": 0.673
+    },
+    {
+      "start": 2034.66,
+      "end": 2035.02,
+      "text": "5%.",
+      "confidence": 0.674
+    },
+    {
+      "start": 2075.21,
+      "end": 2075.77,
+      "text": "O",
+      "confidence": 0.036
+    },
+    {
+      "start": 2075.77,
+      "end": 2075.93,
+      "text": "que",
+      "confidence": 0.598
+    },
+    {
+      "start": 2075.93,
+      "end": 2075.95,
+      "text": "é",
+      "confidence": 0.484
+    },
+    {
+      "start": 2075.95,
+      "end": 2076.07,
+      "text": "isso?",
+      "confidence": 0.797
+    },
+    {
+      "start": 2134.61,
+      "end": 2136.13,
+      "text": "Tchau,",
+      "confidence": 0.231
+    },
+    {
+      "start": 2136.45,
+      "end": 2136.79,
+      "text": "tchau.",
+      "confidence": 0.927
+    }
+  ]
+}

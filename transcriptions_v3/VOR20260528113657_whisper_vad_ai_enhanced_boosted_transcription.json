@@ -1,0 +1,245 @@
+{
+  "source_file": "VOR20260528113657_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.1,
+  "segments": {
+    "00:25:31,00:25:31": "Ah, não sei se eu entendi.",
+    "00:25:38,00:25:43": "Eu queria saber, é Tiago, o Tiago ou é o Vinícius?",
+    "00:25:43,00:25:47": "É, é lá, você tem que subir, nós iremos com o meu carro, tá bom?",
+    "00:26:47,00:26:47": "Obrigado.",
+    "00:27:55,00:27:56": "Obrigado.",
+    "00:32:24,00:32:24": "O que é isso?"
+  },
+  "hallucinations_filtered": 86,
+  "words": [
+    {
+      "start": 1531.28,
+      "end": 1531.3,
+      "text": "Ah,",
+      "confidence": 0.104
+    },
+    {
+      "start": 1531.38,
+      "end": 1531.46,
+      "text": "não",
+      "confidence": 0.311
+    },
+    {
+      "start": 1531.46,
+      "end": 1531.64,
+      "text": "sei",
+      "confidence": 0.86
+    },
+    {
+      "start": 1531.64,
+      "end": 1531.84,
+      "text": "se",
+      "confidence": 0.16
+    },
+    {
+      "start": 1531.84,
+      "end": 1531.88,
+      "text": "eu",
+      "confidence": 0.263
+    },
+    {
+      "start": 1531.88,
+      "end": 1531.96,
+      "text": "entendi.",
+      "confidence": 0.864
+    },
+    {
+      "start": 1538.02,
+      "end": 1538.48,
+      "text": "Eu",
+      "confidence": 0.049
+    },
+    {
+      "start": 1538.48,
+      "end": 1540.04,
+      "text": "queria",
+      "confidence": 0.447
+    },
+    {
+      "start": 1540.04,
+      "end": 1541.04,
+      "text": "saber,",
+      "confidence": 0.261
+    },
+    {
+      "start": 1541.04,
+      "end": 1541.22,
+      "text": "é",
+      "confidence": 0.404
+    },
+    {
+      "start": 1541.22,
+      "end": 1541.68,
+      "text": "Tiago,",
+      "confidence": 0.431
+    },
+    {
+      "start": 1541.8,
+      "end": 1542.14,
+      "text": "o",
+      "confidence": 0.144
+    },
+    {
+      "start": 1542.14,
+      "end": 1542.52,
+      "text": "Tiago",
+      "confidence": 0.894
+    },
+    {
+      "start": 1542.52,
+      "end": 1542.68,
+      "text": "ou",
+      "confidence": 0.241
+    },
+    {
+      "start": 1542.68,
+      "end": 1542.88,
+      "text": "é",
+      "confidence": 0.474
+    },
+    {
+      "start": 1542.88,
+      "end": 1542.92,
+      "text": "o",
+      "confidence": 0.727
+    },
+    {
+      "start": 1542.92,
+      "end": 1543.7,
+      "text": "Vinícius?",
+      "confidence": 0.914
+    },
+    {
+      "start": 1543.72,
+      "end": 1544.26,
+      "text": "É,",
+      "confidence": 0.288
+    },
+    {
+      "start": 1544.38,
+      "end": 1544.94,
+      "text": "é",
+      "confidence": 0.19
+    },
+    {
+      "start": 1544.94,
+      "end": 1545.16,
+      "text": "lá,",
+      "confidence": 0.48
+    },
+    {
+      "start": 1545.26,
+      "end": 1545.46,
+      "text": "você",
+      "confidence": 0.267
+    },
+    {
+      "start": 1545.46,
+      "end": 1545.66,
+      "text": "tem",
+      "confidence": 0.952
+    },
+    {
+      "start": 1545.66,
+      "end": 1545.76,
+      "text": "que",
+      "confidence": 0.942
+    },
+    {
+      "start": 1545.76,
+      "end": 1545.96,
+      "text": "subir,",
+      "confidence": 0.31
+    },
+    {
+      "start": 1546.1,
+      "end": 1546.6,
+      "text": "nós",
+      "confidence": 0.346
+    },
+    {
+      "start": 1546.6,
+      "end": 1547.08,
+      "text": "iremos",
+      "confidence": 0.825
+    },
+    {
+      "start": 1547.08,
+      "end": 1547.16,
+      "text": "com",
+      "confidence": 0.457
+    },
+    {
+      "start": 1547.16,
+      "end": 1547.24,
+      "text": "o",
+      "confidence": 0.258
+    },
+    {
+      "start": 1547.24,
+      "end": 1547.4,
+      "text": "meu",
+      "confidence": 0.669
+    },
+    {
+      "start": 1547.4,
+      "end": 1547.56,
+      "text": "carro,",
+      "confidence": 0.146
+    },
+    {
+      "start": 1547.68,
+      "end": 1547.76,
+      "text": "tá",
+      "confidence": 0.757
+    },
+    {
+      "start": 1547.76,
+      "end": 1547.94,
+      "text": "bom?",
+      "confidence": 0.49
+    },
+    {
+      "start": 1607.37,
+      "end": 1607.39,
+      "text": "Obrigado.",
+      "confidence": 0.559
+    },
+    {
+      "start": 1675.89,
+      "end": 1676.19,
+      "text": "Obrigado.",
+      "confidence": 0.368
+    },
+    {
+      "start": 1944.29,
+      "end": 1944.31,
+      "text": "O",
+      "confidence": 0.06
+    },
+    {
+      "start": 1944.31,
+      "end": 1944.33,
+      "text": "que",
+      "confidence": 0.578
+    },
+    {
+      "start": 1944.33,
+      "end": 1944.35,
+      "text": "é",
+      "confidence": 0.699
+    },
+    {
+      "start": 1944.35,
+      "end": 1944.37,
+      "text": "isso?",
+      "confidence": 0.754
+    }
+  ]
+}

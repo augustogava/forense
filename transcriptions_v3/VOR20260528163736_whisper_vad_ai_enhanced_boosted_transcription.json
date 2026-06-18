@@ -1,0 +1,156 @@
+{
+  "source_file": "VOR20260528163736_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.0,
+  "segments": {
+    "00:32:01,00:32:50": "Eu não sei o que eu vou dizer, eu não sei o que eu vou dizer, eu não sei o que eu vou dizer."
+  },
+  "hallucinations_filtered": 22,
+  "words": [
+    {
+      "start": 1921.84,
+      "end": 1922.33,
+      "text": "Eu",
+      "confidence": 0.04
+    },
+    {
+      "start": 1922.33,
+      "end": 1922.57,
+      "text": "não",
+      "confidence": 0.091
+    },
+    {
+      "start": 1922.57,
+      "end": 1922.59,
+      "text": "sei",
+      "confidence": 0.376
+    },
+    {
+      "start": 1922.59,
+      "end": 1922.85,
+      "text": "o",
+      "confidence": 0.258
+    },
+    {
+      "start": 1939.12,
+      "end": 1939.46,
+      "text": "que",
+      "confidence": 0.974
+    },
+    {
+      "start": 1939.46,
+      "end": 1939.9,
+      "text": "eu",
+      "confidence": 0.307
+    },
+    {
+      "start": 1939.9,
+      "end": 1940.31,
+      "text": "vou",
+      "confidence": 0.39
+    },
+    {
+      "start": 1963.86,
+      "end": 1963.88,
+      "text": "dizer,",
+      "confidence": 0.327
+    },
+    {
+      "start": 1964.3,
+      "end": 1964.82,
+      "text": "eu",
+      "confidence": 0.142
+    },
+    {
+      "start": 1968.99,
+      "end": 1969.21,
+      "text": "não",
+      "confidence": 0.884
+    },
+    {
+      "start": 1969.21,
+      "end": 1969.43,
+      "text": "sei",
+      "confidence": 0.89
+    },
+    {
+      "start": 1969.43,
+      "end": 1969.65,
+      "text": "o",
+      "confidence": 0.322
+    },
+    {
+      "start": 1969.65,
+      "end": 1970.15,
+      "text": "que",
+      "confidence": 0.974
+    },
+    {
+      "start": 1970.15,
+      "end": 1970.17,
+      "text": "eu",
+      "confidence": 0.905
+    },
+    {
+      "start": 1970.17,
+      "end": 1970.19,
+      "text": "vou",
+      "confidence": 0.966
+    },
+    {
+      "start": 1970.19,
+      "end": 1970.21,
+      "text": "dizer,",
+      "confidence": 0.44
+    },
+    {
+      "start": 1970.21,
+      "end": 1970.23,
+      "text": "eu",
+      "confidence": 0.758
+    },
+    {
+      "start": 1970.23,
+      "end": 1970.25,
+      "text": "não",
+      "confidence": 0.987
+    },
+    {
+      "start": 1970.25,
+      "end": 1970.27,
+      "text": "sei",
+      "confidence": 0.996
+    },
+    {
+      "start": 1970.27,
+      "end": 1970.29,
+      "text": "o",
+      "confidence": 0.966
+    },
+    {
+      "start": 1970.29,
+      "end": 1970.31,
+      "text": "que",
+      "confidence": 0.996
+    },
+    {
+      "start": 1970.31,
+      "end": 1970.33,
+      "text": "eu",
+      "confidence": 0.99
+    },
+    {
+      "start": 1970.33,
+      "end": 1970.35,
+      "text": "vou",
+      "confidence": 0.912
+    },
+    {
+      "start": 1970.35,
+      "end": 1970.37,
+      "text": "dizer.",
+      "confidence": 0.654
+    }
+  ]
+}

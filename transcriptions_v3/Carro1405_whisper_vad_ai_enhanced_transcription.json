@@ -1,0 +1,338 @@
+{
+  "source_file": "Carro1405_whisper_vad_ai_enhanced.wav",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 760.6,
+  "segments": {
+    "00:00:10,00:00:15": "E aí, o que eu ouvi foi que ela era muito mais sensível do que o Flávio, e seria muito mais dito.",
+    "00:00:15,00:00:26": "Agora, ela não podia dizer que o Flávio é um homem a ser inscrito, e isso é muito impreparável, e que nos próximos dias sairá uma crise de absurdo.",
+    "00:09:24,00:09:26": "Um, dois, três."
+  },
+  "hallucinations_filtered": 2,
+  "words": [
+    {
+      "start": 10.48,
+      "end": 10.5,
+      "text": "E",
+      "confidence": 0.094
+    },
+    {
+      "start": 10.5,
+      "end": 10.52,
+      "text": "aí,",
+      "confidence": 0.105
+    },
+    {
+      "start": 10.72,
+      "end": 10.94,
+      "text": "o",
+      "confidence": 0.89
+    },
+    {
+      "start": 10.94,
+      "end": 11.16,
+      "text": "que",
+      "confidence": 0.8
+    },
+    {
+      "start": 11.16,
+      "end": 11.2,
+      "text": "eu",
+      "confidence": 0.644
+    },
+    {
+      "start": 11.2,
+      "end": 11.36,
+      "text": "ouvi",
+      "confidence": 0.376
+    },
+    {
+      "start": 11.36,
+      "end": 11.6,
+      "text": "foi",
+      "confidence": 0.987
+    },
+    {
+      "start": 11.6,
+      "end": 11.86,
+      "text": "que",
+      "confidence": 0.896
+    },
+    {
+      "start": 11.86,
+      "end": 12.16,
+      "text": "ela",
+      "confidence": 0.794
+    },
+    {
+      "start": 12.16,
+      "end": 12.32,
+      "text": "era",
+      "confidence": 0.584
+    },
+    {
+      "start": 12.32,
+      "end": 12.52,
+      "text": "muito",
+      "confidence": 0.989
+    },
+    {
+      "start": 12.52,
+      "end": 12.78,
+      "text": "mais",
+      "confidence": 0.999
+    },
+    {
+      "start": 12.78,
+      "end": 13.28,
+      "text": "sensível",
+      "confidence": 0.995
+    },
+    {
+      "start": 13.28,
+      "end": 13.4,
+      "text": "do",
+      "confidence": 0.985
+    },
+    {
+      "start": 13.4,
+      "end": 13.54,
+      "text": "que",
+      "confidence": 0.999
+    },
+    {
+      "start": 13.54,
+      "end": 13.56,
+      "text": "o",
+      "confidence": 0.924
+    },
+    {
+      "start": 13.56,
+      "end": 13.84,
+      "text": "Flávio,",
+      "confidence": 0.415
+    },
+    {
+      "start": 13.98,
+      "end": 14.22,
+      "text": "e",
+      "confidence": 0.605
+    },
+    {
+      "start": 14.22,
+      "end": 14.46,
+      "text": "seria",
+      "confidence": 0.957
+    },
+    {
+      "start": 14.46,
+      "end": 14.64,
+      "text": "muito",
+      "confidence": 0.997
+    },
+    {
+      "start": 14.64,
+      "end": 14.9,
+      "text": "mais",
+      "confidence": 0.849
+    },
+    {
+      "start": 14.9,
+      "end": 15.2,
+      "text": "dito.",
+      "confidence": 0.306
+    },
+    {
+      "start": 15.2,
+      "end": 15.98,
+      "text": "Agora,",
+      "confidence": 0.287
+    },
+    {
+      "start": 16.18,
+      "end": 16.76,
+      "text": "ela",
+      "confidence": 0.014
+    },
+    {
+      "start": 16.76,
+      "end": 16.96,
+      "text": "não",
+      "confidence": 0.403
+    },
+    {
+      "start": 16.96,
+      "end": 17.3,
+      "text": "podia",
+      "confidence": 0.154
+    },
+    {
+      "start": 17.3,
+      "end": 17.94,
+      "text": "dizer",
+      "confidence": 0.032
+    },
+    {
+      "start": 17.94,
+      "end": 17.96,
+      "text": "que",
+      "confidence": 0.408
+    },
+    {
+      "start": 17.96,
+      "end": 19.4,
+      "text": "o",
+      "confidence": 0.378
+    },
+    {
+      "start": 19.4,
+      "end": 19.96,
+      "text": "Flávio",
+      "confidence": 0.993
+    },
+    {
+      "start": 19.96,
+      "end": 20.08,
+      "text": "é",
+      "confidence": 0.488
+    },
+    {
+      "start": 20.08,
+      "end": 20.18,
+      "text": "um",
+      "confidence": 0.555
+    },
+    {
+      "start": 20.18,
+      "end": 20.4,
+      "text": "homem",
+      "confidence": 0.962
+    },
+    {
+      "start": 20.4,
+      "end": 20.54,
+      "text": "a",
+      "confidence": 0.775
+    },
+    {
+      "start": 20.54,
+      "end": 20.68,
+      "text": "ser",
+      "confidence": 0.469
+    },
+    {
+      "start": 20.68,
+      "end": 21.2,
+      "text": "inscrito,",
+      "confidence": 0.433
+    },
+    {
+      "start": 21.28,
+      "end": 21.6,
+      "text": "e",
+      "confidence": 0.616
+    },
+    {
+      "start": 21.6,
+      "end": 21.86,
+      "text": "isso",
+      "confidence": 0.963
+    },
+    {
+      "start": 21.86,
+      "end": 22.06,
+      "text": "é",
+      "confidence": 0.971
+    },
+    {
+      "start": 22.06,
+      "end": 22.46,
+      "text": "muito",
+      "confidence": 0.994
+    },
+    {
+      "start": 22.46,
+      "end": 23.46,
+      "text": "impreparável,",
+      "confidence": 0.427
+    },
+    {
+      "start": 23.54,
+      "end": 23.78,
+      "text": "e",
+      "confidence": 0.846
+    },
+    {
+      "start": 23.78,
+      "end": 23.96,
+      "text": "que",
+      "confidence": 0.368
+    },
+    {
+      "start": 23.96,
+      "end": 24.08,
+      "text": "nos",
+      "confidence": 0.678
+    },
+    {
+      "start": 24.08,
+      "end": 24.58,
+      "text": "próximos",
+      "confidence": 0.993
+    },
+    {
+      "start": 24.58,
+      "end": 24.66,
+      "text": "dias",
+      "confidence": 0.876
+    },
+    {
+      "start": 24.66,
+      "end": 24.96,
+      "text": "sairá",
+      "confidence": 0.297
+    },
+    {
+      "start": 24.96,
+      "end": 25.08,
+      "text": "uma",
+      "confidence": 0.935
+    },
+    {
+      "start": 25.08,
+      "end": 25.3,
+      "text": "crise",
+      "confidence": 0.826
+    },
+    {
+      "start": 25.3,
+      "end": 25.66,
+      "text": "de",
+      "confidence": 0.588
+    },
+    {
+      "start": 25.66,
+      "end": 26.14,
+      "text": "absurdo.",
+      "confidence": 0.304
+    },
+    {
+      "start": 564.98,
+      "end": 565.36,
+      "text": "Um,",
+      "confidence": 0.194
+    },
+    {
+      "start": 565.54,
+      "end": 565.88,
+      "text": "dois,",
+      "confidence": 0.951
+    },
+    {
+      "start": 565.9,
+      "end": 566.12,
+      "text": "três.",
+      "confidence": 0.649
+    }
+  ]
+}

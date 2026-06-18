@@ -1,0 +1,241 @@
+{
+  "source_file": "VOR20260528113657_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.1,
+  "segments": {
+    "00:14:43,00:14:44": "Obrigado.",
+    "00:21:47,00:22:15": "Para você, é na hora de você aprovar que você tem essa possibilidade de voltar e ele não tem.",
+    "00:22:15,00:22:18": "é você que tem essa possibilidade",
+    "00:24:17,00:24:17": "Boa noite.",
+    "00:25:58,00:25:59": "Sim.",
+    "00:26:14,00:26:14": "Não.",
+    "00:26:23,00:26:25": "O que é isso?",
+    "00:27:06,00:27:07": "É isso aí."
+  },
+  "hallucinations_filtered": 50,
+  "words": [
+    {
+      "start": 883.99,
+      "end": 884.25,
+      "text": "Obrigado.",
+      "confidence": 0.429
+    },
+    {
+      "start": 1307.63,
+      "end": 1307.65,
+      "text": "Para",
+      "confidence": 0.067
+    },
+    {
+      "start": 1329.84,
+      "end": 1330.17,
+      "text": "você,",
+      "confidence": 0.862
+    },
+    {
+      "start": 1330.45,
+      "end": 1330.83,
+      "text": "é",
+      "confidence": 0.776
+    },
+    {
+      "start": 1330.83,
+      "end": 1331.39,
+      "text": "na",
+      "confidence": 0.934
+    },
+    {
+      "start": 1331.39,
+      "end": 1331.71,
+      "text": "hora",
+      "confidence": 0.995
+    },
+    {
+      "start": 1331.71,
+      "end": 1331.81,
+      "text": "de",
+      "confidence": 0.983
+    },
+    {
+      "start": 1331.81,
+      "end": 1332.03,
+      "text": "você",
+      "confidence": 0.969
+    },
+    {
+      "start": 1332.08,
+      "end": 1332.65,
+      "text": "aprovar",
+      "confidence": 0.988
+    },
+    {
+      "start": 1332.65,
+      "end": 1332.87,
+      "text": "que",
+      "confidence": 0.718
+    },
+    {
+      "start": 1332.87,
+      "end": 1333.13,
+      "text": "você",
+      "confidence": 0.922
+    },
+    {
+      "start": 1333.13,
+      "end": 1333.33,
+      "text": "tem",
+      "confidence": 0.959
+    },
+    {
+      "start": 1333.33,
+      "end": 1333.59,
+      "text": "essa",
+      "confidence": 0.955
+    },
+    {
+      "start": 1333.59,
+      "end": 1334.29,
+      "text": "possibilidade",
+      "confidence": 0.988
+    },
+    {
+      "start": 1334.29,
+      "end": 1334.43,
+      "text": "de",
+      "confidence": 0.525
+    },
+    {
+      "start": 1334.43,
+      "end": 1334.73,
+      "text": "voltar",
+      "confidence": 0.123
+    },
+    {
+      "start": 1334.73,
+      "end": 1335.05,
+      "text": "e",
+      "confidence": 0.275
+    },
+    {
+      "start": 1335.05,
+      "end": 1335.33,
+      "text": "ele",
+      "confidence": 0.153
+    },
+    {
+      "start": 1335.33,
+      "end": 1335.57,
+      "text": "não",
+      "confidence": 0.753
+    },
+    {
+      "start": 1335.57,
+      "end": 1335.79,
+      "text": "tem.",
+      "confidence": 0.564
+    },
+    {
+      "start": 1335.79,
+      "end": 1336.61,
+      "text": "é",
+      "confidence": 0.208
+    },
+    {
+      "start": 1336.61,
+      "end": 1337.03,
+      "text": "você",
+      "confidence": 0.47
+    },
+    {
+      "start": 1337.03,
+      "end": 1337.29,
+      "text": "que",
+      "confidence": 0.385
+    },
+    {
+      "start": 1337.29,
+      "end": 1337.47,
+      "text": "tem",
+      "confidence": 0.891
+    },
+    {
+      "start": 1337.47,
+      "end": 1337.67,
+      "text": "essa",
+      "confidence": 0.096
+    },
+    {
+      "start": 1337.67,
+      "end": 1338.39,
+      "text": "possibilidade",
+      "confidence": 0.973
+    },
+    {
+      "start": 1457.88,
+      "end": 1457.9,
+      "text": "Boa",
+      "confidence": 0.174
+    },
+    {
+      "start": 1457.9,
+      "end": 1457.92,
+      "text": "noite.",
+      "confidence": 0.928
+    },
+    {
+      "start": 1558.37,
+      "end": 1559.19,
+      "text": "Sim.",
+      "confidence": 0.351
+    },
+    {
+      "start": 1574.19,
+      "end": 1574.73,
+      "text": "Não.",
+      "confidence": 0.316
+    },
+    {
+      "start": 1583.32,
+      "end": 1584.02,
+      "text": "O",
+      "confidence": 0.036
+    },
+    {
+      "start": 1584.78,
+      "end": 1584.96,
+      "text": "que",
+      "confidence": 0.445
+    },
+    {
+      "start": 1584.96,
+      "end": 1585.18,
+      "text": "é",
+      "confidence": 0.286
+    },
+    {
+      "start": 1585.18,
+      "end": 1585.46,
+      "text": "isso?",
+      "confidence": 0.868
+    },
+    {
+      "start": 1626.21,
+      "end": 1626.73,
+      "text": "É",
+      "confidence": 0.035
+    },
+    {
+      "start": 1626.73,
+      "end": 1627.11,
+      "text": "isso",
+      "confidence": 0.755
+    },
+    {
+      "start": 1627.11,
+      "end": 1627.13,
+      "text": "aí.",
+      "confidence": 0.56
+    }
+  ]
+}

@@ -1,0 +1,885 @@
+{
+  "source_file": "VOR20260519212806_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:07:30,00:07:31": "Não!",
+    "00:09:58,00:09:59": "Atenção!",
+    "00:15:53,00:15:53": "Não!",
+    "00:21:58,00:21:59": "Atenção!",
+    "00:22:14,00:22:14": "O que é que passa?",
+    "00:27:25,00:27:26": "Ninguém chorar.",
+    "00:28:27,00:28:27": "Ter o dia 5?",
+    "00:28:31,00:28:32": "Atenção!",
+    "00:28:36,00:28:39": "Ainda falta xixi, mas não é muito xixi.",
+    "00:28:47,00:28:49": "Início, sabe? Início.",
+    "00:28:52,00:28:53": "Atenção!",
+    "00:29:00,00:29:02": "Por chamar de reto, não é uma violência.",
+    "00:29:16,00:29:17": "Acompanhe a aula no YouTube.",
+    "00:29:47,00:29:47": "Não tem nenhum.",
+    "00:30:08,00:30:09": "o que é?",
+    "00:30:10,00:30:10": "o que é?",
+    "00:30:12,00:30:12": "acho que é",
+    "00:30:12,00:30:14": "é o que eu tinha",
+    "00:30:14,00:30:14": "é o que eu tinha",
+    "00:30:39,00:30:41": "Meu Deus do céu, gente.",
+    "00:30:43,00:30:44": "Olha lá.",
+    "00:30:44,00:30:45": "Olha isso.",
+    "00:30:47,00:30:48": "Olha isso.",
+    "00:30:48,00:30:50": "Olha o bolo.",
+    "00:30:51,00:30:53": "Olha o bolo.",
+    "00:30:56,00:30:58": "Meu Deus do céu.",
+    "00:30:59,00:31:01": "Meu Deus do céu.",
+    "00:31:07,00:31:08": "É dinheiro.",
+    "00:31:09,00:31:09": "Dinheiro?",
+    "00:31:10,00:31:10": "Sim.",
+    "00:31:10,00:31:12": "Vem ter o que eu te dei, menino.",
+    "00:31:12,00:31:13": "Como?",
+    "00:31:13,00:31:13": "Por favor.",
+    "00:31:13,00:31:14": "Não, não, não.",
+    "00:31:16,00:31:18": "Mas tem mais leite.",
+    "00:31:19,00:31:19": "Hã?",
+    "00:31:20,00:31:20": "Leite.",
+    "00:31:20,00:31:21": "Mais leite.",
+    "00:31:21,00:31:21": "Desfile.",
+    "00:31:22,00:31:23": "Desfile.",
+    "00:31:37,00:31:38": "É isso aí, gente.",
+    "00:31:39,00:31:39": "Tchau.",
+    "00:31:44,00:31:49": "Não se esqueça de deixar seu like e compartilhar o vídeo com seus amigos.",
+    "00:31:54,00:31:54": "Vai.",
+    "00:31:56,00:31:57": "Quer ver?",
+    "00:31:58,00:31:59": "Aparente.",
+    "00:32:01,00:32:01": "Aparente.",
+    "00:32:03,00:32:03": "Calma.",
+    "00:32:05,00:32:06": "Você sentiu a gente na gelatina?",
+    "00:32:06,00:32:07": "Não.",
+    "00:32:07,00:32:08": "Não.",
+    "00:32:09,00:32:10": "Fica bem.",
+    "00:32:12,00:32:12": "Um.",
+    "00:32:13,00:32:13": "Um.",
+    "00:32:22,00:32:24": "Isso é cara de mal-vindo.",
+    "00:32:40,00:32:41": "E aí",
+    "00:32:44,00:32:46": "E aí"
+  },
+  "explicit_segments": {
+    "00:29:00,00:29:02": "Por chamar de reto, não é uma violência."
+  },
+  "explicit_count": 1,
+  "words": [
+    {
+      "start": 450.75,
+      "end": 451.19,
+      "text": "Não!"
+    },
+    {
+      "start": 598.24,
+      "end": 599.38,
+      "text": "Atenção!"
+    },
+    {
+      "start": 953.31,
+      "end": 953.49,
+      "text": "Não!"
+    },
+    {
+      "start": 1318.59,
+      "end": 1319.29,
+      "text": "Atenção!"
+    },
+    {
+      "start": 1334.4,
+      "end": 1334.42,
+      "text": "O"
+    },
+    {
+      "start": 1334.42,
+      "end": 1334.5,
+      "text": "que"
+    },
+    {
+      "start": 1334.5,
+      "end": 1334.52,
+      "text": "é"
+    },
+    {
+      "start": 1334.52,
+      "end": 1334.58,
+      "text": "que"
+    },
+    {
+      "start": 1334.58,
+      "end": 1334.94,
+      "text": "passa?"
+    },
+    {
+      "start": 1645.83,
+      "end": 1646.05,
+      "text": "Ninguém"
+    },
+    {
+      "start": 1646.05,
+      "end": 1646.47,
+      "text": "chorar."
+    },
+    {
+      "start": 1707.2,
+      "end": 1707.3,
+      "text": "Ter"
+    },
+    {
+      "start": 1707.3,
+      "end": 1707.4,
+      "text": "o"
+    },
+    {
+      "start": 1707.4,
+      "end": 1707.52,
+      "text": "dia"
+    },
+    {
+      "start": 1707.52,
+      "end": 1707.88,
+      "text": "5?"
+    },
+    {
+      "start": 1711.71,
+      "end": 1712.31,
+      "text": "Atenção!"
+    },
+    {
+      "start": 1716.67,
+      "end": 1716.95,
+      "text": "Ainda"
+    },
+    {
+      "start": 1716.95,
+      "end": 1716.95,
+      "text": "falta"
+    },
+    {
+      "start": 1716.95,
+      "end": 1717.73,
+      "text": "xixi,"
+    },
+    {
+      "start": 1717.73,
+      "end": 1718.43,
+      "text": "mas"
+    },
+    {
+      "start": 1718.43,
+      "end": 1718.69,
+      "text": "não"
+    },
+    {
+      "start": 1718.69,
+      "end": 1718.81,
+      "text": "é"
+    },
+    {
+      "start": 1718.81,
+      "end": 1718.89,
+      "text": "muito"
+    },
+    {
+      "start": 1718.89,
+      "end": 1719.27,
+      "text": "xixi."
+    },
+    {
+      "start": 1727.75,
+      "end": 1728.07,
+      "text": "Início,"
+    },
+    {
+      "start": 1728.07,
+      "end": 1728.33,
+      "text": "sabe?"
+    },
+    {
+      "start": 1728.89,
+      "end": 1729.51,
+      "text": "Início."
+    },
+    {
+      "start": 1732.83,
+      "end": 1733.67,
+      "text": "Atenção!"
+    },
+    {
+      "start": 1740.26,
+      "end": 1740.36,
+      "text": "Por"
+    },
+    {
+      "start": 1740.36,
+      "end": 1740.84,
+      "text": "chamar"
+    },
+    {
+      "start": 1740.84,
+      "end": 1740.9,
+      "text": "de"
+    },
+    {
+      "start": 1740.9,
+      "end": 1741.16,
+      "text": "reto,"
+    },
+    {
+      "start": 1741.2,
+      "end": 1741.36,
+      "text": "não"
+    },
+    {
+      "start": 1741.36,
+      "end": 1741.5,
+      "text": "é"
+    },
+    {
+      "start": 1741.5,
+      "end": 1741.74,
+      "text": "uma"
+    },
+    {
+      "start": 1741.74,
+      "end": 1742.32,
+      "text": "violência."
+    },
+    {
+      "start": 1756.51,
+      "end": 1756.91,
+      "text": "Acompanhe"
+    },
+    {
+      "start": 1756.91,
+      "end": 1757.01,
+      "text": "a"
+    },
+    {
+      "start": 1757.01,
+      "end": 1757.31,
+      "text": "aula"
+    },
+    {
+      "start": 1757.31,
+      "end": 1757.41,
+      "text": "no"
+    },
+    {
+      "start": 1757.41,
+      "end": 1757.65,
+      "text": "YouTube."
+    },
+    {
+      "start": 1787.75,
+      "end": 1787.85,
+      "text": "Não"
+    },
+    {
+      "start": 1787.85,
+      "end": 1787.85,
+      "text": "tem"
+    },
+    {
+      "start": 1787.85,
+      "end": 1787.95,
+      "text": "nenhum."
+    },
+    {
+      "start": 1808.86,
+      "end": 1809.34,
+      "text": "o"
+    },
+    {
+      "start": 1809.34,
+      "end": 1809.34,
+      "text": "que"
+    },
+    {
+      "start": 1809.34,
+      "end": 1809.7,
+      "text": "é?"
+    },
+    {
+      "start": 1810.22,
+      "end": 1810.48,
+      "text": "o"
+    },
+    {
+      "start": 1810.48,
+      "end": 1810.68,
+      "text": "que"
+    },
+    {
+      "start": 1810.68,
+      "end": 1810.94,
+      "text": "é?"
+    },
+    {
+      "start": 1812.28,
+      "end": 1812.76,
+      "text": "acho"
+    },
+    {
+      "start": 1812.76,
+      "end": 1812.82,
+      "text": "que"
+    },
+    {
+      "start": 1812.82,
+      "end": 1812.96,
+      "text": "é"
+    },
+    {
+      "start": 1812.96,
+      "end": 1813.24,
+      "text": "é"
+    },
+    {
+      "start": 1813.24,
+      "end": 1813.78,
+      "text": "o"
+    },
+    {
+      "start": 1813.78,
+      "end": 1813.92,
+      "text": "que"
+    },
+    {
+      "start": 1813.92,
+      "end": 1813.98,
+      "text": "eu"
+    },
+    {
+      "start": 1813.98,
+      "end": 1814.2,
+      "text": "tinha"
+    },
+    {
+      "start": 1814.2,
+      "end": 1814.92,
+      "text": "é"
+    },
+    {
+      "start": 1814.92,
+      "end": 1814.92,
+      "text": "o"
+    },
+    {
+      "start": 1814.92,
+      "end": 1814.92,
+      "text": "que"
+    },
+    {
+      "start": 1814.92,
+      "end": 1814.92,
+      "text": "eu"
+    },
+    {
+      "start": 1814.92,
+      "end": 1814.92,
+      "text": "tinha"
+    },
+    {
+      "start": 1839.3,
+      "end": 1840.28,
+      "text": "Meu"
+    },
+    {
+      "start": 1840.28,
+      "end": 1840.66,
+      "text": "Deus"
+    },
+    {
+      "start": 1840.66,
+      "end": 1840.94,
+      "text": "do"
+    },
+    {
+      "start": 1840.94,
+      "end": 1841.4,
+      "text": "céu,"
+    },
+    {
+      "start": 1841.52,
+      "end": 1841.8,
+      "text": "gente."
+    },
+    {
+      "start": 1843.06,
+      "end": 1844.04,
+      "text": "Olha"
+    },
+    {
+      "start": 1844.04,
+      "end": 1844.26,
+      "text": "lá."
+    },
+    {
+      "start": 1844.52,
+      "end": 1845.24,
+      "text": "Olha"
+    },
+    {
+      "start": 1845.24,
+      "end": 1845.52,
+      "text": "isso."
+    },
+    {
+      "start": 1847.06,
+      "end": 1848.04,
+      "text": "Olha"
+    },
+    {
+      "start": 1848.04,
+      "end": 1848.56,
+      "text": "isso."
+    },
+    {
+      "start": 1848.78,
+      "end": 1849.76,
+      "text": "Olha"
+    },
+    {
+      "start": 1849.76,
+      "end": 1849.94,
+      "text": "o"
+    },
+    {
+      "start": 1849.94,
+      "end": 1850.44,
+      "text": "bolo."
+    },
+    {
+      "start": 1851.38,
+      "end": 1852.36,
+      "text": "Olha"
+    },
+    {
+      "start": 1852.36,
+      "end": 1853.42,
+      "text": "o"
+    },
+    {
+      "start": 1853.42,
+      "end": 1853.6,
+      "text": "bolo."
+    },
+    {
+      "start": 1856.28,
+      "end": 1857.1,
+      "text": "Meu"
+    },
+    {
+      "start": 1857.1,
+      "end": 1857.74,
+      "text": "Deus"
+    },
+    {
+      "start": 1857.74,
+      "end": 1857.9,
+      "text": "do"
+    },
+    {
+      "start": 1857.9,
+      "end": 1858.58,
+      "text": "céu."
+    },
+    {
+      "start": 1859.66,
+      "end": 1860.64,
+      "text": "Meu"
+    },
+    {
+      "start": 1860.64,
+      "end": 1861.12,
+      "text": "Deus"
+    },
+    {
+      "start": 1861.12,
+      "end": 1861.12,
+      "text": "do"
+    },
+    {
+      "start": 1861.12,
+      "end": 1861.12,
+      "text": "céu."
+    },
+    {
+      "start": 1867.54,
+      "end": 1868.06,
+      "text": "É"
+    },
+    {
+      "start": 1868.06,
+      "end": 1868.46,
+      "text": "dinheiro."
+    },
+    {
+      "start": 1869.38,
+      "end": 1869.9,
+      "text": "Dinheiro?"
+    },
+    {
+      "start": 1870.16,
+      "end": 1870.5,
+      "text": "Sim."
+    },
+    {
+      "start": 1870.76,
+      "end": 1870.96,
+      "text": "Vem"
+    },
+    {
+      "start": 1870.96,
+      "end": 1871.08,
+      "text": "ter"
+    },
+    {
+      "start": 1871.08,
+      "end": 1871.18,
+      "text": "o"
+    },
+    {
+      "start": 1871.18,
+      "end": 1871.3,
+      "text": "que"
+    },
+    {
+      "start": 1871.3,
+      "end": 1871.36,
+      "text": "eu"
+    },
+    {
+      "start": 1871.36,
+      "end": 1871.58,
+      "text": "te"
+    },
+    {
+      "start": 1871.58,
+      "end": 1871.8,
+      "text": "dei,"
+    },
+    {
+      "start": 1871.86,
+      "end": 1872.02,
+      "text": "menino."
+    },
+    {
+      "start": 1872.62,
+      "end": 1873.14,
+      "text": "Como?"
+    },
+    {
+      "start": 1873.34,
+      "end": 1873.46,
+      "text": "Por"
+    },
+    {
+      "start": 1873.46,
+      "end": 1873.68,
+      "text": "favor."
+    },
+    {
+      "start": 1873.72,
+      "end": 1873.9,
+      "text": "Não,"
+    },
+    {
+      "start": 1873.9,
+      "end": 1874.24,
+      "text": "não,"
+    },
+    {
+      "start": 1874.26,
+      "end": 1874.36,
+      "text": "não."
+    },
+    {
+      "start": 1876.9,
+      "end": 1877.42,
+      "text": "Mas"
+    },
+    {
+      "start": 1877.42,
+      "end": 1877.6,
+      "text": "tem"
+    },
+    {
+      "start": 1877.6,
+      "end": 1877.72,
+      "text": "mais"
+    },
+    {
+      "start": 1877.72,
+      "end": 1878.12,
+      "text": "leite."
+    },
+    {
+      "start": 1879.02,
+      "end": 1879.54,
+      "text": "Hã?"
+    },
+    {
+      "start": 1880.04,
+      "end": 1880.56,
+      "text": "Leite."
+    },
+    {
+      "start": 1880.62,
+      "end": 1880.82,
+      "text": "Mais"
+    },
+    {
+      "start": 1880.82,
+      "end": 1881.12,
+      "text": "leite."
+    },
+    {
+      "start": 1881.2,
+      "end": 1881.64,
+      "text": "Desfile."
+    },
+    {
+      "start": 1882.62,
+      "end": 1883.14,
+      "text": "Desfile."
+    },
+    {
+      "start": 1897.5,
+      "end": 1897.66,
+      "text": "É"
+    },
+    {
+      "start": 1897.66,
+      "end": 1897.78,
+      "text": "isso"
+    },
+    {
+      "start": 1897.78,
+      "end": 1897.92,
+      "text": "aí,"
+    },
+    {
+      "start": 1898.0,
+      "end": 1898.3,
+      "text": "gente."
+    },
+    {
+      "start": 1899.14,
+      "end": 1899.4,
+      "text": "Tchau."
+    },
+    {
+      "start": 1904.71,
+      "end": 1904.99,
+      "text": "Não"
+    },
+    {
+      "start": 1904.99,
+      "end": 1905.25,
+      "text": "se"
+    },
+    {
+      "start": 1905.25,
+      "end": 1905.45,
+      "text": "esqueça"
+    },
+    {
+      "start": 1905.45,
+      "end": 1905.45,
+      "text": "de"
+    },
+    {
+      "start": 1905.45,
+      "end": 1905.53,
+      "text": "deixar"
+    },
+    {
+      "start": 1905.53,
+      "end": 1906.03,
+      "text": "seu"
+    },
+    {
+      "start": 1906.03,
+      "end": 1906.03,
+      "text": "like"
+    },
+    {
+      "start": 1906.03,
+      "end": 1907.75,
+      "text": "e"
+    },
+    {
+      "start": 1907.75,
+      "end": 1908.07,
+      "text": "compartilhar"
+    },
+    {
+      "start": 1908.07,
+      "end": 1908.11,
+      "text": "o"
+    },
+    {
+      "start": 1908.11,
+      "end": 1908.33,
+      "text": "vídeo"
+    },
+    {
+      "start": 1908.33,
+      "end": 1908.33,
+      "text": "com"
+    },
+    {
+      "start": 1908.33,
+      "end": 1908.47,
+      "text": "seus"
+    },
+    {
+      "start": 1908.47,
+      "end": 1909.05,
+      "text": "amigos."
+    },
+    {
+      "start": 1914.25,
+      "end": 1914.95,
+      "text": "Vai."
+    },
+    {
+      "start": 1916.48,
+      "end": 1916.83,
+      "text": "Quer"
+    },
+    {
+      "start": 1916.83,
+      "end": 1917.05,
+      "text": "ver?"
+    },
+    {
+      "start": 1918.43,
+      "end": 1919.13,
+      "text": "Aparente."
+    },
+    {
+      "start": 1921.05,
+      "end": 1921.75,
+      "text": "Aparente."
+    },
+    {
+      "start": 1923.25,
+      "end": 1923.95,
+      "text": "Calma."
+    },
+    {
+      "start": 1925.38,
+      "end": 1925.73,
+      "text": "Você"
+    },
+    {
+      "start": 1925.73,
+      "end": 1926.07,
+      "text": "sentiu"
+    },
+    {
+      "start": 1926.07,
+      "end": 1926.17,
+      "text": "a"
+    },
+    {
+      "start": 1926.17,
+      "end": 1926.31,
+      "text": "gente"
+    },
+    {
+      "start": 1926.31,
+      "end": 1926.49,
+      "text": "na"
+    },
+    {
+      "start": 1926.49,
+      "end": 1926.97,
+      "text": "gelatina?"
+    },
+    {
+      "start": 1926.99,
+      "end": 1927.21,
+      "text": "Não."
+    },
+    {
+      "start": 1927.69,
+      "end": 1928.39,
+      "text": "Não."
+    },
+    {
+      "start": 1929.19,
+      "end": 1929.89,
+      "text": "Fica"
+    },
+    {
+      "start": 1929.89,
+      "end": 1930.15,
+      "text": "bem."
+    },
+    {
+      "start": 1932.05,
+      "end": 1932.75,
+      "text": "Um."
+    },
+    {
+      "start": 1933.21,
+      "end": 1933.69,
+      "text": "Um."
+    },
+    {
+      "start": 1942.53,
+      "end": 1942.65,
+      "text": "Isso"
+    },
+    {
+      "start": 1942.65,
+      "end": 1942.81,
+      "text": "é"
+    },
+    {
+      "start": 1942.81,
+      "end": 1942.99,
+      "text": "cara"
+    },
+    {
+      "start": 1942.99,
+      "end": 1943.21,
+      "text": "de"
+    },
+    {
+      "start": 1943.21,
+      "end": 1943.69,
+      "text": "mal"
+    },
+    {
+      "start": 1943.69,
+      "end": 1944.03,
+      "text": "-vindo."
+    },
+    {
+      "start": 1960.83,
+      "end": 1960.99,
+      "text": "E"
+    },
+    {
+      "start": 1960.99,
+      "end": 1961.33,
+      "text": "aí"
+    },
+    {
+      "start": 1964.83,
+      "end": 1965.51,
+      "text": "E"
+    },
+    {
+      "start": 1965.51,
+      "end": 1966.19,
+      "text": "aí"
+    }
+  ]
+}

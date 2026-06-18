@@ -1,0 +1,15 @@
+{
+  "source_file": "VOR20260616011253_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:05:09,00:05:10": "."
+  },
+  "words": [
+    {
+      "start": 309.89,
+      "end": 310.07,
+      "text": "."
+    }
+  ]
+}

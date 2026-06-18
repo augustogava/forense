@@ -1,0 +1,42 @@
+{
+  "source_file": "VOR20260515041240_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.0,
+  "segments": {
+    "00:22:18,00:22:31": "O que é isso?",
+    "00:49:49,00:49:50": "Tchau."
+  },
+  "words": [
+    {
+      "start": 1338.27,
+      "end": 1338.89,
+      "text": "O",
+      "probability": 0.029
+    },
+    {
+      "start": 1341.74,
+      "end": 1342.9,
+      "text": "que",
+      "probability": 0.62
+    },
+    {
+      "start": 1349.78,
+      "end": 1349.86,
+      "text": "é",
+      "probability": 0.605
+    },
+    {
+      "start": 1349.86,
+      "end": 1351.7,
+      "text": "isso?",
+      "probability": 0.867
+    },
+    {
+      "start": 2989.64,
+      "end": 2990.34,
+      "text": "Tchau.",
+      "probability": 0.547
+    }
+  ]
+}

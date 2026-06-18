@@ -1,0 +1,52 @@
+{
+  "source_file": "VOR20260603013045_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:00": ".",
+    "00:05:52,00:05:52": "Atenção!",
+    "00:06:15,00:06:16": "O que mais não se lembra?"
+  },
+  "words": [
+    {
+      "start": 0.51,
+      "end": 0.85,
+      "text": "."
+    },
+    {
+      "start": 352.0,
+      "end": 352.56,
+      "text": "Atenção!"
+    },
+    {
+      "start": 375.52,
+      "end": 375.62,
+      "text": "O"
+    },
+    {
+      "start": 375.62,
+      "end": 375.64,
+      "text": "que"
+    },
+    {
+      "start": 375.64,
+      "end": 375.88,
+      "text": "mais"
+    },
+    {
+      "start": 375.88,
+      "end": 376.04,
+      "text": "não"
+    },
+    {
+      "start": 376.04,
+      "end": 376.22,
+      "text": "se"
+    },
+    {
+      "start": 376.22,
+      "end": 376.58,
+      "text": "lembra?"
+    }
+  ]
+}

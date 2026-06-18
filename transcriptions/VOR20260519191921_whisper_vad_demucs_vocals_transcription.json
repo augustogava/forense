@@ -1,0 +1,279 @@
+{
+  "source_file": "VOR20260519191921_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:01,00:00:01": "Atenção!",
+    "00:00:03,00:00:04": "Atenção!",
+    "00:02:39,00:02:40": "Obrigada.",
+    "00:07:14,00:07:14": "Atenção!",
+    "00:07:15,00:07:15": "Atenção!",
+    "00:07:54,00:08:00": "A gente tem uma ideia de que a chupetinha sem o cabelinho a gente pode ser um negócio de música.",
+    "00:08:02,00:08:03": "E...",
+    "00:08:04,00:08:05": "Uma noção?",
+    "00:08:06,00:08:08": "E o melhor que a gente vai ter?",
+    "00:08:08,00:08:09": "Não, já basta.",
+    "00:08:11,00:08:13": "Esse tem que ser muito preciso.",
+    "00:09:10,00:09:10": ".",
+    "00:16:17,00:16:18": ".",
+    "00:53:04,00:53:05": "Não há dúvida.",
+    "00:54:27,00:54:28": "Atenção!"
+  },
+  "words": [
+    {
+      "start": 1.63,
+      "end": 1.81,
+      "text": "Atenção!"
+    },
+    {
+      "start": 3.85,
+      "end": 4.85,
+      "text": "Atenção!"
+    },
+    {
+      "start": 159.97,
+      "end": 160.15,
+      "text": "Obrigada."
+    },
+    {
+      "start": 434.34,
+      "end": 434.7,
+      "text": "Atenção!"
+    },
+    {
+      "start": 435.14,
+      "end": 435.5,
+      "text": "Atenção!"
+    },
+    {
+      "start": 474.59,
+      "end": 474.69,
+      "text": "A"
+    },
+    {
+      "start": 474.69,
+      "end": 474.69,
+      "text": "gente"
+    },
+    {
+      "start": 474.69,
+      "end": 474.69,
+      "text": "tem"
+    },
+    {
+      "start": 474.69,
+      "end": 474.69,
+      "text": "uma"
+    },
+    {
+      "start": 474.69,
+      "end": 474.83,
+      "text": "ideia"
+    },
+    {
+      "start": 474.83,
+      "end": 475.11,
+      "text": "de"
+    },
+    {
+      "start": 475.11,
+      "end": 475.29,
+      "text": "que"
+    },
+    {
+      "start": 475.29,
+      "end": 476.39,
+      "text": "a"
+    },
+    {
+      "start": 476.39,
+      "end": 477.13,
+      "text": "chupetinha"
+    },
+    {
+      "start": 477.13,
+      "end": 477.37,
+      "text": "sem"
+    },
+    {
+      "start": 477.37,
+      "end": 477.59,
+      "text": "o"
+    },
+    {
+      "start": 477.59,
+      "end": 478.73,
+      "text": "cabelinho"
+    },
+    {
+      "start": 478.73,
+      "end": 478.87,
+      "text": "a"
+    },
+    {
+      "start": 478.87,
+      "end": 479.01,
+      "text": "gente"
+    },
+    {
+      "start": 479.01,
+      "end": 479.15,
+      "text": "pode"
+    },
+    {
+      "start": 479.15,
+      "end": 479.31,
+      "text": "ser"
+    },
+    {
+      "start": 479.31,
+      "end": 479.47,
+      "text": "um"
+    },
+    {
+      "start": 479.47,
+      "end": 480.43,
+      "text": "negócio"
+    },
+    {
+      "start": 480.43,
+      "end": 480.65,
+      "text": "de"
+    },
+    {
+      "start": 480.65,
+      "end": 480.97,
+      "text": "música."
+    },
+    {
+      "start": 482.59,
+      "end": 483.03,
+      "text": "E..."
+    },
+    {
+      "start": 484.85,
+      "end": 485.29,
+      "text": "Uma"
+    },
+    {
+      "start": 485.29,
+      "end": 485.73,
+      "text": "noção?"
+    },
+    {
+      "start": 486.87,
+      "end": 487.31,
+      "text": "E"
+    },
+    {
+      "start": 487.31,
+      "end": 487.39,
+      "text": "o"
+    },
+    {
+      "start": 487.39,
+      "end": 487.65,
+      "text": "melhor"
+    },
+    {
+      "start": 487.65,
+      "end": 487.93,
+      "text": "que"
+    },
+    {
+      "start": 487.93,
+      "end": 488.03,
+      "text": "a"
+    },
+    {
+      "start": 488.03,
+      "end": 488.09,
+      "text": "gente"
+    },
+    {
+      "start": 488.09,
+      "end": 488.21,
+      "text": "vai"
+    },
+    {
+      "start": 488.21,
+      "end": 488.39,
+      "text": "ter?"
+    },
+    {
+      "start": 488.81,
+      "end": 489.25,
+      "text": "Não,"
+    },
+    {
+      "start": 489.35,
+      "end": 489.57,
+      "text": "já"
+    },
+    {
+      "start": 489.57,
+      "end": 489.97,
+      "text": "basta."
+    },
+    {
+      "start": 491.47,
+      "end": 491.91,
+      "text": "Esse"
+    },
+    {
+      "start": 491.91,
+      "end": 492.15,
+      "text": "tem"
+    },
+    {
+      "start": 492.15,
+      "end": 492.27,
+      "text": "que"
+    },
+    {
+      "start": 492.27,
+      "end": 492.43,
+      "text": "ser"
+    },
+    {
+      "start": 492.43,
+      "end": 492.55,
+      "text": "muito"
+    },
+    {
+      "start": 492.55,
+      "end": 493.03,
+      "text": "preciso."
+    },
+    {
+      "start": 550.43,
+      "end": 550.75,
+      "text": "."
+    },
+    {
+      "start": 977.92,
+      "end": 978.18,
+      "text": "."
+    },
+    {
+      "start": 3184.19,
+      "end": 3184.47,
+      "text": "Não"
+    },
+    {
+      "start": 3184.47,
+      "end": 3184.47,
+      "text": "há"
+    },
+    {
+      "start": 3184.47,
+      "end": 3185.05,
+      "text": "dúvida."
+    },
+    {
+      "start": 3267.43,
+      "end": 3268.15,
+      "text": "Atenção!"
+    }
+  ]
+}

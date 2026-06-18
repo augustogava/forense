@@ -1,0 +1,10 @@
+{
+  "source_file": "VOR20260521062850_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:11:42,00:11:42": ".",
+    "00:25:42,00:25:45": "Agradecimentos a todos os participantes.",
+    "00:35:06,00:35:06": "Não me diga que..."
+  }
+}

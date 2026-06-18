@@ -396,6 +396,7 @@ python forensic_audio_transcriber.py -i "to_ia_processed/" -m large-v3 --word-ti
 
 
 python forensic_audio_processor.py -i "to_analyse/"
+python forensic_audio_processor_v2.py -i "to_analyse/" -o "audio_processed/" --validate --validate-whisper
 
 python forensic_audio_ai.py -i "to_ia/" -o "to_ia_processed/"
 python forensic_audio_transcriber.py -i "to_transcript/
@@ -407,3 +408,56 @@ python forensic_audio_transcriber_v2.py -i to_transcript/ -o transcriptions_v2 -
 
 python forensic_audio_transcriber_v2.py -i to_transcript -o transcriptions_v2 --word-timestamps
 python forensic_audio_transcriber_v3.py -i to_transcript -o transcriptions_v3 --word-timestamps
+
+
+---
+
+## Forensic Audio Processor v2 (IA + DSP) + Validacao
+
+`forensic_audio_processor_v2.py` une separacao de voz (Demucs), realce de fala
+por IA (DeepFilterNet ou ClearVoice) e refinamento DSP com VAD para recuperar
+fala em portugues muito baixa e ruidosa. Gera 3 variantes ajustaveis:
+
+| Variante | Foco |
+|----------|------|
+| `clean` | Mais fiel: separacao + realce + normalizacao suave |
+| `speech_boost` | Realce de fala fraca (whisper boost + AGC + formantes) com VAD |
+| `max` | Mais agressivo, para fala dificil de ouvir |
+
+**Uso:**
+```bash
+# Arquivo unico (todas as variantes, com validacao automatica)
+python forensic_audio_processor_v2.py -i "to_analyse/REC.wav" -o "audio_processed/" --validate
+
+# Pasta inteira
+python forensic_audio_processor_v2.py -i "to_analyse/" -o "audio_processed/"
+
+# So DSP/math (sem modelos pesados), VAD por energia, saida WAV
+python forensic_audio_processor_v2.py -i "to_analyse/REC.wav" --no-demucs --no-ai-enhance --no-silero --wav
+
+# Ajuste de loudness/ganho e variante unica
+python forensic_audio_processor_v2.py -i "to_analyse/REC.wav" --variants speech_boost --target-lufs -14 --max-gain 12
+```
+
+Principais parametros: `--variants`, `--target-lufs`, `--max-gain`, `--hp-hz`,
+`--wav`, `--no-demucs`, `--no-ai-enhance`, `--no-silero`, `--validate`,
+`--validate-whisper`.
+
+### Validacao para tuning
+
+`forensic_audio_validate.py` compara entrada vs saidas com metricas
+nao-intrusivas (sem referencia limpa) para ajudar a ajustar parametros:
+DNSMOS P.835 (SIG/BAK/OVRL), LUFS, SNR estimado, clipping, inclinacao
+espectral, % de fala e, opcionalmente, inteligibilidade via Whisper.
+
+```bash
+# Comparar entrada com as 3 variantes geradas
+python forensic_audio_validate.py -i "to_analyse/REC.wav" \
+  audio_processed/REC_v2_clean.mp3 audio_processed/REC_v2_speech_boost.mp3 audio_processed/REC_v2_max.mp3
+
+# Incluir inteligibilidade via Whisper (detecta quando o denoise prejudica o ASR)
+python forensic_audio_validate.py -i "to_analyse/REC.wav" -O audio_processed/REC_v2_speech_boost.mp3 --whisper
+```
+
+A validacao gera um JSON com as metricas por arquivo, os deltas
+entrada->saida e o ranking das variantes (melhor primeiro).

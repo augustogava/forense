@@ -1,0 +1,2726 @@
+{
+  "source_file": "VOR20260528203819_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "duration": 3600.1,
+  "segments": {
+    "00:00:00,00:00:22": "Segredadeira Madrinha, Ministério Público, Procuradoria Geral e a Polícia Civil e a Receita Federal de Agência Nacional do Pernambuco também participaram dessa vez em palavra de conversa em português e, em agosto do passado, reforçou o emprego realizado nos árabes e se organizou para agir com agilidade e normal.",
+    "00:00:36,00:00:39": "mesmo sabendo que estava com a identificação",
+    "00:00:51,00:00:57": "Segundo os indicadores, o dinheiro de impostos de combustíveis controlados pelos indivíduos",
+    "00:01:53,00:02:01": "Olha, obrigada pela investigação e a luta ao abrigo das pessoas de outros, por a chamada Águia de Outros.",
+    "00:02:18,00:02:23": "Ainda de acordo com a investigação, o produto não operava apenas no setor financeiro.",
+    "00:04:10,00:04:23": "A decisão foi revogada hoje em dia pelo Ministro do Supremo Tribunal Federal de Justiça e",
+    "00:06:14,00:06:14": "Obrigado.",
+    "00:07:46,00:07:47": "Eu não sei o que eu estou fazendo, mas eu não sei o que eu estou fazendo.",
+    "00:09:02,00:09:03": "O que é isso?",
+    "00:10:02,00:10:04": "Sexto.",
+    "00:10:32,00:10:36": "Em 471 a 29 de novembro,",
+    "00:10:49,00:10:52": "Um ano depois, nova redução de duas horas.",
+    "00:11:05,00:11:10": "Na rede social, o presidente Lula disse que a aprovação do Ministério da Agricultura",
+    "00:11:13,00:11:17": "A Confederação Nacional do Comércio, Bens, Serviços e Turismo",
+    "00:11:25,00:11:29": "colados e sentidos e necessitados de uma indivídua essencial.",
+    "00:12:38,00:12:48": "do mundo, que além de eliminar a violência, reconhecer essa pobreza, essa oposição,",
+    "00:12:59,00:13:06": "O presidente teve muito e muito no Brasil para decidir em uma reunião de líderes de",
+    "00:13:06,00:13:13": "como será a comunicação, a prevenção e a reencarnação dos motivos que são existentes",
+    "00:13:15,00:13:21": "A taxa de reencarnação foi distribuída ao longo do século XIX.",
+    "00:15:03,00:15:06": "Boa noite.",
+    "00:15:36,00:15:38": "O que é isso?",
+    "00:15:38,00:15:41": "O que é a palavra de Deus em inglês?",
+    "00:18:18,00:18:18": "Seguindo a dica.",
+    "00:19:11,00:19:12": "O que é isso?",
+    "00:19:44,00:19:45": "O que é isso?",
+    "00:20:40,00:20:42": "aqui é emoção.",
+    "00:22:08,00:22:08": "Obrigado.",
+    "00:22:39,00:22:52": "Depois de três meses de guerra, sábado de ano, o senhor provocar a trégua foi inédito.",
+    "00:22:57,00:23:01": "mas os bastidores autorizados e autorizados em tempo internacional",
+    "00:23:55,00:24:06": "O que eu disse? Eu disse que eu tinha as voltas do sacerdote e que eu tinha a liberação dos filhos e amigas, os amados e o Senhor.",
+    "00:25:18,00:25:18": "O que é isso?",
+    "00:29:19,00:29:29": "para se meter aqui em posição legal e mais primeiros meios para investigar do lado e",
+    "00:30:55,00:30:56": "Bom dia, senhoras e senhores.",
+    "00:32:03,00:32:27": "Eu não sei o que é isso, eu não sei o que é isso, eu não sei o que é isso, eu não",
+    "00:33:52,00:33:53": "O que é isso?",
+    "00:34:22,00:34:32": "E o alto da experiência, além do conhecimento e alergia com Deus, olha as esperanças de",
+    "00:34:47,00:34:49": "e nossa expectativa",
+    "00:34:49,00:34:51": "é que, em quase duas ou três semanas,",
+    "00:36:40,00:36:42": "sobre a condição de risco de morrer.",
+    "00:38:34,00:38:40": "A gente tem experiência, mais de 15 anos de seleção, eu sinto que eu tenho a dúvida",
+    "00:39:39,00:39:42": "O que é que o homem gosta de ser e o que é que o homem gosta de ser?"
+  },
+  "hallucinations_filtered": 262,
+  "explicit_segments": {
+    "00:12:38,00:12:48": "do mundo, que além de eliminar a violência, reconhecer essa pobreza, essa oposição,"
+  },
+  "explicit_count": 1,
+  "words": [
+    {
+      "start": 0.0,
+      "end": 1.7,
+      "text": "Segredadeira",
+      "confidence": 0.175
+    },
+    {
+      "start": 1.7,
+      "end": 2.12,
+      "text": "Madrinha,",
+      "confidence": 0.583
+    },
+    {
+      "start": 2.22,
+      "end": 2.68,
+      "text": "Ministério",
+      "confidence": 0.92
+    },
+    {
+      "start": 2.68,
+      "end": 3.14,
+      "text": "Público,",
+      "confidence": 0.979
+    },
+    {
+      "start": 3.28,
+      "end": 3.78,
+      "text": "Procuradoria",
+      "confidence": 0.496
+    },
+    {
+      "start": 3.78,
+      "end": 4.04,
+      "text": "Geral",
+      "confidence": 0.929
+    },
+    {
+      "start": 4.04,
+      "end": 4.4,
+      "text": "e",
+      "confidence": 0.709
+    },
+    {
+      "start": 4.4,
+      "end": 4.66,
+      "text": "a",
+      "confidence": 0.495
+    },
+    {
+      "start": 4.66,
+      "end": 5.02,
+      "text": "Polícia",
+      "confidence": 0.91
+    },
+    {
+      "start": 5.02,
+      "end": 5.34,
+      "text": "Civil",
+      "confidence": 0.71
+    },
+    {
+      "start": 5.34,
+      "end": 5.6,
+      "text": "e",
+      "confidence": 0.423
+    },
+    {
+      "start": 5.6,
+      "end": 5.92,
+      "text": "a",
+      "confidence": 0.799
+    },
+    {
+      "start": 5.92,
+      "end": 7.06,
+      "text": "Receita",
+      "confidence": 0.45
+    },
+    {
+      "start": 7.06,
+      "end": 7.36,
+      "text": "Federal",
+      "confidence": 0.936
+    },
+    {
+      "start": 7.36,
+      "end": 7.56,
+      "text": "de",
+      "confidence": 0.491
+    },
+    {
+      "start": 7.56,
+      "end": 8.1,
+      "text": "Agência",
+      "confidence": 0.74
+    },
+    {
+      "start": 8.1,
+      "end": 8.42,
+      "text": "Nacional",
+      "confidence": 0.44
+    },
+    {
+      "start": 8.42,
+      "end": 8.74,
+      "text": "do",
+      "confidence": 0.802
+    },
+    {
+      "start": 8.74,
+      "end": 9.16,
+      "text": "Pernambuco",
+      "confidence": 0.624
+    },
+    {
+      "start": 9.16,
+      "end": 9.5,
+      "text": "também",
+      "confidence": 0.654
+    },
+    {
+      "start": 9.5,
+      "end": 10.34,
+      "text": "participaram",
+      "confidence": 0.97
+    },
+    {
+      "start": 10.34,
+      "end": 11.1,
+      "text": "dessa",
+      "confidence": 0.399
+    },
+    {
+      "start": 11.1,
+      "end": 11.42,
+      "text": "vez",
+      "confidence": 0.747
+    },
+    {
+      "start": 11.42,
+      "end": 11.58,
+      "text": "em",
+      "confidence": 0.737
+    },
+    {
+      "start": 11.58,
+      "end": 11.84,
+      "text": "palavra",
+      "confidence": 0.011
+    },
+    {
+      "start": 11.84,
+      "end": 12.1,
+      "text": "de",
+      "confidence": 0.349
+    },
+    {
+      "start": 12.1,
+      "end": 12.48,
+      "text": "conversa",
+      "confidence": 0.091
+    },
+    {
+      "start": 12.48,
+      "end": 12.7,
+      "text": "em",
+      "confidence": 0.031
+    },
+    {
+      "start": 12.7,
+      "end": 13.32,
+      "text": "português",
+      "confidence": 0.133
+    },
+    {
+      "start": 13.32,
+      "end": 13.76,
+      "text": "e,",
+      "confidence": 0.126
+    },
+    {
+      "start": 13.94,
+      "end": 14.0,
+      "text": "em",
+      "confidence": 0.728
+    },
+    {
+      "start": 14.0,
+      "end": 14.6,
+      "text": "agosto",
+      "confidence": 0.937
+    },
+    {
+      "start": 14.6,
+      "end": 14.74,
+      "text": "do",
+      "confidence": 0.901
+    },
+    {
+      "start": 14.74,
+      "end": 15.0,
+      "text": "passado,",
+      "confidence": 0.372
+    },
+    {
+      "start": 15.48,
+      "end": 16.64,
+      "text": "reforçou",
+      "confidence": 0.599
+    },
+    {
+      "start": 16.64,
+      "end": 16.76,
+      "text": "o",
+      "confidence": 0.802
+    },
+    {
+      "start": 16.76,
+      "end": 17.22,
+      "text": "emprego",
+      "confidence": 0.249
+    },
+    {
+      "start": 17.22,
+      "end": 17.84,
+      "text": "realizado",
+      "confidence": 0.971
+    },
+    {
+      "start": 17.84,
+      "end": 18.0,
+      "text": "nos",
+      "confidence": 0.458
+    },
+    {
+      "start": 18.0,
+      "end": 18.48,
+      "text": "árabes",
+      "confidence": 0.411
+    },
+    {
+      "start": 18.48,
+      "end": 18.56,
+      "text": "e",
+      "confidence": 0.744
+    },
+    {
+      "start": 18.56,
+      "end": 18.78,
+      "text": "se",
+      "confidence": 0.814
+    },
+    {
+      "start": 18.78,
+      "end": 19.34,
+      "text": "organizou",
+      "confidence": 0.79
+    },
+    {
+      "start": 19.34,
+      "end": 19.6,
+      "text": "para",
+      "confidence": 0.736
+    },
+    {
+      "start": 19.6,
+      "end": 20.26,
+      "text": "agir",
+      "confidence": 0.902
+    },
+    {
+      "start": 20.26,
+      "end": 20.78,
+      "text": "com",
+      "confidence": 0.766
+    },
+    {
+      "start": 20.78,
+      "end": 21.68,
+      "text": "agilidade",
+      "confidence": 0.814
+    },
+    {
+      "start": 21.68,
+      "end": 22.02,
+      "text": "e",
+      "confidence": 0.719
+    },
+    {
+      "start": 22.02,
+      "end": 22.42,
+      "text": "normal.",
+      "confidence": 0.578
+    },
+    {
+      "start": 36.22,
+      "end": 36.82,
+      "text": "mesmo",
+      "confidence": 0.204
+    },
+    {
+      "start": 36.82,
+      "end": 37.78,
+      "text": "sabendo",
+      "confidence": 0.963
+    },
+    {
+      "start": 37.78,
+      "end": 37.92,
+      "text": "que",
+      "confidence": 0.32
+    },
+    {
+      "start": 37.92,
+      "end": 38.22,
+      "text": "estava",
+      "confidence": 0.567
+    },
+    {
+      "start": 38.22,
+      "end": 38.4,
+      "text": "com",
+      "confidence": 0.32
+    },
+    {
+      "start": 38.4,
+      "end": 38.56,
+      "text": "a",
+      "confidence": 0.243
+    },
+    {
+      "start": 38.56,
+      "end": 39.1,
+      "text": "identificação",
+      "confidence": 0.089
+    },
+    {
+      "start": 51.02,
+      "end": 52.48,
+      "text": "Segundo",
+      "confidence": 0.633
+    },
+    {
+      "start": 52.48,
+      "end": 52.62,
+      "text": "os",
+      "confidence": 0.631
+    },
+    {
+      "start": 52.62,
+      "end": 53.16,
+      "text": "indicadores,",
+      "confidence": 0.622
+    },
+    {
+      "start": 53.28,
+      "end": 53.42,
+      "text": "o",
+      "confidence": 0.844
+    },
+    {
+      "start": 53.42,
+      "end": 53.66,
+      "text": "dinheiro",
+      "confidence": 0.968
+    },
+    {
+      "start": 53.66,
+      "end": 53.92,
+      "text": "de",
+      "confidence": 0.926
+    },
+    {
+      "start": 53.92,
+      "end": 54.38,
+      "text": "impostos",
+      "confidence": 0.199
+    },
+    {
+      "start": 54.38,
+      "end": 54.5,
+      "text": "de",
+      "confidence": 0.818
+    },
+    {
+      "start": 54.5,
+      "end": 55.2,
+      "text": "combustíveis",
+      "confidence": 0.996
+    },
+    {
+      "start": 55.2,
+      "end": 56.06,
+      "text": "controlados",
+      "confidence": 0.888
+    },
+    {
+      "start": 56.06,
+      "end": 56.46,
+      "text": "pelos",
+      "confidence": 0.695
+    },
+    {
+      "start": 56.46,
+      "end": 57.22,
+      "text": "indivíduos",
+      "confidence": 0.61
+    },
+    {
+      "start": 113.48,
+      "end": 113.94,
+      "text": "Olha,",
+      "confidence": 0.092
+    },
+    {
+      "start": 114.0,
+      "end": 114.5,
+      "text": "obrigada",
+      "confidence": 0.784
+    },
+    {
+      "start": 114.5,
+      "end": 114.66,
+      "text": "pela",
+      "confidence": 0.373
+    },
+    {
+      "start": 114.66,
+      "end": 115.44,
+      "text": "investigação",
+      "confidence": 0.83
+    },
+    {
+      "start": 115.44,
+      "end": 116.06,
+      "text": "e",
+      "confidence": 0.854
+    },
+    {
+      "start": 116.06,
+      "end": 116.32,
+      "text": "a",
+      "confidence": 0.908
+    },
+    {
+      "start": 116.32,
+      "end": 116.7,
+      "text": "luta",
+      "confidence": 0.811
+    },
+    {
+      "start": 116.7,
+      "end": 117.1,
+      "text": "ao",
+      "confidence": 0.567
+    },
+    {
+      "start": 117.1,
+      "end": 117.62,
+      "text": "abrigo",
+      "confidence": 0.633
+    },
+    {
+      "start": 117.62,
+      "end": 117.78,
+      "text": "das",
+      "confidence": 0.767
+    },
+    {
+      "start": 117.78,
+      "end": 118.2,
+      "text": "pessoas",
+      "confidence": 0.114
+    },
+    {
+      "start": 118.2,
+      "end": 118.42,
+      "text": "de",
+      "confidence": 0.255
+    },
+    {
+      "start": 118.42,
+      "end": 118.72,
+      "text": "outros,",
+      "confidence": 0.234
+    },
+    {
+      "start": 118.82,
+      "end": 119.18,
+      "text": "por",
+      "confidence": 0.286
+    },
+    {
+      "start": 119.18,
+      "end": 119.5,
+      "text": "a",
+      "confidence": 0.778
+    },
+    {
+      "start": 119.5,
+      "end": 120.04,
+      "text": "chamada",
+      "confidence": 0.989
+    },
+    {
+      "start": 120.04,
+      "end": 120.58,
+      "text": "Águia",
+      "confidence": 0.549
+    },
+    {
+      "start": 120.58,
+      "end": 120.7,
+      "text": "de",
+      "confidence": 0.854
+    },
+    {
+      "start": 120.7,
+      "end": 121.24,
+      "text": "Outros.",
+      "confidence": 0.533
+    },
+    {
+      "start": 138.08,
+      "end": 138.3,
+      "text": "Ainda",
+      "confidence": 0.389
+    },
+    {
+      "start": 138.3,
+      "end": 138.56,
+      "text": "de",
+      "confidence": 0.964
+    },
+    {
+      "start": 138.56,
+      "end": 138.96,
+      "text": "acordo",
+      "confidence": 0.999
+    },
+    {
+      "start": 138.96,
+      "end": 139.14,
+      "text": "com",
+      "confidence": 0.992
+    },
+    {
+      "start": 139.14,
+      "end": 139.24,
+      "text": "a",
+      "confidence": 0.947
+    },
+    {
+      "start": 139.24,
+      "end": 139.82,
+      "text": "investigação,",
+      "confidence": 0.503
+    },
+    {
+      "start": 139.96,
+      "end": 140.24,
+      "text": "o",
+      "confidence": 0.895
+    },
+    {
+      "start": 140.24,
+      "end": 140.6,
+      "text": "produto",
+      "confidence": 0.029
+    },
+    {
+      "start": 140.6,
+      "end": 140.94,
+      "text": "não",
+      "confidence": 0.917
+    },
+    {
+      "start": 140.94,
+      "end": 141.58,
+      "text": "operava",
+      "confidence": 0.256
+    },
+    {
+      "start": 141.58,
+      "end": 142.0,
+      "text": "apenas",
+      "confidence": 0.329
+    },
+    {
+      "start": 142.0,
+      "end": 142.22,
+      "text": "no",
+      "confidence": 0.339
+    },
+    {
+      "start": 142.22,
+      "end": 142.7,
+      "text": "setor",
+      "confidence": 0.383
+    },
+    {
+      "start": 142.7,
+      "end": 143.16,
+      "text": "financeiro.",
+      "confidence": 0.223
+    },
+    {
+      "start": 250.87,
+      "end": 254.83,
+      "text": "A",
+      "confidence": 0.122
+    },
+    {
+      "start": 257.27,
+      "end": 259.11,
+      "text": "decisão",
+      "confidence": 0.408
+    },
+    {
+      "start": 259.11,
+      "end": 259.27,
+      "text": "foi",
+      "confidence": 0.983
+    },
+    {
+      "start": 259.27,
+      "end": 259.93,
+      "text": "revogada",
+      "confidence": 0.423
+    },
+    {
+      "start": 259.93,
+      "end": 260.29,
+      "text": "hoje",
+      "confidence": 0.039
+    },
+    {
+      "start": 260.29,
+      "end": 260.47,
+      "text": "em",
+      "confidence": 0.664
+    },
+    {
+      "start": 260.47,
+      "end": 260.75,
+      "text": "dia",
+      "confidence": 0.36
+    },
+    {
+      "start": 260.75,
+      "end": 260.83,
+      "text": "pelo",
+      "confidence": 0.549
+    },
+    {
+      "start": 260.83,
+      "end": 261.13,
+      "text": "Ministro",
+      "confidence": 0.065
+    },
+    {
+      "start": 261.13,
+      "end": 261.35,
+      "text": "do",
+      "confidence": 0.948
+    },
+    {
+      "start": 261.35,
+      "end": 261.69,
+      "text": "Supremo",
+      "confidence": 0.986
+    },
+    {
+      "start": 261.69,
+      "end": 262.11,
+      "text": "Tribunal",
+      "confidence": 0.959
+    },
+    {
+      "start": 262.11,
+      "end": 262.51,
+      "text": "Federal",
+      "confidence": 0.859
+    },
+    {
+      "start": 262.51,
+      "end": 262.73,
+      "text": "de",
+      "confidence": 0.157
+    },
+    {
+      "start": 262.73,
+      "end": 263.35,
+      "text": "Justiça",
+      "confidence": 0.52
+    },
+    {
+      "start": 263.35,
+      "end": 263.69,
+      "text": "e",
+      "confidence": 0.342
+    },
+    {
+      "start": 374.07,
+      "end": 374.29,
+      "text": "Obrigado.",
+      "confidence": 0.616
+    },
+    {
+      "start": 466.33,
+      "end": 466.35,
+      "text": "Eu",
+      "confidence": 0.022
+    },
+    {
+      "start": 466.35,
+      "end": 466.45,
+      "text": "não",
+      "confidence": 0.148
+    },
+    {
+      "start": 466.45,
+      "end": 466.67,
+      "text": "sei",
+      "confidence": 0.191
+    },
+    {
+      "start": 466.67,
+      "end": 466.69,
+      "text": "o",
+      "confidence": 0.209
+    },
+    {
+      "start": 466.69,
+      "end": 466.71,
+      "text": "que",
+      "confidence": 0.881
+    },
+    {
+      "start": 466.71,
+      "end": 466.87,
+      "text": "eu",
+      "confidence": 0.132
+    },
+    {
+      "start": 466.87,
+      "end": 466.89,
+      "text": "estou",
+      "confidence": 0.395
+    },
+    {
+      "start": 466.89,
+      "end": 466.97,
+      "text": "fazendo,",
+      "confidence": 0.268
+    },
+    {
+      "start": 466.97,
+      "end": 466.99,
+      "text": "mas",
+      "confidence": 0.613
+    },
+    {
+      "start": 466.99,
+      "end": 467.07,
+      "text": "eu",
+      "confidence": 0.519
+    },
+    {
+      "start": 467.07,
+      "end": 467.09,
+      "text": "não",
+      "confidence": 0.175
+    },
+    {
+      "start": 467.09,
+      "end": 467.11,
+      "text": "sei",
+      "confidence": 0.741
+    },
+    {
+      "start": 467.11,
+      "end": 467.13,
+      "text": "o",
+      "confidence": 0.691
+    },
+    {
+      "start": 467.13,
+      "end": 467.15,
+      "text": "que",
+      "confidence": 0.988
+    },
+    {
+      "start": 467.15,
+      "end": 467.17,
+      "text": "eu",
+      "confidence": 0.818
+    },
+    {
+      "start": 467.17,
+      "end": 467.19,
+      "text": "estou",
+      "confidence": 0.945
+    },
+    {
+      "start": 467.19,
+      "end": 467.21,
+      "text": "fazendo.",
+      "confidence": 0.907
+    },
+    {
+      "start": 542.3,
+      "end": 542.52,
+      "text": "O",
+      "confidence": 0.051
+    },
+    {
+      "start": 542.52,
+      "end": 542.92,
+      "text": "que",
+      "confidence": 0.565
+    },
+    {
+      "start": 542.92,
+      "end": 543.02,
+      "text": "é",
+      "confidence": 0.643
+    },
+    {
+      "start": 543.02,
+      "end": 543.22,
+      "text": "isso?",
+      "confidence": 0.883
+    },
+    {
+      "start": 602.96,
+      "end": 604.0,
+      "text": "Sexto.",
+      "confidence": 0.318
+    },
+    {
+      "start": 632.82,
+      "end": 633.46,
+      "text": "Em",
+      "confidence": 0.093
+    },
+    {
+      "start": 633.46,
+      "end": 635.12,
+      "text": "471",
+      "confidence": 0.944
+    },
+    {
+      "start": 635.12,
+      "end": 635.4,
+      "text": "a",
+      "confidence": 0.386
+    },
+    {
+      "start": 635.4,
+      "end": 635.92,
+      "text": "29",
+      "confidence": 0.029
+    },
+    {
+      "start": 635.92,
+      "end": 636.4,
+      "text": "de",
+      "confidence": 0.932
+    },
+    {
+      "start": 636.4,
+      "end": 636.96,
+      "text": "novembro,",
+      "confidence": 0.529
+    },
+    {
+      "start": 649.54,
+      "end": 650.2,
+      "text": "Um",
+      "confidence": 0.004
+    },
+    {
+      "start": 650.2,
+      "end": 650.64,
+      "text": "ano",
+      "confidence": 0.731
+    },
+    {
+      "start": 650.64,
+      "end": 650.9,
+      "text": "depois,",
+      "confidence": 0.859
+    },
+    {
+      "start": 651.2,
+      "end": 651.56,
+      "text": "nova",
+      "confidence": 0.628
+    },
+    {
+      "start": 651.56,
+      "end": 652.1,
+      "text": "redução",
+      "confidence": 0.923
+    },
+    {
+      "start": 652.1,
+      "end": 652.26,
+      "text": "de",
+      "confidence": 0.769
+    },
+    {
+      "start": 652.26,
+      "end": 652.44,
+      "text": "duas",
+      "confidence": 0.862
+    },
+    {
+      "start": 652.44,
+      "end": 652.78,
+      "text": "horas.",
+      "confidence": 0.835
+    },
+    {
+      "start": 665.02,
+      "end": 665.5,
+      "text": "Na",
+      "confidence": 0.044
+    },
+    {
+      "start": 665.5,
+      "end": 665.8,
+      "text": "rede",
+      "confidence": 0.918
+    },
+    {
+      "start": 665.8,
+      "end": 666.24,
+      "text": "social,",
+      "confidence": 0.749
+    },
+    {
+      "start": 666.42,
+      "end": 666.62,
+      "text": "o",
+      "confidence": 0.204
+    },
+    {
+      "start": 666.62,
+      "end": 666.86,
+      "text": "presidente",
+      "confidence": 0.772
+    },
+    {
+      "start": 666.86,
+      "end": 667.36,
+      "text": "Lula",
+      "confidence": 0.906
+    },
+    {
+      "start": 667.36,
+      "end": 667.68,
+      "text": "disse",
+      "confidence": 0.618
+    },
+    {
+      "start": 667.68,
+      "end": 667.88,
+      "text": "que",
+      "confidence": 0.948
+    },
+    {
+      "start": 667.88,
+      "end": 667.98,
+      "text": "a",
+      "confidence": 0.836
+    },
+    {
+      "start": 667.98,
+      "end": 668.58,
+      "text": "aprovação",
+      "confidence": 0.322
+    },
+    {
+      "start": 668.58,
+      "end": 668.74,
+      "text": "do",
+      "confidence": 0.502
+    },
+    {
+      "start": 668.74,
+      "end": 669.26,
+      "text": "Ministério",
+      "confidence": 0.221
+    },
+    {
+      "start": 669.26,
+      "end": 669.54,
+      "text": "da",
+      "confidence": 0.152
+    },
+    {
+      "start": 669.54,
+      "end": 670.54,
+      "text": "Agricultura",
+      "confidence": 0.222
+    },
+    {
+      "start": 673.1,
+      "end": 673.62,
+      "text": "A",
+      "confidence": 0.822
+    },
+    {
+      "start": 673.62,
+      "end": 674.32,
+      "text": "Confederação",
+      "confidence": 0.778
+    },
+    {
+      "start": 674.32,
+      "end": 674.62,
+      "text": "Nacional",
+      "confidence": 0.996
+    },
+    {
+      "start": 674.62,
+      "end": 674.86,
+      "text": "do",
+      "confidence": 0.936
+    },
+    {
+      "start": 674.86,
+      "end": 675.34,
+      "text": "Comércio,",
+      "confidence": 0.21
+    },
+    {
+      "start": 675.52,
+      "end": 675.84,
+      "text": "Bens,",
+      "confidence": 0.107
+    },
+    {
+      "start": 675.86,
+      "end": 676.46,
+      "text": "Serviços",
+      "confidence": 0.943
+    },
+    {
+      "start": 676.46,
+      "end": 676.58,
+      "text": "e",
+      "confidence": 0.717
+    },
+    {
+      "start": 676.58,
+      "end": 677.0,
+      "text": "Turismo",
+      "confidence": 0.88
+    },
+    {
+      "start": 685.5,
+      "end": 686.4,
+      "text": "colados",
+      "confidence": 0.021
+    },
+    {
+      "start": 686.4,
+      "end": 686.52,
+      "text": "e",
+      "confidence": 0.35
+    },
+    {
+      "start": 686.52,
+      "end": 687.16,
+      "text": "sentidos",
+      "confidence": 0.903
+    },
+    {
+      "start": 687.16,
+      "end": 687.38,
+      "text": "e",
+      "confidence": 0.235
+    },
+    {
+      "start": 687.38,
+      "end": 688.36,
+      "text": "necessitados",
+      "confidence": 0.865
+    },
+    {
+      "start": 688.36,
+      "end": 688.62,
+      "text": "de",
+      "confidence": 0.761
+    },
+    {
+      "start": 688.62,
+      "end": 688.72,
+      "text": "uma",
+      "confidence": 0.52
+    },
+    {
+      "start": 688.72,
+      "end": 689.38,
+      "text": "indivídua",
+      "confidence": 0.494
+    },
+    {
+      "start": 689.38,
+      "end": 689.78,
+      "text": "essencial.",
+      "confidence": 0.375
+    },
+    {
+      "start": 758.26,
+      "end": 758.48,
+      "text": "do",
+      "confidence": 0.01
+    },
+    {
+      "start": 758.48,
+      "end": 758.8,
+      "text": "mundo,",
+      "confidence": 0.549
+    },
+    {
+      "start": 759.72,
+      "end": 759.82,
+      "text": "que",
+      "confidence": 0.592
+    },
+    {
+      "start": 759.82,
+      "end": 760.08,
+      "text": "além",
+      "confidence": 0.945
+    },
+    {
+      "start": 760.08,
+      "end": 760.44,
+      "text": "de",
+      "confidence": 0.873
+    },
+    {
+      "start": 760.44,
+      "end": 761.16,
+      "text": "eliminar",
+      "confidence": 0.107
+    },
+    {
+      "start": 761.16,
+      "end": 761.26,
+      "text": "a",
+      "confidence": 0.249
+    },
+    {
+      "start": 761.26,
+      "end": 763.24,
+      "text": "violência,",
+      "confidence": 0.387
+    },
+    {
+      "start": 763.74,
+      "end": 766.28,
+      "text": "reconhecer",
+      "confidence": 0.331
+    },
+    {
+      "start": 766.28,
+      "end": 766.46,
+      "text": "essa",
+      "confidence": 0.918
+    },
+    {
+      "start": 766.46,
+      "end": 767.12,
+      "text": "pobreza,",
+      "confidence": 0.35
+    },
+    {
+      "start": 767.34,
+      "end": 767.84,
+      "text": "essa",
+      "confidence": 0.907
+    },
+    {
+      "start": 767.84,
+      "end": 768.78,
+      "text": "oposição,",
+      "confidence": 0.268
+    },
+    {
+      "start": 779.75,
+      "end": 780.99,
+      "text": "O",
+      "confidence": 0.124
+    },
+    {
+      "start": 780.99,
+      "end": 781.45,
+      "text": "presidente",
+      "confidence": 0.923
+    },
+    {
+      "start": 781.45,
+      "end": 782.03,
+      "text": "teve",
+      "confidence": 0.001
+    },
+    {
+      "start": 782.03,
+      "end": 782.43,
+      "text": "muito",
+      "confidence": 0.662
+    },
+    {
+      "start": 782.43,
+      "end": 782.57,
+      "text": "e",
+      "confidence": 0.068
+    },
+    {
+      "start": 782.57,
+      "end": 782.89,
+      "text": "muito",
+      "confidence": 0.989
+    },
+    {
+      "start": 782.89,
+      "end": 783.07,
+      "text": "no",
+      "confidence": 0.485
+    },
+    {
+      "start": 783.07,
+      "end": 783.45,
+      "text": "Brasil",
+      "confidence": 0.999
+    },
+    {
+      "start": 783.45,
+      "end": 783.99,
+      "text": "para",
+      "confidence": 0.45
+    },
+    {
+      "start": 783.99,
+      "end": 784.77,
+      "text": "decidir",
+      "confidence": 0.776
+    },
+    {
+      "start": 784.77,
+      "end": 784.87,
+      "text": "em",
+      "confidence": 0.065
+    },
+    {
+      "start": 784.87,
+      "end": 785.01,
+      "text": "uma",
+      "confidence": 0.86
+    },
+    {
+      "start": 785.01,
+      "end": 785.49,
+      "text": "reunião",
+      "confidence": 0.995
+    },
+    {
+      "start": 785.49,
+      "end": 785.59,
+      "text": "de",
+      "confidence": 0.996
+    },
+    {
+      "start": 785.59,
+      "end": 786.11,
+      "text": "líderes",
+      "confidence": 0.978
+    },
+    {
+      "start": 786.11,
+      "end": 786.21,
+      "text": "de",
+      "confidence": 0.653
+    },
+    {
+      "start": 786.21,
+      "end": 786.95,
+      "text": "como",
+      "confidence": 0.023
+    },
+    {
+      "start": 786.95,
+      "end": 787.59,
+      "text": "será",
+      "confidence": 0.972
+    },
+    {
+      "start": 787.59,
+      "end": 787.71,
+      "text": "a",
+      "confidence": 0.899
+    },
+    {
+      "start": 787.71,
+      "end": 788.45,
+      "text": "comunicação,",
+      "confidence": 0.498
+    },
+    {
+      "start": 788.65,
+      "end": 789.03,
+      "text": "a",
+      "confidence": 0.561
+    },
+    {
+      "start": 789.03,
+      "end": 789.77,
+      "text": "prevenção",
+      "confidence": 0.218
+    },
+    {
+      "start": 789.77,
+      "end": 790.01,
+      "text": "e",
+      "confidence": 0.297
+    },
+    {
+      "start": 790.01,
+      "end": 790.21,
+      "text": "a",
+      "confidence": 0.806
+    },
+    {
+      "start": 790.21,
+      "end": 791.41,
+      "text": "reencarnação",
+      "confidence": 0.763
+    },
+    {
+      "start": 791.41,
+      "end": 791.55,
+      "text": "dos",
+      "confidence": 0.114
+    },
+    {
+      "start": 791.55,
+      "end": 792.29,
+      "text": "motivos",
+      "confidence": 0.449
+    },
+    {
+      "start": 792.29,
+      "end": 792.39,
+      "text": "que",
+      "confidence": 0.191
+    },
+    {
+      "start": 792.39,
+      "end": 792.67,
+      "text": "são",
+      "confidence": 0.693
+    },
+    {
+      "start": 792.67,
+      "end": 793.39,
+      "text": "existentes",
+      "confidence": 0.17
+    },
+    {
+      "start": 795.75,
+      "end": 797.15,
+      "text": "A",
+      "confidence": 0.111
+    },
+    {
+      "start": 797.61,
+      "end": 798.17,
+      "text": "taxa",
+      "confidence": 0.132
+    },
+    {
+      "start": 798.17,
+      "end": 798.39,
+      "text": "de",
+      "confidence": 0.982
+    },
+    {
+      "start": 798.39,
+      "end": 799.35,
+      "text": "reencarnação",
+      "confidence": 0.196
+    },
+    {
+      "start": 799.35,
+      "end": 799.49,
+      "text": "foi",
+      "confidence": 0.293
+    },
+    {
+      "start": 799.49,
+      "end": 800.45,
+      "text": "distribuída",
+      "confidence": 0.615
+    },
+    {
+      "start": 800.45,
+      "end": 800.71,
+      "text": "ao",
+      "confidence": 0.271
+    },
+    {
+      "start": 800.71,
+      "end": 800.87,
+      "text": "longo",
+      "confidence": 0.09
+    },
+    {
+      "start": 800.87,
+      "end": 800.95,
+      "text": "do",
+      "confidence": 0.763
+    },
+    {
+      "start": 800.95,
+      "end": 801.39,
+      "text": "século",
+      "confidence": 0.679
+    },
+    {
+      "start": 801.39,
+      "end": 801.83,
+      "text": "XIX.",
+      "confidence": 0.445
+    },
+    {
+      "start": 903.64,
+      "end": 906.32,
+      "text": "Boa",
+      "confidence": 0.105
+    },
+    {
+      "start": 906.32,
+      "end": 906.34,
+      "text": "noite.",
+      "confidence": 0.885
+    },
+    {
+      "start": 936.02,
+      "end": 936.12,
+      "text": "O",
+      "confidence": 0.044
+    },
+    {
+      "start": 936.12,
+      "end": 936.14,
+      "text": "que",
+      "confidence": 0.5
+    },
+    {
+      "start": 936.14,
+      "end": 936.26,
+      "text": "é",
+      "confidence": 0.575
+    },
+    {
+      "start": 936.26,
+      "end": 938.1,
+      "text": "isso?",
+      "confidence": 0.836
+    },
+    {
+      "start": 938.12,
+      "end": 938.8,
+      "text": "O",
+      "confidence": 0.05
+    },
+    {
+      "start": 938.8,
+      "end": 938.96,
+      "text": "que",
+      "confidence": 0.228
+    },
+    {
+      "start": 938.96,
+      "end": 939.12,
+      "text": "é",
+      "confidence": 0.668
+    },
+    {
+      "start": 939.12,
+      "end": 939.32,
+      "text": "a",
+      "confidence": 0.561
+    },
+    {
+      "start": 939.32,
+      "end": 939.72,
+      "text": "palavra",
+      "confidence": 0.096
+    },
+    {
+      "start": 939.72,
+      "end": 940.0,
+      "text": "de",
+      "confidence": 0.367
+    },
+    {
+      "start": 940.0,
+      "end": 940.26,
+      "text": "Deus",
+      "confidence": 0.881
+    },
+    {
+      "start": 940.26,
+      "end": 940.54,
+      "text": "em",
+      "confidence": 0.279
+    },
+    {
+      "start": 940.54,
+      "end": 941.04,
+      "text": "inglês?",
+      "confidence": 0.425
+    },
+    {
+      "start": 1098.18,
+      "end": 1098.2,
+      "text": "Seguindo",
+      "confidence": 0.224
+    },
+    {
+      "start": 1098.2,
+      "end": 1098.22,
+      "text": "a",
+      "confidence": 0.615
+    },
+    {
+      "start": 1098.22,
+      "end": 1098.24,
+      "text": "dica.",
+      "confidence": 0.383
+    },
+    {
+      "start": 1151.3,
+      "end": 1151.36,
+      "text": "O",
+      "confidence": 0.035
+    },
+    {
+      "start": 1151.36,
+      "end": 1151.56,
+      "text": "que",
+      "confidence": 0.311
+    },
+    {
+      "start": 1151.56,
+      "end": 1151.86,
+      "text": "é",
+      "confidence": 0.579
+    },
+    {
+      "start": 1151.86,
+      "end": 1152.06,
+      "text": "isso?",
+      "confidence": 0.696
+    },
+    {
+      "start": 1184.6,
+      "end": 1184.66,
+      "text": "O",
+      "confidence": 0.054
+    },
+    {
+      "start": 1184.66,
+      "end": 1185.08,
+      "text": "que",
+      "confidence": 0.69
+    },
+    {
+      "start": 1185.08,
+      "end": 1185.26,
+      "text": "é",
+      "confidence": 0.521
+    },
+    {
+      "start": 1185.26,
+      "end": 1185.28,
+      "text": "isso?",
+      "confidence": 0.722
+    },
+    {
+      "start": 1240.92,
+      "end": 1241.44,
+      "text": "aqui",
+      "confidence": 0.274
+    },
+    {
+      "start": 1241.44,
+      "end": 1242.06,
+      "text": "é",
+      "confidence": 0.959
+    },
+    {
+      "start": 1242.06,
+      "end": 1242.9,
+      "text": "emoção.",
+      "confidence": 0.488
+    },
+    {
+      "start": 1328.4,
+      "end": 1328.42,
+      "text": "Obrigado.",
+      "confidence": 0.389
+    },
+    {
+      "start": 1359.82,
+      "end": 1365.04,
+      "text": "Depois",
+      "confidence": 0.265
+    },
+    {
+      "start": 1365.04,
+      "end": 1365.8,
+      "text": "de",
+      "confidence": 0.988
+    },
+    {
+      "start": 1365.8,
+      "end": 1366.2,
+      "text": "três",
+      "confidence": 0.885
+    },
+    {
+      "start": 1366.2,
+      "end": 1366.8,
+      "text": "meses",
+      "confidence": 0.996
+    },
+    {
+      "start": 1366.8,
+      "end": 1367.02,
+      "text": "de",
+      "confidence": 0.969
+    },
+    {
+      "start": 1367.02,
+      "end": 1367.48,
+      "text": "guerra,",
+      "confidence": 0.891
+    },
+    {
+      "start": 1367.72,
+      "end": 1368.72,
+      "text": "sábado",
+      "confidence": 0.056
+    },
+    {
+      "start": 1368.72,
+      "end": 1368.82,
+      "text": "de",
+      "confidence": 0.071
+    },
+    {
+      "start": 1368.82,
+      "end": 1369.24,
+      "text": "ano,",
+      "confidence": 0.339
+    },
+    {
+      "start": 1369.3,
+      "end": 1369.56,
+      "text": "o",
+      "confidence": 0.384
+    },
+    {
+      "start": 1369.56,
+      "end": 1369.8,
+      "text": "senhor",
+      "confidence": 0.723
+    },
+    {
+      "start": 1369.8,
+      "end": 1370.56,
+      "text": "provocar",
+      "confidence": 0.221
+    },
+    {
+      "start": 1370.56,
+      "end": 1370.58,
+      "text": "a",
+      "confidence": 0.498
+    },
+    {
+      "start": 1370.58,
+      "end": 1371.18,
+      "text": "trégua",
+      "confidence": 0.335
+    },
+    {
+      "start": 1371.18,
+      "end": 1371.56,
+      "text": "foi",
+      "confidence": 0.617
+    },
+    {
+      "start": 1371.56,
+      "end": 1372.3,
+      "text": "inédito.",
+      "confidence": 0.664
+    },
+    {
+      "start": 1377.04,
+      "end": 1377.68,
+      "text": "mas",
+      "confidence": 0.243
+    },
+    {
+      "start": 1377.68,
+      "end": 1377.94,
+      "text": "os",
+      "confidence": 0.843
+    },
+    {
+      "start": 1377.94,
+      "end": 1378.7,
+      "text": "bastidores",
+      "confidence": 0.31
+    },
+    {
+      "start": 1378.7,
+      "end": 1379.98,
+      "text": "autorizados",
+      "confidence": 0.41
+    },
+    {
+      "start": 1379.98,
+      "end": 1380.12,
+      "text": "e",
+      "confidence": 0.469
+    },
+    {
+      "start": 1380.12,
+      "end": 1380.7,
+      "text": "autorizados",
+      "confidence": 0.78
+    },
+    {
+      "start": 1380.7,
+      "end": 1380.96,
+      "text": "em",
+      "confidence": 0.206
+    },
+    {
+      "start": 1380.96,
+      "end": 1381.32,
+      "text": "tempo",
+      "confidence": 0.258
+    },
+    {
+      "start": 1381.32,
+      "end": 1381.84,
+      "text": "internacional",
+      "confidence": 0.993
+    },
+    {
+      "start": 1435.82,
+      "end": 1436.44,
+      "text": "O",
+      "confidence": 0.025
+    },
+    {
+      "start": 1436.44,
+      "end": 1436.88,
+      "text": "que",
+      "confidence": 0.37
+    },
+    {
+      "start": 1436.88,
+      "end": 1437.12,
+      "text": "eu",
+      "confidence": 0.124
+    },
+    {
+      "start": 1437.12,
+      "end": 1437.58,
+      "text": "disse?",
+      "confidence": 0.392
+    },
+    {
+      "start": 1437.88,
+      "end": 1438.32,
+      "text": "Eu",
+      "confidence": 0.655
+    },
+    {
+      "start": 1438.32,
+      "end": 1438.78,
+      "text": "disse",
+      "confidence": 0.824
+    },
+    {
+      "start": 1438.78,
+      "end": 1439.14,
+      "text": "que",
+      "confidence": 0.757
+    },
+    {
+      "start": 1439.14,
+      "end": 1439.22,
+      "text": "eu",
+      "confidence": 0.85
+    },
+    {
+      "start": 1439.22,
+      "end": 1439.58,
+      "text": "tinha",
+      "confidence": 0.321
+    },
+    {
+      "start": 1439.58,
+      "end": 1439.82,
+      "text": "as",
+      "confidence": 0.015
+    },
+    {
+      "start": 1439.82,
+      "end": 1440.58,
+      "text": "voltas",
+      "confidence": 0.603
+    },
+    {
+      "start": 1440.58,
+      "end": 1440.7,
+      "text": "do",
+      "confidence": 0.508
+    },
+    {
+      "start": 1440.7,
+      "end": 1441.64,
+      "text": "sacerdote",
+      "confidence": 0.452
+    },
+    {
+      "start": 1441.64,
+      "end": 1441.98,
+      "text": "e",
+      "confidence": 0.528
+    },
+    {
+      "start": 1441.98,
+      "end": 1442.22,
+      "text": "que",
+      "confidence": 0.65
+    },
+    {
+      "start": 1442.22,
+      "end": 1442.38,
+      "text": "eu",
+      "confidence": 0.393
+    },
+    {
+      "start": 1442.38,
+      "end": 1442.64,
+      "text": "tinha",
+      "confidence": 0.599
+    },
+    {
+      "start": 1442.64,
+      "end": 1442.98,
+      "text": "a",
+      "confidence": 0.721
+    },
+    {
+      "start": 1442.98,
+      "end": 1443.7,
+      "text": "liberação",
+      "confidence": 0.966
+    },
+    {
+      "start": 1443.7,
+      "end": 1444.0,
+      "text": "dos",
+      "confidence": 0.584
+    },
+    {
+      "start": 1444.0,
+      "end": 1444.38,
+      "text": "filhos",
+      "confidence": 0.259
+    },
+    {
+      "start": 1444.38,
+      "end": 1444.54,
+      "text": "e",
+      "confidence": 0.226
+    },
+    {
+      "start": 1444.54,
+      "end": 1445.1,
+      "text": "amigas,",
+      "confidence": 0.654
+    },
+    {
+      "start": 1445.12,
+      "end": 1445.54,
+      "text": "os",
+      "confidence": 0.699
+    },
+    {
+      "start": 1445.54,
+      "end": 1446.16,
+      "text": "amados",
+      "confidence": 0.121
+    },
+    {
+      "start": 1446.16,
+      "end": 1446.34,
+      "text": "e",
+      "confidence": 0.801
+    },
+    {
+      "start": 1446.34,
+      "end": 1446.54,
+      "text": "o",
+      "confidence": 0.234
+    },
+    {
+      "start": 1446.54,
+      "end": 1446.82,
+      "text": "Senhor.",
+      "confidence": 0.759
+    },
+    {
+      "start": 1518.26,
+      "end": 1518.28,
+      "text": "O",
+      "confidence": 0.035
+    },
+    {
+      "start": 1518.28,
+      "end": 1518.3,
+      "text": "que",
+      "confidence": 0.31
+    },
+    {
+      "start": 1518.3,
+      "end": 1518.32,
+      "text": "é",
+      "confidence": 0.571
+    },
+    {
+      "start": 1518.32,
+      "end": 1518.34,
+      "text": "isso?",
+      "confidence": 0.736
+    },
+    {
+      "start": 1759.06,
+      "end": 1759.46,
+      "text": "para",
+      "confidence": 0.023
+    },
+    {
+      "start": 1759.46,
+      "end": 1759.88,
+      "text": "se",
+      "confidence": 0.449
+    },
+    {
+      "start": 1759.88,
+      "end": 1760.24,
+      "text": "meter",
+      "confidence": 0.426
+    },
+    {
+      "start": 1760.24,
+      "end": 1760.58,
+      "text": "aqui",
+      "confidence": 0.972
+    },
+    {
+      "start": 1760.58,
+      "end": 1760.74,
+      "text": "em",
+      "confidence": 0.539
+    },
+    {
+      "start": 1760.74,
+      "end": 1761.16,
+      "text": "posição",
+      "confidence": 0.742
+    },
+    {
+      "start": 1761.16,
+      "end": 1761.68,
+      "text": "legal",
+      "confidence": 0.742
+    },
+    {
+      "start": 1761.68,
+      "end": 1762.18,
+      "text": "e",
+      "confidence": 0.225
+    },
+    {
+      "start": 1762.18,
+      "end": 1763.38,
+      "text": "mais",
+      "confidence": 0.811
+    },
+    {
+      "start": 1765.55,
+      "end": 1766.25,
+      "text": "primeiros",
+      "confidence": 0.205
+    },
+    {
+      "start": 1766.25,
+      "end": 1766.89,
+      "text": "meios",
+      "confidence": 0.367
+    },
+    {
+      "start": 1766.89,
+      "end": 1767.61,
+      "text": "para",
+      "confidence": 0.944
+    },
+    {
+      "start": 1767.61,
+      "end": 1768.53,
+      "text": "investigar",
+      "confidence": 0.98
+    },
+    {
+      "start": 1768.53,
+      "end": 1768.67,
+      "text": "do",
+      "confidence": 0.817
+    },
+    {
+      "start": 1768.67,
+      "end": 1769.07,
+      "text": "lado",
+      "confidence": 0.995
+    },
+    {
+      "start": 1769.07,
+      "end": 1769.23,
+      "text": "e",
+      "confidence": 0.528
+    },
+    {
+      "start": 1855.64,
+      "end": 1855.78,
+      "text": "Bom",
+      "confidence": 0.014
+    },
+    {
+      "start": 1855.78,
+      "end": 1855.8,
+      "text": "dia,",
+      "confidence": 0.631
+    },
+    {
+      "start": 1855.8,
+      "end": 1855.82,
+      "text": "senhoras",
+      "confidence": 0.239
+    },
+    {
+      "start": 1855.82,
+      "end": 1855.84,
+      "text": "e",
+      "confidence": 0.986
+    },
+    {
+      "start": 1855.84,
+      "end": 1856.12,
+      "text": "senhores.",
+      "confidence": 0.861
+    },
+    {
+      "start": 1923.0,
+      "end": 1923.7,
+      "text": "Eu",
+      "confidence": 0.016
+    },
+    {
+      "start": 1923.7,
+      "end": 1924.44,
+      "text": "não",
+      "confidence": 0.171
+    },
+    {
+      "start": 1924.44,
+      "end": 1929.06,
+      "text": "sei",
+      "confidence": 0.558
+    },
+    {
+      "start": 1929.06,
+      "end": 1930.26,
+      "text": "o",
+      "confidence": 0.178
+    },
+    {
+      "start": 1930.26,
+      "end": 1930.4,
+      "text": "que",
+      "confidence": 0.791
+    },
+    {
+      "start": 1931.28,
+      "end": 1932.4,
+      "text": "é",
+      "confidence": 0.347
+    },
+    {
+      "start": 1932.4,
+      "end": 1932.62,
+      "text": "isso,",
+      "confidence": 0.224
+    },
+    {
+      "start": 1932.82,
+      "end": 1933.14,
+      "text": "eu",
+      "confidence": 0.185
+    },
+    {
+      "start": 1933.14,
+      "end": 1933.22,
+      "text": "não",
+      "confidence": 0.619
+    },
+    {
+      "start": 1933.22,
+      "end": 1933.46,
+      "text": "sei",
+      "confidence": 0.902
+    },
+    {
+      "start": 1933.46,
+      "end": 1933.48,
+      "text": "o",
+      "confidence": 0.55
+    },
+    {
+      "start": 1933.48,
+      "end": 1933.5,
+      "text": "que",
+      "confidence": 0.964
+    },
+    {
+      "start": 1933.5,
+      "end": 1933.56,
+      "text": "é",
+      "confidence": 0.944
+    },
+    {
+      "start": 1933.56,
+      "end": 1933.86,
+      "text": "isso,",
+      "confidence": 0.405
+    },
+    {
+      "start": 1933.98,
+      "end": 1934.26,
+      "text": "eu",
+      "confidence": 0.763
+    },
+    {
+      "start": 1934.26,
+      "end": 1935.14,
+      "text": "não",
+      "confidence": 0.947
+    },
+    {
+      "start": 1935.14,
+      "end": 1939.52,
+      "text": "sei",
+      "confidence": 0.976
+    },
+    {
+      "start": 1939.52,
+      "end": 1940.02,
+      "text": "o",
+      "confidence": 0.907
+    },
+    {
+      "start": 1940.02,
+      "end": 1940.14,
+      "text": "que",
+      "confidence": 0.982
+    },
+    {
+      "start": 1940.14,
+      "end": 1940.38,
+      "text": "é",
+      "confidence": 0.989
+    },
+    {
+      "start": 1940.38,
+      "end": 1942.38,
+      "text": "isso,",
+      "confidence": 0.613
+    },
+    {
+      "start": 1944.37,
+      "end": 1945.59,
+      "text": "eu",
+      "confidence": 0.85
+    },
+    {
+      "start": 1946.67,
+      "end": 1947.07,
+      "text": "não",
+      "confidence": 0.681
+    },
+    {
+      "start": 2032.65,
+      "end": 2032.67,
+      "text": "O",
+      "confidence": 0.057
+    },
+    {
+      "start": 2032.67,
+      "end": 2032.89,
+      "text": "que",
+      "confidence": 0.493
+    },
+    {
+      "start": 2032.89,
+      "end": 2033.17,
+      "text": "é",
+      "confidence": 0.536
+    },
+    {
+      "start": 2033.17,
+      "end": 2033.59,
+      "text": "isso?",
+      "confidence": 0.714
+    },
+    {
+      "start": 2062.97,
+      "end": 2062.99,
+      "text": "E",
+      "confidence": 0.02
+    },
+    {
+      "start": 2062.99,
+      "end": 2063.01,
+      "text": "o",
+      "confidence": 0.284
+    },
+    {
+      "start": 2063.01,
+      "end": 2063.03,
+      "text": "alto",
+      "confidence": 0.3
+    },
+    {
+      "start": 2063.03,
+      "end": 2064.66,
+      "text": "da",
+      "confidence": 0.939
+    },
+    {
+      "start": 2066.92,
+      "end": 2067.32,
+      "text": "experiência,",
+      "confidence": 0.675
+    },
+    {
+      "start": 2067.46,
+      "end": 2068.08,
+      "text": "além",
+      "confidence": 0.544
+    },
+    {
+      "start": 2068.08,
+      "end": 2068.28,
+      "text": "do",
+      "confidence": 0.861
+    },
+    {
+      "start": 2068.28,
+      "end": 2068.88,
+      "text": "conhecimento",
+      "confidence": 0.836
+    },
+    {
+      "start": 2068.88,
+      "end": 2068.98,
+      "text": "e",
+      "confidence": 0.304
+    },
+    {
+      "start": 2068.98,
+      "end": 2069.72,
+      "text": "alergia",
+      "confidence": 0.372
+    },
+    {
+      "start": 2069.72,
+      "end": 2069.92,
+      "text": "com",
+      "confidence": 0.252
+    },
+    {
+      "start": 2069.92,
+      "end": 2070.14,
+      "text": "Deus,",
+      "confidence": 0.747
+    },
+    {
+      "start": 2070.32,
+      "end": 2071.34,
+      "text": "olha",
+      "confidence": 0.074
+    },
+    {
+      "start": 2071.34,
+      "end": 2071.52,
+      "text": "as",
+      "confidence": 0.795
+    },
+    {
+      "start": 2071.52,
+      "end": 2071.96,
+      "text": "esperanças",
+      "confidence": 0.978
+    },
+    {
+      "start": 2071.96,
+      "end": 2072.06,
+      "text": "de",
+      "confidence": 0.455
+    },
+    {
+      "start": 2087.44,
+      "end": 2088.0,
+      "text": "e",
+      "confidence": 0.153
+    },
+    {
+      "start": 2088.0,
+      "end": 2088.5,
+      "text": "nossa",
+      "confidence": 0.557
+    },
+    {
+      "start": 2088.5,
+      "end": 2089.42,
+      "text": "expectativa",
+      "confidence": 0.949
+    },
+    {
+      "start": 2089.42,
+      "end": 2090.0,
+      "text": "é",
+      "confidence": 0.442
+    },
+    {
+      "start": 2090.0,
+      "end": 2090.18,
+      "text": "que,",
+      "confidence": 0.175
+    },
+    {
+      "start": 2090.28,
+      "end": 2090.42,
+      "text": "em",
+      "confidence": 0.591
+    },
+    {
+      "start": 2090.42,
+      "end": 2090.7,
+      "text": "quase",
+      "confidence": 0.052
+    },
+    {
+      "start": 2090.7,
+      "end": 2091.04,
+      "text": "duas",
+      "confidence": 0.568
+    },
+    {
+      "start": 2091.04,
+      "end": 2091.24,
+      "text": "ou",
+      "confidence": 0.196
+    },
+    {
+      "start": 2091.24,
+      "end": 2091.44,
+      "text": "três",
+      "confidence": 0.999
+    },
+    {
+      "start": 2091.44,
+      "end": 2091.84,
+      "text": "semanas,",
+      "confidence": 0.871
+    },
+    {
+      "start": 2200.66,
+      "end": 2200.88,
+      "text": "sobre",
+      "confidence": 0.01
+    },
+    {
+      "start": 2200.88,
+      "end": 2201.1,
+      "text": "a",
+      "confidence": 0.954
+    },
+    {
+      "start": 2201.1,
+      "end": 2201.52,
+      "text": "condição",
+      "confidence": 0.575
+    },
+    {
+      "start": 2201.52,
+      "end": 2201.76,
+      "text": "de",
+      "confidence": 0.424
+    },
+    {
+      "start": 2201.76,
+      "end": 2202.08,
+      "text": "risco",
+      "confidence": 0.183
+    },
+    {
+      "start": 2202.08,
+      "end": 2202.2,
+      "text": "de",
+      "confidence": 0.121
+    },
+    {
+      "start": 2202.2,
+      "end": 2202.5,
+      "text": "morrer.",
+      "confidence": 0.893
+    },
+    {
+      "start": 2314.26,
+      "end": 2314.28,
+      "text": "A",
+      "confidence": 0.034
+    },
+    {
+      "start": 2314.28,
+      "end": 2314.3,
+      "text": "gente",
+      "confidence": 0.117
+    },
+    {
+      "start": 2314.3,
+      "end": 2314.48,
+      "text": "tem",
+      "confidence": 0.306
+    },
+    {
+      "start": 2314.48,
+      "end": 2316.36,
+      "text": "experiência,",
+      "confidence": 0.391
+    },
+    {
+      "start": 2316.76,
+      "end": 2317.0,
+      "text": "mais",
+      "confidence": 0.231
+    },
+    {
+      "start": 2317.0,
+      "end": 2317.24,
+      "text": "de",
+      "confidence": 0.934
+    },
+    {
+      "start": 2317.24,
+      "end": 2317.58,
+      "text": "15",
+      "confidence": 0.909
+    },
+    {
+      "start": 2317.58,
+      "end": 2317.9,
+      "text": "anos",
+      "confidence": 0.999
+    },
+    {
+      "start": 2317.9,
+      "end": 2318.02,
+      "text": "de",
+      "confidence": 0.75
+    },
+    {
+      "start": 2318.02,
+      "end": 2318.58,
+      "text": "seleção,",
+      "confidence": 0.636
+    },
+    {
+      "start": 2318.76,
+      "end": 2319.32,
+      "text": "eu",
+      "confidence": 0.886
+    },
+    {
+      "start": 2319.32,
+      "end": 2319.64,
+      "text": "sinto",
+      "confidence": 0.593
+    },
+    {
+      "start": 2319.64,
+      "end": 2319.7,
+      "text": "que",
+      "confidence": 0.275
+    },
+    {
+      "start": 2319.7,
+      "end": 2319.92,
+      "text": "eu",
+      "confidence": 0.347
+    },
+    {
+      "start": 2319.92,
+      "end": 2320.0,
+      "text": "tenho",
+      "confidence": 0.136
+    },
+    {
+      "start": 2320.0,
+      "end": 2320.24,
+      "text": "a",
+      "confidence": 0.656
+    },
+    {
+      "start": 2320.24,
+      "end": 2320.48,
+      "text": "dúvida",
+      "confidence": 0.736
+    },
+    {
+      "start": 2379.86,
+      "end": 2380.5,
+      "text": "O",
+      "confidence": 0.02
+    },
+    {
+      "start": 2380.5,
+      "end": 2381.66,
+      "text": "que",
+      "confidence": 0.384
+    },
+    {
+      "start": 2381.66,
+      "end": 2381.78,
+      "text": "é",
+      "confidence": 0.428
+    },
+    {
+      "start": 2381.78,
+      "end": 2381.86,
+      "text": "que",
+      "confidence": 0.478
+    },
+    {
+      "start": 2381.86,
+      "end": 2381.88,
+      "text": "o",
+      "confidence": 0.073
+    },
+    {
+      "start": 2381.88,
+      "end": 2381.9,
+      "text": "homem",
+      "confidence": 0.93
+    },
+    {
+      "start": 2381.9,
+      "end": 2381.92,
+      "text": "gosta",
+      "confidence": 0.703
+    },
+    {
+      "start": 2381.92,
+      "end": 2381.94,
+      "text": "de",
+      "confidence": 0.789
+    },
+    {
+      "start": 2381.94,
+      "end": 2382.12,
+      "text": "ser",
+      "confidence": 0.105
+    },
+    {
+      "start": 2382.12,
+      "end": 2382.14,
+      "text": "e",
+      "confidence": 0.055
+    },
+    {
+      "start": 2382.14,
+      "end": 2382.16,
+      "text": "o",
+      "confidence": 0.34
+    },
+    {
+      "start": 2382.16,
+      "end": 2382.32,
+      "text": "que",
+      "confidence": 0.541
+    },
+    {
+      "start": 2382.32,
+      "end": 2382.62,
+      "text": "é",
+      "confidence": 0.753
+    },
+    {
+      "start": 2382.62,
+      "end": 2382.74,
+      "text": "que",
+      "confidence": 0.984
+    },
+    {
+      "start": 2382.74,
+      "end": 2382.76,
+      "text": "o",
+      "confidence": 0.261
+    },
+    {
+      "start": 2382.76,
+      "end": 2382.78,
+      "text": "homem",
+      "confidence": 0.934
+    },
+    {
+      "start": 2382.78,
+      "end": 2382.8,
+      "text": "gosta",
+      "confidence": 0.908
+    },
+    {
+      "start": 2382.8,
+      "end": 2382.82,
+      "text": "de",
+      "confidence": 0.967
+    },
+    {
+      "start": 2382.82,
+      "end": 2382.84,
+      "text": "ser?",
+      "confidence": 0.709
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "source_file": "VOR20260519171807_whisper_vad_demucs_vocals.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:42:37,00:42:38": "Atenção!"
+  },
+  "words": [
+    {
+      "start": 2557.44,
+      "end": 2558.56,
+      "text": "Atenção!"
+    }
+  ]
+}

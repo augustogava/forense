@@ -1,0 +1,15 @@
+{
+  "source_file": "VOR20260603190347_whisper_vad.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:00,00:00:00": "Sim."
+  },
+  "words": [
+    {
+      "start": 0.42,
+      "end": 0.76,
+      "text": "Sim."
+    }
+  ]
+}

@@ -1,0 +1,464 @@
+{
+  "source_file": "VOR20260529033939_whisper_vad_ai_enhanced_boosted.mp3",
+  "language": "pt",
+  "model": "large-v3",
+  "segments": {
+    "00:00:04,00:00:05": "Aum!",
+    "00:05:26,00:05:27": "Atenção!",
+    "00:05:41,00:05:42": ".",
+    "00:07:57,00:07:57": ".",
+    "00:08:50,00:08:51": "Atenção!",
+    "00:09:19,00:09:20": "Valeu, gente.",
+    "00:12:08,00:12:09": "Atenção!",
+    "00:13:16,00:13:16": "Atenção!",
+    "00:18:09,00:18:10": "Obrigado.",
+    "00:18:57,00:18:58": "Seja a sua vontade.",
+    "00:19:06,00:19:06": "Não há dúvida.",
+    "00:20:40,00:20:40": ".",
+    "00:21:25,00:21:30": "Agradecimentos a todos os que participaram no evento.",
+    "00:22:03,00:22:04": "Atenção!",
+    "00:22:59,00:22:59": ".",
+    "00:25:12,00:25:13": "O que mais?",
+    "00:26:32,00:26:32": "Atenção!",
+    "00:26:34,00:26:34": "Obrigado.",
+    "00:26:48,00:26:48": ".",
+    "00:28:42,00:28:43": "Atenção!",
+    "00:29:24,00:29:25": "Sim!",
+    "00:30:04,00:30:05": ".",
+    "00:31:35,00:31:36": "Atenção!",
+    "00:36:59,00:36:59": "Atenção!",
+    "00:38:18,00:38:18": ".",
+    "00:39:02,00:39:02": "Atenção!",
+    "00:39:22,00:39:23": "Não há dúvida.",
+    "00:39:56,00:39:56": "Não.",
+    "00:41:17,00:41:17": "Hum?",
+    "00:43:06,00:43:07": "Obrigado.",
+    "00:46:25,00:46:26": "Atenção!",
+    "00:47:04,00:47:05": "Obrigado.",
+    "00:48:19,00:48:23": "E aí",
+    "00:48:29,00:48:29": "Muito obrigado.",
+    "00:54:25,00:54:25": ".",
+    "00:55:03,00:55:04": "Agradecimentos a todos os participantes.",
+    "00:55:08,00:55:13": "Eu vou falar pra mim de um boi, um gulho, boleto, canela.",
+    "00:55:42,00:55:44": "Não, não se esqueça.",
+    "00:55:44,00:55:45": "Não se esqueça.",
+    "00:56:50,00:56:51": "Agradecimentos a todos os participantes."
+  },
+  "words": [
+    {
+      "start": 4.9,
+      "end": 5.24,
+      "text": "Aum!"
+    },
+    {
+      "start": 326.02,
+      "end": 327.08,
+      "text": "Atenção!"
+    },
+    {
+      "start": 341.99,
+      "end": 342.21,
+      "text": "."
+    },
+    {
+      "start": 477.06,
+      "end": 477.46,
+      "text": "."
+    },
+    {
+      "start": 530.91,
+      "end": 531.63,
+      "text": "Atenção!"
+    },
+    {
+      "start": 559.94,
+      "end": 560.24,
+      "text": "Valeu,"
+    },
+    {
+      "start": 560.24,
+      "end": 560.42,
+      "text": "gente."
+    },
+    {
+      "start": 728.93,
+      "end": 729.93,
+      "text": "Atenção!"
+    },
+    {
+      "start": 796.7,
+      "end": 797.4,
+      "text": "Atenção!"
+    },
+    {
+      "start": 1089.55,
+      "end": 1090.03,
+      "text": "Obrigado."
+    },
+    {
+      "start": 1137.73,
+      "end": 1138.11,
+      "text": "Seja"
+    },
+    {
+      "start": 1138.11,
+      "end": 1138.29,
+      "text": "a"
+    },
+    {
+      "start": 1138.29,
+      "end": 1138.41,
+      "text": "sua"
+    },
+    {
+      "start": 1138.41,
+      "end": 1138.85,
+      "text": "vontade."
+    },
+    {
+      "start": 1146.5,
+      "end": 1146.66,
+      "text": "Não"
+    },
+    {
+      "start": 1146.66,
+      "end": 1146.68,
+      "text": "há"
+    },
+    {
+      "start": 1146.68,
+      "end": 1146.94,
+      "text": "dúvida."
+    },
+    {
+      "start": 1240.77,
+      "end": 1240.87,
+      "text": "."
+    },
+    {
+      "start": 1285.57,
+      "end": 1287.03,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 1287.03,
+      "end": 1287.25,
+      "text": "a"
+    },
+    {
+      "start": 1287.25,
+      "end": 1287.61,
+      "text": "todos"
+    },
+    {
+      "start": 1287.61,
+      "end": 1287.87,
+      "text": "os"
+    },
+    {
+      "start": 1287.87,
+      "end": 1289.09,
+      "text": "que"
+    },
+    {
+      "start": 1289.09,
+      "end": 1289.89,
+      "text": "participaram"
+    },
+    {
+      "start": 1289.89,
+      "end": 1289.89,
+      "text": "no"
+    },
+    {
+      "start": 1289.89,
+      "end": 1290.33,
+      "text": "evento."
+    },
+    {
+      "start": 1323.06,
+      "end": 1324.46,
+      "text": "Atenção!"
+    },
+    {
+      "start": 1379.01,
+      "end": 1379.39,
+      "text": "."
+    },
+    {
+      "start": 1512.77,
+      "end": 1512.91,
+      "text": "O"
+    },
+    {
+      "start": 1512.91,
+      "end": 1513.15,
+      "text": "que"
+    },
+    {
+      "start": 1513.15,
+      "end": 1513.53,
+      "text": "mais?"
+    },
+    {
+      "start": 1592.32,
+      "end": 1592.54,
+      "text": "Atenção!"
+    },
+    {
+      "start": 1594.59,
+      "end": 1594.99,
+      "text": "Obrigado."
+    },
+    {
+      "start": 1608.67,
+      "end": 1608.87,
+      "text": "."
+    },
+    {
+      "start": 1722.66,
+      "end": 1723.84,
+      "text": "Atenção!"
+    },
+    {
+      "start": 1764.55,
+      "end": 1765.05,
+      "text": "Sim!"
+    },
+    {
+      "start": 1804.8,
+      "end": 1805.14,
+      "text": "."
+    },
+    {
+      "start": 1895.36,
+      "end": 1896.14,
+      "text": "Atenção!"
+    },
+    {
+      "start": 2219.07,
+      "end": 2219.45,
+      "text": "Atenção!"
+    },
+    {
+      "start": 2298.18,
+      "end": 2298.66,
+      "text": "."
+    },
+    {
+      "start": 2342.82,
+      "end": 2342.9,
+      "text": "Atenção!"
+    },
+    {
+      "start": 2362.85,
+      "end": 2363.05,
+      "text": "Não"
+    },
+    {
+      "start": 2363.05,
+      "end": 2363.05,
+      "text": "há"
+    },
+    {
+      "start": 2363.05,
+      "end": 2363.21,
+      "text": "dúvida."
+    },
+    {
+      "start": 2396.35,
+      "end": 2396.97,
+      "text": "Não."
+    },
+    {
+      "start": 2477.41,
+      "end": 2477.63,
+      "text": "Hum?"
+    },
+    {
+      "start": 2586.89,
+      "end": 2587.89,
+      "text": "Obrigado."
+    },
+    {
+      "start": 2785.95,
+      "end": 2786.37,
+      "text": "Atenção!"
+    },
+    {
+      "start": 2824.71,
+      "end": 2825.07,
+      "text": "Obrigado."
+    },
+    {
+      "start": 2899.47,
+      "end": 2900.03,
+      "text": "E"
+    },
+    {
+      "start": 2900.03,
+      "end": 2903.39,
+      "text": "aí"
+    },
+    {
+      "start": 2909.25,
+      "end": 2909.39,
+      "text": "Muito"
+    },
+    {
+      "start": 2909.39,
+      "end": 2909.55,
+      "text": "obrigado."
+    },
+    {
+      "start": 3265.22,
+      "end": 3265.46,
+      "text": "."
+    },
+    {
+      "start": 3303.2,
+      "end": 3303.74,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 3303.74,
+      "end": 3304.16,
+      "text": "a"
+    },
+    {
+      "start": 3304.16,
+      "end": 3304.36,
+      "text": "todos"
+    },
+    {
+      "start": 3304.36,
+      "end": 3304.44,
+      "text": "os"
+    },
+    {
+      "start": 3304.44,
+      "end": 3304.5,
+      "text": "participantes."
+    },
+    {
+      "start": 3308.51,
+      "end": 3308.63,
+      "text": "Eu"
+    },
+    {
+      "start": 3308.63,
+      "end": 3308.63,
+      "text": "vou"
+    },
+    {
+      "start": 3308.63,
+      "end": 3308.81,
+      "text": "falar"
+    },
+    {
+      "start": 3308.81,
+      "end": 3309.17,
+      "text": "pra"
+    },
+    {
+      "start": 3309.17,
+      "end": 3309.39,
+      "text": "mim"
+    },
+    {
+      "start": 3309.39,
+      "end": 3309.55,
+      "text": "de"
+    },
+    {
+      "start": 3309.55,
+      "end": 3309.71,
+      "text": "um"
+    },
+    {
+      "start": 3309.71,
+      "end": 3310.19,
+      "text": "boi,"
+    },
+    {
+      "start": 3310.19,
+      "end": 3310.45,
+      "text": "um"
+    },
+    {
+      "start": 3310.45,
+      "end": 3310.95,
+      "text": "gulho,"
+    },
+    {
+      "start": 3310.95,
+      "end": 3312.53,
+      "text": "boleto,"
+    },
+    {
+      "start": 3312.65,
+      "end": 3313.19,
+      "text": "canela."
+    },
+    {
+      "start": 3342.51,
+      "end": 3342.63,
+      "text": "Não,"
+    },
+    {
+      "start": 3342.93,
+      "end": 3343.31,
+      "text": "não"
+    },
+    {
+      "start": 3343.31,
+      "end": 3343.45,
+      "text": "se"
+    },
+    {
+      "start": 3343.45,
+      "end": 3344.07,
+      "text": "esqueça."
+    },
+    {
+      "start": 3344.41,
+      "end": 3344.89,
+      "text": "Não"
+    },
+    {
+      "start": 3344.89,
+      "end": 3345.17,
+      "text": "se"
+    },
+    {
+      "start": 3345.17,
+      "end": 3345.59,
+      "text": "esqueça."
+    },
+    {
+      "start": 3410.69,
+      "end": 3410.95,
+      "text": "Agradecimentos"
+    },
+    {
+      "start": 3410.95,
+      "end": 3410.95,
+      "text": "a"
+    },
+    {
+      "start": 3410.95,
+      "end": 3410.95,
+      "text": "todos"
+    },
+    {
+      "start": 3410.95,
+      "end": 3410.95,
+      "text": "os"
+    },
+    {
+      "start": 3410.95,
+      "end": 3411.27,
+      "text": "participantes."
+    }
+  ]
+}
