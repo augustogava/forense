@@ -370,7 +370,10 @@ python forensic_audio_ai.py -i "audio_processed/REC20260504235953_whisper_vad.mp
 
 
 
-python forensic_audio_processor.py -i "to_analyse/Banho0705.m4a" -o "audio_processed/"
+python forensic_audio_processor.py -i "to_analyse/"
+python forensic_audio_processor_v2.py -i "to_analyse" -o "audio_processed/" --no-demucs --no-ai-enhance
+
+
 
 
 
@@ -397,6 +400,13 @@ python forensic_audio_transcriber.py -i "to_ia_processed/" -m large-v3 --word-ti
 
 python forensic_audio_processor.py -i "to_analyse/"
 python forensic_audio_processor_v2.py -i "to_analyse/" -o "audio_processed/" --validate --validate-whisper
+
+python forensic_audio_processor_v2.py -i "to_analyse" -o "to_ia/" --validate --validate-whisper --vad-threshold 0.2
+python forensic_audio_processor_v2.py -i "to_analyse/VOR20260617002733.WAV" -o "to_ia/" --no-ai-enhance --validate --vad-threshold 0.2
+python forensic_audio_processor_v2.py -i "to_analyse/VOR20260617002733.WAV" -o "to_ia/" --no-demucs --no-ai-enhance --validate
+
+python forensic_audio_processor_v2.py -i "to_analyse" -o "audio_processed/" --no-demucs --no-ai-enhance
+
 
 python forensic_audio_ai.py -i "to_ia/" -o "to_ia_processed/"
 python forensic_audio_transcriber.py -i "to_transcript/
