@@ -293,8 +293,8 @@ class ForensicAudioProcessorV3:
         y = self._boost_quiet_segments_vad(y, sr, vad_mask, max_gain=10.0)
 
         y = self._dynamic_compress(y, sr)
-        y = self._speech_agc(y, sr, vad_mask, target_db=-18.0, max_gain=self.max_gain)
         y = self._speech_loudness_norm(y, sr, vad_mask, target_db=self.target_db)
+        y = self._speech_agc(y, sr, vad_mask, target_db=self.target_db - 4.0, max_gain=self.max_gain)
         y = self._peak_limit(y)
         return y
 
